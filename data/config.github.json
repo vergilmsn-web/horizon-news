@@ -2,14 +2,14 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "agnes-2.0-flash",
-    "base_url": "https://apihub.agnes-ai.com/v1",
-    "api_key_env": "OPENAI_API_KEY",
+    "model": "MiniMax-M3",
+    "base_url": "https://api.minimax.io/v1",
+    "api_key_env": "MINIMAX_API_KEY",
     "temperature": 0.3,
     "max_tokens": 4096,
     "throttle_sec": 0,
-    "analysis_concurrency": 1,
-    "enrichment_concurrency": 2,
+    "analysis_concurrency": 5,
+    "enrichment_concurrency": 5,
     "languages": [
       "zh",
       "en"
