@@ -2,9 +2,9 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    # GitHub scheduled workflows use UTC. '0 10,22 * * *' = 10:00 + 22:00 UTC
-    # = 18:00 + 06:00 Asia/Shanghai (early run offsets observed schedule delay).
-    - cron: '0 10,22 * * *'
+    # GitHub scheduled workflows use UTC. '0 1 * * *' = 01:00 UTC = 09:00 Asia/Shanghai.
+    # Single daily run (Agnes 53min x 30 days = 1,590 min/month, under 2,000 free quota).
+    - cron: '0 1 * * *'
   workflow_dispatch:      # Allow manual trigger
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
         env:
           # Map secrets to environment variables expected by config.json
           # Modify these based on your data/config.github.json provider settings
-          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           LWN_KEY: ${{ secrets.LWN_KEY }}
