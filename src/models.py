@@ -35,7 +35,8 @@ class ContentItem(BaseModel):
     metadata: Dict[str, Any] = Field(default_factory=dict)
 
     # AI analysis results
-    ai_score: Optional[float] = None  # 0-10 importance score
+    ai_score: Optional[float] = None  # 0-10 importance score (post-boost)
+    original_score: Optional[float] = None  # Raw AI score before category boost
     ai_reason: Optional[str] = None
     ai_summary: Optional[str] = None
     ai_tags: List[str] = Field(default_factory=list)
@@ -419,6 +420,9 @@ class FilteringConfig(BaseModel):
     category_groups: Dict[str, CategoryGroupConfig] = Field(default_factory=dict)
     default_group: str = "other"
     default_group_limit: Optional[int] = Field(default=None, gt=0)
+    # Post-AI score boost per source category. Maps RSS category → additive
+    # score boost (capped at 10.0 total). Empty dict disables boosting.
+    category_boost: Dict[str, float] = Field(default_factory=dict)
 
 
 class Config(BaseModel):

@@ -1,114 +1,173 @@
 {
   "version": "1.0",
   "ai": {
-    "provider": "deepseek",
-    "model": "deepseek-v4-flash",
-    "base_url": "https://api.deepseek.com",
-    "api_key_env": "DEEPSEEK_API_KEY",
+    "provider": "openai",
+    "model": "agnes-2.0-flash",
+    "base_url": "https://apihub.agnes-ai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
-    "max_tokens": 8192,
-    "throttle_sec": 1,
+    "max_tokens": 4096,
+    "throttle_sec": 0,
+    "analysis_concurrency": 1,
+    "enrichment_concurrency": 2,
     "languages": [
       "zh",
       "en"
-    ],
-    "analysis_concurrency": 5,
-    "enrichment_concurrency": 5
+    ]
   },
   "sources": {
     "github": [
       {
-        "type": "user_events",
-        "username": "karpathy",
-        "enabled": true
-      },
-      {
         "type": "repo_releases",
-        "owner": "vllm-project",
-        "repo": "vllm",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "sgl-project",
-        "repo": "sglang",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "triton-lang",
-        "repo": "triton",
+        "owner": "Panniantong",
+        "repo": "Agent-Reach",
         "enabled": true
       }
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 150
+      "fetch_top_stories": 20,
+      "min_score": 100
     },
     "rss": [
       {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
+        "name": "DRAMeXchange (TrendForce)",
+        "url": "https://www.dramexchange.com/rss.xml",
         "enabled": true,
-        "category": "ai-tools"
+        "category": "semiconductor"
       },
       {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "name": "TechPowerUp News",
+        "url": "https://www.techpowerup.com/rss/news",
         "enabled": true,
-        "category": "github-trending"
+        "category": "hardware"
       },
       {
-        "name": "Semianalysis",
-        "url": "https://newsletter.semianalysis.com/feed",
+        "name": "36氪",
+        "url": "https://36kr.com/feed",
         "enabled": true,
-        "category": "semiconductors"
+        "category": "tech-cn"
       },
       {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
+        "name": "虎嗅",
+        "url": "https://www.huxiu.com/rss/0.xml",
+        "enabled": false,
+        "category": "tech-cn"
+      },
+      {
+        "name": "少数派",
+        "url": "https://sspai.com/feed",
         "enabled": true,
-        "category": "linux-kernel"
+        "category": "tech-cn"
+      },
+      {
+        "name": "Solidot",
+        "url": "https://solidot.org/index.rss",
+        "enabled": true,
+        "category": "tech-cn"
+      },
+      {
+        "name": "PingWest",
+        "url": "https://www.pingwest.com/feed",
+        "enabled": false,
+        "category": "tech-cn"
+      },
+      {
+        "name": "SemiWiki",
+        "url": "https://semiwiki.com/feed/",
+        "enabled": true,
+        "category": "semiconductor"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/feeds/all",
+        "enabled": true,
+        "category": "hardware"
+      },
+      {
+        "name": "EE Times",
+        "url": "https://www.eetimes.com/feed/",
+        "enabled": true,
+        "category": "semiconductor"
+      },
+      {
+        "name": "ServeTheHome",
+        "url": "https://www.servethehome.com/feed/",
+        "enabled": true,
+        "category": "hardware"
+      },
+      {
+        "name": "Electronics Weekly",
+        "url": "https://www.electronicsweekly.com/feed/",
+        "enabled": true,
+        "category": "semiconductor"
       }
     ],
     "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60
-        },
-        {
-          "subreddit": "LocalLLaMA",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60
-        }
-      ],
+      "enabled": false,
+      "subreddits": [],
       "users": [],
-      "fetch_comments": 10
+      "fetch_comments": 5
     },
-    "telegram": {
-      "enabled": true,
-      "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20
-        }
-      ]
+    "twitter": {
+      "enabled": false,
+      "users": [],
+      "fetch_limit": 10,
+      "fetch_reply_text": false,
+      "max_replies_per_tweet": 3,
+      "max_tweets_to_expand": 10,
+      "reply_min_likes": 5
+    },
+    "openbb": {
+      "enabled": false,
+      "fetch_filings": false,
+      "filings_provider": "sec",
+      "watchlists": []
+    },
+    "ossinsight": {
+      "enabled": false,
+      "period": "past_24_hours",
+      "languages": [
+        "All",
+        "Python",
+        "TypeScript"
+      ],
+      "keywords": [],
+      "min_stars": 10,
+      "max_items": 30
+    },
+    "gdelt": {
+      "enabled": false,
+      "query": "(technology OR tech OR 科技 OR startup OR innovation OR AI OR 人工智能 OR semiconductor OR 半导体 OR cloud OR 云计算 OR software OR cybersecurity OR robotics OR quantum)",
+      "mode": "ArtList",
+      "max_records": 30,
+      "timespan": "24h",
+      "language": null,
+      "country": null,
+      "category": "tech-general"
+    },
+    "google_news": {
+      "enabled": false,
+      "query": "artificial intelligence",
+      "language": "en",
+      "country": "US",
+      "ceid": null,
+      "max_results": 100,
+      "category": "news"
     }
   },
   "filtering": {
-    "ai_score_threshold": 8.0,
-    "time_window_hours": 24
+    "ai_score_threshold": 5.5,
+    "time_window_hours": 24,
+    "max_items": 20,
+    "category_groups": {},
+    "default_group": "other",
+    "default_group_limit": null,
+    "category_boost": {
+      "semiconductor": 1.0,
+      "hardware": 0.5,
+      "tech-cn": 0.3
+    }
   },
   "webhook": {
     "enabled": true,
@@ -146,5 +205,16 @@
       }
     },
     "headers": ""
+  },
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 465,
+    "imap_server": "imap.qq.com",
+    "imap_port": 993,
+    "email_address": "xxx@qq.com",
+    "sender_name": "Horizon Daily",
+    "subscribe_keyword": "SUBSCRIBE",
+    "unsubscribe_keyword": "UNSUBSCRIBE"
   }
 }

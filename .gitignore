@@ -62,3 +62,5 @@ logs/*.log
 todo.txt
 .ruff_cache
 .pytest_cache
+# Local deploy state (not for fork)
+HORIZON-DEPLOY-STATE-*.md

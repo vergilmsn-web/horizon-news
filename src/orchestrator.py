@@ -107,6 +107,22 @@ class HorizonOrchestrator:
 
             # 5. Filter by score threshold
             threshold = self.config.filtering.ai_score_threshold
+            category_boost = self.config.filtering.category_boost
+
+            # Apply category boost post-processing (boosts raw ai_score for
+            # items whose source category is in the boost map). Boosted
+            # score is stored in ai_score; original_score keeps the raw value.
+            boosted_count = 0
+            for item in analyzed_items:
+                if item.ai_score is None:
+                    continue
+                cat = (item.metadata or {}).get("category")
+                boost = category_boost.get(cat, 0.0) if cat else 0.0
+                if boost:
+                    item.original_score = item.ai_score
+                    item.ai_score = min(10.0, item.ai_score + boost)
+                    boosted_count += 1
+
             important_items = [
                 item for item in analyzed_items
                 if item.ai_score and item.ai_score >= threshold
@@ -114,7 +130,8 @@ class HorizonOrchestrator:
             important_items.sort(key=lambda x: x.ai_score or 0, reverse=True)
 
             self.console.print(
-                f"⭐️ {len(important_items)} items scored ≥ {threshold}\n"
+                f"⭐️ {len(important_items)} items scored ≥ {threshold} "
+                f"({boosted_count} boosted by category_boost)\n"
             )
 
             # 5.5 Semantic deduplication: drop items covering the same topic
@@ -146,7 +163,7 @@ class HorizonOrchestrator:
             await self._enrich_important_items(important_items)
 
             # 7. Generate and save daily summaries for each configured language
-            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            today = datetime.now().strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
                 summarizer = DailySummarizer()
                 summary = await summarizer.generate_summary(important_items, today, len(all_items), language=lang)
@@ -230,7 +247,7 @@ class HorizonOrchestrator:
             # Send webhook failure notification if configured
             if self.webhook_notifier:
                 await self.webhook_notifier.send_failure(
-                    date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    date=datetime.now().strftime("%Y-%m-%d"),
                     error_message=str(e),
                 )
 

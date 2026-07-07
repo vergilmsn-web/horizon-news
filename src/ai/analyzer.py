@@ -5,7 +5,6 @@ import json
 import re
 from typing import List, Optional
 from tenacity import retry, stop_after_attempt, wait_exponential
-from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, MofNCompleteColumn
 
 from .client import AIClient
 from .prompts import CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER
@@ -46,32 +45,24 @@ class ContentAnalyzer:
         concurrency = self._get_concurrency()
         semaphore = asyncio.Semaphore(concurrency)
 
-        async def _process(item: ContentItem, index: int, progress_task) -> ContentItem:
+        async def _process(item: ContentItem, index: int, total: int) -> ContentItem:
             async with semaphore:
                 try:
                     await self._analyze_item(item)
+                    score = item.ai_score if item.ai_score is not None else 0.0
+                    print(f"  [{index + 1}/{total}] {item.id}: score={score:.1f}", flush=True)
                 except Exception as e:
-                    print(f"Error analyzing item {item.id}: {e}")
+                    print(f"  [{index + 1}/{total}] {item.id}: ERROR {e}", flush=True)
                     item.ai_score = 0.0
                     item.ai_reason = "Analysis failed"
                     item.ai_summary = item.title
                 if throttle_sec > 0 and index < len(items) - 1:
                     await asyncio.sleep(throttle_sec)
-            progress.advance(progress_task)
             return item
 
-        with Progress(
-            SpinnerColumn(),
-            TextColumn("[progress.description]{task.description}"),
-            BarColumn(),
-            MofNCompleteColumn(),
-            transient=True,
-        ) as progress:
-            task = progress.add_task("Analyzing", total=len(items))
-            coros = [
-                _process(item, i, task) for i, item in enumerate(items)
-            ]
-            analyzed_items = await asyncio.gather(*coros)
+        total = len(items)
+        coros = [_process(item, i, total) for i, item in enumerate(items)]
+        analyzed_items = await asyncio.gather(*coros)
 
         return analyzed_items
 

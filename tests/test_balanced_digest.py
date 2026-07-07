@@ -188,3 +188,59 @@ def test_run_applies_balanced_digest_before_enrichment(tmp_path, monkeypatch) ->
     asyncio.run(orchestrator.run())
 
     assert enriched_ids == ["ai"]
+
+
+def test_category_boost_increases_score_and_unlocks_threshold() -> None:
+    """category_boost should add to raw ai_score so borderline items pass threshold.
+
+    Original raw score is preserved on item.original_score.
+    """
+    filtering = FilteringConfig(
+        ai_score_threshold=5.5,
+        category_boost={"semiconductor": 1.0, "hardware": 0.5},
+    )
+    items = [
+        # Raw 4.6 + boost 1.0 = 5.6 → passes threshold
+        make_item("semi-borderline", 4.6, "semiconductor"),
+        # Raw 5.0 + boost 0.5 = 5.5 → passes threshold exactly
+        make_item("hw-borderline", 5.0, "hardware"),
+        # Raw 5.4, no boost for "finance" → 5.4, below threshold
+        make_item("finance-stays-out", 5.4, "finance"),
+    ]
+
+    boosted = [item.model_copy() for item in items]  # don't mutate fixtures
+    boosted_count = 0
+    for item in boosted:
+        if item.ai_score is None:
+            continue
+        cat = (item.metadata or {}).get("category")
+        boost = filtering.category_boost.get(cat, 0.0) if cat else 0.0
+        if boost:
+            item.original_score = item.ai_score
+            item.ai_score = min(10.0, item.ai_score + boost)
+            boosted_count += 1
+
+    passing = [it for it in boosted if it.ai_score and it.ai_score >= filtering.ai_score_threshold]
+
+    assert boosted_count == 2
+    assert passing[0].id == "semi-borderline"
+    assert passing[0].ai_score == 5.6
+    assert passing[0].original_score == 4.6
+    assert passing[1].id == "hw-borderline"
+    assert passing[1].ai_score == 5.5
+    assert all(it.id != "finance-stays-out" for it in passing)
+
+
+def test_category_boost_empty_dict_is_noop() -> None:
+    """No category_boost entries → score unchanged, no original_score set."""
+    filtering = FilteringConfig(ai_score_threshold=5.5)
+    items = [make_item("x", 5.4, "semiconductor")]
+    for item in items:
+        if item.ai_score is None:
+            continue
+        cat = (item.metadata or {}).get("category")
+        boost = filtering.category_boost.get(cat, 0.0) if cat else 0.0
+        if boost:
+            item.ai_score = min(10.0, item.ai_score + boost)
+    assert items[0].ai_score == 5.4
+    assert items[0].original_score is None

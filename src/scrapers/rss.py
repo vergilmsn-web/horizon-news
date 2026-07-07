@@ -8,8 +8,10 @@ import re
 from datetime import datetime, timezone
 from typing import List
 from email.utils import parsedate_to_datetime
+from urllib.parse import urljoin
 import httpx
 import feedparser
+from pydantic import HttpUrl
 
 from .base import BaseScraper
 from ..models import ContentItem, SourceType, RSSSourceConfig
@@ -72,14 +74,29 @@ class RSSScraper(BaseScraper):
                 str(source.url),
             )
 
-            # Fetch feed content
-            response = await self.client.get(feed_url, follow_redirects=True)
+            # Fetch feed content with a browser-like User-Agent (some feeds return 403
+# to the httpx default UA, e.g. Electronics Weekly).
+            response = await self.client.get(
+                feed_url,
+                follow_redirects=True,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                                  "Chrome/126.0.0.0 Safari/537.36",
+                },
+            )
             response.raise_for_status()
 
             # Parse feed
             feed = feedparser.parse(response.text)
 
             for entry in feed.entries:
+                # Resolve entry link to absolute URL (some feeds ship relative links)
+                entry_link = entry.get("link", str(source.url))
+                if not entry_link.startswith(("http://", "https://")):
+                    from urllib.parse import urljoin
+                    entry_link = urljoin(str(source.url), entry_link)
+
                 # Parse published date
                 published_at = self._parse_date(entry)
                 if not published_at or published_at < since:
@@ -87,7 +104,7 @@ class RSSScraper(BaseScraper):
 
                 # Generate unique ID from feed URL and entry ID
                 feed_id = str(source.url).split("//")[1].replace("/", "_")
-                entry_id = entry.get("id", entry.get("link", ""))
+                entry_id = entry.get("id", entry_link)
                 entry_hash = hashlib.sha256(str(entry_id).encode("utf-8")).hexdigest()[
                     :16
                 ]
@@ -99,7 +116,7 @@ class RSSScraper(BaseScraper):
                     id=self._generate_id("rss", feed_id, entry_hash),
                     source_type=SourceType.RSS,
                     title=entry.get("title", "Untitled"),
-                    url=entry.get("link", str(source.url)),
+                    url=HttpUrl(entry_link),
                     content=content,
                     author=entry.get("author", source.name),
                     published_at=published_at,
@@ -133,12 +150,18 @@ class RSSScraper(BaseScraper):
                 try:
                     # Try parsing structured time first
                     if f"{field}_parsed" in entry and entry[f"{field}_parsed"]:
-                        return datetime.fromtimestamp(
+                        dt = datetime.fromtimestamp(
                             calendar.timegm(entry[f"{field}_parsed"]), tz=timezone.utc
                         )
-                    # Fallback to string parsing
-                    date_str = entry[field]
-                    return parsedate_to_datetime(date_str)
+                    else:
+                        # Fallback to string parsing
+                        dt = parsedate_to_datetime(entry[field])
+                    # Normalize to UTC-aware (parsedate_to_datetime can return naive or aware)
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    else:
+                        dt = dt.astimezone(timezone.utc)
+                    return dt
                 except Exception:
                     continue
 
