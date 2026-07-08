@@ -2,9 +2,13 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    # GitHub scheduled workflows use UTC. '0 1 * * *' = 01:00 UTC = 09:00 Asia/Shanghai.
-    # Single daily run (Agnes 53min x 30 days = 1,590 min/month, under 2,000 free quota).
-    - cron: '0 1 * * *'
+    # GitHub scheduled workflows use UTC.
+    # Two daily runs to cover both US/EU news cycles:
+    #   00:00 UTC = 08:00 Asia/Shanghai  (morning brief, covers US/EU previous-day)
+    #   13:00 UTC = 21:00 Asia/Shanghai  (evening brief, covers US morning + tech RSS)
+    # M3 ~15min/run x 2 x 30 = 900 min/month, well under 2,000 GH free quota.
+    - cron: '0 0 * * *'
+    - cron: '0 13 * * *'
   workflow_dispatch:      # Allow manual trigger
 
 jobs:
