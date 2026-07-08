@@ -5,466 +5,370 @@ date: 2026-07-08
 lang: zh
 ---
 
-> 从 109 条内容中筛选出 20 条重要资讯。
+> 从 99 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [特朗普政府解除对 OpenAI GPT-5.6 发布的限制](#item-1) ⭐️ 9.3/10
-2. [Xbox 裁员重创 id Software 与 Obsidian](#item-2) ⭐️ 8.5/10
-3. [英特尔 Nova Lake 将在 P 核和 E 核上重新引入 AVX-512 支持](#item-3) ⭐️ 8.5/10
-4. [韩国 8800 亿美元芯片计划面临电力与水资源瓶颈](#item-4) ⭐️ 8.5/10
-5. [英国数据中心获国家重要性地位以绕过地方规定](#item-5) ⭐️ 8.5/10
-6. [三星芯片部门 2026 年利润预计超越过去 40 年总和](#item-6) ⭐️ 8.5/10
-7. [使用 Kokoro 实现本地 CPU 友好的高质量语音合成](#item-7) ⭐️ 8.0/10
-8. [欧盟“聊天控制”1.0 与 2.0 版：立法演变及其对隐私的影响](#item-8) ⭐️ 8.0/10
-9. [ChipAgents 在 DAC 2026 展示自主芯片设计](#item-9) ⭐️ 8.0/10
-10. [封装 PDK bridging 光子设计与 CPO 实现的关键层](#item-10) ⭐️ 8.0/10
-11. [AI 爆发遇上电网：为前沿数据中心供电](#item-11) ⭐️ 8.0/10
-12. [RTX 50 Super 显卡功耗规格通过 Seasonic 电源计算器泄露](#item-12) ⭐️ 7.5/10
-13. [开发者将 Linux 移植至 Atari Jaguar 主机](#item-13) ⭐️ 7.5/10
-14. [铠侠与闪迪推出全球最密集 332 层 BiCS10 NAND 闪存](#item-14) ⭐️ 7.5/10
-15. [工程师在家组装 8192 核 RISC-V 显卡](#item-15) ⭐️ 7.5/10
-16. [英特尔专利曝光 XBM 内存架构，旨在替代昂贵的 HBM 硅中介层](#item-16) ⭐️ 7.5/10
-17. [六大主流 AI 视频生成工具深度横评](#item-17) ⭐️ 7.3/10
-18. [快造科技获 10 亿元融资，营收增长十倍](#item-18) ⭐️ 7.3/10
-19. [德睿智药获 5200 万美元 B 轮融资推进 AI 减肥药临床](#item-19) ⭐️ 7.3/10
-20. [苹果折叠屏 iPhone 进入量产阶段，供应链加紧准备](#item-20) ⭐️ 7.3/10
+1. [韩国 8800 亿美元芯片与 AI 计划面临电力和水资源瓶颈](#item-1) ⭐️ 7.5/10
+2. [铠侠和闪迪送样全球密度最高的 3D NAND —— 全新 332 层超越三星 400 层 NAND](#item-2) ⭐️ 7.5/10
+3. [三星芯片部门单年利润超过过去 40 年利润总和，原因是内存和存储价格上涨——三星超越英伟达成为全球最盈利公司，季度利润暴增 19 倍](#item-3) ⭐️ 7.5/10
+4. [「德睿智药」获 5200 万美元 B 轮融资，AI 设计的减肥药已进入 3 期临床｜36 氪首发](#item-4) ⭐️ 7.3/10
+5. [腾讯招募前 OpenAI 研究员田永龙，参与 VLM 研发](#item-5) ⭐️ 7.3/10
+6. [蚂蚁灵波开源具身基座模型 LingBot-VLA 2.0](#item-6) ⭐️ 7.3/10
+7. [CERT/CC 披露腾达路由器固件中隐藏的后门账户](#item-7) ⭐️ 7.0/10
+8. [Kokoro：本地 CPU 即可运行的高质量开源语音合成模型](#item-8) ⭐️ 7.0/10
+9. [聊天控制 1.0 和 2.0 解析](#item-9) ⭐️ 7.0/10
+10. [封装 PDK 是共封装光学缺失的关键一层](#item-10) ⭐️ 7.0/10
+11. [英特尔 "Nova Lake" 将在 P 核和 E 核上均支持 AVX-512](#item-11) ⭐️ 6.5/10
+12. [中国存储厂商利润预计暴涨超 60000%，需求爆炸式增长——雷克沙母公司江波龙预测 2026 年上半年利润近 15 亿美元，去年同期仅 210 万美元](#item-12) ⭐️ 6.5/10
+13. [LG 显示器通过微软商店自动安装应用并推送 McAfee 广告](#item-13) ⭐️ 6.5/10
+14. [英国赋予数据中心申请"国家重要性"地位的选项，可凌驾于地方规划法规之上，将开发时间缩短一年——符合条件项目将绕过地方议会，节省超过 10 亿美元的邻避冲突成本](#item-14) ⭐️ 6.5/10
+15. [英特尔申请 XBM 内存专利，以 UCIe 互连 DRAM 堆栈替代 HBM](#item-15) ⭐️ 6.5/10
+16. [快造科技完成 10 亿元融资，消费级 3D 打印近年最大单笔融资](#item-16) ⭐️ 6.3/10
+17. [内存成本占低端智能手机物料清单近六成](#item-17) ⭐️ 6.3/10
+18. [计算机程序的构造与解释视频讲座 (1986)](#item-18) ⭐️ 6.0/10
+19. [Rowboat：开源本地优先的 Claude Desktop 替代品](#item-19) ⭐️ 6.0/10
+20. [Agentic AI 能否解决嵌入式软件难题？](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [特朗普政府解除对 OpenAI GPT-5.6 发布的限制](https://36kr.com/newsflashes/3886425178271744?f=rss) ⭐️ 9.3/10
+## [韩国 8800 亿美元芯片与 AI 计划面临电力和水资源瓶颈](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan) ⭐️ 7.5/10
 
-特朗普政府已批准 OpenAI 先进 GPT-5.6 模型的广泛发布，解除了美国商务部此前施加的监管限制。这一决定标志着政策发生了重大转变，从早期试图限制专有 AI 模型推出的做法转向了全面放开。 这一批准消除了 OpenAI 面临的主要瓶颈，使其能够在没有政府立即干预的情况下向全球部署最新技术。这发出了一个信号，表明美国政府与主要 AI 开发商之间关于国家安全和模型控制的紧张关系可能有所缓解。 GPT-5.6 模型于 2026 年 6 月首次以有限能力发布，现在获得普遍可用性面临的障碍更少。虽然白宫此前曾通过与合作伙伴的关系主张对先进模型的控制权，但此举表明对 OpenAI 的具体监督机制有所放松。
+韩国总额达 1,350 万亿韩元（约 8,800 亿美元）的芯片与 AI 投资计划——包含 5,200 亿美元的半导体项目以及 AI 数据中心和机器人领域支出——面临严峻的基础设施瓶颈，据估算单个 AI 超大规模集群（megacluster）就需要约相当于首尔全市电力需求 25%的电量。 这一报道揭示了各国雄心勃勃的 AI/半导体路线图与支撑这些计划所需实体基础设施之间的关键差距。在各国竞相建设主权 AI 能力的竞争中，电网和水资源供应的瓶颈可能成为限制 AI 工厂实际扩张速度的决定性因素，进而影响全球半导体行业的建设时间表、成本和竞争格局。 该投资计划主要由企业资本支出构成，而非政府直接拨款。AI 超大规模集群作为统一的园区级系统运行，对电力和冷却有极高需求；而先进制程的半导体晶圆厂每小时就已可消耗约 100 兆瓦时的电力，还需要超纯水、工艺气体和散热系统——这些因素叠加进一步加剧了基础设施的挑战。
 
-rss · 36氪 · 7月8日 03:16
+rss · Tom's Hardware · 7月7日 17:27
 
-**背景**: In early 2026, the Trump administration implemented strict regulations on private AI models, citing national security concerns and the need for government oversight over powerful proprietary systems. Agencies like the Department of Commerce were involved in restricting the release of models from companies like OpenAI and Anthropic until they agreed to specific safety protocols and partnership terms.
+**背景**: AI 超大规模集群（megacluster）是由数万个 AI 加速器组成的、园区级别的超大型数据中心，这些加速器作为一个统一的系统协同运行，专门用于训练和运行前沿 AI 模型。半导体晶圆厂同样是资源密集型设施：光刻、蚀刻和沉积设备需要超纯水和极其稳定、高品质的电力供应，因为即使是短暂的电压瞬变也可能毁掉整批晶圆。这两个领域叠加，正在全球范围内推高对电网容量、冷却水和先进存储器（尤其是高带宽存储器 HBM）的需求，而所有这些资源现在都在争夺有限的基础设施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GPT-5.6">GPT-5.6 - Wikipedia</a></li>
-<li><a href="https://thehill.com/policy/technology/5952253-trump-administration-ai-restrictions-opens/">Trump restrictions on private AI models turn attention to open source</a></li>
-<li><a href="https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model">OpenAI limits GPT-5.6 Sol access to Trump administration partners | Fox News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_data_center">AI data center - Wikipedia</a></li>
+<li><a href="https://outshiningai.com/future-of-data-centers/">The Future of Data Centers: Inside AI Megaclusters</a></li>
+<li><a href="https://semiconductorx.com/semiconductor-energy-foundation.html">Semiconductor Fab Resource Intensity - Not Just Energy ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Regulation`, `#OpenAI`, `#GPT-5.6`, `#US Politics`, `#Tech News`
+**标签**: `#semiconductors`, `#AI-infrastructure`, `#South-Korea`, `#data-centers`, `#energy`
 
 ---
 
 <a id="item-2"></a>
-## [Xbox 裁员重创 id Software 与 Obsidian](https://www.techpowerup.com/350587/xbox-layoffs-decimate-id-software-and-obsidian) ⭐️ 8.5/10
+## [铠侠和闪迪送样全球密度最高的 3D NAND —— 全新 332 层超越三星 400 层 NAND](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand) ⭐️ 7.5/10
 
-微软 Xbox 的重组导致 id Software 裁员约 50%，Obsidian Entertainment 裁员约 25%，涉及多个部门的 150 多名员工。这些裁员是更广泛的 3200 人裁员计划的一部分，旨在将资源重新集中在顶级 IP 上。 这严重影响《毁灭战士：黑暗时代》和《天外世界》等主要作品的开发，引发了对项目连续性和工作室独立性的担忧。这表明战略正在转变，较小的 ZeniMax 工作室可能从自主创作者转变为支持单位。 id Software 的质量保证部门受到特别严重的打击，而 Obsidian 则面临其庞大项目列表的工作量重新分配的不确定性。裁员于 7 月 6 日开始，并计划在 2027 财年进一步减少。
+铠侠和闪迪开始送样 BiCS10 3D NAND，采用 332 个有效层，实现 29 Gb/mm²的面密度，在密度效率上超越三星的 400 层 NAND。
 
-rss · TechPowerUp News · 7月7日 19:42
+rss · Tom's Hardware · 7月7日 11:10
 
-**背景**: ZeniMax Media is a subsidiary of Microsoft that owns several prominent game development studios, including id Software and Obsidian Entertainment. The recent 'Xbox Reset' initiated by CEO Asha Sharma involves a massive restructuring to address budget constraints and declining revenue, leading to the exit of some studios and the consolidation of others.
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.gamermarkt.com/blog/xbox-reset-layoffs-restructuring-july-2026/">Xbox Reset: Major Layoffs And Restructuring Coming July 2026</a></li>
-<li><a href="https://news.xbox.com/en-us/2026/07/06/resetting-xbox/">Resetting XBOX - XBOX Wire</a></li>
-<li><a href="https://windowsreport.com/xbox-confirms-historic-reset-with-3200-layoffs-studio-shakeup-major-leadership-changes/">XBOX Confirms Historic Reset With 3,200 Layoffs, Studios ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Gaming Industry`, `#Microsoft`, `#Layoffs`, `#id Software`, `#Obsidian Entertainment`
+**标签**: `#3D NAND`, `#flash memory`, `#Kioxia`, `#Sandisk`, `#SSD`
 
 ---
 
 <a id="item-3"></a>
-## [英特尔 Nova Lake 将在 P 核和 E 核上重新引入 AVX-512 支持](https://www.techpowerup.com/350572/intel-nova-lake-to-feature-avx-512-on-both-p-cores-and-e-cores) ⭐️ 8.5/10
+## [三星芯片部门单年利润超过过去 40 年利润总和，原因是内存和存储价格上涨——三星超越英伟达成为全球最盈利公司，季度利润暴增 19 倍](https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026) ⭐️ 7.5/10
 
-英特尔即将推出的 Core Ultra Series 4“Nova Lake”处理器将正式在“Coyote Cove”P 核和“Arctic Wolf”E 核上重新引入 AVX-512 支持。这一决定解决了之前的架构限制，即由于指令集架构不匹配导致线程迁移时出现运行时错误的问题。 此举解决了混合架构中长期存在的问题，并为增强客户端 AI 推理能力铺平了道路。它通过允许不同核心类型之间无缝迁移线程而无需兼容性惩罚，确保了性能优化的一致性。 自第 11 代 Rocket Lake 以来，AVX-512 在客户端 CPU 中被弃用，主要原因是热问题和 E 核不兼容，此次重新引入是在此背景下进行的。预计英特尔将提供适用于客户端的 AVX-512 指令子集，以平衡性能和功耗效率。
+三星芯片部门预计 2026 年的盈利将超过其 40 年历史盈利总和，这得益于 AI 需求推动内存和存储价格飙升，使其超越英伟达成为全球最盈利公司。
 
-rss · TechPowerUp News · 7月7日 08:30
+rss · Tom's Hardware · 7月7日 09:30
 
-**背景**: AVX-512 是一项旨在加速并行计算任务的 512 位 SIMD 指令集扩展。在英特尔的混合架构中，P 核处理高性能任务，而 E 核管理后台进程，因此需要相同的指令集以实现高效的线程迁移。前几代产品中的 E 核缺乏 AVX-512 支持，迫使软件避免使用该指令或在上下文切换期间遭受性能下降。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/350572/intel-nova-lake-to-feature-avx-512-on-both-p-cores-and-e-cores">Intel "Nova Lake" to Feature AVX-512 on Both P-cores and E ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nova_Lake_(microprocessor)">Nova Lake (microprocessor) - Wikipedia</a></li>
-<li><a href="https://www.guru3d.com/story/intel-nova-lake-brings-avx512-back-to-core-ultra-series-4-desktop-cpus/">Intel Nova Lake Brings AVX-512 Back to Core Ultra Series 4 ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Intel`, `#Hardware`, `#AVX-512`, `#Nova Lake`, `#CPU Architecture`
+**标签**: `#semiconductors`, `#Samsung`, `#memory-storage`, `#AI-demand`, `#industry-news`
 
 ---
 
 <a id="item-4"></a>
-## [韩国 8800 亿美元芯片计划面临电力与水资源瓶颈](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan) ⭐️ 8.5/10
+## [「德睿智药」获 5200 万美元 B 轮融资，AI 设计的减肥药已进入 3 期临床｜36 氪首发](https://36kr.com/p/3885479689465858?f=rss) ⭐️ 7.3/10
 
-韩国 8800 亿美元的半导体和人工智能投资计划因新晶圆厂和数据中心所需的电力和水资源不足而面临重大障碍。仅永仁半导体国家工业园区在全面运营时就估计需要 15 至 16 吉瓦的电力，这接近首尔大都市区总电力需求的 25%。 这一基础设施缺口威胁到旨在提升国家在芯片和人工智能领域竞争力的地缘政治重大倡议“K-半导体带”的可行性。如果不解决能源和水供应问题，预期的企业资本支出和工业扩张可能会停滞，从而影响全球供应链。 新的晶圆厂现在受到严格的水使用效率（WUE）和电源使用效率（PUE）指标的约束，以确保可持续性。为该集群获取所需的 15 吉瓦电力将需要大量的可再生能源投资，因为国内太阳能容量系数相对较低，约为 15.4%。
+中国 AI 制药公司德睿智药完成 5200 万美元 B 轮融资，其 AI 设计的口服 GLP-1 减肥药物 MDR-001 已进入三期临床试验，标志着 AI 原生药物研发迈出了重要一步。
 
-rss · Tom's Hardware · 7月7日 17:27
+rss · 36氪 · 7月8日 00:00
 
-**背景**: 半导体制造和人工智能数据中心是资源密集型的，需要大量的超纯水和稳定、高容量的电力。先进的晶圆厂每天消耗数百万加仑的水，而高密度的人工智能服务器通常需要液体冷却系统来管理热量，进一步增加了对水的依赖。随着行业扩大规模以满足全球对芯片和人工智能计算激增的需求，这些物理限制正成为关键瓶颈。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan">South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand | Tom's Hardware</a></li>
-<li><a href="https://inquivixtech.com/korea-semiconductor-ecosystem/">Deep Dive: South Korea Semiconductor Ecosystem & Entry Solutions | Inquivix Technologies</a></li>
-<li><a href="https://economy.ac/news/2026/01/202601286667">South Korea’s semiconductor cluster plan at risk as political calls for regional relocation unsettle industrial roadmap | The Economy</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#AI infrastructure`, `#energy constraints`, `#South Korea`, `#industrial policy`
+**标签**: `#AI drug discovery`, `#GLP-1`, `#biotech funding`, `#Series B`, `#China AI pharma`, `#clinical trials`
 
 ---
 
 <a id="item-5"></a>
-## [英国数据中心获国家重要性地位以绕过地方规定](https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights) ⭐️ 8.5/10
+## [腾讯招募前 OpenAI 研究员田永龙，参与 VLM 研发](https://36kr.com/newsflashes/3886501669449729?f=rss) ⭐️ 7.3/10
 
-英国政府已更新法规，允许数据中心被归类为国家重要基础设施项目（NSIP）。该认定允许符合条件的项目绕过地方议会审批，有望将开发时间表缩短长达一年，并在法律及反对成本方面节省超过十亿美元。 这一政策转变显著降低了人工智能基础设施的监管障碍，解决了硬件部署中的关键瓶颈。通过简化许可流程，英国旨在提高其吸引全球科技投资和支持人工智能快速增长的竞争力。 符合该制度要求的项目利用《2008 年规划法》确立的发展许可令（DCO）流程。这种集中的批准机制取代了分散的地方规划许可，允许国务卿在公开审查后决定申请事项。
+腾讯宣布前 OpenAI 研究员田永龙（Yonglong Tian）已加入腾讯大语言模型部，参与视觉语言模型（VLM）的研发工作。这是继 2024 年 12 月姚顺雨出任首席 AI 科学家之后，腾讯再次从 OpenAI 引进高级 AI 人才。 此举反映了中国科技巨头与全球顶级 AI 实验室之间日益激烈的人才争夺战，也显著增强了腾讯在多模态 AI 领域的研发实力。田永龙是多模态学习领域的知名研究员，他的加入对腾讯在大模型竞赛中的竞争力具有重要战略意义。 田永龙加入的是腾讯大语言模型部，专注于 VLM 方向，属于腾讯 2024 年 12 月升级后的 AI 组织架构的一部分，架构中新成立了 AI Infra 部和 AI Data 部。姚顺雨同时向总裁刘炽平汇报 AI 科学家事务，并向卢山汇报 AI Infra 部及大语言模型部的管理工作。
 
-rss · Tom's Hardware · 7月7日 12:34
+rss · 36氪 · 7月8日 04:33
 
-**背景**: In the UK, major infrastructure projects typically require complex planning permissions from local authorities, which often leads to delays due to local objections or bureaucratic inefficiencies. The Nationally Significant Infrastructure Project (NSIP) regime was originally designed for energy and transport sectors to expedite these processes. Classifying data centers under this framework treats them with similar strategic importance to power plants or railways, centralizing decision-making to reduce local veto power.
+**背景**: 视觉语言模型（VLM）是一种能够同时处理和理解图像与文本信息的人工智能系统，将大语言模型的能力扩展到多模态任务，例如图像描述、视觉问答和图像检索等。AI 基础设施（AI Infra）指的是支持大规模 AI 模型训练和部署的底层硬件、软件框架和数据系统。腾讯在 2024 年 12 月对其 AI 研发体系进行了重大重组，成立了专门的 AI Infra 部和 AI Data 部，表明公司致力于构建从基础设施到模型开发的全栈 AI 能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.gov.uk/guidance/planning-act-2008-content-of-a-development-consent-order-required-for-nationally-significant-infrastructure-projects">Planning Act 2008: Content of a Development Consent Order ...</a></li>
-<li><a href="https://www.womblebonddickinson.com/uk/insights/articles-and-briefings/evolution-planning-consent-data-centres">The evolution of planning consent for Data Centres</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Vision-language_model">Vision-language model - Wikipedia</a></li>
+<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/vision-language-models-vlms-explained/">Vision Language Models (VLMs) - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**标签**: `#UK Policy`, `#Data Centers`, `#Infrastructure`, `#AI Hardware`, `#Regulation`
+**标签**: `#AI`, `#VLM`, `#OpenAI`, `#Tencent`, `#talent-acquisition`
 
 ---
 
 <a id="item-6"></a>
-## [三星芯片部门 2026 年利润预计超越过去 40 年总和](https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026) ⭐️ 8.5/10
+## [蚂蚁灵波开源具身基座模型 LingBot-VLA 2.0](https://36kr.com/newsflashes/3886479015555336?f=rss) ⭐️ 7.3/10
 
-预计三星芯片部门在 2026 年的营业利润将接近 300 万亿韩元，超过其过去 40 年历史利润的总和。这一激增是由人工智能引发的内存短缺以及 DRAM 和 NAND 价格飙升所驱动的，使三星暂时超越英伟达，成为世界上盈利能力最强的科技公司。 这一里程碑突显了内存芯片在当前人工智能热潮中的关键作用，表明供应限制如何能彻底重塑企业盈利排名。它发出了一种信号，即传统半导体制造商正从生成式 AI 的基础设施需求中获益匪浅，并在纯利润指标上挑战英伟达的主导地位。 利润激增归因于营业利润季度环比增长 19 倍，其中 DRAM 合同价格在 2026 年第二季度预计上涨 58-63%，NAND 价格上涨高达 75。分析师指出，传统和移动 DRAM 类型的严重交货延期迫使设备制造商吸收更高的成本，直接推高了三星的利润率。
+7 月 8 日，蚂蚁灵波科技宣布升级并开源新一代具身基座模型 LingBot-VLA 2.0，这是今年 1 月开源的 LingBot-VLA 1.0 的全面升级版本。新模型在预训练阶段融入了 6 万小时高质量真实物理数据，覆盖 17 个主流机器人品牌的 20 多种机器人构型，并扩展了对头部、腰部、末端执行器及移动底盘等自由度的支持。 支持广泛硬件泛化的开源 VLA 模型目前仍十分稀缺，此次发布大幅降低了具身 AI 研究者和开发者的使用门槛。通过支持 17 个品牌的多种机器人构型，LingBot-VLA 2.0 有望加速跨平台机器人开发，并加剧中国具身 AI 生态的竞争态势。 6 万小时真实世界预训练数据对于开源 VLA 模型来说是相当可观的规模，扩展的自由度支持主要面向具有铰接关节的人形机器人和移动操作机器人。公告声称在构型泛化、自由度覆盖和落地效率方面均有显著提升，但未披露详细的基准测试结果和架构细节。
 
-rss · Tom's Hardware · 7月7日 09:30
+rss · 36氪 · 7月8日 04:10
 
-**背景**: 三星电子是一家韩国跨国企业集团，也是全球半导体行业的主导者，特别是在 DRAM 和 NAND 闪存等存储解决方案方面。DRAM（动态随机存取存储器）和 NAND 闪存是计算机、智能手机和 AI 服务器中存储数据的关键组件。最近的人工智能热潮对这些组件创造了前所未有的需求，导致全球供应短缺和行业内的显著价格上涨。
+**背景**: 视觉-语言-动作（VLA）模型在视觉-语言模型（VLM）的基础上增加了动作和观测状态令牌，使其能够直接从视觉输入和文本指令输出底层机器人动作。具身基础模型旨在通过在涵盖多种机器人、环境和任务的海量多样化数据集上进行训练，打破传统机器人 AI 任务单一的局限性。这种跨本体方法使得单个模型能够跨不同机器人硬件进行泛化——由于机械构型和控制接口的差异，这一直是机器人领域的重大挑战。通过开源一款支持广泛硬件的此类模型，LingBot-VLA 2.0 加入了一个规模虽小但不断壮大的通用机器人基础模型行列，旨在加速研究与落地。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026">Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit | Tom's Hardware</a></li>
-<li><a href="https://www.itechpost.com/articles/236596/20260707/samsung-q2-2026-operating-profit-jumps-19-fold-ai-chip-demand-drives-record-earnings.htm">Samsung Q2 2026 Operating Profit Jumps 19-Fold as AI Chip Demand Drives Record Earnings</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/dram/dram-and-nand-contract-prices-to-climb-again-in-q2">DRAM prices predicted to jump 63% in Q2, NAND up to 75% ...</a></li>
+<li><a href="https://robotocist.com/articles/embodied-ai-foundation-models">Embodied AI Foundation Models: Teaching Robots to Understand ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#business`, `#Samsung`, `#market trends`
+**标签**: `#embodied-ai`, `#vla-model`, `#open-source`, `#robotics`, `#ant-group`
 
 ---
 
 <a id="item-7"></a>
-## [使用 Kokoro 实现本地 CPU 友好的高质量语音合成](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) ⭐️ 8.0/10
+## [CERT/CC 披露腾达路由器固件中隐藏的后门账户](https://kb.cert.org/vuls/id/213560) ⭐️ 7.0/10
 
-一篇指南重点介绍了 Kokoro 语音合成模型，强调其无需昂贵显卡即可在本地 CPU 上运行的能力。该模型采用 8200 万参数的轻量级架构，在提供高质量音频的同时，让硬件资源有限的用户也能轻松访问。 这一进展显著降低了本地 AI 推理的门槛，特别是对于缺乏 NVIDIA 显卡的开发者和爱好者而言。它使得隐私保护且成本效益高的语音合成应用成为可能，适用于辅助产品和个人项目。 Kokoro 基于 StyleTTS 2 架构构建，并支持手动添加国际音标（IPA）发音指南以纠正同形异义词。其高效性允许在 GTX 1650 等普通硬件上进行实时处理，从而便于集成到播客生成等工作流中。
+CERT/CC 披露了 CVE-2026-11405，一个影响腾达路由器五个固件版本的隐藏硬编码认证后门，攻击者只需提供秘密密码即可获得完全管理权限，无需正确用户名。供应商深圳腾达自 2026 年 5 月以来未对 CERT 作出回应，目前尚无补丁可用。 这是一个被人为植入的后门，而非意外漏洞，对使用腾达网络设备的消费者、小型企业和组织构成严重的供应链安全与国家安全风险。由于没有补丁且可能已被主动利用，受影响设备仍可通过公网被完全攻陷。 该后门实现在 /bin/httpd 二进制文件中：如果标准 MD5 认证失败，固件会从 'sys.rzadmin.password' 中取值，并与用户提交的明文密码进行比较；匹配后即授予 role=2（管理员）权限，且不校验用户名。该秘密密码早在 2022 年的博客文章中就被公开为 'rzadmin'，意味着任何阅读此披露的人都可以轻松利用该后门。
 
-hackernews · speckx · 7月7日 18:24 · [社区讨论](https://news.ycombinator.com/item?id=48821576)
+hackernews · miniBill · 7月8日 00:08 · [社区讨论](https://news.ycombinator.com/item?id=48825749)
 
-**背景**: 文本转语音（TTS）技术将书面文本转换为音频，通常依赖大型神经网络，这些网络传统上需要强大的 GPU 才能实现高效推理。然而，模型压缩和 CPU 优化技术（如 ONNX 运行时支持）的最新进展，使得较小的模型也能在标准处理器上表现良好。Kokoro 代表了向轻量级、开放权重模型的转变，优先考虑可访问性和本地部署，而非纯粹的计算能力。
+**背景**: 计算领域中的后门（backdoor）是一种绕过正常认证的秘密访问方式，而硬编码后门意味着秘密凭证被直接嵌入在软件中，而非由用户自行设置。CERT 协调中心（CERT/CC）是卡内基梅隆大学软件工程研究所的一部分，自 1988 年以来一直负责协调软件漏洞披露工作，是研究人员和供应商之间值得信赖的中间方。腾达（Tenda）是一家中国消费级网络设备制造商，其产品——路由器、交换机、无线接入点和 IP 摄像头——因价格低廉在全球广泛销售，常见于家庭、小型办公室和物联网部署中。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/hexgrad/kokoro">GitHub - hexgrad/kokoro: https://hf.co/hexgrad/Kokoro-82M</a></li>
-<li><a href="https://deepwiki.com/hexgrad/kokoro/2-architecture">Architecture | hexgrad/kokoro | DeepWiki</a></li>
-<li><a href="https://kokorottsai.com/">Kokoro TTS: Advanced AI Text-to-Speech Model with 82M parameters</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/">Hidden backdoor in Tenda router firmware grants admin access</a></li>
+<li><a href="https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html">CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware</a></li>
+<li><a href="https://certcc.github.io/CERT-Guide-to-CVD/">The CERT Guide to Coordinated Vulnerability Disclosure - CERT® Guide to Coordinated Vulnerability Disclosure</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 用户称赞 Kokoro 实现了无需 GPU 依赖的本地语音合成，一位开发者成功将其整合到基于 RSS 的文章阅读器工作流中。虽然该模型因支持 IPA 等功能受到好评，但也有人指出其在处理极短输入时存在局限性，还有人分享了增强其易用性的扩展程序。
+**社区讨论**: 社区评论者对供应链安全问题表达了强烈担忧，其中一人指出实际后门密码 'rzadmin' 早在 2022 年的文章中就已被公开，另一人建议直接丢弃所有深圳制造的网络设备。还有人讽刺地建议改用 UniFi、Fortinet 或 Palo Alto 等美/以厂商的设备，也有人推荐了同价位的 MikroTik 作为更透明的替代方案。
 
-**标签**: `#TTS`, `#Local AI`, `#Kokoro`, `#CPU Inference`, `#Accessibility`
+**标签**: `#security`, `#iot`, `#backdoor`, `#vulnerability-disclosure`, `#networking`
 
 ---
 
 <a id="item-8"></a>
-## [欧盟“聊天控制”1.0 与 2.0 版：立法演变及其对隐私的影响](https://fightchatcontrol.eu/chat-control-overview) ⭐️ 8.0/10
+## [Kokoro：本地 CPU 即可运行的高质量开源语音合成模型](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) ⭐️ 7.0/10
 
-该文章详细比较了“聊天控制”1.0 版（涉及允许自愿扫描的临时豁免）与当前强制对加密消息进行客户端扫描的立法推动之间的差异。这一区别凸显了从可选的提供商自由裁量权向可能更广泛的监管框架的转变，后者将影响欧盟范围内的端到端加密标准。 这项立法至关重要，因为它直接挑战了端到端加密的完整性，而端到端加密是现代数字隐私和安全的基石。如果强制实施，客户端扫描可能会为政府授权的监视树立全球先例，从根本上改变安全通信平台的运作方式，并保护用户免受潜在滥用行为的侵害。 关键的技术区别包括从 1.0 版中《电子隐私指令》的临时豁免过渡到 2.0 版下的新提案，后者旨在将大规模扫描要求法典化。辩论的核心在于是否可以在不创建损害用户数据安全漏洞或后门的情况下实现设备上的扫描。
+仅有 8200 万参数的开放权重语音合成模型 Kokoro 因其可在 CPU 上高效运行而无需昂贵 NVIDIA GPU 而备受关注。它以 Apache 2.0 许可证发布，合成质量可媲美甚至超越参数规模大得多的模型，如 XTTS（4.67 亿参数）和 MetaVoice（12 亿参数）。 这大大降低了缺乏高端硬件的开发者和爱好者获取高质量语音合成的门槛，使其能够在普通机器上实现无障碍工具、RSS 转播客流程以及文章朗读等实际应用场景。它标志着 AI 模型向轻量级、CPU 友好方向发展的更广泛趋势，减少了对昂贵 GPU 基础设施的依赖。 Kokoro 支持手动添加 IPA 发音指导，有助于解决同形异义词的歧义问题，但在合成单词等极短输入时表现欠佳。它支持多语言、声音混合以及多种输入格式（包括 EPUB 和 PDF），甚至可以在 GTX 1650 等老旧 GPU 上运行实际工作负载。
 
-hackernews · gasull · 7月7日 14:23 · [社区讨论](https://news.ycombinator.com/item?id=48818311)
+hackernews · speckx · 7月7日 18:24 · [社区讨论](https://news.ycombinator.com/item?id=48821576)
 
-**背景**: The community discussion reflects deep skepticism and concern regarding the balance between safety and privacy. Users argue that the legislation grants excessive power to authorities and threatens democratic values, while others question the technical feasibility of implementing such scans without breaking encryption entirely. There is also criticism directed at major tech companies that may continue scanning practices despite regulatory changes.
+**背景**: 传统的语音合成（TTS）模型由于参数量庞大，推理时需要强大的 GPU 支持，使许多开发者难以获得高质量的语音合成能力。Kokoro 凭借高效的架构和高质量的训练数据，尽管仅有 8200 万参数，却能以小博大。该模型是轻量级 AI 工具浪潮的一部分——包括 Kyutai 的 Pocket TTS——旨在让 AI 能力在无云依赖的消费级硬件上可用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://fightchatcontrol.eu/chat-control-overview">Chat Control 1.0 vs 2.0 - Fight Chat Control</a></li>
-<li><a href="https://www.eff.org/deeplinks/2025/12/after-years-controversy-eus-chat-control-nears-its-final-hurdle-what-know">After Years of Controversy, the EU’s Chat Control Nears Its ...</a></li>
-<li><a href="https://edri.org/our-work/chat-control-what-is-actually-going-on/">Chat Control: What is actually going on? - European Digital ...</a></li>
+<li><a href="https://huggingface.co/hexgrad/Kokoro-82M">hexgrad/Kokoro-82M · Hugging Face</a></li>
+<li><a href="https://kokorottsai.com/">Kokoro TTS: Advanced AI Text-to-Speech Model with 82M parameters</a></li>
+<li><a href="https://github.com/nazdridoy/kokoro-tts">GitHub - nazdridoy/kokoro-tts: A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents. · GitHub</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者表示强烈反对，认为该立法是一种破坏隐私和民主价值观的“独裁”举动。许多人强调了客户端扫描的技术风险，认为这可能导致广泛监视而非针对性保护。一些用户还指出，无论最终法律结果如何，大型科技公司可能会继续执行扫描做法。
+**社区讨论**: 社区热情高涨，多位用户报告了在实际生产环境中的部署案例。一位开发者将其用于无障碍产品，另一位在 GTX 1650 上搭建了 RSS 转播客流程，还有一位创建了带同步文本高亮功能的网页朗读 Chrome 扩展。主要被提到的不足是对单词等极短输入的合成效果较差，以及偶发的同形异义词发音错误，但可通过手动添加 IPA 发音指导来缓解。
 
-**标签**: `#Privacy`, `#Encryption`, `#EU Regulation`, `#Cybersecurity`, `#Policy`
+**标签**: `#text-to-speech`, `#open-source`, `#accessibility`, `#local-ai`, `#machine-learning`
 
 ---
 
 <a id="item-9"></a>
-## [ChipAgents 在 DAC 2026 展示自主芯片设计](https://semiwiki.com/eda/chipagents-ai/370911-see-autonomous-chip-design-in-action-with-chipagents-at-dac-2026/) ⭐️ 8.0/10
+## [聊天控制 1.0 和 2.0 解析](https://fightchatcontrol.eu/chat-control-overview) ⭐️ 7.0/10
 
-在长滩举行的 DAC 2026 大会上，ChipAgents 展示了自主 AI 代理执行端到端芯片设计和验证任务的实际演示。这一活动标志着行业从理论上的 AI 辅助向完全自动化的智能体工程工作流发生了重大转变。 这一进展至关重要，因为它解决了现代半导体设计中验证工作呈指数级增长的问题，有望将工程师的生产力提高十倍。这表明行业正从简单的 AI 工具转向能够进行复杂自主决策、集成化的电子设计自动化系统。 这些自主工作流利用高级推理、多工具集成和直接 API 连接，无需人工持续干预即可运行。ChipAgents 专门针对架构师、RTL 工程师和验证团队之间的协调，以简化整个设计周期。
+本文解析欧盟提出的聊天控制 1.0 和 2.0 提案，这些提案将强制扫描私人加密消息，引发了人们对加密后门、监控过度扩张以及儿童安全政策权衡的重大担忧。
 
-rss · SemiWiki · 7月7日 21:00
+hackernews · gasull · 7月7日 14:23 · [社区讨论](https://news.ycombinator.com/item?id=48818311)
 
-**背景**: Electronic Design Automation (EDA) involves using software tools to design and verify complex integrated circuits. As chip complexity grows, traditional manual verification processes become increasingly inefficient and prone to costly errors. The emergence of Agentic AI represents a new paradigm where software agents can autonomously plan and execute these intricate engineering tasks.
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://chipagents.ai/blogs">ChipAgents: The Agentic AI Chip Design Environment</a></li>
-<li><a href="https://www.dac.com/2026/from-tools-to-agents-realizing-fully-autonomous-eda-workflows">From Tools to Agents: Realizing Fully Autonomous EDA Workflows</a></li>
-<li><a href="https://chipagents.ai/">ChipAgents: The Agentic AI Chip Design Environment</a></li>
-
-</ul>
-</details>
-
-**标签**: `#EDA`, `#AI`, `#Chip Design`, `#DAC 2026`, `#Automation`
+**标签**: `#privacy`, `#encryption`, `#eu-policy`, `#surveillance`, `#chat-control`
 
 ---
 
 <a id="item-10"></a>
-## [封装 PDK bridging 光子设计与 CPO 实现的关键层](https://semiwiki.com/3dic/370709-the-packaging-pdk-is-the-missing-layer-for-co-packaged-optics/) ⭐️ 8.0/10
+## [封装 PDK 是共封装光学缺失的关键一层](https://semiwiki.com/3dic/370709-the-packaging-pdk-is-the-missing-layer-for-co-packaged-optics/) ⭐️ 7.0/10
 
-文章指出，要实现 AI 基础设施中共封装光学（CPO）的规模化扩展，必须引入标准化的封装工艺设计套件（PDK），以有效弥合光子器件设计与电光实现之间的鸿沟。 这至关重要，因为随着人工智能推动带宽和功耗极限，将光学器件更紧密地集成到计算引擎中，需要超越单纯组件性能的严格验证流程，以确保系统级的可靠性。 封装 PDK 集成了芯片级和封装级的验证，包括对重布线层、过孔和中介层的检查，确保复杂的 2.5D 和 3D 结构能够以高精度进行设计和制造。
+本文认为，共封装光学在 AI 基础设施中的推广应用，其瓶颈在于缺乏标准化的封装 PDK，而非光子器件性能本身。
 
 rss · SemiWiki · 7月7日 17:00
 
-**背景**: 共封装光学（CPO）是一种将激光器、光电探测器等光学组件与电气 ASIC 集成在同一封装内的技术，旨在缩短距离并增加带宽。工艺设计套件（PDK）是由晶圆代工厂提供的一组文件，用于在集成电路设计工具中模拟制造过程，传统上用于电子电路，但现在正扩展到先进封装领域。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Process_Design_Kit">Process design kit - Wikipedia</a></li>
-<li><a href="https://www.corning.com/oem-solutions/worldwide/en/home/products-solutions/optical-communication-components/co-packaged-optics.html">What is Co-Packaged Optics (CPO) Technology? | Corning</a></li>
-<li><a href="https://www.semiconductorpackagingnews.com/uploads/1/PADKs_Bring_Value_to_Semiconductor_Designs-EN.pdf">Package Assembly Design Kits Bring Value to Semiconductor Designs</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Co-Packaged Optics`, `#AI Infrastructure`, `#Photonic Design`, `#Packaging PDK`, `#Semiconductor Industry`
+**标签**: `#co-packaged-optics`, `#semiconductor-packaging`, `#AI-infrastructure`, `#photonics`, `#PDK`
 
 ---
 
 <a id="item-11"></a>
-## [AI 爆发遇上电网：为前沿数据中心供电](https://www.electronicsweekly.com/news/business/ai-takeoff-meets-the-grid-2026-07/) ⭐️ 8.0/10
+## [英特尔 "Nova Lake" 将在 P 核和 E 核上均支持 AVX-512](https://www.techpowerup.com/350572/intel-nova-lake-to-feature-avx-512-on-both-p-cores-and-e-cores) ⭐️ 6.5/10
 
-这篇文章探讨了前沿人工智能数据中心巨大的电力需求如何重塑电气基础设施和电网规划。超大规模企业和工程师正在应对前所未有的能源负载，部分设施的功率密度高达每机架 150 千瓦。 这一交叉点至关重要，因为到 2028 年，人工智能的能源消耗可能占美国电力的 12%，给现有电网带来压力。这凸显了数据中心扩张与发电基础设施之间协调规划的紧迫性。 传统机架的功耗为 10-15 千瓦，而专注于人工智能的设施现在需要每机架 80-150 千瓦。一些公司正在采用“表后”模式，将 GPU 与现场发电设备并列部署，以避免多年 Utilities 并网延迟。
+英特尔下一代 Nova Lake 客户端处理器将在 Coyote Cove P 核和 Arctic Wolf E 核上重新支持 AVX-512 SIMD 指令集，这要求两种核心采用相同的 ISA 以避免线程迁移错误。
 
-rss · Electronics Weekly · 7月7日 11:00
+rss · TechPowerUp News · 7月7日 08:30
 
-**背景**: 超大规模数据中心为数字世界提供动力，支持从云备份到复杂人工智能模型训练的各种应用。随着人工智能工作负载的增长，每个机架的功率密度急剧增加，导致电网连接和能源供应出现瓶颈。这种转变需要新的工程方法，以确保高性能计算的可靠电力供应。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.hanwhadatacenters.com/blog/hyperscale-data-centers-energy-challenges-and-sustainable-solutions/">Hyperscale Data Centers: Energy Challenges and Sustainable ...</a></li>
-<li><a href="https://howtostoreelectricity.com/frontier-ai-training-power-profile/">AI Training Energy Consumption 2026: Frontier Power Profile</a></li>
-<li><a href="https://cc-techgroup.com/how-much-power-does-a-hyperscale-data-center-use/">How Much Power Does a Hyperscale Data Center Use? In-Depth ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Infrastructure`, `#Data Centers`, `#Energy Grid`, `#Hardware Engineering`
+**标签**: `#Intel`, `#AVX-512`, `#CPU architecture`, `#SIMD`, `#Nova Lake`
 
 ---
 
 <a id="item-12"></a>
-## [RTX 50 Super 显卡功耗规格通过 Seasonic 电源计算器泄露](https://www.techpowerup.com/350588/nvidia-geforce-rtx-50-super-gpus-surface-online) ⭐️ 7.5/10
+## [中国存储厂商利润预计暴涨超 60000%，需求爆炸式增长——雷克沙母公司江波龙预测 2026 年上半年利润近 15 亿美元，去年同期仅 210 万美元](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year) ⭐️ 6.5/10
 
-Seasonic 电源计算器的列表显示，英伟达即将推出的 RTX 50 Super 系列包括 5080 Super、5070 Ti Super 和 5070 Super，这与之前关于取消发布的谣言相矛盾。这些新版本的总图形功率（TGP）评级相比非 Super 版本有显著增加。 这一泄露表明，尽管此前有迹象表明该系列可能被放弃，但英伟达仍在推进 RTX 50 Super 的更新。更高的功耗要求表明，这些显卡将通过增加 CUDA 核心和内存带宽提供增强的性能，从而影响 PC 组装建议。 RTX 5080 Super 的 TGP 为 415 瓦，5070 Ti Super 额定为 350 瓦，5070 Super 为 275 瓦，比基础型号增加了 50 至 55 瓦。与以往 Super 版本仅提供适度功耗提升不同，这些增幅相当大，可能是由于增加了硅资源所致。
+中国存储制造商江波龙预测 2026 年上半年利润将暴涨约 60000%，达到近 15 亿美元，主要驱动因素是 AI 相关芯片需求激增。
 
-rss · TechPowerUp News · 7月7日 21:59
+rss · Tom's Hardware · 7月7日 16:13
 
-**背景**: 英伟达通常会在产品周期中期发布 GPU 系列的“Super”变体，以提升性能并延长其架构的生命周期。基于 Blackwell 架构的 RTX 50 系列最近发布了多款型号，但由于市场策略的转变，Super 系列曾被传言推迟或取消。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://seasonic.com/wattage-calculator/">PSU Wattage Calculator for PC Power Supplies - Seasonic</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#Hardware`, `#RTX 50 Series`, `#GPU`, `#Tech News`
+**标签**: `#AI hardware`, `#memory and storage`, `#semiconductor industry`, `#market trends`, `#China tech`
 
 ---
 
 <a id="item-13"></a>
-## [开发者将 Linux 移植至 Atari Jaguar 主机](https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped) ⭐️ 7.5/10
+## [LG 显示器通过微软商店自动安装应用并推送 McAfee 广告](https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads) ⭐️ 6.5/10
 
-一名开发者已成功将 Linux 操作系统移植到 1993 年发布的 Atari Jaguar 游戏机上，该主机以其复杂的架构和商业上的失败而闻名。这一成就克服了严重的硬件障碍，包括内存限制和缺乏内存管理单元（MMU）。 此次移植展示了高级系统编程技能，通过将现代操作系统适配到具有“Tom 和 Jerry”双协处理器等非标准特性的遗留硬件上。它为对底层优化感兴趣的复古计算爱好者和嵌入式系统开发人员提供了技术基准。 Atari Jaguar 配备了一个 Motorola 68000 CPU 以及两个定制的 32 位协处理器，使其并行处理功能独特但编程难度极大。Linux 移植版本需要定制解决方案来处理缺乏 MMU 以及主机有限的 2MB 内存的问题。
+一位用户报告称，将新的 LG 显示器连接到 Windows 电脑后，系统通过微软商店自动安装了一个应用程序，并立即弹出 McAfee 广告。这种行为利用了微软的自动安装机制，允许设备制造商预先配置 UWP（通用 Windows 平台）设备应用，在首次检测到兼容硬件时静默安装。 这种做法引发了人们对微软商店官方渠道可信度以及 Windows 自动设备安装功能完整性的严重担忧。它影响到每一位连接新外设的普通 Windows 用户，将本应无缝的硬件设置过程变成了令人反感的广告体验，削弱了用户对硬件制造商和微软应用生态系统的信心。 这种滥用行为依赖于微软合法的 UWP 设备应用框架，该框架本意是让制造商为其硬件提供配套应用。用户可以通过将注册表项 HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceMetadata!PreventDeviceMetadataFromNetwork 的值从 0 改为 1，或通过组策略设置禁用自动驱动/应用安装来缓解此问题。
 
-rss · Tom's Hardware · 7月7日 11:53
+rss · Tom's Hardware · 7月7日 14:46
 
-**背景**: Atari Jaguar 曾作为 64 位主机进行营销，但其架构是 32 位和 64 位组件的混合体，包括 Motorola 68000 以及名为 Tom 和 Jerry 的定制芯片。Linux 通常依赖 MMU 进行内存保护和虚拟化，因此将其移植到无 MMU 的嵌入式系统需要进行大量的内核修改和替代安全模型设计。
+**背景**: 微软为 UWP 设备应用设计的自动安装机制初衷是让配套应用程序（例如打印机实用工具、显示器色彩配置文件或外设配置工具）在用户连接相应硬件时能够自动安装。此功能依赖于硬件制造商向微软注册的设备元数据，使 Windows 能够识别兼容设备并从微软商店获取其关联应用。虽然合法的配套应用可以增强硬件功能，但此机制也可能被制造商滥用，在硬件设置过程中未经用户明确同意捆绑推广内容或第三方软件（如 McAfee）。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Atari_Jaguar">Atari Jaguar - Wikipedia</a></li>
-<li><a href="https://linuxvox.com/blog/linux-porting/">Linux Porting: A Comprehensive Guide — linuxvox.com</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/devapps/auto-install-for-uwp-device-apps">Automatic Installation for UWP Device Apps - Windows drivers</a></li>
+<li><a href="https://support.microsoft.com/en-US/Windows/Hardware/Drivers/automatically-get-recommended-and-updated-hardware-drivers">Automatically get recommended and updated hardware drivers</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Linux`, `#Retro Computing`, `#Atari Jaguar`, `#Systems Programming`, `#Embedded Systems`
+**标签**: `#adware`, `#windows`, `#microsoft-store`, `#lg`, `#privacy`
 
 ---
 
 <a id="item-14"></a>
-## [铠侠与闪迪推出全球最密集 332 层 BiCS10 NAND 闪存](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand) ⭐️ 7.5/10
+## [英国赋予数据中心申请"国家重要性"地位的选项，可凌驾于地方规划法规之上，将开发时间缩短一年——符合条件项目将绕过地方议会，节省超过 10 亿美元的邻避冲突成本](https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights) ⭐️ 6.5/10
 
-铠侠和闪迪已开始对其第十代 BiCS10 3D NAND 闪存进行样品测试，该闪存拥有 332 个有效层。这项新技术实现了超过 29 Gb/mm²的行业领先面密度，标志着存储容量的重大飞跃。 这一进展是半导体制造领域的一个重要里程碑，通过推动垂直堆叠技术的极限，提供了更高的性能和密度。它加剧了三星和 SK 海力士等存储巨头之间的竞争，推动了固态硬盘和移动存储解决方案的创新。 BiCS10 架构利用先进的横向扩展技术，使其位密度比前代产品 BiCS8 提高了约 59%。此外，它还提供了 33%更快的数据传输速度，并计划于 2026 年实现大规模生产。
+英国政府已将数据中心列为国家重要基础设施，允许其绕过地方议会审批流程，潜在节省超过 10 亿美元的开发成本并缩短一年的开发周期。
 
-rss · Tom's Hardware · 7月7日 11:10
+rss · Tom's Hardware · 7月7日 12:34
 
-**背景**: 3D NAND 闪存将存储单元在垂直方向上堆叠成多层，而不是平铺在表面上，从而在相同的物理空间内实现更大的容量。面密度衡量每单位面积可以存储多少位，数值越高表示对硅片空间的利用效率越高。随着传统缩放方法面临物理极限，增加层数已成为推进存储技术的主要策略。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techtimes.com/articles/317071/20260524/kioxia-nand-flash-mass-production-accelerates-bics10-target-puts-samsung-sk-hynix-edge.htm">Kioxia NAND Flash Mass Production Accelerates: BiCS10 Target ...</a></li>
-<li><a href="https://www.techpowerup.com/350483/sandisk-announces-sampling-of-bics10-1-tb-tlc-3d-nand-flash-memory">Sandisk Announces Sampling of BiCS10 1 Tb TLC 3D NAND Flash ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#3D NAND`, `#Storage Hardware`, `#Semiconductors`, `#Kioxia`, `#SanDisk`
+**标签**: `#data-centers`, `#regulation`, `#infrastructure`, `#UK-policy`, `#tech-industry`
 
 ---
 
 <a id="item-15"></a>
-## [工程师在家组装 8192 核 RISC-V 显卡](https://www.tomshardware.com/maker-stem/modder-creates-8-192-core-gpu-at-home-out-of-risc-v-microcontrollers-full-graphics-card-will-draw-over-2-000-watts-of-power-requires-a-3d-printer-to-program) ⭐️ 7.5/10
+## [英特尔申请 XBM 内存专利，以 UCIe 互连 DRAM 堆栈替代 HBM](https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck) ⭐️ 6.5/10
 
-工程师马蒂亚斯·巴尔维耶尔（网名 Bitluni）使用数千个廉价的 RISC-V 微控制器组装了一台拥有 8,192 个核心的定制图形处理单元。这个庞大的并行计算设备功耗超过 2000 瓦，并利用 3D 打印技术进行编程和制造。 该显卡通过自定义 PCB 上的数千个 CH570 微控制器互连构建而成，由于其功耗高达 2000 瓦，因此需要显著的动力管理。其独特的制造方法涉及使用 3D 打印机制作电路板，从而实现快速原型设计和复杂的互连性，这是传统制造在成本效益方面难以复制的。
-
-rss · Tom's Hardware · 7月7日 10:20
-
-**背景**: RISC-V 是一个基于精简指令集计算机原则的自由开放标准指令集架构，允许开发者在不支付版税的情况下实施设计。与 x86 或 ARM 等专有架构不同，RISC-V 赋予用户广泛定制和扩展其硬件解决方案的能力。这种开放性培育了一个充满活力的微控制器和开发板生态系统，适用于从简单的物联网设备到复杂并行计算项目的各种应用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.hackster.io/news/bitluni-hacked-together-a-diy-8-192-core-gpu-296382e999d8">Bitluni Hacked Together a DIY 8,192-Core GPU - Hackster.io</a></li>
-<li><a href="https://hackaday.com/2026/07/06/gluing-8192-mcus-together-to-make-a-gpu/">Gluing 8192 MCUs Together To Make A GPU - Hackaday</a></li>
-<li><a href="https://en.wikipedia.org/wiki/RISC-V">RISC-V - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#RISC-V`, `#GPU`, `#DIY Hardware`, `#Parallel Computing`, `#Maker`
-
----
-
-<a id="item-16"></a>
-## [英特尔专利曝光 XBM 内存架构，旨在替代昂贵的 HBM 硅中介层](https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck) ⭐️ 7.5/10
-
-英特尔申请了一项新的 XBM 内存架构专利，该架构消除了传统高带宽内存（HBM）中昂贵硅中介层的需求。该设计采用后端晶体管 DRAM 堆栈，并通过 UCIe 小芯片链路进行连接，以降低封装复杂性和成本。 这项创新通过提供比当前 HBM 解决方案更具可扩展性和成本效益的替代方案，解决了 AI 基础设施中日益严重的内存瓶颈问题。通过摆脱大型硅中介层，英特尔旨在简化制造流程并提高下一代 AI 加速器的良率。 XBM 架构采用 1T1C（一个晶体管，一个电容）后端 DRAM，其中晶体管制造在后段金属层中，而不是前端硅中。它利用开放的 UCIe 标准进行芯片间通信，并包含内置修复逻辑以提高可靠性。
+英特尔申请了一项名为 XBM（Cross-Batch Memory，跨批次内存）的新型高带宽内存架构专利，采用后端晶体管 DRAM 堆栈并通过 UCIe 芯粒互连连接，从而省去了 HBM 封装中昂贵的硅中介层。该专利于 2026 年 7 月 2 日公布，还包含内置修复逻辑，目标速率为 32 GT/s，旨在与 HBM4 竞争。 HBM 目前是 AI 加速器生产中最大的成本驱动因素和供应瓶颈之一，硅中介层（如台积电的 CoWoS-S）是关键瓶颈。如果 XBM 能够以更低的成本和复杂度提供相当的带宽，它有望缓解 AI 内存紧缺问题，降低英特尔对第三方 HBM 供应商的依赖，并为未来 AI 系统提供更具扩展性的路径。 XBM 的目标速率为 32 GT/s——可与 HBM4 竞争——并用 UCIe 链路取代硅中介层。UCIe 是一种由英特尔、AMD、台积电、三星等共同开发的开放式裸片间互连标准。该专利还描述了内置修复机制，以应对 DRAM 裸片堆叠中固有的良率问题。
 
 rss · Tom's Hardware · 7月7日 10:00
 
-**背景**: 高带宽内存（HBM）目前通过在硅中介层上垂直堆叠 DRAM 芯片来主导 AI 芯片市场，并通过硅通孔（TSV）将中介层连接到处理器。然而，硅中介层在大规模生产中难以制造，显著增加了先进封装的成本。通用小芯片互连 Express（UCIe）是一项开放的行业标准，使不同的芯片能够在封装内高效通信，为模块化设计奠定了基础。
+**背景**: 高带宽内存（HBM）是一种用于 AI GPU 和加速器的堆叠 DRAM 技术，通过将多个 DRAM 裸片垂直堆叠来提供海量数据吞吐。它需要硅中介层——一块放置在内存堆栈与处理器裸片之间的硅片，用于路由数千条高速信号——这种中介层成本高昂且供应紧张，尤其在台积电的 CoWoS 封装中更是如此。UCIe（Universal Chiplet Interconnect Express，通用芯粒互连快线）是一种新兴的开放式标准，用于在单个封装内连接各个芯粒，得到了主要行业厂商的支持。后端晶体管 DRAM 是指在主要 CMOS 层之后再制造晶体管结构，有望实现不同于传统 HBM 的堆叠方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck">Intel patent reveals new XBM memory architecture that ditches ...</a></li>
 <li><a href="https://wccftech.com/intel-xbm-memory-takes-aim-at-hbm4-32-gt-s-speeds-lower-costs-through-ucie-links/">Intel’s XBM Memory Takes Aim At HBM4, Promising 32 GT/s ...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/UCIe">UCIe - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Semiconductors`, `#AI Hardware`, `#Memory Architecture`, `#Intel`, `#HBM Alternatives`
+**标签**: `#semiconductors`, `#Intel`, `#HBM`, `#memory-architecture`, `#AI-hardware`
 
 ---
 
-<a id="item-17"></a>
-## [六大主流 AI 视频生成工具深度横评](https://36kr.com/p/3886403765596418?f=rss) ⭐️ 7.3/10
+<a id="item-16"></a>
+## [快造科技完成 10 亿元融资，消费级 3D 打印近年最大单笔融资](https://36kr.com/p/3885728813691145?f=rss) ⭐️ 6.3/10
 
-文章对六款主流 AI 视频生成工具进行了深度横向评测，重点分析了 Seedance 2.0 在多模态能力和叙事方面的优势，并将其与可灵 3.0 和 Sora 2.0 等竞品进行了对比。 关键差异点包括 Seedance 2.0 的导演级镜头控制和主体迁移功能、可灵 3.0 在中文语境下更优的物理模拟能力，以及通义万相为企业提供的私有化部署选项。
-
-rss · 36氪 · 7月8日 03:03
-
-**背景**: AI 视频生成已从短促、低质量的片段演变为具有连贯性和真实物理规律的分钟级长视频。当前模型支持文本、图像和音频等多种输入，能够完成自动分镜和跨场景角色一致性维护等复杂任务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://seeddance.ai/seedance-2-0">Seedance 2.0 — Multimodal AI Video with</a></li>
-<li><a href="https://seed.bytedance.com/en/seedance2_0">Seedance 2.0 - seed.bytedance.com</a></li>
-<li><a href="https://resource.digen.ai/seedance-2-0-ai-video-generation-guide-2026/">Seedance 2.0 AI Video: 2026 Review & Guide</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Video Generation`, `#Tool Comparison`, `#Seedance 2.0`, `#Content Creation`, `#Multimodal AI`
-
----
-
-<a id="item-18"></a>
-## [快造科技获 10 亿元融资，营收增长十倍](https://36kr.com/p/3885728813691145?f=rss) ⭐️ 7.3/10
-
-消费级 3D 打印企业快造科技完成了由凯辉基金领投的 10 亿元人民币新一轮融资，这是近两年该领域最大规模的单笔融资。此次融资得益于其旗舰产品 U1 多材料 3D 打印机的成功发布与交付，推动公司营收同比增长了十倍。 这笔巨额融资验证了多材料 3D 打印作为主流消费级技术而非小众极客工具的-commercial viability（商业可行性）。它表明投资者对快造科技通过克服以往打印质量和效率瓶颈来扩大目标市场的能力充满信心。 U1 打印机采用了拥有四项独立工具头的 SnapSwap™系统，与传统单喷嘴方法相比，打印速度提升了五倍，耗材浪费减少了约 80%。该公司已通过成功的 Kickstarter 众筹筹集 2061 万美元，并已向全球交付超过 10 万台设备。
+快造科技（Snapmaker）完成 10 亿元人民币新一轮融资，由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投。得益于旗舰产品 U1 多色多材料 3D 打印机的市场表现，公司营收同比增长 10 倍，目前累计交付已超过 10 万台，U1 在 Kickstarter 平台筹得 2061 万美元，刷新全球 3D 打印品类众筹纪录。 这是近两年一级市场消费级 3D 打印赛道规模最大的单笔融资，也是 2025 年以来消费硬件赛道最大单笔融资之一，表明投资机构普遍认同多色多材料打印技术已从极客圈层迈入大众消费市场。美团、好未来等战略投资方的加入，预示着围绕硬件入口、耗材复购、内容社区和 AI 工具的系统性生态布局正在形成。 U1 采用 4 独立工具头搭配 SnapSwap™快速换头系统，换头仅需约 5 秒，官方宣称相比传统单喷头方案可实现 5 倍打印效率提升、耗材浪费减少约 80%。传统单喷头方案每次换色都需要抽料、进料和冲刷，产生大量废料并大幅延长打印时间，而 U1 通过多工具头架构从底层重构多色打印工作流。U1 于 2026 年 4 月以 899 美元全球发售，约半年内从众筹爆发走向规模化交付。
 
 rss · 36氪 · 7月8日 00:50
 
-**背景**: 传统的消费级 3D 打印机往往只能输出单色、单一材料的产品，且需要大量的后处理，这限制了其在普通消费者中的吸引力。行业正逐渐转向多材料解决方案，以实现无需组装即可直接打印复杂、多彩且功能性的物体。Snapmaker 的创新通过将多个工具头集成到适合桌面的工作流程中，解决了这些痛点，显著降低了创建高质量实体产品的门槛。
+**背景**: 消费级 3D 打印长期以来因单色、单材料的输出体验而被局限在工程师和极客群体中，难以真正进入大众消费市场。多色多材料打印被视为打破这一瓶颈的关键方向，但行业主流方案依赖单喷头反复换料，每次换色都需要抽料、冲刷，打印周期动辄数十小时且产生大量废料。Snapmaker 等厂商采用的替代方案是多个独立挤出机或自动供料系统（AMS），让不同颜色和材料各自保持加载状态，从而大幅减少冲刷浪费并支持多材料混合打印。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.snapmaker.com/snapmaker-u1">Snapmaker U1 | Multi-Color 3D Printer with SnapSwap™</a></li>
-<li><a href="https://www.snapmaker.com/en-US/snapmaker-u1/specs">Snapmaker U1 | Multi-Color 3D Printer on Kickstarter Now</a></li>
-<li><a href="https://www.3dtechvalley.com/snapmaker-u1-3d-printer-review/">Snapmaker U1 3D Printer Review: Premium Multi-Tool 3D Printer ...</a></li>
+<li><a href="https://manufactur3dmag.com/snapmaker-u1-3d-printer-launch-april-2026/">Snapmaker U1 3D Printer Launches Worldwide on April 10</a></li>
+<li><a href="https://www.polyfab3d.com/ressources/how-to-reduce-3d-printing-waste-related-to-purging/">How to reduce 3D printing waste related to purging? - Polyfab3D</a></li>
 
 </ul>
 </details>
 
-**标签**: `#3D Printing`, `#Venture Capital`, `#Consumer Hardware`, `#Manufacturing`, `#Snapmaker`
+**标签**: `#3D-printing`, `#funding`, `#consumer-hardware`, `#Snapmaker`, `#startup-news`
+
+---
+
+<a id="item-17"></a>
+## [内存成本占低端智能手机物料清单近六成](https://www.solidot.org/story?sid=84776) ⭐️ 6.3/10
+
+根据 Omdia 的分析数据，2026 年第一季度 400 美元以下智能手机的物料清单中，内存成本几乎占到了 60%，而 TrendForce 预测 2026 年 DRAM 价格还将上涨 50% 以上。Omdia 预计 2026 年 400 美元以下智能手机出货量将同比下降 22%，而 400 美元以上的中高端市场有望增长 5.7%。 这标志着低端智能手机市场正遭受结构性挤压，制造商要么将成本转嫁给消费者，要么削减规格配置，最终将加速市场向中高端机型转移。该趋势与入门级 PC 面临的类似压力相呼应，可能重塑全球智能手机竞争格局，尤其对主打低价的中国厂商影响深远。 为消化内存成本上涨，部分中国制造商在某些机型上从 LTPO 面板降级回 LTPS 面板，每台设备可节省 3-5 美元；其他措施还包括减少摄像头数量、使用更小的图像传感器以及改用上一代 SoC，综合可降低成本 30% 至 40%。LTPS 缺乏 LTPO 的可变刷新率能力，但成本明显更低，因此被下放到中端机型，而 LTPO 则继续保留给旗舰机型。
+
+rss · Solidot · 7月7日 14:15
+
+**背景**: 物料清单（BOM）是指设备中所有物理组件的总成本。LTPO（低温多晶氧化物）是一种先进的 OLED 背板技术，最初由苹果开发，支持可变刷新率（例如 1Hz-120Hz），可提升能效表现。LTPS（低温多晶硅）是较旧且更便宜的背板技术，通常只能以固定刷新率运行，低刷新率下的能效较差。DRAM 是智能手机中的易失性工作内存（RAM），自 2024 年以来一直处于严重的供应紧张状态，原因是 AI 相关的高带宽内存（HBM）和数据中心产能需求挤占了消费级 DRAM 的产能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.digitaltrends.com/phones/ltpo-smartphone-display-explained/">What is an LTPO display? Is it different from regular OLED? - Digital Trends</a></li>
+<li><a href="https://www.oled-info.com/ltpo">LTPO OLED backplane technology</a></li>
+<li><a href="https://www.faceofit.com/ltpo-2-0-vs-3-0-vs-ltps/">LTPO 2.0 vs 3.0 vs LTPS: A Look into Real-World Power Savings</a></li>
+
+</ul>
+</details>
+
+**标签**: `#smartphones`, `#DRAM`, `#supply-chain`, `#semiconductors`, `#market-analysis`
+
+---
+
+<a id="item-18"></a>
+## [计算机程序的构造与解释视频讲座 (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) ⭐️ 6.0/10
+
+MIT 1986 年由 Abelson 和 Sussman 主讲的经典 SICP 视频讲座，是一门以 Scheme 语言为基础的计算机科学基础课程，作为永恒的教育资源广为分享。
+
+hackernews · gjvc · 7月7日 23:57 · [社区讨论](https://news.ycombinator.com/item?id=48825664)
+
+**标签**: `#SICP`, `#computer-science-education`, `#video-lectures`, `#scheme`, `#programming-foundations`
 
 ---
 
 <a id="item-19"></a>
-## [德睿智药获 5200 万美元 B 轮融资推进 AI 减肥药临床](https://36kr.com/p/3885479689465858?f=rss) ⭐️ 7.3/10
+## [Rowboat：开源本地优先的 Claude Desktop 替代品](https://github.com/rowboatlabs/rowboat) ⭐️ 6.0/10
 
-德睿智药已完成 5200 万美元 B 轮融资，用于升级其 Molecule Arts Platform（MAP）并将自研口服 GLP-1 候选药物 MDR-001 推进至 III 期临床试验。该公司计划利用这笔资金扩大其多智能体药物设计能力并实现 AI 原生管线的商业化。 这笔投资凸显了 AI 原生生物技术在竞争激烈的 GLP-1 市场中日益增长的可行性，证明了与传统方法相比，AI 能显著缩短药物发现时间。它表明投资者对能够整合临床反馈以降低研发成本和失败率的数据驱动平台充满信心。 MDR-001 项目仅耗时约 4.5 年、投入 2300 万美元便进入 III 期临床，效率达到行业平均水平的十倍以上。MAP 平台采用“临床数据闭环”系统，利用超过 1300 例的真实临床数据来优化 AI 模型，实现持续迭代。
+Rowboat Labs 推出了 Rowboat，这是一款采用 Apache-2.0 许可证的本地优先（local-first）Claude Desktop 替代品。它将 AI 助手从聊天界面转变为完整的工作环境，内置邮件、会议、浏览器、并行编程和笔记等多个工作面板（work surfaces），并由统一的知识图谱提供上下文支持。 它反映了用户对深度融入实际工作流、而非以聊天为核心的 AI 工具的日益增长的需求；同时其本地优先架构解决了数据主权和隐私问题，这些问题一直是限制企业采用云端 AI 助手的障碍。 所有数据都以纯文本 Markdown 文件形式存储，可随时读取、编辑或删除；该平台兼容任何 LLM（包括通过 Ollama 和 LM Studio 运行的本地模型），并实现了 Agent Client Protocol（ACP）客户端来编排多个 Claude Code 或 Codex 实例。用户还可以通过 GitHub 仓库发布自定义的工作面板 Web 应用。
 
-rss · 36氪 · 7月8日 00:00
+hackernews · segmenta · 7月7日 16:10 · [社区讨论](https://news.ycombinator.com/item?id=48819808)
 
-**背景**: GLP-1 受体激动剂是一类主要用于治疗 2 型糖尿病和肥胖症的药物，口服制剂相比注射剂具有显著的便利性优势。AI 驱动的药物发现利用机器学习预测分子特性并优化结构，旨在取代制药开发中传统且耗时的试错过程。
+**背景**: 本地优先（local-first）是一种将数据存放在用户设备而非云端的架构模式，支持离线访问、保护隐私并赋予用户数据所有权。Claude Desktop 是 Anthropic 推出的与 Claude 模型交互的官方桌面应用。本文提到的"工作面板"概念扩展了上下文工程（context engineering）的理念——让 AI 助手能够结构化、持久地访问相关的工作产物（邮件、笔记、代码、浏览器会话），而非仅仅依赖短暂的聊天历史。Granola 是本地 AI 会议笔记品类的开创者，Rowboat 在此基础上进一步发展。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://link.springer.com/article/10.1007/s44345-025-00037-5">AI-enabled drug and molecular discovery: computational ...</a></li>
-<li><a href="https://jisem-journal.com/index.php/journal/article/view/12898">Accelerating Drug Discovery: How Agentic AI and Multi-Agent ...</a></li>
+<li><a href="https://lofi.so/">Local-First Software</a></li>
+<li><a href="https://medium.com/the-low-end-disruptor/llm-context-engineering-a-practical-guide-248095d4bf71">LLM Context Engineering: a practical guide - Medium</a></li>
+<li><a href="https://www.anthropic.com/product/claude-cowork">Claude Cowork | Anthropic’s agentic AI for knowledge work</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Drug Discovery`, `#Biotech Funding`, `#GLP-1`, `#Clinical Trials`, `#Machine Learning`
+**社区讨论**: 社区反馈集中在实际功能需求和担忧上：一位用户询问是否支持多人协作的配对提示（pair-prompting），指出 Claude Code 目前仅支持单人使用的明显短板；另一位用户希望增加超越 Gmail 的通用 IMAP 连接器；多位用户担心从现有 Claude Code 环境迁移的成本，因为他们在自定义技能、命令和知识库上已投入大量时间。一位评论者提出了尖锐批评，指出日益严重的"投入产出不对称"问题——AI 工具承诺减少事务性工作，结果反而产生了更多需要阅读的内容。
+
+**标签**: `#ai-tools`, `#local-first`, `#claude-alternative`, `#developer-tools`, `#productivity`
 
 ---
 
 <a id="item-20"></a>
-## [苹果折叠屏 iPhone 进入量产阶段，供应链加紧准备](https://36kr.com/p/3885457443385346?f=rss) ⭐️ 7.3/10
+## [Agentic AI 能否解决嵌入式软件难题？](https://www.eetimes.com/can-agentic-ai-solve-the-embedded-software-problem/) ⭐️ 6.0/10
 
-多方消息证实，苹果首款折叠屏 iPhone 已进入量产阶段，代工厂富士康率先启动大规模招工以储备组装人力。这一进展打破了此前关于产品延期的传闻，暗示该产品有望在 9 月交付。 这标志着苹果在竞争激烈的折叠屏智能手机市场中迈出重要一步，可能会重塑消费者对设备形态的预期。同时也显示出全球供应链的强劲势头，特别是涉及铰链和显示技术的富士康等制造商及零部件供应商。 富士康的招聘工作专门针对折叠屏 iPhone 单元的组装人员，表明其已准备好进行大规模生产。虽然铰链耐用性一直是此类设备的历史挑战，但最近的报道表明这些工程难题正在得到解决，以满足生产计划。
+EE Times 探讨了 agentic AI 能否应对嵌入式软件领域的挑战，并引用了 Ambarella 的 Muneyb Minhazuddin 的观点：在边缘设备上运行的 AI 代理需要 CPU 算力配合专用硬件加速器。 这一议题值得关注，因为在资源受限的边缘设备上部署 agentic AI 可能改变嵌入式系统开发的格局，但它也引出关键问题：硬件需求、性能权衡，以及现有边缘芯片是否足以承载自主 AI 工作负载。 以 AI 视觉处理器和边缘 AI 芯片著称的 Ambarella 提出，应采用通用 CPU 加硬件加速器的异构计算方案。这反映出业界在边缘 AI 推理负载中评估 ASIC、FPGA 与 NPU 性能的更广泛趋势。
 
-rss · 36氪 · 7月7日 10:59
+rss · EE Times · 7月7日 22:00
 
-**背景**: 折叠屏智能手机市场近年来增长迅速，各大制造商在铰链耐用性、屏幕折痕最小化和软件适配方面展开激烈竞争。苹果因其强大的生态系统而备受期待，尽管之前的版本曾因液态金属铰链等复杂的机械要求导致延迟。
+**背景**: Agentic AI 指的是能够自主规划、推理并采取行动以达成目标的 AI 系统，所需的人类监督较少，超越了简单的聊天机器人交互。嵌入式软件运行在资源受限的设备上，如微控制器和边缘处理器，其算力、内存和功耗预算远不如云端环境充裕。边缘 AI 硬件加速（通常通过 NPU、DSP 或专用 ASIC 模块实现）对于在数据中心之外高效运行神经网络推理至关重要。Ambarella 是一家专注于 AI 视觉和边缘 AI SoC 的半导体公司。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://iphoneopen.com/articles/foldable-iphone-hinge-patent-analysis.html">Foldable iPhone: Navigating the Patent Thicket Surrounding ...</a></li>
-<li><a href="https://www.techtimes.com/articles/319001/20260625/apple-start-foldable-iphone-mass-production-july-hinge-issue-eases.htm">Apple To Start Foldable IPhone Mass Production In July As ...</a></li>
+<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">Agentic AI, explained - MIT Sloan</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is agentic AI? - IBM</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#Foldable Phones`, `#Tech News`, `#Manufacturing`
+**标签**: `#agentic-ai`, `#embedded-systems`, `#edge-computing`, `#AI-hardware`, `#embedded-software`
 
 ---
