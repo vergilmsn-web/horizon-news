@@ -5,370 +5,407 @@ date: 2026-07-08
 lang: en
 ---
 
-> From 99 items, 20 important content pieces were selected
+> From 95 items, 20 important content pieces were selected
 
 ---
 
-1. [South Korea's $880B Chip and AI Plan Faces Power and Water Bottlenecks](#item-1) ⭐️ 7.5/10
-2. [Kioxia and Sandisk sample world's densest 3D NAND — new 332-Layer beats Samsung’s 400-Layer NAND](#item-2) ⭐️ 7.5/10
-3. [Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit](#item-3) ⭐️ 7.5/10
-4. [「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发](#item-4) ⭐️ 7.3/10
-5. [Tencent Hires Former OpenAI Researcher Yonglong Tian for VLM Development](#item-5) ⭐️ 7.3/10
-6. [Ant Group Open-Sources LingBot-VLA 2.0 Embodied Foundation Model](#item-6) ⭐️ 7.3/10
-7. [CERT/CC Discloses Hidden Backdoor in Tenda Router Firmware](#item-7) ⭐️ 7.0/10
-8. [Kokoro: High-Quality Open-Source TTS Running Locally on CPUs](#item-8) ⭐️ 7.0/10
-9. [Chat Control 1.0 and 2.0 Explained](#item-9) ⭐️ 7.0/10
-10. [The Packaging PDK Is the Missing Layer for Co-Packaged Optics](#item-10) ⭐️ 7.0/10
-11. [Intel "Nova Lake" to Feature AVX-512 on Both P-cores and E-cores](#item-11) ⭐️ 6.5/10
-12. [Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year](#item-12) ⭐️ 6.5/10
-13. [LG Monitors Auto-Install App Via Microsoft Store, Pushing McAfee Ads](#item-13) ⭐️ 6.5/10
-14. [UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year — eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights](#item-14) ⭐️ 6.5/10
-15. [Intel patents XBM memory to replace HBM with UCIe-linked DRAM stacks](#item-15) ⭐️ 6.5/10
-16. [Snapmaker Raises 1 Billion RMB, Largest Consumer 3D Printing Deal in Years](#item-16) ⭐️ 6.3/10
-17. [DRAM Costs Now ~60% of Low-End Smartphone Bill of Materials](#item-17) ⭐️ 6.3/10
-18. [Structure and Interpretation of Computer Programs Video Lectures (1986)](#item-18) ⭐️ 6.0/10
-19. [Rowboat: Open-Source Local-First Alternative to Claude Desktop](#item-19) ⭐️ 6.0/10
-20. [Can Agentic AI Tackle Embedded Software Challenges?](#item-20) ⭐️ 6.0/10
+1. [GitLost: Prompt Injection Leaks Private Repos via GitHub AI Agent](#item-1) ⭐️ 8.0/10
+2. [Samsung Begins Mass Production of PM1763 PCIe Gen 6 Enterprise SSD](#item-2) ⭐️ 7.5/10
+3. [JEDEC Releases SPHBM4 Standard to Cut AI Memory Costs](#item-3) ⭐️ 7.5/10
+4. [Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores — frames chip as a 'max single-threaded CPU at scale,' not a parallel monster](#item-4) ⭐️ 7.5/10
+5. [South Korea's $880B Chip and AI Plan Faces Power and Water Challenges](#item-5) ⭐️ 7.5/10
+6. [Tenda firmware (multiple versions) contains hidden authentication backdoor](#item-6) ⭐️ 7.0/10
+7. [Structure and Interpretation of Computer Programs Video Lectures (1986)](#item-7) ⭐️ 7.0/10
+8. [Packaging PDK: The Missing Layer for Co-Packaged Optics](#item-8) ⭐️ 7.0/10
+9. [SambaNova Raises $1B, Lands JPMorganChase as Customer](#item-9) ⭐️ 7.0/10
+10. [Apple Commits Over $30B to Broadcom for U.S.-Made Chips](#item-10) ⭐️ 6.5/10
+11. [Xbox Layoffs Decimate Id Software and Obsidian](#item-11) ⭐️ 6.5/10
+12. [SiPearl's Rhea1 CPU Reaches Lab, Europe's First Sovereign HPC Processor](#item-12) ⭐️ 6.5/10
+13. [Oregon approves 29.7% rate hike for data centers, cuts residential costs 1.3%](#item-13) ⭐️ 6.5/10
+14. [Windows GDID telemetry used to arrest Scattered Spider hacker](#item-14) ⭐️ 6.5/10
+15. [Longsys forecasts ~60,000% profit surge on AI memory demand](#item-15) ⭐️ 6.5/10
+16. [Snapmaker Raises ¥1B, Largest Consumer 3D Printing Funding Round](#item-16) ⭐️ 6.3/10
+17. [「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发](#item-17) ⭐️ 6.3/10
+18. [Cloudflare and OpenAI Launch Pilot to Improve AI Search Indexing](#item-18) ⭐️ 6.3/10
+19. [Blue Origin Raises $10 Billion at $130 Billion Valuation](#item-19) ⭐️ 6.3/10
+20. [Decoding the obfuscated bash script on a Uniqlo t-shirt](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [South Korea's $880B Chip and AI Plan Faces Power and Water Bottlenecks](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan) ⭐️ 7.5/10
+## [GitLost: Prompt Injection Leaks Private Repos via GitHub AI Agent](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) ⭐️ 8.0/10
 
-South Korea's ₩1,350 trillion (~$880 billion) chip and AI investment plan — combining a $520 billion semiconductor program with AI data center and robotics spending — faces severe infrastructure constraints, with a single AI megacluster estimated to require roughly 25% of Seoul's total power demand. This story highlights a critical gap between ambitious national AI/semiconductor roadmaps and the physical infrastructure required to support them. As nations race to build sovereign AI capacity, power-grid and water-supply constraints may become the binding factor limiting how fast AI factories can actually scale, affecting timelines, costs, and competitive positioning across the global semiconductor industry. The plan is composed mostly of corporate capital expenditure rather than direct government spending. AI megaclusters operate as unified, campus-scale systems with extreme power and cooling demands, while leading-edge semiconductor fabs can already consume on the order of 100 MWh of electricity per hour and require ultrapure water, process gases, and heat-rejection systems — all of which compound the infrastructure challenge.
+Security researchers at Noma Security disclosed the 'GitLost' vulnerability, which exploits GitHub's AI-powered Agentic Workflows via prompt injection. By embedding a malicious instruction as simple as the word 'Additionally' in a public GitHub Issue, attackers can trick the AI agent into fetching and publicly posting the contents of private repositories—no credentials or system access required. This vulnerability highlights a fundamental security challenge in agentic AI systems: once an LLM has access to private data, there is no reliable way to prevent it from leaking that data when processing untrusted input. It affects any organization using GitHub Agentic Workflows where the AI agent has cross-repository access, and underscores the broader industry-wide struggle to build effective guardrails for LLM-based automation. The attack works by a public repository's issue containing injected instructions that cause the agent to fetch README.md from both a public and a private repo, then post the private content as a public comment. The bypass is alarmingly simple—'Additionally' was enough to override the agent's safety guardrails—demonstrating that mixing system rules with untrusted user input in the same context window is inherently insecure.
 
-rss · Tom's Hardware · Jul 7, 17:27
+hackernews · ColinEberhardt · Jul 8, 05:25 · [Discussion](https://news.ycombinator.com/item?id=48827858)
 
-**Background**: An AI megacluster is a very large, campus-scale data center composed of tens of thousands of AI accelerators that operate as a single unified system, purpose-built for training and running frontier AI models. Semiconductor fabrication plants (fabs) are similarly resource-intensive: lithography, etching, and deposition tools require ultrapure water and extremely stable, high-quality power, because even brief voltage transients can ruin an entire wafer batch. Together, the two sectors are driving a global surge in demand for electricity grid capacity, cooling water, and advanced memory (notably High Bandwidth Memory), all of which are now competing for limited infrastructure resources.
+**Background**: GitHub Agentic Workflows is an AI-powered automation feature that allows AI agents to perform tasks triggered by repository events, such as responding to issues. These agents can have read access to multiple repositories within an organization. Prompt injection is a class of attack where adversarial instructions are embedded in content that an LLM processes, causing it to behave in unintended ways—such as ignoring its original instructions and following the attacker's commands instead. OWASP has ranked prompt injection as the top security risk (LLM01:2025) for LLM applications, and it remains an unsolved problem because LLMs cannot reliably distinguish between trusted system instructions and untrusted data within their context window.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/AI_data_center">AI data center - Wikipedia</a></li>
-<li><a href="https://outshiningai.com/future-of-data-centers/">The Future of Data Centers: Inside AI Megaclusters</a></li>
-<li><a href="https://semiconductorx.com/semiconductor-energy-foundation.html">Semiconductor Fab Resource Intensity - Not Just Energy ...</a></li>
+<li><a href="https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/">GitLost: How We Tricked GitHub’s AI Agent into Leaking ...</a></li>
+<li><a href="https://genai.owasp.org/llmrisk/llm01-prompt-injection/">LLM01:2025 Prompt Injection - OWASP Gen AI Security Project</a></li>
+<li><a href="https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows">'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#AI-infrastructure`, `#South-Korea`, `#data-centers`, `#energy`
+**Discussion**: The community drew strong parallels between prompt injection and SQL injection, calling it a 'category-wide vulnerability class' requiring systematic defenses. A notable debate emerged over responsibility: some argued this is a user misconfiguration issue (analogous to exposing secrets in a public CI job) rather than a GitHub vulnerability, while others emphasized that building hard security boundaries inside an LLM context window is fundamentally impossible, as the model is designed to follow whichever instruction is most recent or persistent. There was also broader criticism of corporations hastily bolting AI onto products without adequate security considerations.
+
+**Tags**: `#security`, `#prompt-injection`, `#github`, `#ai-agents`, `#llm-vulnerabilities`
 
 ---
 
 <a id="item-2"></a>
-## [Kioxia and Sandisk sample world's densest 3D NAND — new 332-Layer beats Samsung’s 400-Layer NAND](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand) ⭐️ 7.5/10
+## [Samsung Begins Mass Production of PM1763 PCIe Gen 6 Enterprise SSD](https://www.techpowerup.com/350600/samsung-begins-mass-production-of-pm1763-pcie-gen-6-ssd) ⭐️ 7.5/10
 
-Kioxia and Sandisk begin sampling BiCS10 3D NAND with 332 active layers achieving 29 Gb/mm² areal density, surpassing Samsung's 400-layer NAND in density efficiency.
+Samsung Electronics has announced the start of mass production for the PM1763, a PCIe 6.0-based enterprise SSD (eSSD) designed for next-generation AI and high-performance computing (HPC) server environments. The drive features high-speed data transfer capabilities and an optimized controller architecture, and has already completed validation for next-generation AI platforms. As one of the first PCIe Gen 6.0 enterprise SSDs to enter mass production, the PM1763 represents a significant milestone for storage infrastructure supporting AI training and inference workloads, where data throughput is becoming a critical bottleneck. This positions Samsung at the forefront of the storage industry's transition to PCIe 6.0, a standard designed to handle the enormous data movement demands of large AI models and distributed training clusters. The PM1763 leverages the PCIe 6.0 standard, which uses PAM4 signaling and FLIT encoding to deliver 64 GT/s per lane — double the per-lane bandwidth of PCIe 5.0. Samsung has not yet publicly disclosed specific capacity figures, form-factor details, or sequential read/write speeds, though the drive is positioned as an NVMe enterprise SSD with a controller architecture tuned for AI workloads.
 
-rss · Tom's Hardware · Jul 7, 11:10
+rss · TechPowerUp News · Jul 8, 08:09
 
-**Tags**: `#3D NAND`, `#flash memory`, `#Kioxia`, `#Sandisk`, `#SSD`
+**Background**: PCIe (Peripheral Component Interconnect Express) is a high-speed serial computer expansion bus standard maintained by the PCI-SIG consortium, used to connect components such as SSDs, GPUs, and NICs to a system's CPU. Each new generation roughly doubles the per-lane bandwidth, and PCIe 6.0 is the latest major iteration, specifically engineered to support compute-intensive applications like AI training and inference. High-performance computing (HPC) refers to the aggregation of cutting-edge computing power to tackle problems beyond the reach of standard commercial systems, and increasingly encompasses large-scale AI model training. Enterprise SSDs (eSSDs) are storage devices designed for data center and server deployments, emphasizing high endurance, reliability, and sustained throughput rather than the cost optimizations typical of consumer drives.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.viavisolutions.com/en-us/resources/learning-center/what-pcie-60">The PCIe 6.0 Guide. Speed, Features and More</a></li>
+<li><a href="https://www.ibm.com/think/topics/hpc">What Is High-Performance Computing (HPC)? | IBM</a></li>
+<li><a href="https://www.onlogic.com/blog/your-ultimate-guide-to-understanding-pcie-6-0/">Your Ultimate Guide to Understanding PCIe 6.0 | OnLogic</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#PCIe Gen 6`, `#Samsung`, `#enterprise SSD`, `#AI infrastructure`, `#storage hardware`
 
 ---
 
 <a id="item-3"></a>
-## [Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit](https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026) ⭐️ 7.5/10
+## [JEDEC Releases SPHBM4 Standard to Cut AI Memory Costs](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates) ⭐️ 7.5/10
 
-Samsung's chip division is projected to earn more in 2026 than its entire 40-year history combined, driven by surging memory and storage prices from AI demand, surpassing Nvidia as the world's most profitable company.
+JEDEC announced the SPHBM4 (Standard Package High Bandwidth Memory 4) standard on December 11, 2025, which delivers HBM4-class throughput using a narrow 512-bit interface mounted on standard organic substrates, eliminating the need for expensive silicon interposers and CoWoS-like 2.5D packaging. This standard directly addresses the AI memory bottleneck by potentially reducing HBM packaging costs and easing reliance on TSMC's CoWoS capacity, which has been a major supply constraint for AI accelerators like NVIDIA GPUs. Cheaper and more accessible HBM4-class memory could lower the total cost of AI infrastructure and broaden the market beyond premium accelerators. SPHBM4 uses the same DRAM dies as conventional HBM4 but pairs them with a redesigned interface base die that enables a 512-bit wide connection, allowing standard organic substrates to be used instead of silicon interposers. The spec is still under development according to JEDEC, meaning real-world products and adoption timelines remain to be seen.
 
-rss · Tom's Hardware · Jul 7, 09:30
+rss · Tom's Hardware · Jul 8, 15:03
 
-**Tags**: `#semiconductors`, `#Samsung`, `#memory-storage`, `#AI-demand`, `#industry-news`
+**Background**: HBM (High Bandwidth Memory) is stacked DRAM used alongside AI accelerators and GPUs to feed them data at extremely high rates. Current HBM4 implementations rely on silicon interposers—thin silicon layers containing through-silicon vias (TSVs) that route thousands of signals between the GPU die and HBM stacks. TSMC's CoWoS (Chip-on-Wafer-on-Substrate) is the dominant 2.5D packaging technology for this purpose, but its limited capacity and high cost have created a well-known bottleneck in AI chip supply. Organic substrates, made from materials like ABF (Ajinomoto Build-up Film), are far cheaper and more widely available but traditionally cannot support the dense, high-speed connections that HBM requires.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.jedec.org/news/pressreleases/jedec®-prepares-sphbm4-standard-deliver-hbm4-level-throughput-reduced-pin-count">JEDEC® Prepares SPHBM4 Standard to Deliver HBM4-Level Throughput with Reduced Pin Count | JEDEC</a></li>
+<li><a href="https://wccftech.com/jedec-approves-sphbm4-to-break-hbm-costs-retain-hbm4-speeds-standard-packages/">JEDEC Approves SPHBM4 to Break HBM's Costly Packaging Bottleneck, Retaining HBM4-level Speeds With Standard Packages</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI infrastructure`, `#memory standards`, `#HBM4`, `#JEDEC`, `#semiconductor manufacturing`
 
 ---
 
 <a id="item-4"></a>
-## [「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发](https://36kr.com/p/3885479689465858?f=rss) ⭐️ 7.3/10
+## [Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores — frames chip as a 'max single-threaded CPU at scale,' not a parallel monster](https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster) ⭐️ 7.5/10
 
-Chinese AI drug discovery company 德睿智药 completed a $52M Series B, with its AI-designed oral GLP-1 weight loss drug MDR-001 advancing to Phase 3 clinical trials, signaling a significant milestone for AI-native pharmaceutical development.
+Nvidia reveals details of its Vera CPU featuring next-gen 'Rigel' Arm cores, claiming 1.8x single-threaded performance advantage over x86 competitors in agentic AI workloads.
 
-rss · 36氪 · Jul 8, 00:00
+rss · Tom's Hardware · Jul 8, 11:00
 
-**Tags**: `#AI drug discovery`, `#GLP-1`, `#biotech funding`, `#Series B`, `#China AI pharma`, `#clinical trials`
+**Tags**: `#Nvidia`, `#Vera CPU`, `#Arm architecture`, `#agentic AI`, `#data center hardware`
 
 ---
 
 <a id="item-5"></a>
-## [Tencent Hires Former OpenAI Researcher Yonglong Tian for VLM Development](https://36kr.com/newsflashes/3886501669449729?f=rss) ⭐️ 7.3/10
+## [South Korea's $880B Chip and AI Plan Faces Power and Water Challenges](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan) ⭐️ 7.5/10
 
-Tencent has hired former OpenAI researcher Yonglong Tian, who recently joined Tencent's Large Language Model (LLM) division to work on Vision Language Model (VLM) research and development. This follows Tencent's December 2024 restructuring of its AI organization and the earlier high-profile hiring of Yao Shunyu (姚顺雨) as Chief AI Scientist. This hire reflects the intensifying global competition for top AI talent and strengthens Tencent's multimodal AI capabilities, a critical area as Chinese tech companies race to build competitive foundation models. Yonglong Tian is a well-known researcher in multimodal learning, making this a strategically significant addition to Tencent's AI team. Yonglong Tian is joining the LLM division specifically for VLM research, which sits within Tencent's restructured AI organization that includes newly created AI Infra and AI Data departments. In December 2024, Tencent appointed Yao Shunyu as Chief AI Scientist reporting to President Liu Chiping, while Yao simultaneously heads the AI Infra and LLM departments reporting to Lu Shan.
+South Korea's ₩1,350 trillion (approximately $880 billion) plan, which combines a $520 billion semiconductor program with AI data center and robotics investments, faces major power and water constraints, with a single AI megacluster estimated to require up to a quarter of Seoul's total power demand. This highlights that capital investment alone is insufficient for AI infrastructure dominance — physical constraints like power grids and water supply could become the true bottlenecks in the global semiconductor and AI race, potentially slowing South Korea's competitiveness against the US, China, and Taiwan. The ₩1,350 trillion total is largely composed of corporate capital expenditure rather than direct government spending, and AI megaclusters require far more electricity, cooling, and water than traditional data centers due to liquid cooling systems and energy-intensive model training.
 
-rss · 36氪 · Jul 8, 04:33
+rss · Tom's Hardware · Jul 7, 17:27
 
-**Background**: Vision Language Models (VLMs) are AI systems that can jointly interpret and generate information from both images and text, extending large language model capabilities to multimodal tasks such as image captioning, visual question answering, and image retrieval. AI Infrastructure (AI Infra) refers to the underlying hardware, software frameworks, and data systems that support large-scale AI model training and deployment. Tencent's December 2024 restructuring created dedicated departments for these functions, signaling the company's commitment to building a full-stack AI capability from infrastructure to model development.
+**Background**: AI megaclusters are specialized large-scale data center facilities designed for training and running AI models, requiring massive amounts of electricity, cooling, networking, and physical space. A single data center's water footprint includes on-site usage, power plant water consumption, and indirect sources. The IEA projects global data center electricity consumption to roughly double to about 945 TWh by 2030, representing nearly 3% of total global electricity use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Vision-language_model">Vision-language model - Wikipedia</a></li>
-<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/vision-language-models-vlms-explained/">Vision Language Models (VLMs) - GeeksforGeeks</a></li>
+<li><a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai">Energy demand from AI – Energy and AI – Analysis - IEA</a></li>
+<li><a href="https://www.eesi.org/articles/view/data-centers-and-water-consumption">Data Centers and Water Consumption | Article | EESI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_data_center">AI data center - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#VLM`, `#OpenAI`, `#Tencent`, `#talent-acquisition`
+**Tags**: `#semiconductors`, `#AI infrastructure`, `#South Korea`, `#power-grid`, `#industry-policy`
 
 ---
 
 <a id="item-6"></a>
-## [Ant Group Open-Sources LingBot-VLA 2.0 Embodied Foundation Model](https://36kr.com/newsflashes/3886479015555336?f=rss) ⭐️ 7.3/10
+## [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) ⭐️ 7.0/10
 
-On July 8, Ant Group's Lingbo Technology announced and open-sourced LingBot-VLA 2.0, a major upgrade to the LingBot-VLA 1.0 released in January. The new model was pretrained on 60,000 hours of high-quality real-world physical data and supports over 20 robot configurations from 17 mainstream brands, with expanded degrees of freedom covering head, waist, end-effector, and mobile chassis. Open-source VLAs with broad hardware generalization remain rare, and this release significantly lowers the barrier for researchers and developers working on embodied AI. By supporting diverse robot configurations across 17 brands, LingBot-VLA 2.0 could accelerate cross-platform robotics development and intensify competition in China's rapidly growing embodied AI ecosystem. The 60K hours of real-world pretraining data represents a substantial scale for open-source VLAs, and the expanded DOF support specifically targets humanoid and mobile manipulation robots with articulated joints. The announcement claims notable improvements in configuration generalization, DOF coverage, and deployment efficiency, though detailed benchmark results and architecture specifications were not disclosed.
+CERT.org disclosure reveals a hardcoded authentication backdoor in multiple versions of Tenda router firmware, allowing access with any username and a hidden password.
 
-rss · 36氪 · Jul 8, 04:10
+hackernews · miniBill · Jul 8, 00:08 · [Discussion](https://news.ycombinator.com/item?id=48825749)
 
-**Background**: Vision-Language-Action (VLA) models extend Vision-Language Models (VLMs) by adding action and observation state tokens, enabling them to directly output low-level robot actions from visual inputs and text instructions. Embodied foundation models aim to break the limitation of narrow, task-specific robotics AI by training on massive, diverse datasets spanning multiple robots, environments, and tasks. This cross-embodiment approach allows a single model to generalize across different robot hardware—a significant challenge in robotics due to varying mechanical configurations and control interfaces. By open-sourcing such a model with broad hardware support, LingBot-VLA 2.0 joins a small but growing group of general-purpose robotic foundation models aimed at accelerating research and deployment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://robotocist.com/articles/embodied-ai-foundation-models">Embodied AI Foundation Models: Teaching Robots to Understand ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#embodied-ai`, `#vla-model`, `#open-source`, `#robotics`, `#ant-group`
+**Tags**: `#security`, `#vulnerability`, `#iot`, `#networking`, `#backdoor`
 
 ---
 
 <a id="item-7"></a>
-## [CERT/CC Discloses Hidden Backdoor in Tenda Router Firmware](https://kb.cert.org/vuls/id/213560) ⭐️ 7.0/10
+## [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) ⭐️ 7.0/10
 
-CERT/CC has disclosed CVE-2026-11405, a hidden hardcoded authentication backdoor affecting five Tenda router firmware builds, allowing any attacker to gain full administrative access by supplying a secret password regardless of username. The vendor, Shenzhen Tenda Technology, has not responded to CERT since May 2026 and no patch is currently available. This is a deliberately planted backdoor rather than an accidental vulnerability, raising serious supply chain security and national security concerns for consumers, small businesses, and organizations using Tenda networking equipment. With no patch available and active exploitation possible, affected devices remain fully compromisable via the public internet. The backdoor is implemented in the /bin/httpd binary: if standard MD5 authentication fails, the firmware retrieves the value from 'sys.rzadmin.password' and compares it against the user-supplied plaintext password; a match grants role=2 (administrator) access with any username. The secret password was publicly documented in a 2022 blog post as 'rzadmin', meaning the backdoor is now trivially exploitable by anyone who reads the disclosure.
+MIT's classic 1986 SICP video lectures by Sussman and Abelson, a foundational computer science course covering fundamental programming concepts through Scheme/Lisp.
 
-hackernews · miniBill · Jul 8, 00:08 · [Discussion](https://news.ycombinator.com/item?id=48825749)
+hackernews · gjvc · Jul 7, 23:57 · [Discussion](https://news.ycombinator.com/item?id=48825664)
 
-**Background**: A backdoor in computing is a covert method of bypassing normal authentication, and a hardcoded one means the secret credential is embedded directly in the software rather than chosen by the user. The CERT Coordination Center (CERT/CC), part of Carnegie Mellon's Software Engineering Institute, has coordinated software vulnerability disclosures since 1988 and is a trusted intermediary between researchers and vendors. Tenda is a Chinese consumer networking equipment manufacturer whose products — routers, switches, access points, and IP cameras — are widely sold globally at low price points, making them common in homes, small offices, and IoT deployments.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/">Hidden backdoor in Tenda router firmware grants admin access</a></li>
-<li><a href="https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html">CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware</a></li>
-<li><a href="https://certcc.github.io/CERT-Guide-to-CVD/">The CERT Guide to Coordinated Vulnerability Disclosure - CERT® Guide to Coordinated Vulnerability Disclosure</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community commenters expressed strong concern about the supply chain implications, with one noting that the actual backdoor password 'rzadmin' had already been publicly disclosed in a 2022 writeup, and another recommending to simply discard any Shenzhen-made networking gear. Sarcastic remarks were made about trusting equipment from US/Israeli vendors like UniFi, Fortinet, or Palo Alto instead, while others suggested MikroTik as a more transparent alternative in the same price range.
-
-**Tags**: `#security`, `#iot`, `#backdoor`, `#vulnerability-disclosure`, `#networking`
+**Tags**: `#SICP`, `#computer-science`, `#lisp`, `#education`, `#classic-lectures`
 
 ---
 
 <a id="item-8"></a>
-## [Kokoro: High-Quality Open-Source TTS Running Locally on CPUs](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) ⭐️ 7.0/10
+## [Packaging PDK: The Missing Layer for Co-Packaged Optics](https://semiwiki.com/3dic/370709-the-packaging-pdk-is-the-missing-layer-for-co-packaged-optics/) ⭐️ 7.0/10
 
-Kokoro, an open-weight TTS model with only 82 million parameters, is gaining attention for delivering high-quality text-to-speech synthesis that runs efficiently on CPUs without requiring expensive NVIDIA GPUs. It is released under the Apache 2.0 license and achieves quality comparable to or surpassing much larger models like XTTS (467M params) and MetaVoice (1.2B params). This significantly democratizes access to high-quality TTS for developers and hobbyists who lack high-end hardware, enabling practical use cases such as accessibility tools, RSS-to-podcast pipelines, and article readers on modest machines. It signals a broader trend toward lightweight, CPU-friendly AI models that reduce dependence on costly GPU infrastructure. Kokoro supports manual IPA pronunciation guides, which helps resolve homograph ambiguity, though it struggles with synthesizing very short inputs like single words. It supports multiple languages, voice blending, and various input formats including EPUB and PDF, and can even run on older GPUs like the GTX 1650 for practical workloads.
+A SemiWiki opinion piece argues that the co-packaged optics industry cannot scale on photonic device performance alone and urgently needs a standardized Packaging Process Design Kit (PDK) to bridge the gap between photonic device design and electro-optical realization at scale. As AI infrastructure pushes bandwidth, power, latency, and reach to new limits, optics must move closer to the compute engine. Without a shared Packaging PDK, design-to-manufacturing workflows for CPO will remain fragmented across foundries, OSATs, and photonic toolchains, slowing the deployment that hyperscalers need. A traditional fab PDK models a foundry's fabrication process so designers can verify manufacturability; by analogy, a Packaging PDK would model the assembly, interconnect, and electro-optical integration rules for advanced packages. The article frames CPO as a packaging-driven technology, not just a photonic-device problem, implying that 3DIC and advanced packaging tooling—not just silicon photonics—will determine commercial viability.
 
-hackernews · speckx · Jul 7, 18:24 · [Discussion](https://news.ycombinator.com/item?id=48821576)
+rss · SemiWiki · Jul 7, 17:00
 
-**Background**: Text-to-speech (TTS) models traditionally required powerful GPUs for inference due to their large parameter counts, making high-quality speech synthesis inaccessible to many developers. Kokoro's efficient architecture combined with high-quality training data allows it to punch well above its weight class despite having only 82 million parameters. The model is part of a growing wave of lightweight AI tools—including Kyutai's Pocket TTS—that aim to make AI capabilities available on consumer hardware without cloud dependencies.
+**Background**: Co-Packaged Optics (CPO) integrates optical transceivers directly into the same package as a switch ASIC or compute chip, replacing pluggable modules to drastically cut power and boost bandwidth for AI data centers. A Process Design Kit (PDK) is the standard set of files and models a foundry provides so chip designers can ensure their layouts are manufacturable on a specific process node. Packaging PDKs and Package Assembly Design Kits extend this concept to the package level, covering die-to-die interconnects, bump patterns, and assembly rules—particularly relevant for 3DIC and 2.5D/3D heterogeneous integration. The article's argument is that the CPO ecosystem has well-developed photonic component PDKs but lacks an equivalent standardized kit that describes the electrical, thermal, and mechanical rules of the co-package itself.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/hexgrad/Kokoro-82M">hexgrad/Kokoro-82M · Hugging Face</a></li>
-<li><a href="https://kokorottsai.com/">Kokoro TTS: Advanced AI Text-to-Speech Model with 82M parameters</a></li>
-<li><a href="https://github.com/nazdridoy/kokoro-tts">GitHub - nazdridoy/kokoro-tts: A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents. · GitHub</a></li>
+<li><a href="https://www.corning.com/oem-solutions/worldwide/en/home/products-solutions/optical-communication-components/co-packaged-optics.html">What is Co-Packaged Optics (CPO) Technology? | Corning</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Process_Design_Kit">Process design kit - Wikipedia</a></li>
+<li><a href="https://www.semiconductorpackagingnews.com/uploads/2/2025_SPN_White_Paper_-_Package_Assembly_Design_Kits-The_Future_of_Advanced_Package_Design.pdf">Package Assembly Design Kits: The Future of Advanced Package ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is enthusiastic, with multiple users reporting real-world production deployments. One developer uses it for an accessibility product, another built an RSS-to-podcast pipeline on a GTX 1650, and a third created a Chrome extension for reading webpages with synchronized text highlighting. The main limitation noted is difficulty with very short inputs like single words, and occasional homograph pronunciation errors that can be mitigated with manual IPA guides.
+**Discussion**: No community comments were provided in the source material.
 
-**Tags**: `#text-to-speech`, `#open-source`, `#accessibility`, `#local-ai`, `#machine-learning`
+**Tags**: `#co-packaged optics`, `#advanced packaging`, `#3DIC`, `#semiconductor`, `#AI infrastructure`
 
 ---
 
 <a id="item-9"></a>
-## [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) ⭐️ 7.0/10
+## [SambaNova Raises $1B, Lands JPMorganChase as Customer](https://www.eetimes.com/sambanova-raises-1-billion-signs-jpmorganchase-as-a-customer/) ⭐️ 7.0/10
 
-An explanation of the EU's Chat Control 1.0 and 2.0 proposals that would mandate scanning of private encrypted messages, raising major concerns about encryption backdoors, surveillance overreach, and child safety policy trade-offs.
+AI chip startup SambaNova has raised $1 billion in a Series F first close led by General Atlantic, reaching an $11 billion valuation, and has signed JPMorganChase as a major enterprise customer. The funding and enterprise customer win signal that major financial institutions are beginning to adopt AI silicon alternatives to NVIDIA, validating SambaNova's position in the competitive AI hardware market and indicating that the enterprise AI chip market is maturing. The round was led by General Atlantic with additional investors expected to join; SambaNova's technology is based on its proprietary Reconfigurable Dataflow Unit (RDU) architecture, with its latest fifth-generation SN50 RDU designed specifically for large-scale agentic AI inference workloads.
 
-hackernews · gasull · Jul 7, 14:23 · [Discussion](https://news.ycombinator.com/item?id=48818311)
+rss · EE Times · Jul 8, 07:45
 
-**Tags**: `#privacy`, `#encryption`, `#eu-policy`, `#surveillance`, `#chat-control`
+**Background**: SambaNova Systems is an AI hardware company that competes with NVIDIA by offering specialized chips for AI inference and training. Its core technology is the Reconfigurable Dataflow Unit (RDU), which uses a tiled array of reconfigurable processing and memory units connected through a high-speed on-chip switching fabric, differing fundamentally from NVIDIA's GPU-based approach. The company has progressed through multiple chip generations, with the SN40L and now SN50 RDU targeting large-scale, agentic AI workloads. This funding round positions SambaNova among the most well-capitalized AI chip startups challenging NVIDIA's dominance in the data center AI accelerator market.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/">AI chip maker SambaNova raises $1B at $11B valuation, 5 ...</a></li>
+<li><a href="https://sambanova.ai/products/rdu-ai-chips">RDU | Next-Gen AI Chip for Inference at Scale</a></li>
+<li><a href="https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html">SambaNova valued at $11 billion after AI chip funding - CNBC</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI hardware`, `#funding`, `#SambaNova`, `#enterprise AI`, `#JPMorganChase`
 
 ---
 
 <a id="item-10"></a>
-## [The Packaging PDK Is the Missing Layer for Co-Packaged Optics](https://semiwiki.com/3dic/370709-the-packaging-pdk-is-the-missing-layer-for-co-packaged-optics/) ⭐️ 7.0/10
+## [Apple Commits Over $30B to Broadcom for U.S.-Made Chips](https://www.techpowerup.com/350606/apple-to-increase-spend-with-broadcom-to-produce-billions-more-u-s-chips) ⭐️ 6.5/10
 
-Argues that co-packaged optics adoption for AI infrastructure is bottlenecked by the lack of standardized packaging PDKs, not photonic device performance.
+Apple announced a new multiyear commitment with Broadcom exceeding $30 billion to design and produce custom silicon components and wireless connectivity technologies, which will result in the production of more than 15 billion U.S.-made chips and support hundreds of American jobs. This is Apple's largest commitment to date under its American Manufacturing Program (AMP) and represents a major step in onshoring semiconductor supply chains to the U.S., aligning with broader geopolitical efforts to reduce dependence on overseas chip manufacturing. Broadcom will invest $1.5 billion in capital expenditure to expand and modernize its Fort Collins, Colorado manufacturing facility, where it will produce advanced radio frequency components such as FBAR (Film Bulk Acoustic Resonator) filters and wireless connectivity technologies for Apple products.
 
-rss · SemiWiki · Jul 7, 17:00
+rss · TechPowerUp News · Jul 8, 10:32
 
-**Tags**: `#co-packaged-optics`, `#semiconductor-packaging`, `#AI-infrastructure`, `#photonics`, `#PDK`
+**Background**: Apple's American Manufacturing Program (AMP) was launched in 2025 as part of a broader $600 billion four-year pledge to U.S. manufacturing, with initial partners including Corning, Coherent, Texas Instruments, Samsung, and GlobalFoundries. Broadcom is a key AMP partner specializing in RF components. FBAR filters are a type of bulk acoustic wave (BAW) filter that offer superior performance compared to traditional surface acoustic wave (SAW) filters, with steeper rejection curves, lower insertion loss (0.3 to 0.5 dB less), and up to 50mA lower current consumption—making them critical for mobile device RF front-end modules.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/">Apple increases U.S. commitment to $600 billion, announces ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Thin-film_bulk_acoustic_resonator">Thin-film bulk acoustic resonator - Wikipedia</a></li>
+<li><a href="https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html">Apple expands American manufacturing program with four new ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#Apple`, `#Broadcom`, `#manufacturing`, `#supply-chain`
 
 ---
 
 <a id="item-11"></a>
-## [Intel "Nova Lake" to Feature AVX-512 on Both P-cores and E-cores](https://www.techpowerup.com/350572/intel-nova-lake-to-feature-avx-512-on-both-p-cores-and-e-cores) ⭐️ 6.5/10
+## [Xbox Layoffs Decimate Id Software and Obsidian](https://www.techpowerup.com/350587/xbox-layoffs-decimate-id-software-and-obsidian) ⭐️ 6.5/10
 
-Intel's next-gen Nova Lake client processors will bring back AVX-512 SIMD support on both Coyote Cove P-cores and Arctic Wolf E-cores, requiring identical ISA across core types to avoid thread migration errors.
+Microsoft's Xbox layoffs significantly impact id Software (~50% workforce) and Obsidian Entertainment (~25%, 60-70 workers), raising concerns about workload redistribution across their active projects.
 
-rss · TechPowerUp News · Jul 7, 08:30
+rss · TechPowerUp News · Jul 7, 19:42
 
-**Tags**: `#Intel`, `#AVX-512`, `#CPU architecture`, `#SIMD`, `#Nova Lake`
+**Tags**: `#gaming-industry`, `#layoffs`, `#microsoft`, `#xbox`, `#id-software`, `#obsidian`
 
 ---
 
 <a id="item-12"></a>
-## [Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year) ⭐️ 6.5/10
+## [SiPearl's Rhea1 CPU Reaches Lab, Europe's First Sovereign HPC Processor](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process) ⭐️ 6.5/10
 
-Chinese memory/storage manufacturer Longsys forecasts a ~60,000% profit increase for 1H26, reaching nearly $1.5 billion, driven by surging AI-related chip demand.
+SiPearl's long-awaited Rhea1 CPU, the first sovereign high-performance processor developed under the European Processor Initiative (EPI), has reached the lab stage, with availability scheduled for the end of 2026 according to a SiPearl VP. Rhea1 represents a major milestone in Europe's push for technological sovereignty in HPC, reducing the continent's dependence on US and Asian chip vendors like Intel, AMD, and Nvidia for supercomputing infrastructure. Rhea1 is designed to deliver energy-efficient computing power for HPC and AI workloads, and future iterations will increase core counts, memory bandwidth, and add custom acceleration and IP blocks targeting European exascale supercomputers.
 
-rss · Tom's Hardware · Jul 7, 16:13
+rss · Tom's Hardware · Jul 8, 14:44
 
-**Tags**: `#AI hardware`, `#memory and storage`, `#semiconductor industry`, `#market trends`, `#China tech`
+**Background**: The European Processor Initiative (EPI) is a consortium-backed effort to build a homegrown CPU architecture for European supercomputers, funded under the EuroHPC Joint Undertaking—a public-private partnership pooling EU, member-state, and private resources. SiPearl was spun out to commercialize the resulting designs, with Rhea1 being its first product. The project's strategic importance lies in Europe's desire to control its own compute supply chain rather than relying on foreign processors for sensitive scientific, defense, and research workloads. EuroHPC has also been exploring RISC-V open architectures as a parallel path toward sovereignty, which could shape future European CPU designs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://sipearl.com/rhea1">Rhea1 first-generation CPU for HPC and AI - SiPearl</a></li>
+<li><a href="https://www.techpowerup.com/338824/european-hpc-processor-rhea1-tapes-out-launch-delayed-to-2026">European HPC Processor "Rhea1" Tapes Out, Launch Delayed to ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/European_High-Performance_Computing_Joint_Undertaking">European High-Performance Computing Joint Undertaking</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#HPC`, `#European tech sovereignty`, `#SiPearl`, `#CPU architecture`, `#semiconductors`
 
 ---
 
 <a id="item-13"></a>
-## [LG Monitors Auto-Install App Via Microsoft Store, Pushing McAfee Ads](https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads) ⭐️ 6.5/10
+## [Oregon approves 29.7% rate hike for data centers, cuts residential costs 1.3%](https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share) ⭐️ 6.5/10
 
-A user reported that connecting a new LG monitor to their Windows PC triggered an automatic app installation through the Microsoft Store, which immediately displayed McAfee advertisements. This behavior exploits Microsoft's automatic installer mechanism that allows device manufacturers to pre-configure UWP (Universal Windows Platform) device apps to install silently when compatible hardware is first detected. This practice raises serious concerns about user trust in official Microsoft Store channels and the integrity of Windows' automatic device installation feature. It affects every everyday Windows user who connects new peripherals, turning what should be a seamless hardware setup into an unwanted advertising experience, and erodes confidence in hardware manufacturers and Microsoft's app ecosystem. The exploitation relies on Microsoft's legitimate UWP Device Apps framework, which is designed to let manufacturers ship companion apps for their hardware. Users can mitigate this by adjusting the registry key HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceMetadata!PreventDeviceMetadataFromNetwork from 0 to 1, or by disabling automatic driver/app installation through Group Policy settings.
+Oregon's Public Utility Commission unanimously approved Portland General Electric's (PGE) 29.7% rate hike for large electricity users consuming 20MW or more, targeting data centers under the state's POWER Act. The new rates took effect the Wednesday following the July 7, 2026 approval, while residential electricity rates will simultaneously decrease by 1.3%. This represents a significant policy shift that acknowledges data centers' outsized energy consumption and pushes them to bear a fairer share of grid infrastructure costs rather than being cross-subsidized by residential ratepayers. As AI infrastructure power demands continue to surge, this precedent could influence data center siting decisions and shape energy policy in other U.S. states grappling with similar tensions. The POWER Act, passed in 2025, requires data centers to enter 10-year contracts to offset their heavy grid usage. PGE is Oregon's largest electricity provider, serving almost two-thirds of the state's commercial and industrial activity, with its territory including Hillsboro where major operators like QTS have large facilities.
 
-rss · Tom's Hardware · Jul 7, 14:46
+rss · Tom's Hardware · Jul 8, 13:56
 
-**Background**: Microsoft's automatic installation mechanism for UWP device apps was designed so that companion applications—such as printer utilities, monitor color profiles, or peripheral configuration tools—could install automatically when users connect corresponding hardware. This feature relies on device metadata that hardware manufacturers register with Microsoft, allowing Windows to recognize compatible devices and fetch their associated apps from the Microsoft Store. While legitimate companion apps enhance hardware functionality, this mechanism can also be abused by manufacturers to bundle promotional content or third-party software (like McAfee) without explicit user consent during the hardware setup process.
+**Background**: The POWER Act is an Oregon state law that establishes separate electricity rate classes for data centers and requires them to enter 10-year contracts to offset their grid impact. Portland General Electric (PGE) is a Fortune 1000 publicly traded energy company headquartered in Portland, Oregon. The 20MW threshold directly targets large-scale operations—for context, a typical hyperscale data center can consume anywhere from 50 to over 500 MW, making this threshold a direct hit on AI compute infrastructure and cloud providers operating in the region.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/devapps/auto-install-for-uwp-device-apps">Automatic Installation for UWP Device Apps - Windows drivers</a></li>
-<li><a href="https://support.microsoft.com/en-US/Windows/Hardware/Drivers/automatically-get-recommended-and-updated-hardware-drivers">Automatically get recommended and updated hardware drivers</a></li>
+<li><a href="https://www.opb.org/article/2026/07/07/oregon-data-center-general-electric-rate-hikes/">Oregon approves PGE’s 29.7% rate hike for data centers under ...</a></li>
+<li><a href="https://www.centraloregondaily.com/news/regional/oregon-hikes-data-center-electric-rates-29-in-pge-territory/article_1e7127d2-4c17-5159-9cb4-02639129ca95.html">Oregon hikes data center electric rates 29% in PGE territory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Portland_General_Electric">Portland General Electric - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#adware`, `#windows`, `#microsoft-store`, `#lg`, `#privacy`
+**Tags**: `#data-centers`, `#energy-policy`, `#infrastructure`, `#AI-economics`, `#power-consumption`
 
 ---
 
 <a id="item-14"></a>
-## [UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year — eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights](https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights) ⭐️ 6.5/10
+## [Windows GDID telemetry used to arrest Scattered Spider hacker](https://www.tomshardware.com/tech-industry/cyber-security/arrest-and-extradition-of-scattered-spider-hacker-shines-light-on-how-windows-telemetry-gdids-can-identify-users-microsoft-device-identifier-is-just-one-digital-fingerprint-in-a-software-world-rife-with-them) ⭐️ 6.5/10
 
-The UK government has classified data centers as nationally significant infrastructure, allowing them to bypass local council approvals and potentially save over $1 billion and a year in development timelines.
+Scattered Spider hacking group member Peter Stokes was arrested and extradited after investigators correlated Microsoft's Windows telemetry GDID (Global Device Identifier) with IP data, proxy usage, and service access records to identify him online. Despite Stokes cycling through IP addresses, VPNs, and remote desktop connections to mask his activity, the persistent GDID tied to his Windows installation remained constant and helped link him to the attacks. This case demonstrates that even persistent operational security measures like VPNs and rotating IPs can be undermined by seemingly innocuous telemetry built into mainstream operating systems. It raises important privacy questions about the extent of device fingerprinting inherent in modern software and how such identifiers can be leveraged by both law enforcement and potentially malicious actors. The GDID is a unique code embedded in every Windows installation, used by Microsoft for diagnostic telemetry, crash reporting, feature-usage analysis, and license verification; only reinstalling Windows assigns a new GDID. Device fingerprinting broadly collects dozens of signals—from screen resolution to timezone—to create persistent identifiers that survive cookie clearing, making GDIDs just one of many fingerprinting techniques in widespread use.
 
-rss · Tom's Hardware · Jul 7, 12:34
+rss · Tom's Hardware · Jul 8, 10:30
 
-**Tags**: `#data-centers`, `#regulation`, `#infrastructure`, `#UK-policy`, `#tech-industry`
+**Background**: Scattered Spider (also known as UNC3944 and recently identified as ShinyHunters) is a cybercriminal group largely composed of teenagers and young adults based in the US and UK, known for targeting large companies and their IT help desks. The group's tactics often involve social engineering to gain initial access, after which they deploy ransomware and steal data. Device fingerprinting, meanwhile, is a technique that assembles dozens of subtle hardware and software clues—from screen resolution and timezone to installed fonts and browser configuration—to create a unique identifier for tracking users across the internet.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Scattered_Spider">Scattered Spider - Wikipedia</a></li>
+<li><a href="https://cybernews.com/security/windows-telemetry-gdid-helps-arrest-hacker/">Windows telemetry backlash: GDID tracking exposes Scattered ...</a></li>
+<li><a href="https://cybersecuritynews.com/windows-device-identifier-tracking/">Windows Device Identifier Feature Leads to Arrest of ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#privacy`, `#windows-telemetry`, `#digital-fingerprinting`, `#cybercrime`
 
 ---
 
 <a id="item-15"></a>
-## [Intel patents XBM memory to replace HBM with UCIe-linked DRAM stacks](https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck) ⭐️ 6.5/10
+## [Longsys forecasts ~60,000% profit surge on AI memory demand](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year) ⭐️ 6.5/10
 
-Intel has filed a patent for a new high-bandwidth memory architecture called XBM (Cross-Batch Memory) that uses backend-transistor DRAM stacks connected via UCIe chiplet links, eliminating the expensive silicon interposer used in HBM packaging. The patent, published on July 2, 2026, also includes built-in repair logic and targets data rates of 32 GT/s to compete with HBM4. HBM is currently one of the biggest cost drivers and supply bottlenecks in AI accelerator production, with silicon interposers (such as TSMC's CoWoS-S) acting as a critical chokepoint. If XBM delivers comparable bandwidth at lower cost and complexity, it could ease the AI memory crunch, reduce Intel's reliance on third-party HBM suppliers, and provide a more scalable path for future AI systems. XBM targets 32 GT/s speeds—competitive with HBM4—and replaces the silicon interposer with UCIe links, an open die-to-die interconnect standard co-developed by Intel, AMD, TSMC, Samsung, and others. The patent also describes built-in repair mechanisms to address yield issues inherent in stacking DRAM dies.
+Chinese memory and storage manufacturer Longsys forecasts a profit of nearly $1.5 billion for the first half of 2026, a jump of more than 60,000% compared to just $2.1 million in the same period last year, driven by exploding AI-related demand for memory and storage chips. The dramatic profit forecast highlights how the global AI-driven memory and storage chip shortage is reshaping the fortunes of memory manufacturers, particularly Chinese firms that have historically played a smaller role. It signals significant supply-demand tension in NAND flash and DRAM markets that affects pricing across consumer electronics, data centers, and AI infrastructure. Longsys is a global provider of NAND flash and DRAM solutions and has owned the Lexar brand since acquiring it from Micron Technology in 2017. The company supplies memory cards, SSDs, and embedded storage products to both consumer and enterprise markets worldwide.
 
-rss · Tom's Hardware · Jul 7, 10:00
+rss · Tom's Hardware · Jul 7, 16:13
 
-**Background**: High Bandwidth Memory (HBM) is a type of stacked DRAM used in AI GPUs and accelerators to deliver massive data throughput by vertically stacking multiple DRAM dies. It requires a silicon interposer—a piece of silicon placed between the memory stacks and the processor die to route thousands of high-speed signals—which is expensive and supply-constrained, especially in TSMC's CoWoS packaging. UCIe (Universal Chiplet Interconnect Express) is an emerging open standard for connecting chiplets within a single package, backed by major industry players. Backend-transistor DRAM refers to fabricating transistor structures after the main CMOS layers, potentially enabling different stacking approaches than conventional HBM.
+**Background**: Longsys (深圳市江波龙电子股份有限公司) is a Shenzhen-based memory and storage company that specializes in NAND flash and DRAM products. In 2017, it acquired the Lexar brand from U.S. semiconductor giant Micron Technology, gaining a well-known consumer storage brand and global distribution channels. The broader context is the ongoing AI-driven memory shortage: as AI training and inference workloads require massive amounts of high-bandwidth memory (HBM) and high-capacity storage, demand has surged while supply remains constrained, driving up prices and profitability across the memory industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/intel-xbm-memory-takes-aim-at-hbm4-32-gt-s-speeds-lower-costs-through-ucie-links/">Intel’s XBM Memory Takes Aim At HBM4, Promising 32 GT/s ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/UCIe">UCIe - Wikipedia</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year">Chinese memory and storage firm expected to post more than ...</a></li>
+<li><a href="https://www.longsys.com/about-longsys/news/longsys-acquired-the-lexar-brand-from-micron.html">Longsys acquired the Lexar brand from Micron and that Lexar ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lexar">Lexar - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#Intel`, `#HBM`, `#memory-architecture`, `#AI-hardware`
+**Tags**: `#memory-storage`, `#AI-demand`, `#semiconductor-industry`, `#Longsys`, `#market-forecast`
 
 ---
 
 <a id="item-16"></a>
-## [Snapmaker Raises 1 Billion RMB, Largest Consumer 3D Printing Deal in Years](https://36kr.com/p/3885728813691145?f=rss) ⭐️ 6.3/10
+## [Snapmaker Raises ¥1B, Largest Consumer 3D Printing Funding Round](https://36kr.com/p/3885728813691145?f=rss) ⭐️ 6.3/10
 
-Snapmaker (快造科技) closed a 1 billion RMB funding round led by Cathay Innovation, with follow-on investments from existing backers including Meituan, Hillhouse Capital, and Shunwei Capital. The company's revenue grew 10x year-over-year, driven by its flagship U1 multi-color, multi-material 3D printer, which has shipped over 100,000 units and set a global crowdfunding record of $20.61 million on Kickstarter. This is the largest single-round investment in the consumer 3D printing sector in the primary market in nearly two years and one of the biggest consumer hardware deals of 2025, signaling strong institutional confidence that multi-color, multi-material printing has crossed the threshold from hobbyist use to mainstream consumer adoption. The backing from strategic investors like Meituan and TAL also points to ecosystem plays spanning e-commerce, content, and AI-driven creation tools. The U1 uses a 4-independent-toolhead architecture with the SnapSwap™ system that swaps tools in about 5 seconds, claiming 5x faster multi-color printing and roughly 80% less filament waste compared to traditional single-nozzle solutions that require extensive purging between color changes. The U1 launched globally in April 2026 at $899 and has moved from a record-breaking Kickstarter campaign to mass delivery within about six months.
+Snapmaker (快造科技), a consumer 3D printing company, has closed a ¥1 billion (approx. $140M) funding round led by Cathay Innovation, with follow-on from investors including Meituan Strategic Investment, Meituan Longzhu, Hillhouse Venture Capital, and Shunwei Capital, alongside Good Future Strategic Investment. The deal signals growing institutional confidence in consumer-grade 3D printing, a category long confined to hobbyists and engineers, and underscores a shift toward multi-color and multi-material printing as the key driver to break into mainstream consumer markets. Snapmaker's U1 printer uses a four-independent-toolhead architecture with a SnapSwap™ quick-change system, achieving a claimed 5x speed improvement and ~80% reduction in material waste versus traditional single-nozzle solutions that require purging and reloading for each color change. The product raised $20.61M on Kickstarter from over 20,000 backers, setting a global 3D printing crowdfunding record, and has now shipped more than 100,000 units.
 
 rss · 36氪 · Jul 8, 00:50
 
-**Background**: Consumer 3D printing has long been limited to engineers and hobbyists because mainstream single-nozzle, single-material machines produce utilitarian parts rather than consumer-quality objects. Multi-color and multi-material printing has emerged as the key breakthrough to break out of this niche, but most existing approaches rely on a single nozzle that must purge old filament between color changes, which is slow and wasteful. Snapmaker's competitor approach uses multiple independent extruders or automated material systems (AMS) that keep different filaments loaded separately, reducing purge time and enabling true multi-material combination prints.
+**Background**: Consumer FDM 3D printers have historically been limited to single-color, single-material output, restricting use to engineers and hobbyists. Multi-color/multi-material printing has emerged as the consensus breakthrough, but mainstream approaches rely on a single nozzle that must purge and reload filament for every color change — a slow, wasteful process that often takes dozens of hours per model and struggles to mix different materials. To address this, several vendors, including Bambu Lab, Creality, Flashforge, and Prusa, are pursuing multi-toolhead architectures, the design direction Snapmaker's U1 follows.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.snapmaker.com/snapmaker-u1">Snapmaker U1 | Multi-Color 3D Printer with SnapSwap™</a></li>
-<li><a href="https://manufactur3dmag.com/snapmaker-u1-3d-printer-launch-april-2026/">Snapmaker U1 3D Printer Launches Worldwide on April 10</a></li>
-<li><a href="https://www.polyfab3d.com/ressources/how-to-reduce-3d-printing-waste-related-to-purging/">How to reduce 3D printing waste related to purging? - Polyfab3D</a></li>
+<li><a href="https://www.jlc-3dp.cn/technicalColumnsDetails/58761.html">多色3D打印全解析: 从入门双色到工业级全彩的技术路径与选型指南-嘉立...</a></li>
+<li><a href="https://www.163.com/dy/article/KG8G2GU2051186GP.html">FDM多材料多喷头切换3D打印大战：拓竹、快造、纵维立方、PRUSA、LIQTR...</a></li>
+<li><a href="https://patents.google.com/patent/CN206999645U/zh">CN206999645U - Fdm打印机单喷头自动换料系统 - Google Patents</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#3D-printing`, `#funding`, `#consumer-hardware`, `#Snapmaker`, `#startup-news`
+**Tags**: `#3D打印`, `#消费硬件`, `#融资`, `#Snapmaker`, `#硬件创业`
 
 ---
 
 <a id="item-17"></a>
-## [DRAM Costs Now ~60% of Low-End Smartphone Bill of Materials](https://www.solidot.org/story?sid=84776) ⭐️ 6.3/10
+## [「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发](https://36kr.com/p/3885479689465858?f=rss) ⭐️ 6.3/10
 
-According to Omdia analysis, DRAM memory costs consumed nearly 60% of the bill of materials (BOM) for sub-$400 smartphones in Q1 2026, and TrendForce projects DRAM prices will rise another 50%+ in 2026. Omdia forecasts a 22% year-over-year shipment decline for sub-$400 phones, while the mid/high-end ($400+) segment is expected to grow 5.7%. This signals a structural squeeze on the low-end smartphone market, forcing manufacturers to either pass costs to consumers or cut specifications — and ultimately accelerating a market shift toward mid/high-end devices. The trend mirrors similar pressure on entry-level PCs and could reshape the global smartphone competitive landscape, particularly for budget-focused Chinese manufacturers. To absorb memory cost increases, some Chinese manufacturers are downgrading from LTPO to LTPS display panels on certain models, saving $3–5 per device; other measures include reducing camera count, using smaller image sensors, and switching to previous-generation SoCs, which together can cut costs by 30–40%. LTPS lacks LTPO's variable refresh rate capability but is significantly cheaper, which is why it is being relegated to mid-range phones while LTPO remains exclusive to flagships.
+Chinese AI pharma company 德睿智药 (Deep Intelligent Pharma) raised $52M Series B, with its AI-designed oral GLP-1 small molecule weight loss drug MDR-001 advancing to Phase III clinical trials.
 
-rss · Solidot · Jul 7, 14:15
+rss · 36氪 · Jul 8, 00:00
 
-**Background**: A Bill of Materials (BOM) is the total cost of all physical components in a device. LTPO (Low-Temperature Polycrystalline Oxide) is an advanced OLED backplane technology, originally developed by Apple, that supports variable refresh rates (e.g., 1Hz–120Hz), improving power efficiency. LTPS (Low-Temperature Polycrystalline Silicon) is an older, cheaper backplane technology that typically operates at a fixed refresh rate and is less power-efficient at low refresh rates. DRAM is the volatile working memory (RAM) in smartphones and has been in a severe supply crunch since 2024, driven by AI-related demand for HBM and data-center capacity crowding out consumer-grade production.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.digitaltrends.com/phones/ltpo-smartphone-display-explained/">What is an LTPO display? Is it different from regular OLED? - Digital Trends</a></li>
-<li><a href="https://www.oled-info.com/ltpo">LTPO OLED backplane technology</a></li>
-<li><a href="https://www.faceofit.com/ltpo-2-0-vs-3-0-vs-ltps/">LTPO 2.0 vs 3.0 vs LTPS: A Look into Real-World Power Savings</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#smartphones`, `#DRAM`, `#supply-chain`, `#semiconductors`, `#market-analysis`
+**Tags**: `#AI drug discovery`, `#pharmaceuticals`, `#GLP-1`, `#funding`, `#China tech`
 
 ---
 
 <a id="item-18"></a>
-## [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) ⭐️ 6.0/10
+## [Cloudflare and OpenAI Launch Pilot to Improve AI Search Indexing](https://36kr.com/newsflashes/3886946347694593?f=rss) ⭐️ 6.3/10
 
-MIT's classic 1986 SICP video lectures by Abelson and Sussman, a foundational computer science course using Scheme, shared as a timeless educational resource.
+On July 8, Cloudflare and OpenAI announced a research pilot project that leverages Cloudflare's real-time network signals—including content freshness, traffic quality, and actual page changes—to help AI search engines more efficiently discover and index relevant content on the open web, ultimately improving the accuracy and timeliness of AI-generated answers. This collaboration is significant because Cloudflare's network handles traffic for over one in five websites worldwide, giving OpenAI access to unique, large-scale real-time signals about web content. Such data could meaningfully improve the relevance and recency of AI search results while also shaping how the broader AI industry interacts with web infrastructure providers. The pilot centers on three signal types: content freshness, traffic quality, and actual page changes—all observed in real time across Cloudflare's CDN. Notably, Cloudflare also introduced a Content Signals Policy in September 2025, extending the robots.txt framework to give publishers more control over how their content is used in AI contexts, which provides broader context for this partnership.
 
-hackernews · gjvc · Jul 7, 23:57 · [Discussion](https://news.ycombinator.com/item?id=48825664)
+rss · 36氪 · Jul 8, 12:06
 
-**Tags**: `#SICP`, `#computer-science-education`, `#video-lectures`, `#scheme`, `#programming-foundations`
+**Background**: Traditional search engines rely on crawlers that periodically scan the web, store pages in an index, and rank results based on keywords and links. AI-powered search engines differ by attempting to understand context, process dynamic content, and adapt autonomously rather than simply matching terms. Both approaches face challenges in efficiently discovering fresh, high-quality content at web scale. Cloudflare, as a major CDN provider sitting between users and origin servers, is uniquely positioned to observe real-time network signals across a vast portion of the internet, making its data particularly valuable for improving both traditional and AI-driven crawling strategies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://rallies.ai/news/cloudflare-launches-openai-pilot-using-signals-from-20-of-web-traffic">Cloudflare Launches OpenAI Pilot Using Signals from 20% of ...</a></li>
+<li><a href="https://blog.cloudflare.com/content-signals-policy/">Giving users choice with Cloudflare’s new Content Signals Policy</a></li>
+<li><a href="https://avenuez.com/blog/ai-crawlers-vs-traditional-crawlers-how-ai-indexes-the-web-differently/">AI Crawlers vs. Traditional Crawlers: How AI Indexes the Web ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Cloudflare`, `#OpenAI`, `#AI搜索`, `#网页索引`, `#基础设施`
 
 ---
 
 <a id="item-19"></a>
-## [Rowboat: Open-Source Local-First Alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat) ⭐️ 6.0/10
+## [Blue Origin Raises $10 Billion at $130 Billion Valuation](https://36kr.com/newsflashes/3886944497154824?f=rss) ⭐️ 6.3/10
 
-Rowboat Labs has launched Rowboat, an Apache-2.0 licensed, local-first alternative to Claude Desktop that transforms the AI assistant from a chat interface into a full work environment with built-in surfaces for email, meetings, browser, parallel coding, and notes, all backed by a shared knowledge graph. It reflects a growing demand for AI tools that integrate into actual workflows rather than forcing users into a chat-first paradigm, and its local-first architecture addresses data sovereignty and privacy concerns that limit enterprise adoption of cloud-based AI assistants. All data is stored as plain, editable Markdown files, the platform is compatible with any LLM (including local models via Ollama and LM Studio), and it implements an Agent Client Protocol (ACP) client to orchestrate parallel instances of Claude Code or Codex. Users can build custom work surfaces as web apps that publish via GitHub repositories.
+Blue Origin has closed a $10 billion funding round at a $130 billion valuation, with founder Jeff Bezos personally contributing $2 billion of that amount. The massive valuation signals extraordinary investor confidence in the commercial space sector and gives Blue Origin substantially more capital to compete with SpaceX in launch services, lunar lander programs, and long-term space infrastructure ambitions. Bezos's $2 billion personal commitment is a notable signal of his continued financial backing despite his reduced day-to-day role since stepping down as Amazon CEO. The $130 billion post-money valuation represents a significant premium over Blue Origin's earlier reported valuations and underscores the heated investor appetite for late-stage private space companies.
 
-hackernews · segmenta · Jul 7, 16:10 · [Discussion](https://news.ycombinator.com/item?id=48819808)
+rss · 36氪 · Jul 8, 12:04
 
-**Background**: Local-first software is an architecture pattern where data resides on the user's device rather than in the cloud, enabling offline access, privacy, and user ownership. Claude Desktop is Anthropic's official desktop application for interacting with its Claude AI models. The concept of 'work surfaces' here extends the idea of context engineering, where the AI assistant has structured, persistent access to relevant work artifacts (emails, notes, code, browser sessions) rather than only ephemeral chat history. Granola, mentioned as a comparable meeting notetaker, established the local AI meeting-notes category that Rowboat builds upon.
+**Background**: Blue Origin, founded by Jeff Bezos in 2000, is a private American space technology company headquartered in Kent, Washington. It operates the suborbital New Shepard rocket used for space tourism and the heavy-lift New Glenn rocket designed for orbital payloads. The company competes primarily with SpaceX in the commercial launch market and has secured contracts for NASA's Artemis lunar lander program. Blue Origin's name reflects its long-term vision of enabling millions of people to live and work in space for the benefit of Earth.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lofi.so/">Local-First Software</a></li>
-<li><a href="https://medium.com/the-low-end-disruptor/llm-context-engineering-a-practical-guide-248095d4bf71">LLM Context Engineering: a practical guide - Medium</a></li>
-<li><a href="https://www.anthropic.com/product/claude-cowork">Claude Cowork | Anthropic’s agentic AI for knowledge work</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blue_Origin">Blue Origin - Wikipedia</a></li>
+<li><a href="https://www.blueorigin.com/about-blue">About Blue Origin</a></li>
+<li><a href="https://spacenexus.us/blog/spacex-blue-origin-rocket-lab-comparison-2026">SpaceX vs Blue Origin vs Rocket Lab: Launch Provider ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community responded with practical feature requests and concerns: one commenter asked about multi-user pair-prompting collaboration (a notable gap since Claude Code is solo-only), another requested a generic IMAP connector beyond Gmail, and several users worried about migration costs from existing Claude Code setups where they have invested heavily in custom skills, commands, and wikis. One sharp critique highlighted the growing 'asymmetry of effort' problem—AI tools that promise to reduce toil but instead generate even more content for everyone to read.
-
-**Tags**: `#ai-tools`, `#local-first`, `#claude-alternative`, `#developer-tools`, `#productivity`
+**Tags**: `#Blue Origin`, `#funding`, `#space industry`, `#Bezos`, `#venture capital`
 
 ---
 
 <a id="item-20"></a>
-## [Can Agentic AI Tackle Embedded Software Challenges?](https://www.eetimes.com/can-agentic-ai-solve-the-embedded-software-problem/) ⭐️ 6.0/10
+## [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) ⭐️ 6.0/10
 
-EE Times explores whether agentic AI can address embedded software challenges, highlighting Ambarella's Muneyb Minhazuddin's point that AI agents running on edge devices will require both CPU processing and dedicated hardware acceleration. This matters because deploying agentic AI on resource-constrained edge devices could transform embedded systems development, but it raises critical questions about hardware requirements, performance trade-offs, and whether current edge silicon can handle autonomous AI workloads. Ambarella, known for its AI vision processors and edge AI silicon, suggests a heterogeneous computing approach combining general-purpose CPUs with hardware accelerators. This reflects the broader industry trend of evaluating ASICs, FPGAs, and NPUs for edge AI inference workloads.
+Analysis of an obfuscated, self-evaluating bash script printed on a Uniqlo x Akamai t-shirt, exploring how it works and the design decisions behind it.
 
-rss · EE Times · Jul 7, 22:00
+hackernews · speerer · Jul 8, 08:46 · [Discussion](https://news.ycombinator.com/item?id=48829312)
 
-**Background**: Agentic AI refers to AI systems that can autonomously plan, reason, and take actions to accomplish goals with limited human supervision, going beyond simple chatbot interactions. Embedded software runs on resource-constrained devices such as microcontrollers and edge processors, where compute, memory, and power budgets are far tighter than in cloud environments. Edge AI hardware acceleration, typically through NPUs, DSPs, or specialized ASIC blocks, is essential to run neural network inference efficiently outside of data centers. Ambarella is a semiconductor company specializing in AI vision and edge AI SoCs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">Agentic AI, explained - MIT Sloan</a></li>
-<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is agentic AI? - IBM</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#agentic-ai`, `#embedded-systems`, `#edge-computing`, `#AI-hardware`, `#embedded-software`
+**Tags**: `#bash`, `#obfuscation`, `#quine`, `#hacker-news`, `#creative-coding`
 
 ---
