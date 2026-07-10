@@ -5,375 +5,385 @@ date: 2026-07-10
 lang: en
 ---
 
-> From 107 items, 20 important content pieces were selected
+> From 98 items, 20 important content pieces were selected
 
 ---
 
-1. [GPT-5.6](#item-1) ⭐️ 9.0/10
-2. [MiniMax Completes HK$16 Billion Equity Financing with 7x Oversubscription](#item-2) ⭐️ 8.3/10
-3. [EU Parliament Passes Chat Control 1.0 via Procedural Maneuver](#item-3) ⭐️ 8.0/10
-4. [SemiAnalysis EDA Market Primer: Big Three and China's Rise](#item-4) ⭐️ 8.0/10
-5. [Imec: AI Inference Pushes Optics from Co-Packaging to 2.5D and 3D](#item-5) ⭐️ 8.0/10
-6. [AMD Confirms EPYC Venice Zen 6 Server CPUs Launch July 22-23](#item-6) ⭐️ 7.5/10
-7. [New hack exploits AI hallucinations to trick agents into running malicious code — 'HalluSquatting' attack exploits a fundamental weakness in every available model](#item-7) ⭐️ 7.5/10
-8. [AI Servers to Surpass Conventional Data Center Power Consumption by 2027](#item-8) ⭐️ 7.5/10
-9. [揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪](#item-9) ⭐️ 7.3/10
-10. [海光信息亮相光合组织2026智能计算应用大会](#item-10) ⭐️ 7.3/10
-11. [OpenMandriva Project Sabotaged by Trusted Developer with Admin Access](#item-11) ⭐️ 7.3/10
-12. [Server DRAM Contract Prices to Rise 13-18% QoQ in Q3 2026](#item-12) ⭐️ 7.0/10
-13. [Blame the Plumbing: Why Intel Handles USB Onboard Audio Codecs Better Than AMD](#item-13) ⭐️ 6.5/10
-14. [Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab](#item-14) ⭐️ 6.5/10
-15. [US Chip Sanctions Flip-Flops Push China Toward Self-Sufficiency and Russia Alliance](#item-15) ⭐️ 6.5/10
-16. [36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍](#item-16) ⭐️ 6.3/10
-17. [MiniMax闫俊杰：不再领取薪酬，个人拿出5%公司股份用于团队激励和开源支持](#item-17) ⭐️ 6.3/10
-18. [Colibrì: Running GLM 5.2 Locally on a 32GB RAM Machine](#item-18) ⭐️ 6.0/10
-19. [Mitchell Hashimoto on Building Ghostty in Zig Over Rust](#item-19) ⭐️ 6.0/10
-20. [Hy3](#item-20) ⭐️ 6.0/10
+1. [SK hynix raises a record $26.5 billion in historic U.S. IPO — South Korean memory giant to fund massive HBM manufacturing expansions](#item-1) ⭐️ 8.5/10
+2. [EU Parliament Passes Chat Control 1.0 via Procedural Maneuver](#item-2) ⭐️ 8.5/10
+3. [AI-generated videos to maximally drive a target brain region](#item-3) ⭐️ 8.0/10
+4. [TSMC A16 Backside Power at VLSI 2026](#item-4) ⭐️ 8.0/10
+5. [AMD Confirms EPYC Venice Zen 6 Server CPUs Launch July 22-23](#item-5) ⭐️ 7.5/10
+6. [Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant](#item-6) ⭐️ 7.5/10
+7. [Nanya to Quadruple 2027 DRAM Capex to $6.2B Amid Price Surge](#item-7) ⭐️ 7.5/10
+8. [Researchers Propose Sideways-Stacked DRAM to Break HBM's Heat Wall](#item-8) ⭐️ 7.5/10
+9. [Micron Commits $3B to U.S. Chip Supply Chain, Takes $500M Stake in 300mm Wafer Plant](#item-9) ⭐️ 7.5/10
+10. [LinkedIn 和 X 上四分之一的长文是 AI 撰写的](#item-10) ⭐️ 7.3/10
+11. [GPT-5.6](#item-11) ⭐️ 7.0/10
+12. [EU Commission: addictive design Instagram and Facebook in breach of the DSA](#item-12) ⭐️ 7.0/10
+13. [Mitchell Hashimoto on Ghostty, Zig, and Pragmatic Engineering](#item-13) ⭐️ 7.0/10
+14. [SemiAnalysis Releases EDA Market Primer Covering Big Three and China's Rise](#item-14) ⭐️ 7.0/10
+15. [Apple's $30B Broadcom Deal Expands AI and U.S. Chip Supply Chain](#item-15) ⭐️ 7.0/10
+16. [Energy Efficiency Reshapes AI Hardware Design](#item-16) ⭐️ 7.0/10
+17. [Meta to produce third-generation MTIA datacenter chip in September](#item-17) ⭐️ 7.0/10
+18. [Global Chip Sales Surge 104% Year-over-Year in May](#item-18) ⭐️ 7.0/10
+19. [Imec's NCT chip achieves 10x lossless neural data compression](#item-19) ⭐️ 7.0/10
+20. [Vibrating ICs for quantum computing](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [GPT-5.6](https://openai.com/index/gpt-5-6/) ⭐️ 9.0/10
+## [SK hynix raises a record $26.5 billion in historic U.S. IPO — South Korean memory giant to fund massive HBM manufacturing expansions](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions) ⭐️ 8.5/10
 
-OpenAI releases GPT-5.6, achieving new SOTA on ARC-AGI-3 and showing notable improvements in intent understanding and image handling.
+SK hynix completes the largest U.S. IPO in history at $26.5 billion, channeling proceeds into HBM manufacturing expansion driven by AI demand.
 
-hackernews · logickkk1 · Jul 9, 17:04 · [Discussion](https://news.ycombinator.com/item?id=48849066)
+rss · Tom's Hardware · Jul 10, 14:27
 
-**Tags**: `#OpenAI`, `#GPT-5`, `#LLM`, `#AI-release`, `#benchmarks`
+**Tags**: `#semiconductors`, `#HBM`, `#AI infrastructure`, `#IPO`, `#memory`
 
 ---
 
 <a id="item-2"></a>
-## [MiniMax Completes HK$16 Billion Equity Financing with 7x Oversubscription](https://36kr.com/newsflashes/3889142872849157?f=rss) ⭐️ 8.3/10
+## [EU Parliament Passes Chat Control 1.0 via Procedural Maneuver](https://www.tomshardware.com/tech-industry/cyber-security/chat-control-1-0-sneaks-through-the-eu-parliament-letting-companies-scan-user-data-without-warrants-legal-tactic-used-to-force-a-majority-required-re-vote-on-eve-of-parliament-break) ⭐️ 8.5/10
 
-On the morning of July 10, MiniMax completed a new equity financing round totaling HK$16 billion (over US$2 billion), attracting more than 100 institutional investors including international sovereign wealth funds, long-term funds, Chinese institutions, and multi-strategy funds spanning Asia-Pacific, Europe, and the US. The initial deal size of approximately US$1.8 billion was expanded to over US$2 billion on the back of strong institutional demand, achieving 7x oversubscription coverage. The size and quality of the investor base, anchored by sovereign wealth funds and international institutions, signal strong global validation of MiniMax's AI foundation model strategy and its AGI ambitions. The 7x oversubscription from over 100 institutions across three continents highlights the intense global capital competition for exposure to top-tier AI companies outside the US tech incumbents. The investor mix spans sovereign funds, long-only funds, Chinese state-linked institutions, and multi-strategy hedge funds, indicating broad-based institutional conviction rather than reliance on any single investor category. The deal was upsized by over US$200 million from the original US$1.8 billion target, underscoring that final demand materially exceeded the planned offering size.
+The European Parliament extended Chat Control 1.0 through a controversial procedural tactic—a forced re-vote held on the eve of Parliament's break—that reversed an earlier majority of MEPs voting against it. The regulation allows companies to scan user data for child sexual abuse material without warrants, though end-to-end encrypted apps like WhatsApp and Signal were nominally exempted. This regulation sets a precedent for warrantless mass scanning of user communications across the EU, directly threatening end-to-end encryption and digital privacy. It could force privacy-focused companies to compromise their products, relocate outside the EU, or risk non-compliance penalties, fundamentally reshaping Europe's tech ecosystem. EU's own evaluation found Chat Control algorithms produce approximately 48% false positives, which could overwhelm law enforcement with irrelevant data. The regulation remains in effect until April 3, 2028, serving as a buffer while lawmakers negotiate the successor framework known as Chat Control 2.0.
 
-rss · 36氪 · Jul 10, 01:20
+rss · Tom's Hardware · Jul 10, 11:00
 
-**Background**: MiniMax is a global AI foundation model company founded in early 2022, committed to advancing the frontiers of AI toward artificial general intelligence (AGI). Sovereign wealth funds are state-owned investment vehicles typically funded by foreign exchange reserves or commodity revenues — examples include Norway's Government Pension Fund and Saudi Arabia's Public Investment Fund — collectively managing trillions of dollars in global assets. Multi-strategy funds are investment vehicles that deploy multiple alternative strategies (such as long-short equity, event-driven, and macro trading) through single- or multi-manager approaches to diversify risk and pursue returns across varying market conditions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp">investopedia.com/terms/s/ sovereign _ wealth _ fund .asp</a></li>
-<li><a href="https://www.morningstar.com/best-investments/multi-strategy-funds">Multi-Strategy Funds | Morningstar</a></li>
-<li><a href="https://smartasset.com/investing/multi-strategy-hedge-funds">What Are Multi-Strategy Hedge Funds - Investing</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#funding`, `#MiniMax`, `#venture-capital`, `#AGI`
-
----
-
-<a id="item-3"></a>
-## [EU Parliament Passes Chat Control 1.0 via Procedural Maneuver](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) ⭐️ 8.0/10
-
-The European Parliament allowed Chat Control 1.0 to pass by default after a motion to reject it failed to secure the required absolute majority of 361 votes (314 against, 276 in favor, 17 abstentions, 113 absent). The vote was held on the last session day before the summer break, and the regulation had been rejected twice in March before this procedural reversal. The legislation permits US tech companies to scan private messages without warrants or prior suspicion until 2028, directly impacting hundreds of millions of European users of services like Instagram, Discord, Snapchat, Skype, Xbox, Gmail, and iCloud. It also sets a precedent for undermining encryption and the privacy of digital communications across the EU. Chat Control 1.0 applies to messaging and email services that are not end-to-end encrypted, or where platforms can access message content server-side — primarily Gmail, Snapchat, Facebook Messenger, Skype, and Xbox. End-to-end encrypted services like Signal and WhatsApp remain outside its scope for now, and public social media posts and cloud-hosted files could already be scanned without this law.
-
-hackernews · rapnie · Jul 9, 11:03 · [Discussion](https://news.ycombinator.com/item?id=48843923)
-
-**Background**: Chat Control is a series of EU legislative proposals aimed at combating child sexual abuse material (CSAM) by requiring platforms to scan communications. Chat Control 1.0 is the temporary regulation (originally adopted in 2021) that allows voluntary scanning; a more controversial proposed update, Chat Control 2.0, would have mandated client-side scanning — where messages are scanned on the user's device before encryption — which experts say fundamentally breaks end-to-end encryption guarantees. The current vote concerned the extension and modification of the existing 1.0 framework through 2028, rather than the mandatory scanning proposal. The controversial procedural element is that rejecting the regulation required an absolute majority of all MEPs (361), not just a simple majority of those voting.
+**Background**: Chat Control (officially the Regulation to Prevent and Combat Child Sexual Abuse, or CSAR) was originally proposed by European Commissioner for Home Affairs Ylva Johansson on May 11, 2022, with the stated aim of preventing online child sexual abuse. It relies heavily on client-side scanning—a technique that inspects content directly on users' devices before encryption, effectively functioning as a backdoor into encrypted communications. Critics, including cryptographers and privacy advocates, have argued that client-side scanning fundamentally undermines the security guarantees of end-to-end encryption.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Chat_Control">Chat Control - Wikipedia</a></li>
-<li><a href="https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/">EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"</a></li>
-<li><a href="https://www.techtimes.com/articles/320010/20260709/eu-parliament-passes-chat-control-default-314-meps-couldnt-block-scanning-law.htm">EU Parliament Passes Chat Control by Default: 314 MEPs Couldn't Block Scanning Law</a></li>
-<li><a href="https://www.internetsociety.org/resources/doc/2023/client-side-scanning/">Client-Side Scanning - Internet Society</a></li>
+<li><a href="https://cybernews.com/news/european-union-chat-control-big-tech/">Procedural trick in European Parliament reactivates EU's Chat Control ...</a></li>
+<li><a href="https://www.euronews.com/next/2026/07/10/chat-control-10-passed-the-european-parliament-through-the-back-door">Why Chat Control 1.0 is the EU's most Orwellian law yet</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community expressed strong outrage at the parliamentary procedure, with users calling it a 'reverse trick' that required an absolute majority to reject rather than to pass. Commenters criticized the timing of the vote before the summer break, with 113 MEPs absent, and accused Parliament President Roberta Metsola of undermining EU democratic legitimacy. Several users framed the outcome as part of a broader slide toward authoritarianism and noted that member states use the EU as a 'blame-laundering mechanism' for domestically unpopular policies.
+**Discussion**: Community sentiment is overwhelmingly negative, with critics calling the procedural tactic undemocratic and describing the legislation as 'the EU's most Orwellian law yet.' Major concerns center on the 48% false positive rate rendering the system ineffective, the symbolic nature of the encryption exemption, and the risk of driving privacy-focused tech companies out of Europe.
 
-**Tags**: `#privacy`, `#EU-policy`, `#surveillance`, `#digital-rights`, `#encryption`
+**Tags**: `#privacy`, `#EU-regulation`, `#encryption`, `#surveillance`, `#policy`
+
+---
+
+<a id="item-3"></a>
+## [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/) ⭐️ 8.0/10
+
+EPFL researchers developed NEvo, a system that uses brain encoding models to generate videos specifically optimized to maximally activate targeted brain regions, enabling less biased study of neural function but raising ethical concerns.
+
+hackernews · smusamashah · Jul 10, 07:39 · [Discussion](https://news.ycombinator.com/item?id=48856904)
+
+**Tags**: `#neuroscience`, `#generative-AI`, `#brain-computer-interface`, `#ethics`, `#research`
 
 ---
 
 <a id="item-4"></a>
-## [SemiAnalysis EDA Market Primer: Big Three and China's Rise](https://semiwiki.com/eda/371026-semianalysis-eda-market-primer-market-dynamics-cadence-synopsys-siemens-china-eda-rise/) ⭐️ 8.0/10
+## [TSMC A16 Backside Power at VLSI 2026](https://semiwiki.com/semiconductor-manufacturers/tsmc/370949-tsmc-a16-backside-power-at-vlsi-2026/) ⭐️ 8.0/10
 
-SemiAnalysis has published a market primer analyzing the global EDA software landscape, covering market dynamics at Cadence, Synopsys, and Siemens, and examining the strategic rise of China-based EDA vendors amid intensifying US export controls. EDA software is the foundational layer of all advanced semiconductor design, making market shifts in this sector geopolitically significant. The rise of Chinese EDA players — accelerated by US export restrictions — could reshape the global chip design tool ecosystem and affect every company designing advanced silicon. The article is framed as a primer rather than a breaking announcement, emphasizing that modern system-on-chips at advanced nodes contain billions of standard cells, making manual design infeasible and elevating EDA's strategic importance. It highlights how export controls on EDA tools have put China's top three domestic vendors — Empyrean Technology, Primarius Technologies, and Semitronix — in the spotlight.
+TSMC announces A16, its first angstrom-class CMOS platform combining gate-all-around nanosheet transistors with backside power delivery (Super Power Rail), presented at the 2026 VLSI Symposium.
 
-rss · SemiWiki · Jul 9, 17:00
+rss · SemiWiki · Jul 10, 13:00
 
-**Background**: Electronic Design Automation (EDA) refers to a category of software tools used to design integrated circuits and printed circuit boards; these tools work together in design flows that chip designers rely on for nearly all modern electronic devices. The global EDA market has historically been dominated by three players: Cadence, Synopsys, and Siemens EDA (formerly Mentor Graphics). China has been working to build domestic EDA capabilities, with Empyrean Technology funded by state entities such as China Electronics Corporation to break the foreign monopoly. In May 2025, the US directed leading EDA suppliers to halt sales to mainland China under new export restrictions, accelerating demand for Chinese alternatives.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Electronic_design_automation">Electronic design automation - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Empyrean_Technology">Empyrean Technology - Wikipedia</a></li>
-<li><a href="https://www.scmp.com/tech/tech-war/article/3313069/tech-war-chinas-top-three-eda-firms-under-spotlight-after-us-ban-chip-design-tools">Tech war: China’s top three EDA firms under spotlight after US ban on chip design tools | South China Morning Post</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#EDA`, `#semiconductors`, `#Cadence`, `#Synopsys`, `#China-tech`
+**Tags**: `#TSMC`, `#semiconductor-manufacturing`, `#backside-power-delivery`, `#A16-node`, `#VLSI-2026`
 
 ---
 
 <a id="item-5"></a>
-## [Imec: AI Inference Pushes Optics from Co-Packaging to 2.5D and 3D](https://www.eetimes.com/as-ai-moves-from-training-to-inference-optics-moves-closer-to-the-chip/) ⭐️ 8.0/10
+## [AMD Confirms EPYC Venice Zen 6 Server CPUs Launch July 22-23](https://www.techpowerup.com/350648/amd-confirms-epyc-venice-zen-6-cpus-launch-on-july-22-23-at-advancing-ai-event) ⭐️ 7.5/10
 
-Imec researchers argue that co-packaged optics (CPO) alone is insufficient for future AI infrastructure and call for a shift toward 2.5D and eventually 3D optical I/O architectures, driven by the industry's transition from AI training to inference workloads. As AI inference workloads grow and become more distributed and latency-sensitive, the bandwidth and energy efficiency of electrical I/O become bottlenecks. Moving optical interconnects closer to and even into the chip stack could determine whether next-generation AI systems can scale economically. Co-packaged optics currently places optical engines adjacent to a switch or compute die in the same package, but Imec researchers contend this still leaves excessive electrical signal paths. Emerging approaches include UCIe-compatible optical chiplets (like Ayar Labs' retimer demoed at Hot Chips 2025) and 3D photonic chips such as Lightmatter's Passage M1000, which delivers up to 114 Tbps of optical bandwidth for AI workloads.
+AMD CTO Mark Papermaster has confirmed that the EPYC 'Venice' Zen 6 server CPUs will be officially unveiled at AMD's Advancing AI event on July 22-23. Built on TSMC's 2nm (N2) process, the flagship configuration offers up to 256 Zen 6 cores—a 33% increase over the current 192-core EPYC 'Turin'—with AMD claiming over 70% higher performance and efficiency compared to the Zen 5-based predecessor. This launch marks a major milestone as the first high-performance computing processor to reach production on TSMC's 2nm node, intensifying competition with Intel in the data center market. The 256-core count and PCIe Gen 6 support position Venice as a direct enabler for AI rack-scale systems, pairing with AMD's Instinct MI455 accelerators in Helios platforms. Venice moves to the new SP7 socket with 16-channel memory delivering up to 1.6 TB/s of bandwidth and adopts PCIe Gen 6 for improved CPU-to-GPU communication. Manufacturing is currently ramping in Taiwan, with future production planned at TSMC's Arizona facility; consumer Zen 6 desktop and mobile parts are not expected before CES 2027.
 
-rss · EE Times · Jul 9, 07:15
+rss · TechPowerUp News · Jul 9, 20:00
 
-**Background**: Co-packaged optics (CPO) is an advanced packaging approach that integrates optical transceivers directly alongside a switch ASIC or processor in the same package, replacing traditional pluggable optical modules and shorter electrical traces to reduce power and improve bandwidth density. In 2.5D integration, multiple chiplets sit side-by-side on a silicon interposer, while 3D integration stacks dies vertically using through-silicon vias, enabling much denser and shorter inter-chip connections. The shift from AI training to inference changes traffic patterns: inference is more latency-sensitive, often distributed across many nodes, and is expected to dominate total AI compute in coming years, placing different demands on I/O subsystems than the bulk data movement of training clusters.
+**Background**: TSMC's N2 (2nm) process represents the foundry's first use of Gate-All-Around (GAAFET) nanosheet transistor technology, offering approximately 10–15% higher performance at the same power or 20–30% lower power at the same performance compared to the N3E node, with volume production beginning in Q4 2025. Zen 6 is AMD's next-generation CPU microarchitecture succeeding Zen 5, and EPYC is AMD's server processor brand competing in the data center market. The current EPYC 'Turin' lineup (Zen 5) tops out at 192 cores on the SP5 platform, making Venice's move to a new SP7 socket a significant platform transition for enterprise customers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.corning.com/oem-solutions/worldwide/en/home/products-solutions/optical-communication-components/co-packaged-optics.html">What is Co - Packaged Optics (CPO) Technology? | Corning</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s12200-022-00055-y">Co - packaged optics (CPO): status, challenges, and solutions</a></li>
-<li><a href="https://www.servethehome.com/ayar-labs-ucie-optical-io-retimer-at-hot-chips-2025/">Ayar Labs UCIe Optical IO Retimer at Hot Chips 2025 - ServeTheHome</a></li>
-<li><a href="https://techstrong.it/featured/lightmatter-boosts-optical-connectivity-with-new-designs/">Lightmatter Boosts Optical Connectivity with New... - Techstrong IT</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
+<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm">2nm Technology - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://www.amd.com/en/products/processors/server/epyc.html">AMD EPYC ™ Processors</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#photonics`, `#optical I/O`, `#semiconductor`, `#hardware architecture`
+**Tags**: `#AMD`, `#EPYC`, `#Zen 6`, `#server CPUs`, `#TSMC 2nm`
 
 ---
 
 <a id="item-6"></a>
-## [AMD Confirms EPYC Venice Zen 6 Server CPUs Launch July 22-23](https://www.techpowerup.com/350648/amd-confirms-epyc-venice-zen-6-cpus-launch-on-july-22-23-at-advancing-ai-event) ⭐️ 7.5/10
+## [Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant](https://www.tomshardware.com/tech-industry/artificial-intelligence/tencent-is-reportedly-in-talks-to-acquire-manus-from-meta-following-beijing-intervention-company-expects-to-remain-independent-of-chinese-tech-giant) ⭐️ 7.5/10
 
-AMD CTO Mark Papermaster confirmed that the EPYC 'Venice' Zen 6 server CPUs will be officially launched at AMD's Advancing AI event on July 22-23. The chips will feature up to 256 Zen 6 cores, be manufactured on TSMC's 2nm process, and be the first high-performance computing processor to reach production on that node. This launch represents a major leap in server CPU capabilities, directly competing with Intel's data center offerings and reinforcing AMD's position in the AI infrastructure market. The combination of 256 cores, TSMC 2nm process, and PCIe Gen 6 connectivity positions Venice as a critical platform for AI accelerator workloads paired with AMD's Instinct MI455 GPUs. Venice introduces the new SP7 socket with 16-channel memory supporting up to 1.6 TB/s of bandwidth, and adopts PCIe Gen 6 for improved CPU-to-GPU communication. The 256-core flagship represents a 33% core count increase over the current 192-core EPYC 'Turin' lineup, and AMD claims over 70% higher performance and efficiency compared to Zen 5-based predecessors.
+Tencent is reportedly negotiating to acquire AI startup Manus from Meta for $2 billion, after Beijing ordered the companies to unwind a previous deal.
 
-rss · TechPowerUp News · Jul 9, 20:00
+rss · Tom's Hardware · Jul 10, 15:00
 
-**Background**: AMD's Zen architecture powers the company's entire processor portfolio, from consumer Ryzen CPUs to EPYC server processors and Threadripper workstation chips. EPYC is AMD's server CPU brand designed for data center and enterprise workloads, competing primarily with Intel's Xeon lineup. The Zen microarchitecture has gone through several generations (Zen, Zen 2, Zen 3, Zen 4, Zen 5), with each iteration bringing improvements in performance, efficiency, and core counts. The move to TSMC's 2nm process node represents a significant manufacturing advancement, as it requires new fabrication techniques and is among the most advanced semiconductor processes currently in production.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.amd.com/en/technologies/zen-core.html">AMD " Zen " Core Architecture</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors">List of AMD Ryzen processors - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD`, `#EPYC`, `#Zen6`, `#server-CPUs`, `#TSMC-2nm`
+**Tags**: `#AI`, `#M&A`, `#Tencent`, `#Meta`, `#Geopolitics`
 
 ---
 
 <a id="item-7"></a>
-## [New hack exploits AI hallucinations to trick agents into running malicious code — 'HalluSquatting' attack exploits a fundamental weakness in every available model](https://www.tomshardware.com/tech-industry/cyber-security/hallusquatting-is-the-latest-agentic-ai-exploit-where-models-dream-up-potentially-malicious-urls-in-tool-calls-attack-exploits-a-fundamental-weakness-in-every-available-model) ⭐️ 7.5/10
+## [Nanya to Quadruple 2027 DRAM Capex to $6.2B Amid Price Surge](https://www.tomshardware.com/tech-industry/nanya-to-quadruple-capital-spending-to-6-2-billion-in-2027) ⭐️ 7.5/10
 
-HalluSquatting is a new attack vector that exploits AI models' tendency to hallucinate software package URLs, potentially enabling attackers to create botnets by tricking AI agents into executing malicious code.
+Nanya Technology announced plans to invest more than TW$200 billion (approximately $6.2 billion) in capital expenditure in 2027, roughly four times its current-year budget. The company also reported a Q2 gross margin of 79.5%, driven by surging DRAM prices and rising average selling prices (ASPs) across the memory segment. The dramatic capex increase signals strong confidence in a sustained DRAM upcycle, likely fueled by AI-related demand for high-bandwidth memory and data center expansion. A 79.5% gross margin is exceptionally high even by semiconductor industry standards, reflecting the extraordinary pricing power memory makers currently wield amid tight supply. The planned 2027 capex of TW$200 billion ($6.2B) is roughly 4x the 2026 budget, indicating aggressive fab expansion and likely technology node migration. Nanya is one of Taiwan's major DRAM manufacturers, competing globally with Samsung, SK Hynix, and Micron — players that collectively invest $8-9 billion annually in deposition equipment alone as part of broader fab capex.
 
-rss · Tom's Hardware · Jul 9, 11:15
+rss · Tom's Hardware · Jul 10, 13:31
 
-**Tags**: `#AI security`, `#vulnerability`, `#LLM attacks`, `#agentic AI`, `#cybersecurity`
+**Background**: DRAM (Dynamic Random-Access Memory) is the most common type of main memory used in computers, where each memory cell consists of one transistor and one capacitor that must be periodically recharged, giving DRAM its 'dynamic' nature. Average Selling Price (ASP) is a key metric in the semiconductor industry, calculated by dividing total revenue by units sold, used to track pricing trends and market dynamics. The DRAM market is well known for its boom-and-bust cycles driven by supply-demand imbalances; sharp increases in capital spending typically signal manufacturers' expectations of continued strong demand rather than near-term supply easing.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Random-access_memory">Random - access memory - Wikipedia</a></li>
+<li><a href="https://www.techtarget.com/searchstorage/definition/DRAM">What is DRAM ( Dynamic Random Access Memory )? How Does it...</a></li>
+<li><a href="https://www.investopedia.com/terms/a/averagesellingprice.asp">investopedia.com/terms/a/averagesellingprice. asp</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#DRAM`, `#semiconductors`, `#memory market`, `#capital spending`, `#Nanya`
 
 ---
 
 <a id="item-8"></a>
-## [AI Servers to Surpass Conventional Data Center Power Consumption by 2027](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts) ⭐️ 7.5/10
+## [Researchers Propose Sideways-Stacked DRAM to Break HBM's Heat Wall](https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus) ⭐️ 7.5/10
 
-Gartner forecasts that global data center electricity consumption will grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. The research firm further projects that AI servers will consume more power than all conventional data center hardware combined by 2027. This rapid growth signals a fundamental shift in data center architecture and energy demand, with significant implications for grid planning, sustainability goals, and operational costs across the technology industry. Utilities, policymakers, and tech companies will need to address escalating power needs as AI workloads increasingly dominate computing resources. The 26% year-over-year growth in 2026 represents a substantial acceleration compared to typical data center power consumption growth rates. AI workloads require significantly more power-dense infrastructure than traditional computing tasks, often necessitating advanced cooling solutions like liquid or immersion cooling rather than conventional air-based systems.
+Researchers from Korea and Japan have proposed two new DRAM stacking architectures—V-Die and MOSAIC—that rotate DRAM dies sideways instead of stacking them vertically with through-silicon vias (TSVs), enabling liquid-cooling channels between adjacent dies and freeing die area for more memory cells. As AI training and inference workloads push memory bandwidth and capacity to their limits, conventional HBM is increasingly constrained by thermal density and the manufacturing complexity of TSVs. If validated and adopted, these sideways architectures could reshape the roadmap for AI GPU memory subsystems, benefiting hyperscalers, GPU designers, and the broader semiconductor supply chain. The V-Die and MOSAIC designs eliminate TSVs by using bottom-edge I/O on each upright die, allowing liquid-cooling channels to run between adjacent dies and reclaiming die area previously consumed by vias. The approach targets simultaneous improvements in bandwidth, capacity density, and thermal management, though it remains at the research stage and is not yet product-ready.
 
-rss · Tom's Hardware · Jul 9, 10:25
+rss · Tom's Hardware · Jul 10, 11:40
 
-**Background**: AI servers differ from traditional data center servers primarily in their use of high-power GPUs and accelerators designed for parallel computation, which consume far more electricity per rack than standard CPUs. A terawatt-hour (TWh) equals one trillion watt-hours and is the standard unit for measuring national-scale energy consumption—for context, 565 TWh is roughly equivalent to the annual electricity usage of a mid-sized country. The shift toward AI-optimized infrastructure has driven investments in specialized cooling, power delivery, and facility designs to handle these increased thermal and electrical loads.
+**Background**: High Bandwidth Memory (HBM) is the dominant ultra-fast memory used alongside AI accelerators like GPUs. It achieves its high bandwidth by vertically stacking multiple DRAM dies and connecting them with Through-Silicon Vias (TSVs)—tiny vertical electrical pathways drilled through each die. While effective, this approach concentrates heat in a dense vertical stack, making cooling increasingly difficult as more layers are added, and consumes die area that could otherwise hold more memory cells. The 'memory wall' refers to the growing gap between processor compute capability and memory bandwidth/capacity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/servers-com_how-does-ai-data-center-infrastructure-differ-activity-7358783948883218434-QtP9">How AI workloads differ from traditional workloads | Servers .com...</a></li>
-<li><a href="https://mepacademy.com/immersion-cooling-explained-for-ai-data-centers/">Immersion Cooling Explained for AI Data Centers - MEP Academy</a></li>
-<li><a href="https://technica.inc/glossary/terawatt-hour-twh/">TERAWATT - HOUR ( TWh ) - Technica Communications</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus">Researchers turn HBM on its side to tackle AI memory ’s heat wall...</a></li>
+<li><a href="https://www.gate.com/learn/articles/how-hbm-works-sk-hynix">How does HBM technology work? How did SK Hynix... | Gate Learn</a></li>
+<li><a href="https://medium.com/chip-design-insider/the-role-of-high-bandwidth-memory-hbm-in-advancing-ai-caffc63154e5">The Role of High Bandwidth Memory ( HBM ) in Advancing AI | Medium</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#data centers`, `#energy consumption`, `#Gartner forecast`, `#sustainability`
+**Tags**: `#HBM`, `#AI hardware`, `#semiconductor memory`, `#GPU architecture`, `#thermal management`
 
 ---
 
 <a id="item-9"></a>
-## [揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪](https://36kr.com/p/3888180493318921?f=rss) ⭐️ 7.3/10
+## [Micron Commits $3B to U.S. Chip Supply Chain, Takes $500M Stake in 300mm Wafer Plant](https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant) ⭐️ 7.5/10
 
-Profile of Momenta founder Cao Xudong and his 'Musk-style' leadership, detailing how the company's contrarian L2-first strategy and engineering efficiency led to Hong Kong IPO success with 50%+ market share in designated vehicle models.
+Micron announced it will invest up to $3 billion in the U.S. semiconductor supply chain, including a $500 million equity stake in GlobalWafers' Sherman, Texas facility — the only 300 mm wafer plant in America. The commitment is part of Micron's broader $250 billion plan to expand domestic semiconductor manufacturing over the coming years. This investment strengthens U.S. semiconductor supply chain resilience by onshoring a critical input — silicon wafers — that had previously been concentrated in Asia. It signals how memory makers are aligning capital expenditures with U.S. industrial policy incentives and securing upstream materials critical for DRAM and NAND production. GlobalWafers America operates a 300 mm wafer fabrication facility in Sherman, Texas, making it the only U.S.-based producer of 300 mm silicon wafers. The $500 million represents an equity position rather than a simple supply contract, aligning Micron more deeply with its upstream supplier. The remaining ~$2.5 billion of the $3 billion commitment will go to other parts of the U.S. semiconductor ecosystem.
 
-rss · 36氪 · Jul 9, 09:01
+rss · Tom's Hardware · Jul 10, 10:40
 
-**Tags**: `#autonomous-driving`, `#Momenta`, `#IPO`, `#ADaS`, `#Chinese-tech`, `#startup-strategy`
+**Background**: Silicon wafers are the thin disc-shaped substrates on which virtually all integrated circuits, including memory chips, are fabricated. A larger wafer diameter — such as 300 mm versus the older 200 mm standard — yields significantly more chips per wafer, improving economies of scale for advanced nodes. GlobalWafers is a Taiwanese-headquartered wafer supplier with its U.S. subsidiary operating the Sherman, Texas facility. The push to localize wafer production has become a key pillar of U.S. industrial policy, particularly under programs like the CHIPS and Science Act, which seeks to reduce dependence on foreign suppliers for critical semiconductor inputs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.wevolver.com/article/200-mm-wafer-vs-300-mm-wafer-a-technical-comparison-for-engineers">200 mm Wafer vs 300 mm Wafer – A Technical Comparison for...</a></li>
+<li><a href="https://www.gw-semi.com/">GlobalWafers : Leading Supplier of Silicon Wafers</a></li>
+<li><a href="https://grokipedia.com/page/GlobalWafers">GlobalWafers</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#supply-chain`, `#manufacturing`, `#microscaling`, `#us-tech-policy`
 
 ---
 
 <a id="item-10"></a>
-## [海光信息亮相光合组织2026智能计算应用大会](https://36kr.com/newsflashes/3889195366447872?f=rss) ⭐️ 7.3/10
+## [LinkedIn 和 X 上四分之一的长文是 AI 撰写的](https://www.solidot.org/story?sid=84798) ⭐️ 7.3/10
 
-Hygon Information presented a full cloud-edge-end computing ecosystem at the 2026 Intelligent Computing Conference, where China's first fully-domestic 100,000-card AI supercluster (Sugon 8000) was officially unveiled using Hygon CPU+DCU chips.
+News digest covering Pangram's finding that ~25% of long-form posts on major platforms are AI-generated, China's Long March 10B rocket achieving first sea-based vertical recovery, and US corporate adoption of Chinese AI models surging via OpenRouter.
 
-rss · 36氪 · Jul 10, 02:14
+rss · Solidot · Jul 10, 08:43
 
-**Tags**: `#domestic-chips`, `#AI-infrastructure`, `#supercluster`, `#Hygon`, `#Chinese-tech`
+**Tags**: `#AI-detection`, `#AI-adoption`, `#space-launch`, `#reusable-rockets`, `#content-authenticity`
 
 ---
 
 <a id="item-11"></a>
-## [OpenMandriva Project Sabotaged by Trusted Developer with Admin Access](https://www.solidot.org/story?sid=84789) ⭐️ 7.3/10
+## [GPT-5.6](https://openai.com/index/gpt-5-6/) ⭐️ 7.0/10
 
-Davide Beatrici, a well-known developer from the Mumble project who had been granted admin privileges upon joining the OpenMandriva team, abused those privileges to delete GitHub repositories and publish an empty package in the cooker repository, breaking all GNOME and Cosmic packages for end users. The incident stemmed from a personal dispute after Beatrici left the project and the maintainers cut off a mirror connection he was operating. This incident highlights the inherent governance risks of open-source projects that grant elevated access based on external reputation rather than internal trust-building, and demonstrates how a single disgruntled insider with admin rights can cause widespread damage to downstream users. It serves as a cautionary tale for other open-source communities about vetting new contributors and limiting privilege escalation. The sabotage specifically targeted the cooker (rolling-release) repository with an empty GNOME/Cosmic package, which propagated to all users running those desktop environments. OpenMandriva is actively working to restore the deleted repositories and rebuild the broken packages, and publicly disclosed the incident to warn the broader community about Beatrici.
+OpenAI announces GPT-5.6, a new model release with improved intent understanding, original image detail preservation, and SOTA performance on ARC-AGI-3 benchmark.
 
-rss · Solidot · Jul 9, 07:01
+hackernews · logickkk1 · Jul 9, 17:04 · [Discussion](https://news.ycombinator.com/item?id=48849066)
 
-**Background**: OpenMandriva Lx is a community-supported Linux distribution that continues the legacy of Mandriva Linux, which was active from 1998 to 2011. The 'cooker' repository is OpenMandriva's rolling-release development branch, meaning broken packages can quickly propagate to users running testing or development versions. GNOME and Cosmic (the desktop environment being developed by System76) are two major Linux desktop environments that many users rely on. The Mumble project is a well-known open-source voice chat application. Open-source projects commonly face trust-based governance challenges because they rely on volunteer contributors whose reputations from other projects often determine their initial level of access.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/OpenMandriva_Lx">OpenMandriva Lx - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Safety`, `#Open Source Governance`, `#CSAM`, `#Grok`, `#xAI`, `#Security Incident`
+**Tags**: `#openai`, `#gpt-5`, `#llm`, `#model-release`, `#ai-safety`
 
 ---
 
 <a id="item-12"></a>
-## [Server DRAM Contract Prices to Rise 13-18% QoQ in Q3 2026](https://www.dramexchange.com/WeeklyResearch/Post/2/12762.html) ⭐️ 7.0/10
+## [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en) ⭐️ 7.0/10
 
-TrendForce's latest memory pricing survey forecasts that server DRAM contract prices will rise 13-18% quarter-over-quarter in Q3 2026, noting that multiple suppliers have already factored expected price hikes into long-term agreements. Server DRAM is a critical component for cloud providers, data center operators, and enterprise server buyers, so a double-digit price increase will impact infrastructure costs and IT budgeting across the industry. The fact that long-term agreements are already capping these increases suggests sustained supply tightness in the memory market. The forecasted increase of 13-18% QoQ is specific to server DRAM contract prices, and the role of long-term agreements in capping price hikes implies that spot market prices could potentially move higher without such contractual constraints.
+The EU Commission has preliminarily found Instagram and Facebook's addictive design practices in breach of the Digital Services Act, signaling major regulatory action against Meta's core platforms.
 
-rss · DRAMeXchange (TrendForce) · Jul 9, 14:02
+hackernews · jeroenhd · Jul 10, 11:00 · [Discussion](https://news.ycombinator.com/item?id=48858292)
 
-**Background**: Server DRAM is a specialized category of DRAM memory designed for use in data center and enterprise servers, prioritizing reliability, error correction, and sustained throughput over the cost optimization typical of consumer DRAM. TrendForce is a leading market research firm specializing in DRAM, NAND flash, and broader semiconductor industry analysis, and its quarterly pricing surveys are widely referenced by hardware manufacturers, cloud operators, and financial analysts.
-
-**Tags**: `#DRAM`, `#memory-pricing`, `#server-hardware`, `#TrendForce`, `#semiconductor-market`
+**Tags**: `#regulation`, `#EU`, `#DSA`, `#social-media`, `#Meta`
 
 ---
 
 <a id="item-13"></a>
-## [Blame the Plumbing: Why Intel Handles USB Onboard Audio Codecs Better Than AMD](https://www.techpowerup.com/350635/blame-the-plumbing-why-intel-handles-usb-onboard-audio-codecs-better-than-amd) ⭐️ 6.5/10
+## [Mitchell Hashimoto on Ghostty, Zig, and Pragmatic Engineering](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) ⭐️ 7.0/10
 
-A technical analysis explaining why Intel platforms handle USB onboard audio codecs better than AMD due to differences in HDA bus implementation and motherboard design choices.
-
-rss · TechPowerUp News · Jul 9, 17:34
-
-**Tags**: `#hardware`, `#audio`, `#intel`, `#amd`, `#motherboard-design`
-
----
-
-<a id="item-14"></a>
-## [Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab](https://www.techpowerup.com/350640/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab) ⭐️ 6.5/10
-
-Micron announced it is accelerating its planned U.S. fab and technology investments to more than $250 billion through 2035, and celebrated the first concrete pour at its Clay, New York site — more than one quarter ahead of the original schedule. The company also plans to invest up to $3 billion to develop the domestic semiconductor supply chain ecosystem supporting its U.S. manufacturing footprint. This massive investment signals a major shift toward reshoring critical memory chip production to the United States, directly tied to surging AI-driven demand for DRAM. Producing 40% of its DRAM domestically would reduce U.S. reliance on Asian memory manufacturing and strengthen national supply chain resilience for AI infrastructure. The first concrete pour marks the transition from site preparation to vertical construction, arriving ahead of schedule. Fab construction costs typically range from $1–20 billion per facility, underscoring the scale of Micron's commitment. The investment ramp is driven by surging memory demand in the AI era and reflects Micron's confidence in its technology leadership in leading-edge memory products.
-
-rss · TechPowerUp News · Jul 9, 14:55
-
-**Background**: DRAM (Dynamic Random-Access Memory) is the main memory used in computers, where each memory cell consists of a single transistor and a capacitor that must be periodically recharged. It is a critical component for everything from consumer devices to AI servers, which require massive amounts of high-bandwidth memory. A semiconductor fab (fabrication plant) is one of the most complex and expensive engineering projects in the world, with construction costs often reaching billions of dollars and requiring ultra-high-purity fluid handling and cleanroom systems. Micron is one of only three major DRAM manufacturers globally, alongside Samsung and SK Hynix.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant">Semiconductor fabrication plant - Wikipedia</a></li>
-<li><a href="https://www.techtarget.com/searchstorage/definition/DRAM">What is DRAM ( Dynamic Random Access Memory )? How Does it...</a></li>
-<li><a href="https://www.basesite.com/blog/3-cost-efficiency-strategies-in-semiconductor-construction-balancing-innovation-and-quality">3 Cost-Efficiency Strategies in Semiconductor Construction ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductor`, `#manufacturing`, `#DRAM`, `#AI-infrastructure`, `#industry-news`
-
----
-
-<a id="item-15"></a>
-## [US Chip Sanctions Flip-Flops Push China Toward Self-Sufficiency and Russia Alliance](https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance) ⭐️ 6.5/10
-
-While the US wavers on export controls for Chinese chips, China is rapidly building its own domestic chip supply chain and exploring trade partnerships with sanctioned nations, including potentially Russia. The inconsistency in US policy is reportedly creating conditions for a Sino-Russian chip trade alliance as both countries seek to counter Western technology restrictions. This development could fundamentally reshape global semiconductor supply chains, as China's pursuit of self-sufficiency combined with alternative trade partnerships may undermine the effectiveness of US export controls. It signals a broader fragmentation of the global tech ecosystem into competing blocs, affecting chip manufacturers, equipment makers, and downstream industries worldwide. China's domestic chip self-sufficiency rate rose from 14% in 2014 to 23% in 2023, with projections to reach 27% by 2027 according to TechInsights and SEMI data. The US BIS has added 140 entities to its export control list since late 2023, and has been pressuring allies like the Netherlands and Japan to restrict advanced chip-making equipment sales to China.
-
-rss · Tom's Hardware · Jul 9, 15:24
-
-**Background**: US export controls on Chinese semiconductors intensified in October 2023, followed by further tightening in April and December 2024. These rules target advanced chips, chip-making equipment, and related entities. China began its serious push for semiconductor self-reliance in 2017 during the first Trump administration, following the blacklisting of key Chinese tech firms like Huawei. Meanwhile, Sino-Russian trade ties have deepened significantly, with bilateral trade reaching $100 billion in 2018 and commitments to double that figure, as both countries seek to counter US sanctions and promote a multipolar global order.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-chip-foundries-move-to-consolidate">China ’s top chip foundries move to consolidate as... | Tom's Hardware</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#geopolitics`, `#chip-sanctions`, `#supply-chain`, `#china-tech`
-
----
-
-<a id="item-16"></a>
-## [36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍](https://36kr.com/p/3889141540370949?f=rss) ⭐️ 6.3/10
-
-Tashi Technology, NVIDIA's first global tactile simulation partner, secured a Series B funding of hundreds of millions of yuan, with tactile sensor penetration in dexterous robot hands rising from ~20% to over 60% in 2025.
-
-rss · 36氪 · Jul 10, 01:19
-
-**Tags**: `#tactile sensing`, `#robotics`, `#NVIDIA`, `#AI hardware`, `#Series B funding`
-
----
-
-<a id="item-17"></a>
-## [MiniMax闫俊杰：不再领取薪酬，个人拿出5%公司股份用于团队激励和开源支持](https://36kr.com/newsflashes/3889170152258307?f=rss) ⭐️ 6.3/10
-
-MiniMax CEO Yan Junjie announces he will forgo his salary until AGI is achieved and personally allocate 5% of company shares (4% for team incentives, 1% for open-source community support).
-
-rss · 36氪 · Jul 10, 01:48
-
-**Tags**: `#MiniMax`, `#AGI`, `#corporate-announcement`, `#open-source`, `#AI-industry`
-
----
-
-<a id="item-18"></a>
-## [Colibrì: Running GLM 5.2 Locally on a 32GB RAM Machine](https://github.com/JustVugg/colibri) ⭐️ 6.0/10
-
-Developer JustVugg released Colibrì, a single-file C inference engine that runs Zhipu AI's 744B-parameter MoE model GLM 5.2 on a consumer laptop with only 32GB of RAM. The approach keeps the dense layers (~17B params) resident in RAM at int4 precision (~9.9 GB) while streaming the 21,504 routed experts (~370 GB on disk) on demand using an LRU cache, achieving roughly 0.1 tokens/second. As frontier open-weight models like GLM 5.2 reach hundreds of billions of parameters, running them locally typically demands expensive multi-GPU servers. This project demonstrates that even at glacial speeds, frontier-tier models can be made accessible on everyday hardware, lowering the barrier for experimentation, privacy-sensitive use cases, and democratized research without cloud costs. The engine is a single ~1,300-line C file with no BLAS, Python, or GPU dependencies, relying on mmap-based weight streaming and the OS page cache as a free L2. A key insight is that only ~11 GB of the routed experts actually change between tokens, making a streaming LRU strategy viable. The author notes the reported 0.1 tok/s is the ceiling of what can be measured on their 12-core, 25 GB laptop.
-
-hackernews · vforno · Jul 9, 08:05 · [Discussion](https://news.ycombinator.com/item?id=48842459)
-
-**Background**: GLM 5.2 is Zhipu AI's open-weights flagship MoE (Mixture-of-Experts) model with ~744B total parameters, of which only ~40B are active per token — a design that reduces compute cost while preserving capacity. Quantization to int4 (4-bit integer weights) is a standard compression technique that shrinks models to roughly a quarter of their original size with modest quality loss. Multi-Token Prediction (MTP) is an emerging technique where the model predicts several future tokens simultaneously, often improving throughput without sacrificing quality. MoE models naturally lend themselves to partial residency strategies because only a small fraction of experts fire on any given token.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.modular.com/models/glm-5-2">GLM - 5 . 2 | Modular</a></li>
-<li><a href="https://heyaiwiki.com/models/glm-5-2/">GLM - 5 . 2 — Z. ai LLMs model | heyaiwiki</a></li>
-<li><a href="https://medium.com/@himankvjain/accelerating-language-models-with-multi-token-prediction-9f0167232f5b">Accelerating Language Models with Multi - Token Prediction | Medium</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community response is positive but realistic: commenters praised the elegant 'obvious' idea of expert streaming, while questioning whether 0.05–0.1 tok/s is practically useful (some noted even 1 tok/s can work for overnight batch tasks). Several practitioners shared related work — one is building a similar Apple Silicon engine with Unsloth GGUF splits and native Metal kernels, another released 'thinfer' for image/video generation with a --vram-budget flag using LRU weight streaming, and a workplace user confirmed GLM 5.2 is also being evaluated on high-end enterprise hardware. The consensus is that the technique isn't novel, but the well-executed, single-file implementation addresses a real unmet need.
-
-**Tags**: `#local-llm`, `#quantization`, `#int4`, `#inference-optimization`, `#show-hn`
-
----
-
-<a id="item-19"></a>
-## [Mitchell Hashimoto on Building Ghostty in Zig Over Rust](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) ⭐️ 6.0/10
-
-In a recent interview, Mitchell Hashimoto, co-founder of HashiCorp, shared detailed insights into building the Ghostty terminal emulator in Zig, explaining his pragmatic reasoning for choosing Zig over Rust and discussing broader language design philosophy. Hashimoto's perspective carries significant weight given his track record with HashiCorp, and his choice highlights an ongoing debate in the systems programming community about whether Rust's memory safety guarantees are worth its complexity, or whether simpler languages like Zig offer a better productivity-to-performance tradeoff for certain projects. Ghostty is a cross-platform terminal emulator that uses platform-native UI and GPU acceleration, and it also ships libghostty, a zero-dependency C and Zig library for embedding terminal functionality. Zig is a general-purpose system programming language designed as a modern alternative to C, requiring manual memory management without a garbage collector.
+In a published interview, Mitchell Hashimoto (HashiCorp co-founder) discusses the development of Ghostty, a cross-platform terminal emulator, and explains why he chose Zig over Rust for the project. He shares candid opinions about programming language communities, forking strategies, and CLI design philosophy. Hashimoto's perspective carries weight given his track record with HashiCorp (Vagrant, Terraform), and his preference for Zig over Rust reflects a growing sentiment among systems programmers who value simplicity and manual control over Rust's enforced safety guarantees. The Ghostty project itself has become a notable real-world example of Zig's viability for production-quality software. Ghostty uses platform-native UI with GPU acceleration and is built primarily in Zig, with libghostty exposed as a zero-dependency C and Zig library for embedding terminal functionality. Hashimoto has personally taken on cross-platform maintenance rather than encouraging community forks, because forks create synchronization overhead with upstream changes.
 
 hackernews · veqq · Jul 9, 17:17 · [Discussion](https://news.ycombinator.com/item?id=48849292)
 
-**Background**: Ghostty is a fast, feature-rich, cross-platform terminal emulator that uses native UI components and GPU-accelerated rendering to deliver high performance. Zig is a system programming language first announced in 2016 by Andrew Kelley, designed to be a robust, optimal, and reusable alternative to C, with manual memory management and compile-time generics but without a garbage collector. Rust, by contrast, enforces memory safety through its ownership and borrow checker system, which some developers find cumbersome despite its safety guarantees.
+**Background**: Ghostty is a terminal emulator—a program that renders text-based interfaces from shells and command-line tools—that aims to be fast, feature-rich, and cross-platform. Zig is a systems programming language designed as a modern alternative to C, featuring manual memory management, compile-time generics, and no hidden control flow. The Rust vs Zig debate centers on fundamentally different philosophies: Rust enforces memory safety through its ownership model and borrow checker, while Zig offers manual memory management with safety features like debug-mode allocators, appealing to developers who prefer explicit control over compiler-enforced guarantees.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://ghostty.org/docs">Ghostty Docs</a></li>
 <li><a href="https://github.com/ghostty-org/ghostty">GitHub - ghostty -org/ ghostty : Ghostty is a fast, feature-rich, and...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Zig_(programming_language)">Zig (programming language)</a></li>
+<li><a href="https://blog.logrocket.com/comparing-rust-vs-zig-performance-safety-more/">Comparing Rust vs . Zig : Performance, safety, and... - LogRocket Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion was lively with 134 upvotes and 51 comments. Some commenters noted that they find Rust's culture off-putting while others appreciate Rust's zero-cost abstractions and memory safety guarantees for their use cases. Several readers found Hashimoto's pragmatic, thoughtful approach inspiring and motivating. One commenter pointed out a disagreement with Hashimoto's stance that CLI programs should operate on text rather than structured data like PowerShell does.
+**Discussion**: The community discussion is largely positive, with readers appreciating Hashimoto's pragmatic, thoughtful approach to engineering decisions. Some commenters sympathize with his criticism of Rust's community culture, while others push back on his dismissal of structured CLI data (e.g., PowerShell's approach). There is also a recurring distinction between Rust the language and Rust the community, with some arguing the language's syntactic complexity is the real barrier rather than cultural factors.
 
-**Tags**: `#zig`, `#rust`, `#terminal-emulator`, `#ghostty`, `#programming-languages`
+**Tags**: `#ghostty`, `#zig`, `#terminal-emulator`, `#programming-languages`, `#rust-vs-zig`
+
+---
+
+<a id="item-14"></a>
+## [SemiAnalysis Releases EDA Market Primer Covering Big Three and China's Rise](https://semiwiki.com/eda/371026-semianalysis-eda-market-primer-market-dynamics-cadence-synopsys-siemens-china-eda-rise/) ⭐️ 7.0/10
+
+SemiAnalysis has published an EDA market primer analyzing the competitive landscape of Cadence, Synopsys, and Siemens—the three dominant EDA vendors—alongside the geopolitical significance of China's emerging domestic EDA capabilities. The article examines market dynamics at a time when advanced chip design complexity has grown beyond simple transistor layout into multi-billion-cell system-on-chip architectures. EDA software is the critical infrastructure layer that makes modern semiconductor manufacturing possible, and the industry is effectively an oligopoly controlled by three Western firms. China's push to build domestic EDA alternatives carries major implications for US export controls and the global semiconductor supply chain, making this primer timely for anyone tracking geopolitical chip dynamics. At advanced process nodes, a single modern SoC contains billions of standard cells—pre-designed and pre-characterized logic building blocks of equal height that fit into standard cell rows—which makes manual design infeasible. The primer situates the market dynamics of Cadence, Synopsys, and Siemens against the backdrop of China's effort to achieve EDA self-sufficiency amid tightening export controls.
+
+rss · SemiWiki · Jul 9, 17:00
+
+**Background**: Electronic Design Automation (EDA) refers to specialized software tools used by engineers to design, simulate, verify, and test complex electronic circuits and systems such as integrated circuits (ICs) and printed circuit boards. Without EDA tools, modern electronic devices—which are far too complex for manual design—could not be created economically. Standard cells are pre-designed and pre-verified logic blocks that serve as basic building blocks in ASIC design flows, enabling productivity at the cost of some design flexibility. Advanced semiconductor process nodes (such as 5nm and 3nm) refer to successive generations of manufacturing technology; as nodes shrink, chip density increases but manufacturing complexity grows exponentially.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/what-eda-software-understanding-electronic-vehxc">What is EDA Software ? Understanding Electronic Design ...</a></li>
+<li><a href="https://semiengineering.com/what-is-electronic-design-automation-and-why-do-you-need-it/">What Is Electronic Design Automation And Why Do You Need It?</a></li>
+<li><a href="https://vlsiguru.com/blog/modern-process-nodes-5nm-3nm-vlsi-design">How Modern Process Nodes (5nm, 3nm) Affect VLSI Design</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#EDA`, `#semiconductors`, `#market-analysis`, `#Cadence`, `#Synopsys`, `#China-semiconductors`
+
+---
+
+<a id="item-15"></a>
+## [Apple's $30B Broadcom Deal Expands AI and U.S. Chip Supply Chain](https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/) ⭐️ 7.0/10
+
+Apple has announced a $30 billion multi-year partnership with Broadcom to design and manufacture custom silicon components and advanced wireless connectivity technologies in the United States. The deal ties Broadcom's expertise in AI data center infrastructure chips and ASICs more closely into Apple's ecosystem, while reinforcing domestic semiconductor manufacturing under Apple's Advanced Manufacturing Program (AMP). The deal underscores Apple's deepening push into AI-driven infrastructure, leveraging Broadcom's dual dominance in AI ASICs and networking — critical chokepoints in hyperscale data centers. It also signals a major vote of confidence in U.S.-based semiconductor manufacturing, aligned with the CHIPS Act's goal of reducing supply chain dependence on Asia. The partnership covers 5G radio frequency components and custom silicon produced in the U.S., with Broadcom's AI revenue alone hitting $10.8 billion in a recent quarter, driven by ASIC and networking demand. Analysts note the deal could also deliver an indirect boost to Intel by strengthening the broader U.S. chipmaking ecosystem.
+
+rss · EE Times · Jul 10, 12:50
+
+**Background**: Broadcom has transformed from a semiconductor roll-up company into a high-margin AI infrastructure powerhouse, dominating both custom AI ASICs and the high-speed networking gear that connects AI chips in hyperscale data centers. Meanwhile, the CHIPS Act of 2022 was enacted to revitalize U.S. semiconductor manufacturing, enhance supply chain resilience, and sharpen America's technological edge. Apple's Advanced Manufacturing Program (AMP) sits within this broader policy push to onshore critical chip production.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.macrumors.com/2026/07/08/apple-announces-30-billion-broadcom-deal/">Apple Announces $30 Billion Broadcom Deal to Make... - MacRumors</a></li>
+<li><a href="https://www.comparos.in/news/apple-announces-30-billion-broadcom-deal-for-us-made-silicon-components">Apple Announces $30 Billion Broadcom Deal for... - Comparos.in</a></li>
+<li><a href="https://spoonai.me/posts/2026-06-13-broadcom-q2-2026-ai-chip-q3-16b-guidance-jun3-en">Broadcom Booked $10.8B in AI Chips Last Quarter — and... | spoonai</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Apple`, `#Broadcom`, `#semiconductors`, `#AI-infrastructure`, `#supply-chain`
+
+---
+
+<a id="item-16"></a>
+## [Energy Efficiency Reshapes AI Hardware Design](https://www.eetimes.com/ai-energy-barrier-forces-system-technology-co-optimization/) ⭐️ 7.0/10
+
+At Leti Innovation Days 2026, energy efficiency was identified as AI hardware's next defining constraint, pushing the industry toward system-technology co-optimization (STCO) approaches to address the challenge. As AI models grow exponentially in size and compute demand, power and energy have become the primary bottlenecks limiting further scaling. This shift forces a fundamental rethinking of how chips, packaging, and systems are co-designed, affecting the entire semiconductor and AI ecosystem. STCO is a top-down methodology that translates future system-level requirements into technology and manufacturing specifications, integrating memory, processors, mixed-signal IP, and sensors into single packages. The approach is especially relevant for chiplet-based heterogeneous systems in high-performance computing.
+
+rss · EE Times · Jul 10, 07:18
+
+**Background**: CEA-Leti is a leading French microelectronics research institute that hosts annual Innovation Days in Grenoble, bringing together semiconductor industry leaders. System-Technology Co-Optimization (STCO) is an emerging design paradigm that goes beyond traditional chip-level optimization by co-designing the system architecture, circuit design, and process technology together. As AI workloads drive unprecedented power consumption in data centers, the industry is moving from purely transistor-scaling approaches to holistic, system-level energy optimization strategies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.imec-int.com/en/articles/unlocking-system-scaling-bottlenecks-system-technology-co-optimization">STCO : system - technology co - optimization | imec</a></li>
+<li><a href="https://semiwiki.com/eda/siemens-eda/305312-system-technology-co-optimization-stco/">System Technology Co - Optimization ( STCO ) - SemiWiki</a></li>
+<li><a href="https://www.eetimes.com/cea-leti-innovation-days-do-more-with-less/">Leti Innovation Days : Do More With Less - EE Times</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI hardware`, `#energy efficiency`, `#semiconductors`, `#STCO`, `#system design`
+
+---
+
+<a id="item-17"></a>
+## [Meta to produce third-generation MTIA datacenter chip in September](https://www.electronicsweekly.com/news/business/meta-2026-07/) ⭐️ 7.0/10
+
+Meta is set to put its third-generation MTIA (Meta Training and Inference Accelerator) custom datacenter chip into production in September, as part of a multi-generational silicon roadmap supporting its broader plan to deploy 14GW of computing capacity. This move underscores Meta's deepening commitment to in-house AI silicon, reducing its dependence on NVIDIA GPUs and aligning with a broader hyperscaler trend where Google (TPU), Amazon (Trainium/Inferentia), and Microsoft (Maia) are all building custom accelerators. A 14GW compute buildout signals one of the largest AI infrastructure investments currently underway globally. The third-generation MTIA continues the lineage that includes the MTIA 450, which specialized in GenAI inference by doubling memory bandwidth over the MTIA 400 — a critical improvement since LLM serving is heavily bandwidth-bound. The chips are optimized for both Meta's recommendation algorithms and the increasingly compute-intensive Llama family of large language models.
+
+rss · Electronics Weekly · Jul 10, 05:26
+
+**Background**: MTIA is Meta's family of application-specific integrated circuits (ASICs) designed to accelerate AI training and inference workloads more efficiently than general-purpose GPUs for Meta's specific use cases. Training and inference have very different compute profiles: training is compute- and memory-bandwidth-intensive and often runs for days or weeks, while inference prioritizes low latency and throughput per query. Custom silicon lets hyperscalers tune these tradeoffs precisely while reducing reliance on a single supplier. The fact that NVIDIA itself has reportedly formed a custom-chip unit illustrates how mainstream in-house accelerator design has become across the industry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://encord.com/blog/meta-ai-chip-mtia-explained/">All You Need to Know About Meta ’s New AI Chip MTIA</a></li>
+<li><a href="https://explore.n1n.ai/blog/meta-developing-new-ai-chips-recommendation-systems-2026-03-12">Meta Is Developing 4 New Chips to Power Its AI and Recommendation...</a></li>
+<li><a href="https://medium.com/mlworks/meta-chips-built-for-billion-people-4a9d48bb6153">Meta Chips — Built For Billion People | by Mayur Jain | Medium</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Meta`, `#custom-silicon`, `#AI-infrastructure`, `#datacenter`, `#MTIA`
+
+---
+
+<a id="item-18"></a>
+## [Global Chip Sales Surge 104% Year-over-Year in May](https://www.electronicsweekly.com/news/business/899747-2026-07/) ⭐️ 7.0/10
+
+According to the Semiconductor Industry Association (SIA), global semiconductor sales reached $120.6 billion in May, rising 9.2% month-over-month from April's $110.5 billion and a striking 104.1% year-over-year compared to $59.1 billion in May 2025. A double-digit triple-digit YoY jump is an extraordinary data point for the semiconductor industry, which typically sees single-digit percentage swings. This figure will be closely scrutinized by analysts, investors, and policymakers as a potential signal of an AI-driven demand boom, or alternatively, a comparison against an unusually depressed base period. The May 2025 comparison base of $59.1 billion is notably low relative to the $120.6 billion reported for May 2026, which suggests the 104.1% YoY figure may partly reflect a rebound from a depressed prior-year period rather than purely organic growth. The SIA's monthly data tracks shipments across all major regional markets including the Americas, Europe, Japan, China, and Asia Pacific.
+
+rss · Electronics Weekly · Jul 10, 05:24
+
+**Background**: The Semiconductor Industry Association (SIA) is the trade association representing the U.S. semiconductor industry and is widely regarded as the authoritative source for global chip sales statistics. Each month, SIA publishes aggregated worldwide sales figures based on data submitted by its member companies, covering memory, logic, analog, and other chip categories across all geographic regions. These monthly readings are a key barometer used by industry analysts to gauge the health and cyclicality of the broader technology supply chain, since semiconductors are essential components in everything from smartphones and PCs to automotive systems and data center infrastructure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.semiconductors.org/global-semiconductor-sales-increase-9-2-month-to-month-in-may/">Global Semiconductor Sales Increase 9.2% Month-to-Month in May...</a></li>
+<li><a href="https://www.semiconductors.org/data-resources/market-data/">Semiconductor Market Data | SIA | Semiconductor Industry...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#market-data`, `#industry-news`, `#SIA`, `#electronics`
+
+---
+
+<a id="item-19"></a>
+## [Imec's NCT chip achieves 10x lossless neural data compression](https://www.electronicsweekly.com/news/business/imec-advances-neural-ics-2026-07/) ⭐️ 7.0/10
+
+Imec has developed a neuromorphic compressive telemetry (NCT) chip that performs lossless, real-time data reduction for intracortical brain-computer interfaces (iBCIs), compressing neural signal volumes by more than 10x while preserving signal fidelity. This breakthrough addresses the critical data-rate, power, and thermal bottlenecks that have limited intracortical BCI scaling, paving the way for next-generation implants capable of recording from 10,000 or more channels. It could accelerate clinical and research adoption of high-channel-count neural interfaces for applications such as motor prosthetics and speech restoration. The NCT architecture is built around two key innovations: 8 channel-rotating Δ-ADCs and an event-driven serializer supporting a ternary address event representation (AER) protocol, paired with an event-based LVDS driver. The event-based design means data is only transmitted when neural spikes occur, dramatically cutting average power consumption compared to continuous streaming.
+
+rss · Electronics Weekly · Jul 10, 05:12
+
+**Background**: Intracortical brain-computer interfaces are implants placed directly into brain tissue that record neural activity at much higher resolution than non-invasive methods like EEG, but they face severe engineering constraints: the bandwidth needed to stream raw neural data from thousands of electrodes quickly overwhelms wireless links and generates heat that can damage tissue. Neuromorphic computing takes inspiration from the brain by using event-driven, sparse processing rather than traditional clocked digital logic, which suits neural data naturally because most neurons are silent most of the time. Compressive sensing and lossless compression techniques aim to reduce the amount of data that must be transmitted without losing the scientifically or clinically important signal content.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.imec-int.com/en/articles/neural-telemetry-breakthrough-new-chip-delivers-ten-fold-compression-while-preserving">Neural telemetry breakthrough: new chip delivers ten-fold...</a></li>
+<li><a href="https://www.edn.com/neural-telemetry-new-chip-delivers-10x-compression-while-preserving-signal-integrity/">Neural telemetry : New chip delivers 10x compression while... - EDN</a></li>
+<li><a href="https://www.researchgate.net/publication/388301773_Towards_neuromorphic_compression_based_neural_sensing_for_next-generation_wireless_implantable_brain_machine_interface">(PDF) Towards neuromorphic compression based neural sensing for...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#neuromorphic-computing`, `#brain-computer-interface`, `#semiconductors`, `#imec`, `#neural-ICs`
 
 ---
 
 <a id="item-20"></a>
-## [Hy3](https://hy.tencent.com/research/hy3) ⭐️ 6.0/10
+## [Vibrating ICs for quantum computing](https://www.electronicsweekly.com/news/business/vibrating-ics-for-quantum-computing-2026-07/) ⭐️ 7.0/10
 
-Tencent releases Hy3, a new AI model available on OpenRouter with a free tier, though community analysis suggests it has already declined in rankings compared to competitors.
+ETH Zurich researchers have developed a hybrid quantum computing approach that combines mechanical resonators with superconducting qubits, using vibrations to store quantum information as working memory.
 
-hackernews · andai · Jul 9, 15:27 · [Discussion](https://news.ycombinator.com/item?id=48847552)
+rss · Electronics Weekly · Jul 10, 05:08
 
-**Tags**: `#AI`, `#LLM`, `#Tencent`, `#OpenRouter`, `#model-comparison`
+**Tags**: `#quantum-computing`, `#superconducting-qubits`, `#mechanical-resonators`, `#ETH-Zurich`, `#hybrid-quantum-systems`
 
 ---
