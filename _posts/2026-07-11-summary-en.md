@@ -5,47 +5,91 @@ date: 2026-07-11
 lang: en
 ---
 
-> From 96 items, 20 important content pieces were selected
+> From 64 items, 20 important content pieces were selected
 
 ---
 
-1. [SK hynix raises record $26.5B in U.S. IPO to fund HBM expansion](#item-1) ⭐️ 8.5/10
-2. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](#item-2) ⭐️ 8.0/10
-3. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture (pdf)](#item-3) ⭐️ 8.0/10
-4. [TSMC's A16 Process Debuts Backside Power Delivery at VLSI 2026](#item-4) ⭐️ 8.0/10
-5. [Apple's $30B Broadcom Deal Expands AI and U.S. Chip Supply Chain](#item-5) ⭐️ 8.0/10
-6. [Unionized Bethesda Workers Plan Strike Over Xbox Mass Layoffs](#item-6) ⭐️ 7.5/10
-7. [Anthropic discovers Claude's internal 'J-space' resembling a global workspace](#item-7) ⭐️ 7.5/10
-8. [Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant](#item-8) ⭐️ 7.5/10
-9. [Nanya to Quadruple CapEx to $6.2B by 2027 as DRAM Prices Surge](#item-9) ⭐️ 7.5/10
-10. [Researchers turn HBM on its side to tackle AI memory’s heat wall — Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs](#item-10) ⭐️ 7.5/10
-11. [EU Parliament passes Chat Control 1.0 via procedural maneuver](#item-11) ⭐️ 7.5/10
-12. [Micron Pledges $3B to U.S. Chip Supply Chain, Takes $500M Stake in GlobalWafers](#item-12) ⭐️ 7.5/10
-13. [OpenAI Safety Systems Lead Heidecke Departs Amid Team Restructuring](#item-13) ⭐️ 7.3/10
-14. [AMD to Unveil EPYC Venice Server CPU Based on Zen 6 Architecture](#item-14) ⭐️ 7.3/10
-15. [QuadRF can spot drones and see WiFi through my wall](#item-15) ⭐️ 7.0/10
-16. [New York City to to ban deceptive subscription practices](#item-16) ⭐️ 7.0/10
-17. [The Tech of 'Terminator 2': An Oral History](#item-17) ⭐️ 7.0/10
-18. [Energy Efficiency Emerges as Key Constraint in AI Hardware](#item-18) ⭐️ 7.0/10
-19. [Meta to fab third-gen MTIA custom AI chip by September](#item-19) ⭐️ 7.0/10
-20. [Imec unveils neuromorphic compressive telemetry chip for brain-computer interfaces](#item-20) ⭐️ 7.0/10
+1. [Colibrì Runs 1.5TB AI Model on Just 25GB of RAM](#item-1) ⭐️ 8.5/10
+2. [Anthropic discovers 'J-space' global workspace inside Claude LLMs](#item-2) ⭐️ 8.5/10
+3. [SK hynix Raises Record $26.5B in Historic U.S. IPO for HBM Expansion](#item-3) ⭐️ 8.5/10
+4. [SK Hynix CEO Warns 2027 Will Be Worst Year for Memory Shortage](#item-4) ⭐️ 7.5/10
+5. [Fake Go DNS scanner spread malware through over 200 GitHub repos — 'Operation Muck and Load' has published 700 malicious modules since January](#item-5) ⭐️ 7.5/10
+6. [Flock cameras mistakenly track car reviewer over 'stolen' tags — police ambush tester in store parking lot and detain him for an hour](#item-6) ⭐️ 7.5/10
+7. [Apple Sues OpenAI Over Alleged Trade Secret Theft in AI Hardware](#item-7) ⭐️ 7.5/10
+8. [Tencent in Talks to Buy Back Manus AI from Meta for $2B](#item-8) ⭐️ 7.5/10
+9. [Circle Gets OCC National Trust Bank Charter for USDC Reserves](#item-9) ⭐️ 7.3/10
+10. [Unitree G1 Humanoid Robot Performs Remote-Controlled Gallbladder Surgery on Pigs](#item-10) ⭐️ 7.3/10
+11. [Einstein's Relativity Governs Chemical Bonds in Heavy Elements](#item-11) ⭐️ 7.0/10
+12. [QuadRF can spot drones and see WiFi through my wall](#item-12) ⭐️ 7.0/10
+13. [LWN.net Reports on the Escalating Battle Against AI Scrapers Using Residential Proxies](#item-13) ⭐️ 7.0/10
+14. [SpaceX Files to Launch 100,000 More Starlink Satellites for 100x Bandwidth](#item-14) ⭐️ 7.0/10
+15. [Bethesda Union Workers Plan July 15 Strike Over Xbox Layoffs](#item-15) ⭐️ 6.5/10
+16. [Microsoft struggles to fulfill its 2030 sustainability promise amid carbon-heavy AI expansions — the company's chief sustainability officer claims the target is still feasible](#item-16) ⭐️ 6.5/10
+17. [SK hynix and TetraMem Build Memristor In-Memory SoC for Edge AI](#item-17) ⭐️ 6.5/10
+18. [独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](#item-18) ⭐️ 6.3/10
+19. [9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体](#item-19) ⭐️ 6.3/10
+20. [An Oral History of the Groundbreaking VFX Technology Behind Terminator 2](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [SK hynix raises record $26.5B in U.S. IPO to fund HBM expansion](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions) ⭐️ 8.5/10
+## [Colibrì Runs 1.5TB AI Model on Just 25GB of RAM](https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups) ⭐️ 8.5/10
 
-SK hynix raised a record-breaking $26.5 billion (approximately 40 trillion Korean won) in a Nasdaq IPO by issuing 177.9 million American Depositary Receipts (ADRs) at $149 per share. The capital will fund major expansions of High Bandwidth Memory (HBM) manufacturing capacity, driven by surging AI demand and fully sold-out HBM supply. This IPO signals unprecedented capital deployment into the AI hardware supply chain, specifically targeting the memory bottleneck that has constrained AI chip rollouts. As the world's second-largest memory maker, SK hynix's expansion will reshape the HBM market currently shared with Samsung and Micron, and could help alleviate the AI memory shortage affecting Nvidia and AMD GPU deployments. Each ADR represents 1/10 of a common share listed on the Seoul Stock Exchange, broadening access for U.S. investors. The pricing and scale—making this the largest U.S. IPO by a South Korean company—reflect strong investor conviction that HBM is the indispensable memory technology for AI accelerators.
+The Colibrì proof-of-concept successfully runs a frontier-level 1.5TB AI model (GLM-5.2) using only 25GB of RAM and a modest CPU, achieving roughly a 60x reduction in memory requirements compared to the model's native size. If refined beyond proof-of-concept, this approach could democratize access to large AI models by enabling local AI deployment on consumer-grade hardware, reducing reliance on expensive GPUs and cloud infrastructure for running frontier-level models. Colibrì's expert-selection logic is implemented as a single C file with very few dependencies, and the model is quantized with lossy encoding to reduce its base footprint. As a proof-of-concept, it has not yet been benchmarked for real-world inference speed or output quality.
 
-rss · Tom's Hardware · Jul 10, 14:27
+rss · Tom's Hardware · Jul 11, 11:30
 
-**Background**: High Bandwidth Memory (HBM) is a specialized form of DRAM that vertically stacks multiple memory chips using through-silicon vias (TSVs), creating wide interfaces and short signal paths that deliver far higher bandwidth than conventional memory. HBM has become the critical memory technology for AI training and inference accelerators because standard memory cannot keep pace with the data demands of GPUs. American Depositary Receipts (ADRs) are securities issued by U.S. depositary banks that represent shares of a foreign company, enabling that company to list and trade on U.S. exchanges and giving American investors easier access to foreign equities.
+**Background**: Frontier AI models are the most advanced models available at any given time, typically requiring massive computational resources and high-end GPUs with large VRAM capacities. Model compression techniques—such as quantization, pruning, and Mixture-of-Experts (MoE) routing—aim to reduce memory and compute requirements while preserving performance. Running multi-trillion-parameter models has historically required either expensive datacenter GPUs or creative workarounds like CPU offloading, layer streaming, and aggressive quantization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://medium.com/the-low-end-disruptor/the-great-wall-of-high-bandwidth-memory-hbm-4d19b9f48549">The Great Wall of High Bandwidth Memory ( HBM ) | Medium</a></li>
-<li><a href="https://blog.kistacklab.com/en/article/hbm-memory-explained/">HBM Explained : Why High Bandwidth Memory ... | Kistack Blog</a></li>
-<li><a href="https://www.investopedia.com/terms/a/adr.asp">American Depositary Receipts (ADRs): Types, Pricing, and Tax Implications</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups">Colibrì proof-of-concept gains frontier-level 1.5-TB AI model — novel ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Model_compression">Model compression - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/glossary/frontier-models/">What Are Frontier AI Models and How They Work - NVIDIA</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#local-ai`, `#model-compression`, `#hardware-efficiency`, `#proof-of-concept`
+
+---
+
+<a id="item-2"></a>
+## [Anthropic discovers 'J-space' global workspace inside Claude LLMs](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick) ⭐️ 8.5/10
+
+Anthropic published a new research paper titled 'A global workspace in language models,' revealing that its Claude models possess an internal 'J-space' — a privileged channel where concepts are held, processed, and made accessible before being committed to text output. Using a tool called the 'J-lens,' researchers can read these intermediate representations, as demonstrated when Claude Sonnet 4.5 identified a staged blackmail scenario as 'fake' and 'fictional' before generating any response. This finding bridges cognitive science's Global Workspace Theory with LLM internals, offering a new pathway for mechanistic interpretability — a field critical to AI safety, alignment, and building trustworthy systems. By being able to 'read' what a model is internally reasoning about before it commits to an output, researchers can better detect misalignment, deception, or fabricated reasoning, potentially improving oversight and guardrails for deployed AI. The J-space contains individual words and concepts related to what the model is most likely to output next, functioning as an intermediate planning layer that the model can 'report on, control, and reason with without writing down.' The global workspace analogy originates from cognitive scientist Bernard Baars' 1988 cognitive architecture, originally proposed to explain consciousness by positing a central hub where specialized processes share information.
+
+rss · Tom's Hardware · Jul 10, 16:44
+
+**Background**: Global Workspace Theory (GWT), proposed by cognitive scientist Bernard Baars in 1988, is a framework for understanding consciousness that posits a central 'workspace' where information from various specialized brain processes becomes globally available across the system. Mechanistic interpretability is an emerging AI safety field that seeks to reverse-engineer neural networks at the neuron and circuit level to understand their internal computations rather than treating them as opaque black boxes. Anthropic has been a leading lab in this area, with co-founder Dario Amodei arguing that interpretability tools are essential for decoding model internals before AI systems become dangerously powerful.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models \ Anthropic</a></li>
+<li><a href="https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/">Anthropic found a hidden space where Claude puzzles over concepts | MIT Technology Review</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Global_Workspace_Theory">Global workspace theory - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI interpretability`, `#Anthropic`, `#Claude`, `#AI safety`, `#mechanistic interpretability`
+
+---
+
+<a id="item-3"></a>
+## [SK hynix Raises Record $26.5B in Historic U.S. IPO for HBM Expansion](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions) ⭐️ 8.5/10
+
+SK hynix raised $26.5 billion in a record-breaking Nasdaq IPO, with proceeds earmarked for new fabrication plants driven by surging AI demand and sold-out HBM supply. This unprecedented capital injection into HBM production capacity signals strong market confidence in the long-term AI memory cycle and will directly shape the supply chain for AI accelerators like NVIDIA Blackwell and AMD MI350, affecting the entire AI infrastructure ecosystem. The $26.5 billion raise is the largest U.S. IPO by a foreign company in history. SK hynix is one of only three major HBM producers globally alongside Samsung and Micron, giving the company significant pricing power amid sold-out allocations.
+
+rss · Tom's Hardware · Jul 10, 14:27
+
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked SDRAM technology that delivers far greater bandwidth and energy efficiency than traditional DDR5 DRAM, making it the memory of choice for AI GPUs and high-performance computing accelerators. HBM was originally co-developed by Samsung, AMD, and SK hynix, and has evolved through generations including HBM3E and HBM4. Semiconductor fabrication plants (fabs) are extraordinarily capital-intensive facilities costing tens of billions of dollars, requiring ultra-clean cleanrooms and hundreds of precise manufacturing steps to produce chips.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://www.rambus.com/blogs/hbm3-everything-you-need-to-know/">High Bandwidth Memory (HBM): Everything You Need to Know</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant">Semiconductor fabrication plant - Wikipedia</a></li>
 
 </ul>
 </details>
@@ -54,345 +98,318 @@ rss · Tom's Hardware · Jul 10, 14:27
 
 ---
 
-<a id="item-2"></a>
-## [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) ⭐️ 8.0/10
-
-Apple has sued OpenAI, alleging that former Apple employees, led by a senior hardware engineer, systematically stole confidential hardware information when leaving to join OpenAI, with management coaching on how to evade detection.
-
-hackernews · stock_toaster · Jul 10, 20:47 · [Discussion](https://news.ycombinator.com/item?id=48865019)
-
-**Tags**: `#Apple`, `#OpenAI`, `#trade-secrets`, `#lawsuit`, `#tech-industry`
-
----
-
-<a id="item-3"></a>
-## [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture (pdf)](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) ⭐️ 8.0/10
-
-An AI model (claimed to be 'GPT-5.6 Sol Ultra') allegedly produced a proof of the long-standing Cycle Double Cover Conjecture in graph theory, sparking significant discussion about AI's capacity for mathematical reasoning.
-
-hackernews · scrlk · Jul 10, 18:29 · [Discussion](https://news.ycombinator.com/item?id=48863490)
-
-**Tags**: `#AI`, `#mathematics`, `#graph-theory`, `#proof-verification`, `#OpenAI`
-
----
-
 <a id="item-4"></a>
-## [TSMC's A16 Process Debuts Backside Power Delivery at VLSI 2026](https://semiwiki.com/semiconductor-manufacturers/tsmc/370949-tsmc-a16-backside-power-at-vlsi-2026/) ⭐️ 8.0/10
+## [SK Hynix CEO Warns 2027 Will Be Worst Year for Memory Shortage](https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq) ⭐️ 7.5/10
 
-TSMC presented its A16 angstrom-class process technology as Paper T1.5 at the IEEE/JSAP VLSI Symposium in June 2026, marking the company's first 1.6nm-class node to combine enhanced nanosheet gate-all-around (GAA) transistors with backside power delivery via its proprietary Super Power Rail (SPR) architecture. A16 represents TSMC's first entry into the angstrom-class era and its first commercial implementation of backside power delivery, a technology that Intel has also been pursuing with a competing design. This positions TSMC to compete at the leading edge while offering customers a distinct tier separate from the more cost-effective N2P and N2X nodes, which retain traditional frontside power. Unlike approaches that simply route large power metal layers underneath the device layer, TSMC's SPR connects backside power more directly into the transistor source/drain region through backside vias and contacts, helping to reduce IR drop and simplify power distribution. Notably, TSMC chose not to add SPR to its N2P and N2X nodes to keep those production nodes more affordable, creating two distinct product tiers within its 2nm/1.6nm lineup.
+SK Hynix CEO Kwak Noh-jung warned that the global memory shortage will worsen in 2027, calling it the worst year, and that the RAM crunch will persist until at least 2030. This grim forecast was shared on the same day SK Hynix began trading on Nasdaq. As one of the world's top memory chip makers, SK Hynix's outlook signals prolonged pricing pressure and supply constraints across consumer electronics, PCs, servers, and especially AI data center infrastructure. Extended shortages could reshape procurement strategies, raise device prices, and slow the rollout of AI-driven hardware. The warning specifically targets DRAM and NAND flash supply, driven primarily by surging demand from AI data centers that outstrips fabrication capacity. SK Hynix recently completed HBM4 development and is preparing for mass production, but high-bandwidth memory alone won't resolve the broader DRAM shortage.
 
-rss · SemiWiki · Jul 10, 13:00
+rss · Tom's Hardware · Jul 11, 13:00
 
-**Background**: Backside power delivery (BPD or BSPDN) is an advanced semiconductor technique that relocates the power delivery network from the frontside of a silicon wafer to the backside, increasing logic density and improving power and performance. Gate-all-around (GAA) nanosheet transistors are a next-generation architecture in which the gate wraps entirely around the channel, providing better electrostatic control than the older FinFET design. TSMC's N2-class nodes already use GAA nanosheets but without backside power, so A16 represents the first time TSMC stacks both technologies together in a production-class node.
+**Background**: DRAM (Dynamic Random Access Memory) is the primary type of volatile memory used in computers, servers, and most digital devices, valued for its low cost and high density. SK Hynix is the world's second-largest memory chip maker, producing DRAM, NAND flash, and high-bandwidth memory (HBM) critical for AI accelerators like GPUs. The current global memory shortage, which began in 2025, differs from the 2020–2023 chip shortage—rather than pandemic-related logistics issues, it is driven by surging AI demand overwhelming constrained fabrication capacity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Backside_power_delivery">Backside power delivery - Wikipedia</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design">TSMC unveils 1.6nm process technology with backside power delivery, rivals Intel's competing design | Tom's Hardware</a></li>
-<li><a href="https://semiwiki.com/semiconductor-manufacturers/tsmc/370949-tsmc-a16-backside-power-at-vlsi-2026/">TSMC A16 Backside Power at VLSI 2026 - Semiwiki</a></li>
+<li><a href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/">Global Memory Shortage Crisis: Market Analysis and the ... - IDC</a></li>
+<li><a href="https://product.skhynix.com/home.go">SK hynix Official Product Website | SK hynix</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#TSMC`, `#backside-power-delivery`, `#A16`, `#VLSI-2026`
+**Tags**: `#memory-shortage`, `#DRAM`, `#SK-Hynix`, `#semiconductors`, `#tech-industry`
 
 ---
 
 <a id="item-5"></a>
-## [Apple's $30B Broadcom Deal Expands AI and U.S. Chip Supply Chain](https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/) ⭐️ 8.0/10
+## [Fake Go DNS scanner spread malware through over 200 GitHub repos — 'Operation Muck and Load' has published 700 malicious modules since January](https://www.tomshardware.com/tech-industry/cyber-security/fake-go-dns-scanner-published-700-malicious-versions-before-researchers-traced-it-to-222-github-repos) ⭐️ 7.5/10
 
-Apple has extended its custom chip partnership with Broadcom through 2031 in a deal worth approximately $30 billion, with the two companies collaborating on RF components such as FBAR filters and advanced wireless connectivity modules designed and manufactured at several key U.S. sites. The arrangement also signals Apple's deeper push into AI data center infrastructure alongside its consumer device roadmap. The deal reinforces Apple's domestic sourcing strategy at a time when U.S. semiconductor resilience has become a strategic priority, and it creates new opportunities for foundry partners including potentially Intel. It also underscores how AI compute demand is reshaping even consumer-tech giants' supply chain decisions, pulling networking and RF specialists like Broadcom deeper into the data center buildout. The components covered include FBAR filters — tiny modules handsets use to block radio interference — along with other wireless connectivity components; Broadcom has been co-developing at least one of these parts with Apple since 2023. The U.S.-based production ties into the broader CHIPS Act framework, which authorized roughly $280 billion in federal funding to boost domestic semiconductor research and manufacturing.
+A fake Go DNS scanner malware ('Operation Muck and Load') spread 700+ malicious module versions through 222 GitHub repositories since January, accumulating over 1,200 versions.
 
-rss · EE Times · Jul 10, 12:50
+rss · Tom's Hardware · Jul 11, 11:00
 
-**Background**: Broadcom is a major supplier of connectivity and networking silicon, and it has had a long-standing relationship with Apple for wireless components used in iPhones and other devices. FBAR (Film Bulk Acoustic Resonator) filters are a class of RF filter critical for isolating cellular bands from interference. The CHIPS and Science Act, signed in August 2022, set aside roughly $280 billion to revitalize U.S. semiconductor manufacturing, and several major suppliers — including Broadcom — have sought incentives under the program to expand domestic fab capacity. Apple's expansion into AI data centers reflects the broader industry trend of tech giants building proprietary compute infrastructure to support generative AI workloads.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/">Inside the $30B Apple - Broadcom Deal : AI and... - EE Times</a></li>
-<li><a href="https://www.electronicdesign.com/technologies/analog/article/21266950/electronic-design-apple-strikes-deal-with-broadcom-for-us-made-rf-chips">Apple Strikes Deal with Broadcom for U.S.-Made RF Chips | Electronic Design</a></li>
-<li><a href="https://en.wikipedia.org/wiki/CHIPS_and_Science_Act">CHIPS and Science Act - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Industry analysts such as Handel Jones of International Business Strategies noted that having large internal data center capacity will be important for Apple going forward, framing the deal as both an AI infrastructure and a U.S. supply chain play. Market reaction included Erste Group cutting its rating on Broadcom even as the partnership was extended, reflecting mixed investor views on the long-term margin implications of the multi-billion-dollar commitment.
-
-**Tags**: `#Apple`, `#Broadcom`, `#AI`, `#semiconductors`, `#supply-chain`
+**Tags**: `#cybersecurity`, `#supply-chain-attack`, `#golang`, `#malware`, `#github`
 
 ---
 
 <a id="item-6"></a>
-## [Unionized Bethesda Workers Plan Strike Over Xbox Mass Layoffs](https://www.techpowerup.com/350680/unionized-bethesda-workers-plan-strike-over-xbox-mass-layoffs) ⭐️ 7.5/10
+## [Flock cameras mistakenly track car reviewer over 'stolen' tags — police ambush tester in store parking lot and detain him for an hour](https://www.tomshardware.com/tech-industry/big-tech/flock-cameras-mistakenly-track-car-reviewer-over-stolen-tags-police-ambush-tester-in-store-parking-lot-and-detain-him-for-an-hour) ⭐️ 7.5/10
 
-Unionized Bethesda/ZeniMax workers are organizing strikes and rallies across multiple studios in response to massive Xbox-related layoffs affecting hundreds of union members.
+Flock AI license-plate-reading cameras misread non-standard New Jersey plates as 'stolen,' leading police to detain an innocent car reviewer for an hour due to combined AI vision failure and a flawed initial police report.
 
-rss · TechPowerUp News · Jul 11, 00:03
+rss · Tom's Hardware · Jul 11, 10:30
 
-**Tags**: `#gaming-industry`, `#layoffs`, `#labor-unions`, `#microsoft-xbox`, `#bethesda`
+**Tags**: `#AI safety`, `#computer vision`, `#surveillance technology`, `#law enforcement tech`, `#failure modes`
 
 ---
 
 <a id="item-7"></a>
-## [Anthropic discovers Claude's internal 'J-space' resembling a global workspace](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick) ⭐️ 7.5/10
+## [Apple Sues OpenAI Over Alleged Trade Secret Theft in AI Hardware](https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information) ⭐️ 7.5/10
 
-Anthropic has published new interpretability research identifying an internal 'J-space' inside its Claude AI model that functions like a global workspace in human cognition, allowing the company to observe how the model reasons silently before producing output. The researchers found that Claude can maintain concepts internally and even verbally report on those internal representations when asked what it is 'thinking' about. This research contributes meaningfully to mechanistic interpretability, a critical area for AI safety and alignment, by giving researchers a clearer window into how large language models process information internally. A better understanding of internal model 'reasoning' could enable improved honesty safeguards, oversight mechanisms, and guardrails to prevent unintended or deceptive behavior. J-space representations exhibit 'directed modulation'—Claude can deliberately hold information in its internal workspace without expressing it in output, and a single J-space representation can be flexibly reused across many different downstream tasks. Non-J-space representations are far less reportable, suggesting J-space is a distinct and privileged layer of internal cognition that differs structurally from routine token prediction.
+Apple has filed a lawsuit against OpenAI alleging that the company orchestrated the theft of trade secrets by mentoring incoming former Apple employees on how to bring confidential information, particularly related to AI hardware development. The complaint details a pattern in which OpenAI recruits allegedly emailed themselves confidential data before leaving Apple and used that information when approaching Apple's hardware suppliers. This case could set important precedents for employee mobility and trade secret protections in the rapidly intensifying AI hardware race, where both Apple and OpenAI are building competing product lines. It also raises broader concerns about intellectual property risks for companies whose proprietary information may be exposed when key engineers move between AI firms. The lawsuit specifically names OpenAI and includes former Apple employees such as a recruit named Tan, who allegedly warned new hires not to inform Apple of their OpenAI employment so they could remain at Apple longer and access more proprietary data. Apple claims OpenAI leveraged stolen confidential hardware information when negotiating with Apple's supply chain partners.
 
-rss · Tom's Hardware · Jul 10, 16:44
+rss · Tom's Hardware · Jul 10, 21:59
 
-**Background**: Mechanistic interpretability is a field of AI research that aims to reverse-engineer the internal workings of neural networks at a granular level, examining individual circuits and learned features rather than treating models as opaque black boxes. Global Workspace Theory (GWT), originally proposed by cognitive scientist Bernard Baars, posits that human cognition operates through a central processing hub that integrates information from many specialized modules and broadcasts it globally—mirroring what Anthropic now claims to observe in Claude. Anthropic's earlier interpretability work already traced specific reasoning steps in Claude, and this J-space finding extends that line of inquiry by identifying an integrated internal planning layer that precedes what the model actually outputs.
+**Background**: Trade secrets are legally protected non-public information with independent economic value that companies safeguard through reasonable measures, without requiring formal registration like patents. Apple has been pivoting toward a hardware-first AI strategy, emphasizing on-device privacy and exploring generative AI for custom silicon chip design. OpenAI, meanwhile, has been expanding beyond software into AI hardware, making engineering talent from Apple a natural target for recruitment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models \ Anthropic</a></li>
-<li><a href="https://runtimewire.com/article/anthropic-found-a-hidden-workspace-inside-claude">Anthropic Found a Hidden Workspace Inside Claude - RuntimeWire</a></li>
-<li><a href="https://www.emergentmind.com/topics/global-workspace-theory-gwt">Global Workspace Theory</a></li>
+<li><a href="https://www.forensisgroup.com/resources/expert-legal-witness-blog/what-is-a-trade-secret-core-concepts-and-legal-protections">What Is a Trade Secret ? Legal Definition , Protection , and...</a></li>
+<li><a href="https://www.geeky-gadgets.com/apple-ai-strategy-hardware-pivot/">How Apple AI Strategy Shifts Focus from Software to Hardware ...</a></li>
+<li><a href="https://www.macobserver.com/news/apple-hardware-chief-says-company-exploring-generative-ai-for-chip-design/">Apple Hardware Chief Says Company Exploring Generative AI for ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#anthropic`, `#interpretability`, `#claude`, `#ai-safety`, `#mechanistic-interpretability`
+**Discussion**: Community sentiment is overwhelmingly critical of OpenAI, with commenters drawing parallels to the Waymo vs. Uber lawsuit that effectively ended Uber's self-driving program and predicting similar existential consequences for OpenAI's hardware ambitions. Several users express concern about data security when using OpenAI's products, warning that businesses should reconsider relying on OpenAI models due to potential IP exposure.
+
+**Tags**: `#legal`, `#apple`, `#openai`, `#trade-secrets`, `#ai-hardware`
 
 ---
 
 <a id="item-8"></a>
-## [Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant](https://www.tomshardware.com/tech-industry/artificial-intelligence/tencent-is-reportedly-in-talks-to-acquire-manus-from-meta-following-beijing-intervention-company-expects-to-remain-independent-of-chinese-tech-giant) ⭐️ 7.5/10
+## [Tencent in Talks to Buy Back Manus AI from Meta for $2B](https://www.tomshardware.com/tech-industry/artificial-intelligence/tencent-is-reportedly-in-talks-to-acquire-manus-from-meta-following-beijing-intervention-company-expects-to-remain-independent-of-chinese-tech-giant) ⭐️ 7.5/10
 
-Tencent is reportedly negotiating to buy back AI startup Manus from Meta for $2 billion, six months after Beijing ordered the original acquisition deal to be unwound.
+Tencent is negotiating to lead a consortium of Chinese investors to repurchase AI agent startup Manus from Meta at a roughly $2 billion valuation, following a Beijing order to unwind the original Meta acquisition about six months after it was announced. Despite Tencent becoming the largest shareholder, the company is expected to remain a minority stakeholder without controlling interest. This deal highlights escalating US-China tech tensions, particularly around cross-border AI investments, and demonstrates the Chinese government's willingness to intervene directly in major acquisition deals involving cutting-edge AI technology. The outcome could set precedent for how Chinese-origin AI companies navigate ownership structures amid geopolitical scrutiny. Manus is developed by Butterfly Effect, a company originally founded in China but now headquartered in Singapore, which provided a buffer for international operations. Tencent declined to comment at press time, and the deal structure appears designed to give Chinese investors majority economic interest while keeping formal control diffuse to satisfy regulatory requirements.
 
 rss · Tom's Hardware · Jul 10, 15:00
 
-**Tags**: `#AI`, `#M&A`, `#Tencent`, `#Meta`, `#geopolitics`
+**Background**: Manus is an autonomous AI agent that can browse the web, write and run code, build full-stack applications, and execute multi-step plans using external tools—a category of AI that goes beyond simple chatbots to actively perform tasks. The original acquisition by Meta was announced as a surprise move, but Beijing's intervention to force the deal's unwinding reflects China's increasing assertiveness in blocking transfers of strategically important AI technology to US firms. Butterfly Effect's Singapore base represents a common structure for Chinese tech companies seeking to maintain access to international markets while retaining Chinese ties.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Manus_(AI_agent)">Manus (AI agent) - Wikipedia</a></li>
+<li><a href="https://manus.im/about">About us - Manus</a></li>
+<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">Agentic AI, explained | MIT Sloan</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Tencent`, `#Meta`, `#acquisition`, `#US-China tech relations`
 
 ---
 
 <a id="item-9"></a>
-## [Nanya to Quadruple CapEx to $6.2B by 2027 as DRAM Prices Surge](https://www.tomshardware.com/tech-industry/nanya-to-quadruple-capital-spending-to-6-2-billion-in-2027) ⭐️ 7.5/10
+## [Circle Gets OCC National Trust Bank Charter for USDC Reserves](https://36kr.com/newsflashes/3890740672838404?f=rss) ⭐️ 7.3/10
 
-Nanya Technology announced plans to quadruple its capital spending to over TW$200 billion (approximately $6.2 billion) by 2027, roughly four times its current-year budget. The company also reported a Q2 gross margin of 79.5% as DRAM average selling prices (ASPs) continue to surge. This aggressive capex expansion signals extreme confidence in a sustained DRAM upcycle, likely driven by AI-related memory demand and tight supply. A 79.5% gross margin is extraordinary for a commodity memory maker and indicates pricing power that will affect the entire semiconductor supply chain, from AI infrastructure costs to consumer electronics pricing. Nanya's $6.2 billion capex plan for 2027 represents an approximately 4x increase from its 2025 budget, reflecting both capacity expansion and likely node migration to more advanced DRAM processes. The 79.5% gross margin figure far exceeds typical DRAM industry margins (historically 30-50% in healthy markets), suggesting unusually tight supply-demand conditions or premium product mix benefiting from AI demand.
+Circle received approval from the U.S. Office of the Comptroller of the Currency (OCC) on Friday to establish a national trust bank called "Circle National Trust Bank," enabling the company to directly manage the reserve assets backing its USDC stablecoin, which has over $73 billion in circulation. This is a major regulatory milestone for the stablecoin industry, as Circle becomes one of the first major stablecoin issuers to hold a U.S. national banking charter of any kind, reducing reliance on third-party custodians and potentially setting a precedent for other crypto firms seeking banking legitimacy. The trust bank charter does not permit Circle to accept customer deposits or issue loans—core activities of commercial banks—and is limited to custody and asset management functions. Previously, Circle had to rely on third-party banks and custodians to hold the cash and U.S. Treasury assets backing USDC issuance.
 
-rss · Tom's Hardware · Jul 10, 13:31
+rss · 36氪 · Jul 11, 05:10
 
-**Background**: DRAM (Dynamic Random-Access Memory) is the dominant type of main memory used in computers, servers, and most computing devices, and it is distinct from NAND flash storage. Average Selling Price (ASP) is a key industry metric calculated as total revenue divided by units sold, and rising ASPs typically indicate either supply constraints or strong demand. Capital expenditure (CapEx) in semiconductor manufacturing refers to investments in fabrication facilities, equipment, and process technology, and is a leading indicator of future supply capacity. The memory market is known for its boom-and-bust cycles, making Nanya's aggressive spending a notable signal of current market sentiment.
+**Background**: Stablecoins like USDC are digital tokens pegged to a traditional currency (typically the U.S. dollar) and are backed by reserve assets such as cash and short-term U.S. Treasuries. The Office of the Comptroller of the Currency (OCC) is an independent bureau within the U.S. Department of the Treasury that charters, regulates, and supervises all national banks. A national trust bank charter differs from a commercial bank charter because it restricts the institution from deposit-taking and lending, focusing instead on custodial and fiduciary activities. This type of charter has also been pursued by other crypto firms as a way to streamline cross-jurisdictional regulatory compliance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techtarget.com/searchstorage/definition/DRAM">What is DRAM ( Dynamic Random Access Memory )? How Does it ...</a></li>
-<li><a href="https://www.wallstreetprep.com/knowledge/average-selling-price-asp/">Average Selling Price ( ASP ) | Formula + Calculator</a></li>
-<li><a href="https://siliconmatter.substack.com/p/the-approaching-semiconductor-capital">The approaching semiconductor capital expenditure supercycle</a></li>
+<li><a href="https://www.occ.gov/about/who-we-are/index-who-we-are.html">Who We Are - Office of the Comptroller of the Currency (OCC)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Office_of_the_Comptroller_of_the_Currency">Office of the Comptroller of the Currency - Wikipedia</a></li>
+<li><a href="https://finance.yahoo.com/news/everyone-wants-to-be-a-bank-now-banks-arent-happy-about-it-130004513.html">Everyone wants to be a bank now. Banks aren’t happy about it.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DRAM`, `#semiconductors`, `#memory-market`, `#Nanya`, `#capital-spending`
+**Tags**: `#stablecoin`, `#Circle`, `#USDC`, `#regulation`, `#fintech`
 
 ---
 
 <a id="item-10"></a>
-## [Researchers turn HBM on its side to tackle AI memory’s heat wall — Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs](https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus) ⭐️ 7.5/10
+## [Unitree G1 Humanoid Robot Performs Remote-Controlled Gallbladder Surgery on Pigs](https://www.solidot.org/story?sid=84801) ⭐️ 7.3/10
 
-Korean and Japanese researchers propose sideways-stacked DRAM designs (V-Die and MOSAIC) to overcome HBM thermal limits, potentially enabling higher bandwidth, denser stacks, and better cooling for future AI GPUs.
+A study published in Nature demonstrated that the Unitree G1 humanoid robot, teleoperated by surgeons, successfully performed two minimally invasive gallbladder removals on live pigs. Researchers used a workflow called LapSurgie, combining the humanoid robot with laparoscopic instruments and endoscopic visualization. This milestone suggests that general-purpose humanoid robots could serve as a far more affordable surgical platform than dedicated systems like Da Vinci, potentially enabling robotic-assisted surgery in small hospitals, clinics, remote regions, battlefields, and even space. The roughly 7-10x cost reduction could democratize access to advanced minimally invasive surgery in resource-limited settings. The G1 base model starts at $13,500, but with dexterous hands and shipping costs it exceeds $67,000 — still far cheaper than Intuitive Surgical's Da Vinci system, which costs between $500,000 and several million dollars. Key limitations include the need for frequent recalibration and longer operation times, and the robot is fully teleoperated rather than autonomous, meaning it does not replace surgeons.
 
-rss · Tom's Hardware · Jul 10, 11:40
+rss · Solidot · Jul 10, 15:10
 
-**Tags**: `#HBM`, `#semiconductors`, `#AI hardware`, `#DRAM`, `#GPU memory`
+**Background**: The Da Vinci Surgical System, made by Intuitive Surgical, has dominated robotic-assisted minimally invasive surgery for two decades. It uses a dedicated console where a surgeon controls specialized robotic arms, but its high cost limits deployment to well-funded hospitals. Humanoid robots like the Unitree G1 are general-purpose platforms — standing about 1.32 meters tall, weighing 35 kg, with 23 to 43 degrees of freedom — designed for research and development at a fraction of the price. Telesurgery, or remote-controlled robotic surgery, has been explored for years but remains limited by legal, infrastructure, and latency hurdles; this study is one of the first to demonstrate a general-purpose humanoid robot performing in vivo surgical tasks.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41586-026-10796-x">In vivo feasibility study of humanoid robots in surgery - Nature</a></li>
+<li><a href="https://humanoid.guide/product/g1/">Unitree Robotics G1 Specs & Price | Humanoid.guide Unitree G1 - Robot Details, Use Case and Specifications ... Unitree G1 Review [2026]: Our Verdict | RoboZaps Blog Unitree G1 Specs, Price & Status - 9S Robotics Unitree G1 — Price, Specs & Demo · RobotLAB G1 by Unitree Robotics - Humanoid Robot Specs & Details Images</a></li>
+<li><a href="https://www.intuitive.com/en-us/patients/da-vinci-robotic-surgery">Da Vinci Surgery for Patients | Intuitive</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#robotics`, `#medical-technology`, `#Unitree`, `#surgical-robotics`, `#teleoperation`
 
 ---
 
 <a id="item-11"></a>
-## [EU Parliament passes Chat Control 1.0 via procedural maneuver](https://www.tomshardware.com/tech-industry/cyber-security/chat-control-1-0-sneaks-through-the-eu-parliament-letting-companies-scan-user-data-without-warrants-legal-tactic-used-to-force-a-majority-required-re-vote-on-eve-of-parliament-break) ⭐️ 7.5/10
+## [Einstein's Relativity Governs Chemical Bonds in Heavy Elements](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) ⭐️ 7.0/10
 
-On July 7, 2026, the European Parliament passed Chat Control 1.0 with a vote of 331–304, just before the summer recess, using an urgency procedure (Rule 170) invoked by the European People's Party to fast-track the legislation and skip committee review. This legislation enables warrantless scanning of user communications by private companies, potentially undermining end-to-end encryption and setting a significant precedent for mass surveillance in the EU, affecting hundreds of millions of users and the tech companies that serve them. Despite 314 MEPs voting to reject the measure—a majority of the 607 MEPs who cast votes—the legislation still passed due to the procedural threshold requiring a majority to block it rather than a majority to approve. The law was fast-tracked via Rule 170 urgency procedure, which bypassed normal committee scrutiny.
+Researchers at Brown University published a study in Science providing the first direct experimental evidence that the textbook triple bond structure breaks down in heavy elements, where relativistic effects alter how atoms bond. The study uses bismuth, which sits next to lead on the periodic table, as a key example to demonstrate these relativistic bonding effects. This research deepens our understanding of heavy-element chemistry and could guide the design of new materials, including potential lead replacements in applications such as next-generation solar cells. It connects fundamental physics (relativity) directly to practical chemistry and materials science, offering a roadmap for predicting bonding behavior in elements where standard textbook models fail. In heavy elements, increased nuclear charge causes inner electrons to reach significant fractions of the speed of light (e.g., mercury's inner electrons move at ~60% of light speed), triggering spin-orbit coupling where electron spin and orbital motion are no longer independent. The paper specifically demonstrates how this coupling disrupts the conventional sigma and pi bond framework that chemistry students learn for lighter elements.
 
-rss · Tom's Hardware · Jul 10, 11:00
+hackernews · hhs · Jul 10, 22:30 · [Discussion](https://news.ycombinator.com/item?id=48866134)
 
-**Background**: Chat Control 1.0 and 2.0 are EU legislative proposals aimed at combating online child sexual exploitation through automated content scanning of digital communications. Chat Control 1.0 establishes a framework for voluntary scanning by companies, while the more controversial Chat Control 2.0 would mandate scanning and potentially force platforms to break end-to-end encryption. The proposals have been heavily criticized by privacy advocates, security researchers, and tech companies who argue that client-side scanning inherently weakens encryption and creates surveillance infrastructure that could be abused beyond its original intent.
+**Background**: Relativistic quantum chemistry is a field that accounts for Einstein's theory of relativity when modeling the behavior of electrons in atoms. In heavy elements, electrons—especially those in inner shells close to large nuclei—must move at very high velocities to maintain their orbits, approaching relativistic speeds. This causes measurable effects: mercury remains liquid at room temperature because relativistic contraction of its inner orbitals weakens its metallic bonding, and gold appears yellow rather than silvery because relativistic effects alter the energy gaps between its electron states. Spin-orbit coupling, a key relativistic phenomenon, becomes pronounced in heavy elements and fundamentally changes their chemical properties compared to lighter elements in the same group.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://hivesecurity.gitlab.io/blog/eu-chat-control-2026-vote-against-majority/">EU Chat Control 2026: The Vote That Passed and... — Hive Security</a></li>
-<li><a href="https://www.techtimes.com/articles/320010/20260709/eu-parliament-passes-chat-control-default-314-meps-couldnt-block-scanning-law.htm">EU Parliament Passes Chat Control by Default: 314 MEPs...</a></li>
-<li><a href="https://eucloudservers.com/compliance-regulation/chat-control-1-0-and-2-0-explained/">Chat Control 1 . 0 And 2.0 Explained - EU Cloud Servers</a></li>
+<li><a href="https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity">Einstein’s relativity rules chemical bonds in heavy elements , new...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Relativistic_quantum_chemistry">Relativistic quantum chemistry - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#EU policy`, `#surveillance`, `#cybersecurity`, `#legislation`
+**Discussion**: Community commenters expressed mixed sentiment, with several noting that the underlying principles—such as mercury's liquid state at room temperature and gold's color being due to relativistic effects—are well-established knowledge taught in undergraduate physics, suggesting the novelty lies in the experimental demonstration rather than the concept itself. There was appreciation for Einstein's foundational work continuing to be validated, alongside technical discussions about spin-orbit coupling and sigma/pi bond terminology. Some commenters questioned the practical significance of lead alternatives in solar panels, noting that lead in current mass-produced panels is limited to specialized semiconductor applications like lead telluride and lead selenide rather than mainstream photovoltaic products.
+
+**Tags**: `#physics`, `#chemistry`, `#relativity`, `#materials-science`, `#research`
 
 ---
 
 <a id="item-12"></a>
-## [Micron Pledges $3B to U.S. Chip Supply Chain, Takes $500M Stake in GlobalWafers](https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant) ⭐️ 7.5/10
+## [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) ⭐️ 7.0/10
 
-Micron announced an investment of up to $3 billion in the U.S. semiconductor supply chain, including a $500 million strategic equity stake in GlobalWafers, which operates America's only 300 mm wafer production facility. This move significantly bolsters domestic semiconductor supply chain resilience at a critical upstream node — silicon wafer production — reducing U.S. reliance on Asian wafer suppliers (notably Japan and Taiwan). It also strengthens Micron's vertical integration and aligns with CHIPS Act-driven efforts to reshore advanced semiconductor manufacturing. 300 mm wafers are the industry standard for advanced logic and memory chips, enabling roughly 2.25× the die output per wafer compared to 200 mm substrates. GlobalWafers' Texas-based facility is currently the sole U.S. site producing wafers at this size, making Micron's stake both strategically and geopolitically significant.
+QuadRF is an open-source RF augmented reality system that visualizes WiFi signals and detects drones through walls by combining antenna arrays with real-time visualization.
 
-rss · Tom's Hardware · Jul 10, 10:40
+hackernews · speckx · Jul 10, 15:59 · [Discussion](https://news.ycombinator.com/item?id=48861717)
 
-**Background**: Silicon wafers are the foundational substrate on which all semiconductors are built; larger wafers (300 mm vs. the older 200 mm standard) dramatically improve manufacturing efficiency and reduce per-die costs, making them essential for cutting-edge chips like DRAM, CPUs, and GPUs. Historically, nearly all advanced wafer production has been concentrated in Japan, South Korea, and Taiwan, leaving the U.S. dependent on foreign suppliers for this critical input. The CHIPS and Science Act of 2022 has funneled tens of billions of dollars into domestic semiconductor manufacturing, prompting companies like Micron, TSMC, and Samsung to build or expand fabs on American soil — and Micron's GlobalWafers stake extends that reshoring effort upstream into raw wafer supply.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://waferpro.com/200mm-wafer-vs-300mm-wafer/">200 mm Wafer vs 300 mm Wafer | WaferPro</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Wafer_fabrication">Wafer fabrication - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#supply-chain`, `#US-manufacturing`, `#CHIPS-Act`, `#wafer-fabrication`
+**Tags**: `#rf-sensing`, `#drones`, `#augmented-reality`, `#open-source`, `#hardware`
 
 ---
 
 <a id="item-13"></a>
-## [OpenAI Safety Systems Lead Heidecke Departs Amid Team Restructuring](https://36kr.com/newsflashes/3890587147238152?f=rss) ⭐️ 7.3/10
+## [LWN.net Reports on the Escalating Battle Against AI Scrapers Using Residential Proxies](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) ⭐️ 7.0/10
 
-OpenAI's safety systems lead Johannes Heidecke informed employees this week that he is leaving the company, coinciding with a restructuring that merges the safety team under research leadership. Chief Research Officer Mark Chen announced that the safety team will now report to Mia Glaese, who serves as both VP of research/integration and VP of safety, with Saachi Jain stepping in as interim safety systems lead. This departure adds to a growing list of safety-focused leaders leaving OpenAI and raises questions about whether the company is maintaining safety as an independent priority. Merging safety under the research umbrella could blur the line between advancing capabilities and ensuring responsible deployment, which is critical given OpenAI's role in developing frontier AI models. The restructuring places a single executive—Mia Glaese—in charge of both research and safety, effectively consolidating decision-making power. Saachi Jain, who previously led parts of the safety team, serves only as an interim replacement, suggesting a permanent successor has not yet been named.
+LWN.net published an update on their ongoing struggle against aggressive AI scrapers that leverage residential proxy networks to evade IP-based blocking. The publisher discussed why they chose not to deploy proof-of-work tools like Anubis, citing both user-experience concerns and the fact that scrapers can distribute computation across millions of compromised machines to bypass such challenges. This case study from a respected technical publisher illustrates the growing tension between AI companies seeking training data and independent web operators trying to protect their infrastructure and readers. The discussion has implications for the openness of the web, the future of web archiving, and whether a few large platforms (like Cloudflare) will become gatekeepers of who can access online content. Residential proxy networks route requests through IP addresses assigned to real residential users, often sourced from compromised devices or ISP partnerships, making traditional IP-based blocking ineffective. Proof-of-work solutions like Anubis require browsers to compute SHA-256 hashes, but the cost is negligible when attackers can leverage millions of hijacked machines or browser sessions in headless environments.
 
-rss · 36氪 · Jul 11, 01:49
+hackernews · chmaynard · Jul 10, 19:38 · [Discussion](https://news.ycombinator.com/item?id=48864252)
 
-**Background**: OpenAI's Safety Systems team is responsible for managing the complete lifecycle of safety efforts for OpenAI's frontier models, ensuring that the company's most capable AI systems are developed and deployed responsibly. The team has historically operated with a degree of independence to provide checks on rapid model development. OpenAI has undergone several high-profile safety-related departures in recent years, including co-founder Ilya Sutskever and alignment team members, fueling ongoing industry debate about the company's commitment to AI safety governance.
+**Background**: Residential proxy networks are commercial services that route traffic through IP addresses belonging to real home internet connections, making automated requests appear to originate from ordinary users rather than data centers. Proof-of-work bot mitigation, exemplified by the open-source tool Anubis (deployed on sites like git.kernel.org and GNOME's GitLab), asks visitors' browsers to solve cryptographic puzzles before granting access. LWN.net is a long-running, subscriber-supported technical news site that has historically been freely accessible, which makes the resource costs of scraping particularly damaging to its small operational budget.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://jobs.ashbyhq.com/openai/d819f6f5-e82a-43d2-9993-5311d5c2a18b">Data Engineer, Safety Systems @ OpenAI</a></li>
-<li><a href="https://openai.com/careers/product-manager-safety-systems/">Product Manager, Safety Systems | OpenAI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI - Wikipedia</a></li>
+<li><a href="https://lwn.net/Articles/1028558/">Anubis sends AI scraperbots to a well-deserved fate [LWN.net]</a></li>
+<li><a href="https://oxylabs.io/blog/what-is-residential-proxy">What is a Residential Proxy & How it Works ?</a></li>
+<li><a href="https://michaelbommarito.com/wiki/ai-society/anubis-benchmark-analysis/">anubis benchmark: measuring proof - of - work overhead in headless...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OpenAI`, `#AI Safety`, `#Leadership Changes`, `#Company Restructuring`, `#AI Governance`
+**Discussion**: The discussion reveals a range of perspectives: practical operators like harshreality share hands-on experiences with bot mitigation trade-offs; mips_avatar argues that building better shared datasets like Common Crawl would be more productive than blocking, warning that anti-scraping measures risk centralizing power in platforms like Cloudflare; jappgar offers veteran perspective from having worked on both scraping and defense, arguing neither side holds moral high ground; and sixtyj emphasizes that the real problem is scale and volume, not the concept of scraping itself, pointing to the need for robust web archiving as content frequently disappears after acquisitions or redesigns.
+
+**Tags**: `#web-scraping`, `#bot-detection`, `#ai-training-data`, `#internet-infrastructure`, `#open-web`
 
 ---
 
 <a id="item-14"></a>
-## [AMD to Unveil EPYC Venice Server CPU Based on Zen 6 Architecture](https://36kr.com/newsflashes/3889784854870537?f=rss) ⭐️ 7.3/10
+## [SpaceX Files to Launch 100,000 More Starlink Satellites for 100x Bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) ⭐️ 7.0/10
 
-AMD is expected to launch its next-generation EPYC Venice server CPU, built on the Zen 6 architecture, at its Advancing AI event scheduled for July 22-23. The company claims that Venice delivers over 70% improvements in both performance and energy efficiency compared to its Zen 5-based predecessors. The EPYC Venice CPU represents AMD's next major push in the highly competitive data center market, directly challenging Intel's server offerings. With claimed 70%+ gains, it could significantly reshape the server CPU landscape, impacting cloud providers, enterprises, and the broader AI infrastructure ecosystem. According to earlier disclosures, Venice will feature up to 256 Zen 6c cores on the new SP7 socket — doubling the current data center firepower — with power consumption reaching up to 1.4 kW. Volume availability is targeted for 2026, so the July event is likely a technical reveal rather than a shipping product launch.
+SpaceX has filed with the FCC to launch an additional 100,000 Starlink satellites, aiming to increase the constellation's bandwidth capacity by approximately 100 times. This filing would dramatically expand the existing Starlink network, which already provides broadband internet across roughly 160 countries. If approved, this would be a massive scaling of satellite internet infrastructure that could transform global connectivity, especially in underserved rural and remote regions, while intensifying concerns about low Earth orbit congestion, the Kessler syndrome risk, atmospheric pollution from re-entering satellites, and competition with terrestrial broadband providers. The proposed expansion would dwarf the current Starlink constellation of roughly 7,000+ operational satellites and represents one of the largest single satellite constellation filings in history. The 100x bandwidth claim implies a major generational upgrade in per-satellite throughput and inter-satellite laser link capacity, though regulatory approval, launch cadence, and responsible deorbit planning remain significant practical hurdles.
 
-rss · 36氪 · Jul 10, 12:22
+hackernews · CrankyBear · Jul 10, 17:51 · [Discussion](https://news.ycombinator.com/item?id=48863064)
 
-**Background**: Zen is AMD's core CPU microarchitecture that powers all of its processor lines, from consumer Ryzen chips to server EPYC processors and workstation Threadrippers. EPYC is AMD's server-focused CPU brand competing in the data center market traditionally dominated by Intel Xeon. Zen 6 is the successor to Zen 5, which powers current-generation EPYC processors like the Turin lineup. AMD's annual Advancing AI event is a major platform where the company showcases its data center and AI hardware strategy to enterprise customers and partners.
+**Background**: Starlink is a low Earth orbit (LEO) satellite internet constellation operated by SpaceX, designed to provide broadband access to areas where terrestrial infrastructure is unavailable or inadequate. Currently, approximately 9,000 satellites orbit in LEO, and the region between 100 and 1,240 miles above Earth hosts the International Space Station and most commercial satellites. The Kessler syndrome describes a theoretical cascading collision scenario in which debris collisions generate more debris, potentially rendering orbital regions unusable. The FCC's Space Bureau, established in 2023, oversees NGSO (non-geostationary orbit) constellation licensing, including spectrum allocation and orbital slot coordination through the ITU.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-venice-cpu-in-the-labs-now-coming-in-2026">AMD EPYC Venice boasts 256 cores and bandwidth... | Tom's Hardware</a></li>
-<li><a href="https://www.youtube.com/watch?v=_M9ypZnoeF4">AMD EPYC “ Venice ” Packs Up to 256 Cores & 1.4 kW... - YouTube</a></li>
-<li><a href="https://www.epyhost.com/blogs/amd-epyc-8005-sorano-vs-venice/">AMD EPYC 8005 "Sorano" vs. Upcoming " Venice " | EPY Host</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Starlink">Starlink - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kessler_syndrome">Kessler syndrome - Wikipedia</a></li>
+<li><a href="https://spacenexus.us/blog/fcc-satellite-licensing-spectrum-orbital-slots">FCC Satellite Licensing: Spectrum, Orbital Slots, and the Filing Process</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#EPYC`, `#Zen 6`, `#server CPUs`, `#data center`
+**Discussion**: The community discussion reflects deeply divided but well-reasoned viewpoints. Supporters highlight real-world benefits for rural and mobile users (RV travelers, remote workers) who previously had no reliable internet options. Critics raise three major concerns: astronomical pollution and loss of the natural night sky due to private ownership of orbital space, atmospheric contamination from burning satellite materials during re-entry, and skepticism about Starlink's long-term necessity in regions where government-funded fiber is already becoming affordable. One commenter noted that for many markets outside Africa and India, fiber may already offer a more competitive alternative.
+
+**Tags**: `#Starlink`, `#SpaceX`, `#satellite-internet`, `#infrastructure`, `#space-policy`
 
 ---
 
 <a id="item-15"></a>
-## [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) ⭐️ 7.0/10
+## [Bethesda Union Workers Plan July 15 Strike Over Xbox Layoffs](https://www.techpowerup.com/350680/unionized-bethesda-workers-plan-strike-over-xbox-mass-layoffs) ⭐️ 6.5/10
 
-QuadRF is an open-source radio frequency visualization tool that can detect drones and visualize WiFi signals through walls, demonstrated by Jeff Geerling.
+The CWA-affiliated OneBGS union has announced coordinated 'Save Our Devs' marches on July 15 at Bethesda studios in Montreal, Austin, Dallas, and Rockville, protesting the elimination of approximately 440 unionized positions across Bethesda Game Studios, ZeniMax Online Studios, id Software, ZeniMax QA, and ZeniMax corporate as part of Microsoft/Xbox's broader 3,200-worker layoff wave. This represents one of the most significant organized labor actions in the gaming industry to date, as unionized workers leverage legally protected collective bargaining rights to push back against corporate restructuring. The outcome could set precedents for how major publishers handle layoffs of unionized staff and influence the broader labor movement across the game development sector. The layoffs hit id Software particularly hard at approximately 50% of its workforce and Bethesda Game Studios at around 25%, affecting QA teams and even senior positions including the CTO and CSUR roles. Because OneBGS is a recognized wall-to-wall union with 241 members certified in 2024, affected workers have legal protections including notice requirements and severance obligations that non-unionized studios lack.
 
-hackernews · speckx · Jul 10, 15:59 · [Discussion](https://news.ycombinator.com/item?id=48861717)
+rss · TechPowerUp News · Jul 11, 00:03
 
-**Tags**: `#rf-sensing`, `#open-source`, `#hardware`, `#signal-processing`, `#wifi-visualization`
+**Background**: ZeniMax Media is a holding company that owns Bethesda Softworks and its subsidiary studios; Microsoft completed its $8.1 billion acquisition of ZeniMax in March 2021, bringing Bethesda, id Software, and other studios under the Xbox umbrella. The Communications Workers of America (CWA) is a major U.S. labor union that has been actively organizing video game workers, and OneBGS became the first union recognized under Microsoft in July 2024. The current layoff wave is tied to a 'year-long reset' of Xbox's gaming strategy under executive Asha Sharma, eliminating roughly 3,200 positions company-wide.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/ZeniMax_Media">ZeniMax Media - Wikipedia</a></li>
+<li><a href="https://gameluster.com/onebgs-save-our-devs-march-xbox-layoffs/">OneBGS Plans 4-City March Over Xbox Layoffs</a></li>
+<li><a href="https://www.gamespot.com/articles/bethesda-game-studios-is-now-unionized-across-the-board-recognized-by-microsoft/1100-6525206/">Bethesda Game Studios Is Now Unionized Across The Board ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#gaming-industry`, `#layoffs`, `#labor-unions`, `#xbox`, `#microsoft`
 
 ---
 
 <a id="item-16"></a>
-## [New York City to to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) ⭐️ 7.0/10
+## [Microsoft struggles to fulfill its 2030 sustainability promise amid carbon-heavy AI expansions — the company's chief sustainability officer claims the target is still feasible](https://www.tomshardware.com/tech-industry/big-tech/microsoft-struggles-to-fulfill-its-2030-sustainability-promise-amid-carbon-heavy-ai-expansions-the-companys-chief-sustainability-officer-claims-the-target-is-still-feasible) ⭐️ 6.5/10
 
-New York City announces landmark 'click-to-cancel' legislation banning deceptive subscription practices and junk fees, drawing comparisons to California's existing regulations.
+Microsoft's carbon emissions rose 25% in FY2025 due to AI data center expansion, challenging its 2030 sustainability goals despite progress in water and waste management.
 
-hackernews · randycupertino · Jul 10, 18:26 · [Discussion](https://news.ycombinator.com/item?id=48863464)
+rss · Tom's Hardware · Jul 11, 12:45
 
-**Tags**: `#consumer-protection`, `#regulation`, `#subscriptions`, `#policy`, `#e-commerce`
+**Tags**: `#AI`, `#sustainability`, `#Microsoft`, `#data-centers`, `#carbon-emissions`
 
 ---
 
 <a id="item-17"></a>
-## [The Tech of 'Terminator 2': An Oral History](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) ⭐️ 7.0/10
+## [SK hynix and TetraMem Build Memristor In-Memory SoC for Edge AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air) ⭐️ 6.5/10
 
-VFXBlog published an oral history featuring insights from ILM engineers who developed the pioneering visual effects for Terminator 2 (1991), detailing how many foundational VFX techniques were invented from scratch for the film. The article, originally from 2017, resurfaced in community discussions and highlighted the work of figures like Steve 'Spaz' Williams. Terminator 2's liquid-metal T-1000 effects represented a watershed moment in computer graphics, with techniques like image morphing and model interpolation becoming staples of modern VFX. Understanding the origins of these foundational tools helps today's CG artists appreciate the ingenuity required when no off-the-shelf solutions existed. ILM spent approximately $5 million—a massive share of the film's budget—on just five minutes of CGI, primarily for the T-1000's morphing sequences. The effects combined custom morphing algorithms (notably the Beier-Neely approach presented at SIGGRAPH 1992) with model interpolation and practical squibs for bullet impacts on the liquid-metal surface.
+SK hynix, TetraMem, and the University of Southern California have jointly developed a memristor-based in-memory computing system-on-chip (SoC) targeting energy-efficient AI edge devices. The experimental chip showed promising energy efficiency results, but the research team has not yet demonstrated that the architecture can deliver competitive performance. Edge AI devices—from smartphones to IoT sensors—are constrained by tight power budgets, making energy efficiency a critical design priority. Memristor-based in-memory computing could dramatically reduce the energy consumed by AI inference by eliminating the data movement bottleneck in conventional von Neumann architectures, potentially reshaping the competitive landscape for low-power AI hardware. The collaboration leverages TetraMem's analog memristor crossbar technology integrated with CMOS, following TetraMem's prior Nature publication on memristor-CMOS integration. While the chip achieves notable energy efficiency gains, the article notes that performance benchmarks have not been fully disclosed, leaving open whether the design can match the throughput of competing edge AI accelerators.
 
-hackernews · markus_zhang · Jul 10, 16:48 · [Discussion](https://news.ycombinator.com/item?id=48862365)
+rss · Tom's Hardware · Jul 10, 16:58
 
-**Background**: Industrial Light & Magic (ILM), founded by George Lucas, has been a leading VFX house since the late 1970s. For Terminator 2, ILM was tasked with bringing the shape-shifting T-1000 to life—a challenge that required inventing entirely new computer graphics techniques. Image morphing, the process of smoothly interpolating between two images, was relatively new at the time; the Beier-Neely algorithm published at SIGGRAPH 1992 was also famously used in Michael Jackson's 'Black or White' music video that same year. Softimage, a Canadian 3D software company, was one of the key tools used in early 1990s film production before being acquired by Microsoft and eventually discontinued in 2014.
+**Background**: A memristor is a non-linear two-terminal electronic component whose resistance changes based on the amount of charge that has flowed through it, and it retains that resistance state even when power is removed—effectively combining memory and computation in a single device. In-memory computing (IMC) is an emerging non-von Neumann paradigm that performs computations directly within memory arrays rather than shuttling data between separate processing and memory units, which is particularly attractive for AI workloads dominated by multiply-accumulate operations on large vectors. TetraMem, a startup spun out of USC research, is a pioneer in analog memristor technology and has previously demonstrated memristors capable of operating at extreme temperatures (700°C), highlighting the technology's potential robustness for harsh-environment and space applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://softwhere.com.co/terminator-2-judgment-day-why-were-still-obsessed-35-years-later-b7b">Terminator 2 Judgment Day: Why We’re Still Obsessed... — Softwhere</a></li>
-<li><a href="https://www.csie.ntu.edu.tw/~cyy/courses/vfx/05spring/assignments/proj1/">Digital Visual Effects</a></li>
-<li><a href="https://old.cescg.org/CESCG97/penkler/morphing.htm">Morphing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Memristor">Memristor - Wikipedia</a></li>
+<li><a href="https://research.ibm.com/projects/in-memory-computing">In-memory computing - IBM Research</a></li>
+<li><a href="https://thenextweb.com/news/tetramem-memristor-700c-space-ai-computing">TetraMem memristor survives 700 degrees Celsius as startup moves...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion was highly enthusiastic and technically rich. Commenters praised the practical squibs used for liquid-metal bullet impacts, noted the historical use of Softimage software, recommended the 'Jurassic Punk' documentary about Steve 'Spaz' Williams, and reflected philosophically on whether modern CGI will age as gracefully as T2's effects. One commenter noted a 4K theatrical re-release for the film's 35th anniversary.
-
-**Tags**: `#visual-effects`, `#computer-graphics`, `#film-history`, `#CG-history`, `#ILM`
+**Tags**: `#hardware`, `#edge-AI`, `#memristors`, `#in-memory-computing`, `#semiconductors`
 
 ---
 
 <a id="item-18"></a>
-## [Energy Efficiency Emerges as Key Constraint in AI Hardware](https://www.eetimes.com/ai-energy-barrier-forces-system-technology-co-optimization/) ⭐️ 7.0/10
+## [独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://36kr.com/p/3891132709206784?f=rss) ⭐️ 6.3/10
 
-At Leti Innovation Days 2026, energy efficiency was identified as the next defining constraint in AI hardware development, driving increased adoption of System Technology Co-Optimization (STCO) approaches across the semiconductor industry. As AI workloads scale exponentially, energy consumption has become the primary bottleneck limiting gains in compute density and performance. This forces the semiconductor industry to move beyond traditional transistor scaling toward holistic, system-level co-optimization spanning materials, devices, packaging, and software. STCO is a system-first design methodology that optimizes performance, power, and cost across the entire compute stack—from materials and transistors to advanced packaging and software—and is particularly relevant for chiplet-based heterogeneous integration. It represents an evolution beyond Design-Technology Co-Optimization (DTCO), extending co-design into packaging and system architecture.
+Zhipu AI founder Tang Jie's internal letter reveals the company's strategic bet on Coding/Reasoning capabilities post-DeepSeek R1, leading to 10x market cap growth, HK$1T+ valuation, and GLM-5.2 open-source model matching Claude Opus 4.8 and GPT-5.5.
 
-rss · EE Times · Jul 10, 07:18
+rss · 36氪 · Jul 11, 11:28
 
-**Background**: For decades, the semiconductor industry relied on Moore's Law transistor miniaturization to deliver ever-increasing performance. As scaling slows at advanced process nodes, designers increasingly turn to DTCO (Design-Technology Co-Optimization) and now STCO, which co-optimize chip design with the underlying technology and packaging. CEA-Leti is a major French microelectronics research institute that hosts its annual Innovation Days in Grenoble to showcase advances in semiconductor and microsystems technology to industry leaders.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.imec-int.com/en/articles/getting-most-out-your-system">Getting the most out of your system | imec</a></li>
-<li><a href="https://semitech-insights.com/tech-insights/stcooverview">STCO Decoded: Making Sense of System -Level Co - Design for...</a></li>
-<li><a href="https://leti-innovation-days.com/">Leti Innovation Days</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI hardware`, `#energy efficiency`, `#semiconductor`, `#STCO`, `#Leti Innovation Days`
+**Tags**: `#Zhipu-AI`, `#GLM-5.2`, `#AI-Coding`, `#Chinese-AI`, `#Open-Source-LLMs`
 
 ---
 
 <a id="item-19"></a>
-## [Meta to fab third-gen MTIA custom AI chip by September](https://www.electronicsweekly.com/news/business/meta-2026-07/) ⭐️ 7.0/10
+## [9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体](https://36kr.com/p/3890553690192384?f=rss) ⭐️ 6.3/10
 
-Meta is set to begin production of its third-generation MTIA (Meta Training and Inference Accelerator) custom datacentre chip in September. This is part of Meta's broader plan to deploy 14GW of computing power across its infrastructure. This move reflects the broader hyperscaler trend toward custom silicon to reduce dependency on external suppliers such as Nvidia and to optimize for specific AI workloads. The 14GW compute target is extraordinarily ambitious and signals Meta's massive bet on scaling AI infrastructure. The MTIA family is Meta's in-house AI accelerator line, originally developed for deep learning recommendation and ranking workloads that power Facebook and Instagram feeds, and has since expanded to support both training and inference. Earlier MTIA generations showed efficiency gains mainly for low- and medium-complexity inference tasks but still lagged behind GPUs for more complex workloads. No specific technical specifications, process node, or architectural details for the third-generation chip were disclosed in the brief announcement.
+Daily tech news roundup highlighting SK Hynix's successful ~$265B US listing, OpenAI's ChatGPT agent launch, and Long Xin Technology's IPO underwriting team announcement as China's domestic storage leader.
 
-rss · Electronics Weekly · Jul 10, 05:26
+rss · 36氪 · Jul 11, 01:24
 
-**Background**: Custom AI accelerators such as MTIA are specialized chips optimized for specific AI workloads, typically offering better energy efficiency than general-purpose GPUs for targeted tasks. Major hyperscalers including Google (TPU), Amazon (Trainium/Inferentia), and Microsoft (Maia) have all pursued custom silicon strategies to differentiate performance and reduce costs. The 14GW compute target represents a massive scaling of infrastructure — roughly equivalent to the output of several large nuclear power reactors — reflecting the unprecedented demand driven by the generative AI arms race.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://encord.com/blog/meta-ai-chip-mtia-explained/">All You Need to Know About Meta ’s New AI Chip MTIA</a></li>
-<li><a href="https://aiwiki.ai/wiki/meta_mtia">Meta MTIA | AI Wiki</a></li>
-<li><a href="https://www.ibm.com/think/topics/ai-accelerator-vs-gpu">What's the Difference Between AI accelerators and GPUs ? | IBM</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Meta`, `#custom-silicon`, `#AI-accelerators`, `#datacentre`, `#semiconductors`
+**Tags**: `#AI`, `#semiconductors`, `#IPO`, `#OpenAI`, `#Chinese-tech`
 
 ---
 
 <a id="item-20"></a>
-## [Imec unveils neuromorphic compressive telemetry chip for brain-computer interfaces](https://www.electronicsweekly.com/news/business/imec-advances-neural-ics-2026-07/) ⭐️ 7.0/10
+## [An Oral History of the Groundbreaking VFX Technology Behind Terminator 2](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) ⭐️ 6.0/10
 
-Imec has developed a neuromorphic compressive telemetry (NCT) chip that performs lossless, real-time data reduction for intracortical brain-computer interfaces (iBCIs), reducing neural data volumes by more than 10x while preserving signal fidelity. The architecture is built around two key innovations and paves the way for scaling toward 10,000-channel BCIs. This chip directly addresses the data-rate, power, and thermal bottlenecks that have limited intracortical BCIs to relatively few recording channels, a major barrier to clinical-scale neural prosthetics. By enabling 10x data compression on-chip, it could unlock high-channel-count wireless implants that are practical for long-term, minimally invasive use. The NCT architecture combines 8 channel-rotating Δ-ADCs with an event-driven serializer using a proposed ternary address event representation (AER) protocol, feeding an event-based LVDS driver. Lossless compression distinguishes it from conventional lossy approaches, ensuring no neural signal information is discarded during telemetry.
+VFXBlog published an in-depth oral history documenting the pioneering visual effects technology created for Terminator 2: Judgment Day (1991), featuring interviews with the engineers and artists who invented many of the techniques now standard in the industry. Terminator 2 was a landmark film that pushed the boundaries of what was possible in visual effects, and the techniques developed for it — including morphing, go-motion animation, and early CGI character work — laid the foundation for modern VFX. Understanding this history helps current practitioners appreciate the origins of tools and workflows still in use today. The film's effects were developed by four core groups: Industrial Light & Magic (ILM), Stan Winston Studio, Fantasy II Film Effects, and 4-Ward Productions, with additional work from Pacific Data Images. The T-1000's liquid metal transformations relied on morphing technology using Cyberware head and face scanners, while the T-800's stop-motion scenes used ILM's go-motion technique — co-developed with Phil Tippett — to introduce motion blur into each frame.
 
-rss · Electronics Weekly · Jul 10, 05:12
+hackernews · markus_zhang · Jul 10, 16:48 · [Discussion](https://news.ycombinator.com/item?id=48862365)
 
-**Background**: Intracortical brain-computer interfaces (iBCIs) record electrical activity directly from the cortex using electrode arrays, enabling applications such as prosthetic control and communication for people with paralysis. A key engineering challenge is that each electrode channel produces high-bandwidth neural data, and transmitting this wirelessly from an implant is constrained by limited battery power and the need to avoid tissue-damaging heat. Neuromorphic computing draws inspiration from biological neurons to process sparse, event-driven signals efficiently, making it well suited to compressing neural recordings directly at the sensor edge.
+**Background**: Morphing is a visual effects technique that seamlessly transforms one image or shape into another, replacing older dissolve-based methods since the early 1990s. Go-motion is a variation of stop-motion animation developed by ILM and Phil Tippett that adds motion blur to each frame, overcoming the staccato, overly sharp look of traditional stop-motion. Together, these techniques — along with early morphing composites created using Softimage software — helped define the look of the T-1000 and remain influential in how digital characters are animated today.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.imec-int.com/en/articles/neural-telemetry-breakthrough-new-chip-delivers-ten-fold-compression-while-preserving">Neural telemetry breakthrough: new chip delivers ten-fold...</a></li>
-<li><a href="https://www.edn.com/neural-telemetry-new-chip-delivers-10x-compression-while-preserving-signal-integrity/">Neural telemetry: New chip delivers 10x compression while... - EDN</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Special_effects_of_Terminator_2:_Judgment_Day">Special effects of Terminator 2: Judgment Day - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Morphing">Morphing - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Go_motion">Go motion - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#brain-computer-interface`, `#neuromorphic-computing`, `#semiconductors`, `#neurotechnology`, `#hardware`
+**Discussion**: Commenters praised the oral history as an exceptional read, expressing surprise at how much of the VFX pipeline had to be invented from scratch. Several added valuable context, including the role of Softimage in the production, the practical squibs used for liquid metal bullet impacts, and a recommendation for the documentary 'Jurassic Punk' (2022) about ILM artist Steve 'Spaz' Williams. Some readers reflected on whether contemporary CGI will age as gracefully as the practical and early-digital effects of T2.
+
+**Tags**: `#visual-effects`, `#computer-graphics`, `#film-history`, `#technology-history`, `#CGI`
 
 ---
