@@ -5,428 +5,405 @@ date: 2026-07-14
 lang: en
 ---
 
-> From 114 items, 20 important content pieces were selected
+> From 110 items, 20 important content pieces were selected
 
 ---
 
-1. [JEDEC Publishes SPHBM4 Standard for HBM4 on Organic Substrates](#item-1) ⭐️ 8.5/10
-2. [SLC NAND Prices Set to Surge 120–170% in 2H26: TrendForce](#item-2) ⭐️ 8.0/10
-3. [Nanya building $15bn 45k wpm fab](#item-3) ⭐️ 8.0/10
-4. [CXMT to Nearly Match Micron's DRAM Wafer Output by End of 2026](#item-4) ⭐️ 7.5/10
-5. [Intel 18A Silicon Achieves Space-Grade Certification with Starfire SoCs](#item-5) ⭐️ 7.5/10
-6. [Micron Commits $500M to GlobalWafers Texas Wafer Plant in $250B US Push](#item-6) ⭐️ 7.5/10
-7. [Meta Expands Hyperion AI Supercluster to 5GW, Louisiana Investment Surpasses $50B](#item-7) ⭐️ 7.5/10
-8. [LimX Dynamics Closes ~$200M Pre-IPO Round at $1.5B Valuation](#item-8) ⭐️ 7.3/10
-9. [“爱诗科技”完成29.8亿元C轮融资](#item-9) ⭐️ 7.3/10
-10. [Apple's SpeechAnalyzer API Benchmarked: Faster Than Whisper, Slightly Less Accurate](#item-10) ⭐️ 7.0/10
-11. [Linux SMP Ported to Sega 32X Using Software-Only Synchronization](#item-11) ⭐️ 7.0/10
-12. [Intel puts $5.7bn into Leixlip](#item-12) ⭐️ 7.0/10
-13. [China's Grid-Scale Battery Storage Capacity Surges to 140 GW](#item-13) ⭐️ 7.0/10
-14. [Tesla A15 Chip to Be Dual-Sourced at Samsung and TSMC on 2nm](#item-14) ⭐️ 7.0/10
-15. [TSMC Posts Record $13.75B June Revenue, Begins N2 2nm High-Volume Manufacturing](#item-15) ⭐️ 6.5/10
-16. [AMD FSR Multi-Frame Generation with Up to 8x Mode in Development](#item-16) ⭐️ 6.5/10
-17. [Tesla AI5 Chip Tapes Out at Samsung Foundry on 2nm-Class Node](#item-17) ⭐️ 6.5/10
-18. [Apple's M7 Ultra Rumored with 1.5TB Memory and Blackwell-Class AI](#item-18) ⭐️ 6.5/10
-19. [ASRock Rack Builds Edge Server on NVIDIA Thor Industrial SoC](#item-19) ⭐️ 6.5/10
-20. [字节探索自动驾驶，Seed世界模型团队负责｜36氪独家](#item-20) ⭐️ 6.3/10
+1. [New York Enacts First US Statewide Data Center Moratorium](#item-1) ⭐️ 8.5/10
+2. [JEDEC Publishes SPHBM4 Standard for HBM4 on Organic Substrates](#item-2) ⭐️ 8.0/10
+3. [Apple sues OpenAI for poaching iPhone secrets](#item-3) ⭐️ 8.0/10
+4. [Intel Moves Most Nova Lake Production In-House to 18A](#item-4) ⭐️ 7.5/10
+5. [TSMC Achieves Record $13.75 Billion Revenue in June 2026](#item-5) ⭐️ 7.5/10
+6. [Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This Year](#item-6) ⭐️ 7.5/10
+7. [Nvidia cuts over half of Asian authorized customers to curb AI chip smuggling](#item-7) ⭐️ 7.5/10
+8. [Programmable Thermal Material Steers Heat and Retains State Without Power](#item-8) ⭐️ 7.5/10
+9. [Tesla AI5 Tapes Out at Samsung Foundry on 2nm-Class Node](#item-9) ⭐️ 7.5/10
+10. [Micron Commits $500M to GlobalWafers Texas Plant, Targeting 40% U.S. DRAM by 2035](#item-10) ⭐️ 7.5/10
+11. [Intel Unveils Starfire: Space-Grade Panther Lake SoC for US Government](#item-11) ⭐️ 7.5/10
+12. [2026 Fields Medal Winners Appear Leaked from ICM Website](#item-12) ⭐️ 7.3/10
+13. [Codex starts encrypting sub-agent prompts](#item-13) ⭐️ 7.0/10
+14. [Indian scientists release most detailed 3D brainstem atlas](#item-14) ⭐️ 7.0/10
+15. [SLC NAND Prices Set to Surge 120–170% in 2H26: TrendForce](#item-15) ⭐️ 7.0/10
+16. [Bosch begins SiC IC sample production on 200mm wafers at first US fab](#item-16) ⭐️ 7.0/10
+17. [YMTC SSDs Debut in German Lenovo ThinkBook Laptops](#item-17) ⭐️ 6.5/10
+18. [Intel invests $5.7 billion in Ireland fab — aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process](#item-18) ⭐️ 6.5/10
+19. [Enthusiast creates open-source 'OpenPuck' firmware for Steam Controller 2](#item-19) ⭐️ 6.5/10
+20. [人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线](#item-20) ⭐️ 6.3/10
 
 ---
 
 <a id="item-1"></a>
-## [JEDEC Publishes SPHBM4 Standard for HBM4 on Organic Substrates](https://www.techpowerup.com/350725/jedec-sphbm4-standard-enables-hbm4-class-bandwidth-on-organic-substrates) ⭐️ 8.5/10
+## [New York Enacts First US Statewide Data Center Moratorium](https://www.tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions) ⭐️ 8.5/10
 
-JEDEC has published the JESD330-4 Standard Package High Bandwidth Memory (SPHBM4) standard, which uses the same DRAM dies as HBM4 but introduces a new interface base die that allows mounting on standard organic substrates instead of silicon substrates. By using 4:1 signal serialization, SPHBM4 reduces the data signal count from HBM4's 2048 to just 512 while maintaining equivalent aggregate bandwidth. This standard could significantly reduce the cost and complexity of deploying HBM4-class memory in AI accelerators by eliminating the need for expensive silicon interposers and advanced packaging. It opens HBM4-tier performance to a broader range of applications and manufacturers who may not have access to or wish to avoid the cost of cutting-edge 2.5D/3D packaging technologies. The 4:1 serialization operates at a higher frequency to compensate for fewer pins, achieving the same aggregate throughput as HBM4. The relaxed bump pitch requirement is what makes organic substrate integration feasible, since organic substrates cannot achieve the fine pitch needed for traditional HBM4's 2048-signal interface.
+New York has become the first US state to enact a one-year moratorium on all data center projects exceeding 50 megawatts, and will also pursue repealing related tax exemptions for the industry. The governor's office announced it will create a Generic Environmental Impact Statement (GEIS) to establish consistent standards and study the environmental impact of data center construction and operation. This is a landmark policy decision that signals a substantive shift in how US states may approach data center regulation, with potential ripple effects on AI infrastructure expansion, cloud services providers, and the broader tech industry. By combining a project pause with the pursuit of repealing tax exemptions, New York sets a precedent that could influence other states currently debating similar measures, potentially slowing the AI buildout trajectory. The 50 MW threshold is significant — large-scale AI training facilities and hyperscale cloud campuses typically demand far more than 50 MW, meaning the moratorium effectively targets the largest projects. The accompanying GEIS process invokes New York's State Environmental Quality Review Act (SEQR), a framework that can be used to evaluate broad categories of actions rather than individual projects, potentially establishing long-term statewide standards beyond the one-year pause.
 
-rss · TechPowerUp News · Jul 13, 15:34
+rss · Tom's Hardware · Jul 14, 12:17
 
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology originally developed by Samsung, AMD, and SK Hynix, widely used in AI accelerators and GPUs where massive memory bandwidth is critical. Traditional HBM integration requires advanced packaging with silicon interposers—thin silicon layers that route signals between the GPU/AI chip and HBM stacks—which are expensive and complex to manufacture. Organic substrates (the traditional PCB-like material used for most chip packages) are far cheaper but cannot support the ultra-fine bump pitches required by HBM's wide interfaces. JEDEC is the leading standards body for the microelectronics industry, and its HBM standards (JESD235 series) have defined successive generations since 2015.
+**Background**: A Generic Environmental Impact Statement (GEIS) is a planning document used under New York's State Environmental Quality Review Act (SEQR) to evaluate broad-based actions or related groups of actions that agencies may approve, fund, or undertake, rather than assessing each project individually. Data center moratoriums have been an emerging policy tool as states grapple with the massive electricity, water, and land demands of AI-driven compute expansion; Arizona and Illinois have paused data center tax incentives, while New Hampshire has moved in the opposite direction by easing self-supplied power rules. New York's action is the first to combine a hard pause on large projects with active pursuit of repealing existing tax exemptions, marking the most aggressive state-level intervention to date.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates">JEDEC releases new SPHBM 4 standard to slash AI... | Tom's Hardware</a></li>
-<li><a href="https://www.electronicdesign.com/technologies/embedded/article/55358355/eliyan-hbm4-vs-sphbm4-breaking-the-ai-memory-wall-with-next-gen-high-bandwidth-memory">HBM 4 vs. SPHBM4: Breaking the AI Memory Wall... | Electronic Design</a></li>
-<li><a href="https://www.jedec.org/news/pressreleases/new-jedec®-sphbm4-standard-enables-hbm4-class-bandwidth-organic-substrates">New JEDEC ® SPHBM 4 Standard Enables HBM4-Class... | JEDEC</a></li>
+<li><a href="https://dec.ny.gov/environmental-protection/oil-gas/geis">Generic Environmental Impact Statement On The Oil, Gas And Solution Mining Regulatory Program (GEIS) - NYSDEC</a></li>
+<li><a href="https://dos.ny.gov/final-scope-geis-9252024">New York State Environmental Quality Review Act (SEQR)</a></li>
+<li><a href="https://www.datacenterbans.com/">Data Center Moratoriums</a></li>
+<li><a href="https://www.datacenterknowledge.com/regulations/ai-data-center-moratorium-balancing-energy-community-and-growth-risks">Data Center Moratorium: Balancing Energy, Community, and Growth</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#HBM4`, `#JEDEC`, `#memory-standards`, `#AI-hardware`, `#semiconductor-packaging`
+**Tags**: `#data-centers`, `#policy`, `#regulation`, `#infrastructure`, `#AI`
 
 ---
 
 <a id="item-2"></a>
-## [SLC NAND Prices Set to Surge 120–170% in 2H26: TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12765.html) ⭐️ 8.0/10
+## [JEDEC Publishes SPHBM4 Standard for HBM4 on Organic Substrates](https://www.electronicsweekly.com/news/products/memory/jedecs-sphbm4-standard-for-ai-accelerators-on-organic-substrates-2026-07/) ⭐️ 8.0/10
 
-TrendForce forecasts that SLC NAND flash prices will rise 120–170% in the second half of 2026, driven by persistent niche demand and the migration of mature NAND process capacity toward higher-value MLC products. A price surge of this magnitude will significantly impact embedded systems, industrial automation, automotive electronics, and IoT device manufacturers that depend on SLC NAND for its superior endurance and reliability. Supply tightening for SLC could disrupt long-lifecycle product designs and force costly redesigns or component substitutions. SLC (Single-Level Cell) stores one bit per cell with 50,000–100,000 P/E cycles and lower error rates requiring only 1-bit ECC, while MLC doubles bit density at the cost of higher error rates and the need for 4-bit ECC. Vendors are converting older planar NAND fab capacity toward 3D NAND and higher-density MLC/TLC/QLC products, structurally reducing SLC supply rather than adding new capacity.
+JEDEC has officially announced the JESD330-4 SPHBM4 (Standard Package High Bandwidth Memory 4) standard, which allows the same DRAM dies used in HBM4 to be mounted on standard organic substrates via a new interface base die, rather than requiring more expensive silicon interposers. This standardization directly impacts next-generation AI accelerator design by offering a lower-cost, potentially higher-yield packaging alternative to silicon interposers, which could broaden access to HBM4-class bandwidth across a wider range of AI chips and reduce reliance on advanced 2.5D packaging supply. SPHBM4 achieves the same aggregate throughput as HBM4 using only 512 data signals instead of 2048, by employing 4:1 serialization to operate at a higher per-pin frequency; this relaxed bump pitch is precisely what makes connection to organic substrates feasible.
 
-rss · DRAMeXchange (TrendForce) · Jul 13, 15:16
+rss · Electronics Weekly · Jul 14, 13:42
 
-**Background**: NAND flash memory comes in several cell types: SLC (1 bit/cell), MLC (2 bits/cell), TLC (3 bits/cell), and QLC (4 bits/cell). Higher bit densities lower cost per gigabyte but reduce endurance and reliability, making SLC preferred for industrial, automotive, aerospace, and mission-critical applications despite its higher price. The NAND industry has been undergoing a structural capacity reconfiguration where bit growth is achieved through technology node transitions rather than new fab construction, and industry analysts note new capacity additions will not relieve supply pressure before late 2027.
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM interface originally developed by Samsung, AMD, and SK Hynix, widely used to feed data to AI accelerators; HBM4, finalized by JEDEC under JESD238/JESD270-4 in 2025, is the current generation pushing bandwidth and capacity higher. Traditional HBM stacks are mounted on silicon interposers (or silicon bridges) because the extremely fine bump pitch between the memory stack and the logic die exceeds what organic PCB substrates can reliably support. Organic substrates—essentially advanced PCB materials like ABF (Ajinomoto Build-up Film)—are far cheaper and easier to manufacture in large areas than silicon interposers, but their larger minimum trace/space dimensions have historically blocked them from hosting HBM directly. SPHBM4 sidesteps this limitation by serializing the data interface so fewer, more widely spaced bumps can deliver equivalent bandwidth.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.delkin.com/blog/slc-nand-vs-mlc-nand/">SLC NAND vs . MLC NAND | Delkin Devices</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Multi-level_cell">Multi - level cell - Wikipedia</a></li>
-<li><a href="https://www.isaiahresearch.com/Insight/Detail/105">NAND Flash Supply Forecast 2022-2027: Structural Shift & AI Impact</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/ram/jedec-finalizes-hbm4-memory-standard-with-major-bandwidth-and-efficiency-upgrades">JEDEC finalizes HBM4 memory standard with major bandwidth and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://semiconductorx.com/packaging-substrates-interposers.html">Substrates & Interposers: ABF, Silicon, Bridge, Glass ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NAND-flash`, `#memory-pricing`, `#semiconductor-industry`, `#market-forecast`, `#TrendForce`
+**Tags**: `#JEDEC`, `#HBM4`, `#AI accelerators`, `#semiconductor packaging`, `#memory standards`
 
 ---
 
 <a id="item-3"></a>
-## [Nanya building $15bn 45k wpm fab](https://www.electronicsweekly.com/news/business/899817-2026-07/) ⭐️ 8.0/10
+## [Apple sues OpenAI for poaching iPhone secrets](https://www.electronicsweekly.com/news/business/aple-sues-openai-for-poaching-iphone-secrets-2026-07/) ⭐️ 8.0/10
 
-Taiwanese DRAM maker Nanya announces a $15 billion, 45,000 wafers-per-month fab with capex quadrupling to $6.2B next year.
+Apple has sued OpenAI alleging theft of iPhone trade secrets through employee recruitment for a competing device.
 
-rss · Electronics Weekly · Jul 13, 05:25
+rss · Electronics Weekly · Jul 14, 05:27
 
-**Tags**: `#semiconductors`, `#DRAM`, `#manufacturing`, `#Nanya`, `#capex`
+**Tags**: `#Apple`, `#OpenAI`, `#legal`, `#trade-secrets`, `#hardware`
 
 ---
 
 <a id="item-4"></a>
-## [CXMT to Nearly Match Micron's DRAM Wafer Output by End of 2026](https://www.techpowerup.com/350726/chinese-cxmt-to-match-microns-dram-manufacturing-capacity-this-year) ⭐️ 7.5/10
+## [Intel Moves Most Nova Lake Production In-House to 18A](https://www.techpowerup.com/350751/intel-shifts-majority-of-nova-lake-production-in-house-amid-yield-improvements) ⭐️ 7.5/10
 
-According to analysis from Citrini Research, China's CXMT is projected to produce approximately 350,000 DRAM wafers per month by the end of 2026, nearly matching Micron's estimated 375,000 wafers per month. CXMT is achieving this scale-up by constructing cleanrooms in around 12 months—roughly half the 21–24 month industry norm. CXMT reaching near-parity with Micron, one of the 'big three' DRAM incumbents, signals a major shift in the global memory market and could intensify pricing competition as AI-driven demand strains supply chains. It also highlights how Chinese semiconductor players are scaling rapidly despite US sanctions restricting access to advanced EUV lithography equipment. CXMT is on the US blacklist and cannot acquire modern EUV scanners, so it relies on older DUV lithography tools combined with multi-patterning techniques to work around the EUV restriction. The 12-month cleanroom construction timeline is roughly half the industry standard of 21–24 months, making it a standout operational achievement.
+According to a KeyBanc Capital Markets research note, Intel has reversed its earlier plan to outsource 60–70% of Nova Lake-S compute tile production to TSMC's N2 2nm node, and now intends to manufacture 80–90% of the compute tiles on its own 18A process node. The reversal signals strong confidence in Intel Foundry's 18A yields and represents a major strategic win for Intel's in-house manufacturing ambitions, directly challenging TSMC's dominance and validating Intel's IDM-foundry transformation strategy. Reported 18A defect density has reached D0=0.1–0.2 levels, comparable to mature-node economics, after months of high-volume production with Panther Lake helped stabilize yields. Intel is now expected to dual-source less aggressively than originally planned, keeping TSMC as a secondary supplier for only ~10–20% of compute tiles.
 
-rss · TechPowerUp News · Jul 13, 16:00
+rss · TechPowerUp News · Jul 14, 13:33
 
-**Background**: CXMT (ChangXin Memory Technologies, 长鑫存储) is China's largest domestic DRAM manufacturer, headquartered in Hefei, Anhui, and was established to meet China's domestic memory needs. The global DRAM market is dominated by three players—Samsung, SK hynix, and Micron—so CXMT's rapid rise represents the emergence of a potential fourth major supplier. Cleanrooms are ultra-controlled environments required for silicon wafer fabrication, and EUV (extreme ultraviolet) lithography is the most advanced chip-printing technology currently available, while DUV (deep ultraviolet) is an older generation that can partially substitute for EUV through multi-patterning at higher cost and complexity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.techpowerup.com/350726/chinese-cxmt-to-match-microns-dram-manufacturing-capacity-this-year">Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This...</a></li>
-<li><a href="https://www.scmp.com/business/china-business/article/3354223/why-chinese-dram-maker-cxmts-ipo-attracting-so-much-attention">Why is Chinese DRAM maker CXMT ’s IPO attracting so much attention?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#DRAM`, `#memory-manufacturing`, `#CXMT`, `#semiconductor-industry`
-
----
-
-<a id="item-5"></a>
-## [Intel 18A Silicon Achieves Space-Grade Certification with Starfire SoCs](https://www.techpowerup.com/350713/intel-18a-silicon-goes-to-space-with-starfire-processors) ⭐️ 7.5/10
-
-Intel's 18A process node has officially achieved space-grade certification with the new 'Starfire' SoC family designed for orbital computing. Two SKUs are available—a Low Power version (10W TDP, P-Cores at 1.0 GHz) and a Performance version (35W TDP, P-Cores at 3.1 GHz)—both featuring 4 P-Cores, 4 LPE-Cores, an Intel 3-based GPU tile with 4 Xe cores (64 EUs), and an NPU delivering up to 75 TOPS. Samples are targeted for Q3. This milestone validates Intel's leading-edge 18A process for extreme-environment applications and provides the U.S. government with a domestically produced, radiation-hardened advanced-node processor for space missions. It also signals Intel Foundry's expanding reach into aerospace and defense markets, a strategically important segment where domestic supply chain security is critical. The SoCs operate across a junction temperature range of -55°C to 125°C and hold TID, SEL, and SEE radiation hardening certifications. The chiplet design pairs the 18A compute die with an Intel 3 GPU tile and an NPU offering 45 TOPS (Low Power) and 75 TOPS (Performance) in INT8 precision, making Starfire suitable for AI inference workloads in orbit.
-
-rss · TechPowerUp News · Jul 13, 11:38
-
-**Background**: Intel 18A (1.8 Angstroms) is an advanced semiconductor process node combining RibbonFET gate-all-around transistors with PowerVia backside power delivery—the first such BSPDN in high-volume production. LPE-Cores (Low Power Efficient Cores) are Intel's ultra-low-power cores first introduced in Meteor Lake, sitting on a separate SOC tile to handle light tasks efficiently. Space-grade silicon must withstand extreme temperatures, vacuum conditions, and ionizing radiation, requiring rigorous radiation hardening certifications such as TID, SEL, and SEE testing.
+**Background**: Since Meteor Lake, Intel has adopted a chiplet (tile-based) architecture in which a processor is split into multiple dies manufactured on different process nodes and recombined via advanced packaging. Intel 18A is the company's leading-edge 1.8-angstrom-class node and the first in high-volume production to combine RibbonFET gate-all-around transistors with PowerVia backside power delivery. TSMC's competing N2 is a 2nm-class node targeting similar performance and power gains, and has been pitched by external foundries as a leading alternative for Intel's compute tiles.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-06/foundry-18a-technology-brief.pdf">Intel Foundry Technology Brief: Intel 18A Process Node Family</a></li>
-<li><a href="https://www.intel.com/content/www/us/en/support/articles/000099551/processors/intel-core-ultra-processors.html">Why Are the Efficient Cores Called Low Power Efficient Cores in Lunar Lake?</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-18a-process-technology-wiki/">Intel 18A Process Technology Wiki - SemiWiki</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Meteor_Lake">Meteor Lake - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Intel`, `#semiconductor`, `#space-computing`, `#Intel-18A`, `#SoC`
+**Tags**: `#Intel`, `#semiconductor manufacturing`, `#Nova Lake`, `#TSMC`, `#Intel Foundry`
+
+---
+
+<a id="item-5"></a>
+## [TSMC Achieves Record $13.75 Billion Revenue in June 2026](https://www.techpowerup.com/350730/tsmc-achieves-record-usd-13-75-billion-revenue-in-june-2026) ⭐️ 7.5/10
+
+TSMC reports record $13.75B monthly revenue with 67.9% YoY growth driven by AI data center demand, while beginning high-volume N2 (2nm) manufacturing with AMD's EPYC 'Venice' among first products.
+
+rss · TechPowerUp News · Jul 13, 17:30
+
+**Tags**: `#semiconductors`, `#TSMC`, `#2nm`, `#AI-infrastructure`, `#revenue`
 
 ---
 
 <a id="item-6"></a>
-## [Micron Commits $500M to GlobalWafers Texas Wafer Plant in $250B US Push](https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion) ⭐️ 7.5/10
+## [Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This Year](https://www.techpowerup.com/350726/chinese-cxmt-to-match-microns-dram-manufacturing-capacity-this-year) ⭐️ 7.5/10
 
-Micron has committed $500 million to GlobalWafers' new silicon wafer manufacturing facility in Texas, as part of a broader $250 billion U.S. investment plan aimed at producing 40% of its DRAM domestically by the mid-2030s. This investment strengthens the U.S. semiconductor supply chain by reducing reliance on overseas wafer production, particularly from East Asia, and supports national semiconductor reshoring efforts amid ongoing geopolitical tensions. It signals Micron's long-term commitment to domestic chip manufacturing at a time when memory chip demand is surging due to AI and data center growth. GlobalWafers' Texas facility is described as the company's newest, largest, and most advanced silicon wafer manufacturing plant, producing 300mm polished and epitaxial wafers. The $250 billion spending commitment runs through 2035 and represents one of the largest semiconductor capital expenditure pledges by a single company in the U.S.
+Chinese memory manufacturer CXMT is rapidly expanding DRAM production capacity to approximately 350,000 wafers per month by end of 2026, nearly matching Micron's projected output.
 
-rss · Tom's Hardware · Jul 13, 17:09
+rss · TechPowerUp News · Jul 13, 16:00
 
-**Background**: Silicon wafers are thin slices of crystalline silicon that serve as the foundational substrate for fabricating integrated circuits and other semiconductor devices. DRAM (Dynamic Random-Access Memory) is a type of volatile memory that stores each bit of data using a single transistor and a capacitor, making it the most common form of memory used in computers, servers, and mobile devices. GlobalWafers, headquartered in Taiwan, is the world's third-largest silicon wafer supplier as of 2022. The push to reshore semiconductor manufacturing has been accelerated by the CHIPS and Science Act and concerns about supply chain vulnerabilities exposed during recent global disruptions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/GlobalWafers">GlobalWafers - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Random-access_memory">Random - access memory - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Wafer_(electronics)">Wafer (electronics) - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#supply-chain`, `#DRAM`, `#manufacturing`, `#investment`
+**Tags**: `#semiconductors`, `#DRAM`, `#memory-manufacturing`, `#CXMT`, `#industry-analysis`
 
 ---
 
 <a id="item-7"></a>
-## [Meta Expands Hyperion AI Supercluster to 5GW, Louisiana Investment Surpasses $50B](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements) ⭐️ 7.5/10
+## [Nvidia cuts over half of Asian authorized customers to curb AI chip smuggling](https://www.tomshardware.com/tech-industry/big-tech/nvidia-slashes-list-of-authorized-customers-in-asia-in-a-bid-to-reduce-ai-chip-smuggling-report-claims-company-sent-field-inspectors-called-customers-to-check-if-business-is-genuine-after-pressure-from-washington) ⭐️ 7.5/10
 
-Meta is expanding its Hyperion AI supercluster campus in Richland Parish, Louisiana, from 2GW to 5GW, pushing total investment past $50 billion and committing over $1 billion to local infrastructure improvements. The project, first announced as a $10 billion initiative in December 2024, will provide compute capacity for Meta Superintelligence Labs. This expansion places Hyperion among the largest AI infrastructure projects in the world, signaling Meta's aggressive bid to secure industry-leading compute capacity amid intensifying competition among hyperscalers. The 5GW scale dwarfs typical data centers and reflects the escalating capital requirements for training frontier AI models. The Hyperion campus is backed by financing from PIMCO and Blue Owl Capital, and CEO Mark Zuckerberg stated it will deliver the highest compute capacity per researcher in the industry. Unlike traditional data centers, superclusters are densely packed with GPUs and specialized hardware optimized for AI workloads, with the gigawatt-scale tier representing a new infrastructure standard—only a handful of such facilities from different hyperscalers are expected to come online in 2026.
+Nvidia has removed more than half of its previously authorized customers in Asia and subjected remaining clients to stricter verification, including on-site inspections of data centers and interviews with end users, in an effort to prevent AI chip smuggling amid pressure from the U.S. government. This move demonstrates Nvidia's active cooperation with U.S. export control enforcement and could significantly reshape AI chip distribution channels across Asia, reinforcing Washington's strategy of using chip manufacturer compliance to deny Chinese entities access to advanced AI compute. The verification process goes beyond paperwork: Nvidia deployed field inspectors to physically examine data centers and placed phone calls to confirm whether customers' businesses are genuine, suggesting concern that intermediary buyers were re-routing restricted chips into restricted end-users or jurisdictions.
 
-rss · Tom's Hardware · Jul 13, 13:25
+rss · Tom's Hardware · Jul 14, 11:08
 
-**Background**: An AI supercluster is a massive computing facility composed of tens of thousands of GPUs interconnected by high-bandwidth networks, designed specifically for training large AI models. The gigawatt (GW) power metric is critical because each gigawatt roughly equals the output of a large nuclear reactor and is enough to power hundreds of thousands of homes, illustrating the extraordinary energy demands of frontier AI training. According to research from Epoch AI, at least five data centers at 1GW or larger are expected to come online in 2026, operated by different hyperscalers such as xAI, Microsoft, and Meta, marking a new era in data center scale.
+**Background**: 美国商务部工业与安全局（BIS）于2022年8月在拜登政府期间首次对英伟达的A100及即将推出的H100芯片向中国和俄罗斯的出口实施许可证要求，理由是国家安全。2023年10月，这些规则进一步收紧，以堵住漏洞，包括考虑芯片的总处理性能和性能密度以涵盖经过改装的芯片。为规避这些限制，多个中间商试图通过空壳公司和亚洲其他国家的转运枢纽将受限制的AI硬件走私进入中国，促成了此次最新打击行动。
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements">Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements | Tom's Hardware</a></li>
-<li><a href="https://qz.com/what-are-ai-superclusters">Big Tech bets on AI superclusters. What are they? - Quartz</a></li>
-<li><a href="https://qz.com/ai-data-centers-gigawatt-power-grid-strain-051126">AI data centers pass 1 gigawatt and strain the U.S. power grid</a></li>
+<li><a href="https://builtin.com/articles/trump-lifts-ai-chip-ban-china-nvidia">Trump Lifted the AI Chip Ban on China, Clearing Nvidia and AMD to Resume Sales: Now What? | Built In</a></li>
+<li><a href="https://www.congress.gov/crs-product/R48642">U.S. Export Controls and China: Advanced Semiconductors | Congress.gov | Library of Congress</a></li>
+<li><a href="https://www.gao.gov/products/gao-25-107386">U.S. GAO - Export Controls: Commerce Implemented Advanced Semiconductor Rules and Took Steps to Address Compliance Challenges</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#Meta`, `#data centers`, `#supercomputing`, `#AI race`
+**Tags**: `#nvidia`, `#ai-chips`, `#export-controls`, `#supply-chain`, `#geopolitics`
 
 ---
 
 <a id="item-8"></a>
-## [LimX Dynamics Closes ~$200M Pre-IPO Round at $1.5B Valuation](https://36kr.com/p/3893976502287618?f=rss) ⭐️ 7.3/10
+## [Programmable Thermal Material Steers Heat and Retains State Without Power](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics) ⭐️ 7.5/10
 
-Chinese general-purpose humanoid robot company LimX Dynamics (逐际动力) announced the close of a Pre-IPO funding round of nearly US$200 million at a post-money valuation of approximately RMB 15 billion (~$1.5B), bringing its cumulative fundraising in the past six months to US$400 million. The company has completed its share structure reform in March 2026 and has already initiated its IPO process in early 2026. This is one of the largest Pre-IPO rounds in China's humanoid robotics/embodied AI sector, signaling strong market validation and intensifying competition ahead of a potential IPO. The capital will accelerate LimX's deployment of thousands of fully autonomous humanoid robots, deepen its three-layer AI architecture (System 0/1/2), and fuel global expansion into the Middle East, Europe, and Asia. LimX's three-layer AI architecture consists of System 0 (whole-body motion foundation model), System 1 (VLA/WAM capabilities for humanoid robots), and System 2 (COSA, an embodied agent operating system powered by LLMs and world models). Its products include the LimX Luna (160cm, 27 degrees of freedom, launched May 2026) and the modular TRON 2, with cumulative orders in the thousands—over half from overseas customers.
+Researchers have developed a programmable thermal material that can directionally steer heat and retain its configuration without continuous power input, functioning as a non-volatile thermal switch. The breakthrough is expected to inform future thermal management strategies in AI chip cooling and silicon photonics devices. AI chips and silicon photonic devices generate substantial localized heat that limits performance, and conventional cooling solutions often consume continuous power. A non-volatile, programmable thermal material could enable passive, reconfigurable heat routing — reducing energy overhead and unlocking denser, hotter-running chip designs. The material's key property is non-volatility: once its thermal conductivity state is set, it persists without sustained power, analogous to non-volatile memory. Based on the broader research landscape, chalcogenide-based phase-change materials are a leading candidate family for this behavior, as they offer strong property modulation with zero static power consumption.
 
-rss · 36氪 · Jul 14, 00:46
+rss · Tom's Hardware · Jul 14, 09:30
 
-**Background**: Humanoid robotics and embodied AI—where AI models are integrated into physical robots that perceive and act in the real world—have become one of the most hotly funded technology sectors globally. Vision-Language-Action (VLA) models extend large vision-language models to generate robot actions from visual observations and language instructions, while World Action Models (WAM) add predictive capabilities about physical dynamics. LimX Dynamics' COSA (Cognitive Operating System for Agents), launched in January 2026, is positioned as a 'world's first' agentic operating system for humanoid robots, enabling autonomous perception, reasoning, and action. The company also open-sources FluxVLA Engine, a full-stack development platform covering data processing, simulation training, real-robot iteration, and hardware deployment.
+**Background**: Phase-change materials (PCMs) are substances that can switch between different structural phases, each with distinct thermal or optical properties. In photonics, chalcogenide-based non-volatile materials have been used to build programmable photonic integrated circuits that retain their state without power, dramatically cutting energy use. Silicon photonics — the use of silicon to route light instead of electricity on a chip — is a growing field for high-bandwidth data and AI interconnects, but heat dissipation in such densely packed optical-electronic hybrid chips remains a major engineering challenge. A material that can both steer and remember thermal states would directly address that challenge by enabling passive, tunable heat spreading.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.therobotreport.com/limx-dynamics-demonstrates-latest-humanoid-robot-motions/">LimX Dynamics demonstrates latest humanoid ... - The Robot Report</a></li>
-<li><a href="https://interestingengineering.com/ai-robotics/CHINA-LIMX-UNVEILS-ROBOT-OPERATING-SYSTEM">LimX unveils operating system for humanoid robots to navigate alone</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Vision-language-action_model">Vision-language-action model</a></li>
+<li><a href="https://pubs.aip.org/aip/apm/article/11/10/100603/2918337/Non-volatile-materials-for-programmable-photonics">Non-volatile materials for programmable photonics</a></li>
+<li><a href="https://www.nature.com/articles/s41467-023-39180-3">Non-volatile electrically programmable integrated photonics ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2352152X22015900">Phase change materials for thermal management and energy ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#humanoid-robotics`, `#embodied-ai`, `#funding`, `#limx-dynamics`, `#china-tech`
+**Tags**: `#materials-science`, `#thermal-management`, `#AI-hardware`, `#silicon-photonics`, `#research-breakthrough`
 
 ---
 
 <a id="item-9"></a>
-## [“爱诗科技”完成29.8亿元C轮融资](https://36kr.com/newsflashes/3894795352669446?f=rss) ⭐️ 7.3/10
+## [Tesla AI5 Tapes Out at Samsung Foundry on 2nm-Class Node](https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out) ⭐️ 7.5/10
 
-PixVerse (爱诗科技) completes a 2.98 billion yuan Series C funding round led by Alibaba to advance video generation foundation models and real-time world models.
+Tesla's AI5 processor has taped out at Samsung Foundry on a 2nm-class node, with mass production set to begin soon, as revealed by a LinkedIn post. This milestone comes several months after the same chip taped out at TSMC, confirming a dual-foundry strategy for Tesla's next-generation AI silicon. This dual-sourcing approach across the world's two leading foundries gives Tesla supply-chain redundancy, pricing leverage, and capacity flexibility for its AI chip ambitions, which are central to its FSD and Dojo/AI training roadmaps. It also signals intensifying competition between Samsung Foundry and TSMC at the 2nm frontier, as both vie for high-profile AI silicon customers. The information originates from a brief LinkedIn post, so detailed technical specifications such as die size, transistor count, and exact process naming (e.g., Samsung SF2 vs TSMC N2) are not yet publicly disclosed. The '2nm-class' designation refers to the latest generation of sub-3nm logic processes, where Samsung and TSMC each market their own proprietary implementations.
 
-rss · 36氪 · Jul 14, 01:10
+rss · Tom's Hardware · Jul 13, 17:59
 
-**Tags**: `#funding`, `#video-generation`, `#world-models`, `#AI-investment`, `#China-AI`
+**Background**: Tape-out is the final stage of chip design in which the completed GDSII layout is handed over to a foundry for fabrication, marking the transition from design to manufacturing. A 2nm-class process node represents the cutting edge of logic scaling, offering higher transistor density, better performance, and lower power compared to 3nm nodes—though the 'nm' label is now largely a marketing term rather than a literal transistor dimension. A foundry is a third-party semiconductor fabrication plant (fab) that manufactures chips designed by fabless companies; the foundry model, pioneered by TSMC, allows chip designers like Tesla to outsource manufacturing without owning fabs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tape-out">Tape-out - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Foundry_model">Foundry model - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#tesla`, `#ai-hardware`, `#semiconductors`, `#samsung-foundry`, `#tsmc`
 
 ---
 
 <a id="item-10"></a>
-## [Apple's SpeechAnalyzer API Benchmarked: Faster Than Whisper, Slightly Less Accurate](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) ⭐️ 7.0/10
+## [Micron Commits $500M to GlobalWafers Texas Plant, Targeting 40% U.S. DRAM by 2035](https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion) ⭐️ 7.5/10
 
-A technical benchmark of Apple's new SpeechAnalyzer API (introduced in iOS 26) shows it is substantially faster than OpenAI's Whisper and supports streaming transcription, though it is slightly less accurate. The benchmark compares Apple's on-device speech-to-text solution against Whisper and its own predecessor, SFSpeechRecognizer. Because SpeechAnalyzer is free and built into Apple's OS with streaming support, it poses a direct threat to paid third-party apps that simply wrap Whisper for transcription. This development signals Apple's push into on-device AI, narrowing the gap between proprietary and open-source speech recognition for everyday use cases. SpeechAnalyzer replaces SFSpeechRecognizer (introduced in iOS 10) and offers real-time streaming transcription where users see text appear as they speak, a major UX upgrade over Whisper's batch processing. However, the benchmark only compared against Whisper, not against current state-of-the-art models like Nvidia's Nemotron/Parakeet or Mistral's Voxtral.
+Micron has committed $500 million to GlobalWafers' new silicon wafer fabrication plant in Texas, as part of the memory maker's broader $250 billion U.S. investment plan. The spending is tied to a goal of manufacturing 40% of Micron's DRAM domestically by 2035. The investment strengthens U.S. efforts to reshore critical semiconductor supply chains and reduce dependency on overseas DRAM production, particularly amid heightened geopolitical tensions with Asia. It also signals sustained confidence in the long-term economics of domestic chip manufacturing, supported by CHIPS Act-era incentives. The $500 million is one specific commitment within Micron's previously announced $250 billion U.S. spending roadmap that runs through 2035. The partnership with GlobalWafers addresses an upstream bottleneck: silicon wafers are the foundational substrate upon which virtually all integrated circuits, including DRAM chips, are fabricated.
 
-hackernews · get-inscribe · Jul 13, 16:06 · [Discussion](https://news.ycombinator.com/item?id=48894752)
+rss · Tom's Hardware · Jul 13, 17:09
 
-**Background**: Automatic Speech Recognition (ASR) is the technology that converts spoken language into written text and is used across industries for transcription, subtitling, and voice assistants. OpenAI's Whisper, released in 2022, became a popular open-source ASR model trained on 680,000 hours of multilingual data, spawning numerous paid wrapper apps. Apple's new SpeechAnalyzer API, announced at WWDC 2025, represents the company's replacement for its older SFSpeechRecognizer framework and brings modern AI-powered transcription natively to iOS and macOS devices.
+**Background**: DRAM (Dynamic Random-Access Memory) is a type of volatile semiconductor memory that serves as the main working memory in computers, servers, and mobile devices. Silicon wafers — thin discs of purified single-crystal silicon — are the foundational material upon which virtually all integrated circuits are fabricated through processes including photolithography, etching, and thin-film deposition. GlobalWafers, headquartered in Taiwan, is the world's third-largest silicon wafer supplier. Micron is one of only three major DRAM manufacturers globally, alongside Samsung and SK Hynix. The commitment aligns with the U.S. CHIPS and Science Act's strategy of subsidizing domestic semiconductor manufacturing to reduce reliance on Asian supply chains.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer-mdn.apple.com/videos/play/wwdc2025/277/">Bring advanced speech -to-text to your app with... - Apple Developer</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system)">Whisper ( speech recognition system) - Wikipedia</a></li>
-<li><a href="https://huggingface.co/spaces/hf-audio/open_asr_leaderboard">Open ASR Leaderboard - a Hugging Face Space by hf-audio</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">Dynamic random-access memory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GlobalWafers">GlobalWafers - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wafer_fabrication">Wafer fabrication - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community largely agreed that Whisper is no longer the best benchmark target, pointing to Nvidia's Nemotron and Parakeet, Mistral's Voxtral, and Cohere Transcribe as stronger current SOTA options. Commenters highlighted streaming support as the standout UX advantage over batch-processing competitors, though some noted that for offline use cases like subtitling math lectures, Whisper's accuracy still wins. Several users mentioned existing macOS apps like Willow that already deliver near-perfect real-time transcription, suggesting speech-to-text is approaching a solved problem that may squeeze out paid Whisper wrappers.
-
-**Tags**: `#speech-recognition`, `#apple`, `#whisper`, `#asr`, `#benchmarking`
+**Tags**: `#semiconductors`, `#DRAM`, `#supply-chain`, `#manufacturing`, `#reshoring`
 
 ---
 
 <a id="item-11"></a>
-## [Linux SMP Ported to Sega 32X Using Software-Only Synchronization](https://cakehonolulu.github.io/linux-on-32x/) ⭐️ 7.0/10
+## [Intel Unveils Starfire: Space-Grade Panther Lake SoC for US Government](https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip) ⭐️ 7.5/10
 
-Developer cakehonolulu successfully ported SMP-capable Linux to the Sega 32X add-on's dual Hitachi SH-2 processors, implementing Peterson's algorithm for mutual exclusion since the hardware lacks any hardware synchronization primitives. The project builds on the author's earlier Linux port for the Atari Jaguar. This achievement demonstrates that full symmetric multiprocessing can be achieved on extremely constrained vintage hardware through clever software engineering, offering an educational window into kernel internals, concurrent algorithms, and the limits of hardware-assisted synchronization. It also expands the retro-computing and hobbyist-OS communities' understanding of what is feasible on 1990s-era consumer devices. The SH-2 CPUs in the 32X share no hardware atomic compare-and-swap or test-and-set operations, so mutual exclusion is enforced purely through Peterson's algorithm, which relies only on shared memory loads and stores and was originally formulated by Gary L. Peterson in 1981. A community commenter noted a related Lamport fast mutex as an alternative, and another flagged an open question of whether the SH-2s can actually write to the cartridge area, suggesting the build may currently be emulator-tested rather than running on real 32X hardware.
+Intel has unveiled Starfire, a space-grade system-on-chip designed for the U.S. government, built on the Panther Lake architecture. The chip combines a CPU manufactured on Intel's leading-edge 18A process with a GPU fabricated on the Intel 3 node, creating a multi-process-node design adapted for radiation-hardened space applications. This announcement signals Intel's confidence in the maturity of its 18A manufacturing process and demonstrates that leading-edge consumer architectures can be adapted for the demanding requirements of government and space-grade deployments. It also represents a notable milestone for Intel's foundry strategy, showcasing a flexible chiplet/multi-process-node approach that mixes Intel 18A and Intel 3 dies in a single space-rated package. Unlike commercial Panther Lake SoCs—which pair an Intel 18A CPU tile with a TSMC-manufactured GPU tile and a TSMC N6 I/O tile—the Starfire variant uses Intel's own Intel 3 process for the GPU, highlighting Intel's strategy of keeping critical tiles in-house for government workloads. Intel 18A is an Angstrom-class node (roughly 1.8 nm equivalent), while Intel 3 is a 3 nm-class FinFET node already in high-volume production since 2024.
 
-hackernews · cakehonolulu · Jul 13, 18:18 · [Discussion](https://news.ycombinator.com/item?id=48896600)
+rss · Tom's Hardware · Jul 13, 16:09
 
-**Background**: The Sega 32X, codenamed 'Project Mars,' was a 1994 add-on for the Sega Genesis/Mega Drive designed to bridge the console into the 32-bit era before the Saturn launched; it housed two Hitachi SH-2 processors running at 23 MHz alongside the Genesis's existing Motorola 68000. The SH-2 is a 32-bit RISC core from Hitachi's SuperH family, notable for compact 16-bit instructions and features like branch delay slots that are characteristic of RISC designs of that period. SMP (Symmetric Multi-Processing) in Linux normally relies on hardware atomic instructions such as compare-and-swap; Peterson's algorithm is a classical software-only mutual-exclusion technique that requires no such hardware support, making it a natural fit when porting to silicon that predates or omits those primitives.
+**Background**: Intel 18A is Intel's most advanced manufacturing process, named for roughly 1.8 angstrom gate pitch, and forms the basis for Intel's first client SoCs (Panther Lake). Intel 3 is a separately developed 3 nm-class node using refined FinFET transistors with EUV lithography, already in high-volume production for general compute workloads. Panther Lake itself is a heterogeneous SoC that combines different process nodes and tiles, making it well suited as a starting point for a customized space-grade variant like Starfire.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/32X">32X - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Peterson's_algorithm">Peterson ' s algorithm - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SuperH">SuperH - Wikipedia</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/foundry/process/18a.html">Intel 18A | See Our Biggest Process Innovation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Panther_Lake_(microprocessor)">Panther Lake (microprocessor) - Wikipedia</a></li>
+<li><a href="https://www.intc.com/news-events/press-releases/detail/1752/intel-unveils-panther-lake-architecture-first-ai-pc">Intel Unveils Panther Lake Architecture: First AI PC Platform ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters engaged substantively on technical specifics: mikepavone questioned whether the port was validated on real hardware or only in emulation, citing a known limitation that the SH-2s cannot write to the cartridge area. ajb pointed out Lamport's fast mutex as a related synchronization algorithm, while Dwedit provided useful context comparing the SuperH ISA to ARM Thumb (noting Hitachi patent cross-licensing and SuperH's branch delay slots). jonhohle expressed enthusiasm about untapped potential, asking about I/O options such as using the serial port for terminal access and noting that the Sega CD add-on would provide more RAM and a faster secondary 68000.
-
-**Tags**: `#linux-kernel`, `#embedded-systems`, `#retro-computing`, `#synchronization`, `#kernel-hacking`
+**Tags**: `#Intel`, `#semiconductors`, `#space-grade`, `#18A process`, `#government`
 
 ---
 
 <a id="item-12"></a>
-## [Intel puts $5.7bn into Leixlip](https://www.electronicsweekly.com/news/business/intel-puts-5-7bn-into-leixlip-2026-07/) ⭐️ 7.0/10
+## [2026 Fields Medal Winners Appear Leaked from ICM Website](https://www.solidot.org/story?sid=84823) ⭐️ 7.3/10
 
-Intel announces a $5.7 billion capital investment to retrofit its Fab 34 in Leixlip, Ireland for the Intel 3 process, scaling manufacturing capacity.
+2026年国际数学家大会（ICM 2026）官方日程页面的前端代码中发现了四条标记为“Fields Medal Lecture”的隐藏字段，内容为邓煜（Yu Deng）、John Pardon、Jacob Tsimerman和王虹（Hong Wang）四位数学家。2026年国际数学家大会定于7月23日举行，与诺贝尔奖不同，菲尔茨奖会提前通知获奖者，因此名单有可能在正式公布前泄露。 If confirmed, this would mark only the second time Chinese mathematicians receive the Fields Medal, with the unprecedented situation of two Chinese mathematicians (Yu Deng and Hong Wang) winning simultaneously, following Shing-Tung Yau's 1982 award. Each of the four is recognized for solving landmark problems: Hilbert's sixth problem, Gromov's knot problem, the André-Oort conjecture, and the 3D Kakeya set conjecture. Hong Wang recently proved the three-dimensional Kakeya conjecture with Joshua Zahl in a paper released in February 2025, a problem described by Terry Tao as a breakthrough in geometric measure theory. Yu Deng made substantial contributions to Hilbert's sixth problem on axiomatizing physics, a challenge posed by David Hilbert in 1900. The leak has not been officially confirmed, and the names should be treated as speculation until ICM 2026 makes an official announcement on July 23.
 
-rss · Electronics Weekly · Jul 13, 15:32
+rss · Solidot · Jul 14, 06:19
 
-**Tags**: `#semiconductors`, `#Intel`, `#manufacturing`, `#Intel 3 process`, `#fab investment`
+**Background**: The Fields Medal, often called mathematics' Nobel Prize, is awarded every four years to mathematicians under the age of 40 at the International Congress of Mathematicians (ICM). It is traditionally limited to at most four recipients. The Hilbert sixth problem calls for axiomatizing physics; the Kakeya conjecture concerns geometric sets containing line segments in every direction; the André-Oort conjecture characterizes special points in Shimura varieties in number theory; and Gromov's knot problem involves aspects of knot theory in geometric group theory. Because the Fields Committee notifies winners weeks before the public announcement, early leaks are occasionally possible, as has happened in past cycles.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kakeya_set">Kakeya set - Wikipedia</a></li>
+<li><a href="https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/">The three-dimensional Kakeya conjecture, after Wang and Zahl</a></li>
+<li><a href="https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/">‘Once in a Century’ Proof Settles Math’s Kakeya Conjecture</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#mathematics`, `#fields-medal`, `#ICM2026`, `#news-leak`, `#chinese-mathematicians`
 
 ---
 
 <a id="item-13"></a>
-## [China's Grid-Scale Battery Storage Capacity Surges to 140 GW](https://www.electronicsweekly.com/blogs/mannerisms/manuf/chinas-massive-battery-build-capacity-2026-07/) ⭐️ 7.0/10
+## [Codex starts encrypting sub-agent prompts](https://github.com/openai/codex/issues/28058) ⭐️ 7.0/10
 
-China's grid-scale battery energy storage capacity grew from just 2.4 GW in 2020 to over 140 GW in 2025, far surpassing the United States, which reached roughly 57 GW over the same period. This roughly 58-fold expansion in five years underscores China's commanding lead in energy storage infrastructure, which is critical for integrating renewable energy, stabilizing the grid, and supporting its broader clean-energy transition — giving it a strategic advantage in the global energy technology race. China's 140+ GW capacity is approximately 2.5 times the U.S. installation of 57 GW, and the source news brief lacks further technical detail on battery chemistries, project timelines, or deployment breakdowns between lithium-ion and alternative technologies.
+OpenAI's Codex CLI now encrypts sub-agent prompts, hiding them from users and raising concerns about transparency and control in AI coding agents.
 
-rss · Electronics Weekly · Jul 13, 13:01
+hackernews · embedding-shape · Jul 14, 11:21 · [Discussion](https://news.ycombinator.com/item?id=48905028)
 
-**Background**: Grid-scale battery energy storage systems (BESS) are large installations of batteries used to store electrical energy on the power grid, helping balance supply and demand, integrate intermittent renewables like solar and wind, and provide grid stability services. Falling battery costs and rising renewable energy penetration have made energy storage increasingly cost-effective and widely deployed worldwide. Capacity measured in gigawatts (GW) refers to the peak power a storage system can deliver, which is distinct from total energy stored (measured in gigawatt-hours, GWh).
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Battery_energy_storage_system">Battery energy storage system - Wikipedia</a></li>
-<li><a href="https://innovationatwork.ieee.org/battery-energy-storage-systems-the-backbone-of-a-reliable-grid/">Battery Energy Storage Systems: The Backbone of a Reliable Grid</a></li>
-<li><a href="https://www.powermag.com/group-forecasts-massive-increase-in-energy-storage-by-2030/">Group Forecasts Massive Increase in Energy Storage by 2030</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#battery-storage`, `#energy-infrastructure`, `#china-manufacturing`, `#grid-energy`, `#clean-energy`
+**Tags**: `#ai-agents`, `#openai-codex`, `#developer-tools`, `#transparency`, `#security`
 
 ---
 
 <a id="item-14"></a>
-## [Tesla A15 Chip to Be Dual-Sourced at Samsung and TSMC on 2nm](https://www.electronicsweekly.com/news/business/tesla-a15-chip-to-be-fabbed-at-samsung-and-tsmv-2026-07/) ⭐️ 7.0/10
+## [Indian scientists release most detailed 3D brainstem atlas](https://www.bbc.com/news/articles/cg53l737v1qo) ⭐️ 7.0/10
 
-Tesla's next-generation A15 AI chip will be manufactured concurrently on TSMC's 2nm process in Taiwan and Samsung's 2nm process at its Taylor, Texas fab, with TSMC's Arizona facility potentially being added as a third production site. This dual-sourcing strategy on leading-edge 2nm nodes signals Tesla's deepening commitment to custom in-house silicon for its AI and autonomous driving ambitions, while also diversifying its supply chain across geographic regions and foundries to mitigate risk. TSMC's N2 process entered volume production in Q4 2025 using first-generation nanosheet (GAA) transistor technology, offering significant performance and power efficiency gains. Samsung's Taylor, Texas fab represents a major US-based advanced manufacturing investment, and Tesla's previously announced AI5 chip claims roughly 40x improvement over the HW4 chip with 8x raw compute and 9x memory.
+A team of Indian scientists has produced the most detailed 3D atlas of the human brainstem to date, mapping its complex internal structures with unprecedented resolution. The atlas has been made freely available online, allowing researchers worldwide to access and use it. The brainstem governs critical life functions such as breathing, heart rate, and reflexes, yet its dense anatomy makes it one of the hardest brain regions to map and study. A freely accessible high-resolution atlas gives neurosurgeons, neurologists, and researchers a shared reference standard, potentially improving diagnosis, surgical planning, and our understanding of neurological disorders. The atlas is a reference tool constructed from a small number of individual brains, not a diagnostic device, meaning it serves as a standardized anatomical template rather than a patient-specific scan. It is hosted on the project's website and complements other open brain-mapping resources from the same Indian research group.
 
-rss · Electronics Weekly · Jul 13, 11:57
+hackernews · BaudouinVH · Jul 14, 06:43 · [Discussion](https://news.ycombinator.com/item?id=48903082)
 
-**Background**: The 2nm process node is the current cutting edge of semiconductor manufacturing, succeeding the 3nm node. The node names no longer correspond to physical feature sizes but represent generational improvements in transistor density, performance, and power efficiency. Leading foundries like TSMC and Samsung use Gate-All-Around (GAA) nanosheet transistors at this node. Tesla has been developing custom AI inference chips to power its Full Self-Driving (FSD) hardware, with HW4 being the current generation and AI5/A15 representing next steps in its silicon roadmap.
+**Background**: The brainstem is a small structure at the base of the brain, making up only about 2.6% of total brain weight, yet it connects the brain to the spinal cord and regulates vital involuntary functions including breathing, heart rate, and blood pressure. It consists of three main parts: the midbrain, pons, and medulla. 3D brain atlases are digital reference maps built using advanced imaging techniques such as MRI and microscopy, combined with computational methods, to represent brain structures in standardized form across populations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm">2nm Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
-<li><a href="https://wccftech.com/samsung-2nm-node-lands-tesla-ai5-chip-at-its-texas-taylor-fab-silencing-yield-doubters/">Samsung's 2nm Node Lands Tesla 's AI 5 Chip at Its Texas Taylor Fab...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Brainstem">Brainstem - Wikipedia</a></li>
+<li><a href="https://my.clevelandclinic.org/health/body/21598-brainstem">Brainstem: What It Is, Function, Anatomy & Location</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7782399/">Evolution of Human Brain Atlases in Terms of Content ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Tesla`, `#semiconductors`, `#TSMC`, `#Samsung`, `#AI chips`
+**Discussion**: Community members welcomed the open-access nature of the project, with one commenter praising the decision not to gatekeep lifesaving technology for profit. Others clarified that the atlas is a reference constructed from a small number of individuals rather than a diagnostic tool, and shared links to related publications and 3D atlas videos from the same research group's project websites.
+
+**Tags**: `#neuroscience`, `#open-science`, `#brain-mapping`, `#medical-imaging`, `#india-research`
 
 ---
 
 <a id="item-15"></a>
-## [TSMC Posts Record $13.75B June Revenue, Begins N2 2nm High-Volume Manufacturing](https://www.techpowerup.com/350730/tsmc-achieves-record-usd-13-75-billion-revenue-in-june-2026) ⭐️ 6.5/10
+## [SLC NAND Prices Set to Surge 120–170% in 2H26: TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12765.html) ⭐️ 7.0/10
 
-TSMC reported a record monthly revenue of approximately $13.75 billion (442.68 billion NTD) in June 2026, marking a 67.9% year-over-year increase and a 6.2% month-over-month rise. The company also began high-volume manufacturing of its N2 (2nm) process in June, with AMD's EPYC 'Venice' confirmed as an early adopter alongside Apple's upcoming A20 and M6 SoCs. This milestone confirms the sustained AI-driven demand fueling the semiconductor industry and signals that the transition to 2nm is now commercially underway at the world's leading foundry. AMD displacing Apple as the first major adopter of a new TSMC node is a notable shift in the foundry's customer hierarchy, potentially reshaping competitive dynamics in server CPUs and AI accelerators. The N2 node is TSMC's first to adopt Gate-All-Around (GAAFET/nanosheet) transistor architecture, replacing the FinFET design used since the 16nm generation. AMD's EPYC Venice will pair the N2 compute die with CoWoS (Chip-on-Wafer-on-Substrate) advanced packaging—the same 2.5D packaging used by NVIDIA's H100/B200 and AMD's MI300/MI400 AI accelerators. H1 2026 cumulative revenue reached $74.66 billion, up 35.6% YoY, and Q2 2026 revenue rose 36% YoY to $39.6 billion.
+TrendForce's latest memory pricing survey forecasts that SLC NAND flash prices will rise by 120–170% in the second half of 2026, driven by niche application demand and the migration of mature-process capacity toward higher-value products. A price surge of this magnitude will significantly affect manufacturers of industrial, automotive, and embedded systems that rely on SLC NAND for its high endurance and reliability, potentially raising BOM costs and forcing redesigns toward pSLC or alternative memory technologies. The forecast hinges on two structural factors: persistent niche demand (e.g., industrial control, aerospace, medical devices) that cannot easily switch to MLC/TLC, and the industry-wide shift of mature NAND fab capacity toward higher-density, higher-margin products like 3D TLC and QLC, squeezing SLC supply.
 
-rss · TechPowerUp News · Jul 13, 17:30
+rss · DRAMeXchange (TrendForce) · Jul 13, 15:16
 
-**Background**: TSMC is the world's largest contract semiconductor manufacturer (foundry), producing chips designed by companies like Apple, AMD, and NVIDIA rather than selling its own branded products. Process nodes like '2nm' (N2) refer to the manufacturing technology's minimum feature size—smaller nodes generally allow more transistors, better performance, and lower power consumption. The shift to 2nm marks a fundamental architectural change: TSMC's N2 is the company's first node to use Gate-All-Around (GAA) nanosheet transistors, which provide superior electrostatic control over the channel compared to the FinFET transistors used from 16nm through 3nm. CoWoS is TSMC's advanced 2.5D packaging technology that integrates multiple chiplets onto a silicon interposer, essential for high-bandwidth AI accelerators.
+**Background**: NAND flash memory stores data as electrical charges in floating-gate transistors, and is categorized by how many bits each cell holds: SLC (Single-Level Cell) stores 1 bit, MLC stores 2 bits, TLC stores 3 bits, and QLC stores 4 bits. SLC offers the highest endurance (typically ~100,000 P/E cycles), fastest write performance, and longest data retention, making it ideal for mission-critical and write-intensive applications, though at a premium cost per gigabyte. As the industry has shifted toward higher-density cell types to lower cost-per-bit, dedicated SLC wafer capacity has shrunk, and remaining supply is increasingly tied to legacy mature process nodes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm">2nm Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
-<li><a href="https://semiwiki.com/wikis/industry-wikis/tsmc-n2-process-technology-wiki/">TSMC N2 Process Technology Wiki - SemiWiki</a></li>
-<li><a href="https://semiconductorx.com/packaging-cowos.html">CoWoS Advanced Packaging: Chip-on-Wafer-on-Substrate, TSMC 2 ...</a></li>
+<li><a href="https://www.flexxon.com/nand-flash-explained/">NAND Flash Explained: SLC, MLC, TLC, QLC, and pSLC for ...</a></li>
+<li><a href="https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand">2D vs 3D NAND: Differences Between SLC, MLC, TLC and QLC ...</a></li>
+<li><a href="https://storedbits.com/slc-mlc-tlc-qlc-and-plc/">SLC, MLC, TLC, QLC, and PLC: The Most Detailed Comparison</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#TSMC`, `#semiconductors`, `#AI infrastructure`, `#2nm`, `#financials`
+**Tags**: `#NAND`, `#memory-pricing`, `#semiconductor`, `#TrendForce`, `#market-forecast`
 
 ---
 
 <a id="item-16"></a>
-## [AMD FSR Multi-Frame Generation with Up to 8x Mode in Development](https://www.techpowerup.com/350704/amd-fsr-multi-frame-generation-with-up-to-8x-mode-in-development) ⭐️ 6.5/10
+## [Bosch begins SiC IC sample production on 200mm wafers at first US fab](https://www.electronicsweekly.com/news/business/bosch-starts-semiconductor-production-in-us-2026-07/) ⭐️ 7.0/10
 
-Third-party tool RadeonTuner has discovered placeholder support for AMD's upcoming Multi-Frame Generation (MFG) technology hidden inside the latest Radeon drivers, with options ranging from 1x to 8x frame generation modes. Early tests on an RX 9060 XT confirmed the feature is currently non-functional, as AMD has not yet shipped the underlying model needed to power it. This is AMD's direct response to NVIDIA's DLSS 4 Multi Frame Generation, and if shipped, it could significantly narrow the upscaling-and-frame-generation gap between Radeon and GeForce GPUs. Up to 8x frame generation could deliver massive perceived frame-rate boosts, though it raises questions about latency and image quality at extreme settings. AMD frequently plants placeholder code for unreleased features well ahead of launch, and current attempts to enable MFG on games like Forza Horizon 6, Resident Evil 9, and Death Stranding 2 failed entirely. The RadeonTuner developer indicates the feature is likely months away from a functional release, and it is unclear whether an 8x mode will ever ship in its current placeholder form.
+Bosch has begun sample production of silicon carbide (SiC) integrated circuits on 200 mm wafers at its first U.S. semiconductor fab, following the finalization of a $225 million CHIPS Act subsidy agreement with the U.S. Department of Commerce. The move marks Bosch's first semiconductor manufacturing footprint in the U.S. and accelerates the industry-wide transition from silicon to SiC on 200 mm wafers, directly supported by federal reshoring policy aimed at strengthening domestic chip supply chains. Production uses 200 mm SiC wafers — a larger and more cost-efficient format compared with the legacy 150 mm standard pioneered by Wolfspeed and now adopted by Infineon and others — enabling higher throughput per wafer. The $225 million subsidy is part of the CHIPS and Science Act, which appropriated $39 billion for semiconductor manufacturing incentives, with Commerce issuing its first CHIPS awards in late 2024.
 
-rss · TechPowerUp News · Jul 13, 06:00
+rss · Electronics Weekly · Jul 14, 05:28
 
-**Background**: FSR (FidelityFX Super Resolution) is AMD's spatial and temporal upscaling suite, competing with NVIDIA's DLSS; both can generate extra frames between natively rendered ones to boost perceived smoothness. NVIDIA's DLSS 4 introduced Multi Frame Generation, which can synthesize up to three additional frames per rendered frame (4x total). Frame generation works by interpolating motion vectors between frames, but generated frames add latency and can introduce artifacts, which is why aggressive modes like 8x are technically ambitious and controversial. RadeonTuner is a lightweight open-source utility that exposes hidden or advanced Radeon driver settings normally only accessible through AMD's full Adrenalin software suite.
+**Background**: Silicon carbide is a wide-bandgap semiconductor valued for its ability to operate at high temperatures (above 300 °C), high voltages, and in harsh environments — making it ideal for electric-vehicle power electronics, industrial drives, and aerospace applications. The CHIPS and Science Act, signed in August 2022, was designed to reduce U.S. dependence on Asian fabs by funding domestic semiconductor construction. Moving from 150 mm to 200 mm SiC wafers is the industry's key scaling step, similar to silicon's historical transition to larger wafer sizes, because it dramatically increases the number of die produced per wafer and lowers per-unit cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/350704/amd-fsr-multi-frame-generation-with-up-to-8x-mode-in-development">AMD FSR Multi-Frame Generation With Up to 8x Mode in ...</a></li>
-<li><a href="https://wccftech.com/amd-radeon-drivers-hid-multi-frame-generation-mfg-8x-ray-regeneration-neural-radiance-overrides-hinting-at-a-bigger-fsr-push/">AMD Radeon Drivers Silently Add Multi Frame Generation “MFG ...</a></li>
-<li><a href="https://github.com/dumbie/RadeonTuner">GitHub - dumbie/RadeonTuner: RadeonTuner is an easy to use ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CHIPS_and_Science_Act">CHIPS and Science Act - Wikipedia</a></li>
+<li><a href="https://www.wolfspeed.com/company/news-events/news/wolfspeed-announces-the-commercial-launch-of-200mm-silicon-carbide-materials-portfolio-unlocking-the-industrys-ability-to-manufacture-at-scale/">Wolfspeed Announces the Commercial Launch of 200mm Silicon ...</a></li>
+<li><a href="https://www.infineon.com/press-release/2025/infxx202502-055">Infineon reaches next milestone on 200 mm silicon carbide ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#FSR`, `#GPU`, `#frame-generation`, `#Radeon`
+**Tags**: `#semiconductors`, `#silicon-carbide`, `#CHIPS-Act`, `#manufacturing`, `#Bosch`
 
 ---
 
 <a id="item-17"></a>
-## [Tesla AI5 Chip Tapes Out at Samsung Foundry on 2nm-Class Node](https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out) ⭐️ 6.5/10
+## [YMTC SSDs Debut in German Lenovo ThinkBook Laptops](https://www.techpowerup.com/350515/ymtc-ssds-ship-with-german-lenovo-laptops-for-the-first-time) ⭐️ 6.5/10
 
-Tesla's next-generation AI5 processor has taped out at Samsung Foundry on a 2nm-class process node, months after reaching the same milestone at TSMC. Samsung's production of the chip is set to begin soon, making it the second foundry partner manufacturing the AI5. This dual-foundry strategy signals Tesla's effort to diversify its semiconductor supply chain across the world's two leading-edge manufacturers for its most critical AI silicon. Qualifying the same design at both TSMC and Samsung reduces supply risk and gives Tesla leverage in pricing and capacity negotiations amid intense demand for 2nm-class capacity. Both foundries are using 2nm-class nodes — TSMC's N2 technology entered volume production in Q4 2025, while Samsung's second-generation 2nm (SF2P) process is ramping in 2026. The AI5 is expected to power Tesla's Full Self-Driving (FSD) and other AI workloads, tying manufacturing capacity directly to the company's autonomy roadmap.
+Lenovo has begun shipping its German-market ThinkBook 14 G9 laptops equipped with SSDs manufactured by Chinese NAND Flash maker YMTC, marking the first time YMTC NAND Flash has appeared in a laptop sold outside mainland China. Lenovo clarified that only German SKUs receive the YMTC SSD, while US configurations continue with non-YMTC storage. This signals the entry of a major Chinese NAND Flash manufacturer into Western OEM supply chains at a time of severe global NAND shortages, potentially easing pricing pressure and diversifying the supply chain dominated by Samsung, SK hynix, Micron, and Kioxia. It also mirrors the earlier inclusion of CXMT DRAM in Lenovo laptops, suggesting a broader pattern of Chinese memory makers expanding into global markets. The ThinkBook 14 G9 uses a 512 GB NVMe PCIe 4.0 M.2 2242 SSD with sequential read speeds of 3,950 MB/s and write speeds of 2,514 MB/s — below average for an office laptop but adequate for daily use. YMTC's Xtacking 4.0 technology enables volume production of 1 TB TLC and 2 TB QLC modules with industry-leading bit density.
 
-rss · Tom's Hardware · Jul 13, 17:59
+rss · TechPowerUp News · Jul 14, 12:46
 
-**Background**: "Tape-out" is the milestone at which a chip's design is finalized and handed off to a fabrication plant for physical manufacturing; changes after this point become extremely costly and time-consuming. A 2nm-class node refers to the most advanced generation of semiconductor manufacturing processes, which employ Gate-All-Around (GAA) nanosheet transistors to improve performance and power efficiency. TSMC and Samsung Foundry are the world's two leading contract chipmakers, and Tesla's decision to qualify its AI5 at both reflects a broader industry trend of dual-sourcing advanced designs to hedge against geopolitical and supply risks.
+**Background**: YMTC (Yangtze Memory Technologies Co.) is a major Chinese NAND Flash manufacturer whose proprietary Xtacking architecture places peripheral circuits above the array chip to achieve higher bit density in 3D NAND. TLC (Triple-Level Cell) NAND stores three bits per cell, offering a balance of performance, endurance, and cost, while QLC (Quad-Level Cell) stores four bits per cell for higher capacity at the cost of lower endurance. CXMT (ChangXin Memory Technologies) is another Chinese memory company specializing in DRAM, which had previously supplied Lenovo laptops but only for the Chinese domestic market. The global NAND market has faced significant shortages in 2025–2026, driving SSD prices sharply upward and creating an opening for new suppliers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm">2nm Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
-<li><a href="https://blog.carnex.ca/tesla-nears-final-design-of-its-ai5-chip-what-it-means-for-the-future-of-fsd-and-used-tesla-owners-in-canada/">Tesla Nears Final Design of Its AI5 Chip — What It Means for the...</a></li>
+<li><a href="https://www.ymtc.com/en/technicalintroduction.html">About Xtacking®-YMTC</a></li>
+<li><a href="https://www.ibm.com/think/insights/qlc-vs-tlc">QLC vs. TLC | IBM</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages">Chinese memory maker CXMT enters mainstream consumer memory ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#tesla`, `#samsung-foundry`, `#tsmc`, `#chip-manufacturing`
+**Tags**: `#hardware`, `#storage`, `#supply-chain`, `#YMTC`, `#Lenovo`
 
 ---
 
 <a id="item-18"></a>
-## [Apple's M7 Ultra Rumored with 1.5TB Memory and Blackwell-Class AI](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai) ⭐️ 6.5/10
+## [Intel invests $5.7 billion in Ireland fab — aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process](https://www.tomshardware.com/pc-components/cpus/intel-invests-usd5-7-billion-in-ireland-fab-aims-to-boost-output-of-xeon-6-next-gen-xeon-products-built-on-intel-3-process) ⭐️ 6.5/10
 
-According to Bloomberg's Mark Gurman, Apple's M7 Ultra chip, planned for 2028, is being designed to support up to 1.5TB of unified memory and deliver AI performance competitive with Nvidia's Blackwell accelerators. The chip is intended for the Mac Studio, and its release depends on global memory supply conditions easing. If realized, the M7 Ultra would triple Apple's current maximum unified memory capacity (from 512GB in the M3 Ultra) and position Apple Silicon as a credible contender in high-end AI workloads currently dominated by Nvidia's data-center GPUs. This signals Apple's ambition to capture local AI development and inference markets where large memory capacity is the primary bottleneck for running large language models. Apple has reportedly scrapped the M6 Pro and M6 Max variants entirely, jumping straight to the M7 series, with the base M7 expected in early 2027 on Intel's 18A-P node — Apple's first Intel-manufactured silicon design. The 1.5TB figure represents the chip's maximum capability rather than a confirmed retail configuration, and the 2028 timeline could slip if the ongoing memory shortage persists.
+Intel is investing $5.7 billion to modernize its Ireland semiconductor fab, aiming to expand output of Xeon 6 and next-generation Xeon processors built on the Intel 3 process.
 
-rss · Tom's Hardware · Jul 13, 12:02
+rss · Tom's Hardware · Jul 14, 13:09
 
-**Background**: Apple Silicon is Apple's family of custom ARM-based processors used across Mac computers, featuring a unified memory architecture (UMA) that allows the CPU, GPU, and Neural Engine to share a single memory pool for faster data access. The M-series uses a tiered naming scheme — base, Pro, Max, and Ultra — where the Ultra variant represents the highest-end configuration typically deployed in Mac Studio and Mac Pro workstations. Nvidia's Blackwell architecture is the company's latest data-center GPU platform engineered for generative AI training and inference, and it currently sets the performance benchmark for high-end AI acceleration that the M7 Ultra reportedly aims to approach.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://9to5mac.com/2026/07/12/m7-ultra-mac-studio-to-support-up-to-1-5-tb-unified-memory/">M7 Ultra to potentially feature up to 1.5TB of RAM, finally ...</a></li>
-<li><a href="https://zeerawireless.com/blogs/news/mac-studio-m7-ultra-2028-release-specs-1-5tb-memory">Mac Studio M7 Ultra Rumors: 1.5TB Memory, 2028 Release and Specs</a></li>
-<li><a href="https://www.nvidia.com/en-sg/data-center/technologies/blackwell-architecture/">NVIDIA Blackwell : GPU Architecture for Generative AI & HPC | NVIDIA</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple Silicon`, `#M7 Ultra`, `#AI Hardware`, `#Nvidia Blackwell`, `#Semiconductors`
+**Tags**: `#Intel`, `#semiconductor`, `#manufacturing`, `#Xeon`, `#Intel-3-process`
 
 ---
 
 <a id="item-19"></a>
-## [ASRock Rack Builds Edge Server on NVIDIA Thor Industrial SoC](https://www.servethehome.com/asrock-rack-built-an-edge-server-based-on-nvidias-thor-industrial-soc/) ⭐️ 6.5/10
+## [Enthusiast creates open-source 'OpenPuck' firmware for Steam Controller 2](https://www.tomshardware.com/peripherals/controllers-gamepads/enthusiast-reverse-engineers-steam-controller-2-puck-creates-diy-openpuck-that-works-without-steam-input-custom-firmware-can-emulate-nintendo-playstation-and-xbox-controllers) ⭐️ 6.5/10
 
-ASRock Rack has introduced the 2UXGI-THOR, a 2U edge server built around NVIDIA's Blackwell-era Thor industrial SoC, a chip originally designed for automotive applications. The system is aimed at industrial and medical market segments rather than the robotics or autonomous-vehicle use cases NVIDIA typically targets with Thor. This product signals cross-pollination between NVIDIA's embedded/automotive silicon and traditional server form factors, potentially broadening the addressable market for Thor beyond automotive OEMs. Edge deployments in industrial and medical settings often demand compact, ruggedized compute with high AI throughput, which Thor's 2070 FP4 TFLOPS capability could uniquely address. The system uses a 2U rackmount form factor, suggesting it is intended for on-premise or ruggedized deployments rather than in-vehicle integration. Thor belongs to NVIDIA's Blackwell architecture generation, the same family behind the RTX 50-series GPUs and GB200 data-center chips, giving it modern AI inference capabilities despite its industrial positioning.
+An enthusiast has reverse-engineered the Steam Controller 2's proprietary wireless puck and released 'OpenPuck,' an open-source firmware that can be flashed onto a microcontroller to build a DIY Steam Controller puck capable of natively emulating Xbox, PlayStation, and Nintendo Switch controllers without requiring Steam Input. This project breaks Valve's dependency on its proprietary hardware and Steam Input middleware, giving users greater freedom to use the Steam Controller natively across different platforms and ecosystems. It exemplifies how the open-source community can dismantle vendor lock-in and extend hardware interoperability for niche peripherals. The OpenPuck firmware can reportedly be set up on a compatible microcontroller in minutes. The original Steam Controller (2026) puck operates on 2.4GHz wireless with Valve claiming around 8ms latency and supports up to four controllers per puck, while the Bluetooth fallback introduces substantially higher latency.
 
-rss · ServeTheHome · Jul 13, 20:00
+rss · Tom's Hardware · Jul 14, 10:30
 
-**Background**: NVIDIA's Thor SoC is part of the company's embedded systems lineup, with the Jetson Thor AGX Developer Kit delivering 2070 FP4 TFLOPS for humanoids and physical AI applications such as robotics. Edge computing refers to processing data closer to where it is generated rather than in centralized cloud data centers, reducing latency and bandwidth requirements—qualities especially valuable in industrial automation and medical imaging. The Blackwell architecture, announced by NVIDIA in 2024 and expanded with Blackwell Ultra at GTC 2025, underpins a new generation of GPUs and accelerators across consumer, data-center, and now embedded segments.
+**Background**: The Steam Controller (2026) is Valve's successor to the original Steam Controller and connects to PCs via a proprietary 2.4GHz wireless USB-C 'puck' that doubles as a magnetic charging dock. Steam Input is Valve's software layer that enables controller remapping and configuration within the Steam ecosystem, supporting a wide range of controllers including Xbox, PlayStation, and Switch Pro. The 2026 revision also introduces soldered TMR (Tunneling Magnetoresistance) sticks for improved durability. Normally, using a Steam Controller outside of Steam or across other platforms requires Steam Input to act as a translation layer between the controller and the target software.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.nvidia.com/downloads/assets/embedded/secure/jetson/thor/docs/thor-soc-trm_dp-11881-002.pdf">NVIDIA Thor Series System-on-Chip</a></li>
-<li><a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/">Jetson Thor | Advanced AI for Physical Robotics | NVIDIA</a></li>
-<li><a href="https://contabo.com/blog/edge-computing-explained/">Edge Computing Explained : What It Is and Why It... | Contabo Blog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Steam_Controller_(2026)">Steam Controller (2026) - Wikipedia</a></li>
+<li><a href="https://www.hlplanet.com/steam-controller-2026/">Steam Controller 2 has soldered TMR sticks this time</a></li>
+<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3172761874">How to rebind keys for controllers - Steam Community :: Guide</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#ASRock Rack`, `#edge computing`, `#Thor SoC`, `#hardware`
+**Tags**: `#reverse-engineering`, `#open-source`, `#firmware`, `#gaming-peripherals`, `#diy-hardware`
 
 ---
 
 <a id="item-20"></a>
-## [字节探索自动驾驶，Seed世界模型团队负责｜36氪独家](https://36kr.com/p/3893815451417347?f=rss) ⭐️ 6.3/10
+## [人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线](https://36kr.com/p/3893976502287618?f=rss) ⭐️ 6.3/10
 
-ByteDance is reportedly exploring autonomous driving through its Seed team's world model group, potentially leveraging world model technology for unmanned logistics, despite the company denying smart driving business plans.
+Humanoid robotics company LimX Dynamics (逐际动力) completed a ~$200M Pre-IPO round at a 15 billion yuan valuation, with funds dedicated to advancing its three-layer embodied AI architecture (motion foundation model, VLA/WAM capabilities, and COSA agent OS) and scaling deployment of thousands of autonomous humanoid robots.
 
-rss · 36氪 · Jul 13, 08:34
+rss · 36氪 · Jul 14, 00:46
 
-**Tags**: `#ByteDance`, `#autonomous-driving`, `#world-models`, `#physical-AI`, `#industry-news`
+**Tags**: `#humanoid-robotics`, `#embodied-ai`, `#funding`, `#pre-IPO`, `#LimX-Dynamics`
 
 ---
