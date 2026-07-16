@@ -5,281 +5,312 @@ date: 2026-07-16
 lang: en
 ---
 
-> From 114 items, 20 important content pieces were selected
+> From 106 items, 20 important content pieces were selected
 
 ---
 
-1. [Intel First to Ship High-Volume Logic Chips Using ASML High NA EUV on 18A](#item-1) ⭐️ 9.5/10
-2. [CXMT close to matching Micron's memory capacity in 2026, research claims — would put China on track to become world's second-largest DRAM producer](#item-2) ⭐️ 8.5/10
-3. [ASML Q2 2026 Earnings Beat Guidance on Strong Service Revenue](#item-3) ⭐️ 7.5/10
-4. [Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative](#item-4) ⭐️ 7.5/10
-5. [独家｜面壁智能端侧大模型将搭载三星手机上市](#item-5) ⭐️ 7.3/10
-6. [Alipay Redesigns for the AI Era with Conversational Assistant 'ABao'](#item-6) ⭐️ 7.3/10
-7. [Inkling: Our Open-Weights Model](#item-7) ⭐️ 7.0/10
-8. [xAI Open-Sources Grok Build CLI with Novel Technical Components](#item-8) ⭐️ 7.0/10
-9. [Stripe and Advent Offer Over $53B to Acquire PayPal](#item-9) ⭐️ 7.0/10
-10. [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](#item-10) ⭐️ 7.0/10
-11. [Mysteries of Telegram Data Centers (2022)](#item-11) ⭐️ 7.0/10
-12. [TYLsemi De-Risks Chiplets With New Business Model](#item-12) ⭐️ 7.0/10
-13. [Probabilistic Computing Hardware Deployed at Boeing and CERN](#item-13) ⭐️ 7.0/10
-14. [UMC Begins Mass Production of Silicon Photonic ICs in Singapore](#item-14) ⭐️ 7.0/10
+1. [TSMC Pledges Extra $100B for Arizona 2nm Fabs After Record Quarter](#item-1) ⭐️ 9.5/10
+2. [Intel First to Ship High-Volume Logic Chips Using ASML's High NA EUV](#item-2) ⭐️ 9.5/10
+3. [Nvidia and Japan Unveil World's First National AI Infrastructure](#item-3) ⭐️ 8.5/10
+4. [Tower Semiconductor Announces $3B Japan Expansion for SiPho and SiGe](#item-4) ⭐️ 8.0/10
+5. [Imec and Diraq demonstrate coherent 8-qubit silicon spin array on 300mm CMOS](#item-5) ⭐️ 8.0/10
+6. [NVIDIA Launches Jetson Thor T3000 and T2000 for Mainstream Robotics](#item-6) ⭐️ 7.5/10
+7. [Scientists Synchronize 105,000 Nano-Oscillators in 45 Nanoseconds](#item-7) ⭐️ 7.5/10
+8. [DeepSeek's Valuation Surges to ~$48B Amid New Funding Round](#item-8) ⭐️ 7.3/10
+9. [欧盟要求谷歌开放安卓AI功能及搜索数据](#item-9) ⭐️ 7.3/10
+10. [Inkling: Our Open-Weights Model](#item-10) ⭐️ 7.0/10
+11. [xAI Open-Sources Grok Build Coding Agent Harness](#item-11) ⭐️ 7.0/10
+12. [AI Data Centers Drive Silicon Photonics to 300-mm Scale](#item-12) ⭐️ 7.0/10
+13. [China startup claims world’s first 2D semiconductor pilot line](#item-13) ⭐️ 7.0/10
+14. [Musk secretly bought APR Energy for ~$1B to power xAI](#item-14) ⭐️ 6.5/10
 15. [Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'](#item-15) ⭐️ 6.5/10
-16. [Asus Claims CXMT DDR5 Underperforms SK hynix Dies in Early Tests](#item-16) ⭐️ 6.5/10
-17. [Silicon Motion Confirms PCIe Gen7 SSD Controller Development Underway](#item-17) ⭐️ 6.5/10
-18. [Intel Commits $5.7B to Ireland Fab 34 After Cancelling German and Polish Projects](#item-18) ⭐️ 6.5/10
-19. [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](#item-19) ⭐️ 6.3/10
-20. [Proposal: Add Rust-Style Editions to SQLite](#item-20) ⭐️ 6.0/10
+16. [CXMT's DDR5 Trails SK Hynix in Performance and Overclocking](#item-16) ⭐️ 6.5/10
+17. [中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite](#item-17) ⭐️ 6.3/10
+18. [大厂医疗AI战，开始“卷”减重](#item-18) ⭐️ 6.3/10
+19. [硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段](#item-19) ⭐️ 6.3/10
+20. [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](#item-20) ⭐️ 6.3/10
 
 ---
 
 <a id="item-1"></a>
-## [Intel First to Ship High-Volume Logic Chips Using ASML High NA EUV on 18A](https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners) ⭐️ 9.5/10
+## [TSMC Pledges Extra $100B for Arizona 2nm Fabs After Record Quarter](https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs) ⭐️ 9.5/10
 
-Intel has become the first company to deploy ASML's High NA EUV scanners (0.55 NA EXE systems) in high-volume logic chip production, using them to pattern select layers of its Panther Lake processors (Intel Core Ultra Series 3) built on the Intel 18A process node. These Panther Lake layers are now dual-qualified for the new 0.55 NA tools, marking the technology's transition from R&D into commercial manufacturing. High NA EUV has been in development for years as the next major leap in lithography, and Intel's milestone represents the first real proof that the technology is economically and technically viable for high-volume manufacturing. This milestone reshapes the trajectory of semiconductor scaling, potentially enabling finer feature sizes, fewer multi-patterning steps, and paving the way for sub-2nm and beyond — affecting the entire semiconductor supply chain from foundries to chip designers. The key technical advance is an increase in numerical aperture (NA) from 0.33 in ASML's NXE systems to 0.55 in the new EXE systems, enabling finer resolution and more precise patterning. High NA EUV sources are also expected to require at least 500W of optical power compared to ~250W for standard EUV. Only select layers of Panther Lake are dual-qualified for High NA, meaning Intel is using High NA alongside conventional 0.33 NA EUV tools for the same chip, gaining real-world production data rather than committing all layers to the new technology.
+TSMC has committed an additional $100 billion to build at least four more 2nm fabs and advanced packaging facilities in Arizona, bringing its total Arizona investment to roughly $265 billion. The announcement followed record Q2 2026 results, with revenue of $40.20 billion (up 33.7% YoY) and net income of approximately $22 billion (up 77% YoY), pushing 2026 capex projections toward $64 billion. This is one of the largest foreign direct investments in U.S. history and a major step toward reshoring leading-edge chip manufacturing, reducing American dependence on Taiwanese fabs for the most advanced nodes. It reshapes the geopolitical and economic calculus around AI-era supply chains, benefiting U.S. tech firms and defense customers while signaling TSMC's deepening commitment despite its primary operations remaining in Taiwan. Of the $100 billion, approximately $30 billion is expected to come from TSMC's supply chain partners, multiplying the ecosystem impact. TSMC's Q2 wafer revenue mix shows 2nm at 3%, 3nm at 30%, 5nm at 33%, and 7nm at 11%, with advanced technologies (7nm and below) accounting for 77% of total wafer revenue. The expansion is supported by a 900-acre land purchase in January across the highway from the existing Phoenix campus.
 
-rss · Tom's Hardware · Jul 15, 15:33
+rss · Tom's Hardware · Jul 16, 12:10
 
-**Background**: Lithography is the process of using light to pattern the tiny circuits on silicon wafers, and the wavelength of that light determines how small the features can be. Extreme Ultraviolet (EUV) lithography, which uses a 13.5nm wavelength, was a breakthrough that entered high-volume production around 2018–2019 and enabled 7nm and 5nm nodes. High NA EUV is the next generation, increasing the numerical aperture — a measure of how much light the optics can collect and focus — from 0.33 to 0.55, allowing even finer patterns to be printed in a single exposure. ASML is the only company in the world that builds these advanced EUV scanners, making it a critical chokepoint for the entire semiconductor industry.
+**Background**: TSMC is the world's largest contract chipmaker, and its process nodes—measured in nanometers—indicate the transistor density and generation of manufacturing technology. The 2nm node, which uses Gate-All-Around (GAA) nanosheet transistors, represents the current cutting edge, succeeding 3nm and 5nm generations that dominate today's high-end AI and mobile chips. Advanced packaging technologies like CoWoS (Chip-on-Wafer-on-Substrate) are essential for assembling these leading-edge logic dies with high-bandwidth memory into integrated AI accelerators. A semiconductor fab is an extremely capital-intensive facility, with modern leading-edge fabs costing tens of billions of dollars to build, including over $45 billion for TSMC's 2nm fab.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.asml.com/en/news/stories/2024/5-things-high-na-euv">5 things you should know about High NA EUV lithography - ASML</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://semiwiki.com/wikis/industry-wikis/high-na-euv-lithography-wiki/">High-NA EUV Lithography Wiki - SemiWiki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/TSMC_Arizona">TSMC Arizona - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant">Semiconductor fabrication plant - Wikipedia</a></li>
+<li><a href="https://semiconductorx.com/packaging-cowos.html">CoWoS Advanced Packaging: Chip-on-Wafer-on-Substrate, TSMC 2 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#lithography`, `#Intel`, `#ASML`, `#High-NA-EUV`
+**Tags**: `#semiconductors`, `#TSMC`, `#chip-manufacturing`, `#2nm`, `#geopolitics`
 
 ---
 
 <a id="item-2"></a>
-## [CXMT close to matching Micron's memory capacity in 2026, research claims — would put China on track to become world's second-largest DRAM producer](https://www.tomshardware.com/pc-components/dram/cxmt-close-to-matching-microns-memory-capacity-in-2026-research-claims-would-put-china-on-track-to-become-worlds-second-largest-dram-producer) ⭐️ 8.5/10
+## [Intel First to Ship High-Volume Logic Chips Using ASML's High NA EUV](https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners) ⭐️ 9.5/10
 
-Research claims CXMT is on track to match Micron's DRAM capacity by 2026, potentially making China the world's second-largest DRAM producer after South Korea.
+Intel has become the first company to use ASML's High NA EUV (0.55 NA) scanners in high-volume logic chip production, dual-qualifying select layers of its Panther Lake processors on the Intel 18A node for the new lithography tools. This milestone validates a lithography technology that has been in development for years and represents a major shift in advanced-node manufacturing, giving Intel a first-mover advantage over TSMC and Samsung, which are still evaluating High NA adoption. It also signals that EUV scaling has reached a new practical threshold, potentially reshaping cost and efficiency dynamics across the semiconductor industry. High NA EUV raises the numerical aperture from the standard 0.33 to 0.55, enabling finer circuit patterning; each ASML EXE:5200 system costs approximately $400 million and can reduce critical-layer costs by 20–40%. Panther Lake is the first client SoC built on Intel 18A, which combines RibbonFET gate-all-around transistors with PowerVia backside power delivery.
 
-rss · Tom's Hardware · Jul 15, 09:48
+rss · Tom's Hardware · Jul 15, 15:33
 
-**Tags**: `#DRAM`, `#semiconductors`, `#CXMT`, `#memory-market`, `#China-tech`
+**Background**: Standard EUV lithography (0.33 NA) has been used in volume chip manufacturing since around 2019, but as transistor dimensions continue to shrink, the industry has been pushing toward higher numerical apertures to print smaller features without resorting to multi-patterning. ASML's High NA EUV platform, centered on the EXE:5200 tool, is the successor technology designed to address this scaling challenge. Intel 18A is an angstrom-class node (1.8 nm-class) and Intel's first to combine RibbonFET (a gate-all-around transistor architecture replacing FinFET) with PowerVia, the industry's first backside power delivery network in high-volume production.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://yaabot.com/41801/asml-high-na-euv-chips/">High - NA EUV : Inside ASML 's $400M Chip Machine - Yaabot</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-18a-process-technology-wiki/">Intel 18A Process Technology Wiki - SemiWiki</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#intel`, `#ASML`, `#EUV-lithography`, `#manufacturing`
 
 ---
 
 <a id="item-3"></a>
-## [ASML Q2 2026 Earnings Beat Guidance on Strong Service Revenue](https://www.techpowerup.com/350782/asml-reports-eur-9-3-billion-total-net-sales-and-eur-2-9-billion-net-income-in-q2-2026) ⭐️ 7.5/10
+## [Nvidia and Japan Unveil World's First National AI Infrastructure](https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus) ⭐️ 8.5/10
 
-ASML reported Q2 2026 total net sales of €9.3 billion with a 54.0% gross margin and €2.9 billion net income, both exceeding guidance primarily due to higher-than-expected Installed Base Management (IBM) sales. The company raised its full-year 2026 sales outlook to €43–45 billion (up from prior guidance) and forecast Q3 sales of €11.0–12.0 billion at a 55–57% gross margin. ASML is the world's sole supplier of EUV lithography systems, which are indispensable for manufacturing advanced chips at 7nm and below, making its results a leading indicator for the entire semiconductor industry. Beating guidance and raising the full-year outlook signals robust demand for leading-edge production capacity, with ripple effects across foundries (TSMC, Samsung, Intel), memory makers, and the broader chip supply chain. The beat was driven by the Installed Base Management segment, which covers upgrades, maintenance, and services for the thousands of lithography systems already in operation at fabs worldwide—a recurring, high-margin revenue stream. Q3 guidance implies a sequential acceleration, and the raised full-year range of €43–45 billion represents a meaningful upward revision from ASML's prior outlook, reinforcing confidence in the AI-driven semiconductor capex cycle.
+Nvidia announced a partnership with Japan's Noetra consortium to build a 140-megawatt AI factory equipped with 27,500 next-generation Rubin GPUs and 13,750 Vera CPUs, billed as the world's first national-scale AI infrastructure. This partnership marks a significant step toward AI sovereignty for Japan, reducing dependence on US and Chinese AI infrastructure while positioning the country as a major AI compute hub in Asia. It signals a broader geopolitical trend of nations building dedicated, large-scale AI factories to power sovereign foundation models and industry-specific AI deployments. The Rubin GPU architecture features 336 billion transistors and 224 Streaming Multiprocessors with fifth-generation Tensor Cores optimized for NVFP4 and FP8 precision, while the Vera CPU integrates 88 custom Olympus cores with 1.2 TB/s memory bandwidth. The Noetra consortium is backed by SoftBank, Sony, NEC, Honda, and AIST, and ties into Japan's broader plan to deploy 10 million AI robots across 18 sectors by 2040 with roughly $6.1 billion in government funding.
 
-rss · TechPowerUp News · Jul 15, 10:32
+rss · Tom's Hardware · Jul 16, 13:43
 
-**Background**: EUV (Extreme Ultraviolet) lithography uses 13.5nm wavelength light to pattern circuit features smaller than 12nm on silicon wafers, enabling the most advanced logic and memory chips. ASML holds a global monopoly on production-grade EUV systems, with each machine costing over $200 million and requiring years of lead time to build. Its Installed Base Management (IBM) business—which includes field upgrades (e.g., retrofitting older machines with new optics or higher NA apertures), service contracts, and spare parts—has become an increasingly important profit driver as the installed fleet of EUV and DUV systems grows at customer fabs like TSMC, Samsung, Intel, SK Hynix, and Rapidus in Japan.
+**Background**: An AI factory refers to a large-scale, dedicated data center optimized specifically for training and running AI models, as opposed to traditional cloud computing facilities. Nvidia's Rubin is the successor to the Blackwell GPU architecture and was unveiled at GTC 2025, while Vera is Nvidia's first data-center CPU designed for the agentic AI era. Noetra is a Japanese government-backed consortium formed to develop sovereign AI capabilities, competing with US and Chinese AI ecosystems amid growing concerns about technological self-reliance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nasdaq.com/articles/asmls-installed-base-management-business-picks-whats-driving-it">ASML's Installed Base Management Business Picks Up ... - Nasdaq</a></li>
-<li><a href="https://research.ibm.com/blog/what-is-euv-lithography">What is EUV lithography? - IBM Research</a></li>
-<li><a href="https://www.rapidus.inc/en/tech/te0005/">What is EUV lithography? How this cutting-edge technology is powering Rapidus’ next-gen semiconductor advancements | Rapidus Corporation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rubin_(microarchitecture)">Rubin (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://developer.nvidia.com/blog/nvidia-vera-cpu-delivers-high-performance-bandwidth-and-efficiency-for-ai-factories/">NVIDIA Vera CPU Delivers High Performance, Bandwidth, and ...</a></li>
+<li><a href="https://asiatimes.com/2026/07/japan-rallies-tech-giant-alliance-to-build-sovereign-ai/">Japan rallies tech-giant alliance to build sovereign AI - Asia Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ASML`, `#semiconductor`, `#EUV lithography`, `#earnings report`, `#chip manufacturing`
+**Tags**: `#Nvidia`, `#AI infrastructure`, `#Rubin GPU`, `#Japan`, `#national AI strategy`
 
 ---
 
 <a id="item-4"></a>
-## [Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative](https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative) ⭐️ 7.5/10
+## [Tower Semiconductor Announces $3B Japan Expansion for SiPho and SiGe](https://www.electronicsweekly.com/news/business/towers-3bn-expansion-in-japan-2026-07/) ⭐️ 8.0/10
 
-Google has reportedly chosen Intel's EMIB-T advanced packaging over TSMC's CoWoS-L for its next-generation TPU (codenamed Humufish), highlighting Intel's emerging alternative as AI chip designers seek to diversify away from constrained CoWoS capacity.
+Tower Semiconductor, the Israeli-based foundry, has announced a $3 billion investment to expand its silicon photonics (SiPho), silicon-germanium (SiGe), and advanced packaging manufacturing capacity in Japan, with $1 billion of the funding provided by the Japanese government. This expansion is strategically significant as silicon photonics is increasingly critical for AI and data-center interconnects, while the Japanese government backing reflects Tokyo's push to rebuild its domestic semiconductor manufacturing ecosystem and reduce reliance on foreign foundries. The investment covers three specialized technology areas — SiPho for optical data communication, SiGe for high-speed RF and heterojunction bipolar transistors, and advanced packaging — areas where Tower differentiates itself from leading-edge logic foundries. Approximately one-third of the total funding comes from Japanese government subsidies, underscoring the policy priority placed on this build-out.
 
-rss · Tom's Hardware · Jul 15, 14:45
+rss · Electronics Weekly · Jul 16, 05:25
 
-**Tags**: `#semiconductors`, `#Intel`, `#TSMC`, `#advanced-packaging`, `#TPU`
-
----
-
-<a id="item-5"></a>
-## [独家｜面壁智能端侧大模型将搭载三星手机上市](https://36kr.com/p/3896830362601351?f=rss) ⭐️ 7.3/10
-
-Chinese edge-AI startup ModelBest partners with Samsung to ship its MiniCPM on-device models on flagship phones, coinciding with regulatory approval of 7 mobile AI services and Alibaba's Qwen integration into Apple Intelligence—marking edge AI's transition from concept to scaled commercialization.
-
-rss · 36氪 · Jul 15, 11:47
-
-**Tags**: `#edge AI`, `#on-device LLM`, `#ModelBest`, `#Samsung`, `#mobile AI`
-
----
-
-<a id="item-6"></a>
-## [Alipay Redesigns for the AI Era with Conversational Assistant 'ABao'](https://36kr.com/p/3896720584738435?f=rss) ⭐️ 7.3/10
-
-Alipay has completed its largest redesign in 22 years, launching an AI-powered assistant called 'ABao' (阿宝) that replaces the app's traditional grid of mini-programs with a conversational interface. Simultaneously, WeChat Pay deployed an 'AI Exclusive Card' within Tencent's WorkBuddy agent platform, marking the start of an industry-wide race among payment platforms to integrate AI agents. This represents a fundamental paradigm shift in payment UX: from 'use-and-leave' utility tools to conversational entry points that own the pre-purchase decision. Whoever wins the AI payment interface will control not just transactions but the entire consumer decision journey, a far larger value pool than processing fees alone. Alipay's AI strategy began in H2 2023 with smart voice assistants before launching the 'Bao Plan' for end-level architectural reconstruction; the new interface already activates 72 high-frequency skills covering bill queries, payments, government services, and travel, and the architecture is open to third-party services via MCP/skill protocols to reach Alipay's 1 billion users. Alipay also upgraded its 'Tap-to-Pay' (碰一下) offline network of 30 million merchant touchpoints into an AI-enabled commerce network run by a merchant agent named 'Xiaoyu' (晓雨).
-
-rss · 36氪 · Jul 15, 09:50
-
-**Background**: 过去十年，中国移动支付应用（以支付宝和微信支付为主）的核心设计目标是'高效、无感、用完即走'，停留时间越短说明体验越好。如今智能体商务（agentic commerce）趋势正在颠覆这一模型——AI助手可以代替用户搜索、推荐并完成购买，海外已有OpenAI在ChatGPT中推出Instant Checkout（直接对话内购物）以及UCP（Universal Commerce Protocol，通用商务协议）等行业标准。在中国，两大平台生态结构差异显著：支付宝内嵌100万级小程序和8000多种原生服务（适合做强AI入口），而微信的服务则分散在第三方小程序和视频号中（适合做标准化的支付能力开放）。
+**Background**: Tower Semiconductor is a foundry (contract chipmaker) that specializes in analog, RF, and specialty semiconductor processes rather than competing in cutting-edge logic nodes. Silicon photonics integrates optical components onto silicon chips, enabling faster and more energy-efficient data transmission, which is increasingly important for AI workloads and data-center scaling. SiGe (silicon-germanium) is a semiconductor alloy widely used in high-frequency RF applications and heterojunction bipolar transistors (HBTs). The foundry model, pioneered by TSMC, separates chip design from manufacturing, allowing fabless companies to outsource production to specialists like Tower.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://abit.ee/en/artificial-intelligence/tencent-workbuddy-wechat-ai-agent-openclaw-tencent-cloud-2026-ai-office-automation-en">Tencent launches WorkBuddy AI agent with direct WeChat integration</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_commerce">Agentic commerce - Wikipedia</a></li>
-<li><a href="https://www.payplug.com/blog/agentic-payment/">Agentic payment: when AI buys on behalf of consumers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Foundry_model">Foundry model - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#payment-industry`, `#Alipay`, `#product-design`, `#conversational-AI`
+**Tags**: `#semiconductors`, `#silicon-photonics`, `#foundry`, `#Japan`, `#manufacturing-investment`
+
+---
+
+<a id="item-5"></a>
+## [Imec and Diraq demonstrate coherent 8-qubit silicon spin array on 300mm CMOS](https://www.electronicsweekly.com/news/business/imec-and-diraq-demo-eight-qubit-array-2026-07/) ⭐️ 8.0/10
+
+On July 13, 2026, Imec and Diraq announced the demonstration of coherent operation and readout of an eight-qubit silicon MOS spin-qubit array designed and fabricated on Imec's 300mm CMOS-compatible spin-qubit process. The results were published in Nature Communications, showing pairwise coherent control and readout of a linear eight-qubit array in a foundry-fabricated silicon platform. Although eight qubits is a modest scale compared to superconducting or trapped-ion systems, the significance lies in the 300mm CMOS-compatible fabrication route, which could eventually allow quantum processors to be manufactured using the same infrastructure as classical chips. This partnership validates a scalable industrial pathway for silicon spin-qubit quantum computing, a critical milestone toward utility-scale systems with millions of qubits. The array uses metal-oxide-semiconductor (MOS) spin qubits in silicon, leveraging hole spins that can be manipulated via electric field-mediated voltage pulses on gate electrodes — a mechanism that simplifies control infrastructure compared to magnetic-spin approaches. The 300mm process is the standard wafer size used in advanced semiconductor foundries, giving Diraq and Imec a clear path from research-scale demonstration to high-volume manufacturing.
+
+rss · Electronics Weekly · Jul 16, 05:24
+
+**Background**: Silicon spin qubits encode quantum information in the spin state of individual electrons (or holes) trapped in quantum dots, which are nanoscale structures that behave like artificial atoms. Unlike superconducting qubits, which require specialized fabs, silicon spin qubits can in principle be manufactured on the same CMOS processes used for everyday computer chips, offering a potential scaling advantage. Diraq is an Australian startup spun out of the University of New South Wales that aims to build fault-tolerant quantum computers using modified silicon transistors, targeting millions of qubits on a single chip. Imec, based in Belgium, is a leading semiconductor R&D hub that operates advanced 300mm pilot lines and has been developing silicon quantum-dot process modules for several years.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.imec-int.com/en/press/imec-and-diraq-demonstrate-first-coherent-operation-eight-silicon-mos-spin-qubits-fabricated">Imec and Diraq demonstrate first coherent operation of eight ...</a></li>
+<li><a href="https://www.nature.com/articles/s41467-026-74597-6">Eight-qubit operation of a 300 mm SiMOS foundry-fabricated ...</a></li>
+<li><a href="https://www.diraq.com/">Silicon-Based Quantum Computing - Diraq</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#quantum-computing`, `#silicon-spin-qubits`, `#CMOS`, `#semiconductor`, `#Imec`
+
+---
+
+<a id="item-6"></a>
+## [NVIDIA Launches Jetson Thor T3000 and T2000 for Mainstream Robotics](https://www.techpowerup.com/350803/nvidia-introduces-new-jetson-thor-computers-to-advance-mainstream-robotics-and-edge-ai) ⭐️ 7.5/10
+
+NVIDIA introduced the Jetson T3000 and T2000 modules, along with the IGX T3000 industrial variant, based on its Thor architecture. The T3000 delivers up to 865 FP4 TeraFLOPS of AI compute in roughly half the size and power envelope of the T5000, and is already being adopted by 1X, Agile Robots, Amazon Robotics, Boston Dynamics, FANUC, Hitachi, and Techman Robot. These smaller, more cost-efficient modules lower the barrier to deploying foundation models — including LLMs, vision-language models, and world foundation models — directly on robots and edge devices, accelerating the shift of humanoid and autonomous machines from research labs to mass-market deployment. The T3000 pairs a Blackwell GPU with an 8-core Arm Neoverse CPU, 32 GB of LPDDR5X memory at 273 GB/s bandwidth, and 25 GbE networking; the IGX T3000 adds integrated functional safety via NVIDIA Halos for Robotics. According to NVIDIA, the T3000 achieves similar inference performance to the larger T5000 for multimodal workloads, which is particularly valuable given current high memory prices.
+
+rss · TechPowerUp News · Jul 16, 06:44
+
+**Background**: Edge AI refers to running AI models directly on local devices rather than in the cloud, enabling real-time processing with low latency — critical for robots that must perceive and act autonomously. Foundation models such as LLMs and vision-language-action models are increasingly being adapted for these edge platforms. FP4 (4-bit floating point) is a low-precision numeric format optimized for AI inference on NVIDIA Blackwell GPUs, trading a small amount of numerical precision for dramatically higher throughput and energy efficiency. The Jetson Thor family, introduced in prior generations, is NVIDIA's flagship edge-AI compute platform for robotics.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/">NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI | NVIDIA Blog</a></li>
+<li><a href="https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/">NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications - CNX Software</a></li>
+<li><a href="https://connecttech.com/jetson-t3000-t2000-launch/">NVIDIA's New Jetson T3000 Delivers Similar Inference Performance of the T5000 Module. In This Memory Market, That Is the Whole Story. - Connect Tech Inc.</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#Jetson Thor`, `#edge AI`, `#robotics`, `#humanoid robots`
 
 ---
 
 <a id="item-7"></a>
-## [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) ⭐️ 7.0/10
+## [Scientists Synchronize 105,000 Nano-Oscillators in 45 Nanoseconds](https://www.tomshardware.com/tech-industry/big-tech/scientists-synchronize-105-000-nano-oscillators-in-just-45-nanoseconds-paving-the-way-for-a-highly-efficient-and-fast-alternative-to-transistors) ⭐️ 7.5/10
 
-Thinking Machines releases Inkling, an open-weights multimodal model with audio support that can be fine-tuned on their Tinker platform.
+Researchers from the University of Gothenburg, IIT Bhubaneswar, and Tohoku University successfully synchronized a network of over 105,000 spin Hall nano-oscillators (10–20 nm wide) within just 45 nanoseconds. The breakthrough, published in Nature Nanotechnology, demonstrates that ultra-large spintronic networks can operate coherently and scale far beyond previous demonstrations. This result represents a major step toward using coupled nano-oscillator networks as an energy-efficient alternative to traditional transistors for computation, potentially enabling novel computing paradigms such as neuromorphic or oscillatory computing. Scaling synchronization to hundreds of thousands of devices has long been a key obstacle for the practical viability of such architectures. The oscillators used are spin Hall nano-oscillators, nanoscale spintronic devices that convert spin currents from the spin Hall effect into microwave-frequency oscillations. Synchronization was achieved spontaneously with very low energy consumption, though the work remains a laboratory demonstration and significant engineering challenges remain before commercial transistor-replacement chips can be realized.
 
-hackernews · vimarsh6739 · Jul 15, 18:12 · [Discussion](https://news.ycombinator.com/item?id=48924912)
+rss · Tom's Hardware · Jul 16, 10:30
 
-**Tags**: `#open-weights`, `#multimodal-ai`, `#thinking-machines`, `#fine-tuning`, `#ai-infrastructure`
+**Background**: Nano-oscillators are tiny devices that generate periodic electrical or magnetic signals at high frequencies. Spin Hall nano-oscillators in particular leverage the spin Hall effect — a phenomenon where an electric current passing through certain materials produces a spin current that can drive magnetic oscillations. When multiple oscillators are coupled together, they can synchronize their phases, a behavior analogous to pendulum clocks ticking in unison. This synchronization is essential for using oscillator arrays in computing, because coherent phase relationships allow information to be encoded and processed collectively rather than via individual on/off switching as in conventional CMOS transistors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41565-026-02216-y">Nanosecond phase ordering in ultra-large spin Hall nano ...</a></li>
+<li><a href="https://www.business-standard.com/india-news/iit-bhubaneswar-largest-synchronised-nano-oscillator-network-126071400161_1.html">Scientists synchronise 105,000 nano-oscillators in computing ...</a></li>
+<li><a href="https://www.kavlifoundation.org/news/synchronized-nanoscale-oscillators-may-spur-new-devices-0">Synchronized Nanoscale Oscillators May Spur... | Kavli Foundation</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#nano-oscillators`, `#hardware`, `#computing`, `#transistor-alternative`, `#synchronization`
 
 ---
 
 <a id="item-8"></a>
-## [xAI Open-Sources Grok Build CLI with Novel Technical Components](https://github.com/xai-org/grok-build) ⭐️ 7.0/10
+## [DeepSeek's Valuation Surges to ~$48B Amid New Funding Round](https://36kr.com/newsflashes/3898295917578112?f=rss) ⭐️ 7.3/10
 
-xAI has open-sourced its Grok Build CLI on GitHub, revealing a self-contained Unicode-based terminal renderer for Mermaid diagrams that uses Unicode box-drawing characters. The codebase has already inspired community forks, including privacy-focused variants that rebrand the tool, strip vendor telemetry, and block x.ai auto-updates. This open-sourcing move by a major AI lab introduces genuinely innovative tooling artifacts into the developer ecosystem and provides transparency into xAI's coding agent architecture. It also represents a strategic effort to rehabilitate the Grok brand following public backlash over user data exfiltration. The standout technical artifact is a terminal renderer that supports a subset of Mermaid chart types using Unicode box-drawing characters, eliminating dependency on external rendering. Privacy-focused forks like 'dgrok' already build from source instead of x.ai CDN and offer opt-out-only data retention configurations.
+An investment progress announcement from Kairun Co. (开润股份) inadvertently disclosed that DeepSeek's valuation has climbed to approximately 351 billion yuan (~$48B) following its latest funding round. Sources close to DeepSeek confirmed that a second funding round has already been launched, though whether the company will pursue a STAR Market IPO by year-end remains undecided. This valuation places DeepSeek among the most highly valued AI companies globally, signaling strong investor confidence in China's homegrown AI capabilities. The rapid succession of funding rounds and potential STAR Market listing reflect how Chinese AI startups are increasingly competitive on the world stage, particularly after DeepSeek R1 captured global attention earlier this year. The valuation figure was indirectly revealed through Kairun Co.'s public investment announcement, not through DeepSeek itself. The ~351 billion yuan valuation was calculated from the announcement data, and a STAR Market listing would mark DeepSeek's transition from private AI startup to a publicly traded company on China's tech-focused exchange.
 
-hackernews · skp1995 · Jul 15, 20:24 · [Discussion](https://news.ycombinator.com/item?id=48926590)
+rss · 36氪 · Jul 16, 12:31
 
-**Background**: Grok Build is xAI's terminal-based coding agent CLI, powered by Grok 4.5, designed for complex coding workflows with features like multi-agent architecture and Plan Mode. Mermaid is an open-source markdown-like scripting language for generating diagrams from text, typically rendered via JavaScript in browsers. Terminal rendering of diagrams using Unicode box-drawing characters is an emerging technique that allows developers to visualize charts directly in the command line without graphical interfaces.
+**Background**: DeepSeek (杭州深度求索人工智能基础技术研究有限公司) is a Chinese AI company based in Hangzhou that develops large language models (LLMs). It gained worldwide attention in January 2025 after releasing DeepSeek R1, a powerful reasoning model that topped app download charts and triggered a sell-off in US tech stocks. The STAR Market (科创板), launched in June 2019 on the Shanghai Stock Exchange, is China's dedicated board for technology and innovation-focused companies, providing an alternative listing venue with more flexible requirements than the main board.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://x.ai/cli">Grok Build | SpaceXAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
+<li><a href="https://www.bbc.com/news/articles/c5yv5976z9po">What is DeepSeek - and why is everyone talking about it ?</a></li>
+<li><a href="https://www.bastillepost.com/global/article/6008639-chinas-star-composite-index-closes-higher-tuesday-5">China's STAR Composite Index closes higher Tuesday</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#DeepSeek`, `#AI`, `#valuation`, `#funding`, `#China-tech`
+
+---
+
+<a id="item-9"></a>
+## [欧盟要求谷歌开放安卓AI功能及搜索数据](https://36kr.com/newsflashes/3898270285235845?f=rss) ⭐️ 7.3/10
+
+EU Commission issues binding DMA measures requiring Google to open Android system functions to third-party AI assistants and share anonymized search data with competing search engines and AI chatbots.
+
+rss · 36氪 · Jul 16, 12:30
+
+**Tags**: `#EU regulation`, `#DMA`, `#Google`, `#Android`, `#AI competition`
+
+---
+
+<a id="item-10"></a>
+## [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) ⭐️ 7.0/10
+
+Thinking Machines releases Inkling, a multimodal open-weights model with audio support, designed as a customizable base model fine-tunable via their Tinker platform.
+
+hackernews · vimarsh6739 · Jul 15, 18:12 · [Discussion](https://news.ycombinator.com/item?id=48924912)
+
+**Tags**: `#open-source`, `#multimodal`, `#audio`, `#fine-tuning`, `#Thinking Machines`
+
+---
+
+<a id="item-11"></a>
+## [xAI Open-Sources Grok Build Coding Agent Harness](https://github.com/xai-org/grok-build) ⭐️ 7.0/10
+
+xAI has open-sourced Grok Build, its terminal-based AI coding agent, releasing the full source code on GitHub under the xai-org/grok-build repository. The release includes the core agent loop, code interaction tools, the terminal UI, and the complete extension system. This open-source release is a strategic move by xAI, a trailing player in the AI coding assistant space, to differentiate itself and rebuild trust after privacy controversies. The move benefits developers who can now audit, fork, and customize the tool, while also pressuring market leaders like Anthropic and OpenAI. Among the surprising technical details is a self-contained terminal renderer for Mermaid diagrams that uses Unicode box-drawing characters, a lightweight implementation that avoids heavy dependencies. Several community forks have already emerged, including 'gork-build' (a privacy-focused rebrand with telemetry stripped) and 'dgrok' (a multi-provider CLI that builds from source instead of x.ai CDN).
+
+hackernews · skp1995 · Jul 15, 20:24 · [Discussion](https://news.ycombinator.com/item?id=48926590)
+
+**Background**: Grok Build is a full-screen terminal user interface (TUI) AI coding agent that understands codebases, edits files, executes shell commands, searches the web, and manages long-running tasks. It can run interactively, headlessly for scripting/CI, or be embedded in editors via the Agent Client Protocol (ACP). Mermaid is a popular diagramming syntax that typically renders to SVG in web browsers, making a terminal-based Unicode renderer a notable engineering achievement for displaying charts in text-only environments.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/xai-org/grok-build">GitHub - xai-org/grok-build: SpaceXAI's coding agent harness ...</a></li>
+<li><a href="https://www.basenor.com/blogs/news/grok-build-is-now-open-source-what-you-need-to-know">Grok Build Is Now Open-Source: What You Need to Know</a></li>
 <li><a href="https://docs.x.ai/build/overview">Grok Build | SpaceXAI Docs</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is mixed: developers are impressed by the novel technical components like the Mermaid terminal renderer, but many view the open-sourcing as a tactical PR move to rebuild trust after the data exfiltration controversy. Several commenters noted that the underlying Grok model is technically strong but the brand is tainted by association with Musk, and privacy-focused forks like 'gork' and 'dgrok' have already emerged.
+**Discussion**: The community response has been highly engaged with diverse perspectives. Some praise xAI's 'trailing player strategy' of open-sourcing competitors' moats as beneficial for the ecosystem, while others note it's a tactical necessity given xAI's small market share and data exfiltration scandal. Developers have already built privacy-focused forks stripping vendor telemetry and implementing opt-out data retention, drawing comparisons to the VSCodium model.
 
-**Tags**: `#xai`, `#open-source`, `#ai-tooling`, `#privacy`, `#developer-tools`
-
----
-
-<a id="item-9"></a>
-## [Stripe and Advent Offer Over $53B to Acquire PayPal](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) ⭐️ 7.0/10
-
-Stripe and private equity firm Advent International have made a joint offer to acquire PayPal for more than $53 billion, according to sources reported by Reuters on July 15, 2026. If approved, the deal would consolidate Stripe, PayPal, Venmo, Braintree, and Xoom under a single umbrella, creating a dominant force in online payment processing and raising serious antitrust concerns about market concentration that would affect merchants, developers, and consumers worldwide. The Herfindahl-Hirschman Index (HHI) for online card-not-present (CNP) checkout would become extremely high under this combination, and regulators may require divestitures of overlapping units such as Venmo or Braintree to clear antitrust review.
-
-hackernews · rvz · Jul 15, 03:32 · [Discussion](https://news.ycombinator.com/item?id=48915953)
-
-**Background**: Stripe is a leading online payment processing platform widely used by internet businesses and developers for card-not-present transactions. PayPal is one of the oldest online payment platforms, operating PayPal itself, Venmo (peer-to-peer payments), Braintree (a payment gateway competing directly with Stripe), and Xoom (international money transfers). The Herfindahl-Hirschman Index (HHI) is a standard measure of market concentration used by antitrust regulators, with values above 2,500 indicating a highly concentrated market. Advent International is a global private equity firm that invests in large-scale acquisitions across various sectors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/List_of_private_equity_firms">List of private equity firms - Wikipedia</a></li>
-<li><a href="https://corporatefinanceinstitute.com/resources/valuation/ma-acquisition-deal-structure/">M&A Deal Structure - Learn About How to Structure a Deal</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members expressed significant concerns: one commenter warned about absurdly high HHI concentration and likely required divestitures of Venmo and Braintree; another worried that eliminating Braintree as a Stripe competitor could lead to fee increases. Others noted that Stripe's stricter content policies (blocking cannabis and adult-adjacent businesses) contrast with PayPal's more permissive approach, potentially harming vendors. Some long-time PayPal users welcomed the potential change, while others argued that the future lies in direct app-to-app or bank-to-retailer payment systems that bypass intermediaries entirely.
-
-**Tags**: `#fintech`, `#payments`, `#M&A`, `#antitrust`, `#stripe`, `#paypal`
-
----
-
-<a id="item-10"></a>
-## [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) ⭐️ 7.0/10
-
-Demonstration of running Gemma 4 26B at 5 tokens/sec on a 13-year-old dual Xeon without a GPU, sparking valuable discussion about local inference economics versus cloud APIs.
-
-hackernews · neomindryan · Jul 15, 15:34 · [Discussion](https://news.ycombinator.com/item?id=48922434)
-
-**Tags**: `#llm-inference`, `#cpu-optimization`, `#local-ai`, `#hardware-efficiency`, `#cost-analysis`
-
----
-
-<a id="item-11"></a>
-## [Mysteries of Telegram Data Centers (2022)](https://dev.moe/en/3025) ⭐️ 7.0/10
-
-Technical analysis of Telegram's custom data center infrastructure architecture and its operational quirks.
-
-hackernews · theanonymousone · Jul 15, 13:22 · [Discussion](https://news.ycombinator.com/item?id=48920475)
-
-**Tags**: `#telegram`, `#infrastructure`, `#systems-architecture`, `#distributed-systems`, `#security`
+**Tags**: `#open-source`, `#xai`, `#grok`, `#AI-tools`, `#developer-tools`
 
 ---
 
 <a id="item-12"></a>
-## [TYLsemi De-Risks Chiplets With New Business Model](https://www.eetimes.com/tyl-semi-de-risks-chiplets-with-new-business-model/) ⭐️ 7.0/10
+## [AI Data Centers Drive Silicon Photonics to 300-mm Scale](https://www.eetimes.com/ai-data-centers-push-silicon-photonics-toward-300-mm-scale/) ⭐️ 7.0/10
 
-Startup TYLsemi has introduced a new business model that takes on the development risk of large chiplet-based chips, bridging the gap between ASIC houses and design service providers for AI infrastructure customers. As AI workloads drive demand for increasingly complex and expensive chip designs, the financial and technical risk of developing large chiplet-based systems can deter many companies from pursuing custom silicon. By absorbing that development risk, TYLsemi could lower the barrier for AI infrastructure players to access advanced chiplet designs without full in-house investment. The available content snippet is brief and lacks deeper technical details such as TYLsemi's specific design methodology, supported process nodes, packaging partners, or pricing structure. The company's positioning suggests a hybrid model that sits between full ASIC vendors and traditional chip design service firms, but specifics on its risk-sharing terms remain undisclosed.
+AI data centers are accelerating the shift from copper interconnects to silicon photonics, with ST pushing 300-mm wafer-scale production to deliver faster and denser optical links. As AI workloads demand exponentially higher bandwidth between chips and servers, copper interconnects are approaching their physical limits in speed, distance, and energy efficiency. Scaling silicon photonics to 300-mm wafers could unlock the throughput, cost efficiency, and manufacturing volume needed for next-generation AI infrastructure. The move from 200-mm to 300-mm wafers increases chips-per-wafer throughput but introduces thermal, mechanical, and defect-sensitivity challenges that require new fab equipment and process controls. Silicon photonics integrates waveguides, modulators, and detectors directly onto silicon using standard CMOS-compatible processes, enabling optical data transmission at terabit-per-second speeds.
 
-rss · EE Times · Jul 15, 19:00
+rss · EE Times · Jul 16, 14:00
 
-**Background**: Chiplets are small, modular semiconductor dies, each designed to perform specific functions such as compute, memory, I/O, or acceleration, offering modularity and flexibility compared to monolithic SoCs that integrate all functions on a single die. An ASIC (application-specific integrated circuit) is a chip customized for a particular use rather than general-purpose computing, and semiconductor companies can pursue either an ASIC model or a COT (customer-owned tooling) model when developing them. Design houses serve as bridges between fabless companies, which handle chip design, and foundries, which handle manufacturing, often providing turnkey design services. TYLsemi appears to be carving out a niche in this design-house ecosystem specifically for large chiplet-based chips targeting AI infrastructure.
+**Background**: Silicon photonics is a technology that uses silicon as an optical medium, patterned at sub-micrometer precision to create microphotonic components that transmit data using light rather than electrical signals. AI data centers require massive data movement between thousands of GPUs and servers, where copper cables face growing limitations in bandwidth density, power consumption, and reach. The 300-mm wafer standard, now dominant in advanced semiconductor fabs, enables greater economies of scale compared to the older 200-mm format. The industry-wide transition from copper to optical interconnects is being driven by the need for terabit-per-second data rates to keep pace with AI compute demands.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/from-socs-chiplets-new-era-semiconductor-innovation-vlsifreshers-jmadc">From SoCs to Chiplets : A New Era in Semiconductor Innovation</a></li>
-<li><a href="https://anysilicon.com/asic-model-vs-cot-model/">ASIC Model vs. COT Model - AnySilicon</a></li>
-<li><a href="https://www.synopsys.com/blogs/chip-design/semiconductor-ip-companies-offer-asic-like-services.html">How Semiconductor IP Companies Offer ASIC-Like Design ... ASIC Design House Services - TES Electronic Solutions Unlocking the Chip Universe: The ASIC Gold Rush, From an Idea ... Semiconductor Business Models - Fab, Foundry, IDM, Fabless & OSAT Application-specific integrated circuit - Wikipedia The semiconductor ecosystem | Samsung Semiconductor Global</a></li>
+<li><a href="https://blog.st.com/data-silicon-photonics-ai/">Light into data: How silicon photonics is powering the AI data center...</a></li>
+<li><a href="https://www.waferworld.com/post/200-mm-vs-300-mm-vs-450-mm-wafers-which-size-fits-your-process">200 mm vs 300 mm vs 450 mm Wafers : Which Size Fits Your Process?</a></li>
+<li><a href="https://medium.com/@HitachiVentures/scaling-for-the-future-of-compute-data-interconnects-in-the-ai-era-1dd60476d07a">Scaling for the Future of Compute: Data Interconnects in ... | Medium</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#chiplets`, `#semiconductors`, `#AI-infrastructure`, `#startup`, `#ASIC-design`
+**Tags**: `#silicon-photonics`, `#AI-infrastructure`, `#data-centers`, `#semiconductor-manufacturing`, `#optical-interconnects`
 
 ---
 
 <a id="item-13"></a>
-## [Probabilistic Computing Hardware Deployed at Boeing and CERN](https://www.eetimes.com/probabilistic-computing-is-already-here-here-is-how-it-works/) ⭐️ 7.0/10
+## [China startup claims world’s first 2D semiconductor pilot line](https://www.electronicsweekly.com/news/business/china-startup-clains-worlds-first-2d-semiconductor-pilot-line-2026-07/) ⭐️ 7.0/10
 
-EE Times reports that probabilistic computing hardware, specifically distribution-extended (UxHw) computing developed by Signaloid, is being deployed at Boeing and CERN to accelerate Monte Carlo simulations that traditionally bottleneck conventional processors. Monte Carlo simulations are fundamental to aerospace engineering, particle physics, finance, and machine learning, yet they are notoriously slow on deterministic CPUs and GPUs. Dedicated probabilistic hardware that natively operates on probability distributions could dramatically reduce energy consumption and runtime, reshaping how computationally intensive uncertainty quantification is performed. UxHw hardware represents values as arbitrary non-uniform probability distributions rather than single deterministic numbers, allowing it to perform computations directly on this digital probabilistic form without major software rewrites. Signaloid claims speedups of up to 1000x per core compared to existing high-end processors, and the two main probabilistic computing approaches are thermodynamic computing and distribution-extended (UxHw) computing.
+Shanghai-based startup Yuanjiwei claims to have established the world's first pilot production line for 2D semiconductors, marking a potential milestone in next-generation chip manufacturing.
 
-rss · EE Times · Jul 15, 07:21
+rss · Electronics Weekly · Jul 16, 05:28
 
-**Background**: Monte Carlo methods are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results, commonly used for simulating physical systems, assessing risk, and training certain machine learning models. Probabilistic computing is a paradigm that builds randomness and uncertainty directly into the hardware, rather than emulating it through software. Distribution-extended computing (UxHw) is one branch of this paradigm, alongside thermodynamic computing which uses physical noise processes such as p-bits to sample from probability distributions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.eetimes.com/probabilistic-computing-is-already-here-here-is-how-it-works/">Probabilistic Computing Is Already Here; Here Is How It Works</a></li>
-<li><a href="https://signaloid.com/">Signaloid: The Future of Computing for Probabilistic Workloads</a></li>
-<li><a href="https://signaloid.com/press/signaloid-to-preview-new-asic-at-bosch-connected-world">Signaloid to preview new ASIC and demo of its UxHw ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#probabilistic-computing`, `#hardware`, `#monte-carlo`, `#emerging-tech`, `#high-performance-computing`
+**Tags**: `#semiconductors`, `#2D-materials`, `#manufacturing`, `#China-tech`, `#hardware`
 
 ---
 
 <a id="item-14"></a>
-## [UMC Begins Mass Production of Silicon Photonic ICs in Singapore](https://www.electronicsweekly.com/news/business/umc-ships-sipho-2026-07/) ⭐️ 7.0/10
+## [Musk secretly bought APR Energy for ~$1B to power xAI](https://www.tomshardware.com/tech-industry/data-centers/elon-musk-spent-estimated-usd1-billion-on-an-energy-company-to-power-xai-filings-reveal-apr-energy-owns-a-fleet-of-trailer-mounted-gas-and-diesel-turbines-capable-of-generating-more-than-1-gigawatt) ⭐️ 6.5/10
 
-UMC and SILITH Technology have completed the first mass-production wafer delivery of photonic integrated circuits (PICs) from UMC's 12-inch fabrication facility in Singapore. This marks a key milestone in industrializing silicon photonics manufacturing for high-volume commercial deployment. This milestone signals that foundry-level silicon photonics manufacturing is maturing, which is critical for meeting surging demand from AI and data center infrastructure that requires 800G and 1.6T optical interconnects. By combining SILITH's photonic chip designs with UMC's established 12-inch CMOS-compatible fabrication processes, the partnership could help lower costs and accelerate adoption of photonic integration in mainstream high-speed connectivity applications. The PICs are produced on UMC's 12-inch (300mm) wafer line in Singapore, which leverages existing semiconductor manufacturing infrastructure for silicon photonics — a key advantage for scaling. SILITH is a fabless silicon photonics design house founded in 2021 and based in Singapore, specializing in high-performance photonic chips for next-generation high-speed interconnects.
+FTC filings revealed that Elon Musk quietly acquired APR Energy, a mobile natural gas and diesel turbine provider, for an estimated $1 billion. APR Energy's fleet of trailer-mounted turbines is capable of generating more than 1 gigawatt of electricity, intended to power xAI's AI data centers. This acquisition exposes the staggering energy demands of frontier AI infrastructure and illustrates Musk's vertical integration strategy—combining AI labs, data centers, and now power generation under one umbrella. With xAI planning gigawatt-scale data centers like Colossus 2, securing dedicated mobile power capacity signals a new era where AI companies must directly control energy supply rather than rely solely on the grid. APR Energy specializes in temporary and mobile power solutions using gas turbines and reciprocating engines that can be rapidly deployed and brought online. xAI's existing Colossus 1 datacenter in Memphis already consumes 150 MW at full capacity, and the company is expanding with Colossus 2—described as the world's first gigawatt-scale datacenter—backed by a $5 billion debt raise and $5 billion equity investment arranged by Morgan Stanley.
 
-rss · Electronics Weekly · Jul 15, 05:25
+rss · Tom's Hardware · Jul 16, 12:45
 
-**Background**: Silicon photonics is a technology that integrates optical (photonic) components with electronic circuits on a single silicon chip, using light (photons) to transmit data instead of or alongside electrical signals. Compared to traditional electrical interconnects, silicon photonics offers significantly higher bandwidth, lower latency, and better power efficiency, making it especially attractive for data centers and AI infrastructure where massive data movement between servers, storage, and networking equipment is a bottleneck. Photonic integrated circuits (PICs) contain two or more photonic components that detect, generate, transport, and process light on a single chip, analogous to how electronic ICs integrate transistors.
+**Background**: Mobile gas turbines differ from grid-scale power plants in that they are housed in trailers and can be rapidly transported to sites needing immediate power, making them useful for bridging power gaps or supporting remote operations. xAI, founded by Elon Musk in 2023, competes with OpenAI, Anthropic, and Google in building large language models and operates one of the largest AI training clusters in the world. The acquisition reflects a growing industry trend where AI companies are bypassing traditional utilities to secure dedicated energy infrastructure due to the extreme power requirements of training and running large-scale AI models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://picmagazine.net/article/124697/SILITH_UMC_reach_PIC_milestone">SILITH , UMC reach PIC milestone - Photonic Integrated Circuits News</a></li>
-<li><a href="https://www.silith.com/about.html">SILITH TECHNOLOGY</a></li>
-<li><a href="https://www.ariat-tech.com/blog/A-Guide-to-Silicon-Photonics-and-How-It-Works.html">A Guide to Silicon Photonics and How It Works</a></li>
+<li><a href="https://interestingengineering.com/energy/elon-musk-apr-energy-xais-power">Elon Musk acquires US firm that operates mobile gas , diesel turbines</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/xais-colossus-2-first-gigawatt-datacenter">xAI's Colossus 2 - First Gigawatt Datacenter In The World ...</a></li>
+<li><a href="https://datacentremagazine.com/news/how-xai-is-boosting-its-global-data-centre-activity">How xAI is Boosting its Global Data Centre Activity</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#silicon-photonics`, `#semiconductor-manufacturing`, `#UMC`, `#foundry`, `#photonics`
+**Tags**: `#xAI`, `#AI infrastructure`, `#data centers`, `#energy`, `#Elon Musk`
 
 ---
 
 <a id="item-15"></a>
 ## [Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact) ⭐️ 6.5/10
 
-Nvidia CEO Jensen Huang commits to large-scale production of Vera Rubin-based systems while sidestepping questions about rumored delays to Kyber NVL144 rack systems from 2027 to 2028.
+Nvidia CEO Jensen Huang pledges 'giant amounts' of Vera Rubin-based machines will be delivered on schedule, though the company sidesteps rumors of Kyber NVL144 rack delays from 2027 to 2028.
 
 rss · Tom's Hardware · Jul 15, 19:07
 
@@ -288,100 +319,67 @@ rss · Tom's Hardware · Jul 15, 19:07
 ---
 
 <a id="item-16"></a>
-## [Asus Claims CXMT DDR5 Underperforms SK hynix Dies in Early Tests](https://www.tomshardware.com/pc-components/ddr5/cxmts-ddr5-ram-isnt-as-performant-or-as-consistent-as-sk-hynix-dies-early-testing-shows-reveals-resistance-to-voltage-scaling-and-inferior-manual-overclocking-capabilities) ⭐️ 6.5/10
+## [CXMT's DDR5 Trails SK Hynix in Performance and Overclocking](https://www.tomshardware.com/pc-components/ddr5/cxmts-ddr5-ram-isnt-as-performant-or-as-consistent-as-sk-hynix-dies-early-testing-shows-reveals-resistance-to-voltage-scaling-and-inferior-manual-overclocking-capabilities) ⭐️ 6.5/10
 
-Asus is claiming that DDR5 RAM manufactured by CXMT (ChangXin Memory Technologies) performs worse than SK hynix-made DDR5 at the same clock speeds, while also being harder to manually overclock, resistant to voltage scaling, and unable to have its subtimings properly tuned. CXMT is China's largest and most advanced DRAM maker and a strategic pillar of Beijing's semiconductor self-sufficiency drive amid US export controls. Performance gaps in its DDR5 products could slow China's progress toward competing in the global memory market and affect domestic enthusiasts who may receive CXMT dies in their memory kits. The findings originate from a single source (Asus) and represent early, marketing-adjacent testing rather than independent third-party benchmarks, which limits confidence in the conclusions. CXMT officially advertises its DDR5 chips at speeds up to 8000Mbps with 16Gb and 24Gb die capacities, while reducing power consumption by roughly 20% versus DDR4.
+Early testing indicates that CXMT-manufactured DDR5 RAM delivers lower performance and consistency than SK hynix dies at equivalent clock speeds, while also proving more resistant to voltage scaling and harder to manually overclock. Testers additionally reported that CXMT memory does not scale properly with increased voltage and offers limited tuning of subtimings. As CXMT is currently China's only large-scale producer of modern DDR5, LPDDR5, and LPDDR5X memory, the quality of its dies directly impacts the competitiveness of Chinese memory against established players like SK hynix, Samsung, and Micron. Inferior overclocking headroom and voltage scaling could limit CXMT's appeal to enthusiasts and constrain the broader adoption of domestic Chinese DRAM in high-performance computing and gaming segments. Voltage scaling resistance means the memory chips do not benefit significantly from higher voltages, a key lever used in DDR5 overclocking to push frequencies higher or tighten timings. The inability to properly tune subtimings — the secondary timing parameters beyond the primary four (CL, tRCD, tRP, tRASP) — further limits fine-grained optimization that enthusiasts typically pursue on AMD EXPO or Intel XMP platforms.
 
 rss · Tom's Hardware · Jul 15, 16:34
 
-**Background**: DDR5 is the current-generation system memory standard, with JEDEC specifications starting at 4800 MT/s. Enthusiasts typically push beyond rated speeds using XMP (Intel) or EXPO (AMD) profiles, manually tuning voltage and subtimings to extract more performance. CXMT (ChangXin Memory Technologies), founded in 2016 with significant Chinese government backing, has progressed from DDR4 production to unveiling a full DDR5 and LPDDR5X product lineup. The global DRAM market has historically been dominated by three players—Samsung, SK hynix, and Micron—and any new entrant is benchmarked against these incumbents.
+**Background**: CXMT (ChangXin Memory Technologies) is China's largest DRAM manufacturer, currently producing DDR5 memory on its 16nm G4 process and shipping commercial DDR5-6000 kits. SK hynix is one of the three established global leaders in DRAM, known for high-quality memory dies that typically offer generous overclocking headroom. DDR5 memory differs from DDR4 by splitting each module into two independent 32-bit sub-channels, which changes how manual tuning is approached. Enthusiast memory tuning relies on both primary timings (CAS Latency, tRCD, tRP, tRAS) and a deeper set of secondary subtimings, accessible through technologies like AMD's EXPO ULL, to extract maximum performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cxmt.com/en/product.html">Products - CXMT</a></li>
-<li><a href="https://originalpricing.com/cxmt-ddr5-ram-price/">CXMT DDR5 RAM: Price, Full Lineup, History & Where to Buy</a></li>
-<li><a href="https://www.overclockers.com/ddr5-overclocking-guide/">DDR5 Overclocking Guide: Make it Faster - Overclockers How to Overclock DDR5 RAM - Tom's Hardware CXMT's DDR5 RAM isn't as performant or as consistent as SK ... GitHub - munder-sa/DDR5-OC-Guide what are max voltages on DDR5? : r/overclocking - Reddit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.guru3d.com/story/who-is-changxin-memory-technologies-cxmt-and-why-is-it-becoming-increasingly-important/">Who is ChangXin Memory Technologies ( CXMT ), and why is it...</a></li>
+<li><a href="https://overcentral.com/en/expo-ull-memory-subtiming-tuning-ddr5/">EXPO ULL Opens Memory Subtiming Tuning for DDR 5 Kits</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ddr5`, `#memory`, `#cxmt`, `#sk-hynix`, `#hardware`
+**Tags**: `#DDR5`, `#RAM`, `#CXMT`, `#SK Hynix`, `#hardware`
 
 ---
 
 <a id="item-17"></a>
-## [Silicon Motion Confirms PCIe Gen7 SSD Controller Development Underway](https://www.tomshardware.com/pc-components/ssds/pcie-gen7-development-has-already-started-says-silicon-motions-alex-chou-nvidias-storage-next-initiative-is-becoming-a-focal-point) ⭐️ 6.5/10
+## [中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite](https://36kr.com/p/3898151587890824?f=rss) ⭐️ 6.3/10
 
-Silicon Motion's Alex Chou confirmed that the company has begun developing PCIe Gen7 SSD controllers, marking an early industry milestone for the next storage interconnect standard. Silicon Motion, a relatively new entrant in the data center SSD market, is simultaneously ramping up shipments of its high-end PCIe 5.0 SSD controllers to cloud service providers and hyperscalers. PCIe Gen7 will double the bandwidth of PCIe Gen6, enabling dramatically faster data throughput that is critical for AI workloads and GPU-direct storage architectures. Silicon Motion's early development signals that storage vendors are preparing for the next wave of high-performance computing platforms expected around 2027–2028, aligning closely with Nvidia's Storage Next initiative that allows GPUs to access SSDs directly. The PCIe 7.0 specification was finalized in June 2025, delivering 128 GT/s per lane and up to 512 GB/s in an x16 configuration. Nvidia's Storage Next initiative calls on SSD vendors to engineer drives that GPUs can access directly, effectively extending GPU memory hierarchies; partners like KIOXIA have already launched products such as the GP Series with XL-FLASH storage-class memory for this purpose.
+AI filmmaking tools are enabling non-credentialed creators from grassroots backgrounds in China to produce viral short films and break into the film industry, challenging traditional gatekeeping by elite film schools.
 
-rss · Tom's Hardware · Jul 15, 14:09
+rss · 36氪 · Jul 16, 10:07
 
-**Background**: PCIe (Peripheral Component Interconnect Express) is the standard interface connecting SSDs, GPUs, and other devices to CPUs in modern computers. Each new PCIe generation doubles the per-lane data transfer rate; PCIe 5.0 currently offers 32 GT/s per lane and PCIe 6.0 doubled that to 64 GT/s. Hyperscalers are massive cloud infrastructure operators such as Google, Amazon, and Microsoft that run data centers at enormous scale. Nvidia's Storage Next initiative is a program that encourages SSD makers to design drives which GPUs can access directly, bypassing the CPU to reduce latency and extend usable GPU memory for AI training and inference workloads.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.amphenol-cs.com/connect/pcie-gen-7-doubles-data-rate-to-128-gts-for-data-intensive-markets.html">PCIe ® Gen 7 .0 Doubles Data Rate to 128 GT/s For Data-Intensive...</a></li>
-<li><a href="https://www.servethehome.com/kioxia-gp-series-and-cm9-launched-for-the-era-of-agentic-ai-storage/">KIOXIA GP Series and CM9 Launched for the Era of Agentic AI Storage</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Hyperscale_computing">Hyperscale computing - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#PCIe Gen7`, `#SSDs`, `#Silicon Motion`, `#Data Center Storage`, `#Nvidia`
+**Tags**: `#AI`, `#filmmaking`, `#AIGC`, `#creative industry`, `#democratization`
 
 ---
 
 <a id="item-18"></a>
-## [Intel Commits $5.7B to Ireland Fab 34 After Cancelling German and Polish Projects](https://www.tomshardware.com/tech-industry/intel-commits-5-7-billion-to-ireland-one-year-after-cancelling-its-german-and-polish-fab-projects) ⭐️ 6.5/10
+## [大厂医疗AI战，开始“卷”减重](https://36kr.com/p/3896639942592134?f=rss) ⭐️ 6.3/10
 
-Intel has committed approximately $5.7 billion to expand its Fab 34 facility in Leixlip, Ireland, roughly one year after new CEO Lip-Bu Tan cancelled the planned €30 billion Magdeburg, Germany complex and a €4.6 billion assembly and test plant in Poland. This investment signals a strategic pivot by Intel to concentrate capital where existing infrastructure, proven processes, and ecosystem maturity already exist, rather than greenfield sites that carry higher execution risk, while also aiming to capture surging HPC and AI-driven semiconductor demand. Fab 34 in Ireland already produces chips on the Intel 3 process node, a 3 nm-class technology that introduces RibbonFET gate-all-around transistors and PowerVia backside power delivery. The expansion is intended to scale up Intel 3 capacity to serve insatiable HPC demand, though Leixlip cannot fully replace the capacity that Magdeburg would have provided.
+Major Chinese tech companies (Ant Group, JD Health, Tencent) are competing in healthcare AI by targeting weight management as a high-frequency, essential use case for user retention, with Ant investing hundreds of millions in Mint Health to bolster its 1B-user 'Afu' health platform against general-purpose LLMs.
 
-rss · Tom's Hardware · Jul 15, 11:20
+rss · 36氪 · Jul 16, 02:21
 
-**Background**: HPC, or high-performance computing, refers to systems that aggregate massive computational power for workloads such as AI training, scientific simulation, and large-scale data analytics. HPC has become the single largest revenue segment for leading foundries like TSMC, generating 55% of its total sales. A semiconductor process node like Intel 3 defines the manufacturing geometry of transistors; smaller, more advanced nodes deliver better performance and power efficiency. Intel's node naming was rebranded to align more closely with industry standards, with its former 10nm Enhanced SuperFin renamed 'Intel 7' and its original 7nm process renamed 'Intel 4.' Building a new fab from scratch is enormously expensive and complex, which is why Intel's choice to expand an already-operational facility represents a lower-risk path to scaling capacity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.globalsmt.net/advanced-packaging/intel-reaches-3nm-milestone/">Intel reaches 3 nm milestone - Electronics Manufacturing News</a></li>
-<li><a href="https://www.kad8.com/news/tsmc-secures-15-customers-for-2nm-process-driven-by-hpc-and-ai-demand/">TSMC Secures 15 Customers for 2nm Process, Driven by HPC and AI...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#intel`, `#semiconductors`, `#fab-investment`, `#ireland`, `#HPC`
+**Tags**: `#healthcare-ai`, `#chinese-tech`, `#industry-strategy`, `#weight-management`, `#user-retention`
 
 ---
 
 <a id="item-19"></a>
-## [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](https://36kr.com/p/3895721094842249?f=rss) ⭐️ 6.3/10
+## [硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段](https://36kr.com/p/3897686922266244?f=rss) ⭐️ 6.3/10
 
-Sinian Intelligent Driving (斯年智驾) completed a 300M yuan Series C funding round to advance its automotive-grade autonomous driving domain controllers for heavy logistics trucks, amid a hot autonomous trucking investment landscape in China.
+Chinese civilian aviation power company Hanfa Changkong raises nearly 100M yuan in Pre-A funding to develop 400kW-class turboshaft/turboprop/turboelectric engines targeting the low-altitude economy (eVTOL, drones, unmanned logistics) market.
 
-rss · 36氪 · Jul 16, 00:00
+rss · 36氪 · Jul 16, 02:12
 
-**Tags**: `#autonomous-driving`, `#funding`, `#heavy-trucking`, `#logistics`, `#China-tech`
+**Tags**: `#aviation`, `#low-altitude-economy`, `#eVTOL`, `#funding`, `#China-tech`
 
 ---
 
 <a id="item-20"></a>
-## [Proposal: Add Rust-Style Editions to SQLite](https://mort.coffee/home/sqlite-editions/) ⭐️ 6.0/10
+## [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](https://36kr.com/p/3895721094842249?f=rss) ⭐️ 6.3/10
 
-Developer Mort has proposed adding a Rust-style 'edition' system to SQLite, which would let users opt into new default behaviors via a `PRAGMA edition = YYYY` statement without breaking backwards compatibility. The proposal lists long-standing SQLite quirks—such as quirky type affinity rules and unhelpful SQLITE_BUSY error handling—as candidates for edition-gated changes. SQLite is one of the most widely deployed databases in the world, embedded in countless applications, so changing defaults—even wisely chosen ones—is risky because it can subtly alter behavior for existing users. An edition mechanism could unlock long-requested improvements that the project has historically been reluctant to ship, while preserving the rock-solid backwards compatibility that makes SQLite attractive in the first place. The proposal is purely conceptual at this stage—no patch or official SQLite-team endorsement exists—and it borrows the core idea from Rust's edition system, where breaking changes are bundled into named, opt-in releases. Critics note that SQLite is a data file format, not a compiler, so embedding an edition identifier inside database files could break the common workflow of inspecting a database with an older `sqlite3` CLI than the one that wrote it.
+Sinian Intelligent Driving (斯年智驾) closes 300M RMB Series C to advance vehicle-grade autonomous driving solutions for heavy trucks across port, mining, and logistics scenarios, amid a heating Chinese autonomous trucking sector.
 
-hackernews · gnyeki · Jul 15, 22:42 · [Discussion](https://news.ycombinator.com/item?id=48928135)
+rss · 36氪 · Jul 16, 00:00
 
-**Background**: SQLite uses PRAGMA statements—SQL extensions specific to SQLite—to modify library behavior or query internal state, covering everything from journal mode settings to foreign key enforcement. Rust's edition system, introduced in Rust 2018, bundles breaking language changes into named, opt-in yearly editions so existing crates continue compiling unchanged while new code can opt into improvements. The proposal attempts to transplant that opt-in philosophy into SQLite's PRAGMA-driven configuration model.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://doc.rust-lang.org/edition-guide/editions/">What are editions ? - The Rust Edition Guide</a></li>
-<li><a href="https://sqlite.org/pragma.html">Pragma statements supported by SQLite</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The thread shows a mix of cautious support and substantive counterarguments. sethev welcomed the constructive, solution-oriented tone and defended the SQLITE_BUSY default, while andai drew a parallel to JavaScript's successful 'use strict' precedent for opting into saner behavior. More skeptical voices such as kccqzy warned that SQLite is a data container and editions stored in the file would likely break the common case of inspecting a database with an older CLI, and GianFabien argued bluntly that users dissatisfied with the defaults should pick a different RDBMS. Retr0id proposed wrapper libraries like APSW's best-practice configuration as a more pragmatic alternative that still leaves room for a standardized, cross-runtime naming scheme.
-
-**Tags**: `#sqlite`, `#database`, `#rust`, `#api-design`, `#backwards-compatibility`
+**Tags**: `#autonomous-driving`, `#funding`, `#heavy-trucks`, `#logistics`, `#china-tech`
 
 ---
