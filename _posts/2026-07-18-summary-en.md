@@ -5,407 +5,330 @@ date: 2026-07-18
 lang: en
 ---
 
-> From 101 items, 20 important content pieces were selected
+> From 63 items, 17 important content pieces were selected
 
 ---
 
-1. [TSMC Raises 2026 CAPEX to $64B, Pledges Additional $100B in U.S.](#item-1) ⭐️ 9.0/10
-2. [China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits](#item-2) ⭐️ 8.5/10
-3. [ASML Raises Outlook, Expands EUV Capacity Through 2028](#item-3) ⭐️ 8.0/10
-4. [TSMC confirms significant yield and performance improvements in A14 update — strong interest from AI/HPC and smartphone customers](#item-4) ⭐️ 7.5/10
-5. [Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security](#item-5) ⭐️ 7.5/10
-6. [Australia mandates net-zero energy for AI data centers under new national framework](#item-6) ⭐️ 7.5/10
-7. [Shark Robot Vacuum AWS IoT Flaw Lets Stolen Certificate Hijack Other Devices](#item-7) ⭐️ 7.5/10
-8. [Biren Unveils NPO Optical Interconnect Super-Node Supporting 1024 Cards](#item-8) ⭐️ 7.3/10
-9. [First atmosphere found on Earth-like planet in habitable zone of distant star](#item-9) ⭐️ 7.0/10
-10. [Julia Evans shares practical lessons from running SQLite in production](#item-10) ⭐️ 7.0/10
-11. [Kimi K3, and what we can still learn from the pelican benchmark](#item-11) ⭐️ 7.0/10
-12. [Open-Weight AI Models Surge Past Closed Models in Usage](#item-12) ⭐️ 7.0/10
-13. [TSMC CoWoS vs Intel EMIB: Why Customers May Cross Over for Packaging](#item-13) ⭐️ 7.0/10
-14. [θ-TaN Material Achieves 3× Copper's Thermal Conductivity](#item-14) ⭐️ 7.0/10
-15. [ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions](#item-15) ⭐️ 6.5/10
-16. [Mario Kart Wii Statically Recompiled for PC with AI Assistance](#item-16) ⭐️ 6.5/10
-17. [AMD Instinct MI350P 144GB HBM3E PCIe AI Accelerator Spotted Widely](#item-17) ⭐️ 6.5/10
-18. [Yin Qi at WAIC 2026: AI Agents Enter the Physical World](#item-18) ⭐️ 6.3/10
-19. [CAS Tianta opens smart production line for satellite laser communication terminals](#item-19) ⭐️ 6.3/10
-20. [MoSense Raises Angel Round for Full-Body Tactile Skin for Humanoid Robots](#item-20) ⭐️ 6.3/10
+1. [LG Monitors Silently Install Software via Windows Update Without Consent](#item-1) ⭐️ 8.0/10
+2. [New θ-TaN Metal Achieves 3× Copper's Thermal Conductivity](#item-2) ⭐️ 8.0/10
+3. [TSMC A14 process advances faster than N2, attracting AI/HPC and smartphone customers](#item-3) ⭐️ 7.5/10
+4. [月之暗面有望最快6个月内赴港上市](#item-4) ⭐️ 7.3/10
+5. [Regressive JPEGs](#item-5) ⭐️ 7.0/10
+6. [TP-Link Kasa EC71 Cameras Leaked Home GPS via Unauthenticated UDP for 6 Years](#item-6) ⭐️ 7.0/10
+7. [Julia Evans Shares Lessons from Running SQLite in Production](#item-7) ⭐️ 7.0/10
+8. [Kimi K3, and what we can still learn from the pelican benchmark](#item-8) ⭐️ 7.0/10
+9. [ASML Plans Low-NA EUV Price Hikes, Frustrating TSMC](#item-9) ⭐️ 6.5/10
+10. [国家数据局：全国已建成高质量数据集12万个](#item-10) ⭐️ 6.3/10
+11. [TSMC CoWoS vs Intel EMIB: Are Customers Switching Packaging Suppliers?](#item-11) ⭐️ 6.0/10
+12. [PC Vendors "Fight" for CXMT Memory Supply, Smaller OEMs Struggle](#item-12) ⭐️ 5.5/10
+13. [Nvidia RTX 50 Super GPUs Ready but Delayed by High GDDR7 Prices](#item-13) ⭐️ 5.5/10
+14. [Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format](#item-14) ⭐️ 5.5/10
+15. [40g Autonomous Micro-Drone Uses Car Parking Sensors to Kill Mosquitoes Mid-Air](#item-15) ⭐️ 5.5/10
+16. [Florida man arrested for $220K crypto theft via Steam malware](#item-16) ⭐️ 5.5/10
+17. [AMD Instinct MI350P: 144GB HBM3E PCIe AI Accelerator Spotted Widely](#item-17) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [TSMC Raises 2026 CAPEX to $64B, Pledges Additional $100B in U.S.](https://www.eetimes.com/tsmc-boosts-2026-expansion-budget-adds-100b-to-u-s-investment/) ⭐️ 9.0/10
+## [LG Monitors Silently Install Software via Windows Update Without Consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) ⭐️ 8.0/10
 
-TSMC announced on its latest investor call that it is raising its 2026 capital expenditure ceiling from $56 billion to $64 billion, and separately committed an additional $100 billion to expand its U.S. semiconductor manufacturing footprint, primarily in Arizona, to build four more 2nm or more advanced fabs. As the world's largest contract chipmaker, TSMC's spending decisions effectively set the pace for global semiconductor capacity expansion. This dual move signals aggressive capacity build-out to meet surging AI chip demand while accelerating the geographic diversification of leading-edge fabs into the United States, reshaping global tech supply chains. The Arizona expansion brings TSMC's total U.S. investment to $165 billion–$265 billion depending on how new phases are counted, covering roughly 10 fabs plus two advanced packaging facilities and an R&D center; Fab 21 Phase 1 is already in 4nm volume production for Apple and NVIDIA, and Phase 2 equipment installation is targeted for Q3 2026. The CAPEX increase aligns with U.S. CHIPS Act incentives that appropriated $39 billion for domestic fab construction.
+LG monitors are silently installing LG OnScreen Control software through Windows Update with full system privileges the moment they are plugged in via HDMI, without any user prompt or consent. The software is delivered as a device metadata package that Windows automatically fetches and installs in the background, persists across reboots, and runs with unrestricted system access. This behavior represents a serious supply-chain trust failure: a hardware vendor can silently deploy full-privilege software to any Windows machine simply by having its monitor physically connected, blurring the line between driver delivery and unauthorized software installation. It affects every Windows user who buys or connects an LG display, and it highlights how Microsoft's Windows Update partner pipeline can be abused to bypass explicit user consent. Affected software includes LG's OnScreen Control, which typically handles screen splitting, monitor settings, and firmware updates and is normally installed manually via USB cable. Users can disable the behavior via Group Policy (Computer Configuration > Administrative Templates > System > Device Installation: 'Prevent automatic download of applications associated with device metadata') or, on Home editions, via sysdm.cpl > Hardware > Device Installation Settings by selecting 'No' for automatic manufacturer app downloads.
 
-rss · EE Times · Jul 17, 05:55
+hackernews · baranul · Jul 18, 10:21 · [Discussion](https://news.ycombinator.com/item?id=48956688)
 
-**Background**: TSMC (Taiwan Semiconductor Manufacturing Company) is the dominant pure-play foundry, manufacturing chips designed by companies such as Apple, NVIDIA, AMD, and Qualcomm. Capital expenditure (CAPEX) in semiconductors funds fab construction, advanced lithography tools like EUV machines, and packaging capacity — all of which are extraordinarily expensive and have multi-year lead times. The CHIPS and Science Act, signed in August 2022, provided $39 billion in manufacturing incentives to encourage onshore chip production. Leading-edge nodes such as 4nm and 2nm are critical for AI accelerators and high-performance CPUs, and demand for these has surged since the launch of generative AI products in late 2022.
+**Background**: Windows Update normally delivers operating system patches, security fixes, and hardware drivers, but Microsoft also allows third-party hardware vendors (IHVs/OEMs) to publish driver and metadata packages through its Hardware Partner dashboard, where they undergo flighting and gradual rollout via Windows telemetry. When a new display is detected, Windows can fetch associated metadata and silently install companion software from the vendor, a mechanism originally designed for convenience but one that also grants the vendor's software full system privileges with no sandboxing. LG's OnScreen Control is the specific utility being pushed this way, traditionally a USB-based optional tool but now arriving automatically over the Windows Update channel.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.azcommerce.com/news-events/news/2026/7/tsmc-announcement/">TSMC Announces Additional $100 Billion Investment In Arizona</a></li>
-<li><a href="https://tech-insider.org/tsmc-arizona-165-billion-expansion-gigafab-2026/">TSMC's $165B Arizona GigaFab: Reshaping US Chips [2026]</a></li>
-<li><a href="https://www.britannica.com/money/CHIPS-And-Science-Act">CHIPS and Science Act | Background, Provisions... | Britannica Money</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/develop/distributing-a-driver-package">Distributing a Driver Package - Windows drivers | Microsoft Learn</a></li>
+<li><a href="https://www.lg.com/us/support/help-library/lg-monitor-onscreen-control-how-to-update-monitor-software--20154710888908">[LG Monitor OnScreen Control] How to Update Monitor Software ...</a></li>
+<li><a href="https://www.fingerlakes1.com/2026/07/18/lg-monitor-software-now-installs-through-windows-update-and-many-users-did-not-expect-it/">LG Monitor Software Now Installs Through Windows Update and ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: On the SemiWiki forum, industry commentators noted that even the raised $64 billion figure may be conservative, with one analyst guessing that actual 2026 spending could exceed that level and predicting that 2027 CAPEX will be even higher, reflecting skepticism that the announced budget fully captures TSMC's true build-out appetite.
+**Discussion**: The community reacted with strong alarm, with users calling this behavior effectively indistinguishable from malware because the software installs with full system access, runs on every boot, and requires no user interaction. A clear workaround was shared via Group Policy and Device Installation Settings, while much of the debate centered on shifting blame from LG to Microsoft, since Windows itself is the channel performing the silent installation based on hardware metadata. Several commenters noted that Microsoft, as the gatekeeper of Windows Update, has the power and responsibility to refuse such payloads and should enforce stricter guidelines against unrelated bundled software.
 
-**Tags**: `#semiconductors`, `#TSMC`, `#AI infrastructure`, `#capital investment`, `#manufacturing`
+**Tags**: `#security`, `#privacy`, `#windows-update`, `#lg`, `#supply-chain`, `#hardware`
 
 ---
 
 <a id="item-2"></a>
-## [China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits](https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3) ⭐️ 8.5/10
+## [New θ-TaN Metal Achieves 3× Copper's Thermal Conductivity](https://www.eetimes.com/new-material-beats-coppers-thermal-conductivity/) ⭐️ 8.0/10
 
-Moonshot AI releases Kimi K3, a 2.8-trillion-parameter open-weight model claiming to outperform Claude on a frontend coding benchmark, marking the largest open-weight release to date.
+Researchers have experimentally realized single-crystalline θ-phase tantalum nitride (θ-TaN), a metastable transition metal nitride that exhibits a room-temperature thermal conductivity of approximately 1100 W/m·K — nearly three times that of copper (~400 W/m·K). The breakthrough was reported in Science on January 15, 2026. If this material can be manufactured at scale and integrated into semiconductor processes, it could dramatically improve heat dissipation in chips, power electronics, and high-performance computing systems where thermal management is a key bottleneck. It has the potential to upend chip cooling layer design and enable higher power densities in future devices. θ-TaN is a metastable phase, meaning it requires specific synthesis conditions to form and may be challenging to stabilize in practical applications. The theoretical prediction for this material's ultrahigh thermal conductivity was first published in Physical Review Letters in 2021, with predicted values of ~995 and ~820 W/m·K along the a and c crystal axes respectively. Copper's thermal conductivity is fundamentally capped near 400 W/m·K by intrinsic electron-phonon scattering mechanisms that θ-TaN appears to overcome.
 
-rss · Tom's Hardware · Jul 17, 11:32
+rss · EE Times · Jul 17, 19:00
 
-**Tags**: `#open-source-llm`, `#moonshot-ai`, `#large-language-models`, `#china-ai`, `#ai-benchmark`
+**Background**: Thermal conductivity measures a material's ability to conduct heat, measured in watts per meter-kelvin (W/m·K). Copper, at approximately 400 W/m·K, has long been the standard for thermal management in electronics, but its conductivity is fundamentally limited by intrinsic scattering mechanisms — primarily electron-phonon interactions — that create a ceiling for all metallic conductors. Tantalum nitride (TaN) is a well-known compound used in semiconductors, particularly as a diffusion barrier in copper interconnects, and it exists in multiple crystal phases depending on synthesis conditions. The θ-phase is a specific metastable crystal structure that theoretical work had predicted would have exceptionally high thermal conductivity due to its unusual combination of electronic and phononic properties.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.science.org/doi/10.1126/science.aeb1142">Metallic θ-phase tantalum nitride has a thermal conductivity ...</a></li>
+<li><a href="https://link.aps.org/doi/10.1103/PhysRevLett.126.115901">Ultrahigh Thermal Conductivity of -Phase Tantalum Nitride ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tantalum_nitride">Tantalum nitride - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#materials-science`, `#thermal-management`, `#semiconductors`, `#chip-cooling`, `#nanotechnology`
 
 ---
 
 <a id="item-3"></a>
-## [ASML Raises Outlook, Expands EUV Capacity Through 2028](https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/) ⭐️ 8.0/10
+## [TSMC A14 process advances faster than N2, attracting AI/HPC and smartphone customers](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers) ⭐️ 7.5/10
 
-ASML has raised its full-year financial outlook and announced plans to expand its EUV lithography capacity through at least 2028, citing sustained demand driven by the AI chip boom. As the sole supplier of EUV lithography systems worldwide, ASML's capacity decisions directly shape the pace at which advanced AI chips can be manufactured by foundries like TSMC and Samsung. The expanded outlook through 2028 serves as a strong validation signal for sustained AI-driven semiconductor demand over the medium term. The capacity expansion targets EUV systems specifically, which use 13.5nm extreme ultraviolet light generated from laser-pulsed tin plasma to print the smallest features on modern chips. ASML's near-monopoly position in this technology makes its capacity roadmap a leading indicator for the entire advanced-node semiconductor supply chain.
+TSMC has confirmed that its A14 (1.4nm-class) process technology is advancing faster than the N2 (2nm) node did at a comparable stage of development, with significant improvements in both yield and performance. The company reported strong customer interest from both AI/HPC developers and smartphone chip designers planning to adopt the new node. The accelerated development of A14 signals a faster timeline for cutting-edge chip manufacturing, which could benefit AI accelerators, high-performance computing systems, and next-generation smartphones. Strong customer adoption across multiple sectors validates TSMC's leadership at the leading edge and intensifies competition with Samsung and Intel in the sub-2nm race. A14 is TSMC's first node to use 2nd Generation GAAFET (Gate-All-Around) transistor architecture, succeeding N2 which introduced the first-generation GAA nanosheet design. Compared with N2, A14 is projected to deliver up to 15% higher performance at the same power level, or up to 30% lower power consumption at the same speed, with high-volume manufacturing targeted for 2028.
 
-rss · EE Times · Jul 17, 14:00
+rss · Tom's Hardware · Jul 17, 15:30
 
-**Background**: EUV lithography is an advanced photolithography technology that uses extreme ultraviolet light with a wavelength of 13.5 nanometers to etch extremely fine circuit patterns onto silicon wafers, enabling the production of chips at the most advanced process nodes. ASML, founded in 1984 as a joint venture between Philips and ASM International, is the only company in the world capable of manufacturing commercial EUV lithography systems, giving it a unique monopoly position in the semiconductor equipment market. This monopoly has made EUV export controls one of the most effective tools in the U.S.-China semiconductor technology restrictions.
+**Background**: TSMC's process nodes are named based on marketing designations rather than literal physical measurements — the A14 designation corresponds to a 1.4nm-class technology generation. Yield rate is a critical manufacturing metric representing the proportion of fabricated chips that meet performance and quality specifications; higher yields reduce per-chip costs and indicate process maturity. N2, TSMC's current leading-edge node entering mass production, uses first-generation GAA nanosheet transistors, while A14 will employ an improved second-generation GAAFET architecture for further power, performance, and area (PPA) gains.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/EUV_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://semiconductorx.com/spotlight-asml.html">ASML Spotlight — EUV Monopoly, High-NA, Zeiss Optics & Export ...</a></li>
+<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14">A14 Technology - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/tsmc-a14-process-technology-wiki/">TSMC A14 Process Technology Wiki - Semiwiki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yield_(metric)">Yield (metric) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#ASML`, `#EUV-lithography`, `#AI-demand`, `#chip-manufacturing`
+**Tags**: `#TSMC`, `#semiconductors`, `#process-technology`, `#A14`, `#AI-HPC`
 
 ---
 
 <a id="item-4"></a>
-## [TSMC confirms significant yield and performance improvements in A14 update — strong interest from AI/HPC and smartphone customers](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers) ⭐️ 7.5/10
+## [月之暗面有望最快6个月内赴港上市](https://36kr.com/newsflashes/3900806713951873?f=rss) ⭐️ 7.3/10
 
-TSMC confirms its A14 process technology is progressing faster than N2 did at the same stage, with strong customer interest from AI/HPC and smartphone sectors.
+Moonshot AI is restructuring for a potential Hong Kong IPO within 6 months while releasing Kimi K3, reportedly the world's largest open-source model that surpasses Claude and GPT on Code Arena.
 
-rss · Tom's Hardware · Jul 17, 15:30
+rss · 36氪 · Jul 18, 07:45
 
-**Tags**: `#semiconductors`, `#TSMC`, `#process-technology`, `#AI-hardware`, `#chip-manufacturing`
+**Tags**: `#Moonshot AI`, `#IPO`, `#Kimi K3`, `#open-source models`, `#Chinese AI`
 
 ---
 
 <a id="item-5"></a>
-## [Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security](https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security) ⭐️ 7.5/10
+## [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) ⭐️ 7.0/10
 
-US lawmakers are urging Commerce Secretary Howard Lutnick to ban Chinese memory chip imports and pressure allies to do the same, citing national and economic security risks.
+A creative project that creates animated GIF-like videos by manipulating JPEG coefficient ordering, causing motion to emerge as the progressive decode advances through the file.
 
-rss · Tom's Hardware · Jul 17, 13:05
+hackernews · vitaut · Jul 18, 03:14 · [Discussion](https://news.ycombinator.com/item?id=48954851)
 
-**Tags**: `#semiconductors`, `#supply-chain`, `#geopolitics`, `#memory-chips`, `#trade-policy`
+**Tags**: `#jpeg`, `#image-processing`, `#creative-coding`, `#steganography`, `#codec-hacks`
 
 ---
 
 <a id="item-6"></a>
-## [Australia mandates net-zero energy for AI data centers under new national framework](https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights) ⭐️ 7.5/10
+## [TP-Link Kasa EC71 Cameras Leaked Home GPS via Unauthenticated UDP for 6 Years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md) ⭐️ 7.0/10
 
-Australian Prime Minister Anthony Albanese announced the 'Australian Standards for A.I.,' a national framework requiring AI data centers to produce as much power as they consume, alongside water efficiency and intellectual property protection requirements. The framework comes as more AI hyperscalers are eyeing Australia for its vast land and abundant renewable energy resources. This represents one of the first national-level policies specifically targeting the sustainability footprint of AI infrastructure, setting a precedent that could influence global AI governance. By tying data center expansion to renewable energy production, Australia is positioning itself as a responsible destination for AI investment while potentially pressuring other nations to adopt similar standards. The framework goes beyond energy to include water efficiency requirements — a critical concern given that cooling alone can account for 38–40% of a data center's energy consumption, and water usage for cooling is increasingly scrutinized. Intellectual property protections are also embedded in the framework, addressing concerns about Australian data and content being used to train foreign AI models.
+Security researcher BadChemical disclosed that TP-Link Kasa EC71 indoor security cameras broadcast their configured home GPS coordinates over unauthenticated UDP traffic, a flaw that persisted in the firmware for approximately six years. The accompanying firmware update released by TP-Link reportedly bricked some devices, raising further concerns about the vendor's quality assurance. The disclosure highlights a broader pattern of consumer IoT devices leaking sensitive location telemetry over unencrypted, unauthenticated protocols, often to cloud endpoints not controlled by the manufacturer. For a widely deployed brand like TP-Link, such long-lived flaws erode consumer trust in off-the-shelf smart home security products. The leak relies on UDP, a connectionless protocol that transmits packets without authentication or encryption, meaning any device on the same LAN segment can passively listen and harvest GPS data. Community commenters note that the practical exposure is limited unless the camera is placed in a router DMZ, since it is not directly reachable from the public internet by default.
 
-rss · Tom's Hardware · Jul 17, 12:16
+hackernews · BadChemical · Jul 17, 21:42 · [Discussion](https://news.ycombinator.com/item?id=48952565)
 
-**Background**: AI hyperscalers are companies like Microsoft, Google, Amazon, and Meta that operate massive data center infrastructure to power cloud computing and AI workloads at enormous scale. These facilities consume vast amounts of energy — U.S. data centers alone used approximately 176 TWh in 2023, about 4.4% of national electricity consumption. Australia's framework responds to growing concerns that the rapid expansion of AI compute infrastructure could strain local power grids and water resources, while leveraging the country's abundant solar and wind potential to attract investment.
+**Background**: The TP-Link Kasa EC71 (Kasa Spot Pan Tilt) is a 1080p indoor security camera with motion tracking, night vision, and microSD storage, sold as part of TP-Link's consumer Kasa smart home line. UDP (User Datagram Protocol) is a lightweight, connectionless transport-layer protocol commonly used for time-sensitive or low-overhead communications such as DNS, NTP, and streaming telemetry, but because it lacks authentication, any service listening on a UDP port can be queried or eavesdropped by anyone who can reach the network. Unauthenticated UDP services on IoT devices have historically been a recurring source of privacy and amplification-DDoS vulnerabilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.congress.gov/crs-product/R48646">Data Centers and Their Energy Consumption: Frequently Asked Questions | Congress.gov | Library of Congress</a></li>
-<li><a href="https://www.integrityenergy.com/blog/why-is-data-center-energy-consumption-so-high/">Why is Data Center Energy Consumption So High? | Integrity Energy</a></li>
-<li><a href="https://www.aitooldiscovery.com/ai-infra/hyperscalers-explained">Hyperscalers Explained: What They Are and How They Work</a></li>
+<li><a href="https://www.tp-link.com/us/home-networking/cloud-camera/ec71/v1/">EC71 | Kasa Spot Pan Tilt, 24/7 Recording | TP-Link</a></li>
+<li><a href="https://static.tp-link.com/upload/product-overview/2024/202403/20240318/EC71+4.6_Datasheet.pdf">Kasa Spot® Pan Tilt 24/7 Recording Indoor Security Camera EC71 Motion Tracking</a></li>
+<li><a href="https://www.kb.cert.org/vuls/id/417980">VU#417980 - Implementations of UDP-based application protocols are vulnerable to network loops</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI policy`, `#data centers`, `#sustainability`, `#Australia`, `#energy efficiency`
+**Discussion**: Sentiment is split: several commenters see the report as emblematic of systemic IoT insecurity, with ericpauley noting that many devices ship data to cloud IPs not controlled by the vendor, while gruez argues the report appears AI-generated and that the practical risk is minimal for LAN-only setups unless DMZ is misconfigured. drnick1 reinforces the view that cheap IoT hardware should never face the public internet, and nubinetwork and BobbyTables2 express concern about the bricking firmware update and the lengthy disclosure timeline respectively.
+
+**Tags**: `#security`, `#iot`, `#vulnerability`, `#privacy`, `#tp-link`
 
 ---
 
 <a id="item-7"></a>
-## [Shark Robot Vacuum AWS IoT Flaw Lets Stolen Certificate Hijack Other Devices](https://www.tomshardware.com/tech-industry/cyber-security/shark-robot-vacuum-flaw-lets-one-stolen-certificate-run-root-commands-on-others-in-the-same-aws-region) ⭐️ 7.5/10
+## [Julia Evans Shares Lessons from Running SQLite in Production](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) ⭐️ 7.0/10
 
-Security researchers disclosed an unpatched vulnerability in Shark robot vacuums in which an over-permissive AWS IoT policy allows a single stolen client certificate to execute root-level commands on other Shark robovacs sharing the same AWS region. Successful exploitation exposes live camera feeds, stored home floor maps, and Wi-Fi credentials. The flaw turns a single compromised device into a springboard for attacking an entire fleet of consumer robots, creating serious privacy and physical-security risks for households using Shark robovacs with onboard cameras. It also serves as a cautionary case study on how over-permissive cloud IoT policies — a recurring class of cloud misconfiguration — can undermine the security model of otherwise isolated smart-home devices. The root cause is an AWS IoT Core policy that grants excessive permissions, so a certificate authenticating against one device is effectively trusted to act on other devices in the same region, escalating to root command execution. As of the disclosure, no patch has been issued, meaning affected users currently have no official remediation path.
+Julia Evans published a blog post detailing practical lessons she learned from running SQLite in production, covering performance issues, backups, and operational concerns. The post attracted strong community engagement, with readers sharing tooling tips and offering technical critique of her performance assumptions. Julia Evans is a widely respected technical educator, and her explorations of SQLite in production provide valuable real-world insights for developers moving beyond toy projects and prototypes. The community discussion highlighted both actionable tooling tips and important pushback on performance assumptions at small scale, making it a useful case study in honest, experience-based writing. SQLite's `.expert` mode in the CLI can automatically recommend indexes based on analyzed queries, a useful tool for developers unfamiliar with reading query plans. A database-focused commenter (stevoski) argued that full table scans on only 10k rows should be near-instant and suspected the slow-delete issue was a classic n+1 query problem rather than a SQLite limitation.
 
-rss · Tom's Hardware · Jul 17, 10:00
+hackernews · surprisetalk · Jul 17, 17:45 · [Discussion](https://news.ycombinator.com/item?id=48950122)
 
-**Background**: AWS IoT Core is Amazon's managed cloud service that lets IoT devices connect to and exchange data with cloud applications; each device authenticates using a unique X.509 client certificate and is governed by JSON-based IoT policies that define what actions it may perform, similar to AWS IAM policies. A well-designed policy follows the principle of least privilege, restricting each identity to only the resources and actions it truly needs. An over-permissive policy grants broader access than necessary — a common cloud misconfiguration that can allow one identity to impersonate, communicate with, or control resources belonging to other identities, turning isolated devices into a collectively exploitable fleet.
+**Background**: SQLite is a self-contained, serverless, transactional SQL database engine that runs in-process, making it a natural fit for embedded applications, mobile apps, and increasingly small-to-medium web services. Julia Evans, known for her approachable 'Wizard Zines' and transparent learning style, frequently documents her learning process publicly. Running SQLite in production differs from client/server databases like PostgreSQL because there is no separate database server process, which affects backup strategies, concurrency handling, and which operational tools are applicable.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.aws.amazon.com/iot/latest/developerguide/iot-policies.html">AWS IoT Core policies</a></li>
-<li><a href="https://blog.securelayer7.net/overly-permissive-iam-policies/">Securing Cloud Environments: Preventing Overly Permissive IAM ...</a></li>
-<li><a href="https://docs.aws.amazon.com/iot/latest/developerguide/device-certs-create.html">Create AWS IoT client certificates - AWS IoT Core</a></li>
+**Discussion**: The community response was engaged and mixed. Commenters shared practical add-ons such as SQLite's `.expert` mode for index recommendations and Simon Willison's `s3-credentials` tool for scoped AWS access. A database practitioner (stevoski) pushed back hard on the premise of performance problems at 10k rows, suspecting classic n+1 queries were the real culprit; others praised Julia's authentic exploratory writing as a refreshing contrast to overconfident LLM-generated content, while one commenter dismissed the article as lacking substance.
 
-</ul>
-</details>
-
-**Tags**: `#IoT security`, `#AWS IoT`, `#vulnerability disclosure`, `#smart home`, `#privacy`
+**Tags**: `#sqlite`, `#databases`, `#operations`, `#performance`, `#devops`
 
 ---
 
 <a id="item-8"></a>
-## [Biren Unveils NPO Optical Interconnect Super-Node Supporting 1024 Cards](https://36kr.com/newsflashes/3900457432680067?f=rss) ⭐️ 7.3/10
+## [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) ⭐️ 7.0/10
 
-At WAIC 2026 (July 17–20) in Shanghai, Biren Technology officially launched its next-generation super-node solution featuring Near-Package Optics (NPO) interconnect and a distributed decoupled architecture, supporting Scale-up expansion to 1024 accelerator cards within a single super-node. This announcement positions Biren to compete in the high-end AI infrastructure race against NVIDIA's NVL72/NVL576 class systems and emerging domestic rivals like Huawei's Atlas, addressing the critical scaling bottleneck that limits large-model training. Achieving 1024-card coherent Scale-up with optical interconnect represents a significant architectural leap for China's domestic AI compute stack. NPO (Near-Package Optics) sits between traditional front-pluggable optics and fully integrated Co-Packaged Optics (CPO), offering improved bandwidth density and power efficiency without the full packaging complexity of CPO. The 'distributed decoupled architecture' implies compute and memory resources are disaggregated across the super-node, connected via the optical fabric rather than tightly coupled in a single chassis.
+Simon Willison's analysis of Kimi K3 and the limitations of the pelican benchmark, highlighting what it reveals (and misses) about modern LLMs, particularly regarding agentic tool use and hidden system prompts.
 
-rss · 36氪 · Jul 18, 01:30
+hackernews · droidjj · Jul 17, 14:21 · [Discussion](https://news.ycombinator.com/item?id=48947717)
 
-**Background**: Scale-up refers to tightly coupling many accelerators into a single coherent compute domain—similar to how NVIDIA's NVL72 connects 72 GPUs as if they were one giant GPU—enabling low-latency collective operations essential for training frontier AI models. Scale-out, by contrast, links separate nodes over standard networking and is typically used for capacity expansion. Optical interconnect technologies such as NPO and CPO are increasingly critical because electrical SerDes links struggle to deliver the bandwidth-per-watt needed at extreme scale, making photonics a strategic battleground for next-generation AI clusters.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://credosemi.com/blogs/near-package-optics/">Near-Package Optics: Evolution of Optical Connectivity - Credo</a></li>
-<li><a href="https://www.fs.com/blog/scaleup-vs-scaleout-in-ai-infrastructure-41313.html">Scale-Up vs. Scale-Out in AI Infrastructure - FS.com</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling">Co Packaged Optics (CPO) – Scaling with Light for the Next Wave of Interconnect</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#optical interconnect`, `#super-computing`, `#Chinese AI chips`, `#scale-up`
+**Tags**: `#ai-benchmarks`, `#llm-evaluation`, `#kimi-k3`, `#simon-willison`, `#model-analysis`
 
 ---
 
 <a id="item-9"></a>
-## [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) ⭐️ 7.0/10
+## [ASML Plans Low-NA EUV Price Hikes, Frustrating TSMC](https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions) ⭐️ 6.5/10
 
-JWST has detected an atmosphere on LHS 1140b, a rocky exoplanet in the habitable zone of a red dwarf star, marking a notable milestone in the search for habitable worlds.
+ASML is reportedly planning to raise prices on its Low-NA EUV lithography machines, citing increased productivity of the tools as justification. The price hike could cost TSMC billions of dollars as the foundry expands its fab capacity. This matters because TSMC has made a major strategic bet on Low-NA EUV with multi-patterning for its advanced nodes (A16 and A14), rather than adopting High-NA EUV, meaning it will need even more Low-NA machines and bear the brunt of any price increases. The financial impact could ripple through the entire semiconductor supply chain, potentially affecting chip pricing and the economics of leading-edge fab construction. ASML's Low-NA EUV systems feature 0.33 numerical aperture optics, and TSMC plans to use computational lithography techniques like inverse lithography and curvilinear mask optimization to extend their usable resolution rather than upgrading to High-NA tools. Each High-NA EUV system reportedly costs significantly more than Low-NA systems, making Low-NA with multi-patterning the more cost-effective path for TSMC's near-term roadmap.
 
-hackernews · neversaydie · Jul 17, 14:06 · [Discussion](https://news.ycombinator.com/item?id=48947560)
+rss · Tom's Hardware · Jul 17, 15:57
 
-**Tags**: `#astronomy`, `#exoplanets`, `#JWST`, `#astrobiology`, `#space-science`
+**Background**: ASML是全球唯一的EUV光刻系统供应商，这些设备对于制造7nm以下的先进芯片至关重要。Low-NA EUV（数值孔径0.33）自2019年前后已投入大规模量产，而High-NA EUV（数值孔径0.55）则代表着下一代技术，能提供更好的分辨率，但成本也高得多。台积电已公开表示将在其A16（1.6nm）和A14（1.4nm）制程中跳过High-NA EUV，转而使用Low-NA配合先进的多重图形曝光和计算光刻技术。
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/asml-lithograpy-roadmap-examined-from-duv-to-hyper-na">ASML's roadmap for chipmaking lithography tools examined — from DUV to Low-NA, High-NA, Hyper-NA, and beyond | Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#ASML`, `#TSMC`, `#EUV-lithography`, `#chip-manufacturing`
 
 ---
 
 <a id="item-10"></a>
-## [Julia Evans shares practical lessons from running SQLite in production](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) ⭐️ 7.0/10
+## [国家数据局：全国已建成高质量数据集12万个](https://36kr.com/newsflashes/3900807486293892?f=rss) ⭐️ 6.3/10
 
-Julia Evans (b3nn) published a blog post detailing practical lessons learned from running SQLite, covering operational topics such as backups, configuration, and day-to-day management. The post sparked substantive community discussion with 165 upvotes and 40 comments sharing additional tooling tips and operational tricks. SQLite is increasingly used in production for single-node applications, but operational know-how (backups, WAL mode, performance tuning) is less commonly documented than API usage. Evans's educational reach and the community's high-engagement response make this a valuable resource for developers deploying SQLite beyond trivial use cases. The discussion surfaced several actionable techniques: SQLite's `.expert` CLI mode can automatically recommend indexes for queries; backups using `sqlite3 -readonly .dump | zstd --rsyncable` avoid blocking writers in WAL mode and produce compressed, rsync-friendly archives; and tools like Litestream enable continuous incremental replication to S3-compatible storage.
+China's National Data Bureau reports 120,000 high-quality datasets totaling 1565 PB have been built, growing 60% in one quarter, with 7 data annotation pilot cities and 140,000 annotation workers supporting AI development.
 
-hackernews · surprisetalk · Jul 17, 17:45 · [Discussion](https://news.ycombinator.com/item?id=48950122)
+rss · 36氪 · Jul 18, 08:00
 
-**Background**: SQLite is a self-contained, serverless, transactional SQL database engine widely embedded in applications. WAL (Write-Ahead Logging) mode is an alternative to the default rollback journal that allows concurrent readers and writers, which is critical for production workloads. Backup strategies for SQLite include the Online Backup API (for live backups), the `.dump` command, and continuous-replication tools like Litestream, which streams WAL pages to remote storage. Index optimization is typically guided by reading query execution plans, though SQLite now offers automated index recommendations through `.expert`.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://sqlite.org/wal.html">Write-Ahead Logging - SQLite</a></li>
-<li><a href="https://litestream.io/">Litestream - Streaming SQLite Replication</a></li>
-<li><a href="https://sqlite.org/c3ref/backup_finish.html">Online Backup API.</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion was highly practical and additive. Commenters shared specific tooling: the `.expert` CLI command for automated index recommendations, a backup pipeline using `sqlite3 .dump | zstd --rsyncable` that avoids blocking WAL writers, and `s3-credentials` for generating scoped AWS credentials. One user noted SQLite is rare in that its documentation genuinely improves engineering skills rather than creating confusion, and another offered batched DELETE strategies to mitigate long-running deletion operations.
-
-**Tags**: `#sqlite`, `#databases`, `#operations`, `#technical-education`, `#backups`
+**Tags**: `#China-AI`, `#data-infrastructure`, `#AI-policy`, `#national-strategy`, `#data-annotation`
 
 ---
 
 <a id="item-11"></a>
-## [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) ⭐️ 7.0/10
+## [TSMC CoWoS vs Intel EMIB: Are Customers Switching Packaging Suppliers?](https://semiwiki.com/semiconductor-manufacturers/tsmc/371412-tsmc-cowos-versus-intel-emib-semiconductor-packaging/) ⭐️ 6.0/10
 
-Simon Willison uses the 'pelican riding a bicycle' SVG benchmark to evaluate Kimi K3, uncovering interesting tokenizer behaviors including evidence of hidden system prompts, while the community critically discusses limitations of visual benchmarks for evaluating modern agentic capabilities.
+SemiWiki reports that industry chatter at recent conferences suggests some TSMC customers are sending wafers to Intel for packaging, prompting TSMC CEO CC Wei to address the trend during a recent investor call when asked about EMIB-T. With CoWoS capacity severely constrained due to surging AI accelerator demand, any customer migration toward Intel's EMIB would signal competitive pressure on TSMC's advanced packaging monopoly and could reshape supply chain strategies for chipmakers like Nvidia and AMD. The published article is only a truncated teaser, so the actual commentary from CEO CC Wei is locked behind a paywall or read-more link; the precise technical distinction between standard EMIB and the mentioned EMIB-T variant is not disclosed in the visible text.
 
-hackernews · droidjj · Jul 17, 14:21 · [Discussion](https://news.ycombinator.com/item?id=48947717)
+rss · SemiWiki · Jul 17, 15:00
 
-**Tags**: `#llm-evaluation`, `#kimi-k3`, `#benchmarks`, `#tokenizer-analysis`, `#simon-willison`
+**Background**: CoWoS (Chip-on-Wafer-on-Substrate) is TSMC's 2.5D advanced packaging technology that places multiple chiplets on a silicon interposer for high-bandwidth communication, and it is the backbone of Nvidia's flagship AI GPUs. EMIB (Embedded Multi-die Interconnect Bridge) is Intel's competing 2.5D approach that embeds small silicon bridges into an organic substrate instead of using a full silicon interposer, making it potentially more cost-effective. Both technologies address the same fundamental challenge: integrating multiple chiplets into a single package with high-density, low-latency interconnects to power modern AI and high-performance computing workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://logicity.in/en/blog/tsmc-cowos-can-pack-58-dies-before-panels-take-over">TSMC : CoWoS can pack 58 dies before panels take over | Logicity</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-emib-embedded-multi-die-interconnect-bridge/">Intel EMIB (Embedded Multi-die Interconnect Bridge) - SemiWiki</a></li>
+<li><a href="https://semiconductorx.com/packaging-emib.html">EMIB Advanced Packaging: Embedded Multi-Die Interconnect ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#advanced-packaging`, `#TSMC`, `#Intel`, `#CoWoS`
 
 ---
 
 <a id="item-12"></a>
-## [Open-Weight AI Models Surge Past Closed Models in Usage](https://stateofopensource.ai/) ⭐️ 7.0/10
+## [PC Vendors "Fight" for CXMT Memory Supply, Smaller OEMs Struggle](https://www.techpowerup.com/350853/pc-vendors-fight-for-cxmt-memory-supply-smaller-oems-struggle) ⭐️ 5.5/10
 
-A presentation on the state of open source AI highlights data showing open-weight models have overtaken closed models on the OpenRouter platform, shifting from a 60%-40% closed-to-open ratio four months ago to a 63%-37% open-to-closed ratio today. Open models processed 888B tokens on March 19th but surged to 4.19T tokens per day recently, representing nearly 5x growth in just four months. This shift signals a potential disruption to frontier AI labs like OpenAI and Anthropic, as hyperscalers can run open models without licensing fees and device makers like Apple can deploy compressed versions on-device. If open models continue gaining market share at this pace, the multi-billion-dollar training investments of frontier labs may face commoditization pressure. The OpenRouter data tracks real-world inference routing, making it a credible proxy for downstream model usage rather than just downloads or benchmarks. Community commenters note that open models like Llama, DeepSeek, Qwen, and Mistral have made self-hosting increasingly viable for enterprise use cases, lowering the cost barrier significantly.
+Major PC OEMs like Dell, HP, and Apple are securing DRAM allocations from Chinese memory maker CXMT through 2027, while smaller vendors struggle due to CXMT's limited capacity and the big three memory makers' depleted supply.
 
-hackernews · rellem · Jul 17, 14:31 · [Discussion](https://news.ycombinator.com/item?id=48947825)
+rss · TechPowerUp News · Jul 17, 17:56
 
-**Background**: Open-weight AI models are those whose trained parameters (weights) are publicly available for download and use, typically under permissive licenses like Apache 2.0. Frontier AI labs, by contrast, keep their most capable models proprietary and serve them via APIs, relying on the perceived capability gap to justify premium pricing. OpenRouter is an LLM routing platform that aggregates inference traffic across many model providers, making its market share data a useful barometer of which models developers actually choose in production.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://allthings.how/what-is-an-open-weight-ai-model-and-how-to-use-one/">What is an Open Weight AI Model and How to Use One</a></li>
-<li><a href="https://openai.com/open-models/">Open models by OpenAI</a></li>
-<li><a href="https://onyx.app/self-hosted-llm-leaderboard">Best Self-Hosted LLM Leaderboard 2026 | Open-Weight Model ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment is divided: several commenters provide concrete data showing open models' rapid growth, while others sharply criticize the presentation itself as obviously LLM-generated and poorly structured, questioning why executives would sign their names to AI-written content. A recurring theme is speculation that open models could undermine the business models of frontier labs, with one commenter arguing that frontier models are simultaneously an edge and a liability given their astronomical training costs.
-
-**Tags**: `#open-source`, `#AI`, `#LLMs`, `#market-trends`, `#AI-ecosystem`
+**Tags**: `#DRAM`, `#supply-chain`, `#CXMT`, `#PC-hardware`, `#semiconductors`
 
 ---
 
 <a id="item-13"></a>
-## [TSMC CoWoS vs Intel EMIB: Why Customers May Cross Over for Packaging](https://semiwiki.com/semiconductor-manufacturers/tsmc/371412-tsmc-cowos-versus-intel-emib-semiconductor-packaging/) ⭐️ 7.0/10
+## [Nvidia RTX 50 Super GPUs Ready but Delayed by High GDDR7 Prices](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb) ⭐️ 5.5/10
 
-SemiWiki published an analysis comparing TSMC's CoWoS and Intel's EMIB advanced packaging technologies, prompted by reports that some TSMC customers are sending wafers to Intel for packaging. TSMC CEO CC Wei was questioned about this trend during a recent investor call, and analyst Jeff Su referenced Intel's EMIB-T technology as part of the discussion. Advanced packaging has become a critical bottleneck for AI chip supply, and CoWoS capacity at TSMC is heavily constrained by surging demand from AI accelerator and HPC customers. If TSMC customers are diversifying to Intel's foundry packaging, it signals both the severity of the capacity crunch and a potential strategic opening for Intel Foundry in advanced packaging services. CoWoS (Chip-on-Wafer-on-Substrate) uses a full silicon interposer to integrate multiple chiplets, introduced by TSMC in 2012. Intel's EMIB instead uses small embedded silicon bridges for die-to-die connections, avoiding the cost and size limitations of a large interposer. EMIB-T is an upgraded variant supporting package sizes up to 120x180mm, over 38 bridges, and 12 rectangular dies, targeting AI and HPC workloads.
+According to reports, Nvidia's RTX 50 Super GPUs are fully developed but have been held back from release due to inflated pricing on 3GB GDDR7 memory modules, which cost two to three times as much as the 2GB GDDR7 chips used on standard RTX 50-series cards. This pricing disparity is expected to push the retail prices of the Super variants well beyond Nvidia's target MSRPs. This matters because it highlights how memory supply-chain costs can directly determine whether a product reaches consumers and at what price point, potentially leaving gamers and hardware enthusiasts waiting longer for a mid-cycle GPU refresh. It also underscores the broader challenge GPU manufacturers face in managing bill-of-materials costs amid volatile DRAM pricing. The 3GB GDDR7 modules reportedly needed for the Super series command a 2–3x price premium over 2GB modules, likely because higher-density memory dies have lower manufacturing yields and are scarcer on the market. Nvidia faces a tough choice: absorb the elevated BOM cost (eroding margins) or pass it on to consumers (risking weaker demand at a time when GPU pricing is already under scrutiny).
 
-rss · SemiWiki · Jul 17, 15:00
+rss · Tom's Hardware · Jul 18, 13:45
 
-**Background**: Advanced packaging technologies like 2.5D and 3D integration have become essential as traditional Moore's Law scaling slows. Instead of making a single monolithic die, designers combine multiple chiplets—CPU, GPU, HBM memory, AI accelerators—into one package to achieve higher performance and better yields. TSMC's CoWoS is the dominant choice for high-end AI chips such as NVIDIA GPUs, but capacity has been severely constrained. Intel's EMIB, with roots going back to the 2018 Kaby Lake-G product that combined dies from TSMC, GlobalFoundries, and Intel, represents an alternative architecture using silicon bridges rather than a full interposer.
+**Background**: GDDR7 is the latest generation of graphics DRAM, designed for high-bandwidth applications such as GPUs and AI accelerators, and is soldered directly onto the graphics card rather than installed as removable modules. The current RTX 50 series uses 2GB GDDR7 chips; moving to 3GB modules would allow higher total memory capacities (such as 24GB or 32GB) on a narrower memory bus, but at a higher per-chip cost. MSRP, or Manufacturer's Suggested Retail Price, is the official price Nvidia recommends, though actual 'street prices' in retail often differ due to supply constraints, demand, and retailer markups.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS ® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
-<li><a href="https://semiwiki.com/semiconductor-manufacturers/intel/298674-intels-emib-packaging-technology-a-deep-dive/">Intel ’s EMIB Packaging Technology – A Deep Dive - SemiWiki</a></li>
-<li><a href="https://www.kad8.com/hardware/intel-archieves-breakthroughs-new-packaging-technology/">Intel Archieves Breakthroughs New Packaging Technologies · KAD</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GDDR7_SDRAM">GDDR7 SDRAM - Wikipedia</a></li>
+<li><a href="https://semiconductor.samsung.com/dram/gddr/gddr7/">GDDR7 - DRAM | Samsung Semiconductor Global</a></li>
+<li><a href="https://www.cgdirector.com/gpu-msrp-list/">GPU MSRP List - AMD, Nvidia & Intel Graphics Cards</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#advanced-packaging`, `#TSMC`, `#Intel`, `#supply-chain`
+**Tags**: `#nvidia`, `#gpu`, `#gddr7`, `#hardware`, `#pricing`
 
 ---
 
 <a id="item-14"></a>
-## [θ-TaN Material Achieves 3× Copper's Thermal Conductivity](https://www.eetimes.com/new-material-beats-coppers-thermal-conductivity/) ⭐️ 7.0/10
+## [Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format](https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format) ⭐️ 5.5/10
 
-Researchers have identified θ-TaN (theta-phase tantalum nitride), a metal material that reportedly exhibits thermal conductivity nearly three times that of copper, potentially offering a breakthrough for chip cooling layers and thermal management in semiconductors. As transistor scaling pushes power densities ever higher, thermal management has become a critical bottleneck for chip performance and reliability. If θ-TaN can be reliably manufactured and integrated into semiconductor processes, it could enable far more effective heat spreading, reduce hot spots, and unlock new performance headroom for advanced processors. The claim of 'nearly 3× copper' thermal conductivity is extraordinary and awaits independent experimental verification and peer-reviewed reproduction. Tantalum nitride is already produced by nitriding tantalum powder with ammonia or nitrogen at around 1100 °C and is used in precision thin-film resistors and as a diffusion barrier in chip fabrication, which may aid integration, though practical adoption depends on CMOS compatibility, cost, and wafer-scale deposition feasibility.
+A Korean organization is hosting an open game development contest requiring all game files (engine, resources, libraries) to fit within a 1.44MB floppy disk size, with cash prizes for top three submissions.
 
-rss · EE Times · Jul 17, 19:00
+rss · Tom's Hardware · Jul 18, 11:00
 
-**Background**: Thermal conductivity measures how efficiently a material transports heat; copper, at roughly 400 W/m·K, has long been the benchmark for heat spreading in electronics. As transistors shrink and power density rises, even copper struggles to remove heat fast enough, prompting searches for alternatives such as diamond, graphene, and advanced ceramics. Tantalum nitride (TaN) already has a foothold in the semiconductor industry, where it serves as a thin-film resistor material and copper-diffusion barrier, so the θ-phase with exceptional thermal properties represents a new chapter rather than a completely foreign material to chip manufacturers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.researchgate.net/publication/403831320_How_th-Phase_Tantalum_Nitride_Beats_Copper_as_the_Finest_Heat_Conductor_on_Earth_On_Phononic_Elegance_Crystalline_Order_and_the_Surprising_Sovereignty_of_Heat">(PDF) How θ -Phase Tantalum Nitride Beats Copper as the Finest...</a></li>
-<li><a href="https://spectrum.ieee.org/diamond-thermal-conductivity">Diamond Thermal Conductivity: A New Era in Chip Cooling ...</a></li>
-<li><a href="https://cgmaterial.com/products/tantalum-nitride-powder-tan">Tantalum Nitride Powder ( TaN ), CAS No 12033-62-4 – CG MATERIAL</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#materials-science`, `#thermal-management`, `#semiconductors`, `#chip-cooling`, `#hardware`
+**Tags**: `#game-development`, `#code-optimization`, `#retro-computing`, `#contest`, `#demoscene`
 
 ---
 
 <a id="item-15"></a>
-## [ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions](https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions) ⭐️ 6.5/10
+## [40g Autonomous Micro-Drone Uses Car Parking Sensors to Kill Mosquitoes Mid-Air](https://www.tomshardware.com/tech-industry/drones/autonomous-micro-drone-achieves-first-air-to-air-insect-kill-on-the-way-towards-completely-eradicating-mosquitoes-40-gram-unit-uses-car-parking-sensors-can-eliminate-insects-at-up-to-26-feet) ⭐️ 5.5/10
 
-ASML is reportedly planning significant price increases on Low-NA EUV lithography machines, potentially costing TSMC billions and affecting its expansion plans for profitable fabs.
+A 40-gram autonomous micro-drone equipped with automotive ultrasonic parking sensors has recorded its first air-to-air mosquito kill, demonstrating the ability to detect and eliminate flying insects at distances of up to 26 feet (approximately 8 meters). The milestone is described as a step toward the goal of completely eradicating mosquitoes. Mosquitoes are major vectors for diseases such as malaria, dengue, and Zika, so autonomous aerial targeting could complement or replace traditional methods like insecticide spraying and larviciding. Repurposing inexpensive, mass-produced automotive sensors for biological pest control highlights how consumer-grade hardware can be redirected toward public health applications. The drone weighs only 40 grams and relies on the same ultrasonic proximity-detection principle used in car bumper parking aids, which measure distance to obstacles by timing ultrasonic echoes. An effective kill range of 26 feet suggests the ultrasonic sensors can reliably resolve small, fast-moving insect targets at a distance several times the drone's own wingspan, though the article provides limited detail on the kill mechanism or flight-time limitations.
 
-rss · Tom's Hardware · Jul 17, 15:57
+rss · Tom's Hardware · Jul 18, 09:00
 
-**Tags**: `#semiconductors`, `#ASML`, `#TSMC`, `#EUV lithography`, `#chip manufacturing`
+**Background**: Automotive parking sensors are ultrasonic proximity detectors mounted in vehicle bumpers that emit high-frequency sound pulses and measure the echo return time to estimate distances to nearby objects, typically alerting drivers to obstacles during low-speed maneuvering. Ultrasonic frequencies above 20 kHz have long been used in entomology to detect insects, including wood-boring pests, because background noise is negligible at those frequencies. Autonomous micro-drones combine miniaturized flight controllers, onboard sensors, and increasingly sophisticated perception algorithms to navigate and track targets without human piloting.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Parking_sensor">Parking sensor - Wikipedia</a></li>
+<li><a href="https://www.bosch-mobility.com/en/solutions/sensors/ultrasonic-sensor/">Ultrasonic sensor - Bosch Mobility</a></li>
+<li><a href="https://www.mdpi.com/2504-446X/9/6/442">UAV Autonomous Navigation System Based on Air–Ground ... - MDPI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#drones`, `#robotics`, `#autonomous-systems`, `#public-health`, `#sensor-technology`
 
 ---
 
 <a id="item-16"></a>
-## [Mario Kart Wii Statically Recompiled for PC with AI Assistance](https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility) ⭐️ 6.5/10
+## [Florida man arrested for $220K crypto theft via Steam malware](https://www.tomshardware.com/tech-industry/cyber-security/fbi-arrests-florida-man-in-steam-malware-investigaton-after-tracing-stolen-bitcoin-to-uber-eats-gift-cards) ⭐️ 5.5/10
 
-Mario Kart Wii has been statically recompiled for PC using AI-assisted tooling, marking the first static recompilation of a Wii game. The project, scheduled for release in August, supports 4K resolution, uncapped frame rates, and over 200 tracks thanks to compatibility with the Retro Rewind custom track distribution. This represents a significant milestone in game preservation and binary translation, demonstrating that AI can automate the complex process of translating PowerPC/MIPS machine code into native PC executables. Unlike traditional emulation, static recompilation produces a standalone native executable, potentially offering better performance and broader compatibility than existing solutions like Dolphin. Static recompilation translates the game's machine code into a native executable at build time, eliminating the need for a runtime emulation layer. The Retro Rewind modpack, created by ZPL and released in 2021, contributes 145 retro race tracks from across the Mario Kart series history, bringing the total track count beyond 200.
+The FBI arrested 21-year-old Zyaire Dontaevious Zamarion Wilkins of North Lauderdale, Florida, for allegedly stealing $220,000 in cryptocurrency through malware hidden in Steam games that infected approximately 8,000 devices. Federal agents traced the stolen Bitcoin to purchases of Uber Eats gift cards, which led to the suspect's identification and arrest. This case highlights the growing threat of malware distribution through gaming platforms and the increasing sophistication of cryptocurrency-focused cybercrime. It serves as a cautionary tale for gamers and cryptocurrency holders, demonstrating how attackers exploit trusted platforms like Steam to deliver crypto-stealing payloads to a large number of victims. CryptoStealer malware typically searches infected machines for cryptocurrency wallet files, clipboard activity, and browser cookies containing financial data, then exfiltrates the information to a command-and-control server. Steam-based malware distribution often exploits the platform's Workshop and mod features, similar to the ModStealer malware discovered in September 2025 that evaded antivirus detection while targeting browser-based crypto wallets.
 
-rss · Tom's Hardware · Jul 17, 10:00
+rss · Tom's Hardware · Jul 17, 14:43
 
-**Background**: Traditional emulation, such as the Dolphin emulator for Wii games, works by simulating the original hardware in software, interpreting instructions on the fly, which can be computationally expensive. Static recompilation takes a different approach: it converts the original game's machine code into native code for the target platform ahead of time, producing an executable that runs directly without an emulation layer. The Wii's CPU architecture (PowerPC-based Broadway) is different from modern PC architectures (x86-64), making this translation non-trivial. AI-assisted tooling likely helped automate parts of this translation process, such as identifying code patterns or generating translation rules.
+**Background**: Steam is one of the world's largest digital game distribution platforms, operated by Valve Corporation, with hundreds of millions of active users. Its Workshop feature allows users to create and share mods, skins, and other game customizations, which can sometimes be exploited to hide malicious code. Cryptocurrency-stealing malware, known as CryptoStealers or infostealers, are a well-documented category of malware designed specifically to locate and exfiltrate digital wallet credentials, private keys, and seed phrases from compromised systems. These malware families often operate silently in the background, making detection difficult without robust endpoint security solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://korben.info/en/mario-kart-wii-static-recompilation-pc-native.html">Mario Kart Wii coming soon without Dolphin or a Wii - Korben</a></li>
-<li><a href="https://mkwiiki.org/wiki/Retro_Rewind">Retro Rewind - Custom Mario Kart</a></li>
+<li><a href="https://www.pcrisk.com/removal-guides/14419-cryptostealer-trojan">CryptoStealer Trojan - Malware removal instructions (updated) Malwarebytes Threat Alert | Trojan.CryptoStealer.Go Undetectable crypto-stealing ModStealer malware targets ... New lightweight, self-propagating crypto stealing malware ... 5 Crypto-Stealing Malware Threats: How to Stay Safe and Aware Beware Bitcoin, Ether, Solana, XRP Wallets: This Virus Is ...</a></li>
+<li><a href="https://www.malwarebytes.com/blog/detections/trojan-cryptostealer-go">Malwarebytes Threat Alert | Trojan.CryptoStealer.Go</a></li>
+<li><a href="https://crypto.news/undetectable-crypto-stealing-modstealer-malware-targets-wallets-on-mac-and-windows/">Undetectable crypto-stealing ModStealer malware targets ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#static-recompilation`, `#ai`, `#wii-emulation`, `#retro-gaming`, `#binary-translation`
+**Tags**: `#cybersecurity`, `#cryptocurrency`, `#malware`, `#crime`, `#gaming`
 
 ---
 
 <a id="item-17"></a>
-## [AMD Instinct MI350P 144GB HBM3E PCIe AI Accelerator Spotted Widely](https://www.servethehome.com/the-amd-instinct-mi350p-is-a-hbm-pcie-accelerator-that-has-been-all-over/) ⭐️ 6.5/10
+## [AMD Instinct MI350P: 144GB HBM3E PCIe AI Accelerator Spotted Widely](https://www.servethehome.com/the-amd-instinct-mi350p-is-a-hbm-pcie-accelerator-that-has-been-all-over/) ⭐️ 5.5/10
 
-AMD's Instinct MI350P, a PCIe-form-factor AI accelerator equipped with 144GB of HBM3E memory, has been appearing widely in the market over recent weeks, signaling broader availability of AMD's latest data-center GPU. The card was also showcased at Computex 2026 and reportedly launched on May 7, 2026. The MI350P gives enterprises a drop-in PCIe option for deploying large-memory AI workloads without requiring the specialized OAM infrastructure needed by the higher-end MI350X. Its broad visibility suggests AMD is ramping supply to compete more directly with Nvidia's H200 NVL in the generative and agentic AI accelerator market. The MI350P is roughly half the compute, memory, and power of the OAM-form-factor MI350X, consuming 600W as a passively cooled card and built on a 3nm process with 8,192 shading units. AMD positions it on the 4th Gen CDNA architecture for leadership performance-per-watt in AI and HPC workloads.
+The AMD Instinct MI350P, a PCIe-form-factor AI accelerator equipped with 144GB of HBM3E memory and 128 Compute Units, has been appearing across multiple venues and deployments in recent weeks. AMD officially positions it as a drop-in upgrade for existing enterprise AI infrastructure. The MI350P matters because it gives enterprises a PCIe-based path to large-memory AI acceleration without needing to overhaul their server racks to accommodate newer fabric topologies. Its 144GB HBM3E capacity and claimed FP16/FP8 performance roughly 40% above NVIDIA's H200 NVL position it as a competitive option in the high-end inference and training market. The card uses HBM3E, a 3D-stacked DRAM technology that delivers significantly higher bandwidth and capacity than traditional GDDR memory. The PCIe form factor, as opposed to an OAM or proprietary module, means it can slot into standard server slots, though it typically offers less bandwidth to the host CPU/GPU pool than fabric-based alternatives.
 
 rss · ServeTheHome · Jul 17, 17:00
 
-**Background**: HBM3E (High Bandwidth Memory 3E) is a stacked DRAM technology co-developed by Samsung, AMD, and SK Hynix that delivers very high memory bandwidth, which is critical for large language model training and inference. PCIe (Peripheral Component Interconnect Express) is the standard expansion slot interface used in most servers, making PCIe GPUs easier to deploy than proprietary OAM (OCP Accelerator Module) form factors that require specialized chassis and cooling. AMD's Instinct line competes against Nvidia's data-center GPUs, and the MI350 series is AMD's response to the Blackwell-generation H200 and B200 products.
+**Background**: AMD's Instinct line is the company's family of data-center GPUs designed to compete with NVIDIA's accelerators in AI and HPC workloads. HBM (High Bandwidth Memory) is a 3D-stacked DRAM technology originally co-developed by Samsung, AMD, and SK Hynix, widely used in modern AI accelerators because large language models demand both high memory capacity and high memory bandwidth. The MI350 series represents AMD's latest generation using HBM3E, and the 'P' suffix denotes the PCIe card variant, distinguishing it from other form factors in the lineup.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.servethehome.com/the-amd-instinct-mi350p-is-a-hbm-pcie-accelerator-that-has-been-all-over/">The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has...</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor">AMD announces MI350P PCIe AI accelerator card with 144GB of ...</a></li>
 <li><a href="https://www.amd.com/en/products/accelerators/instinct/mi350/mi350p.html">AMD Instinct™ MI350P PCIe® Cards</a></li>
-<li><a href="https://www.techpowerup.com/gpu-specs/radeon-instinct-mi350p.c4402">AMD Radeon Instinct MI350P Specs | TechPowerUp GPU Database</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#AI accelerators`, `#GPU`, `#HBM3E`, `#hardware`
-
----
-
-<a id="item-18"></a>
-## [Yin Qi at WAIC 2026: AI Agents Enter the Physical World](https://36kr.com/p/3900439867147909?f=rss) ⭐️ 6.3/10
-
-At the WAIC 2026 opening keynote on July 17, Yin Qi, chairman of Stepfun (阶跃星辰) and Qianli Tech (千里科技), argued that 2026 marks a critical threshold as AI models evolve from executing tasks for seconds to working independently for tens of hours. He outlined three structural shifts driven by the agent wave: Agentic OS as the new system layer, human-machine co-existing terminals where computers, phones, cars, and robots become different 'bodies' of the same agent, and A2A networks forming the infrastructure of an agent economy. As chairman of two prominent Chinese AI companies (a foundation model firm and a robotics/intelligent device firm), Yin Qi's framing carries strategic weight for China's AI ecosystem. His vision of cross-device agent continuity and an agent-to-agent economy signals how major industry players are positioning for the transition from screen-based AI to embodied, networked intelligence. Yin Qi positioned programming capability as the next benchmark for measuring AI capability leaps, following natural language. He also raised governance questions central to physical-world deployment: whom does an agent act for, who bears responsibility for its actions, and how to ensure identity trustworthiness, controllable permissions, and behavioral traceability.
-
-rss · 36氪 · Jul 18, 00:53
-
-**Background**: An Agentic OS is an emerging software infrastructure layer that manages the full lifecycle of autonomous AI agents — including scheduling, memory management, tool orchestration, and governance — enabling multiple agents to operate concurrently and scale across environments. The A2A (Agent-to-Agent) protocol, notably introduced by Google, is an open standard for interoperability between AI agents built on different frameworks. Embodied AI refers to agents instantiated in physical or virtual forms that can perceive, interact with, and act upon their environment, bridging digital intelligence and the physical world.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.make.com/en/blog/agentic-operating-system">What Is an Agentic Operating System? 2026 Guide | Make</a></li>
-<li><a href="https://a2a-protocol.org/latest/">A 2 A Protocol</a></li>
-<li><a href="https://arxiv.org/abs/2506.22355">[2506.22355] Embodied AI Agents: Modeling the World - arXiv.org</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI-agents`, `#WAIC-2026`, `#AGI`, `#embodied-AI`, `#industry-vision`
-
----
-
-<a id="item-19"></a>
-## [CAS Tianta opens smart production line for satellite laser communication terminals](https://36kr.com/p/3899439565325953?f=rss) ⭐️ 6.3/10
-
-On July 16, CAS Tianta (中科天塔) officially launched a smart production line for satellite-borne laser communication terminals in Xi'an, with Phase 1 planning an annual capacity of 600 units and a target of expanding to over 1,000 units by 2027. The terminals support communication speeds ranging from 5Gbps to 100Gbps and are designed for various low-Earth-orbit (LEO) satellite constellations. This marks the industrialization and scale manufacturing of China's space laser communication technology, a critical infrastructure for large LEO satellite constellations competing with initiatives like Starlink. It signals the transition of China's laser communication technology from R&D to mass production, supporting the country's rapid LEO constellation deployment. The production line spans approximately 2,000 square meters at Xi'an High-tech Zone and covers component assembly, system integration, precision debugging, space environment simulation, and automated testing. Core optical components are independently developed by the Xi'an Institute of Optics and Precision Mechanics (XIOPM) under the Chinese Academy of Sciences, which has accumulated over 20 years of space laser communication research since 2004 and has delivered more than 100 units, some already operating in orbit.
-
-rss · 36氪 · Jul 17, 07:55
-
-**Background**: Satellite laser communication (also called optical inter-satellite links, OISL) uses laser beams instead of traditional microwave radio waves to transmit data between satellites. Compared to microwave communication, laser communication offers much higher bandwidth, lower latency, and stronger anti-jamming capabilities, making it essential for large-scale LEO satellite constellations that require massive inter-satellite data transfer. CAS Tianta (西安中科天塔科技股份有限公司), founded in 2018 and backed by Xi'an CAS Optoelectronics Investment Holdings, is a state-controlled high-tech enterprise specializing in commercial satellite management products and cloud-based TT&C services, with its core technology inherited from XIOPM's decades of research.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.qq.com/rain/a/20260425A00JXX00">中科天塔发布新一代星载激光通信终端，以“AI+激光通信”助力“太空智驾”</a></li>
-<li><a href="https://xjxy.xijing.edu.cn/info/1008/1346.htm">西安中科天塔科技股份有限公司-西京校友</a></li>
-<li><a href="https://www.tianta.com.cn/regarding.htm">中科天塔-关于我们 - tianta.com.cn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#satellite-communications`, `#laser-communication`, `#China-space`, `#satellite-internet`, `#manufacturing`
-
----
-
-<a id="item-20"></a>
-## [MoSense Raises Angel Round for Full-Body Tactile Skin for Humanoid Robots](https://36kr.com/p/3899128277452681?f=rss) ⭐️ 6.3/10
-
-MoSense (模感科技), founded by a HKUST PhD team, completed a tens-of-millions-yuan angel round from Sequoia China, Hillhouse Capital, and Agibot to develop MoSkin—an electromagnetic metamaterial-based full-body multimodal tactile sensing system covering robot hands, limbs, torso, and feet. The funding signals strong institutional confidence in full-body tactile sensing as a critical gap in humanoid robotics, where most solutions currently cover only fingertips. Agibot's participation as both investor and potential customer highlights the tight integration between sensor startups and humanoid robot manufacturers in China's ecosystem. MoSkin uses electromagnetic metamaterial technology to convert rigid robot surfaces into continuous six-dimensional force field perception, integrating force, temperature, slip, vibration, and material texture modalities. The company is also building a world-action-tactile prediction model with multimodal latent-space fusion gating to address the Sim-to-Real transfer gap.
-
-rss · 36氪 · Jul 17, 02:39
-
-**Background**: Humanoid robots rely on tactile sensing to detect contact, force, and friction during physical interaction—information that vision alone cannot provide. Most current tactile solutions are limited to dexterous hand fingertips, leaving the rest of the robot body without feedback needed for safe operation in complex environments. Six-dimensional force/torque sensors measure forces and torques across three translational and three rotational axes, enabling perception of bending and twisting effects. Recent academic advances in soft robotic metamaterials and magnetic tactile sensors are expanding the possibilities for large-area, conformable electronic skin beyond traditional rigid sensor arrays.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://eu.36kr.com/en/p/3899128277452681">36Kr Exclusive: HKUST PhD Team Develops Full-Body Tactile ...</a></li>
-<li><a href="https://www.ieee-ras.org/ras-university/?ras_page=docs/chap2_sensing/force_perception">RAS University - IEEE Robotics and Automation Society Website</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0264127524000017">Vision-based tactile intelligence with soft robotic metamaterial</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#robotics`, `#tactile-sensing`, `#humanoid-robots`, `#startup-funding`, `#hardware`
+**Tags**: `#AMD`, `#AI Accelerator`, `#GPU`, `#HBM3E`, `#Hardware`
 
 ---

@@ -5,407 +5,330 @@ date: 2026-07-18
 lang: zh
 ---
 
-> 从 101 条内容中筛选出 20 条重要资讯。
+> 从 63 条内容中筛选出 17 条重要资讯。
 
 ---
 
-1. [台积电将 2026 年资本支出提至 640 亿美元，再追加 1000 亿美元投资美国](#item-1) ⭐️ 9.0/10
-2. [中国 2.8 万亿参数的 Kimi K3 在前端代码竞技场基准测试中击败 Claude Fable 5——月之暗面 AI 发布史上最大开源权重 AI 模型，在中国规避美国算力限制之际](#item-2) ⭐️ 8.5/10
-3. [ASML 上调全年展望，计划至 2028 年扩大 EUV 产能](#item-3) ⭐️ 8.0/10
-4. [台积电确认 A14 制程更新实现重大良率与性能提升——AI/HPC 及智能手机客户兴趣浓厚](#item-4) ⭐️ 7.5/10
-5. [Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security](#item-5) ⭐️ 7.5/10
-6. [澳大利亚新国家 AI 框架要求 AI 数据中心实现净零能耗](#item-6) ⭐️ 7.5/10
-7. [Shark 扫地机器人 AWS IoT 漏洞：被盗证书可劫持同区域设备](#item-7) ⭐️ 7.5/10
-8. [壁仞科技发布 NPO 光互连超节点方案，支持 1024 卡 Scale-up 扩展](#item-8) ⭐️ 7.3/10
-9. [首次在类地行星上发现大气层，该行星位于遥远恒星的宜居带](#item-9) ⭐️ 7.0/10
-10. [Julia Evans 分享运行 SQLite 的实战经验](#item-10) ⭐️ 7.0/10
-11. [Kimi K3，以及我们仍能从鹈鹕基准测试中学到什么](#item-11) ⭐️ 7.0/10
-12. [开源权重 AI 模型使用量超越闭源模型](#item-12) ⭐️ 7.0/10
-13. [台积电 CoWoS 对比英特尔 EMIB：客户为何可能跨界封装](#item-13) ⭐️ 7.0/10
-14. [θ-TaN 材料导热性能达铜的三倍](#item-14) ⭐️ 7.0/10
-15. [ASML 计划上调 Low-NA EUV 光刻机价格，据报道令台积电感到不满——光刻机厂商盯上台积电盈利丰厚的晶圆厂以牟取暴利，可能让这家台湾芯片制造商损失数十亿美元](#item-15) ⭐️ 6.5/10
-16. [马里奥赛车 Wii 通过 AI 辅助静态重编译移植至 PC](#item-16) ⭐️ 6.5/10
-17. [AMD Instinct MI350P 144GB HBM3E PCIe AI 加速器频繁亮相](#item-17) ⭐️ 6.5/10
-18. [印奇在 WAIC 2026：智能体走进物理世界](#item-18) ⭐️ 6.3/10
-19. [中科天塔星载激光通信终端智能产线在西安正式投产](#item-19) ⭐️ 6.3/10
-20. [模感科技获天使轮融资，研发机器人全身触觉皮肤](#item-20) ⭐️ 6.3/10
+1. [LG 显示器通过 Windows Update 静默安装软件且未经用户同意](#item-1) ⭐️ 8.0/10
+2. [新型θ-TaN 金属热导率达铜的三倍](#item-2) ⭐️ 8.0/10
+3. [台积电 A14 工艺进展超 N2 同期，吸引 AI/HPC 及智能手机客户](#item-3) ⭐️ 7.5/10
+4. [月之暗面有望最快 6 个月内赴港上市](#item-4) ⭐️ 7.3/10
+5. [退化型 JPEG](#item-5) ⭐️ 7.0/10
+6. [TP-Link Kasa EC71 摄像头通过未认证 UDP 泄露家庭 GPS 坐标长达 6 年](#item-6) ⭐️ 7.0/10
+7. [Julia Evans 分享生产环境运行 SQLite 的经验教训](#item-7) ⭐️ 7.0/10
+8. [Kimi K3 以及我们仍能从鹈鹕基准测试中学到什么](#item-8) ⭐️ 7.0/10
+9. [ASML 计划上调 Low-NA EUV 光刻机价格，引发台积电不满](#item-9) ⭐️ 6.5/10
+10. [国家数据局：全国已建成高质量数据集 12 万个](#item-10) ⭐️ 6.3/10
+11. [TSMC CoWoS 对决 Intel EMIB：客户是否正在转向英特尔的封装技术？](#item-11) ⭐️ 6.0/10
+12. [PC 厂商争抢长鑫存储内存供应，小型 OEM 举步维艰](#item-12) ⭐️ 5.5/10
+13. [英伟达 RTX 50 Super 显卡已就绪但因 GDDR7 价格过高而搁置](#item-13) ⭐️ 5.5/10
+14. [韩国机构举办 1.44MB 游戏开发大赛致敬软盘——参赛者须将整套文件（含资源、引擎及库）压缩至极小存储格式](#item-14) ⭐️ 5.5/10
+15. [40 克自主微型无人机利用汽车泊车传感器实现空中击杀蚊子](#item-15) ⭐️ 5.5/10
+16. [佛州男子利用 Steam 游戏藏匿恶意软件窃取 22 万美元加密货币被捕](#item-16) ⭐️ 5.5/10
+17. [AMD Instinct MI350P：144GB HBM3E PCIe AI 加速器频繁现身](#item-17) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [台积电将 2026 年资本支出提至 640 亿美元，再追加 1000 亿美元投资美国](https://www.eetimes.com/tsmc-boosts-2026-expansion-budget-adds-100b-to-u-s-investment/) ⭐️ 9.0/10
+## [LG 显示器通过 Windows Update 静默安装软件且未经用户同意](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) ⭐️ 8.0/10
 
-台积电在最新一次投资者电话会议上宣布，将 2026 年资本支出上限从 560 亿美元提高至 640 亿美元，并另行承诺在美国（主要在亚利桑那州）追加 1000 亿美元投资，用于再建设四座 2 纳米或更先进制程的晶圆厂。 作为全球最大的代工芯片制造商，台积电的支出决策实际上决定了全球半导体产能扩张的步伐。这一双重举措表明，台积电正大力扩张产能以满足 AI 芯片需求的激增，同时加速将先进制程晶圆厂向美国多元化布局，正在重塑全球科技供应链。 亚利桑那州扩建使台积电在美国的总投资规模达到约 1650 亿至 2650 亿美元（取决于如何计入新阶段），涵盖约 10 座晶圆厂、两座先进封装设施及一个研发中心；Fab 21 一期已为苹果和英伟达进行 4 纳米量产，二期设备安装计划于 2026 年第三季度进行。资本支出增长与美国《芯片法案》提供的 390 亿美元国内晶圆厂建设拨款相吻合。
+LG 显示器在通过 HDMI 接口插入的瞬间，会通过 Windows Update 静默安装 LG OnScreen Control 软件，且无需任何用户提示或同意。该软件以设备元数据包的形式由 Windows 自动获取并在后台安装，跨重启持续运行，并拥有不受限制的系统权限。 这一行为代表了一次严重的供应链信任失败：硬件厂商仅凭显示器物理连接，就能向任何 Windows 机器静默部署具有完全权限的软件，模糊了驱动程序交付与未授权软件安装之间的界限。它影响到每一位购买或连接 LG 显示器的 Windows 用户，并暴露了微软 Windows Update 合作伙伴渠道可被用来绕过用户明确同意的风险。 受影响的软件包括 LG 的 OnScreen Control，它通常需要通过 USB 连接手动安装，用于屏幕分割、显示器设置和固件更新。用户可以通过组策略（计算机配置 > 管理模板 > 系统 > 设备安装：禁止自动下载与设备元数据相关联的应用程序）来阻止静默安装；在家庭版上，则可通过 sysdm.cpl > 硬件 > 设备安装设置，将「是否自动下载设备的制造商应用」选择为「否」来禁用该行为。
 
-rss · EE Times · 7月17日 05:55
+hackernews · baranul · 7月18日 10:21 · [社区讨论](https://news.ycombinator.com/item?id=48956688)
 
-**背景**: 台积电（TSMC）是全球占主导地位的纯代工厂，为苹果、英伟达、AMD 和高通等公司制造芯片。半导体领域的资本支出（CAPEX）用于晶圆厂建设、EUV 光刻机等先进设备购置以及封装产能——这些项目耗资巨大且需要多年建设周期。2022 年 8 月签署的《芯片与科学法案》提供了 390 亿美元的制造业激励资金，鼓励芯片生产回流美国。4 纳米和 2 纳米等先进制程对于 AI 加速器和高性能 CPU 至关重要，自 2022 年末生成式 AI 产品问世以来，对这些制程的需求激增。
+**背景**: Windows Update 通常用于交付操作系统补丁、安全修复和硬件驱动程序，但微软也允许第三方硬件厂商（IHV/OEM）通过其硬件合作伙伴仪表板发布驱动程序和元数据包，这些包会经过飞行测试和基于 Windows 遥测的渐进式推广。当系统检测到新显示器时，Windows 可以获取相关元数据并静默安装厂商随附的软件——这一机制最初是为了方便而设计的，但它同样会赋予厂商软件完整的系统权限，且没有任何沙箱隔离。LG 的 OnScreen Control 是此次被推送的具体工具，它传统上是基于 USB 的可选工具，现在却通过 Windows Update 渠道自动到达用户机器。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.azcommerce.com/news-events/news/2026/7/tsmc-announcement/">TSMC Announces Additional $100 Billion Investment In Arizona</a></li>
-<li><a href="https://tech-insider.org/tsmc-arizona-165-billion-expansion-gigafab-2026/">TSMC's $165B Arizona GigaFab: Reshaping US Chips [2026]</a></li>
-<li><a href="https://www.britannica.com/money/CHIPS-And-Science-Act">CHIPS and Science Act | Background, Provisions... | Britannica Money</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/develop/distributing-a-driver-package">Distributing a Driver Package - Windows drivers | Microsoft Learn</a></li>
+<li><a href="https://www.lg.com/us/support/help-library/lg-monitor-onscreen-control-how-to-update-monitor-software--20154710888908">[LG Monitor OnScreen Control] How to Update Monitor Software ...</a></li>
+<li><a href="https://www.fingerlakes1.com/2026/07/18/lg-monitor-software-now-installs-through-windows-update-and-many-users-did-not-expect-it/">LG Monitor Software Now Installs Through Windows Update and ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 在 SemiWiki 论坛上，行业评论人士指出，即使上调后的 640 亿美元数字也可能偏于保守，一位分析师猜测 2026 年实际支出可能超过这一水平，并预测 2027 年资本支出将更高，反映出市场对公告预算能否充分反映台积电真实扩张意愿的疑虑。
+**社区讨论**: 社区反应强烈，许多用户认为这种行为与恶意软件几乎没有区别，因为该软件以完整系统权限安装、每次开机都会运行，且完全无需用户交互。有用户清晰地分享了通过组策略和设备安装设置来阻止此行为的解决方案，而大量讨论的焦点则在于将责任从 LG 转向微软——因为正是 Windows 自身根据硬件元数据执行了静默安装操作。多位评论者指出，微软作为 Windows Update 的把关者，拥有拒绝此类载荷的能力和责任，应当执行更严格的准则以防止厂商捆绑无关软件。
 
-**标签**: `#semiconductors`, `#TSMC`, `#AI infrastructure`, `#capital investment`, `#manufacturing`
+**标签**: `#security`, `#privacy`, `#windows-update`, `#lg`, `#supply-chain`, `#hardware`
 
 ---
 
 <a id="item-2"></a>
-## [中国 2.8 万亿参数的 Kimi K3 在前端代码竞技场基准测试中击败 Claude Fable 5——月之暗面 AI 发布史上最大开源权重 AI 模型，在中国规避美国算力限制之际](https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3) ⭐️ 8.5/10
+## [新型θ-TaN 金属热导率达铜的三倍](https://www.eetimes.com/new-material-beats-coppers-thermal-conductivity/) ⭐️ 8.0/10
 
-月之暗面 AI 发布 Kimi K3，这是一款 2.8 万亿参数的开源权重模型，声称在前端编码基准测试中超越 Claude，成为迄今最大规模的开源权重发布。
+研究人员成功实验制备了单晶θ相氮化钽（θ-TaN），这是一种亚稳态过渡金属氮化物，在室温下热导率约为 1100 W/m·K，接近铜（约 400 W/m·K）的三倍。该突破性成果于 2026 年 1 月 15 日发表在《Science》期刊上。 如果该材料能够实现规模化制造并集成到半导体工艺中，将有望显著改善芯片、电力电子和高性能计算系统中的散热性能——而散热正是这些领域的关键瓶颈。该材料有可能颠覆芯片散热层的设计，并在未来器件中实现更高的功率密度。 θ-TaN 是一种亚稳态相，意味着它的形成需要特定的合成条件，在实际应用中可能难以稳定存在。该材料超高热导率的理论预测最早于 2021 年发表在《Physical Review Letters》上，预测沿 a 轴和 c 轴的热导率分别为约 995 和 820 W/m·K。铜的热导率受限于固有的电子-声子散射机制，基本被限制在 400 W/m·K 左右，而θ-TaN 似乎突破了这一限制。
 
-rss · Tom's Hardware · 7月17日 11:32
+rss · EE Times · 7月17日 19:00
 
-**标签**: `#open-source-llm`, `#moonshot-ai`, `#large-language-models`, `#china-ai`, `#ai-benchmark`
+**背景**: 热导率衡量材料传导热量的能力，单位为瓦每米开尔文（W/m·K）。铜的热导率约为 400 W/m·K，长期以来一直是电子产品散热管理的标准材料，但其热导率受到固有散射机制（主要是电子-声子相互作用）的根本限制，这为所有金属导体的热导率设定了上限。氮化钽（TaN）是一种在半导体领域广为人知的化合物，尤其用作铜互连中的扩散阻挡层，它根据合成条件的不同存在多种晶体相。θ相是一种特定的亚稳态晶体结构，理论研究曾预测由于其电子和声子特性的独特组合，将具有异常高的热导率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.science.org/doi/10.1126/science.aeb1142">Metallic θ-phase tantalum nitride has a thermal conductivity ...</a></li>
+<li><a href="https://link.aps.org/doi/10.1103/PhysRevLett.126.115901">Ultrahigh Thermal Conductivity of -Phase Tantalum Nitride ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tantalum_nitride">Tantalum nitride - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#materials-science`, `#thermal-management`, `#semiconductors`, `#chip-cooling`, `#nanotechnology`
 
 ---
 
 <a id="item-3"></a>
-## [ASML 上调全年展望，计划至 2028 年扩大 EUV 产能](https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/) ⭐️ 8.0/10
+## [台积电 A14 工艺进展超 N2 同期，吸引 AI/HPC 及智能手机客户](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers) ⭐️ 7.5/10
 
-ASML 上调了全年财务展望，并宣布计划在至少 2028 年之前扩大其 EUV 光刻产能，理由是 AI 芯片热潮带来的持续需求。 作为全球唯一的 EUV 光刻系统供应商，ASML 的产能决策直接影响台积电、三星等晶圆厂制造先进 AI 芯片的速度。对至 2028 年前景的上调，是对中期内 AI 驱动半导体需求持续增长的强烈验证信号。 此次产能扩张针对的是 EUV 系统，该系统使用由激光脉冲锡等离子体产生的 13.5 纳米极紫外光，在现代芯片上刻印最精细的电路图形。ASML 在该技术上近乎垄断的地位，使其产能路线图成为整个先进制程半导体供应链的领先指标。
+台积电确认其 A14（1.4 纳米级）工艺技术的进展速度快于 N2（2 纳米）节点在相同发展阶段的表现，在良率和性能方面均有显著提升。公司表示，来自 AI/HPC 开发者以及智能手机芯片设计商的客户兴趣浓厚，均计划采用这一新工艺节点。 A14 工艺的加速开发意味着尖端芯片制造的时间表可能提前，将惠及 AI 加速器、高性能计算系统以及下一代智能手机。多领域客户的强劲采用验证了台积电在最前沿制程的领先地位，同时也加剧了与三星和英特尔在 2 纳米以下赛道的竞争。 A14 是台积电首个采用第二代 GAAFET（环绕栅极）晶体管架构的节点，接替首次引入第一代 GAA nanosheet 设计的 N2。与 N2 相比，A14 预计可在相同功耗下提供最高 15%的性能提升，或在相同速度下降低高达 30%的功耗，目标量产时间为 2028 年。
 
-rss · EE Times · 7月17日 14:00
+rss · Tom's Hardware · 7月17日 15:30
 
-**背景**: EUV 光刻是一种先进的光刻技术，使用波长为 13.5 纳米的极紫外光在硅晶圆上蚀刻极其精细的电路图形，从而实现最先进制程节点的芯片生产。ASML 成立于 1984 年，由飞利浦和 ASM International 合资成立，是全球唯一一家能够制造商用 EUV 光刻系统的公司，在半导体设备市场上拥有独特的垄断地位。这一垄断使得 EUV 出口管制成为美中半导体技术限制中最有效的工具之一。
+**背景**: 台积电的工艺节点名称基于市场命名而非实际的物理尺寸——A14 名称对应 1.4 纳米级别的技术世代。良率是衡量制造工艺的关键指标，表示符合性能和规格要求的芯片在产出中的比例；更高的良率可降低单芯片成本并反映工艺成熟度。N2 是台积电目前进入量产的尖端节点，采用第一代 GAA nanosheet 晶体管，而 A14 将使用改进的第二代 GAAFET 架构，以在功耗、性能和面积（PPA）方面获得进一步提升。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/EUV_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://semiconductorx.com/spotlight-asml.html">ASML Spotlight — EUV Monopoly, High-NA, Zeiss Optics & Export ...</a></li>
+<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14">A14 Technology - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/tsmc-a14-process-technology-wiki/">TSMC A14 Process Technology Wiki - Semiwiki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yield_(metric)">Yield (metric) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#ASML`, `#EUV-lithography`, `#AI-demand`, `#chip-manufacturing`
+**标签**: `#TSMC`, `#semiconductors`, `#process-technology`, `#A14`, `#AI-HPC`
 
 ---
 
 <a id="item-4"></a>
-## [台积电确认 A14 制程更新实现重大良率与性能提升——AI/HPC 及智能手机客户兴趣浓厚](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers) ⭐️ 7.5/10
+## [月之暗面有望最快 6 个月内赴港上市](https://36kr.com/newsflashes/3900806713951873?f=rss) ⭐️ 7.3/10
 
-台积电确认其 A14 制程技术进展快于同期 N2，且获得了 AI/HPC 和智能手机领域客户的强烈兴趣。
+Moonshot AI（月之暗面）正进行重组以筹备赴港 IPO，有望在 6 个月内上市，同期发布了 Kimi K3 模型，据称是全球最大的开源模型，在 Code Arena 上的表现超越了 Claude 和 GPT。
 
-rss · Tom's Hardware · 7月17日 15:30
+rss · 36氪 · 7月18日 07:45
 
-**标签**: `#semiconductors`, `#TSMC`, `#process-technology`, `#AI-hardware`, `#chip-manufacturing`
+**标签**: `#Moonshot AI`, `#IPO`, `#Kimi K3`, `#open-source models`, `#Chinese AI`
 
 ---
 
 <a id="item-5"></a>
-## [Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security](https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security) ⭐️ 7.5/10
+## [退化型 JPEG](https://maurycyz.com/projects/bad_jpeg/) ⭐️ 7.0/10
 
-US lawmakers are urging Commerce Secretary Howard Lutnick to ban Chinese memory chip imports and pressure allies to do the same, citing national and economic security risks.
+一个创意项目，通过操控 JPEG 系数的排序顺序来制作类似 GIF 的动画视频，使运动效果在文件逐步解码的过程中自然涌现。
 
-rss · Tom's Hardware · 7月17日 13:05
+hackernews · vitaut · 7月18日 03:14 · [社区讨论](https://news.ycombinator.com/item?id=48954851)
 
-**标签**: `#semiconductors`, `#supply-chain`, `#geopolitics`, `#memory-chips`, `#trade-policy`
+**标签**: `#jpeg`, `#image-processing`, `#creative-coding`, `#steganography`, `#codec-hacks`
 
 ---
 
 <a id="item-6"></a>
-## [澳大利亚新国家 AI 框架要求 AI 数据中心实现净零能耗](https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights) ⭐️ 7.5/10
+## [TP-Link Kasa EC71 摄像头通过未认证 UDP 泄露家庭 GPS 坐标长达 6 年](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md) ⭐️ 7.0/10
 
-澳大利亚总理安东尼·阿尔巴尼斯宣布推出"澳大利亚人工智能标准"（Australian Standards for A.I.），这是一项国家框架，要求 AI 数据中心实现发电量与用电量相抵（即净零能耗），同时还需满足用水效率和知识产权保护方面的要求。该框架出台的背景是越来越多的 AI 超大规模云计算运营商正瞄准澳大利亚广袤的土地和丰富的可再生能源资源。 这是首批专门针对 AI 基础设施可持续性影响的国家级政策之一，开创了可能影响全球 AI 治理的先例。通过将数据中心扩建与可再生能源生产挂钩，澳大利亚正在将自己定位为 AI 投资的责任目的地，同时可能促使其他国家采用类似标准。 该框架不仅涉及能源问题，还包括用水效率要求——鉴于仅冷却系统就可能占数据中心能耗的 38%至 40%，且冷却用水正受到越来越多的审视，这一要求至关重要。知识产权保护也被纳入框架，旨在应对澳大利亚的数据和内容被用于训练外国 AI 模型的担忧。
+安全研究员 BadChemical 披露，TP-Link Kasa EC71 室内安防摄像头通过未认证的 UDP 流量广播其配置的家庭 GPS 坐标，这一漏洞在固件中持续了约六年。TP-Link 随后发布的固件更新据报告导致部分设备变砖，进一步引发了对厂商质量保证流程的担忧。 该披露揭示了消费级 IoT 设备通过未加密、未认证协议泄露敏感位置遥测数据的更广泛模式，且这些数据通常被发送到厂商无法控制的云端端点。对于像 TP-Link 这样大规模部署的品牌而言，这种长期存在的缺陷会削弱消费者对现成智能家居安防产品的信任。 该泄露依赖 UDP——一种无连接的协议，不提供认证或加密机制，这意味着同一局域网段上的任何设备都可以被动监听并收集 GPS 数据。社区评论者指出，实际暴露范围有限，除非摄像头被放置在路由器的 DMZ 中，因为默认情况下它无法直接从公网访问。
 
-rss · Tom's Hardware · 7月17日 12:16
+hackernews · BadChemical · 7月17日 21:42 · [社区讨论](https://news.ycombinator.com/item?id=48952565)
 
-**背景**: AI 超大规模云计算运营商是指微软、谷歌、亚马逊和 Meta 等运营超大规模数据中心基础设施的公司，这些设施为云计算和 AI 工作负载提供海量算力。这些设施消耗大量能源——仅美国的数据中心在 2023 年就消耗了约 176 太瓦时（TWh）的电力，约占全国用电量的 4.4%。澳大利亚的框架回应了人们对 AI 算力基础设施快速扩张可能给当地电网和水资源带来压力的日益增长的担忧，同时利用该国丰富的太阳能和风能资源来吸引投资。
+**背景**: TP-Link Kasa EC71（Kasa Spot Pan Tilt）是一款具备运动追踪、夜视和 microSD 存储功能的 1080p 室内安防摄像头，属于 TP-Link 面向消费者的 Kasa 智能家居产品线。UDP（用户数据报协议）是一种轻量级、无连接的传输层协议，常用于 DNS、NTP 和流式遥测等对时效性或低开销要求较高的通信场景，但由于缺乏认证机制，任何能够访问该网络的人都可以查询或窃听监听 UDP 端口的服务。IoT 设备上未认证的 UDP 服务历来是隐私泄露和反射型 DDoS 放大攻击的反复出现的源头。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.congress.gov/crs-product/R48646">Data Centers and Their Energy Consumption: Frequently Asked Questions | Congress.gov | Library of Congress</a></li>
-<li><a href="https://www.integrityenergy.com/blog/why-is-data-center-energy-consumption-so-high/">Why is Data Center Energy Consumption So High? | Integrity Energy</a></li>
-<li><a href="https://www.aitooldiscovery.com/ai-infra/hyperscalers-explained">Hyperscalers Explained: What They Are and How They Work</a></li>
+<li><a href="https://www.tp-link.com/us/home-networking/cloud-camera/ec71/v1/">EC71 | Kasa Spot Pan Tilt, 24/7 Recording | TP-Link</a></li>
+<li><a href="https://static.tp-link.com/upload/product-overview/2024/202403/20240318/EC71+4.6_Datasheet.pdf">Kasa Spot® Pan Tilt 24/7 Recording Indoor Security Camera EC71 Motion Tracking</a></li>
+<li><a href="https://www.kb.cert.org/vuls/id/417980">VU#417980 - Implementations of UDP-based application protocols are vulnerable to network loops</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI policy`, `#data centers`, `#sustainability`, `#Australia`, `#energy efficiency`
+**社区讨论**: 社区意见分歧：部分评论者认为这份报告是 IoT 系统性安全问题的典型体现，ericpauley 指出许多设备将数据发送到厂商无法控制的云 IP，而 gruez 认为报告看起来是 AI 生成的，且实际风险在纯局域网部署中很小，除非错误配置了 DMZ。drnick1 强调了廉价 IoT 硬件绝不应直接暴露在公网上的观点，nubinetwork 和 BobbyTables2 则分别对导致设备变砖的固件更新和漫长的披露时间表表示担忧。
+
+**标签**: `#security`, `#iot`, `#vulnerability`, `#privacy`, `#tp-link`
 
 ---
 
 <a id="item-7"></a>
-## [Shark 扫地机器人 AWS IoT 漏洞：被盗证书可劫持同区域设备](https://www.tomshardware.com/tech-industry/cyber-security/shark-robot-vacuum-flaw-lets-one-stolen-certificate-run-root-commands-on-others-in-the-same-aws-region) ⭐️ 7.5/10
+## [Julia Evans 分享生产环境运行 SQLite 的经验教训](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) ⭐️ 7.0/10
 
-安全研究人员披露了 Shark 扫地机器人中一个未修补的漏洞：过度宽松的 AWS IoT 策略允许单个被盗的客户端证书对同一 AWS 区域内的其他 Shark 扫地机器人执行 root 级别命令，成功利用后可获取实时摄像头画面、存储的家居地图以及 Wi-Fi 凭据。 该漏洞使单一被攻陷的设备成为攻击整个消费级机器人机队的跳板，对配备摄像头的 Shark 扫地机器人用户家庭带来了严重的隐私和物理安全风险。同时，它也是一则关于过度宽松云 IoT 策略——一种反复出现的云配置错误——如何破坏原本相互隔离的智能家居设备安全模型的警示案例。 根本原因在于 AWS IoT Core 策略授予了过多权限，使得针对一台设备进行身份验证的证书实际上可以被信任，在同一区域内对其他设备执行操作，从而升级为 root 命令执行。截至披露时，厂商尚未发布补丁，受影响用户目前没有官方修复途径。
+Julia Evans 发布了一篇博客文章，详细分享了她在生产环境运行 SQLite 时学到的实践经验，涵盖性能问题、备份和运维注意事项。该文章引发了社区的强烈关注，读者们分享了工具技巧，并对她的性能假设提出了技术批评。 Julia Evans 是一位广受尊敬的技术教育者，她对生产环境 SQLite 的探索为那些不再满足于玩具项目和原型的开发者提供了宝贵的实战见解。社区讨论既带来了可直接应用的工具技巧，也对小规模下的性能假设提出了重要的反驳意见，使其成为一个关于诚实、基于经验的写作的有价值案例研究。 SQLite CLI 中的 `.expert` 模式可以根据分析的查询自动推荐索引，对于不熟悉阅读查询计划的开发者来说是一个很有用的工具。一位专注于数据库的评论者（stevoski）认为，仅 10k 行的全表扫描本应几乎是瞬时的，并怀疑慢删除问题其实是经典的 n+1 查询问题，而非 SQLite 的性能限制。
 
-rss · Tom's Hardware · 7月17日 10:00
+hackernews · surprisetalk · 7月17日 17:45 · [社区讨论](https://news.ycombinator.com/item?id=48950122)
 
-**背景**: AWS IoT Core 是亚马逊提供的托管云服务，允许物联网设备连接云端并进行数据交换；每台设备使用唯一的 X.509 客户端证书进行身份验证，并受基于 JSON 的 IoT 策略约束，该策略定义设备可以执行的操作，类似于 AWS IAM 策略。设计良好的策略遵循最小权限原则，仅授予每个身份真正需要的资源和操作权限。过度宽松的策略授予了超出必要范围的访问权限——这是一种常见的云配置错误，可能导致一个身份冒充其他身份、与其资源通信或控制其资源，从而使原本相互隔离的设备变成一个可被集体利用的设备群。
+**背景**: SQLite 是一个自包含、无服务器、支持事务的 SQL 数据库引擎，以进程内方式运行，非常适合嵌入式应用、移动应用，以及越来越多地被用于中小型 Web 服务。Julia Evans 以其通俗易懂的「Wizard Zines」和透明的学习风格而闻名，经常公开记录自己的学习过程。在生产环境中运行 SQLite 与 PostgreSQL 等客户端/服务器数据库不同，因为没有独立的数据库服务器进程，这会影响备份策略、并发处理方式以及可用的运维工具。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://docs.aws.amazon.com/iot/latest/developerguide/iot-policies.html">AWS IoT Core policies</a></li>
-<li><a href="https://blog.securelayer7.net/overly-permissive-iam-policies/">Securing Cloud Environments: Preventing Overly Permissive IAM ...</a></li>
-<li><a href="https://docs.aws.amazon.com/iot/latest/developerguide/device-certs-create.html">Create AWS IoT client certificates - AWS IoT Core</a></li>
+**社区讨论**: 社区反应热烈且观点多元。评论者们分享了实用的补充信息，例如 SQLite 的 `.expert` 索引推荐模式和 Simon Willison 的 `s3-credentials` 工具（用于限定范围的 AWS 访问）。一位数据库从业者（stevoski）强烈质疑 10k 行级别出现性能问题这一前提，怀疑真正的元凶是经典的 n+1 查询；另一些人则赞扬 Julia 真实的探索式写作风格，认为与过度自信的 LLM 生成内容形成了令人耳目一新的对比，但也有评论者认为该文章缺乏实质内容。
 
-</ul>
-</details>
-
-**标签**: `#IoT security`, `#AWS IoT`, `#vulnerability disclosure`, `#smart home`, `#privacy`
+**标签**: `#sqlite`, `#databases`, `#operations`, `#performance`, `#devops`
 
 ---
 
 <a id="item-8"></a>
-## [壁仞科技发布 NPO 光互连超节点方案，支持 1024 卡 Scale-up 扩展](https://36kr.com/newsflashes/3900457432680067?f=rss) ⭐️ 7.3/10
+## [Kimi K3 以及我们仍能从鹈鹕基准测试中学到什么](https://simonwillison.net/2026/Jul/16/kimi-k3/) ⭐️ 7.0/10
 
-在 2026 年 7 月 17 日至 20 日于上海举办的 2026 世界人工智能大会（WAIC）上，壁仞科技正式发布下一代采用 NPO（近封装光学）光互连和分布式解耦架构的超节点方案，支持单个超节点扩展至 1024 张加速卡。 此次发布使壁仞科技有望与 NVIDIA 的 NVL72/NVL576 级别系统以及华为 Atlas 等国内竞争对手角逐高端 AI 基础设施市场，直面制约大模型训练的关键扩展瓶颈。凭借光互连实现 1024 卡规模的统一 Scale-up，代表了中国国产 AI 算力栈的一次重大架构跨越。 NPO（近封装光学）介于传统可插拔光模块和完全集成的共封装光模块（CPO）之间，在不承受 CPO 全部封装复杂度的前提下提升了带宽密度和能效比。所谓"分布式解耦架构"意味着计算与内存资源在超节点层面被解耦分散，通过光网络而非紧耦合机箱互连。
+Simon Willison 对 Kimi K3 的分析以及鹈鹕基准测试的局限性，揭示了它在评估现代大语言模型方面的价值与不足，尤其是在智能体工具使用和隐藏系统提示方面。
 
-rss · 36氪 · 7月18日 01:30
+hackernews · droidjj · 7月17日 14:21 · [社区讨论](https://news.ycombinator.com/item?id=48947717)
 
-**背景**: Scale-up 是指将大量加速器紧耦合为一个统一的计算域——类似 NVIDIA NVL72 将 72 块 GPU 当作一块巨型 GPU 使用——以支持训练前沿 AI 模型所需的低延迟集合通信操作。Scale-out 则是通过标准网络连接独立节点，通常用于容量扩展。NPO 和 CPO 等光互连技术日益关键，因为电信号 SerDes 链路难以满足超大规模下每瓦带宽的需求，光子学已成为下一代 AI 集群的战略制高点。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://credosemi.com/blogs/near-package-optics/">Near-Package Optics: Evolution of Optical Connectivity - Credo</a></li>
-<li><a href="https://www.fs.com/blog/scaleup-vs-scaleout-in-ai-infrastructure-41313.html">Scale-Up vs. Scale-Out in AI Infrastructure - FS.com</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling">Co Packaged Optics (CPO) – Scaling with Light for the Next Wave of Interconnect</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI infrastructure`, `#optical interconnect`, `#super-computing`, `#Chinese AI chips`, `#scale-up`
+**标签**: `#ai-benchmarks`, `#llm-evaluation`, `#kimi-k3`, `#simon-willison`, `#model-analysis`
 
 ---
 
 <a id="item-9"></a>
-## [首次在类地行星上发现大气层，该行星位于遥远恒星的宜居带](https://www.bbc.com/news/articles/cy4kdd1e0ejo) ⭐️ 7.0/10
+## [ASML 计划上调 Low-NA EUV 光刻机价格，引发台积电不满](https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions) ⭐️ 6.5/10
 
-詹姆斯·韦伯太空望远镜在一颗位于红矮星宜居带内的岩石系外行星 LHS 1140b 上探测到了大气层，标志着寻找宜居世界取得了重要里程碑。
+据报道，ASML 正计划上调其 Low-NA EUV 光刻机的价格，理由是这些设备的生产力有所提升。此次涨价可能会让正在扩建晶圆厂产能的台积电多花费数十亿美元。 这之所以重要，是因为台积电已在其先进制程（A16 和 A14）上做出了重大战略押注——选择使用 Low-NA EUV 配合多重图形曝光技术，而非采用 High-NA EUV，这意味着它将需要更多的 Low-NA 设备，并承担任何价格上涨带来的冲击。这一财务影响可能会波及整个半导体供应链，进而影响芯片定价和先进晶圆厂建设的经济性。 ASML 的 Low-NA EUV 系统采用 0.33 数值孔径的光学元件，台积电计划利用计算光刻技术（如逆向光刻和曲率掩膜版优化）来延伸其可用分辨率，而非升级到 High-NA 设备。据报道，每台 High-NA EUV 系统的价格显著高于 Low-NA 系统，这使得采用 Low-NA 配合多重图形曝光成为台积电近期路线图中更具成本效益的路径。
 
-hackernews · neversaydie · 7月17日 14:06 · [社区讨论](https://news.ycombinator.com/item?id=48947560)
+rss · Tom's Hardware · 7月17日 15:57
 
-**标签**: `#astronomy`, `#exoplanets`, `#JWST`, `#astrobiology`, `#space-science`
+**背景**: ASML 是全球唯一的 EUV（极紫外）光刻系统供应商，这些设备对于制造 7nm 以下的先进芯片至关重要。Low-NA EUV（数值孔径 0.33）自 2019 年前后已投入大规模量产，而 High-NA EUV（数值孔径 0.55）则是下一代技术，能提供更好的分辨率，但成本也高得多。台积电已公开表示将在其 A16（1.6nm）和 A14（1.4nm）制程中跳过 High-NA EUV，转而使用 Low-NA 配合先进的多重图形曝光技术和计算光刻技术。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/asml-lithograpy-roadmap-examined-from-duv-to-hyper-na">ASML's roadmap for chipmaking lithography tools examined — from DUV to Low-NA, High-NA, Hyper-NA, and beyond | Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#ASML`, `#TSMC`, `#EUV-lithography`, `#chip-manufacturing`
 
 ---
 
 <a id="item-10"></a>
-## [Julia Evans 分享运行 SQLite 的实战经验](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) ⭐️ 7.0/10
+## [国家数据局：全国已建成高质量数据集 12 万个](https://36kr.com/newsflashes/3900807486293892?f=rss) ⭐️ 6.3/10
 
-Julia Evans（b3nn）发表了一篇博客文章，详细分享了她在生产环境中运行 SQLite 时学到的实践经验，内容涵盖备份、配置和日常运维等方面。这篇文章引发了社区的深入讨论，收获了 165 个点赞和 40 条评论，读者分享了更多工具技巧和运维窍门。 SQLite 越来越多地被用于生产环境中的单节点应用，但相比 API 使用，运维方面的知识（如备份、WAL 模式、性能调优）的文档相对较少。Evans 作为知名技术教育者具有广泛的影响力，加上社区的高度参与，使得这篇文章对那些在非简单场景中部署 SQLite 的开发者来说非常有价值。 讨论中浮现了几个实用的技巧：SQLite 的 `.expert` CLI 模式可以自动为查询推荐索引；使用 `sqlite3 -readonly .dump | zstd --rsyncable` 进行备份，在 WAL 模式下不会阻塞写入者，并能生成压缩且适合 rsync 同步的归档文件；像 Litestream 这样的工具可以实现向 S3 兼容存储的持续增量复制。
+国家数据局表示，全国已建成 12 万个高质量数据集，总容量达 1565PB，单季度增长 60%。目前已设立 7 个数据标注试点城市，拥有 14 万名标注从业人员，为人工智能发展提供支撑。
 
-hackernews · surprisetalk · 7月17日 17:45 · [社区讨论](https://news.ycombinator.com/item?id=48950122)
+rss · 36氪 · 7月18日 08:00
 
-**背景**: SQLite 是一个自包含、无服务器、具备事务特性的 SQL 数据库引擎，广泛嵌入在各种应用中。WAL（预写日志）模式是默认回滚日志的替代方案，允许读写并发执行，这对生产负载至关重要。SQLite 的备份策略包括在线备份 API（用于热备份）、`.dump` 命令，以及像 Litestream 这样的持续复制工具——它可以将 WAL 页面流式传输到远程存储。索引优化通常通过阅读查询执行计划来指导，不过 SQLite 现在通过 `.expert` 提供了自动索引推荐功能。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://sqlite.org/wal.html">Write-Ahead Logging - SQLite</a></li>
-<li><a href="https://litestream.io/">Litestream - Streaming SQLite Replication</a></li>
-<li><a href="https://sqlite.org/c3ref/backup_finish.html">Online Backup API.</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区讨论非常务实且有增量价值。评论者分享了具体工具：用于自动索引推荐的 `.expert` CLI 命令、不阻塞 WAL 写入者的 `sqlite3 .dump | zstd --rsyncable` 备份管道，以及用于生成限定权限 AWS 凭证的 `s3-credentials` 工具。一位用户指出 SQLite 难得之处在于其文档确实能提升工程师技能而非让人更困惑，另一位用户则提出了批量 DELETE 策略以缓解长时间运行的删除操作问题。
-
-**标签**: `#sqlite`, `#databases`, `#operations`, `#technical-education`, `#backups`
+**标签**: `#China-AI`, `#data-infrastructure`, `#AI-policy`, `#national-strategy`, `#data-annotation`
 
 ---
 
 <a id="item-11"></a>
-## [Kimi K3，以及我们仍能从鹈鹕基准测试中学到什么](https://simonwillison.net/2026/Jul/16/kimi-k3/) ⭐️ 7.0/10
+## [TSMC CoWoS 对决 Intel EMIB：客户是否正在转向英特尔的封装技术？](https://semiwiki.com/semiconductor-manufacturers/tsmc/371412-tsmc-cowos-versus-intel-emib-semiconductor-packaging/) ⭐️ 6.0/10
 
-Simon Willison 使用"鹈鹕骑自行车"SVG 基准测试来评估 Kimi K3，揭示了一些有趣的分词器行为，包括存在隐藏系统提示的证据，同时社区也在批判性地讨论视觉基准测试在评估现代智能体能力方面的局限性。
+SemiWiki 报道称，在最近举行的会议上，有传闻指出部分 TSMC 的客户正将晶圆送往 Intel 进行封装，这一趋势促使 TSMC 首席执行官魏哲家在最近一次投资者电话会议上被问及 EMIB-T 时的看法。 由于 AI 加速器需求激增，CoWoS 产能严重受限，任何客户向 Intel EMIB 的迁移都将表明 TSMC 在先进封装领域的主导地位正面临竞争压力，并可能重塑 Nvidia、AMD 等芯片制造商的供应链策略。 已发布的文章只是一段截断的预告，CEO 魏哲家的实际评论被付费墙或"阅读更多"链接遮挡；可见文本中并未披露标准 EMIB 与文中提及的 EMIB-T 变体之间的精确技术差异。
 
-hackernews · droidjj · 7月17日 14:21 · [社区讨论](https://news.ycombinator.com/item?id=48947717)
+rss · SemiWiki · 7月17日 15:00
 
-**标签**: `#llm-evaluation`, `#kimi-k3`, `#benchmarks`, `#tokenizer-analysis`, `#simon-willison`
+**背景**: CoWoS（Chip-on-Wafer-on-Substrate，芯片上晶圆上基板）是 TSMC 的 2.5D 先进封装技术，它将多个小芯片（chiplet）放置在硅中介层上以实现高带宽通信，是 Nvidia 旗舰 AI GPU 的核心封装方案。EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多芯片互连桥）是 Intel 的竞争性 2.5D 方案，它将小型硅桥嵌入有机基板中，而不是使用完整的硅中介层，因此可能更具成本效益。这两项技术都旨在解决同一核心挑战：在单个封装中集成多个小芯片，通过高密度、低延迟的互连来支撑现代 AI 和高性能计算工作负载。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://logicity.in/en/blog/tsmc-cowos-can-pack-58-dies-before-panels-take-over">TSMC : CoWoS can pack 58 dies before panels take over | Logicity</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-emib-embedded-multi-die-interconnect-bridge/">Intel EMIB (Embedded Multi-die Interconnect Bridge) - SemiWiki</a></li>
+<li><a href="https://semiconductorx.com/packaging-emib.html">EMIB Advanced Packaging: Embedded Multi-Die Interconnect ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#advanced-packaging`, `#TSMC`, `#Intel`, `#CoWoS`
 
 ---
 
 <a id="item-12"></a>
-## [开源权重 AI 模型使用量超越闭源模型](https://stateofopensource.ai/) ⭐️ 7.0/10
+## [PC 厂商争抢长鑫存储内存供应，小型 OEM 举步维艰](https://www.techpowerup.com/350853/pc-vendors-fight-for-cxmt-memory-supply-smaller-oems-struggle) ⭐️ 5.5/10
 
-一份关于开源 AI 现状的报告显示，开源权重模型已在 OpenRouter 平台上超越闭源模型：四个月前闭源与开源的比例为 60%-40%，而如今开源对闭源的比例已达到 63%-37%。开源模型在 3 月 19 日处理了 888B tokens，而最近日处理量已飙升至 4.19T tokens，四个半月内增长了近 5 倍。 这一转变预示着可能对 OpenAI 和 Anthropic 等前沿 AI 实验室构成冲击，因为超大规模云服务商可以在无授权费的情况下运行开源模型，而苹果等设备制造商也可以在设备端部署压缩版本。如果开源模型继续以这种速度抢占市场份额，前沿实验室数十亿美元的训练投入将面临商品化压力。 OpenRouter 的数据追踪的是真实场景下的推理路由，因此相比下载量或基准测试更能反映下游模型的实际使用情况。社区评论者指出，Llama、DeepSeek、Qwen 和 Mistral 等开源模型已使企业自托管部署变得越来越可行，大幅降低了成本门槛。
+戴尔、惠普和苹果等主要 PC OEM 厂商已锁定中国内存厂商长鑫存储（CXMT）直至 2027 年的 DRAM 产能份额，而小型厂商则因 CXMT 产能有限以及三大内存厂商供应紧张而陷入困境。
 
-hackernews · rellem · 7月17日 14:31 · [社区讨论](https://news.ycombinator.com/item?id=48947825)
+rss · TechPowerUp News · 7月17日 17:56
 
-**背景**: 开源权重 AI 模型是指其训练参数（即权重）可公开下载和使用的模型，通常采用 Apache 2.0 等宽松许可证。相比之下，前沿 AI 实验室将其最强能力的模型保持闭源，仅通过 API 提供服务，依靠感知上的能力差距来支撑溢价定价。OpenRouter 是一个 LLM 路由平台，聚合了众多模型提供商的推理流量，其市场份额数据成为反映开发者在生产环境中实际选择哪些模型的有用指标。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://allthings.how/what-is-an-open-weight-ai-model-and-how-to-use-one/">What is an Open Weight AI Model and How to Use One</a></li>
-<li><a href="https://openai.com/open-models/">Open models by OpenAI</a></li>
-<li><a href="https://onyx.app/self-hosted-llm-leaderboard">Best Self-Hosted LLM Leaderboard 2026 | Open-Weight Model ...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区意见分歧：部分评论者提供了显示开源模型快速增长的具体数据，而另一些评论者则严厉批评报告本身明显由 LLM 生成且结构混乱，质疑高管为何会为 AI 撰写的内容署名。一个反复出现的主题是有人推测开源模型可能瓦解前沿实验室的商业模式，其中一位评论者认为前沿模型既是优势也是负担，因为其训练成本极其高昂。
-
-**标签**: `#open-source`, `#AI`, `#LLMs`, `#market-trends`, `#AI-ecosystem`
+**标签**: `#DRAM`, `#supply-chain`, `#CXMT`, `#PC-hardware`, `#semiconductors`
 
 ---
 
 <a id="item-13"></a>
-## [台积电 CoWoS 对比英特尔 EMIB：客户为何可能跨界封装](https://semiwiki.com/semiconductor-manufacturers/tsmc/371412-tsmc-cowos-versus-intel-emib-semiconductor-packaging/) ⭐️ 7.0/10
+## [英伟达 RTX 50 Super 显卡已就绪但因 GDDR7 价格过高而搁置](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb) ⭐️ 5.5/10
 
-SemiWiki 发表了一篇分析报告，比较台积电的 CoWoS 与英特尔的 EMIB 先进封装技术，背景是近期有传闻称部分台积电客户正将晶圆送往英特尔进行封装。在最近一次投资者电话会议上，台积电 CEO 魏哲家被问及这一趋势，分析师 Jeff Su 在讨论中提到了英特尔的 EMIB-T 技术。 先进封装已成为 AI 芯片供应的关键瓶颈，台积电的 CoWoS 产能正因 AI 加速器和 HPC 客户的需求激增而严重受限。如果台积电的客户开始将封装业务分散至英特尔代工，这既反映出产能紧张的程度，也意味着英特尔代工在先进封装服务领域可能迎来战略性机遇。 CoWoS（Chip-on-Wafer-on-Substrate，芯片上晶圆上基板）采用整块硅中介层来集成多个芯粒，由台积电于 2012 年推出。英特尔的 EMIB 则改用嵌入式小型硅桥实现芯片间互连，避免了大型中介层在成本和尺寸上的限制。EMIB-T 是升级版本，支持最大 120x180 毫米的封装尺寸、超过 38 个硅桥以及 12 个矩形芯片，面向 AI 和 HPC 工作负载。
+据报道，英伟达的 RTX 50 Super 显卡已经开发完成，但由于 3GB GDDR7 显存模块价格虚高（是标准 RTX 50 系列所采用的 2GB GDDR7 芯片价格的 2 到 3 倍），导致这些显卡的发布被迫推迟。这一价格差异预计将使 Super 版本的零售价远超英伟达设定的建议零售价目标。 这一事件的重要性在于，它凸显了显存供应链成本如何直接影响产品能否上市以及以何种价格上市，可能让游戏玩家和硬件发烧友不得不等待更长时间才能迎来一轮中端显卡更新。它同时也反映出显卡制造商在 DRAM 价格波动时期管理物料成本所面临的更广泛挑战。 Super 系列所需的 3GB GDDR7 模组相比 2GB 模组有 2 到 3 倍的价格溢价，这很可能是因为高密度显存芯片的良率较低，在市场上也更加稀缺。英伟达面临一个艰难的抉择：要么自行消化上涨的物料成本（从而侵蚀利润率），要么将其转嫁给消费者（在显卡定价已经备受关注的时期面临需求疲软的风险）。
 
-rss · SemiWiki · 7月17日 15:00
+rss · Tom's Hardware · 7月18日 13:45
 
-**背景**: 随着传统摩尔定律缩放放缓，2.5D 和 3D 等先进封装技术变得不可或缺。设计师不再依赖单一的单片芯片，而是将 CPU、GPU、HBM 内存、AI 加速器等多个芯粒组合在一个封装内，以实现更高性能和良率。台积电的 CoWoS 是 NVIDIA GPU 等高端 AI 芯片的主流选择，但产能严重受限。英特尔的 EMIB 最早可追溯到 2018 年的 Kaby Lake-G 产品（整合了台积电、格罗方德和英特尔各自制造的芯片），代表了一种使用硅桥而非整块中介层的替代架构。
+**背景**: GDDR7 是最新一代的图形显存，专为 GPU 和 AI 加速器等高带宽应用而设计，它被直接焊接到显卡上，而不是作为可拆卸的内存模块来安装。现有的 RTX 50 系列使用的是 2GB GDDR7 芯片；改用 3GB 模组可以在更窄的显存位宽下实现更大的总容量（例如 24GB 或 32GB），但单颗芯片的成本更高。建议零售价（MSRP，Manufacturer's Suggested Retail Price）是英伟达官方建议的售价，但实际上零售市场的'市售价'往往会因供货情况、需求以及零售商加价等因素而与之不同。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS ® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
-<li><a href="https://semiwiki.com/semiconductor-manufacturers/intel/298674-intels-emib-packaging-technology-a-deep-dive/">Intel ’s EMIB Packaging Technology – A Deep Dive - SemiWiki</a></li>
-<li><a href="https://www.kad8.com/hardware/intel-archieves-breakthroughs-new-packaging-technology/">Intel Archieves Breakthroughs New Packaging Technologies · KAD</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GDDR7_SDRAM">GDDR7 SDRAM - Wikipedia</a></li>
+<li><a href="https://semiconductor.samsung.com/dram/gddr/gddr7/">GDDR7 - DRAM | Samsung Semiconductor Global</a></li>
+<li><a href="https://www.cgdirector.com/gpu-msrp-list/">GPU MSRP List - AMD, Nvidia & Intel Graphics Cards</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#advanced-packaging`, `#TSMC`, `#Intel`, `#supply-chain`
+**标签**: `#nvidia`, `#gpu`, `#gddr7`, `#hardware`, `#pricing`
 
 ---
 
 <a id="item-14"></a>
-## [θ-TaN 材料导热性能达铜的三倍](https://www.eetimes.com/new-material-beats-coppers-thermal-conductivity/) ⭐️ 7.0/10
+## [韩国机构举办 1.44MB 游戏开发大赛致敬软盘——参赛者须将整套文件（含资源、引擎及库）压缩至极小存储格式](https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format) ⭐️ 5.5/10
 
-研究人员发现了一种名为θ-TaN（θ相氮化钽）的金属材料，其导热系数据称接近铜的三倍，有望为芯片散热层和半导体热管理带来突破。 随着晶体管制程不断缩小、功率密度持续上升，热管理已成为芯片性能和可靠性的关键瓶颈。如果θ-TaN 能够可靠地制造并集成到半导体工艺中，它可能实现更高效的散热，减少热点，并为先进处理器释放新的性能空间。 「接近铜的三倍」这一导热率声明非常惊人，尚待独立实验验证和同行评议复现。氮化钽通常通过在约 1100°C 下用氨气或氮气对钽粉进行氮化制备，已用于精密薄膜电阻器及芯片制造中的扩散阻挡层，这或许有助于其集成，但实际采用仍取决于 CMOS 兼容性、成本和晶圆级沉积的可行性。
+韩国某机构正在举办一场开放式游戏开发大赛，要求所有游戏文件（引擎、资源、库）均须容纳在 1.44MB 软盘容量内，前三名获奖者将获得现金奖励。
 
-rss · EE Times · 7月17日 19:00
+rss · Tom's Hardware · 7月18日 11:00
 
-**背景**: 导热系数衡量材料传递热量的效率；铜的导热率约为 400 W/m·K，长期以来一直是电子散热的基准材料。随着晶体管尺寸缩小和功率密度上升，即使铜也难以足够快地移除热量，因此研究人员开始寻找金刚石、石墨烯和先进陶瓷等替代材料。氮化钽（TaN）在半导体行业已有应用基础，常被用作薄膜电阻材料以及铜扩散阻挡层，因此具有卓越热性能的θ相虽然性能令人瞩目，但对该材料而言并不是一个完全陌生的方向。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.researchgate.net/publication/403831320_How_th-Phase_Tantalum_Nitride_Beats_Copper_as_the_Finest_Heat_Conductor_on_Earth_On_Phononic_Elegance_Crystalline_Order_and_the_Surprising_Sovereignty_of_Heat">(PDF) How θ -Phase Tantalum Nitride Beats Copper as the Finest...</a></li>
-<li><a href="https://spectrum.ieee.org/diamond-thermal-conductivity">Diamond Thermal Conductivity: A New Era in Chip Cooling ...</a></li>
-<li><a href="https://cgmaterial.com/products/tantalum-nitride-powder-tan">Tantalum Nitride Powder ( TaN ), CAS No 12033-62-4 – CG MATERIAL</a></li>
-
-</ul>
-</details>
-
-**标签**: `#materials-science`, `#thermal-management`, `#semiconductors`, `#chip-cooling`, `#hardware`
+**标签**: `#game-development`, `#code-optimization`, `#retro-computing`, `#contest`, `#demoscene`
 
 ---
 
 <a id="item-15"></a>
-## [ASML 计划上调 Low-NA EUV 光刻机价格，据报道令台积电感到不满——光刻机厂商盯上台积电盈利丰厚的晶圆厂以牟取暴利，可能让这家台湾芯片制造商损失数十亿美元](https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions) ⭐️ 6.5/10
+## [40 克自主微型无人机利用汽车泊车传感器实现空中击杀蚊子](https://www.tomshardware.com/tech-industry/drones/autonomous-micro-drone-achieves-first-air-to-air-insect-kill-on-the-way-towards-completely-eradicating-mosquitoes-40-gram-unit-uses-car-parking-sensors-can-eliminate-insects-at-up-to-26-feet) ⭐️ 5.5/10
 
-据报道，ASML 正计划大幅上调 Low-NA EUV 光刻机的价格，可能让台积电损失数十亿美元，并影响其盈利晶圆厂的扩张计划。
+一架搭载汽车超声波泊车传感器的 40 克自主微型无人机完成了首次空中击杀蚊子的测试，能够在远至 26 英尺（约 8 米）的距离上探测并消灭飞行中的昆虫。该里程碑被描述为迈向彻底消灭蚊子的目标的一步。 蚊子是疟疾、登革热和寨卡病毒等疾病的主要传播媒介，因此自主空中精准打击可以补充甚至替代传统的杀虫剂喷洒和幼虫治理。将廉价、量产的汽车传感器重新用于生物害虫防治，体现了消费级硬件向公共健康应用转化的潜力。 该无人机仅重 40 克，依赖与汽车保险杠泊车辅助系统相同的超声波近距离探测原理，即通过测量超声波回波的时间来计算与障碍物的距离。26 英尺的有效击杀距离表明超声波传感器能够在数倍于无人机自身翼展的距离上可靠识别小型快速移动的昆虫目标，但文章并未详细说明击杀机制或飞行续航的限制。
 
-rss · Tom's Hardware · 7月17日 15:57
+rss · Tom's Hardware · 7月18日 09:00
 
-**标签**: `#semiconductors`, `#ASML`, `#TSMC`, `#EUV lithography`, `#chip manufacturing`
+**背景**: 汽车泊车传感器是安装在车辆保险杠上的超声波近距离探测器，通过发射高频声波脉冲并测量回波返回时间来估算与附近物体的距离，通常用于在低速行驶时提醒驾驶员注意障碍物。20 kHz 以上的超声波频率在昆虫学领域早已用于探测昆虫，包括蛀木害虫，因为该频段的背景噪声可以忽略不计。自主微型无人机结合了微型飞控、机载传感器以及日益成熟的感知算法，能够在没有人类操控的情况下自主导航并追踪目标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Parking_sensor">Parking sensor - Wikipedia</a></li>
+<li><a href="https://www.bosch-mobility.com/en/solutions/sensors/ultrasonic-sensor/">Ultrasonic sensor - Bosch Mobility</a></li>
+<li><a href="https://www.mdpi.com/2504-446X/9/6/442">UAV Autonomous Navigation System Based on Air–Ground ... - MDPI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#drones`, `#robotics`, `#autonomous-systems`, `#public-health`, `#sensor-technology`
 
 ---
 
 <a id="item-16"></a>
-## [马里奥赛车 Wii 通过 AI 辅助静态重编译移植至 PC](https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility) ⭐️ 6.5/10
+## [佛州男子利用 Steam 游戏藏匿恶意软件窃取 22 万美元加密货币被捕](https://www.tomshardware.com/tech-industry/cyber-security/fbi-arrests-florida-man-in-steam-malware-investigaton-after-tracing-stolen-bitcoin-to-uber-eats-gift-cards) ⭐️ 5.5/10
 
-马里奥赛车 Wii 已通过 AI 辅助工具静态重编译至 PC 平台，成为首款被静态重编译的 Wii 游戏。该项目计划于 8 月发布，支持 4K 分辨率、无限制帧率，并通过兼容 Retro Rewind 自定义赛道包支持超过 200 条赛道。 这标志着游戏保护和二进制翻译领域的一个重要里程碑，表明 AI 可以自动化将 PowerPC/MIPS 机器码翻译为 PC 原生可执行文件的复杂过程。与传统模拟不同，静态重编译生成独立的原生可执行文件，理论上能比 Dolphin 等现有方案提供更好的性能和更广泛的兼容性。 静态重编译在构建时将游戏的机器码翻译为原生可执行文件，无需运行时模拟层。由 ZPL 创建并于 2021 年发布的 Retro Rewind 模组包贡献了来自马里奥赛车系列的 145 条复古赛道，使总赛道数超过 200 条。
+联邦调查局逮捕了来自佛罗里达州北劳德代尔堡的 21 岁嫌疑人 Zyaire Dontaevious Zamarion Wilkins，罪名是通过隐藏在 Steam 游戏中的恶意软件窃取了价值 22 万美元的加密货币，该恶意软件感染了约 8000 台设备。联邦探员追踪到被盗比特币被用于购买 Uber Eats 礼品卡，由此锁定并逮捕了嫌疑人。 此案件凸显了通过游戏平台传播恶意软件的威胁日益严重，以及以加密货币为目标的网络犯罪的复杂性不断提高。它为游戏玩家和加密货币持有者敲响了警钟，展示了攻击者如何利用 Steam 等受信任的平台向大量受害者投递加密货币窃取程序。 加密货币窃取恶意软件（CryptoStealer）通常会在受感染的机器上搜索加密货币钱包文件、剪贴板活动和包含金融数据的浏览器 Cookie，然后将信息外传到命令与控制服务器。基于 Steam 的恶意软件分发经常利用该平台的创意工坊和模组功能，与 2025 年 9 月发现的 ModStealer 恶意软件类似，后者能够躲避杀毒软件检测，同时针对基于浏览器的加密货币钱包。
 
-rss · Tom's Hardware · 7月17日 10:00
+rss · Tom's Hardware · 7月17日 14:43
 
-**背景**: 传统模拟方式（如用于 Wii 游戏的 Dolphin 模拟器）通过软件模拟原始硬件运行，实时解释指令执行，计算开销较大。静态重编译则采用不同方法：提前将原游戏的机器码转换为目标平台的原生代码，生成无需模拟层即可直接运行的可执行文件。Wii 的 CPU 架构（基于 PowerPC 的 Broadway）与现代 PC 架构（x86-64）存在差异，使翻译工作具有相当难度。AI 辅助工具可能帮助自动化了这一翻译过程的某些部分，例如识别代码模式或生成翻译规则。
+**背景**: Steam 是由 Valve Corporation 运营的全球最大数字游戏分发平台之一，拥有数亿活跃用户。其创意工坊功能允许用户创建和分享模组、皮肤和其他游戏自定义内容，这些功能有时会被利用来隐藏恶意代码。加密货币窃取恶意软件（称为 CryptoStealer 或信息窃取器）是一类有据可查的恶意软件，专门用于从受感染系统中定位和窃取数字钱包凭证、私钥和助记词。这些恶意软件家族通常在后台静默运行，使得在没有强大终端安全解决方案的情况下难以检测。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://korben.info/en/mario-kart-wii-static-recompilation-pc-native.html">Mario Kart Wii coming soon without Dolphin or a Wii - Korben</a></li>
-<li><a href="https://mkwiiki.org/wiki/Retro_Rewind">Retro Rewind - Custom Mario Kart</a></li>
+<li><a href="https://www.pcrisk.com/removal-guides/14419-cryptostealer-trojan">CryptoStealer Trojan - Malware removal instructions (updated) Malwarebytes Threat Alert | Trojan.CryptoStealer.Go Undetectable crypto-stealing ModStealer malware targets ... New lightweight, self-propagating crypto stealing malware ... 5 Crypto-Stealing Malware Threats: How to Stay Safe and Aware Beware Bitcoin, Ether, Solana, XRP Wallets: This Virus Is ...</a></li>
+<li><a href="https://www.malwarebytes.com/blog/detections/trojan-cryptostealer-go">Malwarebytes Threat Alert | Trojan.CryptoStealer.Go</a></li>
+<li><a href="https://crypto.news/undetectable-crypto-stealing-modstealer-malware-targets-wallets-on-mac-and-windows/">Undetectable crypto-stealing ModStealer malware targets ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#static-recompilation`, `#ai`, `#wii-emulation`, `#retro-gaming`, `#binary-translation`
+**标签**: `#cybersecurity`, `#cryptocurrency`, `#malware`, `#crime`, `#gaming`
 
 ---
 
 <a id="item-17"></a>
-## [AMD Instinct MI350P 144GB HBM3E PCIe AI 加速器频繁亮相](https://www.servethehome.com/the-amd-instinct-mi350p-is-a-hbm-pcie-accelerator-that-has-been-all-over/) ⭐️ 6.5/10
+## [AMD Instinct MI350P：144GB HBM3E PCIe AI 加速器频繁现身](https://www.servethehome.com/the-amd-instinct-mi350p-is-a-hbm-pcie-accelerator-that-has-been-all-over/) ⭐️ 5.5/10
 
-AMD 搭载 144GB HBM3E 显存的 PCIe 形态 AI 加速器 Instinct MI350P 近日频繁出现在市场上，标志着 AMD 最新数据中心 GPU 的供货范围正在扩大。该卡还在 2026 年 Computex 展会上亮相，据报道于 2026 年 5 月 7 日正式发布。 MI350P 为企业提供了即插即用的 PCIe 方案，可在不依赖高端 MI350X 所需专用 OAM 基础设施的情况下部署大显存 AI 工作负载。其广泛的曝光表明 AMD 正在加大供货力度，以在生成式和代理式 AI 加速器市场上与 Nvidia 的 H200 NVL 进行更直接的竞争。 MI350P 的算力、显存和功耗约为 OAM 形态 MI350X 的一半，采用 600W 无源散热设计，基于 3nm 工艺制造，拥有 8,192 个着色单元。AMD 将其定位在第四代 CDNA 架构上，以在 AI 和 HPC 工作负载中实现领先的每瓦性能。
+AMD Instinct MI350P 是一款采用 PCIe 形态的 AI 加速器，配备 144GB HBM3E 显存和 128 个计算单元（CU），最近几周在多个场合和部署中频繁亮相。AMD 将其定位为可直接替换升级现有企业 AI 基础设施的产品。 MI350P 的重要性在于，它为企业提供了一条基于 PCIe 的大显存 AI 加速升级路径，无需改造服务器机柜以适配更新的互联拓扑。其 144GB HBM3E 容量以及宣称的 FP16/FP8 性能约比 NVIDIA H200 NVL 高 40%，使其在高端推理和训练市场中具备竞争力。 该加速卡采用 HBM3E 显存，这是一种 3D 堆叠 DRAM 技术，可提供远超传统 GDDR 显存更高的带宽和容量。PCIe 形态（而非 OAM 或专有模块）意味着它可以插入标准服务器插槽，尽管与基于专用互联的方案相比，其与主机 CPU/GPU 池之间的带宽通常较低。
 
 rss · ServeTheHome · 7月17日 17:00
 
-**背景**: HBM3E（第三代高带宽内存增强版）是由三星、AMD 和 SK 海力士共同开发的堆叠式 DRAM 技术，可提供极高的内存带宽，这对大语言模型的训练和推理至关重要。PCIe（外围组件互连高速总线）是大多数服务器所使用的标准扩展插槽接口，相比需要专用机箱和散热的 OAM（OCP 加速器模块）形态，PCIe GPU 部署更为简便。AMD 的 Instinct 产品线与 Nvidia 的数据中心 GPU 展开竞争，MI350 系列是 AMD 对标 Blackwell 架构的 H200 和 B200 产品的主力产品。
+**背景**: AMD Instinct 系列是 AMD 面向数据中心 GPU 的产品线，旨在与 NVIDIA 的加速器在 AI 和高性能计算领域竞争。HBM（高带宽存储器）是一种由三星、AMD 和 SK 海力士最初联合开发的 3D 堆叠 DRAM 技术，因大语言模型同时需要高显存容量和高显存带宽而被广泛应用于现代 AI 加速器。MI350 系列是 AMD 采用 HBM3E 的最新一代产品，后缀 'P' 表示 PCIe 形态版本，区别于该系列中的其他形态。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.servethehome.com/the-amd-instinct-mi350p-is-a-hbm-pcie-accelerator-that-has-been-all-over/">The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has...</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor">AMD announces MI350P PCIe AI accelerator card with 144GB of ...</a></li>
 <li><a href="https://www.amd.com/en/products/accelerators/instinct/mi350/mi350p.html">AMD Instinct™ MI350P PCIe® Cards</a></li>
-<li><a href="https://www.techpowerup.com/gpu-specs/radeon-instinct-mi350p.c4402">AMD Radeon Instinct MI350P Specs | TechPowerUp GPU Database</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#AI accelerators`, `#GPU`, `#HBM3E`, `#hardware`
-
----
-
-<a id="item-18"></a>
-## [印奇在 WAIC 2026：智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss) ⭐️ 6.3/10
-
-在 7 月 17 日 WAIC 2026 开幕式主论坛上，阶跃星辰与千里科技董事长印奇发表主题演讲《当智能体进入物理世界》，判断 2026 年是模型能力跨越关键临界点之年——AI 已从只能连续执行数秒任务，进阶到能够独立工作数十小时。他提出智能体浪潮将推动三大结构性变革：新系统层面的 Agentic OS、新载体层面的人机共生终端，以及新网络层面的 A2A 网络（智能体经济基础设施）。 作为中国两家重要 AI 公司（大模型公司阶跃星辰与机器人/智能终端公司千里科技）的董事长，印奇的框架对中国 AI 生态具有战略指引意义。他关于跨终端智能体连续性与智能体间经济（A2A）的愿景，标志着行业领军企业正为从屏幕 AI 向具身、网络化智能的转型进行布局。 印奇将编程能力定位为继自然语言之后衡量 AI 能力跃迁的下一标尺。他还提出了智能体进入物理世界必须回答的治理核心问题：智能体代表谁行动、行动后果由谁负责，以及如何确保身份可信、权限可控、行为可追溯。
-
-rss · 36氪 · 7月18日 00:53
-
-**背景**: Agentic OS（智能体操作系统）是一种新兴的软件基础设施层，负责管理自主 AI 智能体的全生命周期，包括调度、记忆管理、工具编排与治理，使多个智能体能够并发运行并跨环境扩展。A2A（Agent-to-Agent）协议是由 Google 等推动的开放标准，用于实现基于不同框架构建的 AI 智能体之间的互操作。具身智能（Embodied AI）指的是以物理或虚拟形态存在的智能体，能够感知环境、与环境交互并对其施加行动，从而打通数字智能与物理世界。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.make.com/en/blog/agentic-operating-system">What Is an Agentic Operating System? 2026 Guide | Make</a></li>
-<li><a href="https://a2a-protocol.org/latest/">A 2 A Protocol</a></li>
-<li><a href="https://arxiv.org/abs/2506.22355">[2506.22355] Embodied AI Agents: Modeling the World - arXiv.org</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI-agents`, `#WAIC-2026`, `#AGI`, `#embodied-AI`, `#industry-vision`
-
----
-
-<a id="item-19"></a>
-## [中科天塔星载激光通信终端智能产线在西安正式投产](https://36kr.com/p/3899439565325953?f=rss) ⭐️ 6.3/10
-
-7 月 16 日，中科天塔在西安正式投产星载激光通信智能产线，一期规划年产能 600 套，计划到 2027 年将年产能提升至千套以上。量产的终端通信速率覆盖 5Gbps 至 100Gbps，可适配不同类型低轨卫星星座。 这标志着中国空间激光通信技术从研发走向规模化制造，是大型低轨卫星星座组网的关键基础设施，对于追赶 Starlink 等星座建设具有重要意义。此次产线投产意味着中国激光通信终端具备了批量交付能力，将有力支撑低轨星座的快速部署。 产线位于西安高新区，占地约 2000 平方米，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等环节，配套数字化管理系统和自动化测试平台。核心光学部件由西安光机所自主研发，该所自 2004 年起布局空间激光通信技术，已累计研制百余套终端，部分产品已在轨业务化运行。终端具备体积小、功耗低、抗干扰能力强等特点。
-
-rss · 36氪 · 7月17日 07:55
-
-**背景**: 星载激光通信（又称星间激光链路）是用激光代替传统微波在卫星之间传输数据。相比微波通信，激光通信具备更高带宽、更低时延和更强抗干扰能力，是大型低轨卫星星座实现海量星间数据传输的关键技术。西安中科天塔科技股份有限公司于 2018 年成立，是西安中科光机投资控股有限公司投资的国有控股高新技术企业，专注于商业卫星管理与航天云服务，核心技术源自西安光机所二十余年的积累。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://news.qq.com/rain/a/20260425A00JXX00">中科天塔发布新一代星载激光通信终端，以“AI+激光通信”助力“太空智驾”</a></li>
-<li><a href="https://xjxy.xijing.edu.cn/info/1008/1346.htm">西安中科天塔科技股份有限公司-西京校友</a></li>
-<li><a href="https://www.tianta.com.cn/regarding.htm">中科天塔-关于我们 - tianta.com.cn</a></li>
-
-</ul>
-</details>
-
-**标签**: `#satellite-communications`, `#laser-communication`, `#China-space`, `#satellite-internet`, `#manufacturing`
-
----
-
-<a id="item-20"></a>
-## [模感科技获天使轮融资，研发机器人全身触觉皮肤](https://36kr.com/p/3899128277452681?f=rss) ⭐️ 6.3/10
-
-模感科技由香港科技大学博士团队创立，近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人，用于研发基于电磁超构力学技术的 MoSkin 全身多模态触觉感知系统，覆盖机器人的手部、四肢、躯干和足底。 该融资表明投资机构将全身触觉感知视为人形机器人的关键技术缺口——目前大多数方案仅覆盖指尖。智元机器人既是投资方又是潜在客户，体现中国传感器初创公司与本体厂商之间紧密的生态绑定。 MoSkin 利用电磁超构力学技术将机器人刚性表面转化为连续的六维力场感知，集成力觉、温度、滑移、振动和材质等多模态信息。公司还在自研基于多模态隐空间融合门控机制的世界动作触觉预测模型，以缩小仿真到真实的迁移鸿沟。
-
-rss · 36氪 · 7月17日 02:39
-
-**背景**: 人形机器人依赖触觉感知来检测物理交互中的接触、受力和摩擦信息，这些是视觉无法单独获取的。目前大多数触觉方案仅限于灵巧手指尖，使机器人身体其他部位缺乏在复杂环境中安全操作所需的反馈。六维力/力矩传感器可测量三个平移轴和三个旋转轴上的力和力矩，使机器人能够感知弯曲和扭转效应。软体机器人超构材料和磁性触觉传感器的最新学术进展，正在拓展大面积、可贴合的电子皮肤的可行性，超越传统的刚性传感器阵列。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://eu.36kr.com/en/p/3899128277452681">36Kr Exclusive: HKUST PhD Team Develops Full-Body Tactile ...</a></li>
-<li><a href="https://www.ieee-ras.org/ras-university/?ras_page=docs/chap2_sensing/force_perception">RAS University - IEEE Robotics and Automation Society Website</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0264127524000017">Vision-based tactile intelligence with soft robotic metamaterial</a></li>
-
-</ul>
-</details>
-
-**标签**: `#robotics`, `#tactile-sensing`, `#humanoid-robots`, `#startup-funding`, `#hardware`
+**标签**: `#AMD`, `#AI Accelerator`, `#GPU`, `#HBM3E`, `#Hardware`
 
 ---
