@@ -5,220 +5,233 @@ date: 2026-07-19
 lang: en
 ---
 
-> From 46 items, 12 important content pieces were selected
+> From 51 items, 13 important content pieces were selected
 
 ---
 
-1. [LG monitors silently install software through Windows Update without consent](#item-1) ⭐️ 8.0/10
-2. [Next-Gen Server Memory: DDR5-8000 RDIMMs and MRDIMM Gen2 at DDR5-12800](#item-2) ⭐️ 7.5/10
-3. [国家数据局：全国已建成高质量数据集12万个](#item-3) ⭐️ 7.3/10
-4. [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](#item-4) ⭐️ 7.0/10
-5. [Tencent Unveils Embodied AI Stack and ADP 4.0 Global Launch at WAIC 2026](#item-5) ⭐️ 6.3/10
-6. [Moonshot AI Eyes Hong Kong IPO Within 6 Months, Unveils Kimi K3](#item-6) ⭐️ 6.3/10
-7. [天文学家确认了 25 光年外的一颗位于宜居带的岩石行星](#item-7) ⭐️ 6.3/10
-8. [Fable 5 vs GPT-5.6 Sol: Does /goal Help on NP-Hard Problems?](#item-8) ⭐️ 6.0/10
-9. [Valve Reportedly Sells 12-15K Steam Machine Units Per Week](#item-9) ⭐️ 5.5/10
-10. [Nvidia RTX 50 Super GPUs Delayed by High GDDR7 Memory Prices](#item-10) ⭐️ 5.5/10
-11. [Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format](#item-11) ⭐️ 5.5/10
-12. [Autonomous Micro-Drone Achieves First Air-to-Air Mosquito Kill Using Car Parking Sensors](#item-12) ⭐️ 5.5/10
+1. [Hacker Fits 537K Domains into $5 ESP32 Ad-Blocker Using Clever Hashing](#item-1) ⭐️ 7.5/10
+2. [世界人工智能合作组织未来将重点开展三方面工作](#item-2) ⭐️ 7.3/10
+3. [Alibaba's Qwen 3.8 LLM Set for Upcoming Open-Source Release](#item-3) ⭐️ 7.3/10
+4. [The Kimi K3 Moment](#item-4) ⭐️ 7.0/10
+5. [Zilog Z80 Turns 50 as Open-Source Replacement Heads to DIP40 Silicon](#item-5) ⭐️ 6.5/10
+6. [Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’](#item-6) ⭐️ 6.5/10
+7. [DDR5-8000 RDIMMs and MRDIMM Gen2 DDR5-12800 Demoed at Computex 2026](#item-7) ⭐️ 6.5/10
+8. [商汤科技旗舰级SenseNova U1 Pro正式发布](#item-8) ⭐️ 6.3/10
+9. [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](#item-9) ⭐️ 6.0/10
+10. [Transcribe.cpp: Open-Source C++ Speech-to-Text Library Gains Hacker News Traction](#item-10) ⭐️ 6.0/10
+11. [Valve Reportedly Sells 12-15K Steam Machine Units Per Week](#item-11) ⭐️ 5.5/10
+12. [‘Phantom Twist’ drone spins so fast that it is nearly invisible — flying device adds motion blur to the real world](#item-12) ⭐️ 5.5/10
+13. [Russian Drones Use Magnetic Compasses as Backup Navigation](#item-13) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) ⭐️ 8.0/10
+## [Hacker Fits 537K Domains into $5 ESP32 Ad-Blocker Using Clever Hashing](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds) ⭐️ 7.5/10
 
-LG monitors silently install software through Windows Update without user consent, granting full system access with no sandboxing, affecting potentially millions of users.
+A hacker has demonstrated a DNS-based ad-blocking implementation on a $5 ESP32 dongle, fitting 537,000 blocked domains into just 4MB of flash memory using only around 50KB of RAM, with blocked-lookup responses answered in approximately 10 milliseconds. This demonstrates how extremely resource-constrained hardware can deliver network-wide ad-blocking at a tiny fraction of the cost and power of commercial solutions like Pi-hole, making privacy-focused networking accessible to hobbyists with basic electronics skills. The implementation almost certainly relies on a Bloom filter, a probabilistic data structure that trades a tunable false-positive rate for dramatic memory savings; the ESP32 typically ships with 520KB SRAM and 4MB flash, so consuming only 50KB leaves substantial headroom for Wi-Fi, TCP/IP, and DNS protocol handling.
 
-hackernews · baranul · Jul 18, 10:21 · [Discussion](https://news.ycombinator.com/item?id=48956688)
+rss · Tom's Hardware · Jul 19, 10:00
 
-**Tags**: `#security`, `#privacy`, `#windows`, `#lg`, `#supply-chain-risk`
+**Background**: The ESP32 is a low-cost, low-power microcontroller from Espressif Systems widely used in IoT projects. DNS-based ad-blocking intercepts name-resolution queries and refuses to resolve any domain found on a blocklist, the same approach used by Pi-hole and AdGuard Home. A Bloom filter is a space-efficient probabilistic data structure, conceived by Burton Howard Bloom in 1970, that tests set membership with very small memory footprint but allows occasional false positives—meaning it might rarely block a legitimate domain but will never miss a blocked one.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bloom_filter">Bloom filter - Wikipedia</a></li>
+<li><a href="https://dev.to/ashokan/bloom-filters-a-deep-dive-into-probabilistic-data-structures-5gii">Bloom Filters: A Deep Dive into Probabilistic Data Structures - DEV Community</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#embedded-systems`, `#ESP32`, `#ad-blocking`, `#DNS`, `#IoT`
 
 ---
 
 <a id="item-2"></a>
-## [Next-Gen Server Memory: DDR5-8000 RDIMMs and MRDIMM Gen2 at DDR5-12800](https://www.servethehome.com/next-gen-server-memory-on-display-ddr5-8000-rdimms-and-mrdimm-gen2-hits-ddr5-12800/) ⭐️ 7.5/10
+## [世界人工智能合作组织未来将重点开展三方面工作](https://36kr.com/newsflashes/3902324507281026?f=rss) ⭐️ 7.3/10
 
-At Computex 2026, Micron showcased DDR5-8000 RDIMMs while Samsung displayed second-generation MRDIMMs reaching 12,800 MT/s, signaling a major leap in server memory speeds. These faster memory modules will directly benefit data centers and high-performance computing workloads such as AI training and large-scale databases, where memory bandwidth is increasingly the bottleneck. Micron's DDR5-8000 RDIMMs represent a substantial speed uplift over current-generation modules, while Samsung's MRDIMM Gen2 uses an on-DIMM multiplexer to simultaneously operate multiple DRAM ranks, achieving 12,800 MT/s by interleaving data across ranks.
+29 countries signed an agreement in Shanghai to establish the World Artificial Intelligence Cooperation Organization, with China announcing three priority work areas focused on international AI capacity building, resource collaboration, and global AI governance.
 
-rss · ServeTheHome · Jul 18, 17:00
+rss · 36氪 · Jul 19, 08:58
 
-**Background**: RDIMMs (Registered DIMMs) are the standard server memory module type, using a register buffer between the memory controller and DRAM chips to improve signal integrity and stability at higher capacities. MRDIMMs (Multiplexed Rank DIMMs) are a newer category that adds a more capable buffer capable of operating two ranks of DRAM simultaneously and interleaving their data, effectively presenting a higher data rate to the memory controller. Both technologies are key to scaling bandwidth in modern multi-socket server platforms.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.micron.com/products/memory/dram-modules/mrdimm">MRDIMM | Micron Technology Inc.</a></li>
-<li><a href="https://lenovopress.lenovo.com/lp2028-introduction-to-mrdimm-memory-technology">Introduction to MRDIMM Memory Technology > Lenovo Press</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Registered_memory">Registered memory - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#server-memory`, `#DDR5`, `#MRDIMM`, `#RDIMM`, `#Computex-2026`
+**Tags**: `#AI governance`, `#international cooperation`, `#China AI policy`, `#global AI regulation`, `#geopolitics`
 
 ---
 
 <a id="item-3"></a>
-## [国家数据局：全国已建成高质量数据集12万个](https://36kr.com/newsflashes/3900807486293892?f=rss) ⭐️ 7.3/10
+## [Alibaba's Qwen 3.8 LLM Set for Upcoming Open-Source Release](https://36kr.com/newsflashes/3902296634050437?f=rss) ⭐️ 7.3/10
 
-China's National Data Bureau reports 120,000 high-quality datasets have been built nationwide (1565 PB total, up 60% QoQ), with seven data annotation pilot cities scaling to 119 PB and 140,000 workers to support AI development.
+On July 19, Alibaba announced that its latest large language model, Qwen 3.8, will soon be released and open-sourced. A preview version, Qwen3.8-Max-Preview, is already available on Alibaba Cloud's Token Plan, Qoder, and QoderWork platforms for early access. The Qwen series has been one of the most impactful open-source model families globally, and a new 2.4T-parameter release would intensify the open-weight LLM competition, particularly with Moonshot AI's Kimi K3. Open-sourcing such a large model benefits researchers, developers, and enterprises seeking alternatives to closed proprietary models. According to community discussion, Qwen 3.8 is reported to have approximately 2.4 trillion parameters, positioning it among the largest open-weight LLMs. The preview is already accessible for free via Qwen Chat and through Alibaba Cloud's Token Plan subscription, while the final open-source release is expected in the near term.
 
-rss · 36氪 · Jul 18, 08:00
+rss · 36氪 · Jul 19, 08:43
 
-**Tags**: `#AI infrastructure`, `#data governance`, `#China AI`, `#data annotation`, `#government policy`
+**Background**: Alibaba's Qwen (Tongyi Qianwen) model family has established itself as a leading open-source LLM lineup, with previous versions like Qwen2.5 and Qwen3 widely adopted in both research and production settings. Alibaba Cloud's Token Plan is a subscription-based service that provides bundled model usage quotas for AI coding tools such as Claude Code, Cursor, and Cline. Qoder and QoderWork are Alibaba's AI-powered development tools, with QoderWork being a desktop-level agentic assistant launched by Alibaba's Qoder team.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.aliyunbaike.com/bailian/10051/">阿 里 云 百炼 Token Plan 支持哪些 AI 大 模 型 ？这张表一目了然！</a></li>
+<li><a href="https://qoder.com/qoderwork">QoderWork | A desktop agentic assistant for everyone</a></li>
+<li><a href="https://qoder.com.cn/">研 发 编程助手 | Qoder CN</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is largely positive and enthusiastic, with users welcoming the open-source release and hoping for smaller model variants suitable for local deployment (e.g., 35B MoE or 27B dense sizes). Several commenters frame the announcement as a competitive response to Moonshot AI's Kimi K3 (2.8T parameters), while also noting DeepSeek 4's imminent release. Overall, the discussion highlights growing open-source momentum and user demand for both frontier-scale and locally-runnable models.
+
+**Tags**: `#AI`, `#LLM`, `#Open Source`, `#Alibaba`, `#Qwen`
 
 ---
 
 <a id="item-4"></a>
-## [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) ⭐️ 7.0/10
+## [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) ⭐️ 7.0/10
 
-Community discussion about GPT-5.6 purportedly solving a 30-year-old convex optimization problem, with experts contextualizing the achievement as niche and revealing prior year's work was omitted from the framing.
+Analysis of how the Kimi K3 model represents a potential inflection point where Chinese open-weight models achieve frontier-level capability, disrupting the competitive landscape dominated by Western AI labs.
 
-hackernews · mbustamanter · Jul 18, 13:00 · [Discussion](https://news.ycombinator.com/item?id=48957779)
+hackernews · sbochins · Jul 18, 17:32 · [Discussion](https://news.ycombinator.com/item?id=48960218)
 
-**Tags**: `#AI`, `#mathematics`, `#optimization`, `#GPT-5`, `#research-tools`
+**Tags**: `#AI`, `#Kimi K3`, `#open-weight models`, `#distillation`, `#AI competition`
 
 ---
 
 <a id="item-5"></a>
-## [Tencent Unveils Embodied AI Stack and ADP 4.0 Global Launch at WAIC 2026](https://36kr.com/newsflashes/3900908700436103?f=rss) ⭐️ 6.3/10
+## [Zilog Z80 Turns 50 as Open-Source Replacement Heads to DIP40 Silicon](https://www.tomshardware.com/tech-industry/zilog-z80-turns-50-as-open-source-replacement-heads-for-drop-in-dip40-silicon) ⭐️ 6.5/10
 
-At WAIC 2026 on July 18, Tencent announced an upgraded embodied intelligence full-stack solution spanning cloud, model, platform, and application layers to help robot and system developers improve efficiency. The company also launched the international version of its enterprise AI agent development platform ADP 4.0—already deployed across 30+ industries—and released WorkBuddy, a cross-platform general AI agent app available on iOS, Android, and HarmonyOS. This announcement signals Tencent's broad push into both the physical-AI and agentic-AI markets simultaneously, positioning the company as a full-stack provider for robotics developers and enterprises. The native HarmonyOS support for WorkBuddy is particularly notable given Huawei's growing mobile ecosystem and the broader trend toward Chinese tech self-sufficiency in operating systems. The ADP 4.0 overseas version is paired with a '10 industries × 100 scenarios ecosystem plan' covering intelligent customer service, knowledge management, and media production use cases. Tencent claims WorkBuddy is the industry's first universal AI agent standalone app to run natively on all three major mobile operating systems—iOS, Android, and HarmonyOS—simultaneously.
+The Zilog Z80, one of the most iconic 8-bit CPUs, celebrates its 50th anniversary, having been launched in July 1976 and officially discontinued in 2024. Simultaneously, an open-source drop-in replacement targeting the classic DIP40 package is preparing to move into silicon production. This milestone highlights both the enduring legacy of the Z80 in retro computing history and a growing movement to preserve classic CPU architectures through open-source silicon. Hobbyists, educators, and embedded systems developers will benefit from continued availability of a pin-compatible, modern open-source implementation. The original Z80 packed 8,500 transistors on a 4μm process node and typically ran at 2.5 MHz. The DIP40 (40-pin Dual In-line Package) is a through-hole IC package that was once an industry standard for complex logic and memory chips, offering a robust and serviceable solution before surface-mount technology became dominant.
 
-rss · 36氪 · Jul 18, 09:30
+rss · Tom's Hardware · Jul 19, 14:12
 
-**Background**: Embodied AI (具身智能) refers to AI systems that interact with and learn from the physical world through robotic bodies, extending beyond purely digital AI models such as large language models. Unlike traditional AI that processes data abstractly, embodied AI integrates perception, cognition, and action—enabling applications like humanoid robots, autonomous vehicles, and drones. ADP (Agent Development Platform) is Tencent Cloud's enterprise-grade framework for building AI agents using LLM+RAG, workflow orchestration, and multi-agent collaboration capabilities.
+**Background**: The Zilog Z80 was designed by Federico Faggin and became one of the most popular CPUs for home computers up until the mid-1980s, typically running the CP/M operating system. It powered notable machines such as the Heathkit H89, Osborne 1, Kaypro series, TRS-80, and some Timex/Sinclair computers. The 4μm process node used in the original Z80 is generations behind modern semiconductor fabrication — today's cutting-edge nodes are measured in single-digit nanometers, meaning the open-source replacement will likely use vastly more advanced manufacturing while remaining electrically and physically compatible with legacy systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/glossary/embodied-ai/">What is Embodied AI? | NVIDIA Glossary</a></li>
-<li><a href="https://adp.tencentcloud.com/">Tencent Cloud ADP: Build AI Agents with RAG+LLM, Workflow & Multi-Agent Capabilities</a></li>
-<li><a href="https://www.techtarget.com/searchenterpriseai/definition/embodied-AI">What is embodied AI? How it powers autonomous systems AI That Moves, Adapts, and Learns: The Future of Embodied ... The rise of embodied AI: How robots are learning by ... What is Embodied AI? A Complete Beginner's Guide 2026 What is embodied AI and what are its implications?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dual_in-line_package">Dual in-line package - Wikipedia</a></li>
+<li><a href="https://hackaday.com/2018/06/19/federico-faggin-the-real-silicon-man/">Federico Faggin: The Real Silicon Man | Hackaday</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples">List of semiconductor scale examples - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Tencent`, `#Embodied AI`, `#AI Agents`, `#WAIC 2026`, `#ADP Platform`
+**Tags**: `#Z80`, `#retro-computing`, `#open-source-hardware`, `#CPU-architecture`, `#embedded-systems`
 
 ---
 
 <a id="item-6"></a>
-## [Moonshot AI Eyes Hong Kong IPO Within 6 Months, Unveils Kimi K3](https://36kr.com/newsflashes/3900806713951873?f=rss) ⭐️ 6.3/10
+## [Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’](https://www.tomshardware.com/tech-industry/policy/memory-chip-boss-admits-ram-prices-are-abnormally-high-sk-group-chairman-considering-building-a-semiconductor-plant-in-the-us-to-expand-supply-calm-chipflation) ⭐️ 6.5/10
 
-Moonshot AI (月之暗面) has informed investors of plans to restructure and prepare for a Hong Kong IPO, potentially completing the listing within six months. On July 16, the company released Kimi K3, an open-source model with 2.8 trillion parameters — the largest among open-source models — claiming it surpassed Claude Fable 5 and GPT-5.6 on the Code Arena coding benchmark. If completed, the IPO would mark a major capital markets milestone for China's leading AI startups, providing a significant liquidity event and benchmark for valuation in the domestic AI sector. The simultaneous release of Kimi K3 signals intensifying competition between Chinese and US AI labs at the frontier scale, challenging the dominance of closed-source Western models like GPT-5 and Claude. Kimi K3 uses 2.8 trillion parameters — far exceeding typical open-source models — and is built on a hybrid architecture combining Kimi Delta Attention (KDA), a linear attention mechanism, with Attention Residuals, supporting 1M-token context and native visual understanding. The Code Arena claims are self-reported by Moonshot AI and have not yet been independently verified, and the IPO remains prospective rather than confirmed.
+SK Group Chairman admits memory chip prices are 'abnormally high' and is considering building a semiconductor plant in the US to expand supply amid concerns about 'chipflation' and potential new market entrants.
 
-rss · 36氪 · Jul 18, 07:45
+rss · Tom's Hardware · Jul 19, 13:55
 
-**Background**: Moonshot AI is one of China's 'AI Tiger' startups founded in 2023, best known for its Kimi chatbot and large language model series. The company has been part of a wave of well-funded Chinese AI firms (alongside Zhipu, MiniMax, and DeepSeek) competing in both domestic and global markets. Hong Kong has emerged as a preferred listing venue for Chinese tech firms facing regulatory or geopolitical headwinds in US markets. Kimi K3 is released under a Modified MIT license, continuing Moonshot's open-weight strategy established with the Kimi K2 family, positioning it as an alternative to closed-source leaders.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
-<li><a href="https://platform.kimi.ai/docs/guide/kimi-k3-quickstart">Kimi K 3 - Kimi API Platform</a></li>
-<li><a href="https://codearenaeval.github.io/">CodeArenaEval</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Moonshot AI`, `#Kimi K3`, `#IPO`, `#Chinese AI`, `#open-source models`
+**Tags**: `#semiconductors`, `#memory`, `#SK-Hynix`, `#supply-chain`, `#hardware-pricing`
 
 ---
 
 <a id="item-7"></a>
-## [天文学家确认了 25 光年外的一颗位于宜居带的岩石行星](https://www.solidot.org/story?sid=84862) ⭐️ 6.3/10
+## [DDR5-8000 RDIMMs and MRDIMM Gen2 DDR5-12800 Demoed at Computex 2026](https://www.servethehome.com/next-gen-server-memory-on-display-ddr5-8000-rdimms-and-mrdimm-gen2-hits-ddr5-12800/) ⭐️ 6.5/10
 
-Astronomers confirm GJ3378b, a rocky super-Earth 2.3x Earth's mass in the habitable zone of a red dwarf just 25 light-years away, one of the closest potentially habitable worlds known.
+At Computex 2026, Micron showcased DDR5-8000 RDIMMs while Samsung demonstrated second-generation MRDIMMs reaching 12,800 MT/s, highlighting the next leap in server memory speeds. Faster server memory is critical for AI/ML workloads and data center applications where memory bandwidth bottlenecks can limit performance, and these speeds represent a significant step forward in addressing that challenge. MRDIMM Gen2 uses multiplexing techniques that allow DRAM chips to operate at their native data rate while effectively doubling the memory channel frequency. The JEDEC MRDIMM Gen 2 standard is nearing completion, with a new Multiplexed Rank Registering Clock Driver designed to improve signal integrity and timing control.
 
-rss · Solidot · Jul 18, 15:14
+rss · ServeTheHome · Jul 18, 17:00
 
-**Tags**: `#exoplanet`, `#astronomy`, `#astrobiology`, `#habitable-zone`, `#super-earth`
+**Background**: RDIMMs (Registered DIMMs) are the standard server memory modules featuring a register buffer chip for improved signal stability and reliability. MRDIMMs (Multiplexed Rank DIMMs) are a newer type that use multiplexing between the host memory channel and the DRAM chips, enabling much higher effective data rates than conventional RDIMMs while keeping the underlying DRAM operating at native speeds. Both module types target AI, HPC, and data center workloads where memory bandwidth is a key performance constraint.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tweaktown.com/news/111452/jedec-pushes-ddr5-server-memory-to-12800-mt-s-with-new-mrdimm-gen2-standard-for-ai-and-data-center-workloads/index.html">JEDEC pushes DDR5 server memory to 12,800 MT/s with new...</a></li>
+<li><a href="https://www.industrysourcing.com/article/476129">JEDEC pushes DDR5 memory performance to new heights with...</a></li>
+<li><a href="https://arxiv.org/html/2605.02371">Performance and Energy Benefits of MRDIMMs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#DDR5`, `#server memory`, `#MRDIMM`, `#RDIMM`, `#Computex 2026`
 
 ---
 
 <a id="item-8"></a>
-## [Fable 5 vs GPT-5.6 Sol: Does /goal Help on NP-Hard Problems?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) ⭐️ 6.0/10
+## [商汤科技旗舰级SenseNova U1 Pro正式发布](https://36kr.com/newsflashes/3902187700766593?f=rss) ⭐️ 6.3/10
 
-A blog post empirically compares Anthropic's Fable 5 and OpenAI's GPT-5.6 Sol on an NP-hard optimization problem, specifically testing whether using a '/goal' directive improves each model's search performance. The author finds that /goal works better for single-track or small-scale scatter/gather investigations, though the methodology is limited to a single problem type. As LLMs are increasingly deployed on complex reasoning and optimization tasks, understanding how prompt-level directives like /goal affect search behavior is practically valuable for developers building agentic AI systems. This kind of empirical evaluation helps practitioners choose the right model and prompting strategy for combinatorial problems where naive approaches get stuck in local optima. The evaluation is narrow, covering only one NP-hard problem type, which limits generalizability. Community commenters noted that the chart's 'lower is better' axis is visually inverted, and suggested that an 'ultra mode' with parallel investigators and adversarial review checkpoints might outperform both /goal and standard approaches for larger search tasks.
+SenseTime officially released its flagship multimodal large model SenseNova U1 Pro, featuring unified understanding, generation, and action capabilities with delivery-grade image creation.
 
-hackernews · couAUIA · Jul 18, 11:00 · [Discussion](https://news.ycombinator.com/item?id=48956879)
+rss · 36氪 · Jul 19, 06:30
 
-**Background**: NP-hard problems are a class of computational problems for which no known polynomial-time algorithm exists, making them notoriously difficult to solve optimally as input sizes grow. Recent research has explored whether LLMs can tackle such problems through code generation or iterative search strategies, with benchmarks like OPRO and NP-ENGINE designed to evaluate LLM reasoning on combinatorial optimization. Prompt engineering techniques such as structured goal directives (/goal) aim to give the model a clearer objective and maintain coherent state across multi-step reasoning, which is particularly relevant for long-running agentic workflows.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cursor.com/docs/models/claude-fable-5">Claude Fable 5 | Cursor Docs</a></li>
-<li><a href="https://arxiv.org/pdf/2502.13776">Presentation impacts LLM performance on NP-hard problems</a></li>
-<li><a href="https://openreview.net/forum?id=cJqOjedwjK">NP-ENGINE: EMPOWERING OPTIMIZATION REASON- ING IN LARGE LANGUAGE MODELS WITH VERIFIABLE SYNTHETIC NP PROBLEMS | OpenReview</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters engaged constructively: 'theptip' suggested that an 'ultra mode' with parallel investigators and adversarial review would likely outperform /goal on larger search problems. 'Tenoke' provided practical context, noting that Claude tends to forget instructions in very long sessions and that /goal may help anchor the most important directive. 'osti' pointed out that GPT should have a natural advantage on optimization problems given OpenAI's recent win at the AtCoder Heuristics competition. One chart-design critique noted the inverted axis confused readers, and one commenter derailed into a Claude Code vs Codex productivity comparison.
-
-**Tags**: `#ai-agents`, `#benchmark`, `#search-strategies`, `#np-hard`, `#llm-evaluation`
+**Tags**: `#multimodal-ai`, `#sense-time`, `#large-language-models`, `#chinese-ai`, `#product-launch`
 
 ---
 
 <a id="item-9"></a>
-## [Valve Reportedly Sells 12-15K Steam Machine Units Per Week](https://www.techpowerup.com/350872/valve-reportedly-sells-12-15k-steam-machine-units-per-week) ⭐️ 5.5/10
+## [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) ⭐️ 6.0/10
 
-Valve is reportedly selling 12,000-15,000 Steam Machine units per week based on estimates derived from Steam's Global Top Sellers rankings.
+A hardware entrepreneur shares lessons learned from selling 2,500 MIDI recorder devices, arguing that hardware development is more accessible than commonly believed.
 
-rss · TechPowerUp News · Jul 18, 21:38
+hackernews · chipweinberger · Jul 19, 10:34 · [Discussion](https://news.ycombinator.com/item?id=48966713)
 
-**Tags**: `#Valve`, `#Steam Machine`, `#gaming hardware`, `#PC gaming`, `#sales data`
+**Tags**: `#hardware`, `#entrepreneurship`, `#manufacturing`, `#product-development`, `#midi`
 
 ---
 
 <a id="item-10"></a>
-## [Nvidia RTX 50 Super GPUs Delayed by High GDDR7 Memory Prices](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb) ⭐️ 5.5/10
+## [Transcribe.cpp: Open-Source C++ Speech-to-Text Library Gains Hacker News Traction](https://workshop.cjpais.com/projects/transcribe-cpp) ⭐️ 6.0/10
 
-According to supply chain reports, Nvidia's RTX 50 Super GPUs are technically ready for launch but are stuck in limbo because 3GB GDDR7 memory modules cost two to three times more than the 2GB GDDR7 modules used on standard RTX 50-series cards, making it difficult for Nvidia to hit target MSRPs. This pricing disparity poses a significant challenge for Nvidia's product roadmap, as higher memory costs could force the company to either raise retail prices, accept reduced margins, or delay the Super refresh altogether, potentially leaving a gap that AMD could exploit in the high-end GPU market. The premium for 3GB GDDR7 dies over 2GB dies is reportedly 2-3x, which is a steeper markup than typical generational memory scaling. GDDR7 memory is currently exclusively used by Nvidia's RTX 50 series, and Samsung has demonstrated 24Gb (3GB) GDDR7 modules capable of over 40 Gbps speeds, which could scale up to 36GB capacity with 1920 GB/s bandwidth on a 384-bit interface.
+Transcribe.cpp, an open-source C/C++ speech-to-text inference library developed through Mozilla.ai's Builders in Residence program, has been gaining significant traction on Hacker News with 611 upvotes and 130 comments. The tool provides portable, GPU-accelerated support for multiple STT models and is designed to make adding fast, local transcription to applications easier. This release matters because local, open-source STT infrastructure reduces dependence on cloud APIs and gives developers fine-grained control over model selection and deployment. The community discussion highlights gaps that proprietary solutions fail to address, including phonetic transcription for endangered languages and seamless continuous dictation workflows. The library uses GGUF format models and includes a transcribe-quantize tool for producing smaller model variants. It supports multiple STT model architectures and offers cross-platform portability, making it suitable for embedding into desktop applications like the macOS virtual camera app Emyn.
 
-rss · Tom's Hardware · Jul 18, 13:45
+hackernews · sebjones · Jul 19, 00:38 · [Discussion](https://news.ycombinator.com/item?id=48963879)
 
-**Background**: GDDR7 (Graphics Double Data Rate 7) SDRAM is the latest generation of high-bandwidth graphics memory, serving as the successor to GDDR6 and GDDR6X. It is soldered directly onto GPUs and AI accelerators rather than installed on motherboards, and uses high-speed signaling to deliver significantly more bandwidth than previous generations. The transition from 2GB to 3GB memory modules represents an increase in density per chip, which allows GPU makers to achieve higher total VRAM capacities without expanding the memory bus width — a key technique for boosting performance in memory-bandwidth-intensive workloads like 4K gaming and AI inference.
+**Background**: Speech-to-text (STT) technology converts spoken language into written text and is commonly used for transcription, voice assistants, and accessibility. Most STT systems rely on large neural network models that traditionally required cloud processing, though recent advances have made local inference feasible on consumer hardware. The ggml ecosystem, which includes projects like llama.cpp, has been instrumental in enabling efficient on-device AI inference across platforms. Mozilla.ai's Builders in Residence program supports independent developers working on open-source AI tooling.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/what-is-gddr7-memory">What is GDDR7 memory — everything you need to know about the ... GDDR7 SDRAM - Wikipedia What is GDDR7? The latest VRAM technology explained What is GDDR7 memory — everything you need to know about the GDDR7 Memory Explained: Speed, Efficiency & GPU Performance All You Need to Know About GDDR7 - Rambus GDDR7 - DRAM | Samsung Semiconductor Global</a></li>
-<li><a href="https://www.techradar.com/computing/gpu/what-is-gddr7">What is GDDR7? The latest VRAM technology explained</a></li>
-<li><a href="https://en.wikipedia.org/wiki/GDDR7_SDRAM">GDDR7 SDRAM - Wikipedia</a></li>
+<li><a href="https://github.com/handy-computer/transcribe.cpp/">GitHub - handy-computer/ transcribe . cpp : ggml speech - to - text ...</a></li>
+<li><a href="https://blog.mozilla.ai/announcing-transcribe-cpp/">Announcing transcribe . cpp</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#nvidia`, `#gpu`, `#gddr7`, `#hardware`, `#pc-components`
+**Discussion**: The Hacker News discussion surfaced several substantive themes: rmunn noted the absence of IPA-based phonetic transcription needed for documenting minority languages with fewer than 10,000 speakers; abdullahkhalids highlighted the lack of continuous dictation workflows that type into documents at the cursor in real time; ghm2199 raised concerns about the sustainability and funding of open-source STT projects; and terhechte praised the library's easy integration into their macOS virtual camera app Emyn.
+
+**Tags**: `#speech-to-text`, `#transcription`, `#cpp`, `#open-source`, `#linguistics`
 
 ---
 
 <a id="item-11"></a>
-## [Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format](https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format) ⭐️ 5.5/10
+## [Valve Reportedly Sells 12-15K Steam Machine Units Per Week](https://www.techpowerup.com/350872/valve-reportedly-sells-12-15k-steam-machine-units-per-week) ⭐️ 5.5/10
 
-A Korean organization is hosting an open game development contest requiring entire games (engine, libraries, and assets) to fit within a 1.44MB floppy disk size, with cash prizes for top submissions.
+Valve reportedly sells 12,000-15,000 Steam Machine units per week based on estimated revenue derived from Steam's Global Top Sellers rankings.
 
-rss · Tom's Hardware · Jul 18, 11:00
+rss · TechPowerUp News · Jul 18, 21:38
 
-**Tags**: `#game-development`, `#contest`, `#size-optimization`, `#demoscene`, `#retro-computing`
+**Tags**: `#Steam Machine`, `#Valve`, `#gaming hardware`, `#PC gaming`, `#sales data`
 
 ---
 
 <a id="item-12"></a>
-## [Autonomous Micro-Drone Achieves First Air-to-Air Mosquito Kill Using Car Parking Sensors](https://www.tomshardware.com/tech-industry/drones/autonomous-micro-drone-achieves-first-air-to-air-insect-kill-on-the-way-towards-completely-eradicating-mosquitoes-40-gram-unit-uses-car-parking-sensors-can-eliminate-insects-at-up-to-26-feet) ⭐️ 5.5/10
+## [‘Phantom Twist’ drone spins so fast that it is nearly invisible — flying device adds motion blur to the real world](https://www.tomshardware.com/tech-industry/drones/phantom-twist-drone-spins-so-fast-that-it-is-nearly-invisible-flying-device-adds-motion-blur-to-the-real-world) ⭐️ 5.5/10
 
-A 40-gram autonomous micro-drone equipped with repurposed automotive parking sensors has recorded its first successful air-to-air kill of a mosquito, reaching targets at distances of up to 26 feet. The milestone is described as a step toward automated insect eradication systems. This demonstrates that lightweight, low-cost consumer-grade sensors can be repurposed for precision autonomous targeting in micro-robotics, potentially enabling scalable pest-control solutions. If refined, such drones could offer a targeted alternative to broad-spectrum insecticides, reducing chemical environmental impact. The drone relies on ultrasonic proximity sensors—typically mounted in car bumpers to measure distance to obstacles via high-frequency sound waves—rather than radar or vision systems, making the build extremely lightweight and inexpensive. An effective range of 26 feet for a 40-gram platform is impressive, though ultrasonic sensors have known limitations in range, resolution, and performance against very small, fast-moving targets like mosquitoes.
+Northwestern University researchers built a drone that spins so rapidly it appears nearly invisible due to motion blur, creating a rudimentary form of visual cloaking.
 
-rss · Tom's Hardware · Jul 18, 09:00
+rss · Tom's Hardware · Jul 19, 13:27
 
-**Background**: Automotive parking sensors are ultrasonic proximity detectors that emit high-frequency sound waves and measure the echo return time to gauge distance to nearby objects. They are inexpensive, mass-produced, and typically detect centimeter-scale objects within a few meters. Repurposing such components for micro-drones is an example of sensor reuse, where off-the-shelf hardware from one industry is adapted for robotics applications to reduce cost and weight. Mosquitoes are notoriously difficult targets due to their small size, erratic flight patterns, and rapid wingbeat frequency, making autonomous aerial interception a significant engineering challenge.
+**Tags**: `#drones`, `#robotics`, `#motion-blur`, `#cloaking`, `#research`
+
+---
+
+<a id="item-13"></a>
+## [Russian Drones Use Magnetic Compasses as Backup Navigation](https://www.tomshardware.com/tech-industry/drones/russian-drones-spotted-using-screwed-on-magnetic-compasses-as-navigation-aids-the-on-board-camera-can-occasionally-tilt-down-to-check-bearings-if-satellite-comms-are-lost) ⭐️ 5.5/10
+
+Russian drone operators have been observed screwing cheap magnetic compasses onto their drones as improvised backup navigation aids. When satellite communications are lost, the drone's onboard camera can occasionally tilt downward to visually verify bearings, allowing the operator to maintain directional awareness without GPS. This crude workaround highlights how electronic warfare and GPS jamming on the modern battlefield force militaries to develop low-cost, redundant navigation methods. It also illustrates the gap between sophisticated commercial GPS-denied solutions (which use AI-based visual-inertial odometry) and what can be rapidly field-deployed in a conflict zone. The compass is a cheap, off-the-shelf component physically screwed onto the airframe rather than integrated into the flight controller, meaning its readings must be manually cross-checked via the camera's downward view. This approach is far less accurate than proper sensor fusion or visual-inertial odometry systems, and magnetic interference from the drone's own motors and electronics can degrade readings significantly.
+
+rss · Tom's Hardware · Jul 19, 12:05
+
+**Background**: Modern military drones typically rely on GPS or GLONASS satellite navigation for waypoint following and targeting, but both sides in the Russia-Ukraine conflict have extensively deployed GPS jamming and spoofing systems. GPS-denied navigation is therefore a critical capability, and commercial solutions such as visual-inertial odometry (VIO) modules and AI-based terrain matching are increasingly available. The magnetic compass approach is a much cruder alternative that trades precision for simplicity and cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Parking_sensor">Parking sensor - Wikipedia</a></li>
-<li><a href="https://www.novelic.com/blog/mmwave-radar-vs-ultrasonic-sensors-a-new-parking-solution/">mmWave Radar vs . Ultrasonic Sensors : A New Parking Solution?</a></li>
+<li><a href="https://www.spleenlab.ai/solutions-for-gps-denied-navigation">GPS - Denied Navigation Solutions for Drones | Spleenlab</a></li>
+<li><a href="https://oksi.ai/omninav-gps-denied-navigation/">OMNInav: A Breakthrough in GPS - Denied Navigation for UAS - OKSI</a></li>
+<li><a href="https://pilotinstitute.com/heavy-interference-drones/">Flying Your Drone in Urban Areas with Heavy Signal Interference</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#drones`, `#robotics`, `#autonomous-systems`, `#sensor-repurposing`, `#pest-control`
+**Tags**: `#drones`, `#navigation`, `#military-tech`, `#GPS-denied`, `#hardware-quirks`
 
 ---
