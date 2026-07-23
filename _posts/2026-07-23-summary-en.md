@@ -5,401 +5,385 @@ date: 2026-07-23
 lang: en
 ---
 
-> From 101 items, 20 important content pieces were selected
+> From 103 items, 20 important content pieces were selected
 
 ---
 
-1. [AMD and Anthropic Partner to Deploy 2 GW of Instinct MI450 GPUs](#item-1) ⭐️ 9.5/10
-2. [Terrence Tao Uses ChatGPT to Explore Jacobian Conjecture Counterexample](#item-2) ⭐️ 8.0/10
-3. [NVIDIA Driver Leaks RTX Spark N1X Core Counts and Blackwell SKUs](#item-3) ⭐️ 7.5/10
-4. [Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions](#item-4) ⭐️ 7.5/10
-5. [Fortinet becomes Intel 4's first foundry customer, following firewall ASIC deal — CEO Lip-Bu Tan's promised foundry wins begin to surface, but on a mature node](#item-5) ⭐️ 7.5/10
-6. [BNEF Nearly Doubles US Data Center Power Forecast to 194GW by 2035](#item-6) ⭐️ 7.5/10
-7. [AI tech companies have ‘hidden debt’ worth around $1.65 trillion, report claims — amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle](#item-7) ⭐️ 7.5/10
-8. [Meta to adopt custom AMD MI400 chips with 144GB HBM4](#item-8) ⭐️ 7.5/10
-9. [数学家仍然不知道乘法的最快方法](#item-9) ⭐️ 7.3/10
-10. [GigaToken: ~1000x Faster Language Model Tokenization](#item-10) ⭐️ 7.0/10
-11. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](#item-11) ⭐️ 7.0/10
-12. [Mitchell Hashimoto Argues Every Developer Should Know SIMD](#item-12) ⭐️ 7.0/10
-13. [Startup's Postgres Survival Guide: Best Practices and Community Insights](#item-13) ⭐️ 7.0/10
-14. [CEA-Leti Explores Post-SRAM/DRAM Memory Technologies for AI](#item-14) ⭐️ 7.0/10
-15. [CachyOS Proton Fork Adds NVIDIA Reflex Support on Linux](#item-15) ⭐️ 6.5/10
-16. [(PR) Wistron Celebrates Grand Opening of First U.S. Smart Factory](#item-16) ⭐️ 6.5/10
-17. [USB4 Version 2 and Thunderbolt 5 Push Copper Interconnects to Physical Limits](#item-17) ⭐️ 6.5/10
-18. [Chinese Modder Runs RTX 4060 on Huawei Arm Workstation via Spark Driver Hack](#item-18) ⭐️ 6.5/10
-19. [Framework for Normalizing NVIDIA Vera Benchmarks Against AMD EPYC Turin](#item-19) ⭐️ 6.5/10
-20. [国家发展改革委、国家能源局印发《可再生能源发展“十五五”规划》](#item-20) ⭐️ 6.3/10
+1. [AMD to Supply Anthropic with 2GW of MI450 GPUs, Invests Up to $5B](#item-1) ⭐️ 9.5/10
+2. [Codeberg Bans Vibe-Coded Projects Amid AI Resource Concerns](#item-2) ⭐️ 8.3/10
+3. [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](#item-3) ⭐️ 8.0/10
+4. [GigaToken: ~1000x faster Language model tokenization](#item-4) ⭐️ 8.0/10
+5. [Etched Raises $300M, $1B in Pre-Orders for Transformer ASIC](#item-5) ⭐️ 8.0/10
+6. [Wistron Opens First U.S. AI Smart Factory for NVIDIA GB300 Production](#item-6) ⭐️ 7.5/10
+7. [Bipartisan US Bill Proposes Kill Switches for Powerful AI Models](#item-7) ⭐️ 7.5/10
+8. [Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects](#item-8) ⭐️ 7.5/10
+9. [Intel and AMD lock in long-term server CPU deals with China at 40%+ price hikes](#item-9) ⭐️ 7.5/10
+10. [Everyone Should Know SIMD: A Practical Guide to Vectorized Programming](#item-10) ⭐️ 7.0/10
+11. [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](#item-11) ⭐️ 7.0/10
+12. [Bento: A Single HTML File PowerPoint Alternative with Editing and Live Collaboration](#item-12) ⭐️ 7.0/10
+13. [Are AI labs pelicanmaxxing?](#item-13) ⭐️ 7.0/10
+14. [Protecting our FLOSS commons from LLMs](#item-14) ⭐️ 7.0/10
+15. [DAC 2026: Chip Giants Build DIY AI Design Tools, Bypassing EDA Vendors](#item-15) ⭐️ 7.0/10
+16. [Framework Teases Desktop with Ryzen AI Max+ PRO 495 and 192GB Memory](#item-16) ⭐️ 6.5/10
+17. [CachyOS Proton Fork Adds NVIDIA Reflex Support via vkd3d-low-latency](#item-17) ⭐️ 6.5/10
+18. [Developer Gets NVIDIA RTX 4060 Working on Windows-on-Arm Desktop](#item-18) ⭐️ 6.5/10
+19. [Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions](#item-19) ⭐️ 6.5/10
+20. [Fortinet becomes Intel Foundry's first Intel 4 customer with SP6 ASIC](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [AMD and Anthropic Partner to Deploy 2 GW of Instinct MI450 GPUs](https://www.techpowerup.com/350969/amd-and-anthropic-announce-strategic-partnership-to-deploy-2-gw-of-instinct-mi450-chips) ⭐️ 9.5/10
+## [AMD to Supply Anthropic with 2GW of MI450 GPUs, Invests Up to $5B](https://www.tomshardware.com/tech-industry/amd-to-supply-anthropic-with-2-gigawatts-of-instinct-mi450-gpus) ⭐️ 9.5/10
 
-AMD and Anthropic announced a strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs in AMD Helios rackscale solutions, with the first gigawatt coming online in the first half of 2027. The deployment will feature MI455X GPUs alongside EPYC 'Venice' CPUs, Pensando networking, and ROCm software. This represents a landmark validation of AMD's full-stack AI offering by a frontier AI lab, directly challenging NVIDIA's dominance in the AI accelerator market at unprecedented gigawatt scale. The partnership signals a significant shift in the AI hardware landscape, positioning AMD as a credible alternative for the largest AI training and inference workloads. The MI450 series is based on CDNA 5 architecture, features up to 432 GB of HBM4 memory with 20 TB/s bandwidth, and a single Helios rack delivers up to 1.4 exaFLOPS of FP8 performance with 72 MI450 GPUs. The partnership builds on Anthropic's existing use of AMD Instinct MI355X GPUs, extending the relationship to next-generation silicon.
+AMD announced it will supply Anthropic with 2 gigawatts of next-generation Instinct MI450 GPUs, deployed in AMD Helios rack-scale systems starting with the first gigawatt coming online in the first half of 2027. Concurrently, AMD will invest up to $5 billion into Anthropic, expanding an existing partnership in which Anthropic is already deploying MI355X GPUs. This deal represents AMD's largest single-customer commitment to date and a significant competitive win against NVIDIA in the AI accelerator market, as one of the leading frontier AI labs diversifies away from an NVIDIA-dominated supply chain. The combined hardware supply and equity investment tightly align AMD's roadmap with Anthropic's compute needs, potentially accelerating the adoption of CDNA 5 and the open UALink networking ecosystem. The MI450 is built on AMD's CDNA 5 architecture using TSMC's 2nm N2 compute chiplets paired with N3P I/O dies, packing 432 GB of HBM4 memory and up to 40 PFLOPS of compute. The Helios platform integrates MI450 GPUs with AMD's 'Vulcano' networking based on the UALink standard, and is built on Meta's 2025 Open Compute Project rack design.
 
-rss · TechPowerUp News · Jul 22, 14:06
+rss · Tom's Hardware · Jul 22, 15:38
 
-**Background**: AMD Instinct is AMD's line of data-center GPUs designed for AI training and inference, competing against NVIDIA's H100/B100 series. The MI450 series introduces HBM4 memory and CDNA 5 architecture, AMD's first compute architecture tailored specifically for AI workloads. AMD Helios is a rack-scale AI infrastructure built on Meta's 2025 OCP design that integrates GPUs, CPUs, DPUs (Pensando), and networking into a unified system. ROCm is AMD's open-source GPU computing platform, comparable to NVIDIA's CUDA, which has historically been a barrier to AMD's adoption in AI workloads.
+**Background**: AMD Instinct is AMD's data center GPU brand, originally launched in 2016 as a successor to FirePro S, and is purpose-built for deep learning, neural network training, and high-performance computing workloads as a competitor to NVIDIA's data center GPUs. Anthropic is the AI research company behind the Claude family of large language models, and it has historically relied heavily on NVIDIA hardware for training and inference. Rack-scale systems like AMD Helios are an emerging architectural pattern in which compute, memory, networking, and power are co-designed at the entire rack level to maximize efficiency for AI workloads, contrasting with traditional approaches where individual servers are assembled from commodity components.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.amd.com/en/products/rackscale-solutions/helios.html">AMD Helios Rackscale Solution – Powering Frontier AI</a></li>
-<li><a href="https://en.tmtpost.com/post/7721864">AMD to Provide 50,000 AI Chips to Oracle in 2026 Following Mega...</a></li>
-<li><a href="https://www.amd.com/en/products/software/rocm.html">AMD ROCm™ Software</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AMD_Instinct">AMD Instinct - Wikipedia</a></li>
+<li><a href="https://awesomeagents.ai/hardware/amd-mi450/">AMD Instinct MI450 - 2nm, 432 GB HBM4, 40 PFLOPS</a></li>
+<li><a href="https://www.amd.com/en/blogs/2025/amd-helios-ai-rack-built-on-metas-2025-ocp-design.html">AMD Helios - AI Rack Built on Meta’s 2025 OCP Design</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#Anthropic`, `#AI Infrastructure`, `#MI450`, `#Strategic Partnership`
+**Tags**: `#AMD`, `#Anthropic`, `#AI Hardware`, `#GPU`, `#Data Center Infrastructure`
 
 ---
 
 <a id="item-2"></a>
-## [Terrence Tao Uses ChatGPT to Explore Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) ⭐️ 8.0/10
+## [Codeberg Bans Vibe-Coded Projects Amid AI Resource Concerns](https://www.solidot.org/story?sid=84906) ⭐️ 8.3/10
 
-Fields Medalist Terrence Tao publicly shared a ChatGPT conversation in which he iteratively explored a potential counterexample to the Jacobian Conjecture, using the LLM as a genuine research collaborator through expert-driven prompting. The exchange showcases how a world-class mathematician leverages iterative dialogue to probe a structured counterexample polynomial. This is a significant milestone in AI-assisted mathematical research, demonstrating that even elite mathematicians find genuine value in LLM collaboration and signaling a broader trend toward human–AI co-discovery in mathematics. It also provides a concrete public example of how the quality of expert prompting dramatically shapes what LLMs can contribute to deep technical work. The counterexample is not a brute-force construction but a carefully structured polynomial, and Tao's prompts are short, highly targeted, and embedded in domain jargon — a pattern that would yield little value without deep mathematical training. The conversation exemplifies iterative refinement, with Tao repeatedly steering the model toward simplifications and generalizations.
+German non-profit open-source hosting platform Codeberg announced a major policy shift following a member vote (358 in favor, 144 against), pledging not to use user data for LLM training and banning vibe-coded projects from its platform. The organization cited ballooning hardware costs, energy consumption, AI crawler traffic, and unresolved licensing issues around LLM-generated code as key reasons for the decision. As one of the largest non-commercial open-source hosting alternatives, Codeberg's stance signals a growing open-source community pushback against the unchecked proliferation of AI-generated code and the hidden costs it imposes on shared infrastructure. The decision could set a precedent for other platforms and reshape how open-source communities view contributions made via LLMs. Codeberg reported that identical SSDs that cost €700 a few years ago now cost €3,700 and are frequently out of stock, directly linking price inflation to AI industry demand. The platform clarified that occasional LLM-assisted coding or projects where maintainers unknowingly receive LLM-generated contributions will not be targeted, and only dedicated vibe-coded projects will be removed.
 
-hackernews · gmays · Jul 22, 17:30 · [Discussion](https://news.ycombinator.com/item?id=49010345)
+rss · Solidot · Jul 23, 10:44
 
-**Background**: The Jacobian Conjecture, proposed by O. H. Keller in 1939 (with an equivalent statement appearing in L. Kraus's 1884 work), asserts that any polynomial map whose Jacobian determinant is a non-zero constant must itself have a polynomial inverse; over a hundred papers were written on it before it was disproven. Recent research, including arXiv work on advancing mathematics with LLMs and systems like DeepMind's AlphaEvolve, has explored how careful prompt engineering and iterative AI interaction can assist in mathematical discovery.
+**Background**: Vibe coding is a term coined by OpenAI co-founder Andrej Karpathy in February 2025, describing a software development approach where programmers guide and test LLM-generated code rather than writing it manually. Codeberg is a non-profit, community-run Git hosting platform built on Forgejo, hosted in Germany, and dedicated to supporting free and open-source software. It operates as a charitable organization (Codeberg e.V.) that does not monetize through premium tiers or data collection, positioning itself as a privacy- and ethics-focused alternative to commercial platforms like GitHub.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Jacobian_conjecture">Jacobian conjecture - Wikipedia</a></li>
-<li><a href="https://www.math.purdue.edu/~ttm/jacobian.html">Jacobian Conjecture - Purdue University</a></li>
-<li><a href="https://arxiv.org/html/2511.07420v1">ADVANCING MATHEMATICS RESEARCH WITH LARGE ... - arXiv</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding - Wikipedia</a></li>
+<li><a href="https://codeberg.org/">Codeberg .org</a></li>
+<li><a href="https://www.cloudflare.com/learning/ai/ai-vibe-coding/">What is vibe coding?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are broadly fascinated by the exchange, highlighting how Tao's short, jargon-rich, highly specific questions extract far more value from the model than typical user prompts could. Several note that this is part of a growing trend of expert-AI mathematical collaboration, and they emphasize that without deep domain knowledge, users cannot reproduce these results — making Tao's prompting style itself a subject of study.
-
-**Tags**: `#AI`, `#mathematics`, `#ChatGPT`, `#LLM-research`, `#expert-AI-collaboration`
+**Tags**: `#open-source`, `#Codeberg`, `#LLM`, `#AI-ethics`, `#policy`
 
 ---
 
 <a id="item-3"></a>
-## [NVIDIA Driver Leaks RTX Spark N1X Core Counts and Blackwell SKUs](https://www.techpowerup.com/350962/rtx-spark-core-counts-leaked-by-nvidias-own-driver) ⭐️ 7.5/10
+## [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) ⭐️ 8.0/10
 
-NVIDIA's GeForce driver version 616.00, a developer preview compiled for the Windows-on-Arm platform, leaked details of two RTX Spark N1X chip SKUs — one with 6,144 CUDA cores and another with 5,120 CUDA cores — both based on the Blackwell GPU architecture, paired with a 20-core Arm CPU and up to 128 GB of LPDDR5X memory. This leak confirms NVIDIA's serious push into the Windows-on-Arm ecosystem with a discrete Blackwell GPU solution, potentially challenging Qualcomm's dominance in Arm-based PCs and opening new possibilities for high-performance gaming and AI workloads on Arm laptops and desktops. The driver package is part of NVIDIA's CUDA toolkit rollout for the RTX Spark platform as a native Windows-on-Arm software toolkit, and NVIDIA is collaborating with Microsoft to optimize Windows 11 to support AAA games and productivity applications on the new platform.
+Terence Tao's ChatGPT conversation analyzing a claimed counterexample to the Jacobian Conjecture, demonstrating how frontier mathematicians are leveraging LLMs as research tools for exploring open problems.
 
-rss · TechPowerUp News · Jul 22, 09:46
+hackernews · gmays · Jul 22, 17:30 · [Discussion](https://news.ycombinator.com/item?id=49010345)
 
-**Background**: CUDA cores are the parallel processing units inside NVIDIA GPUs that handle compute workloads in groups called warps; more CUDA cores generally mean greater parallel compute throughput. The Blackwell architecture is NVIDIA's latest GPU microarchitecture, featuring advanced RT cores for ray tracing and improved AI tensor core performance. Windows-on-Arm (WoA) is Microsoft's version of Windows built for Arm-based processors, traditionally dominated by Qualcomm chips — NVIDIA's entry signals a new competitive dynamic with discrete GPU support.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.arm.com/glossary/windows-on-arm">What is Windows on Arm (WoA)?</a></li>
-<li><a href="https://www.corsair.com/us/en/explorer/gamer/gaming-pcs/what-is-a-cuda-core-and-how-do-they-work/">What is a CUDA Core and How Do they Work? | CORSAIR</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#RTX Spark`, `#Blackwell`, `#Windows-on-Arm`, `#Hardware`
+**Tags**: `#AI-assisted mathematics`, `#Terence Tao`, `#Jacobian Conjecture`, `#ChatGPT`, `#LLM applications`
 
 ---
 
 <a id="item-4"></a>
-## [Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-argues-american-companies-should-be-allowed-to-use-chinese-ai-models-nvidia-ceo-says-backdoors-connected-to-china-are-misconceptions) ⭐️ 7.5/10
+## [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) ⭐️ 8.0/10
 
-Nvidia CEO Jensen Huang argues that American companies should be permitted to use Chinese AI models and that concerns about Chinese backdoors are misconceptions, while advocating for open AI models.
+GigaToken achieves ~1000x faster language model tokenization through SIMD-optimized pretokenization, branch minimization, and aggressive caching.
 
-rss · Tom's Hardware · Jul 22, 17:55
+hackernews · syrusakbary · Jul 22, 17:20 · [Discussion](https://news.ycombinator.com/item?id=49010167)
 
-**Tags**: `#AI policy`, `#US-China tech relations`, `#Nvidia`, `#Jensen Huang`, `#open-source AI`
+**Tags**: `#tokenization`, `#performance-optimization`, `#SIMD`, `#LLM`, `#systems-engineering`
 
 ---
 
 <a id="item-5"></a>
-## [Fortinet becomes Intel 4's first foundry customer, following firewall ASIC deal — CEO Lip-Bu Tan's promised foundry wins begin to surface, but on a mature node](https://www.tomshardware.com/tech-industry/semiconductors/intel-4-gets-its-first-foundry-customer-in-fortinet-three-years-after-intel-scoped-the-node-to-meteor-lake) ⭐️ 7.5/10
+## [Etched Raises $300M, $1B in Pre-Orders for Transformer ASIC](https://www.eetimes.com/etched-raises-300m-with-1b-in-pre-orders/) ⭐️ 8.0/10
 
-Fortinet becomes Intel Foundry's first Intel 4 node customer, with Intel designing, packaging, and fabricating Fortinet's sixth-generation Security Processor (SP6).
+AI chip startup Etched has raised $300 million in funding and secured $1 billion in pre-orders for its Sohu transformer ASIC, with first racks slated to ship in summer 2026. The company previously exited stealth on June 30, 2026, at a reported $5 billion valuation. The massive pre-order volume signals strong industry appetite for alternatives to NVIDIA's general-purpose GPUs in the LLM inference market, where cost and efficiency are critical. Etched's bet on a transformer-only ASIC—if it delivers on performance claims—could reshape the economics of running large language models at scale. Sohu is an application-specific integrated circuit (ASIC) purpose-built for transformer inference, implementing attention as fixed-function silicon rather than programmable matrix-multiply instructions, which Etched claims enables unmatched throughput. No independent benchmarks exist yet, and the product is not currently available for purchase or rent.
 
-rss · Tom's Hardware · Jul 22, 16:17
+rss · EE Times · Jul 23, 15:00
 
-**Tags**: `#Intel`, `#semiconductors`, `#foundry`, `#Fortinet`, `#Intel 4`
+**Background**: Most AI accelerators today, including NVIDIA's GPUs, are general-purpose processors that can run many types of AI workloads. An ASIC (Application-Specific Integrated Circuit) is a chip custom-designed for one particular task—in Etched's case, running transformer models like those behind ChatGPT. Transformer inference (generating tokens from a trained model) is the dominant workload for deployed AI services, and by stripping out everything unrelated to it, an ASIC can theoretically achieve far higher performance and efficiency. Etched has reportedly recruited over 400 engineers from NVIDIA, TSMC, and other firms to co-design chips, racks, and software together.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/">Etched AI Sohu vs NVIDIA: Transformer ASIC vs General-Purpose GPU for LLM Inference (2026) | Spheron Blog</a></li>
+<li><a href="https://www.techtimes.com/articles/319393/20260630/transformer-chip-startup-etched-exits-stealth-800m-raised-1b-contracts.htm">Transformer Chip Startup Etched Exits Stealth: $800M Raised, $1B in Contracts</a></li>
+<li><a href="https://wccftech.com/etched-pulls-400-engineers-nvidia-tsmc-build-new-frontier-inference-cluster-for-ai/">Etched Pulls 400+ Engineers From NVIDIA, TSMC & More to Build a New Frontier Inference Cluster For AI Which Is Already Worth $1B in Demand</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI hardware`, `#startup funding`, `#semiconductors`, `#AI chips`, `#venture capital`
 
 ---
 
 <a id="item-6"></a>
-## [BNEF Nearly Doubles US Data Center Power Forecast to 194GW by 2035](https://www.tomshardware.com/tech-industry/data-centers/bnef-nearly-doubles-its-us-data-center-power-forecast-to-194gw) ⭐️ 7.5/10
+## [Wistron Opens First U.S. AI Smart Factory for NVIDIA GB300 Production](https://www.techpowerup.com/350985/wistron-celebrates-grand-opening-of-first-u-s-smart-factory) ⭐️ 7.5/10
 
-BloombergNEF has sharply revised upward its forecast for US data center power demand, now projecting 194 gigawatts by 2035 — an 83% increase over the 106 GW estimate it published just seven months earlier in December 2025. This dramatic revision signals that AI-driven compute growth is outpacing even expert forecasts, raising urgent questions about grid capacity, energy infrastructure investment, and the environmental footprint of AI at a national scale. The 194 GW projection reflects a compound acceleration — the December 2025 figure of 106 GW was already 36% above the April 2025 projection, meaning BNEF has roughly doubled its forecast within a single year, driven primarily by surging AI compute demand.
+Wistron officially opened its D1 AI smart facility in Fort Worth, Texas — a $700 million, 324,000-square-foot plant that is the first U.S. site to mass-produce NVIDIA's GB300 Grace Blackwell Ultra Superchips. The ceremony was led by Wistron Chairman Simon Lin and NVIDIA CEO Jensen Huang, with Wistron announcing plans to also produce the next-generation NVIDIA Vera Rubin Superchip at the same location. This is a significant milestone for U.S.-based AI infrastructure manufacturing, reducing reliance on overseas production for NVIDIA's most advanced accelerators and strengthening the domestic AI supply chain. The presence of Jensen Huang signals NVIDIA's strategic commitment to expanding U.S. production capacity for its flagship AI silicon amid surging global demand. The factory runs on NVIDIA accelerated computing and integrates NVIDIA's Nemotron and Cosmos open frontier models along with Omniverse and Metropolis libraries, using digital twin technology to optimize factory design and workflows. The GB300 NVL72 platform itself integrates 72 Blackwell Ultra GPUs and 36 Grace CPUs per rack-scale system, with 288 GB HBM3e per GPU and up to 1,400 PFLOPS FP4 inference performance.
 
-rss · Tom's Hardware · Jul 22, 14:21
+rss · TechPowerUp News · Jul 22, 18:30
 
-**Background**: Data centers house the servers that power cloud computing and AI workloads, and their electricity consumption has surged as hyperscale operators build facilities exceeding 1 gigawatt in capacity. BloombergNEF (Bloomberg New Energy Finance) is a widely cited research provider that models long-term energy and commodity trends. US electricity demand had been relatively flat for two decades before AI workloads triggered a renewed growth cycle, straining local grids in regions where data centers cluster.
+**Background**: Wistron is a Taiwanese original design manufacturer (ODM) long known as a key assembly partner for major tech brands, and it has increasingly pivoted toward AI server and accelerator manufacturing. NVIDIA's Grace Blackwell Ultra (GB300) Superchip is the successor to the GB200, pairing a Grace Arm-based CPU with a Blackwell Ultra GPU on a single board, designed to deliver massive performance gains for AI training and inference. The Vera Rubin Superchip, mentioned by Wistron as a future product at this facility, is NVIDIA's next-generation AI platform expected to follow Blackwell. NVIDIA Nemotron is a family of open multimodal foundation models for agentic AI, while NVIDIA Cosmos provides world foundation models for physical AI applications — both being used here to power the factory's own AI-driven operations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://about.bnef.com/what-we-do/">What we do | BloombergNEF</a></li>
-<li><a href="https://www.energy-storage.news/bloombergnef-ups-bess-forecast-as-renewables-add-resilience-from-fossil-fuel-price-shocks/">BloombergNEF ups BESS forecast as... - Energy -Storage.News</a></li>
-<li><a href="https://qz.com/ai-data-centers-gigawatt-power-grid-strain-051126">AI data centers pass 1 gigawatt and strain the U.S. power grid</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/gb300-nvl72/">Designed for AI Reasoning Performance & Efficiency | NVIDIA GB300 NVL72</a></li>
+<li><a href="https://www.nvidia.com/en-us/ai/cosmos/">Physical AI with World Foundation Models | NVIDIA Cosmos</a></li>
+<li><a href="https://www.nvidia.com/en-eu/ai-data-science/foundation-models/nemotron/">Build Agentic AI with Multimodal Foundation Models | NVIDIA Nemotron</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#data-centers`, `#energy-consumption`, `#AI-infrastructure`, `#forecasting`, `#power-grid`
+**Tags**: `#NVIDIA`, `#AI infrastructure`, `#semiconductor manufacturing`, `#GB300`, `#Wistron`
 
 ---
 
 <a id="item-7"></a>
-## [AI tech companies have ‘hidden debt’ worth around $1.65 trillion, report claims — amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle](https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle) ⭐️ 7.5/10
+## [Bipartisan US Bill Proposes Kill Switches for Powerful AI Models](https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models) ⭐️ 7.5/10
 
-Five major AI tech companies (Alphabet, Amazon, Meta, Microsoft, Oracle) have approximately $1.65 trillion in off-balance-sheet data center obligations representing 122% of their reported debt, raising concerns about hidden financial risks in the AI buildout.
+A bipartisan US bill has been proposed that would require kill switches on the most powerful AI models, empowering the Department of Homeland Security (DHS) to throttle or fully shut down these systems. The bill targets companies with at least $500 million in annual AI revenue whose models were trained with compute costs exceeding $100 million, with non-compliance fines reaching $20 million per day. This proposal signals serious bipartisan momentum toward regulating frontier AI, potentially reshaping how the largest AI companies develop and deploy their most capable models. If enacted, it would mark one of the most aggressive US federal interventions into AI operations, affecting major players such as OpenAI, Google, Anthropic, and Meta. The bill uses specific quantitative thresholds ($500M annual AI revenue and $100M training compute) to define covered models, focusing regulatory power on the most resource-intensive frontier systems rather than broadly applied rules. It amends the Homeland Security Act, placing AI oversight under DHS rather than creating a new dedicated agency, and includes tiered enforcement actions from throttling to full shutdown.
 
-rss · Tom's Hardware · Jul 22, 13:23
+rss · Tom's Hardware · Jul 23, 15:02
 
-**Tags**: `#AI infrastructure`, `#tech finance`, `#data centers`, `#big tech`, `#industry analysis`
+**Background**: Frontier AI models refer to the most capable, cutting-edge AI systems, typically large language models trained with enormous computational resources measured in floating-point operations (FLOPs). Training compute costs have grown exponentially over the past decade, with leading models now requiring tens or hundreds of millions of dollars in compute alone. Kill switches are emergency mechanisms designed to halt or throttle AI systems in scenarios where they pose risks, such as autonomous behavior, cybersecurity threats, or misuse. Earlier regulatory discussions around frontier AI have focused on licensing, risk assessment, auditing, and post-deployment monitoring, making this kill-switch proposal a notable escalation of the US approach.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://80000hours.org/podcast/episodes/markus-anderljung-regulating-cutting-edge-ai/">Markus Anderljung on how to regulate cutting-edge AI models</a></li>
+<li><a href="https://futuretech.mit.edu/news/what-drives-progress-in-ai-trends-in-compute">What drives progress in AI ? Trends in Compute</a></li>
+<li><a href="https://datahub.io/blog/the-trillion-fold-rise-how-ai-training-compute-exploded">The Trillion-Fold Rise: How AI Training Compute Exploded</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI policy`, `#regulation`, `#bipartisan bill`, `#AI safety`, `#frontier AI`
 
 ---
 
 <a id="item-8"></a>
-## [Meta to adopt custom AMD MI400 chips with 144GB HBM4](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-to-use-custom-amd-instinct-mi400-accelerators-with-144gb-of-hbm4-for-select-workloads-report-claims-could-dramatically-reduce-cost-at-the-expense-of-versatility) ⭐️ 7.5/10
+## [Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects](https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects) ⭐️ 7.5/10
 
-According to a report, Meta plans to deploy a custom variant of AMD's Instinct MI400-series accelerators equipped with 144GB of HBM4 memory for select workloads, down from the 432GB of HBM4 found on the standard MI400. If confirmed, this would mark another major hyperscaler diversifying away from NVIDIA and embracing AMD's next-generation accelerators, potentially pressuring GPU pricing across the industry and accelerating AMD's foothold in the AI data center market. The standard AMD Instinct MI400 is slated to launch in 2026 with 432GB HBM4 at 19.6TB/s bandwidth and 40 PFLOPs of FP4 compute, forming AMD's 'Helios' 72-GPU rack-scale platform. Meta's reported custom version trims memory to 144GB, which could reduce cost but limit its suitability for the largest training jobs.
+Analysis of the AI industry's shift from copper to photonic interconnects for scaling data centers, featuring expert insights on emerging standards and the role of companies like Lightmatter.
 
-rss · Tom's Hardware · Jul 22, 11:36
+rss · Tom's Hardware · Jul 23, 14:22
 
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology that delivers far higher bandwidth than traditional DDR memory, making it ideal for AI workloads that need to feed massive amounts of data to GPU compute units. HBM4 is the latest generation, offering higher capacity per stack and significantly improved throughput. AI accelerators such as the AMD Instinct MI400 compete with NVIDIA's GPUs (H100, B200) and Google's TPUs, and their HBM capacity directly affects how large a model can be trained or served on a single device or rack.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://wccftech.com/amd-instinct-mi400-accelerator-doubles-compute-40-pflops-432-gb-hbm4-memory-2026-launch/">AMD's Next-Gen Instinct MI400 Accelerator Doubles The Compute To 40 PFLOPs, Equipped With 432 GB HBM4 Memory at 19.6 TB/s & Launches In 2026</a></li>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://aiwiki.ai/wiki/ai_accelerator_comparison">AI Accelerator Comparison (H100 vs B200 vs MI300 vs TPU) | AI Wiki</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI-hardware`, `#AMD`, `#Meta`, `#data-centers`, `#HBM4`
+**Tags**: `#AI infrastructure`, `#photonic interconnects`, `#data centers`, `#hardware`, `#Lightmatter`
 
 ---
 
 <a id="item-9"></a>
-## [数学家仍然不知道乘法的最快方法](https://www.solidot.org/story?sid=84899) ⭐️ 7.3/10
+## [Intel and AMD lock in long-term server CPU deals with China at 40%+ price hikes](https://www.tomshardware.com/pc-components/cpus/intel-and-amd-sign-long-term-server-cpu-deals-with-chinese-customers-as-prices-jump-over-40-percent) ⭐️ 7.5/10
 
-A historical overview of fast multiplication algorithms, from O(n²) school multiplication to Karatsuba's O(n^1.585) method and the 2019 Harvey-van der Hoeven O(n log n) algorithm, noting the latter is widely believed optimal but unproven.
+Intel and AMD have reportedly signed long-term server CPU supply agreements with Chinese customers, with prices jumping more than 40% and some deals extending two years or longer, according to Reuters via Tom's Hardware. The move signals a significant supply-and-pricing power shift in the server CPU market amid tightening US-China tech restrictions, with Chinese hyperscalers and cloud buyers apparently willing to absorb sharp price increases to lock in allocation. It also reflects how export-control pressure can translate directly into higher revenues for the two dominant x86 server vendors. The agreements reportedly guarantee purchase volumes for roughly one year without fixing prices, giving both sides flexibility as market conditions change. Some customers have discussed multi-year commitments, suggesting they are hedging against further supply tightening or additional US restrictions.
 
-rss · Solidot · Jul 22, 16:52
+rss · Tom's Hardware · Jul 23, 13:49
 
-**Tags**: `#algorithms`, `#computational-complexity`, `#mathematics`, `#history-of-computing`, `#Karatsuba`
+**Background**: Server CPUs such as Intel Xeon and AMD EPYC differ fundamentally from consumer chips — they offer far higher core counts (EPYC 9004 series reaches up to 128 cores), support multi-socket configurations, and prioritize reliability, parallel request handling, and virtualization for data center workloads. Since October 7, 2022, the United States has imposed sweeping export controls targeting China's ability to access advanced computing and semiconductor manufacturing items, restricting American firms from selling cutting-edge chips and seeking to prevent circumvention through third countries. These restrictions have tightened global supply of high-end server silicon, creating conditions where Chinese customers feel pressure to commit early. The deal structure resembles long-term agreements (LTAs) used in other commodity semiconductor supply chains, where buyers secure guaranteed volume while pricing floats with the market.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China">United States New Export Controls on Advanced ... - Wikipedia</a></li>
+<li><a href="https://www.nortonrosefulbright.com/en/knowledge/publications/5a936192/us-expands-export-restrictions-on-advanced-semiconductors">US expands export restrictions on advanced semiconductors</a></li>
+<li><a href="https://www.flytronics-group.com/articledetail/913.html">Samsung reportedly in talks with Google, Microsoft on long - term ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#Intel`, `#AMD`, `#server-hardware`, `#geopolitics`
 
 ---
 
 <a id="item-10"></a>
-## [GigaToken: ~1000x Faster Language Model Tokenization](https://github.com/marcelroed/gigatoken/) ⭐️ 7.0/10
+## [Everyone Should Know SIMD: A Practical Guide to Vectorized Programming](https://mitchellh.com/writing/everyone-should-know-simd) ⭐️ 7.0/10
 
-GigaToken is a new open-source tokenization library that achieves approximately 1000x speedup over existing implementations through SIMD-based optimization, replacing regex-based pretokenization with custom routines, and heavily optimizing pretoken mapping caching. The improvements are consistent across modern x86 and ARM CPUs and various tokenizer configurations. While tokenization typically accounts for less than 0.1% of inference time, it is a major bottleneck during large-scale offline data preparation for training corpora, where terabytes of text must be tokenized. The 1000x speedup can significantly reduce iteration cycles and computational costs for ML practitioners preparing training datasets. The key technical innovations include replacing regex-based pretokenization with SIMD-optimized custom code, minimizing branching, and caching pretoken mappings aggressively. The author notes results are consistent across modern x86 and ARM CPUs and across specific tokenizer implementations.
+Mitchell Hashimoto published an introductory guide to SIMD (Single Instruction, Multiple Data) programming, explaining how vectorized operations can dramatically accelerate performance-critical code. The article walks through concrete examples of replacing scalar loops with SIMD intrinsics to achieve significant speedups. As CPU clock speeds plateau, performance gains increasingly depend on parallelism at the data level, making SIMD knowledge essential for systems programmers, game developers, and anyone working on performance-critical code. The article received 549 upvotes and 200 substantive comments, indicating strong community interest in low-level optimization techniques. Community discussion highlighted that SWAR (SIMD Within A Register) can serve as a simpler stepping stone using standard 64-bit registers, and that array programming provides a useful mindset that compilers can more easily auto-vectorize. A practitioner reported achieving 5x speedups in a bioinformatics project using AVX-512 fused kernels with the Rust 'wide' crate.
 
-hackernews · syrusakbary · Jul 22, 17:20 · [Discussion](https://news.ycombinator.com/item?id=49010167)
+hackernews · WadeGrimridge · Jul 22, 17:48 · [Discussion](https://news.ycombinator.com/item?id=49010648)
 
-**Background**: Tokenization is the preprocessing step in NLP that converts raw text into tokens (numerical representations) that language models can process. SIMD (Single Instruction, Multiple Data) is a CPU parallel processing technique that allows a single instruction to operate on multiple data elements simultaneously, significantly accelerating computations like string scanning. Pretokenization is an initial splitting step that divides text into chunks before the final tokenization, often implemented using regular expressions, which can be a performance bottleneck when processing massive datasets.
+**Background**: SIMD is a parallel computing paradigm where a single instruction operates on multiple data elements simultaneously, available on modern CPUs through instruction sets like SSE, AVX, AVX-512 (x86) and NEON (ARM). Unlike multi-threading, SIMD achieves parallelism within a single CPU instruction by packing multiple values into wide registers (e.g., 256-bit or 512-bit). SIMD Within A Register (SWAR) is a software technique that simulates SIMD-like parallelism using ordinary integer registers, offering a hardware-independent way to explore these patterns. Array programming, used in languages like APL and NumPy, expresses operations over entire arrays rather than individual elements, which naturally aligns with SIMD execution and aids compiler auto-vectorization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data">Single instruction, multiple data - Wikipedia</a></li>
-<li><a href="https://machinelearningmastery.com/tokenizers-in-language-models/">Tokenizers in Language Models - MachineLearningMastery.com</a></li>
-<li><a href="https://aman.ai/primers/ai/tokenizer/">Natural Language Processing • Tokenizer - aman.ai</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SWAR">SWAR - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Array_programming">Array programming - Wikipedia</a></li>
+<li><a href="https://sunsite.icm.edu.pl/Linux/Documentation/HOWTO/Parallel-Processing-HOWTO-4.html">Linux Parallel Processing HOWTO: SIMD Within A Register ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is largely positive, with tokenization experts praising the caching strategies and regex replacement as generally useful ideas that the community wants to learn from. Some commenters note that tokenization is typically less than 0.1% of inference time, framing the work as more valuable for offline data preparation than inference. One commenter humorously remarks that optimizing something that accounts for 0.1% of total runtime by 1000x is a quintessentially software-engineer thing to do.
+**Discussion**: The community response was largely positive and technically substantive. Commenters expanded the discussion beyond the article: one recommended starting with SWAR for hardware-independent exploration, another argued that array programming is an even more fundamental skill since it aids compiler auto-vectorization, and a bioinformatics practitioner shared real-world AVX-512 experience with 5x speedups. A common theme was that modern compilers auto-vectorize well until edge cases break them, making manual SIMD knowledge important for diagnosing unexpected performance cliffs.
 
-**Tags**: `#tokenization`, `#performance-optimization`, `#SIMD`, `#machine-learning`, `#data-preparation`
+**Tags**: `#SIMD`, `#performance-optimization`, `#low-level-programming`, `#computer-architecture`, `#parallel-computing`
 
 ---
 
 <a id="item-11"></a>
-## [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) ⭐️ 7.0/10
+## [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/) ⭐️ 7.0/10
 
-Bento is a single self-contained HTML file that provides full PowerPoint-like editing, viewing, and real-time collaboration without any install or cloud dependency.
+Analysis of Alphabet's massive cash burn from AI infrastructure spending, raising concerns about whether Big Tech's unprecedented AI capex commitments (~$3T total) can generate sufficient returns to justify investment.
 
-hackernews · starfallg · Jul 22, 15:19 · [Discussion](https://news.ycombinator.com/item?id=49008211)
+hackernews · 1vuio0pswjnm7 · Jul 23, 13:10 · [Discussion](https://news.ycombinator.com/item?id=49021006)
 
-**Tags**: `#web-development`, `#single-file-apps`, `#presentation-tools`, `#local-first`, `#show-hn`
+**Tags**: `#AI economics`, `#Big Tech`, `#Alphabet`, `#capital expenditure`, `#industry analysis`
 
 ---
 
 <a id="item-12"></a>
-## [Mitchell Hashimoto Argues Every Developer Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) ⭐️ 7.0/10
+## [Bento: A Single HTML File PowerPoint Alternative with Editing and Live Collaboration](https://bento.page/slides/) ⭐️ 7.0/10
 
-Mitchell Hashimoto, co-founder of HashiCorp, published a technical guide titled 'Everyone Should Know SIMD' that argues developers should understand SIMD (Single Instruction, Multiple Data) programming for performance optimization. The article sparked a substantive Hacker News discussion featuring 259 upvotes and 75 comments debating its premise and the broader role of low-level optimization knowledge. The article reignites a long-standing debate in the software engineering community about whether modern developers need to understand low-level computer architecture, especially as compilers, libraries, and high-level abstractions increasingly handle optimization automatically. Coming from a respected infrastructure pioneer, the piece carries weight in shaping how practitioners think about performance engineering in 2025. SIMD can deliver 4x to 16x performance speedups when used correctly, but community commenters note that modern compilers often silently fall back to scalar code due to aliasing assumptions or data-dependent branches, making it important for developers to learn how to read compiler optimization reports. Several commentators argued that Data-Oriented Design—restructuring data layouts for cache efficiency—yields greater gains than SIMD intrinsics alone.
+Bento is a new open-source presentation tool that packages an entire PowerPoint-style application—editing, animations, sharing, and live collaboration—into a single ~560 KB HTML file that works fully offline. The file stores slide data as plain JSON near the top and contains the app logic as a base64-encoded blob that decompresses in the browser via the DecompressionStream API. It exemplifies a growing trend of single-file web apps and local-first software, removing the need for installs, cloud accounts, or external fetches. It also integrates naturally with AI coding assistants like Claude Code, letting users describe edits in natural language rather than manually editing code, which could reshape how presentations and lightweight tools are built and shared. Collaboration is achieved through an encrypted blind relay that never sees plaintext, making it end-to-end secure. The project is MIT-licensed on GitHub, built on reveal.js plus several other libraries, and the slide JSON near the top is designed to be readable, greppable, and directly addressable by AI coding harnesses.
 
-hackernews · WadeGrimridge · Jul 22, 17:48 · [Discussion](https://news.ycombinator.com/item?id=49010648)
+hackernews · starfallg · Jul 22, 15:19 · [Discussion](https://news.ycombinator.com/item?id=49008211)
 
-**Background**: SIMD (Single Instruction, Multiple Data) is a parallel computing approach where a single instruction operates on multiple data points simultaneously, as classified in Flynn's taxonomy. It is accessible through instruction set extensions like SSE, AVX on x86, or NEON on ARM, and can deliver dramatic speedups for data-parallel workloads such as image processing, scientific computing, and game rendering. Data-Oriented Design (DOD) is a complementary programming paradigm that organizes code around data layouts optimized for memory access patterns and cache behavior, rather than around objects, often producing better SIMD vectorization and overall performance. Mitchell Hashimoto co-founded HashiCorp in 2012 alongside Armon Dadgar and is widely known for creating Vagrant and leading major infrastructure tools like Terraform and Vault.
+**Background**: Single-file web apps are standalone HTML documents that bundle all logic, styles, and data so the file itself is the entire application—no build step, server, or backend needed. Local-first software is a design philosophy, coined by the Ink & Switch lab in its 2019 manifesto, where the user's device holds the primary copy of the data and cloud sync is secondary, enabling fast, offline-capable experiences. AI coding harnesses like Anthropic's Claude Code are agentic terminal tools that can read, edit, and run code across an entire repository based on natural-language instructions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data">Single instruction, multiple data - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/HashiCorp">HashiCorp - Wikipedia</a></li>
-<li><a href="https://dennisrants.substack.com/p/how-to-simd-programming">How-To: SIMD Programming - by Dennis Andersson</a></li>
+<li><a href="https://docs.powersync.com/resources/local-first-software">Understand the local - first software architecture pattern and how...</a></li>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+<li><a href="https://dev.to/iamjephter/building-a-blind-relay-in-rust-with-tauri-at-the-edge-57gp">Architecting a Blind Relay : E2EE Clipboard Sync... - DEV Community</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News discussion reveals strong but divided opinions: some commenters, like Rendello, advocate for Data-Oriented Design as a prerequisite to SIMD optimization, arguing that poor data structures waste SIMD's potential. Others, like Jtarii, lament what they see as the community's disdain for understanding how computers actually work. A pragmatic middle-ground position emerged from users like kiaansaraiya and boricj, who suggested that learning to read compiler vectorization reports and benchmarking skills are more universally valuable than hand-writing SIMD intrinsics, reserving manual SIMD for situations where auto-vectorization fails.
+**Discussion**: The HN thread was strongly positive (939 upvotes, 214 comments), with many commenters echoing the sentiment that single-file web apps and local-first tools represent an important emerging pattern, not just a novelty. Several users highlighted that the economic incentive to ship truly local software has only recently arrived, while others pointed to alternatives like Slidev and Typst for AI-generated slides. The creator added technical detail about the JSON-plus-base64 architecture and how AI harnesses can directly target the slide data.
 
-**Tags**: `#SIMD`, `#performance-optimization`, `#systems-programming`, `#data-oriented-design`, `#computer-architecture`
+**Tags**: `#single-file-apps`, `#local-first`, `#web-development`, `#presentations`, `#ai-assisted-coding`
 
 ---
 
 <a id="item-13"></a>
-## [Startup's Postgres Survival Guide: Best Practices and Community Insights](https://hatchet.run/blog/postgres-survival-guide) ⭐️ 7.0/10
+## [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) ⭐️ 7.0/10
 
-Hatchet.run published a practical guide covering Postgres best practices for startups, which sparked substantial Hacker News discussion (322 points, 173 comments) with community members offering corrections, supplementary topics, and real-world startup experiences. The discussion significantly enhanced the original article with advice on backup strategies (Barman, WAL archiving), uuidv7 over uuidv4, deterministic lock ordering, and the importance of append-only schemas. For early-stage startups, Postgres misconfigurations and missing operational practices (like backups) can cause catastrophic data loss before they even reach scale problems. This guide plus community validation offers a battle-tested checklist that helps small teams avoid common pitfalls while staying focused on product development. Community-raised corrections include preferring uuidv7 (time-ordered) over uuidv4 for better index locality, using EXPLAIN (GENERIC_PLAN) to inspect parameterized queries, ordering locks deterministically (e.g., by id ASC) to prevent deadlocks, and adopting append-only schemas where the source of truth is insert-only with secondary denormalized tables for mutations. Notable gaps in the original article highlighted by commenters include the absence of any backup/restore strategy discussion and the risks of cascading foreign-key deletes at higher volumes.
+A systematic analysis of 1008 AI-generated images testing whether AI labs are specifically optimizing for the 'pelican on a bicycle' benchmark, with sound methodology that goes beyond casual spot-checking.
 
-hackernews · abelanger · Jul 22, 12:36 · [Discussion](https://news.ycombinator.com/item?id=49005787)
+hackernews · dcastm · Jul 22, 17:17 · [Discussion](https://news.ycombinator.com/item?id=49010129)
 
-**Background**: PostgreSQL is a widely adopted open-source relational database that powers everything from small startups to large enterprises. For early-stage companies, the most common database problems are not scaling issues but operational basics: ensuring backups exist, avoiding deadlocks from inconsistent lock ordering, choosing appropriate primary key types, and keeping schemas simple. Tools like Barman handle Postgres backups and WAL (Write-Ahead Log) archiving for point-in-time recovery, while features like EXPLAIN help developers analyze query execution plans. ORMs (Object-Relational Mappers) abstract database access in application code but can obscure performance issues and lead to inefficient query patterns, which is why some experienced engineers recommend writing SQL directly.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.postgresql.org/docs/current/backup.html">PostgreSQL: Documentation: 18: Chapter 25. Backup and Restore</a></li>
-<li><a href="https://www.postgresql.org/docs/current/continuous-archiving.html">PostgreSQL: Documentation: 18: 25.3. Continuous Archiving and ...</a></li>
-<li><a href="https://www.postgresql.org/docs/current/performance-tips.html">PostgreSQL: Documentation: 18: Chapter 14. Performance Tips</a></li>
-<li><a href="https://postgrespro.com/docs/postgresql/current/runtime-config-locks">PostgreSQL : Documentation: 18: 19.12. Lock Management</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The Hacker News thread was highly engaged and largely constructive, with commenters treating the article as a starting point rather than a definitive reference. Several experts pushed back on specific recommendations (cascading deletes, uuidv4) and flagged the conspicuous absence of a backup strategy, with Barman and WAL archiving suggested as standard tools. A recurring theme from practitioners was that most startup Postgres pain comes from organizational and architectural choices—not using an ORM, preferring serial primary keys, and keeping source-of-truth tables append-only—rather than from scaling concerns.
-
-**Tags**: `#postgres`, `#database`, `#startups`, `#best-practices`, `#backend`
+**Tags**: `#AI evaluation`, `#benchmark integrity`, `#image generation`, `#AI labs`, `#methodology`
 
 ---
 
 <a id="item-14"></a>
-## [CEA-Leti Explores Post-SRAM/DRAM Memory Technologies for AI](https://www.eetimes.com/cea-leti-looks-beyond-sram-and-dram-as-ai-reshapes-the-memory-roadmap/) ⭐️ 7.0/10
+## [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) ⭐️ 7.0/10
 
-CEA-Leti researcher François Andrieu has outlined how AI workloads are pushing the memory industry to develop novel embedded, persistent, and low-energy memory technologies that go beyond traditional SRAM and DRAM. The discussion highlights alternative memory candidates as essential building blocks for next-generation AI hardware. Memory bandwidth and energy consumption have become critical bottlenecks for AI accelerators and data centers, and conventional SRAM and DRAM struggle to keep pace with the data-intensive demands of modern AI models. Alternative memory technologies like MRAM, ReRAM, and PCM could enable more efficient, denser, and persistent on-chip storage, reshaping the economics and performance of AI hardware across edge and cloud deployments. CEA-Leti is a major French microelectronics research institute, and Andrieu's roadmap centers on emerging non-volatile memories (NVMs) such as MRAM, PCM, and STT-RAM, which retain data without power and can be integrated closer to compute logic. The trend also aligns with the rise of compute-in-memory (CIM) and processing-in-memory (PIM) architectures, which aim to eliminate the costly data movement between memory and processors.
+Codeberg announces measures to protect FLOSS projects hosted on their platform from being scraped and used as LLM training data, sparking debate about open source identity and AI ethics.
 
-rss · EE Times · Jul 22, 07:53
+hackernews · acmnrs · Jul 23, 01:14 · [Discussion](https://news.ycombinator.com/item?id=49015635)
 
-**Background**: SRAM and DRAM have been the workhorses of computing memory for decades. SRAM is fast but volatile and occupies large silicon area per bit, while DRAM is denser but still volatile and requires constant refreshing, consuming significant energy. As AI models grow in size and require massive parameter movement between memory and compute units, the energy and latency costs of shuttling data across the memory hierarchy have become a dominant factor in system performance. This has spurred interest in non-volatile memories like MRAM (which uses magnetic states to store bits), PCM (phase-change memory), and STT-RAM, as well as entirely new architectures such as compute-in-memory, where computation happens inside or near the memory arrays themselves.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.techtarget.com/searchstorage/definition/MRAM">What is MRAM (Magnetoresistive random access memory )?</a></li>
-<li><a href="https://semiengineering.com/knowledge_centers/memory/non-volatile-memory-nvm/magnetoresistive-ram/">Magnetoresistive RAM ( MRAM ) - Semiconductor Engineering</a></li>
-<li><a href="https://en.wikipedia.org/wiki/In-memory_processing">In-memory processing - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#memory technology`, `#AI hardware`, `#MRAM`, `#in-memory computing`
+**Tags**: `#open-source`, `#LLM`, `#Codeberg`, `#FLOSS`, `#policy`
 
 ---
 
 <a id="item-15"></a>
-## [CachyOS Proton Fork Adds NVIDIA Reflex Support on Linux](https://www.techpowerup.com/350984/linux-gets-nvidia-reflex-support-in-new-cachyos-proton-translation-layer) ⭐️ 6.5/10
+## [DAC 2026: Chip Giants Build DIY AI Design Tools, Bypassing EDA Vendors](https://www.eetimes.com/dac-2026-users-are-not-waiting-diy-ai-is-now-in-vogue/) ⭐️ 7.0/10
 
-The latest build of proton-cachyos (cachyos-11.0-20260703-slr) now bakes in support for NVIDIA's Reflex latency-reduction API through the vkd3d-low-latency DX12-to-Vulkan translation layer. Unlike earlier versions of vkd3d that included AMD's Anti-Lag but not Reflex, the new implementation natively supports NVIDIA Reflex and works on both AMD and NVIDIA GPUs. This update lowers input latency for Linux gamers playing DirectX 12 Windows titles through Proton, addressing one of the long-standing gaps in Linux gaming responsiveness. It benefits both AMD and NVIDIA users on CachyOS, broadening competitive gaming viability on the platform while showcasing how third-party Proton forks can deliver features ahead of Valve's official Proton. Reflex 支持在 vkd3d-low-latency 翻译层中原生实现，绕过了到 VK_NV_low_latency2 的转换，并启用与硬件无关的帧调度。不过它无法在 Intel GPU 上工作，且最终还需要具体游戏本身启用 Reflex 支持，延迟降低效果才能真正生效。
+At DAC 2026, EE Times reports that major chip companies are no longer waiting for traditional EDA vendors to deliver AI-powered design tools and are instead building their own AI-driven design capabilities in-house. This shift signals a potential disruption to the long-standing EDA oligopoly dominated by Synopsys, Cadence, and Siemens EDA, and could reshape how AI is integrated into semiconductor design workflows across the industry. The available content is limited to a brief teaser paragraph; specific chip companies, tool names, and technical capabilities discussed at DAC 2026 are not detailed in the source material provided.
+
+rss · EE Times · Jul 23, 07:45
+
+**Background**: The Design Automation Conference (DAC) is the premier annual event for the electronic design automation (EDA) industry, combining a technical conference with a trade show focused on semiconductor and electronic system design. EDA tools are specialized software used to design, simulate, verify, and manufacture semiconductor chips, spanning the full IC workflow from design to packaging and testing. The EDA market has long been dominated by three major vendors—Synopsys, Cadence Design Systems, and Siemens EDA (formerly Mentor Graphics)—which have historically grown through both internal R&D and acquisitions of startups. AI's growing role in chip design has been a rising theme in recent years, with traditional EDA vendors racing to incorporate AI features into their offerings.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Design_Automation_Conference">Design Automation Conference - Wikipedia</a></li>
+<li><a href="https://semiengineering.com/knowledge_centers/eda-design/definitions/electronic-design-automation/">Electronic Design Automation ( EDA ) - Semiconductor Engineering</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_EDA_software">Comparison of EDA software - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#EDA`, `#semiconductor`, `#AI`, `#DAC2026`, `#chip-design`
+
+---
+
+<a id="item-16"></a>
+## [Framework Teases Desktop with Ryzen AI Max+ PRO 495 and 192GB Memory](https://www.techpowerup.com/350997/framework-teases-desktop-with-ryzen-ai-max-pro-495-and-192gb-memory) ⭐️ 6.5/10
+
+Framework teases its first mini-PC powered by AMD Ryzen AI Max+ PRO 495 with 192GB LPDDR5X unified memory, enabling local AI inference for models up to 300 billion parameters.
+
+rss · TechPowerUp News · Jul 23, 08:30
+
+**Tags**: `#AMD`, `#Framework`, `#AI hardware`, `#local inference`, `#Ryzen AI`
+
+---
+
+<a id="item-17"></a>
+## [CachyOS Proton Fork Adds NVIDIA Reflex Support via vkd3d-low-latency](https://www.techpowerup.com/350984/linux-gets-nvidia-reflex-support-in-new-cachyos-proton-translation-layer) ⭐️ 6.5/10
+
+The latest build of proton-cachyos (cachyos-11.0-20260703-slr) now includes NVIDIA Reflex latency reduction support through the vkd3d-low-latency DX12-to-Vulkan translation layer, a feature that was previously absent from vkd3d-proton, which only supported AMD's Anti-Lag. This fills a long-standing gap in Linux gaming where DirectX 12 titles lacked access to NVIDIA Reflex's low-latency optimizations, and the implementation works across both NVIDIA and AMD GPUs, benefiting a broader audience of Linux gamers who previously had to rely on vendor-specific solutions. The Reflex implementation natively executes within the translation layer rather than converting to the VK_NV_low_latency2 Vulkan extension, enabling hardware-agnostic frame pacing. However, it does not work on Intel GPUs and still requires individual games to expose in-game Reflex toggles to function.
 
 rss · TechPowerUp News · Jul 22, 22:45
 
-**Background**: Proton is Valve's compatibility tool, built on Wine and other components like DXVK and vkd3d, that translates Windows DirectX API calls into Vulkan so Windows games can run on Linux; the Steam Deck's success has spurred many Linux gaming distros to maintain their own Proton forks with extra patches. vkd3d is the translation library specifically for Direct3D 12 to Vulkan, developed under the Wine project. NVIDIA Reflex is a vendor SDK that lets developers reduce and measure rendering latency for competitive gaming, complementing AMD's Anti-Lag and Anti-Lag+ technologies, and works alongside the Reflex Latency Analyzer hardware for end-to-end measurement.
+**Background**: Proton is Valve's open-source compatibility layer, built on Wine and components like DXVK (for Direct3D 9-11) and vkd3d-proton (for Direct3D 12), that allows Windows games to run on Linux; its success on the Steam Deck catalyzed the rise of numerous Linux gaming distributions. CachyOS is one such Arch-based distribution that maintains its own Proton fork, often integrating experimental fixes before they reach upstream. NVIDIA Reflex is a vendor SDK that synchronizes CPU and GPU work to reduce render and input latency, roughly analogous to AMD's Anti-Lag and Intel's latency-reduction technologies.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.gamingonlinux.com/2026/07/proton-cachyos-adds-support-for-vkd3d-low-latency-upgrades-d7vk-and-more/">Proton-CachyOS adds support for vkd 3 d - low - latency , upgrades d7vk...</a></li>
-<li><a href="https://developer.nvidia.com/performance-rendering-tools/reflex">Reflex SDK | NVIDIA Developer</a></li>
+<li><a href="https://github.com/netborg-afps/vkd3d-low-latency/releases">Releases · netborg-afps/ vkd 3 d - low - latency · GitHub</a></li>
 <li><a href="https://en.wikipedia.org/wiki/DXVK">DXVK - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#linux`, `#gaming`, `#proton`, `#nvidia`, `#vkd3d`
-
----
-
-<a id="item-16"></a>
-## [(PR) Wistron Celebrates Grand Opening of First U.S. Smart Factory](https://www.techpowerup.com/350985/wistron-celebrates-grand-opening-of-first-u-s-smart-factory) ⭐️ 6.5/10
-
-Wistron opened a $700M smart factory in Fort Worth, Texas, where the first US-produced NVIDIA GB300 Grace Blackwell Ultra Superchips are being mass-manufactured.
-
-rss · TechPowerUp News · Jul 22, 18:30
-
-**Tags**: `#NVIDIA`, `#AI-hardware`, `#manufacturing`, `#GB300`, `#supply-chain`
-
----
-
-<a id="item-17"></a>
-## [USB4 Version 2 and Thunderbolt 5 Push Copper Interconnects to Physical Limits](https://www.tomshardware.com/peripherals/usb/usbs-next-decade) ⭐️ 6.5/10
-
-Tom's Hardware reports that the USB ecosystem is undergoing another major transition in the second half of the 2020s, driven by USB4 Version 2 and Thunderbolt 5, which together are pushing copper interconnect signaling technology toward its physical limits. This transition will affect virtually every connected device category — laptops, desktops, storage, displays, and peripherals — and signals that the industry may need to increasingly turn to optical interconnects to scale beyond what copper can physically deliver, especially as AI infrastructure demands continue to grow. The USB4 Version 2.0 specification was released by USB-IF in November 2025, building on USB 3.2 and 2.0 architectures with higher bandwidth over Type-C. Thunderbolt 4 already mandates 40 Gbps with 32 Gbps sustained PCIe tunneling, dual 4K display support, DMA protection, and 15W minimum port power, while Thunderbolt 5 products such as the Anker Prime TB5 Docking Station (14 ports, €380) are now arriving on the market.
-
-rss · Tom's Hardware · Jul 22, 15:40
-
-**Background**: USB4 is a USB-IF standard that tunnels PCIe, USB 3.x, and DisplayPort traffic over a Type-C connector; Version 1.0 supported up to 40 Gbps. Thunderbolt is Intel's complementary connectivity standard, with each generation adding stricter capability guarantees — Thunderbolt 5 being the newest. As SerDes (serializer/deserializer) speeds enter the 200G and even 400G era, copper interconnects face growing signal degradation and thermal constraints, prompting the industry to explore optical interconnects and co-packaged optics as a physical necessity for scaling infrastructure beyond multi-node configurations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/peripherals/usb/usbs-next-decade">USB4 v2 and Thunderbolt 5 reshape universal connectivity.</a></li>
-<li><a href="https://www.usb.org/document-library/usb4r-specification-v20">USB4® Specification v2.0 | USB-IF</a></li>
-<li><a href="https://xthe.com/xthe-com-tech-news/why-supercomputer-interconnects-face-copper-physical-limits/">Supercomputer Interconnects Hit Copper Physical Limits</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#USB`, `#USB4`, `#Thunderbolt`, `#hardware`, `#connectivity`
+**Tags**: `#linux-gaming`, `#proton`, `#nvidia-reflex`, `#vkd3d`, `#cachyos`
 
 ---
 
 <a id="item-18"></a>
-## [Chinese Modder Runs RTX 4060 on Huawei Arm Workstation via Spark Driver Hack](https://www.tomshardware.com/pc-components/gpu-drivers/chinese-modder-gets-geforce-rtx-4060-working-in-windows-11-on-huawei-arm-workstation-uses-modified-driver-borrowed-from-an-nvidia-rtx-spark) ⭐️ 6.5/10
+## [Developer Gets NVIDIA RTX 4060 Working on Windows-on-Arm Desktop](https://www.techpowerup.com/350967/nvidia-rtx-4060-running-on-arm-desktop-shows-promise-for-gaming-on-windows-on-arm) ⭐️ 6.5/10
 
-A Chinese modder known as VoidTech successfully ran an NVIDIA GeForce RTX 4060 discrete GPU on a Huawei Qingyun Arm-based workstation powered by a Kunpeng 920 CPU, running Windows 11. The achievement was made possible by extracting and repurposing the ARM64 driver from NVIDIA's recently released RTX Spark Windows-on-Arm software toolkit, and was demonstrated in a Bilibili video. This hack demonstrates that NVIDIA's discrete GPUs can technically operate on Arm-based Windows hardware, which could accelerate the development of native Arm gaming ecosystems. It also highlights how Huawei's domestic Arm computing stack can leverage third-party NVIDIA silicon for graphics workloads, a notable signal given ongoing US export restrictions on Huawei. The GPU is recognized by both NVIDIA's driver and TechPowerUp's GPU-Z and can accelerate graphics tasks, but there is no video output from the card itself, making it suitable primarily for streaming/remote rendering rather than local display. The RTX Spark toolkit (CUDA Toolkit 13.4) was originally intended as a native development platform for upcoming RTX Spark systems, not for retrofitting onto existing Arm workstations.
+A Chinese developer known as VoidTech extracted NVIDIA's ARM64 driver from the RTX Spark toolkit and successfully ran an NVIDIA RTX 4060 GPU on a Huawei Qingyun Arm desktop powered by a Kunpeng 920 CPU. While the GPU is recognized by both NVIDIA's driver and GPU-Z and can accelerate graphics tasks, there is no video output, making the setup currently suitable only for streaming. This is an important early milestone for Windows-on-Arm gaming, as it demonstrates that the ecosystem is maturing beyond simple productivity workloads toward supporting discrete gaming GPUs. If NVIDIA eventually releases official ARM64 drivers for its consumer GeForce lineup, it could unlock a new frontier for Arm-based desktops and laptops capable of running modern games. The GPU-Z utility properly recognizes the RTX 4060, confirming the driver is functional at a hardware level, but the absence of video output means the system can only accelerate rendering tasks for remote display or streaming rather than driving a local monitor. There is also still no native Windows-on-Arm CUDA toolkit outside of WSL, so CUDA-based applications like Blender still run as x64 builds under emulation.
 
-rss · Tom's Hardware · Jul 22, 13:18
+rss · TechPowerUp News · Jul 22, 17:05
 
-**Background**: Windows on Arm (WoA) is Microsoft's initiative to run Windows on Arm-based processors, where most existing software must be emulated from x86. Huawei's Kunpeng 920 is a server-grade Arm CPU built on a 7nm process using the Armv8 architecture, designed for data centers and enterprise workloads in China. NVIDIA's RTX Spark is an upcoming Arm-native platform, and the recent CUDA Toolkit 13.4 preview provided the first official native Windows-on-Arm development environment for NVIDIA hardware, which this modder creatively repurposed.
+**Background**: Windows-on-Arm refers to Microsoft's effort to run Windows on processors built on the Arm architecture, which traditionally powers smartphones and is now expanding into laptops and desktops. A key historical limitation has been software compatibility, especially for x86-native applications and drivers, though Microsoft has added x86-to-Arm emulation to bridge the gap. NVIDIA's RTX Spark is an Arm-based Windows platform that recently received its first native ARM64 CUDA toolkit, but its drivers were originally intended for the platform's own GPUs rather than consumer GeForce cards. The Huawei Kunpeng 920 is an Arm-based server CPU with up to 64 cores, which is now also appearing in desktop form factors like the Qingyun system used in this experiment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/350891/nvidia-paves-the-way-for-windows-on-arm-gaming-with-rtx-spark-toolkit">NVIDIA Paves the Way for Windows-on-Arm Gaming With RTX Spark ...</a></li>
-<li><a href="https://videocardz.com/newz/nvidia-releases-first-cuda-toolkit-preview-for-windows-on-arm-and-rtx-spark">NVIDIA releases first CUDA Toolkit preview for Windows on Arm ...</a></li>
-<li><a href="https://www.hisilicon.com/en/products/Kunpeng/Huawei-Kunpeng/Huawei-Kunpeng-920">Kunpeng 920 Chipset - HiSilicon</a></li>
+<li><a href="https://www.techpowerup.com/350891/nvidia-paves-the-way-for-windows-on-arm-gaming-with-rtx-spark-toolkit">NVIDIA Paves the Way for Windows - on - Arm Gaming With RTX ...</a></li>
+<li><a href="https://wccftech.com/developer-forces-nvidia-rtx-4060-onto-windows-11-arm-by-hacking-drivers-never-meant-for-it/">Developer Forces NVIDIA RTX 4060 Onto Windows 11 Arm By...</a></li>
+<li><a href="https://www.servethehome.com/huawei-kunpeng-920-64-core-arm-server-cpu/">Huawei Kunpeng 920 64-Core Arm Server CPU... - ServeTheHome</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Arm computing`, `#Nvidia`, `#Huawei`, `#Windows on Arm`, `#GPU drivers`
+**Tags**: `#Windows-on-Arm`, `#NVIDIA`, `#RTX-4060`, `#Arm-desktop`, `#gaming`
 
 ---
 
 <a id="item-19"></a>
-## [Framework for Normalizing NVIDIA Vera Benchmarks Against AMD EPYC Turin](https://www.servethehome.com/normalizing-nvidia-vera-benchmarks-to-amd-epyc-turin-a-framework/) ⭐️ 6.5/10
+## [Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-argues-american-companies-should-be-allowed-to-use-chinese-ai-models-nvidia-ceo-says-backdoors-connected-to-china-are-misconceptions) ⭐️ 6.5/10
 
-ServeTheHome has published a methodology framework for normalizing NVIDIA Vera benchmark results from its latest whitepaper to enable apples-to-apples comparisons against AMD EPYC Turin server processors. The framework addresses differences in test configurations and system topologies so that the two CPU families can be evaluated on equal footing. As NVIDIA enters the data center CPU market with Vera to compete against established players like AMD, fair performance comparisons are essential for enterprise buyers making procurement decisions. Normalization frameworks help cut through vendor-tuned benchmark marketing and reveal true workload-level differences between competing server CPUs. The framework specifically targets normalization between NVIDIA Vera and AMD's Zen 5-based EPYC Turin 9005 series, which tops out at 192 cores with a 500W TDP and uses the SP5 socket with DDR5-6000 (up to 6400 MT/s in 1DPC configurations). Readers should note that Vera's official benchmarks were selected by NVIDIA for its own whitepaper, so the normalization framework is necessary precisely because the raw numbers are not directly comparable.
+Nvidia CEO Jensen Huang urges that American companies should be allowed to use Chinese AI models and argues that backdoor concerns are misconceptions, advocating for open AI models.
 
-rss · ServeTheHome · Jul 23, 01:08
+rss · Tom's Hardware · Jul 22, 17:55
 
-**Background**: NVIDIA Vera is the company's first standalone data center CPU designed to host accelerated systems paired with NVIDIA GPUs, targeting agentic AI, reinforcement learning, and data processing workloads. AMD EPYC Turin is the 5th generation of AMD's server processors, built on the Zen 5 architecture, and currently represents the dominant x86 alternative in high-core-count data center deployments. Benchmark normalization typically involves adjusting for differences in core count, memory bandwidth, TDP, compiler flags, and workload configuration so that architectural efficiency rather than raw system throughput is being measured.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
-<li><a href="https://d33gy59ovltp76.cloudfront.net/news/amd-epyc-turin-9005-series-we-benchmark-192-core-zen-5-chip-with-500w-tdp">AMD EPYC ‘ Turin ’ 9005 Series - we benchmark 192-core</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more">Nvidia deep dives Vera CPU for AI data centers — SPEC CPU ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA-Vera`, `#AMD-EPYC-Turin`, `#benchmarks`, `#data-center`, `#servers`
+**Tags**: `#AI policy`, `#Nvidia`, `#US-China relations`, `#open source AI`, `#Jensen Huang`
 
 ---
 
 <a id="item-20"></a>
-## [国家发展改革委、国家能源局印发《可再生能源发展“十五五”规划》](https://36kr.com/newsflashes/3907534115460226?f=rss) ⭐️ 6.3/10
+## [Fortinet becomes Intel Foundry's first Intel 4 customer with SP6 ASIC](https://www.tomshardware.com/tech-industry/semiconductors/intel-4-gets-its-first-foundry-customer-in-fortinet-three-years-after-intel-scoped-the-node-to-meteor-lake) ⭐️ 6.5/10
 
-China's NDRC and NEA released the '15th Five-Year Plan' for renewable energy, targeting 35 billion kW total renewable capacity by 2030 with wind and solar exceeding 50% of installed capacity.
+Fortinet has become the first foundry customer for Intel's Intel 4 process node, with Intel set to design, package, and fabricate Fortinet's sixth-generation Security Processor (SP6) for its FortiGate firewalls. This marks the first external customer win for Intel 4, which was originally scoped primarily for Intel's own Meteor Lake processors three years ago. This is a notable milestone for Intel's foundry business, which has been struggling with significant financial losses and is central to the company's strategic pivot under CEO Lip-Bu Tan. While the deal is on a mature node rather than Intel's leading-edge 18A, it provides meaningful validation of Intel Foundry Services with a credible networking and security customer. Intel 4 was Intel's first process node to use EUV lithography and was designed to deliver roughly 20% higher performance at double the transistor density versus its predecessor. The SP6 is a custom firewall ASIC (Application-Specific Integrated Circuit) — a specialized chip optimized for deep-packet inspection and security workloads rather than general-purpose computing.
 
-rss · 36氪 · Jul 23, 01:09
+rss · Tom's Hardware · Jul 22, 16:17
 
-**Tags**: `#renewable-energy`, `#china-policy`, `#energy-grid`, `#climate-policy`, `#wind-solar`
+**Background**: Intel Foundry is Intel's contract manufacturing arm, designed to fabricate chips designed by other companies — a business model pioneered by TSMC. Under CEO Lip-Bu Tan, Intel has aggressively pursued external foundry customers as part of a strategic restructuring. Intel 4 is a relatively mature node (roughly comparable to TSMC's N4/N5 in capability terms) that entered high-volume production around 2023. ASIC-based firewall processors, like Fortinet's SP-series, are custom silicon that offloads security functions from general-purpose CPUs for higher throughput and lower power consumption in enterprise firewalls.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic">Intel to co-develop and manufacture Fortinet's next-gen firewall ASIC ...</a></li>
+<li><a href="https://www.techpowerup.com/295809/intel-4-process-node-detailed-doubling-density-with-20-higher-performance">Intel 4 Process Node Detailed, Doubling Density with... | TechPowerUp</a></li>
+<li><a href="https://www.remio.ai/post/intel-s-recovery-hinges-on-its-high-stakes-foundry-business">Intel 's Recovery Hinges on Its High-Stakes Foundry Business</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#semiconductors`, `#foundry`, `#Fortinet`, `#Intel-4`
 
 ---
