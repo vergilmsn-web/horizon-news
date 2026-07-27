@@ -5,290 +5,431 @@ date: 2026-07-27
 lang: en
 ---
 
-> From 53 items, 14 important content pieces were selected
+> From 93 items, 20 important content pieces were selected
 
 ---
 
-1. [Open-source 3D-printed portable MRI built under $70,000](#item-1) ⭐️ 7.5/10
-2. [Zeiss Expands Oberkochen Facility to Lift EUV Optics Bottleneck](#item-2) ⭐️ 7.5/10
-3. [US citizen charged after GrapheneOS duress wipe at airport](#item-3) ⭐️ 7.0/10
-4. [Introduction to Data-Oriented Design (pdf)](#item-4) ⭐️ 7.0/10
-5. [Five Myths About the Current Memory Boom Debunked](#item-5) ⭐️ 7.0/10
-6. [Physicists turn particles in chaotic orbits into liquid computers — but this fluid hardware still trails memristor rivals](#item-6) ⭐️ 6.5/10
-7. [CXMT DRAM Modules Enter Market but Don't Undercut Big Three Pricing](#item-7) ⭐️ 6.5/10
-8. [FPGA Recreation of the MP944 Microprocessor Powers 3D-Printed F-14 Tomcat](#item-8) ⭐️ 6.5/10
-9. [China Launches 'Digital Space No. 1' Satellite Project to Build Space Brain](#item-9) ⭐️ 6.3/10
-10. [8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国](#item-10) ⭐️ 6.3/10
-11. [China: AI-driven computing demand pushes H1 electronics industry profits up 96.9%](#item-11) ⭐️ 6.3/10
-12. [GrapheneOS Warns Duress-Based Data Deletion May Have Legal Consequences](#item-12) ⭐️ 6.3/10
-13. [PGSimCity: 3D SimCity-Style Visualization of PostgreSQL Internals](#item-13) ⭐️ 6.0/10
-14. [Design is compromise](#item-14) ⭐️ 6.0/10
+1. [CXMT IPOs at $487bn valuation](#item-1) ⭐️ 9.0/10
+2. [China Begins Limited Production of Domestic Immersion DUV Machines](#item-2) ⭐️ 8.5/10
+3. [SK Group and NVIDIA Ink $500B+ AI Factory and HBM4 Partnership](#item-3) ⭐️ 8.5/10
+4. [Samsung and Broadcom Sign $200B+ MOU on HBM and 2nm Foundry](#item-4) ⭐️ 8.5/10
+5. [Five Myths About the Current Memory Boom: It's an Allocation Problem, Not a Fab Shortage](#item-5) ⭐️ 8.0/10
+6. [AMD advances AI](#item-6) ⭐️ 8.0/10
+7. [Nvidia Eyes $250B Guarantee for OpenAI's SoftBank Ohio Campus Lease](#item-7) ⭐️ 7.5/10
+8. [AMD Splits Zen 7 EPYC Into Three Families, Adopts Agent-Based Server Sales](#item-8) ⭐️ 7.5/10
+9. [Ctrip Hit with Record $7.2B Antitrust Fine; Changxin Technology IPO Surges; Japan Admits China Leads in Humanoid Robots](#item-9) ⭐️ 7.3/10
+10. [Moonshot AI Releases Kimi K3, a 2.8T-Parameter Open-Weight Model on HuggingFace](#item-10) ⭐️ 7.0/10
+11. [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](#item-11) ⭐️ 7.0/10
+12. [Bun Rust Rewrite Updates: Now in Claude Code, v1.4 Delayed](#item-12) ⭐️ 7.0/10
+13. [CXMT Pursues Major IPO Amid Memory Chip Shortage](#item-13) ⭐️ 7.0/10
+14. [Siemens adds characterisation AI agent to automate design iteration](#item-14) ⭐️ 7.0/10
+15. [Lattice Semiconductor Completes Acquisition of AMI](#item-15) ⭐️ 6.5/10
+16. [AI Developer Runs 28.9M-Parameter Model on $10 ESP32-S3 Using Google's PLE Technique](#item-16) ⭐️ 6.5/10
+17. [Xiaomi's MiMo-V2.5 Tops OpenRouter Global Weekly and Monthly Charts](#item-17) ⭐️ 6.3/10
+18. [Ctrip fined 5.179 billion yuan for abusing market dominance](#item-18) ⭐️ 6.3/10
+19. [PGSimCity: A 3D Visual Simulation of PostgreSQL Internals](#item-19) ⭐️ 6.0/10
+20. [Characterization Evolving for Heterogeneous Semiconductor Systems](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Open-source 3D-printed portable MRI built under $70,000](https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-3d-printed-portable-mri-machine-built-for-under-usd70-000-diy-medical-equipment-costs-less-than-7-percent-of-a-full-sized-mri-machines-usd1-1-million-starting-price) ⭐️ 7.5/10
+## [CXMT IPOs at $487bn valuation](https://www.electronicsweekly.com/news/business/cxmt-ipos-at-487bn-valuation-2026-07/) ⭐️ 9.0/10
 
-An open-source project has successfully built a 3D-printed portable MRI machine for under $70,000, dramatically undercutting the $1.1 million starting price of full-sized MRI systems. The machine has lower resolution than traditional multi-million-dollar scanners, but a tech expert has proposed training an AI model on high-field MRI data or on the physics of the device itself to compensate for that limitation. This development could democratize access to MRI technology in low-resource and remote settings where conventional machines are unaffordable or impractical. The roughly 93% cost reduction, combined with potential AI-driven resolution enhancement, signals a meaningful step toward bringing diagnostic imaging to underserved populations worldwide. The project relies on 3D printing for the core components of the MRI machine, keeping hardware costs minimal while accepting a tradeoff in image resolution. The proposed AI workaround involves training models either on data from expensive high-field MRI machines or on the underlying physics of the low-field portable system itself, an approach aligned with recent super-resolution research using transformer networks and deep learning for MRI image reconstruction.
+China's largest DRAM maker CXMT opened 472% higher in its Shanghai IPO, reaching a $487bn valuation and raising $9.8bn.
 
-rss · Tom's Hardware · Jul 26, 14:36
+rss · Electronics Weekly · Jul 27, 05:37
 
-**Background**: MRI (Magnetic Resonance Imaging) uses strong magnetic fields and radio waves to produce detailed images of the body's internal structures, and traditional high-field machines can cost millions of dollars along with requiring dedicated rooms, shielding, and significant infrastructure. Portable low-field MRI systems have emerged as a promising alternative because they are cheaper, smaller, and easier to deploy in low-resource settings, though they typically produce lower-resolution images. AI-based super-resolution techniques, including transformer networks and self-supervised deep learning methods, are increasingly being explored to bridge the quality gap between low-field and high-field MRI scans.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.portablemrijournal.org/fromimagingchallengestoopportunities">From Imaging Challenges to Opportunities: Portable MRI in Low - and...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10995930/">Bridging the gap: improving correspondence between low - field and...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#medical-imaging`, `#open-source-hardware`, `#3D-printing`, `#healthcare-access`, `#DIY-technology`
+**Tags**: `#semiconductors`, `#DRAM`, `#IPO`, `#China`, `#memory-chips`
 
 ---
 
 <a id="item-2"></a>
-## [Zeiss Expands Oberkochen Facility to Lift EUV Optics Bottleneck](https://www.tomshardware.com/tech-industry/zeiss-expands-german-site-that-caps-asmls-euv-scanner-output) ⭐️ 7.5/10
+## [China Begins Limited Production of Domestic Immersion DUV Machines](https://www.techpowerup.com/351105/china-begins-limited-production-of-domestic-immersion-duv-machines) ⭐️ 8.5/10
 
-Zeiss Semiconductor Manufacturing Technology (SMT) has confirmed it is adding approximately 25,000 square meters of production and production-adjacent space at its Oberkochen site in southern Germany, with the first new building opening four years after the original groundbreaking. Zeiss SMT is ASML's single supplier of optical columns for EUV lithography scanners, and ASML's own 2025 annual report explicitly states that lithography tool output is capped by Carl Zeiss SMT's production capacity. Easing this bottleneck directly affects the pace at which TSMC, Samsung, and Intel can ramp advanced-node chip production, including 2nm and below process nodes. The expansion adds roughly 25,000 sqm of production space, and the optics produced are used not only in current-generation EUV systems but also in next-generation High-NA EUV tools, which are more complex. ASML has stated it would effectively cease to be able to conduct business without Zeiss SMT's optical columns.
+A Shanghai-based Chinese company has begun limited production of domestic immersion DUV lithography machines, with plans to deliver five systems this year and approximately 20 by 2027. Initial deliveries are planned for SMIC, CXMT, and Hua Hong, marking a significant step toward reducing China's reliance on ASML. This development is geopolitically significant as it represents China's progress in closing the technology gap in advanced lithography amid US-led export controls restricting ASML's sales to China. Even at small production volumes, domestic DUV production enables Chinese foundries to continue advancing semiconductor manufacturing capabilities without depending on foreign suppliers. For comparison, ASML shipped 131 immersion DUV machines last year, highlighting the much smaller scale of the Chinese production effort. The Chinese machines still rely on some key components imported from Japan, though most components are now domestically sourced.
 
-rss · Tom's Hardware · Jul 26, 11:46
+rss · TechPowerUp News · Jul 27, 13:40
 
-**Background**: EUV (extreme ultraviolet) lithography uses 13.5nm wavelength light generated by laser-pulsed tin plasma to pattern the smallest features on advanced semiconductor chips, enabling process nodes at 7nm and beyond. ASML is the world's only manufacturer of EUV lithography scanners, and each system contains extremely precise mirror-based optical columns that are designed and produced solely by Carl Zeiss SMT. Because these mirrors must meet extraordinary flatness and reflectivity tolerances, they are extraordinarily difficult and slow to manufacture, making Zeiss SMT's output rate the ultimate constraint on how many EUV scanners ASML can ship per year.
+**Background**: Immersion deep ultraviolet (DUV) lithography machines use an argon-fluoride (ArF) excimer laser to produce light at a 193nm wavelength. During operation, this light travels through a layer of ultra-purified water placed above the final lens, which improves resolution and accuracy when imprinting circuit designs onto a wafer. These tools are highly complex and have been mass-produced primarily by ASML, a Dutch company that dominates the global lithography market. Immersion lithography techniques remain technically feasible for chip production down to approximately the 7 nanometer process node, making them critical for advanced semiconductor manufacturing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/zeiss-expands-german-site-that-caps-asmls-euv-scanner-output">Zeiss expands German site that caps ASML 's EUV scanner output...</a></li>
-<li><a href="https://www.implicator.ai/zeiss-oberkochen-asml-euv-optics-capacity/">Zeiss Expands Oberkochen Plant Behind ASML 's EUV Optics</a></li>
-<li><a href="https://forgeeks.dev/zeiss-expands-euv-optics-production/">Zeiss expands EUV optics production for 2nm chips — for(geeks)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Immersion_lithography">Immersion lithography - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Argon_fluoride_laser">Argon fluoride laser - Wikipedia</a></li>
+<li><a href="https://www.asianometry.com/p/neon-shortages-in-semiconductor-manufacturing">Neon Shortages in Semiconductor Manufacturing? - by Jon Y</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#EUV lithography`, `#ASML`, `#Zeiss`, `#supply-chain`
+**Tags**: `#semiconductors`, `#lithography`, `#DUV`, `#China`, `#ASML`
 
 ---
 
 <a id="item-3"></a>
-## [US citizen charged after GrapheneOS duress wipe at airport](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) ⭐️ 7.0/10
+## [SK Group and NVIDIA Ink $500B+ AI Factory and HBM4 Partnership](https://www.techpowerup.com/351094/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory) ⭐️ 8.5/10
 
-US prosecutors have charged an Atlanta man after his GrapheneOS smartphone triggered a built-in duress wipe during an airport border search. The case raises significant legal questions about whether erasing a device at a border crossing constitutes obstruction or destruction of evidence. This case could set precedent for how courts treat phone-wiping behaviors at US borders, directly affecting privacy-conscious travelers, security researchers, and anyone whose threat model includes state actors. It also forces a reckoning between constitutional protections and the broad search powers the government wields at international borders. GrapheneOS's duress feature allows users to configure a separate PIN that, when entered, silently wipes the device—commonly set to obvious values like 1234 that authorities might try first. The legal distinction prosecutors appear to be drawing centers on intent rather than the physical act of entering numbers, meaning the same surface action could yield different legal outcomes depending on context.
+SK Group and NVIDIA have signed letters of intent for a comprehensive $500-billion-plus partnership to build AI infrastructure, including a 2-gigawatt AI Cloud in Korea using NVIDIA DSX platform architecture and Vera Rubin accelerated computing powered by SK hynix HBM4 memory, with the first AI factory targeted to come online in 2027. This partnership locks in SK hynix as the primary HBM4 supplier for NVIDIA's next-generation Vera Rubin platform while giving SK a massive captive AI compute footprint, reshaping the AI infrastructure supply chain across Asia-Pacific and accelerating the shift from traditional data centers to fully integrated AI factories. The 2-gigawatt AI Cloud will leverage the NVIDIA DSX full-stack architecture integrating compute, systems, software, and partner technologies for maximum energy efficiency and lowest token cost, while SK hynix has already sampled and NVIDIA-approved its HBM4 12-high stacks for Rubin.
 
-hackernews · eecc · Jul 26, 22:21 · [Discussion](https://news.ycombinator.com/item?id=49063022)
+rss · TechPowerUp News · Jul 27, 08:25
 
-**Background**: GrapheneOS is a non-profit, open-source mobile operating system focused on privacy and security, with Android app compatibility and hardened sandboxing. Its duress PIN feature is a form of deniable security: when authorities or attackers coerce a user into unlocking the device, entering a special PIN triggers a full wipe while appearing identical to a normal failed attempt. At US international borders, CBP operates under expanded legal authority that has long allowed warrantless device searches of travelers, and courts have generally upheld these powers as part of the constitutional border exception.
+**Background**: Vera Rubin is NVIDIA's next-generation GPU architecture succeeding Blackwell, announced at GTC 2025 and expected around 2027, designed with HBM4 memory support and a new Transformer Engine. HBM4 (fourth-generation High Bandwidth Memory) stacks DRAM dies vertically using through-silicon vias to deliver massive data throughput essential for training and running large language models on AI accelerators. NVIDIA DSX is a full-stack reference platform that defines how AI factories are designed, simulated, built, and operated, aligning compute, software, facilities, and partner technologies into a co-designed architecture.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grapheneos.org/">GrapheneOS : the private and secure mobile OS</a></li>
-<li><a href="https://www.reddit.com/r/GrapheneOS/comments/1nhdf5l/has_the_wipe_pin_code_feature_ever_helped_you/">Has the Wipe PIN code feature ever helped you? : r/GrapheneOS - Reddit</a></li>
-<li><a href="https://discuss.grapheneos.org/d/14722-using-duress-password-example">Using duress password example - GrapheneOS Discussion Forum</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rubin_(microarchitecture)">Rubin (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/technologies/rubin/">Infrastructure for Scalable AI Reasoning | NVIDIA Vera Rubin Platform</a></li>
+<li><a href="https://www.networkworld.com/article/4005086/micron-joins-hbm4-race-with-36gb-12-high-stack-eyes-ai-and-data-center-dominance.html">Micron joins HBM 4 race with 36GB 12- high stack, eyes AI and data...</a></li>
+<li><a href="https://www.nvidia.com/en-sg/data-center/products/dsx/">AI Factory Design, Simulation, and Operations | NVIDIA DSX Platform</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly acknowledged the legal risk inherent in using duress wipes at borders, with sfRattan emphasizing that users must accept legal consequences as part of their threat model. Several proposed alternatives emerged: Grimblewald advocated VeraCrypt's hidden OS approach as more deniable than duress PINs, while DanHulton suggested simply wiping the device before travel and restoring from cloud backup afterward. The thread reflected a community grappling with the tension between technical privacy measures and legal reality.
-
-**Tags**: `#privacy`, `#security`, `#GrapheneOS`, `#legal`, `#encryption`, `#border-search`
+**Tags**: `#NVIDIA`, `#SK Group`, `#AI Infrastructure`, `#HBM4 Memory`, `#AI Factories`
 
 ---
 
 <a id="item-4"></a>
-## [Introduction to Data-Oriented Design (pdf)](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) ⭐️ 7.0/10
+## [Samsung and Broadcom Sign $200B+ MOU on HBM and 2nm Foundry](https://www.techpowerup.com/351093/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies) ⭐️ 8.5/10
 
-An introductory presentation on Data-Oriented Design by Mike Acton, covering principles of cache-aware programming, data layout optimization, and designing algorithms around data flow.
+Samsung Electronics and Broadcom signed a memorandum of understanding (MOU) at an AI Summit in San Francisco to expand their strategic collaboration across memory and foundry technologies, with an estimated value of over $200 billion through 2030. The collaboration covers the supply of HBM memory for Broadcom's next-generation AI accelerators and Samsung's 2nm and below foundry processes for Broadcom products including wireless broadband communications solutions. This MOU signals Samsung's aggressive push into HBM to challenge SK Hynix's near-monopoly in AI memory and positions Samsung's foundry against TSMC in the lucrative custom AI silicon market. It directly reshapes the AI infrastructure supply chain, potentially giving hyperscalers and AI chip designers an alternative source for both leading-edge memory and advanced-node foundry capacity. The collaboration also extends to advanced packaging technologies built on Samsung's 2nm process, including 2.3D and 2.5D integration, to enable higher-performance and more power-efficient AI and networking silicon. Key figures present at the signing included Jinman Han, President of Samsung's Foundry Business, Broadcom CEO Hock Tan, and Korean government representatives.
 
-hackernews · tosh · Jul 26, 18:11 · [Discussion](https://news.ycombinator.com/item?id=49060724)
+rss · TechPowerUp News · Jul 27, 08:21
 
-**Tags**: `#data-oriented-design`, `#performance-optimization`, `#game-development`, `#systems-programming`, `#cache-optimization`
-
----
-
-<a id="item-5"></a>
-## [Five Myths About the Current Memory Boom Debunked](https://semiwiki.com/semiconductor-manufacturers/371531-five-myths-about-the-current-memory-boom/) ⭐️ 7.0/10
-
-SemiWiki published an industry analysis debunking five common myths about the current semiconductor memory boom, reframing it as an AI-driven HBM capacity allocation challenge rather than a simple lack of fabrication capacity. This perspective reshapes the prevailing memory shortage narrative, suggesting that the real constraint is not merely building more fabs but strategically allocating limited HBM production capacity, which carries significant implications for supply chain planning, pricing, and the broader AI hardware ecosystem. According to Micron, there is an approximately 3-to-1 conversion ratio between HBM and DDR5 wafer capacity, meaning every HBM production ramp directly compresses general-purpose memory supply. HBM achieves higher bandwidth than DDR4 or GDDR5 while consuming less power, using a 2.5D or 3D stacked DRAM architecture with through-silicon vias (TSVs).
-
-rss · SemiWiki · Jul 26, 21:00
-
-**Background**: High Bandwidth Memory (HBM) is a type of computer memory that uses a 2.5D or 3D stacked DRAM architecture to deliver significantly higher bandwidth and lower power consumption than traditional memory types like DDR4 or GDDR5. HBM is essential for AI accelerators such as GPUs and custom AI chips, because AI workloads require moving enormous quantities of data between the processor and memory at very high speeds. Because HBM and commodity DRAM products such as DDR5 share the same wafer fabrication facilities, increasing HBM production directly reduces the supply of general-purpose memory, creating spillover effects across the entire memory market.
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology that provides extremely wide memory bandwidth, originally co-developed by Samsung, AMD, and SK Hynix, and is critical for AI accelerators and high-performance GPUs. The 2nm semiconductor process node represents the cutting edge of chip manufacturing miniaturization following the 3nm generation; Samsung's 1.4nm node has been delayed to 2029, making 2nm its most advanced production-ready offering. Samsung operates a foundry business that manufactures chips designed by fabless companies, competing against TSMC for advanced-node custom silicon contracts such as Broadcom's long-standing work on Google's TPU chips.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://www.rambus.com/blogs/hbm3-everything-you-need-to-know/">High Bandwidth Memory (HBM): Everything You Need to Know - Rambus</a></li>
-<li><a href="https://www.abhik.ai/concepts/gpu-computing/hbm-memory">High Bandwidth Memory ( HBM ) | Abhik Sarkar</a></li>
+<li><a href="https://cyberraiden.wordpress.com/2026/07/24/2nm-semiconductor-fabrication-technical-hurdles-in-tsmc-n2-samsung-sf2-and-intel-18a/">2 nm Semiconductor Fabrication: Technical Hurdles in TSMC...</a></li>
+<li><a href="https://semiconductor.samsung.com/about-us/business-area/foundry/">Foundry | Business Areas | Samsung Semiconductor Global</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#HBM`, `#AI hardware`, `#memory market`, `#supply chain`
+**Tags**: `#AI Infrastructure`, `#Semiconductors`, `#HBM`, `#Foundry`, `#Samsung`
+
+---
+
+<a id="item-5"></a>
+## [Five Myths About the Current Memory Boom: It's an Allocation Problem, Not a Fab Shortage](https://semiwiki.com/semiconductor-manufacturers/371531-five-myths-about-the-current-memory-boom/) ⭐️ 8.0/10
+
+SemiWiki published an analysis debunking five common myths about the current semiconductor memory boom, arguing that the boom is fundamentally a capacity-allocation challenge driven by massive HBM demand from AI accelerators rather than simply a shortage of fabrication capacity. This reframing matters because it shifts how the industry understands the memory supply challenge—from simply building more fabs to addressing the complex task of allocating limited HBM capacity among competing AI chip makers, which has direct implications for AI infrastructure planning, capital investment, and product roadmaps. The analysis emphasizes that HBM can move data far faster than ordinary server memory, making it essential for GPUs and custom AI chips, and the article was published on SemiWiki, a respected semiconductor industry source known for in-depth technical and market commentary.
+
+rss · SemiWiki · Jul 27, 01:00
+
+**Background**: HBM (High Bandwidth Memory) is an advanced memory technology in which multiple DRAM chips are stacked vertically and connected using Through-Silicon Vias (TSVs), delivering far greater bandwidth than conventional memory. AI accelerators—such as GPUs and custom ASICs—are specialized processors designed to speed up AI workloads like training and inference. Because AI models process enormous volumes of data in parallel, they require memory that can feed data to the compute units at very high rates, making HBM a critical component in virtually every high-end AI chip shipped today, which has caused demand to soar alongside AI spending.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://boursel.com/article/what-is-hbm-the-high-bandwidth-memory-at-the-heart-of-the-ai-chip-boom">What Is HBM , the High - Bandwidth Memory at the Heart of the AI ...</a></li>
+<li><a href="https://www.twokq.com/post/what-is-hbm-high-bandwidth-memory/">What Is HBM and Why Every Modern AI Chip Depends on High ..</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-accelerator">What is an AI accelerator ? | IBM</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#HBM`, `#AI-infrastructure`, `#memory-market`, `#supply-chain`
 
 ---
 
 <a id="item-6"></a>
-## [Physicists turn particles in chaotic orbits into liquid computers — but this fluid hardware still trails memristor rivals](https://www.tomshardware.com/tech-industry/physicists-build-a-computer-from-400-particles-orbiting-in-liquid-with-10-times-the-error-of-memristor-rivals) ⭐️ 6.5/10
+## [AMD advances AI](https://www.electronicsweekly.com/news/business/amd-advances-ai-2026-07/) ⭐️ 8.0/10
 
-Physicists demonstrate a 'liquid computer' using 400 chaotic silica microsphere oscillators in a water-lutidine mixture, though it currently has 10x the error rate of competing memristor-based novel computing approaches.
+AMD CEO Lisa Su announced multiple AI-related launches at the 'AMD Advancing AI' event, including the Helios platform, signaling AMD's continued push into AI hardware.
 
-rss · Tom's Hardware · Jul 26, 15:05
+rss · Electronics Weekly · Jul 27, 05:21
 
-**Tags**: `#unconventional-computing`, `#emerging-hardware`, `#physics`, `#chaos-computing`, `#research`
+**Tags**: `#AMD`, `#AI hardware`, `#semiconductors`, `#Helios`, `#Lisa Su`
 
 ---
 
 <a id="item-7"></a>
-## [CXMT DRAM Modules Enter Market but Don't Undercut Big Three Pricing](https://www.tomshardware.com/pc-components/dram/chinese-cxmt-dram-doesnt-look-like-the-budget-savior-many-were-expecting-new-modules-enter-the-market-but-prices-still-track-the-big-three) ⭐️ 6.5/10
+## [Nvidia Eyes $250B Guarantee for OpenAI's SoftBank Ohio Campus Lease](https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus) ⭐️ 7.5/10
 
-Chinese DRAM maker ChangXin Memory Technologies (CXMT) has begun selling memory modules in the Chinese retail market, but pricing closely tracks offerings from Samsung, SK Hynix, and Micron rather than delivering the aggressive discounts many consumers had anticipated. This challenges the widespread assumption that CXMT would disrupt global DRAM pricing as a low-cost alternative to the dominant trio, suggesting that the tight DRAM supply environment is keeping prices elevated across the board. Consumers hoping for a budget relief in memory pricing may need to wait, while PC vendors already booking CXMT supply through 2027 face continued cost pressures. CXMT became China's largest and the world's fourth-largest DRAM maker, reaching 720,000 wafers per quarter by the end of 2025. Despite its growing scale, retail module prices remain aligned with the big three, indicating that tight industry-wide supply rather than competition is currently dictating DRAM pricing.
+OpenAI is in advanced talks to lease SB Energy's 10-gigawatt data center campus in Piketon, Ohio, with Nvidia reportedly considering guaranteeing roughly $250 billion of the financing while separately discussing a $350 billion chip financing deal for the site. The sheer scale of the proposed commitments—potentially $600 billion combined—signals an unprecedented escalation in AI infrastructure investment that intertwines the financial fates of three of the industry's most powerful players and could reshape global compute supply dynamics. The 10-gigawatt capacity dwarfs typical hyperscale facilities (often 100-500 MW), meaning the Piketon site would consume power equivalent to roughly 10 million U.S. households; SB Energy is already an established SoftBank-OpenAI partner, having been selected for the 1.2 GW Stargate site in Milam County, Texas.
 
-rss · Tom's Hardware · Jul 26, 13:25
+rss · Tom's Hardware · Jul 27, 13:34
 
-**Background**: DRAM (Dynamic Random-Access Memory) is the primary type of main memory used in computers, phones, tablets, and servers, valued for its high density and relatively low cost per bit compared to SRAM. CXMT, founded in 2016, is China's flagship domestic DRAM manufacturer and has rapidly scaled to become the world's fourth-largest producer. The global DRAM market has long been dominated by three players — Samsung, SK Hynix, and Micron — collectively controlling the vast majority of supply, which is why new entrants like CXMT are closely watched for potential price disruption.
+**Background**: Gigawatt-scale data center campuses—facilities consuming one billion watts or more of power—represent a new standard for AI infrastructure, driven by the enormous compute demands of training and running large language models. SB Energy, a SoftBank subsidiary backed by OpenAI, specializes in building and operating large-scale power and data center infrastructure and is already a key partner in OpenAI's Stargate initiative. The leasing structure, combined with Nvidia's reported guarantee, illustrates a vertically integrated approach where the chip supplier, the AI model developer, and the infrastructure builder pool resources and risk to deploy compute capacity at unprecedented scale.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://wccftech.com/pc-vendors-race-to-lock-in-cxmt-dram-supply-as-memory-orders-stretch-through-2027/">PC Vendors Race To Lock In CXMT DRAM Supply As Memory Orders Reportedly Stretch Through 2027 - Wccftech</a></li>
-<li><a href="https://www.techtarget.com/searchstorage/definition/DRAM">What is DRAM ( Dynamic Random Access Memory )? How Does it ...</a></li>
+<li><a href="https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/">OpenAI and SoftBank Group Partner with SB Energy</a></li>
+<li><a href="https://www.datacenterfrontier.com/hyperscale/article/55021675/the-gigawatt-data-center-campus-is-coming">The Gigawatt Data Center Campus is Coming | Data Center Frontier</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/softbanks-sb-energy-to-build-and-operate-openais-12gw-stargate-data-center-in-milam-county-texas/">SoftBank's SB Energy to build and operate OpenAI's 1.2GW Stargate data center in Milam County, Texas - DCD</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DRAM`, `#memory`, `#CXMT`, `#hardware-market`, `#PC-components`
+**Tags**: `#ai-infrastructure`, `#nvidia`, `#openai`, `#data-centers`, `#industry-news`
 
 ---
 
 <a id="item-8"></a>
-## [FPGA Recreation of the MP944 Microprocessor Powers 3D-Printed F-14 Tomcat](https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things) ⭐️ 6.5/10
+## [AMD Splits Zen 7 EPYC Into Three Families, Adopts Agent-Based Server Sales](https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent) ⭐️ 7.5/10
 
-An FPGA and embedded systems expert has recreated the Garrett AiResearch MP944 Central Air Data Computer (CADC) — historically claimed as the world's first microprocessor — on an FPGA, and demonstrated it in a 3D-printed scale model of the F-14 Tomcat that controls the aircraft's variable-sweep wing system. The project bridges historical computing preservation with modern FPGA technology, bringing to life a classified military chip that predated and outperformed the Intel 4004 but remained secret for nearly 30 years. It highlights how FPGA-based retro-computing has become a powerful tool for studying and experiencing computing history that would otherwise be locked away. The original MP944 was a 20-bit, pipelined, parallel multi-microprocessor built with MOS technology that ran at 375 kHz and executed 9,375 instructions per second — about eight times faster than the Intel 4004. The recreation preserves the exact timing and behavior of the original chip while fitting into a 3D-printed scale model of the Tomcat.
+AMD revealed at its Advancing AI 2026 event that its Zen 7 EPYC server CPU lineup for 2028 will be split into three distinct families codenamed Florence, Ferrara, and Fidenza, and announced a novel agent-based distribution model for selling server CPUs, while extending its annual CPU, GPU, networking, and rack product cadence out to 2030. The three-way split signals that AMD is segmenting its data center silicon for differentiated AI, general compute, and possibly networking-adjacent workloads, while the agent-based sales model represents a potentially paradigm-shifting approach that could compress enterprise procurement cycles and reshape how hyperscalers and enterprises source server silicon. Florence serves as the lead Zen 7 family launching in 2028 on a next-generation process node with ACE extensions, while Ferrara and Fidenza round out a diversified stack; the cadence extension confirms Zen 8 'Ravenna' is already in development, and the agent-based distribution channels align with AMD's broader push into agentic AI tooling showcased at the same event.
 
-rss · Tom's Hardware · Jul 26, 12:05
+rss · Tom's Hardware · Jul 27, 12:04
 
-**Background**: The F-14 Tomcat's Central Air Data Computer was a multi-chip flight control system developed by Garrett AiResearch for the U.S. Navy's F-14 Tomcat fighter jet. It used MOS custom integrated circuits long before such technology was common, and its MP944 chipset has been claimed as the world's first microprocessor. Because it was a classified military system, its existence was not publicly acknowledged for decades, allowing the Intel 4004 to receive credit as the first microprocessor. A variable-sweep (swing-wing) design allows pilots to adjust wing angle in flight for different speed regimes, and the CADC automatically managed wing sweep along with other flight parameters.
+**Background**: AMD's Zen microarchitecture family has powered Ryzen, Threadripper, and EPYC processors since 2017, with each generation bringing IPC and core-count gains. EPYC is AMD's server CPU brand competing primarily against Intel Xeon in the x86 data center market; the current-generation Zen 6 'Venice' platform launched a 256-core EPYC 9996, and the upcoming MI500 Instinct GPUs (CDNA 6, HBM4e) are slated for 2027. The agent-based sales concept ties into the broader 2026 enterprise trend of using autonomous AI agents to automate procurement, support, and orchestration workflows — an area where 53% of IT decision makers report productivity gains according to recent industry research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/F-14_CADC">F-14 CADC - Wikipedia</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things">3D-printed F-14 Tomcat uses an FPGA recreation of the ‘world’s first microprocessor' — CADC’s MP944 chip controls the fighter’s swing-wing system, among other things | Tom's Hardware</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/the-mp944-was-the-real-worlds-first-microprocessor-and-key-to-the-flight-of-the-f-14-tomcat-but-it-lived-in-the-shadow-of-the-intel-4004-for-nearly-30-years">The MP944 was the ‘real’ world’s first microprocessor, but it was top secret for nearly 30 years — F-14 Tomcat's chip lived in the shadow of the Intel 4004, but was eight times faster | Tom's Hardware</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development">AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch — Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development | Tom's Hardware</a></li>
+<li><a href="https://wccftech.com/amd-zen-7-2028-zen-8-2030-cpu-architectures-confirmed/">AMD Zen 7 "2028" and Zen 8 "2030" CPU Architectures Confirmed - EPYC Florence "Zen 7" To Feature Next-Gen Node, & ACE Extensions</a></li>
+<li><a href="https://www.itpro.com/technology/artificial-intelligence/amd-hops-on-the-agentic-bandwagon-at-advancing-ai-2026">AMD hops on the agentic bandwagon at Advancing AI 2026 | IT Pro</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FPGA`, `#retro-computing`, `#MP944`, `#F-14-Tomcat`, `#hardware-recreation`
+**Tags**: `#AMD`, `#EPYC`, `#Zen 7`, `#server CPUs`, `#data center`, `#AI infrastructure`
 
 ---
 
 <a id="item-9"></a>
-## [China Launches 'Digital Space No. 1' Satellite Project to Build Space Brain](https://36kr.com/p/3912546487637378?f=rss) ⭐️ 6.3/10
+## [Ctrip Hit with Record $7.2B Antitrust Fine; Changxin Technology IPO Surges; Japan Admits China Leads in Humanoid Robots](https://36kr.com/p/3913118530819457?f=rss) ⭐️ 7.3/10
 
-On July 26, 2026, the 'Digital Space No. 1' experimental satellite project was officially launched in Beijing, spearheaded by academician Wei Fengsi's Digital Space Strategy. The project aims to validate an on-orbit 'perception-cognition-behavior' brain intelligence architecture that integrates sensing, reasoning, and decision-making directly onto satellites. With LEO capacity capped at roughly 175,000 satellites under safe-spacing constraints, traditional ground-based command and control is becoming unsustainable as mega-constellations scale. This initiative marks China's strategic pivot from 'being able to launch' to 'being able to operate,' signaling a new competitive frontier in autonomous space infrastructure. The solution combines on-satellite autonomous driving (卫星智驾) via new sensing and intelligent payloads with the SpaceOmni ground platform for environment monitoring, risk warning, and digital twin simulation. Notably, Digital Space explicitly rejects using LLM-style black-box models for space applications, instead grounding its intelligence in physics-based world models built on decades of aerospace engineering standards and causal physical laws.
+On July 25, China's State Administration for Market Regulation fined Ctrip Group 51.79 billion yuan (~$7.2B USD) for abusing its market dominance, one of the largest antitrust penalties ever imposed on a Chinese internet platform. On July 27, Changxin Technology, China's largest and most advanced DRAM manufacturer, debuted on Shanghai's STAR Market with an issue price of 8.66 yuan per share. Separately, Japanese technicians who tore down Unitree's G1 humanoid robot publicly concluded that Japan cannot realistically close the gap with China in humanoid robotics in the short term. The Ctrip fine signals intensifying regulatory enforcement against platform giants and may force structural changes in China's online travel market. Changxin's IPO represents a major milestone in China's push for semiconductor self-sufficiency in DRAM memory—a segment long dominated by Samsung, SK Hynix, and Micron—under US export controls. The Japanese teardown acknowledgment is a rare public concession from a key competitor that China has pulled ahead in the global humanoid robotics race. Ctrip released a statement accepting the penalty and pledging systematic rectification. For Changxin, valuation scenarios ranged from 1 trillion to 4.25 trillion yuan, implying first-day gains of 70-600% and per-lot profits of 3,000-26,000 yuan. The Unitree G1, launched in May 2024, is known for extreme agility including 720-degree spinning kicks and gained fame performing yangge dance on China's 2025 Spring Festival Gala.
 
-rss · 36氪 · Jul 27, 01:00
+rss · 36氪 · Jul 26, 23:50
 
-**Background**: Wei Fengsi, a pioneering Chinese space weather researcher, first proposed the concept of 'Digital Space' a decade ago and has since championed the 'Space Brain' idea. He defines brain intelligence by three characteristics: small data, small models, and low energy consumption, built on causal modeling of space physics rather than data-heavy AI approaches. The broader industry context is that mega-constellations like Starlink have made orbital congestion and autonomous collision avoidance urgent operational challenges, pushing the field toward edge AI and on-board decision-making.
+**Background**: The STAR Market (科创板) was launched in 2019 on the Shanghai Stock Exchange as a Nasdaq-style board for tech and innovation firms, offering more relaxed listing criteria. Changxin Technology serves as the parent/holding entity for Changxin Memory Technologies (CXMT), China's leading domestic DRAM producer, which is strategic priority amid US export controls on advanced chips. Unitree Robotics, founded by Wang Xingxing, has rapidly emerged as a leading global humanoid robot maker with its H1 and G1 models, competing directly with Tesla Optimus and Boston Dynamics Atlas.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://m.thepaper.cn/newsDetail_forward_33582024">院士报告厅｜魏奉思：低轨空间越来越拥挤，需打造“空间大脑”破解难题</a></li>
-<li><a href="https://m.itbear.com.cn/html/2026-06/1380865.html">魏奉思院士提议：以卫星大脑为突破口引领中国智能航天新征程-业界 ...</a></li>
+<li><a href="https://www.unitree.com/operate/g1/">Unitree G 1 宇 树 人 形 机 器 人</a></li>
+<li><a href="https://finance.sina.com.cn/cj/2026-07-27/doc-inikezxh8496410.shtml">长 鑫 科 技 开盘暴涨471%，总市值3.3万亿！__ 财经头条</a></li>
+<li><a href="https://m.cnbeta.com.tw/view/1570176.htm">m.cnbeta.com.tw/view/1570176.htm</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#commercial-space`, `#satellite-technology`, `#space-AI`, `#china-space`, `#orbital-management`
+**Tags**: `#china-tech`, `#antitrust`, `#ctrip`, `#semiconductor-ipo`, `#humanoid-robotics`
 
 ---
 
 <a id="item-10"></a>
-## [8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国](https://36kr.com/p/3913118530819457?f=rss) ⭐️ 6.3/10
+## [Moonshot AI Releases Kimi K3, a 2.8T-Parameter Open-Weight Model on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) ⭐️ 7.0/10
 
-Daily news digest highlighting Ctrip's record antitrust fine (51.79B yuan), ChangXin Memory's semiconductor IPO, and Japanese technicians acknowledging China leads in humanoid robotics after disassembling a Unitree robot.
+Moonshot AI released Kimi K3, a 2.8-trillion-parameter open-weight model, on HuggingFace on July 27. The model is also available via Fireworks AI with token-based pricing of $3/M uncached input, $0.30/M cached input, and $15/M output. Kimi K3 is one of the largest open-weight models ever released, lowering the barrier for the community to study and serve frontier-scale architectures. Its revenue-based licensing clause and native mxfp4 precision will shape how both researchers and commercial providers approach deployment economics for trillion-parameter models. The model uses Kimi Delta Attention and Attention Residuals architectures with native vision capabilities and a 1-million-token context window. Because weights are stored in mxfp4, hosting requires approximately 1.5TB of VRAM — at the edge of 8x B200 setups, though 16x is recommended for context and throughput. The license triggers a separate commercial agreement requirement once a licensee's revenue exceeds $20M in any 12-month period.
 
-rss · 36氪 · Jul 26, 23:50
+hackernews · nateb2022 · Jul 27, 06:18 · [Discussion](https://news.ycombinator.com/item?id=49065752)
 
-**Tags**: `#antitrust`, `#semiconductors`, `#humanoid-robotics`, `#china-tech`, `#IPO`
+**Background**: Moonshot AI is a Beijing-based AI company known for its Kimi assistant and foundation models, with a stated mission of advancing toward AGI. An 'open-weight' model publishes trained parameters (typically as .safetensors files) for anyone to download, but unlike fully open-source software, the training code, data, and methodology may remain proprietary. mxfp4 (microscaling floating-point 4-bit) is a quantization format that compresses model weights to reduce memory and compute requirements while aiming to preserve quality, making very large models feasible to host on high-end GPU clusters.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI - Wikipedia</a></li>
+<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
+<li><a href="https://bota.chat/kimi-k3/open-weight-ai-models/">Open Weight vs Open Source AI Models : The Real Difference</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Discussion centers on hosting economics: users note that ~1.5TB VRAM puts the model at the edge of 8x B200 configurations, with 16x recommended for real throughput, signaling that self-hosting will be expensive. The $20M revenue threshold in the license drew attention as a notable commercial guardrail. Several commenters expressed frustration over the lack of prosumer-grade GPUs (128–256GB VRAM at 180–250W TDP), highlighting the gap between consumer and data-center hardware for running frontier models.
+
+**Tags**: `#llm`, `#open-source`, `#moonshot-ai`, `#kimi`, `#model-release`
 
 ---
 
 <a id="item-11"></a>
-## [China: AI-driven computing demand pushes H1 electronics industry profits up 96.9%](https://36kr.com/newsflashes/3913224940115334?f=rss) ⭐️ 6.3/10
+## [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/) ⭐️ 7.0/10
 
-According to China's National Bureau of Statistics, the electronics industry's profits grew 96.9% year-on-year in the first half of 2026, driven by surging demand for computing power from AI integration across sectors. Integrated circuit manufacturing saw the most dramatic increase, with profits surging 2579.5% year-on-year, while computer manufacturing and electronic specialty materials manufacturing also posted triple-digit growth. The data highlights how AI infrastructure investment is translating into real economic gains for China's hardware supply chain, particularly in semiconductors and computing equipment. The 8.5 percentage-point contribution to overall industrial profit growth underscores that AI/computing power is now a critical pillar supporting China's industrial economy. Sub-sector breakdown: computer整机 manufacturing +689.3%, computer peripheral equipment +305.8%, integrated circuit manufacturing +2579.5%, discrete semiconductor device manufacturing +31.2%, electronic specialty materials +209.7%, and electronic circuit manufacturing +26.9%. The figures are reported by NBS Industrial Statistics Department chief statistician Yu Weining.
+A case study of the Misago forum project's migration from React.js to HTMX, showcasing how server-rendered HTML with HTMX can replace heavy frontend frameworks for content-driven applications.
 
-rss · 36氪 · Jul 27, 01:38
+hackernews · Ralfp · Jul 27, 09:58 · [Discussion](https://news.ycombinator.com/item?id=49067301)
 
-**Background**: "Industrial enterprises above designated size" (规模以上工业企业) is a standard Chinese statistical category referring to industrial enterprises with annual main business revenue exceeding 20 million yuan (the threshold has been adjusted over the years). This classification is used to track the performance of China's formal industrial sector. Computing power (算力) refers to the computational capacity required to process data, particularly for AI model training and inference, which relies heavily on GPUs, specialized AI accelerators, and supporting semiconductor infrastructure. Discrete semiconductor devices (半导体分立器件) are individual semiconductor components such as diodes, transistors, and MOSFETs, as opposed to integrated circuits that combine many components on a single chip.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trainchinese.com/v2/wordDetails.php?rAp=0">Translation of 半导体分立器件to English with audio for 半导体分立器件-Chinese-English dictionary Trainchinese</a></li>
-<li><a href="https://www.stats.gov.cn/english/NewsEvents/200906/t20090626_26184.html">Profits of Industrial Enterprises above Designated Size Decreased...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#semiconductors`, `#China`, `#industrial economics`, `#computing infrastructure`
+**Tags**: `#htmx`, `#react`, `#django`, `#server-rendering`, `#web-development`, `#framework-migration`
 
 ---
 
 <a id="item-12"></a>
-## [GrapheneOS Warns Duress-Based Data Deletion May Have Legal Consequences](https://www.solidot.org/story?sid=84926) ⭐️ 6.3/10
+## [Bun Rust Rewrite Updates: Now in Claude Code, v1.4 Delayed](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) ⭐️ 7.0/10
 
-GrapheneOS has published guidance warning users that using duress passwords to wipe phone data could result in personal harm or legal consequences, while outlining its hardware-backed security features. The project also announced plans to expand beyond Google Pixel devices to Motorola and Qualcomm hardware by 2027. This guidance highlights the legal and physical risks of data-deletion mechanisms in high-threat environments, such as border crossings or law enforcement encounters, where users might be coerced into unlocking or wiping their devices. The planned hardware expansion would significantly broaden the availability of hardened mobile security beyond the small Pixel ecosystem. GrapheneOS implements graduated lockout: 10 failed attempts lock the device for 4 hours, 15 attempts for 41 days, with a maximum of 20 attempts allowed. It supports up to 128-character passwords including high-entropy Diceware passphrases, optional fingerprint PINs, blocks new USB connections at both software and hardware levels when locked, auto-reboots after 18 hours of being locked, and uses independent encryption keys for each secondary user and private space.
+Bun creator Jarred confirmed that the Rust rewrite of Bun has been shipped in production within Anthropic's Claude Code for over a month with no issues noticed, and announced that Bun v1.4 is delayed until a predefined number of new Node.js test suite compatibility benchmarks are met. The PRs to achieve these goals are open but not yet merged, with a release most likely scheduled for the following Tuesday. This update is significant because it provides real-world validation of the Rust rewrite in a high-traffic production tool, while also highlighting Bun's commitment to Node.js compatibility as a gating criterion for releases. The delay signals that the Bun team prioritizes correctness over speed, which matters for developers considering Bun as a drop-in Node.js replacement. The Rust rewrite was originally written in Zig and is now being ported to Rust, leveraging JavaScriptCore as the underlying engine. Bun runs thousands of Node.js test suite tests before every release and treats any non-passing test from a package that works in Node.js as a bug. The v1.4 release gate is a specific number of newly passing Node.js tests that Jarred committed to in the v1.4 announcement video.
 
-rss · Solidot · Jul 26, 13:17
+hackernews · tomlockwood · Jul 27, 11:12 · [Discussion](https://news.ycombinator.com/item?id=49067854)
 
-**Background**: GrapheneOS is a privacy- and security-focused mobile operating system built on AOSP (Android Open Source Project), distinguishing itself from alternatives like CalyxOS or iodéOS by not replacing Google Play Services with microG. A duress code is a covert signal used by a person being coerced to indicate they are acting under threat; in the digital context, a duress password on GrapheneOS is designed to trigger a secure, unrecoverable data wipe rather than a decoy or sanitized view of the device. Diceware is a well-established method for generating cryptographically strong but memorable passphrases using dice rolls or equivalent random sources.
+**Background**: Bun is an all-in-one JavaScript runtime that bundles a runtime, bundler, transpiler, task runner, and npm client, positioning itself as a fast drop-in replacement for Node.js. Originally launched in Zig, Bun's creator Jarred decided to rewrite the codebase in Rust, a language widely regarded for its performance and safety guarantees, partly to leverage its richer ecosystem and tooling. Claude Code is Anthropic's agentic AI coding CLI tool that is widely used by developers, making it a meaningful real-world test environment for the new Rust-based runtime. Node.js compatibility is critical for Bun's adoption, since most developers rely on the vast ecosystem of npm packages that target Node.js APIs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Duress_code">Duress code - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Diceware">Diceware - Wikipedia</a></li>
+<li><a href="https://bun.sh/">Bun — A fast all-in-one JavaScript runtime</a></li>
+<li><a href="https://github.com/oven-sh/bun">GitHub - oven-sh/ bun : Incredibly fast JavaScript runtime , bundler...</a></li>
+<li><a href="https://bun.sh/docs/runtime/nodejs-apis">Node . js compatibility – Runtime | Bun Docs</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community comments accompanying this news item are entirely off-topic, covering unrelated subjects such as a Scratch AI programming assistant, publishers reconsidering their relationship with Google over AI-driven traffic loss, Cloudflare's new bot blocking policies, and Apple's Neuromancer TV adaptation. No substantive discussion of GrapheneOS's duress password features or legal warnings was present in the provided comments.
+**Discussion**: Community commenters generally viewed the update positively, with SquareWheel noting that reduced commit cadence is expected after a major refactor and that developers are still learning the Rust codebase and tracking down unsafe code. Tehnix shared that the Bun rewrite inspired them to be more aggressive about porting and vendoring dependencies, while also emphasizing the importance of testing harnesses. benjiro29 expressed skepticism about LLM-driven software development, arguing that the real challenge in software lies not in fast creation but in figuring out features, fixing bugs, and doing UI work.
 
-**Tags**: `#GrapheneOS`, `#mobile-security`, `#privacy`, `#Android`, `#data-protection`
+**Tags**: `#bun`, `#rust`, `#javascript-runtime`, `#rewrite`, `#nodejs-compatibility`
 
 ---
 
 <a id="item-13"></a>
-## [PGSimCity: 3D SimCity-Style Visualization of PostgreSQL Internals](https://nikolays.github.io/PGSimCity/) ⭐️ 6.0/10
+## [CXMT Pursues Major IPO Amid Memory Chip Shortage](https://www.eetimes.com/cxmt-ipo-where-chinas-largest-dram-maker-stands/) ⭐️ 7.0/10
 
-Developer NikolayS released PGSimCity, an open-source interactive 3D city simulator that visualizes how PostgreSQL works internally, using hand-written simulations of PostgreSQL mechanisms such as the clock sweep's frame-by-frame victim buffer selection. Database internals are notoriously difficult to teach because they involve concurrent processes, memory management, and I/O flows that resist static diagrams. A spatial, animated metaphor like a city could lower the barrier for engineers learning how query parsing, MVCC, vacuum, and WAL replication actually behave at runtime. The simulator is hand-coded rather than running real PostgreSQL code, which is what makes fine-grained internals like buffer eviction observable frame-by-frame. Reviewers note that the current build leans passive: the 'Take tour' mode cycles through topics automatically with too many overlapping boxes, and there is no way to enter a query and watch it flow end-to-end through the system.
+CXMT (ChangXin Memory Technologies), China's largest DRAM manufacturer, is pursuing one of China's largest semiconductor IPOs. The timing coincides with what analysts describe as a once-in-four-decades memory chip shortage. This IPO represents a critical milestone in China's push for semiconductor self-sufficiency and could reshape the global DRAM market, which has long been dominated by Samsung, SK Hynix, and Micron. The memory shortage creates an advantageous capital-raising and capacity-expansion window for CXMT at a time when global demand is surging. CXMT was founded in 2016 and currently produces DDR4 DRAM chips for mobile phones, PCs, tablets, and servers. According to recent reports, the company has already debuted on the Shanghai stock exchange, with shares closing up 466% on the first day and reaching a market capitalization of approximately 3.28 trillion yuan (around $484.6 billion).
+
+rss · EE Times · Jul 27, 07:20
+
+**Background**: DRAM (Dynamic Random-Access Memory) is a type of volatile semiconductor memory used to temporarily store data being processed by computers, smartphones, servers, and other electronic devices. The global DRAM market has historically been dominated by three major players: Samsung, SK Hynix, and Micron, with very limited Chinese participation. CXMT was established in 2016 as part of China's national strategy to reduce dependence on foreign memory chip suppliers and represents China's only large-scale integrated DRAM designer and manufacturer.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
+<li><a href="https://www.msn.com/en-xl/money/economy/china-s-cxmt-soars-466-on-debut-as-dram-maker-becomes-most-valuable-mainland-listed-firm/ar-AA28KFTq">China ’s CXMT soars 466% on debut as DRAM maker becomes most...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#DRAM`, `#CXMT`, `#China-tech`, `#IPO`, `#memory-market`
+
+---
+
+<a id="item-14"></a>
+## [Siemens adds characterisation AI agent to automate design iteration](https://www.electronicsweekly.com/news/siemens-adds-characterisation-ai-agent-to-automate-design-iteration-2026-07/) ⭐️ 7.0/10
+
+Siemens integrates Nvidia AI software into its Intelligence Center X, creating an autonomous characterization AI agent for self-verifying semiconductor and PCB design workflows at DAC 2026.
+
+rss · Electronics Weekly · Jul 27, 08:00
+
+**Tags**: `#EDA`, `#Siemens`, `#Nvidia`, `#semiconductor-design`, `#AI-agents`
+
+---
+
+<a id="item-15"></a>
+## [Lattice Semiconductor Completes Acquisition of AMI](https://www.techpowerup.com/351114/lattice-semiconductor-completes-acquisition-of-ami) ⭐️ 6.5/10
+
+Lattice Semiconductor (NASDAQ: LSCC) announced the completion of its acquisition of AMI, a deal first announced on May 4, 2026. The combination unites Lattice's low power FPGA expertise with AMI's platform firmware and infrastructure manageability technology to create what the company describes as the industry's most complete secure management and control platform. The acquisition signals a strategic consolidation at the hardware-firmware boundary, a critical layer for hyperscalers, OEMs, ODMs, and neocloud providers facing escalating security, power, and performance demands from modern AI infrastructure. By integrating firmware capabilities into its FPGA portfolio, Lattice is positioning itself to capture more value in the AI/cloud buildout and is targeting a $1 billion-plus annual revenue run rate by the end of 2026. The deal is expected to be accretive to gross margin, free cash flow, and earnings per share on a non-GAAP basis. The press release emphasizes combining programmable logic with firmware-layer manageability, a convergence increasingly required for secure, large-scale AI and cloud deployments.
+
+rss · TechPowerUp News · Jul 27, 15:25
+
+**Background**: An FPGA (Field-Programmable Gate Array) is a reprogrammable semiconductor chip containing programmable logic blocks and interconnects, valued for flexibility and, in Lattice's case, low power consumption. Hyperscalers are cloud providers operating at massive scale, such as AWS, Azure, and Google Cloud, while neocloud providers are a newer class of specialized cloud companies offering bare-metal, high-performance GPU infrastructure optimized for demanding AI workloads, differing from the generalized services of traditional hyperscalers. Platform firmware, the kind AMI provides, sits at the interface between hardware and operating system and is critical for security, boot integrity, and remote management at scale.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://medium.com/system-level-solutions/what-is-fpga-and-why-is-it-required-c37fe105b610">What is FPGA and Why is it Required? | by Priteshkukadia | Medium</a></li>
+<li><a href="https://www.redhat.com/en/topics/cloud-computing/what-is-a-hyperscaler">What is a hyperscaler ?</a></li>
+<li><a href="https://phoenixnap.com/blog/neocloud">What Is Neocloud ? Everything You Need to Know</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductor`, `#FPGA`, `#acquisition`, `#cloud-infrastructure`, `#firmware`
+
+---
+
+<a id="item-16"></a>
+## [AI Developer Runs 28.9M-Parameter Model on $10 ESP32-S3 Using Google's PLE Technique](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory) ⭐️ 6.5/10
+
+A developer named Slava successfully ran a 28.9-million-parameter AI language model on a sub-$10 ESP32-S3 microcontroller using Google's Per-Layer Embeddings (PLE) technique, storing the embedding table on the board's 16MB Flash memory. This demonstrates that meaningful language model inference can be performed on extremely resource-constrained hardware, opening new possibilities for edge AI and IoT applications where cost, power, and connectivity are limiting factors. The use of Google's PLE technique — originally designed to compress server-side models like Gemma 3n — on a $10 chip highlights the technique's versatility across the entire compute spectrum. The ESP32-S3 features a dual-core Xtensa LX7 processor clocked up to 240 MHz with only 512 KB of SRAM, making the 16 MB Flash storage essential for holding the model's embedding table. Although 28.9 million parameters is small compared to modern LLMs, this represents a significant achievement for microcontroller-class devices and shows how Google's PLE technique — which reduced a 5B-parameter Gemma 3n model's memory footprint to roughly 2 GB — can scale all the way down to embedded hardware.
+
+rss · Tom's Hardware · Jul 27, 13:07
+
+**Background**: The ESP32-S3 is a popular low-cost microcontroller from Espressif Systems, widely used in IoT and maker projects due to its built-in Wi-Fi and Bluetooth LE connectivity. Per-Layer Embeddings (PLE) is an architectural innovation introduced by Google that reduces the memory footprint of neural networks by sharing and compressing embedding parameters across layers more efficiently. While PLE was originally designed to help large models like Gemma 3n fit on devices with limited RAM, this experiment shows the same architectural principle can be applied to extremely constrained hardware. Edge AI — running models directly on local devices rather than in the cloud — is a growing field driven by privacy, latency, and bandwidth concerns.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory">AI developer runs 28.9-million-parameter model on... | Tom's Hardware</a></li>
+<li><a href="https://www.communeify.com/en/blog/google-gemma-3n-mobile-multimodal-ai/">Google Gemma 3n bursts onto the scene! Multimodal AI... | Communeify</a></li>
+<li><a href="https://www.espboards.dev/esp32/esp32-s3-super-mini/">ESP 32 - S 3 Super Mini Pinout, Specs & Features</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#edge-ai`, `#microcontroller`, `#ESP32`, `#model-compression`, `#embedded-systems`
+
+---
+
+<a id="item-17"></a>
+## [Xiaomi's MiMo-V2.5 Tops OpenRouter Global Weekly and Monthly Charts](https://36kr.com/newsflashes/3913798998201732?f=rss) ⭐️ 6.3/10
+
+As of July 27, OpenRouter data shows that Xiaomi's MiMo-V2.5 claimed the top spot on both the global weekly and monthly LLM call-volume leaderboards, becoming the only model that week to surpass 10 trillion weekly tokens. Since May, MiMo-V2.5's weekly token volume climbed from 1.46T to 10.46T, representing roughly 616% growth over two months. This milestone signals the rising competitiveness of Chinese open-weight models on the world's largest neutral LLM routing platform, where Chinese models have already overtaken U.S. models in weekly token throughput. For Xiaomi, breaking into the global top tier demonstrates that its in-house LLM can compete with established players on real-world developer adoption, not just benchmark scores. The ranking reflects API routing volume on OpenRouter rather than intrinsic model capability, so it measures developer demand and price-performance competitiveness. Notably, one search source referenced MiMo being unveiled on December 17, 2025 at a Xiaomi Full Ecosystem Partner Conference, while the news item itself dates the surge to mid-2026, suggesting rapid iteration from the V2.5 lineup.
+
+rss · 36氪 · Jul 27, 11:22
+
+**Background**: OpenRouter is a unified API gateway that lets developers access 400+ LLMs from dozens of providers through a single interface, and it now processes roughly 25 trillion tokens per week. Chinese open-weight models have been gaining ground rapidly on this platform: in February 2026 they surpassed U.S. models in weekly token volume for the first time, and that gap has continued to widen. Xiaomi's MiMo is the company's in-house large language model family, positioned as a productivity- and agent-oriented offering alongside TTS capabilities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openrouter.ai/">The unified interface for LLMs. Find the best models & prices for your...</a></li>
+<li><a href="https://mimo.xiaomi.com/">mimo . xiaomi .com</a></li>
+<li><a href="https://www.metatalks.ai/chinese-open-weight-models-now-run-more-than-triple-the-weekly-tokens-of-u-s-models-on-openrouter/">Chinese open-weight models now run more than triple the weekly ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Xiaomi`, `#MiMo`, `#OpenRouter`, `#LLM`, `#AI-industry`
+
+---
+
+<a id="item-18"></a>
+## [Ctrip fined 5.179 billion yuan for abusing market dominance](https://sspai.com/post/112769) ⭐️ 6.3/10
+
+China's market regulator imposed a 5.179 billion yuan antitrust fine on Ctrip, the country's largest online travel agency, for abusing its dominant market position. The daily digest also covers Nvidia and Microsoft co-signing a statement supporting open-weight AI models, Shanghai Jiao Tong University Medical School announcing an investigation into a gene-editing-related death, and the release of Geekbench 7. The Ctrip fine is one of the largest antitrust penalties imposed on a Chinese internet platform in recent years, signaling continued regulatory scrutiny of tech giants. The other stories highlight key trends in AI policy, biotech safety oversight, and benchmarking standards that affect developers and consumers globally. The 5.179 billion yuan fine against Ctrip targets the company's alleged coercive practices toward hotels and partners. The open-weight model endorsement involves major players including Nvidia and Microsoft advocating for continued development and distribution of openly weighted AI models. Geekbench 7, the popular cross-platform processor benchmark, has been released with updated test workloads.
+
+rss · 少数派 · Jul 26, 23:00
+
+**Background**: Ctrip (Trip.com Group) is China's largest online travel platform, comparable to Expedia or Booking.com in Western markets, and has long held a dominant share of the domestic hotel and ticketing market. Antitrust enforcement in China's tech sector intensified after 2020, with major penalties against Alibaba, Tencent, and other platforms. Open-weight AI models release their trained parameters publicly, distinguishing them from fully open-source models which also share training data and code; the distinction has become a focal point in global AI governance debates. Geekbench, developed by Primate Labs, is a widely used cross-platform benchmarking tool that measures CPU and GPU performance across single-core and multi-core workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://platform.deepseek.com/">Join DeepSeek API platform to access our AI models , developer...</a></li>
+<li><a href="https://huggingface.co/models">Models – Hugging Face</a></li>
+<li><a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our Open - Weights Model - Thinking Machines Lab</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#tech-news`, `#antitrust`, `#open-source-ai`, `#china-tech`, `#daily-digest`
+
+---
+
+<a id="item-19"></a>
+## [PGSimCity: A 3D Visual Simulation of PostgreSQL Internals](https://nikolays.github.io/PGSimCity/) ⭐️ 6.0/10
+
+PGSimCity is an early-stage, open-source, browser-based 3D simulation that visualizes PostgreSQL's internal subsystems—including backends, shared buffers, WAL, checkpoints, autovacuum, and replication—running live in the browser. The tool models PostgreSQL as a set of interactive agents and resources, allowing users to send SQL commands and observe how the simulated engine responds. Understanding PostgreSQL's internals traditionally requires reading dense source code or studying static architecture diagrams, creating a high barrier for learners. By turning the database into an explorable 3D 'city,' PGSimCity offers a more intuitive educational approach that could inspire similar visualizations for other complex systems like operating systems, compilers, and Kubernetes. The current version is a rough, early-stage visualization rather than a polished product—community feedback highlights that the automatic tour mode is visually overwhelming and should be made more interactive. The GitHub README notes that future improvements could embed a real PostgreSQL compiled to WebAssembly (such as PGlite) to make query results and plans authoritative rather than simulated.
 
 hackernews · jonbaer · Jul 27, 00:19 · [Discussion](https://news.ycombinator.com/item?id=49063754)
 
-**Background**: PostgreSQL is an advanced open-source relational database whose internals include a multi-process architecture (a postmaster plus per-connection backends), MVCC for concurrency, a shared buffer cache with clock-sweep eviction, the WAL writer for durability, autovacuum for reclaiming dead tuples, and a query planner/executor. Traditional learning resources rely on architecture diagrams and source-code walkthroughs; PGSimCity attempts a novel spatial metaphor, treating database components as buildings in a living city so that relationships and data flow become visually intuitive.
+**Background**: PostgreSQL is one of the world's most widely used open-source relational database systems. Its internals comprise many subsystems: a query parser, planner, and optimizer that determine how to execute SQL; an executor that runs the chosen plan; a buffer pool that caches disk pages; the Write-Ahead Log (WAL) that ensures durability; MVCC (Multi-Version Concurrency Control) for transaction isolation; autovacuum for reclaiming storage; and streaming replication for high availability. Mastering these moving parts is challenging, and PGSimCity attempts to make them tangible by rendering each subsystem as a living element inside a 3D cityscape.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://nikolays.github.io/PGSimCity/">PGSimCity · How PostgreSQL Works, in 3D</a></li>
 <li><a href="https://github.com/NikolayS/pgsimcity">NikolayS/ PGSimCity : An explorable 3D city that shows how Postgres ...</a></li>
-<li><a href="https://systeminternals.dev/postgresql/">PostgreSQL Database Internals | Systems Explained</a></li>
+<li><a href="https://asibiont.com/en/blog/pgsimcity-kak-rabotaet-postgresql-pod-kapotom-simulyatsiya-protsessov-bazy-dannykh">PGSimCity: A Game-Changing Simulation of How PostgreSQL Works</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News thread is broadly positive about the concept but consistently critical of the execution. Users love the SimCity-style metaphor and several have shared it as inspiration for similar simulators (CPUs, Kubernetes), but the dominant feedback is that the tour is too passive and information-dense—too many boxes changing at once, no clear entry or exit point, and no way to input a query and watch the full pipeline. Reviewers suggest adding a clear narrative with defined actors (client, data) and step-by-step interactivity instead of auto-advancing slides.
+**Discussion**: Community sentiment is enthusiastic but constructive, praising the concept while identifying clear improvement areas. Reviewers found the automatic tour overwhelming and suggested making it interactive and letting users enter queries to walk through the full execution path from parsing to output. Broader discussions explored whether games and visual simulations could effectively teach CS subjects like operating systems, databases, and compilers—comparing the idea to Factorio—and even speculated about VR-based code exploration.
 
-**Tags**: `#postgresql`, `#database-internals`, `#visualization`, `#education`, `#interactive-learning`
+**Tags**: `#postgresql`, `#databases`, `#visualization`, `#education`, `#cs-education`
 
 ---
 
-<a id="item-14"></a>
-## [Design is compromise](https://stephango.com/design-is-compromise) ⭐️ 6.0/10
+<a id="item-20"></a>
+## [Characterization Evolving for Heterogeneous Semiconductor Systems](https://semiwiki.com/3dic/371245-from-process-learning-to-production-control-characterization-for-the-era-of-heterogeneous-systems/) ⭐️ 6.0/10
 
-An essay arguing that compromise is an essential part of design, sparking HN debate about the distinction between compromise and trade-offs.
+A SemiWiki industry perspective argues that semiconductor characterization must shift from its traditional role in process learning to enabling production control, in order to support heterogeneous integration and advanced packaging. The article frames characterization as a foundational step that must evolve alongside the move toward combining multiple chip types and technologies into unified packages. As the semiconductor industry moves beyond monolithic SoCs toward chiplet-based and heterogeneous designs, the methods used to understand and control manufacturing processes become critical bottlenecks. Engineers and fab managers responsible for advanced packaging yield and reliability will need new characterization frameworks that go beyond single-transistor or single-die metrics. The article content available is truncated after the opening paragraph, with the full analysis gated behind a read-more link on SemiWiki. The piece is an opinion-style industry article rather than a peer-reviewed study, and it carries a promotional framing rather than presenting novel technical findings or data.
 
-hackernews · ankitg12 · Jul 26, 15:51 · [Discussion](https://news.ycombinator.com/item?id=49059367)
+rss · SemiWiki · Jul 27, 13:00
 
-**Tags**: `#design`, `#design-philosophy`, `#product-development`, `#opinion`, `#decision-making`
+**Background**: Heterogeneous integration refers to combining multiple different semiconductor chips — such as processors, memory, analog circuits, and RF components — into a single package rather than fabricating all functions on one large die. This approach, closely related to 3DIC (three-dimensional integrated circuit) and chiplet architectures, is gaining traction as transistor scaling slows and specialized functions become harder to integrate on a single process node. Semiconductor characterization, the practice of measuring and analyzing physical, electrical, optical, and thermal properties of materials and devices, has historically been used during process development to understand transistor behavior and optimize fabrication steps. The article's central claim is that this characterization paradigm must expand to support real-time production control in heterogeneous packaging environments, where interactions between dissimilar chips introduce new failure modes and yield challenges.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://nstic.sg/capabilities/heterogeneous-integrations/">What is Heterogeneous Integration in Semiconductor Industry?</a></li>
+<li><a href="https://blog.izm.fraunhofer.de/heterogeneous-integration/">Heterogenous Integration | RealIZM</a></li>
+<li><a href="https://www.linkedin.com/advice/0/what-most-effective-methods-characterizing-hpi9c">How to Characterize Semiconductor Materials Effectively</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#heterogeneous-systems`, `#characterization`, `#3DIC`, `#manufacturing`
 
 ---
