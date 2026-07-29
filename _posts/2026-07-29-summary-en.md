@@ -5,340 +5,416 @@ date: 2026-07-29
 lang: en
 ---
 
-> From 119 items, 20 important content pieces were selected
+> From 115 items, 20 important content pieces were selected
 
 ---
 
-1. [Google Goes Cash Flow Negative as AI Capex Hits $44.9B Quarterly](#item-1) ⭐️ 8.5/10
-2. [Kimi K3 Architecture Overview and Notes](#item-2) ⭐️ 8.0/10
-3. [Zig's Incremental Compilation Internals](#item-3) ⭐️ 8.0/10
-4. [Discovering Cryptographic Weaknesses with Claude](#item-4) ⭐️ 8.0/10
-5. [Microchip Acquires Edge AI Chip Startup Hailo](#item-5) ⭐️ 8.0/10
-6. [Nvidia N1X Chip Spotted in Surface Laptop Ultra Prototype](#item-6) ⭐️ 7.5/10
-7. [UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发](#item-7) ⭐️ 7.3/10
-8. [Codex Security](#item-8) ⭐️ 7.0/10
-9. [Shanghai Yuliansheng to Ship Five Domestic Immersion DUV Lithography Machines in 2026](#item-9) ⭐️ 7.0/10
-10. [SK hynix Posts Record Q2 2026 Earnings on AI Memory Boom](#item-10) ⭐️ 6.5/10
-11. [One Year Into the AI RAM Apocalypse: DIY Memory Costs and Outlook](#item-11) ⭐️ 6.5/10
-12. [DDR4 vs DDR5 Gaming Gap Re-tested on Intel LGA 1700 in 2026](#item-12) ⭐️ 6.5/10
-13. [AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material](#item-13) ⭐️ 6.5/10
-14. [China's AI Short Drama Market Surpasses 22 Billion Yuan in H1 2025](#item-14) ⭐️ 6.3/10
-15. [HarmonyOS 7 Lowers Developer Entry Barrier with Minimal-Code Cross-Device Integration](#item-15) ⭐️ 6.3/10
-16. [索尼抛弃实体游戏光盘，谁成为了转型代价？](#item-16) ⭐️ 6.3/10
-17. [加拿大议员在议会演讲期间阅读了 AI 的回应](#item-17) ⭐️ 6.3/10
-18. [AI Demand Pushes Japanese and Korean MLCC Suppliers to Record Monthly Shipments; Consumer-Grade Order Spillovers Continue to Surge, Says TrendForce](#item-18) ⭐️ 6.0/10
-19. [Vibe Coding in Safety-Critical Software: Promise, Pitfalls, and a Path Forward](#item-19) ⭐️ 6.0/10
-20. [Will Purging Chinese Tech Cost Europe Its Digital Future?](#item-20) ⭐️ 6.0/10
+1. [Moonshot AI used Nvidia Blackwell chips to train Kimi K3, circumventing US and Chinese controls](#item-1) ⭐️ 8.5/10
+2. [Document-borne AI worms can self-propagate through Copilot for Word](#item-2) ⭐️ 8.0/10
+3. [Apacer CEO warns DRAM supply to module makers could plunge 70%+ in 2027](#item-3) ⭐️ 7.5/10
+4. [Intel Completes RAMP-C Defense Program, Validating 18A Foundry Capabilities](#item-4) ⭐️ 7.5/10
+5. [Mystery Reviewer Benchmarks Nvidia N1X Surface Laptop Ultra Prototype](#item-5) ⭐️ 7.5/10
+6. [Research shows long policy documents fail to reliably govern LLM agents](#item-6) ⭐️ 7.0/10
+7. [Codex Security](#item-7) ⭐️ 7.0/10
+8. [Photonics Moves Inward: From Co-Packaged Optics to Nanolasers](#item-8) ⭐️ 7.0/10
+9. [TSMC Fab 20 Hits 20,000 Wafers Per Month on 2nm Process](#item-9) ⭐️ 7.0/10
+10. [Kioxia Announces UFS 5.0 Embedded Flash Memory Devices](#item-10) ⭐️ 6.5/10
+11. [SK hynix Posts Record 2Q26 Earnings on AI Memory Demand](#item-11) ⭐️ 6.5/10
+12. [GOG Galaxy Confirmed as Native Linux Application in Development](#item-12) ⭐️ 6.5/10
+13. [Tom's Hardware Benchmarks Laptops on Battery vs. AC Power](#item-13) ⭐️ 6.5/10
+14. [Intel Nova Lake iGPU May Require 65W Dedicated Power Delivery](#item-14) ⭐️ 6.5/10
+15. [State of play: SSD pricing one year into the AI component crisis  — 220% price increases are crippling the DIY market](#item-15) ⭐️ 6.5/10
+16. [氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿](#item-16) ⭐️ 6.3/10
+17. [HuaChen ChipLight Raises Over 100M RMB to Advance Domestic High-End Laser Chips](#item-17) ⭐️ 6.3/10
+18. [Mind Lab pioneers Mixture-of-LoRA post-training for continual learning](#item-18) ⭐️ 6.3/10
+19. [US Awards $874M CHIPS Act Funding to 7 Tech Firms for Semiconductor R&D](#item-19) ⭐️ 6.3/10
+20. [腾讯混元开源AngelSpec](#item-20) ⭐️ 6.3/10
 
 ---
 
 <a id="item-1"></a>
-## [Google Goes Cash Flow Negative as AI Capex Hits $44.9B Quarterly](https://www.tomshardware.com/tech-industry/big-tech/alphabet-goes-cash-flow-negative-for-the-first-time-as-ai-capex-doubles-to-44-9-billion-in-a-single-quarter) ⭐️ 8.5/10
+## [Moonshot AI used Nvidia Blackwell chips to train Kimi K3, circumventing US and Chinese controls](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute) ⭐️ 8.5/10
 
-Alphabet reported its first-ever cash-flow-negative quarter, driven by $44.9 billion in AI-related capital expenditure in a single quarter. CFO Anat Ashkenazi simultaneously raised full-year 2025 capex guidance to between $195 billion and $205 billion, and warned that spending will continue to climb in 2027 as the company heavily invests in its custom Tensor Processing Units (TPUs) and data center buildout. This milestone signals the extraordinary financial scale of the AI infrastructure race and shows that even a cash-rich giant like Google is willing to absorb short-term financial strain to secure long-term AI capacity. The aggressive bet on custom TPUs rather than third-party GPUs has major implications for Nvidia's dominance and the broader AI hardware ecosystem. Google's $44.9B quarterly capex figure dwarfs the cost of building even a gigawatt-scale AI data center, which Epoch AI estimates at roughly $38B in up-front capex. The raised $195–205B full-year guidance implies that capex intensity is accelerating rather than plateauing, and Google's pivot toward TPUs positions its custom silicon as a strategic alternative to Nvidia GPUs for hyperscale AI workloads.
+Moonshot AI reportedly acquired Nvidia Blackwell GPUs to train its Kimi K3 model, circumventing both U.S. export controls and Chinese import restrictions. Kimi K3 is an open-weight 2.8-trillion-parameter Mixture-of-Experts model with native vision capabilities and a 1-million-token context window. The report exposes significant enforcement gaps in semiconductor export controls at a moment of intensifying US-China AI competition, raising doubts about whether chip restrictions can meaningfully slow Chinese frontier AI development. It also pressures Nvidia's market position and is likely to spur tighter regulatory scrutiny from both Washington and Beijing. The Nvidia Blackwell architecture pairs two reticle-limited dies with a 10 TB/s chip-to-chip interconnect and packs 208 billion transistors on TSMC's 4NP process, making it among the most powerful AI training chips on the market. Kimi K3 reportedly introduces novel architectural elements including Kimi Delta Attention (KDA) and Attention Residuals (AttnRes).
 
-rss · Tom's Hardware · Jul 28, 11:12
+rss · Tom's Hardware · Jul 29, 10:00
 
-**Background**: Capital expenditure (capex) refers to large upfront investments in physical infrastructure such as data centers, servers, and networking equipment. Google's Tensor Processing Units (TPUs) are custom AI accelerator chips (ASICs) that Google has been developing internally since 2015 to run machine learning workloads more efficiently than general-purpose GPUs. By designing its own silicon, Google aims to reduce dependence on external chip suppliers, particularly Nvidia, while optimizing hardware for its TensorFlow, JAX, and PyTorch software stacks. The broader AI industry is driving global data center capex toward an estimated $1.7 trillion by 2030, according to Dell'Oro Group.
+**Background**: Since 2022, the U.S. Bureau of Industry and Security (BIS) has progressively tightened export controls on advanced AI chips to China, restricting access to Nvidia's most powerful GPUs including the H100, H200, and the Blackwell series. Chinese import controls complement these by prohibiting domestic firms from acquiring restricted foreign chips even through secondary markets. The Nvidia Blackwell line (B100, B200, GB200) is the company's flagship data-center platform for AI training and inference, succeeding the Hopper generation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit">Tensor Processing Unit - Wikipedia</a></li>
-<li><a href="https://epoch.ai/data-insights/ai-datacenter-cost-breakdown">Total cost of ownership of a one-gigawatt AI data center | Epoch AI</a></li>
-<li><a href="https://www.delloro.com/news/ai-boom-drives-data-center-capex-to-1-7-trillion-by-2030/">AI Boom Drives Data Center Capex to $1.7 Trillion by 2030, According to Dell’Oro Group - Dell'Oro Group</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
+<li><a href="https://huggingface.co/moonshotai/Kimi-K3">moonshotai/Kimi-K3 · Hugging Face</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China">United States New Export Controls on Advanced Computing and Semiconductors to China - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#Google/Alphabet`, `#capex`, `#TPUs`, `#data centers`
+**Tags**: `#AI geopolitics`, `#export controls`, `#Nvidia`, `#Moonshot AI`, `#semiconductors`
 
 ---
 
 <a id="item-2"></a>
-## [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) ⭐️ 8.0/10
+## [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) ⭐️ 8.0/10
 
-Sebastian Raschka analyzes the novel architecture of Kimi K3, highlighting unconventional choices like completely removing RoPE in favor of NoPE and introducing KDA attention mechanisms.
+Researchers demonstrate self-propagating AI worms that exploit prompt injection in Copilot for Word, highlighting fundamental design vulnerabilities in AI-integrated productivity software.
 
-hackernews · ModelForge · Jul 28, 15:48 · [Discussion](https://news.ycombinator.com/item?id=49085698)
+hackernews · Canopy9560 · Jul 29, 11:44 · [Discussion](https://news.ycombinator.com/item?id=49096188)
 
-**Tags**: `#LLM-architecture`, `#Kimi-K3`, `#NoPE`, `#positional-embeddings`, `#Moonshot-AI`
+**Tags**: `#AI security`, `#prompt injection`, `#Microsoft Copilot`, `#vulnerability research`, `#LLM security`
 
 ---
 
 <a id="item-3"></a>
-## [Zig's Incremental Compilation Internals](https://mlugg.co.uk/posts/incremental-compilation-internals/) ⭐️ 8.0/10
+## [Apacer CEO warns DRAM supply to module makers could plunge 70%+ in 2027](https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity) ⭐️ 7.5/10
 
-A detailed exploration of how Zig's compiler implements incremental compilation, covering semantic analysis caching, AST dependencies, and the architecture that enables fast rebuilds.
+Apacer CEO C.K. Chang warned that DRAM chip allocations from major manufacturers to independent module makers could fall to just 30% of 2026 levels in 2027, representing a year-on-year drop of more than 70%. The squeeze is driven by surging AI-driven demand for High Bandwidth Memory (HBM) and server RAM, which is consuming an outsized share of wafer production capacity. This forecast signals a potential structural shift in the memory market where AI infrastructure priorities could starve consumer and PC segments of affordable DRAM, driving retail memory prices sharply higher. PC builders, gamers, and consumer electronics manufacturers would be the most directly impacted, while the broader hardware ecosystem could see rising bill-of-materials costs across the board. Micron has previously cited a roughly 3-to-1 conversion ratio between HBM and DDR5 wafer capacity, meaning every ramp in HBM production directly displaces general-purpose memory output. Apacer's projection is based on CEO-level intelligence from a Taiwanese memory vendor with direct visibility into allocation trends from major DRAM producers such as Samsung, SK Hynix, and Micron.
 
-hackernews · garyhtou · Jul 28, 15:46 · [Discussion](https://news.ycombinator.com/item?id=49085666)
+rss · Tom's Hardware · Jul 29, 10:30
 
-**Tags**: `#zig`, `#compilers`, `#incremental-compilation`, `#systems-programming`, `#compiler-engineering`
-
----
-
-<a id="item-4"></a>
-## [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) ⭐️ 8.0/10
-
-Anthropic demonstrates that Claude can discover real cryptographic weaknesses in established algorithms like AES and Hawk, spending ~$100k in API costs per result.
-
-hackernews · gslin · Jul 28, 17:22 · [Discussion](https://news.ycombinator.com/item?id=49087091)
-
-**Tags**: `#cryptography`, `#AI-security`, `#Anthropic`, `#Claude`, `#vulnerability-research`
-
----
-
-<a id="item-5"></a>
-## [Microchip Acquires Edge AI Chip Startup Hailo](https://www.eetimes.com/microchip-acquires-edge-ai-chip-startup-hailo/) ⭐️ 8.0/10
-
-Microchip Technology has acquired edge AI chip startup Hailo, integrating Hailo's AI inference technology into Microchip's embedded product portfolio. The deal brings Hailo's specialized neural network accelerators under the umbrella of one of the largest embedded semiconductor vendors. This acquisition significantly consolidates the edge AI chip market, positioning Microchip to compete more directly with NVIDIA, Qualcomm, and other AI accelerator vendors in embedded and industrial applications. It signals that traditional microcontroller and embedded vendors are aggressively bolting on AI inference capabilities rather than relying on third-party accelerators. Hailo's flagship Hailo-8 processor delivers up to 26 TOPS (Tera-Operations Per Second) using a proprietary Structure-Defined Dataflow Architecture designed for low-latency, on-device inference. Hailo has been one of the better-funded edge AI startups, competing against larger players in vision processing and embedded AI workloads.
-
-rss · EE Times · Jul 28, 17:04
-
-**Background**: Edge AI refers to running machine learning models directly on local hardware—such as AI accelerators, microcontrollers, or single-chip systems—rather than sending data to remote cloud servers. This approach reduces latency, improves privacy, and enables real-time decision-making in applications like autonomous vehicles, industrial automation, and smart cameras. AI inference—the process of using a trained model to produce predictions—has different hardware requirements than AI training, typically favoring power-efficient, low-latency processors. Hailo specializes in edge AI inference accelerators, while Microchip Technology is a dominant supplier of microcontrollers, FPGAs, and analog semiconductors for embedded systems.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://hailo.ai/wp-content/uploads/2023/10/hailo-8-product-brief-rev3.26.pdf">Hailo -8™ AI Processor</a></li>
-<li><a href="https://hc33.hotchips.org/assets/sponsors/hailo/Hailo_Company_Brochure_Empowering_Intelligence(7).pdf">Top Performing AI Processor</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#M&A`, `#Edge AI`, `#Semiconductors`, `#Embedded Systems`, `#Microchip`
-
----
-
-<a id="item-6"></a>
-## [Nvidia N1X Chip Spotted in Surface Laptop Ultra Prototype](https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible) ⭐️ 7.5/10
-
-A mystery reviewer benchmarked an early prototype of a Microsoft Surface Laptop Ultra powered by Nvidia's N1X chip (branded 'RTX Spark'). The system showed promising performance but still suffered from rough edges typical of early-stage hardware. This leak provides one of the first real-world performance data points for Nvidia's entry into the PC system-on-chip market, directly challenging Qualcomm's Snapdragon X and Apple's M-series silicon in the ARM-based AI PC space. It signals that Nvidia is moving closer to commercializing its first PC processor, potentially reshaping competition in the AI PC category. The N1X is reported to feature 20 CPU cores, RTX 5070-class GPU performance, and support for up to 128GB of memory, co-developed with MediaTek. Despite software issues, the reviewer praised the Surface Laptop Ultra's high build quality, keyboard feel, touchpad input, and display quality.
-
-rss · Tom's Hardware · Jul 28, 16:03
-
-**Background**: The 'AI PC' category refers to computers equipped with neural processing units (NPUs) capable of running on-device AI workloads, a market currently dominated by Qualcomm's Snapdragon X chips and Apple's M-series silicon. Nvidia, historically known for discrete GPUs, partnered with MediaTek and Microsoft to develop the N1X as an ARM-based SoC aimed at Windows on Arm devices, with Lenovo and Dell reportedly lined up as launch partners. Jensen Huang has personally confirmed the N1X SoC chip designed specifically for PCs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible">Mystery reviewer 'finds' Nvidia RTX Spark prototype... | Tom's Ha...</a></li>
-<li><a href="https://abit.ee/en/processors/nvidia-n1-processor-n1x-mediatek-arm-ai-pc-windows-on-arm-geforce-rtx-5070-blackwell-intel-amd-lenov-en">Nvidia and MediaTek Throw Down the Gauntlet: N 1 Processor for AI...</a></li>
-<li><a href="https://dn.com/en-us/news/detail-4556.html">Nvidia makes a major entry into the AI PC market ! The explosion of...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Limited public commentary exists so far, though some industry observers have expressed skepticism about whether Nvidia's entry into PC processors will be as disruptive as initially framed, noting uncertainty over whether enterprise AI 'agents' will materialize in sufficient volume to drive demand for AI PCs.
-
-**Tags**: `#Nvidia`, `#N1X`, `#Microsoft Surface`, `#AI PC`, `#hardware leak`
-
----
-
-<a id="item-7"></a>
-## [UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发](https://36kr.com/p/3913213962540164?f=rss) ⭐️ 7.3/10
-
-Delta Intelligence, a humanoid robotics foundation model startup founded by three UCLA PhDs, raised nearly 500M RMB in an angel++ round—their sixth funding round in six months—to advance Humanoid Foundation Models (HFMs) for whole-body coordination.
-
-rss · 36氪 · Jul 28, 10:38
-
-**Tags**: `#humanoid-robotics`, `#embodied-AI`, `#funding-news`, `#foundation-models`, `#startup`
-
----
-
-<a id="item-8"></a>
-## [Codex Security](https://github.com/openai/codex-security) ⭐️ 7.0/10
-
-OpenAI has open-sourced Codex Security CLI, an AI-powered security scanning tool, though early user reports reveal practical issues with scan duration, quota consumption, and reliability.
-
-hackernews · bakigul · Jul 28, 20:52 · [Discussion](https://news.ycombinator.com/item?id=49089755)
-
-**Tags**: `#openai`, `#security`, `#codex`, `#cli-tools`, `#ai-agents`
-
----
-
-<a id="item-9"></a>
-## [Shanghai Yuliansheng to Ship Five Domestic Immersion DUV Lithography Machines in 2026](https://www.electronicsweekly.com/news/business/shanghai-yuliansheng-to-ship-five-immersion-duv-machines-this-year-2026-07/) ⭐️ 7.0/10
-
-Shanghai Yuliangsheng Technology, a domestic semiconductor equipment specialist, plans to ship five immersion DUV lithography machines this year through Shanghai Aishengna Technology, which has taken over Yuliansheng's team. This shipment represents a tangible step in China's push for semiconductor equipment self-sufficiency, reducing reliance on ASML — currently the world's sole producer of advanced immersion DUV systems — amid ongoing US-aligned export controls that restrict China's access to cutting-edge lithography tools. Only five units are planned for shipment this year, a modest volume compared to ASML's annual output of dozens of immersion DUV systems. The article provides no technical specifications such as resolution (e.g., 28nm or below) or whether the machines can match ASML's NXT-series capabilities.
-
-rss · Electronics Weekly · Jul 28, 05:28
-
-**Background**: Photolithography is the process of using light to print microscopic circuit patterns onto silicon wafers, and the wavelength of light used determines the minimum feature size that can be etched. Deep ultraviolet (DUV) lithography uses light at 193nm wavelength and is the workhorse technology for producing mature and mid-range chips down to around 7nm (via multi-patterning). Immersion lithography enhances resolution by inserting a liquid medium — typically ultra-pure water — between the lens and the wafer, increasing the effective numerical aperture. ASML, a Dutch company, dominates the global market for these machines, and its most advanced immersion DUV systems (the NXT series) are critical for producing chips at 7nm and above nodes. China's domestic semiconductor industry has been racing to develop indigenous alternatives after the US and its allies restricted exports of advanced lithography equipment to Chinese fabs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Immersion_lithography">Immersion lithography - Wikipedia</a></li>
-<li><a href="https://www.asml.com/en/products/duv-lithography-systems">DUV lithography systems | Products</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Photolithography">Photolithography - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#lithography`, `#DUV`, `#China-tech`, `#chip-manufacturing`
-
----
-
-<a id="item-10"></a>
-## [SK hynix Posts Record Q2 2026 Earnings on AI Memory Boom](https://www.techpowerup.com/351172/sk-hynix-announces-2q26-financial-results) ⭐️ 6.5/10
-
-SK hynix announced record-breaking Q2 2026 financial results, posting 79.3 trillion won in revenue, 60.5 trillion won in operating profit, and 93.9 trillion won in net profit. Revenue and operating profit surged 257% and 557% year-over-year respectively, with H1 cumulative revenue crossing 100 trillion won for the first time in company history. As the leading supplier of HBM (High Bandwidth Memory) used in AI accelerators like NVIDIA GPUs, SK hynix's extraordinary earnings serve as a key proxy for sustained AI infrastructure spending. The results confirm that the AI-driven memory supercycle remains robust and continue to reshape the semiconductor industry's competitive landscape. Operating margin reached an extraordinary 76% and net margin hit 118%, indicating that high-performance AI server memory products led significant price increases. SK hynix has emerged as the dominant HBM supplier, recently displacing Samsung as the memory market leader and securing major commitments including HBM4 mass production for NVIDIA accelerators priced around $700 each.
-
-rss · TechPowerUp News · Jul 28, 23:20
-
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked SDRAM technology co-developed by Samsung, AMD, and SK Hynix, designed to deliver far greater data throughput than traditional DRAM for AI GPUs and accelerators. As large language models and generative AI workloads have exploded, demand for HBM has become a critical bottleneck, with NVIDIA's AI accelerators consuming massive quantities per chip. The HBM market is projected to reach $58 billion in 2026, and SK hynix has leveraged its early lead in HBM3 and now HBM4 to capture the largest share, recently signing multi-billion-dollar supply commitments with NVIDIA.
+**Background**: DRAM (Dynamic Random-Access Memory) is the main type of volatile memory used in PCs, servers, and consumer electronics. Module makers such as Apacer purchase DRAM chips from major manufacturers (Samsung, SK Hynix, Micron) and assemble them into branded memory products for retail and OEM channels. High Bandwidth Memory (HBM) is a specialized 3D-stacked DRAM architecture designed for AI accelerators and GPUs, offering much higher throughput than standard DDR memory. Because HBM uses the same fabrication facilities as conventional DRAM, increased HBM production physically diverts wafer capacity away from standard memory, creating supply tightness for downstream module builders.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://introl.com/blog/hbm-evolution-hbm3-hbm3e-hbm4-memory-ai-gpu-2025">HBM evolution: from HBM3 to HBM4 and the AI memory war</a></li>
-<li><a href="https://fourweekmba.com/ai-nvidia-sk-hynix-500b-memory-supply-deal/">Nvidia Locks In SK Hynix on a $500B Memory Deal That Reshapes ...</a></li>
+<li><a href="https://www.msn.com/en-gb/money/other/dram-chip-supply-to-memory-module-makers-could-drop-by-more-than-70-in-2027-says-apacer-ceo/ar-AA28YDsr">DRAM chip supply to memory module makers could drop by more...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#HBM`, `#AI-infrastructure`, `#memory-chips`, `#financial-results`
+**Tags**: `#DRAM`, `#memory`, `#supply-chain`, `#HBM`, `#AI-hardware`
+
+---
+
+<a id="item-4"></a>
+## [Intel Completes RAMP-C Defense Program, Validating 18A Foundry Capabilities](https://www.tomshardware.com/tech-industry/intel-closes-out-the-defense-program-that-paid-nvidia-and-others-to-run-test-chips-on-18a) ⭐️ 7.5/10
+
+Intel Foundry has officially closed out the RAMP-C (Trusted & Assured Microelectronics) program, a U.S. Department of War initiative launched in September 2021 that paid partners including Nvidia to run test chips on Intel's 18A process. The successful completion demonstrates that commercial companies and the defense industrial base can now design and fabricate trusted, leading-edge microelectronics on domestic soil. The completion of RAMP-C is strategically significant for U.S. semiconductor sovereignty, as it establishes Intel as the only domestic foundry capable of leading-edge production, reducing reliance on foreign fabs like TSMC for defense-grade chips. It also serves as a critical proof point for Intel's foundry business, demonstrating that 18A can attract and serve high-profile customers like Nvidia — a key vote of confidence as Intel competes for external foundry customers. Intel's 18A is a 1.8nm-class process node that uses RibbonFET gate-all-around transistors and PowerVia backside power delivery. Eric Makara, Program Manager for Microelectronics at OUSW(R&E), confirmed the program achieved its goal of building state-of-the-art domestic semiconductor technology and design enablement infrastructure. Intel's next-gen 14A node is already slated to enter high-volume production in 2028, with risk production moving up to 2027.
+
+rss · Tom's Hardware · Jul 29, 09:30
+
+**Background**: RAMP-C (Rapid Assured Microelectronics Prototypes - Commercial) was a U.S. Department of Defense program designed to ensure that cutting-edge chips for military applications could be manufactured domestically rather than relying on overseas fabs, particularly TSMC in Taiwan. The program funded chip designers and commercial companies to prototype designs on Intel's most advanced process node, 18A, which is roughly comparable to TSMC's 2nm-class technology. With global semiconductor supply chain security becoming a major geopolitical concern, especially after recent chip export restrictions, establishing a trusted domestic foundry has become a national priority for the United States.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://newsroom.intel.com/intel-foundry/intel-completes-ramp-c-program-accelerating-momentum-for-secure-enclave">Intel Completes RAMP-C Program, Accelerating Momentum for Secure Enclave - Intel Newsroom</a></li>
+<li><a href="https://wccftech.com/intel-emerges-as-americas-only-leading-edge-chipmaker-as-ramp-c-hands-domestic-18a-production/">Intel Emerges as America's Only Leading-Edge Chipmaker as RAMP-C Hands the Department of War Domestic 18A Production</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#semiconductors`, `#18A`, `#RAMP-C`, `#chip-manufacturing`
+
+---
+
+<a id="item-5"></a>
+## [Mystery Reviewer Benchmarks Nvidia N1X Surface Laptop Ultra Prototype](https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible) ⭐️ 7.5/10
+
+TechPowerUp reader Fouquin 'accidentally' discovered a Microsoft Surface Laptop Ultra prototype (EV1.5) equipped with Nvidia's RTX Spark N1X ARM-based SoC and has been benchmarking it for roughly a month, revealing the most detailed early performance data yet for Nvidia's upcoming laptop platform. Nvidia's entry into the PC laptop SoC market with an ARM-based chip carrying a Blackwell GPU and 6,144 CUDA cores would be a major industry disruption, directly challenging Qualcomm's Snapdragon X series and Intel/AMD's x86 dominance in the Windows laptop space. Success would signal Nvidia's ambition to extend its GPU and AI expertise from discrete cards and data centers into the consumer laptop mainstream. The N1X prototype pairs a 20-core ARM CPU (10x Cortex-X925 + 10x Cortex-A725) with a Blackwell GPU containing 48 SMs / 6,144 CUDA cores, supports up to 64GB of memory, and targets a power envelope of 18W–45W. As an EV1.5 engineering sample, it still exhibits prototype imperfections including thermal throttling and driver/software immaturity on Windows-on-ARM.
+
+rss · Tom's Hardware · Jul 28, 16:03
+
+**Background**: The Nvidia N1X is rumored to be Nvidia's first ARM-based PC laptop SoC, branded under 'RTX Spark' and aimed at the growing 'AI laptop' category. Microsoft Surface Laptop Ultra is expected to be a premium-tier successor to existing Surface Laptop models, positioned to compete with Qualcomm Snapdragon X Elite-powered devices and Apple Silicon-based MacBooks. Since Apple launched its M-series chips and Qualcomm introduced the Snapdragon X Elite, ARM-based laptop SoCs have gained significant traction, making Windows-on-ARM a more credible platform for AI-accelerated computing.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible">Mystery reviewer 'finds' Nvidia RTX Spark prototype laptop and puts...</a></li>
+<li><a href="https://au.pcmag.com/laptops/119034/did-this-guy-find-a-surface-laptop-ultra-prototype-on-the-side-of-the-road-maybe-here-are-some-bench">Did This Guy Find a Surface Laptop Ultra Prototype on the Side of the...</a></li>
+<li><a href="https://www.guru3d.com/story/nvidia-rtx-spark-prototype-exposes-n1x-performance-and-thermal-limits/">NVIDIA RTX Spark Prototype Exposes N1X Performance and...</a></li>
+<li><a href="https://exceldisc.com/blog/nvidia-n1x-n1-laptop-chip-specifications">NVIDIA N 1 X & N 1 Laptop Chip Specifications</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is a mix of excitement and skepticism. Enthusiasts are intrigued by Nvidia's potential disruption of the laptop SoC market, especially given the Blackwell GPU integration, but many question the plausibility of an 'accidental' prototype discovery and warn that early benchmarks on engineering samples often overstate final retail performance. Concerns about ARM-on-Windows software optimization and driver maturity are recurring themes.
+
+**Tags**: `#Nvidia`, `#N1X`, `#Microsoft Surface`, `#ARM laptops`, `#hardware leak`
+
+---
+
+<a id="item-6"></a>
+## [Research shows long policy documents fail to reliably govern LLM agents](https://arxiv.org/abs/2607.25398) ⭐️ 7.0/10
+
+A research paper titled 'Handbook.md' presents empirical evidence that long policy documents—such as system prompts and instruction files—do not reliably govern LLM agent behavior. The finding is corroborated by community practitioners who report similar issues, particularly with Claude models ignoring instructions stored in CLAUDE.md files during extended tasks. This finding challenges a widespread practice in LLM agent development where developers rely on lengthy instruction files to constrain agent behavior and enforce policies. It has significant implications for AI safety, agent reliability, and the design of governance mechanisms for autonomous AI systems across the industry. Community discussion identifies several underlying technical causes including aggressive model quantization, KV cache limitations, and attention degradation over long contexts. Practitioners note that instructions are more reliably followed when delivered during a task rather than embedded upfront in static policy files, suggesting dynamic reminders outperform upfront documentation.
+
+hackernews · spIrr · Jul 29, 13:01 · [Discussion](https://news.ycombinator.com/item?id=49096969)
+
+**Background**: LLM agents are AI systems that use large language models to perform autonomous tasks, often guided by system prompts or instruction files (like CLAUDE.md for Claude) that define rules, constraints, and behavioral policies across conversations. These instruction files function as the agent's governing policy document. Modern LLMs advertise large context windows—sometimes up to 1M tokens—but the practical reliability of attending to and faithfully following instructions distributed throughout long contexts has increasingly been questioned by practitioners who observe instruction-following degrading as sessions grow.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://airbyte.com/agentic-data/what-is-llm-agent">LLM Agents : Architecture, Use Cases, Data Needs</a></li>
+<li><a href="https://promptengineering.org/system-prompts-in-large-language-models/">System Prompts in Large Language Models</a></li>
+<li><a href="https://blog.masterailabs.com/what-is-an-ai-agent-and-how-is-it-different-from-a-chatbot-2/">What Is an AI Agent and How Is It Different From a Chatbot ?</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment strongly corroborates the paper's findings, with practitioners sharing direct real-world experiences. Users confirm that Claude models follow CLAUDE.md instructions well initially but bypass them surprisingly quickly during real tasks, while instructions given mid-task are followed far more reliably. Technical commenters attribute failures to quantization artifacts, KV cache issues, and attention degradation; others draw parallels to human working-memory limits when processing lengthy policy documents.
+
+**Tags**: `#LLM-agents`, `#prompt-engineering`, `#context-window`, `#AI-reliability`, `#research-findings`
+
+---
+
+<a id="item-7"></a>
+## [Codex Security](https://github.com/openai/codex-security) ⭐️ 7.0/10
+
+OpenAI open-sources Codex Security, an AI-powered CLI for scanning code repositories for security vulnerabilities, though early user feedback highlights long scan times and resource consumption issues.
+
+hackernews · bakigul · Jul 28, 20:52 · [Discussion](https://news.ycombinator.com/item?id=49089755)
+
+**Tags**: `#openai`, `#codex`, `#security-scanning`, `#ai-tools`, `#devsecops`
+
+---
+
+<a id="item-8"></a>
+## [Photonics Moves Inward: From Co-Packaged Optics to Nanolasers](https://www.eetimes.com/from-co-packaged-optics-to-nanolasers-photonics-moves-inward/) ⭐️ 7.0/10
+
+CEA-Leti, Scintil Photonics, and NcodiN are showcasing advances in optical interconnects, pushing the technology from data center rack-level links toward co-packaged optics and chiplet-level photonic communication, with nanolasers enabling on-chip light sources. As AI workloads drive exponential growth in data center bandwidth, electrical interconnects are becoming a bottleneck. Moving optics closer to the silicon—into the package and onto the chip itself—dramatically reduces trace lengths, lowers power consumption, and enables the next generation of high-performance computing architectures. Co-packaged optics (CPO) integrates photonic engines, modulators, and photodetectors directly within the same semiconductor package as the switch ASIC or processor, replacing traditional pluggable modules like OSFP or QSFP. Nanolasers grown directly on silicon using CMOS-compatible processes are key enablers, as their nanoscale dimensions allow efficient on-chip light emission for silicon photonics.
+
+rss · EE Times · Jul 29, 08:02
+
+**Background**: Traditional data centers rely on pluggable optical transceiver modules (like OSFP or QSFP) that sit on the front panel of switches. As data rates increase to 800G, 1.6T and beyond, the electrical traces between the switch ASIC and these pluggable modules become a limiting factor for both bandwidth and energy efficiency. Co-packaged optics solves this by bringing the optical engine directly into the switch package. Photonic chiplets extend this concept further by making the optical interface itself a reusable chiplet that can be integrated alongside compute or memory chiplets in a 2.5D or 3D package. Nanolasers—lasers with nanoscale cavity dimensions—offer a path to fully on-chip light generation, eliminating the need for external laser sources.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.leviathansystems.co/glossary/co-packaged-optics">What Is Co - Packaged Optics ? | Leviathan Systems</a></li>
+<li><a href="https://dataintelo.com/report/co-packagedoptics-market">Co - Packaged Optics Market Research Report 2034</a></li>
+<li><a href="https://vcresearch.berkeley.edu/news/engineers-grow-nanolasers-silicon-pave-way-chip-photonics">Engineers grow nanolasers on silicon , pave way for on-chip photonics</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#photonics`, `#co-packaged-optics`, `#chiplets`, `#semiconductors`, `#optical-interconnects`
+
+---
+
+<a id="item-9"></a>
+## [TSMC Fab 20 Hits 20,000 Wafers Per Month on 2nm Process](https://www.electronicsweekly.com/news/business/tsmc-fab-20-running-20k-2nm-wpm-2026-07/) ⭐️ 7.0/10
+
+TSMC's Fab 20 facility in Taiwan has reached a production milestone of 20,000 wafers per month (wpm) on the company's 2nm process node, according to Taiwan's Economic Daily News. The foundry has a total of five 2nm fabs planned across Taiwan. This milestone signals that TSMC is rapidly ramping up leading-edge 2nm production capacity, which is critical for next-generation AI accelerators, advanced mobile processors, and high-performance computing chips. The scale of TSMC's 2nm deployment reinforces its technological lead over competitors like Samsung and Intel at the most advanced nodes. TSMC is implementing Gate-All-Around (GAA) transistor architecture for the first time at the 2nm node, a shift from the FinFET design used at 3nm. The term '2nm' is a marketing designation rather than a literal measurement of any physical feature on the chip, analogous to Intel's alternative '20 angstrom' label for the same generation.
+
+rss · Electronics Weekly · Jul 29, 05:38
+
+**Background**: In semiconductor manufacturing, the nanometer (nm) designation refers to a generation of process technology rather than any specific physical dimension. Each successive node typically delivers improvements in transistor density, power efficiency, and performance. Wafers per month (wpm) is a standard capacity metric; the global semiconductor industry produced around 30 million wafers per month across all nodes as of 2024. TSMC's 2nm (N2) process is the successor to its 3nm (N3) family and represents one of the most advanced commercially available manufacturing technologies in the world.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://wccftech.com/tsmc-2nm-production-demand-surge/">TSMC ’s 2nm Production Is In Full Swing, One Plant Has Already...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
+<li><a href="https://www.edn.com/the-2-nm-process-node-and-samsungs-foundry-crossroads/">The 2 - nm process node and Samsung’s foundry crossroads - EDN</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#TSMC`, `#2nm`, `#manufacturing`, `#foundry`
+
+---
+
+<a id="item-10"></a>
+## [Kioxia Announces UFS 5.0 Embedded Flash Memory Devices](https://www.techpowerup.com/351183/kioxia-announces-ufs-5-0-embedded-flash-memory-devices) ⭐️ 6.5/10
+
+Kioxia announced its UFS 5.0 embedded flash memory solutions built on the latest JEDEC UFS 5.0 standard, offering 1 TB and 512 GB capacities as commercial samples and targeting approximately 10.8 GB/s of effective dual-lane read/write performance. The devices will be demonstrated at FMS (the Future of Memory and Storage) next week, with mass production expected to begin by the end of 2026. As large language models, multimodal AI, and real-time inference increasingly run on-device, storage bandwidth has become a bottleneck for mobile and edge AI workloads. Kioxia's UFS 5.0 nearly doubles throughput over UFS 4.1, helping remove the storage-side constraint that has limited how quickly AI models can access data on smartphones and edge devices. The devices leverage the MIPI M-PHY v6.0 physical layer and UniPro v3.0 protocol with HS-Gear6 operation, supporting theoretical interface speeds of up to 46.6 Gb/s per lane. The ~10.8 GB/s figure represents effective dual-lane performance with driver-level optimizations and write booster enabled, according to Kioxia's own benchmarking.
+
+rss · TechPowerUp News · Jul 29, 08:39
+
+**Background**: Universal Flash Storage (UFS) is the JEDEC-standard embedded memory specification widely used in smartphones, tablets, and other mobile-influenced devices. UFS 3.0 enabled sequential reads around 2100 MB/s, while UFS 5.0 represents the next major leap, roughly doubling speeds over the current UFS 4.1 standard. Under the hood, UFS uses the MIPI Alliance's UniPro protocol stack for transport and the MIPI M-PHY specification as its physical layer interface, both of which have been upgraded (to v3.0 and v6.0 respectively) for the UFS 5.0 generation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.kioxia.com/content/dam/kioxia/shared/business/memory/ufs/asset/KIOXIA_UFS5_Infographic.pdf">KIOXIA UFS 5 . 0 Infographic</a></li>
+<li><a href="https://androidmagazine.eu/2025/10/08/ufs-5-0-prinasi-dvojnasobnou-rychlost-uloziste/">Přichází UFS 5 . 0 . Přinese dramatický nárůst rychlosti a dává šanci...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UniPro">UniPro - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#flash-memory`, `#ufs-5.0`, `#mobile-hardware`, `#edge-ai`, `#storage`
 
 ---
 
 <a id="item-11"></a>
-## [One Year Into the AI RAM Apocalypse: DIY Memory Costs and Outlook](https://www.tomshardware.com/pc-components/ram/one-year-into-the-ai-induced-ram-apocalypse-how-much-does-memory-actually-cost-and-is-there-hope-for-a-more-affordable-future) ⭐️ 6.5/10
+## [SK hynix Posts Record 2Q26 Earnings on AI Memory Demand](https://www.techpowerup.com/351172/sk-hynix-announces-2q26-financial-results) ⭐️ 6.5/10
 
-Tom's Hardware published a one-year retrospective examining the state of DIY RAM pricing amid AI-driven demand. The piece reviews how consumer memory costs have evolved over the past 12 months and assesses prospects for more affordable memory going forward. RAM pricing directly affects PC builders, gamers, and mainstream consumers purchasing memory upgrades. The AI industry's enormous appetite for memory — particularly high-bandwidth memory (HBM) used in AI accelerators — has reshaped supply allocation and pricing across the entire memory market, producing spillover effects on consumer DDR4 and DDR5 products. The article frames the situation as an 'apocalypse' for DIY RAM buyers, underscoring the severity of price inflation over the past year. Readers can expect coverage of current per-module pricing, comparisons to pre-AI-surge baselines, and discussion of supply-side factors influencing affordability.
+SK hynix reported record-breaking 2Q26 financial results with 79.3 trillion won in revenue and 60.5 trillion won in operating profit (76% operating margin), driven by strong demand for AI server memory products. Revenue grew 257% year-over-year and operating profit surged 557%, while cumulative first-half revenue crossed 100 trillion won for the first time in the company's history. These results serve as a major macro indicator for the AI infrastructure boom, confirming that High Bandwidth Memory (HBM) supply constraints and pricing power are translating into extraordinary profitability for leading memory manufacturers. SK hynix, as a primary HBM supplier to AI accelerator vendors like NVIDIA, is a bellwether for the entire AI hardware supply chain and the sustainability of the current AI investment cycle. The 76% operating margin and 118% net margin (net profit of 93.9 trillion won exceeding operating profit) are notable financial metrics, with the unusually high net margin likely reflecting non-operating gains. The company surpassed its own previous quarterly record set in 1Q26, indicating that the HBM-driven pricing tailwind continued to strengthen rather than plateau.
 
-rss · Tom's Hardware · Jul 28, 14:24
+rss · TechPowerUp News · Jul 28, 23:20
 
-**Background**: The term 'RAM apocalypse' refers to the surge in memory prices driven primarily by hyperscaler and AI accelerator demand for DRAM and especially HBM. Major memory manufacturers such as Samsung, SK hynix, and Micron have prioritized high-margin HBM production for AI chips used in data center GPUs, reducing the wafer capacity allocated to consumer DDR4 and DDR5 modules. As a result, DIY PC builders, system integrators, and laptop upgraders have faced significantly higher prices and intermittent stock shortages for standard memory. A one-year retrospective helps quantify how persistent this supply crunch has become and whether new fab capacity or shifting demand could ease prices.
+**Background**: High Bandwidth Memory (HBM) is a type of 3D-stacked DRAM that provides significantly wider data paths (1024 bits per stack in HBM3) compared to traditional memory, making it essential for AI accelerators and GPUs used in training large language models. SK hynix is one of three primary HBM producers globally, alongside Samsung and Micron, and has been a key supplier to NVIDIA's AI GPUs. The explosive growth in AI infrastructure spending since 2023 has created sustained demand for HBM, allowing memory makers to command premium prices while traditional DRAM markets also benefited from the supply allocation toward AI products.
 
-**Tags**: `#RAM`, `#hardware`, `#AI-infrastructure`, `#market-analysis`, `#PC-building`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://www.wevolver.com/article/what-is-hbm-high-bandwidth-memory-deep-dive-into-architecture-packaging-and-applications">What is HBM ( High Bandwidth Memory )? Deep Dive into...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#HBM`, `#AI infrastructure`, `#SK hynix`, `#financial results`
 
 ---
 
 <a id="item-12"></a>
-## [DDR4 vs DDR5 Gaming Gap Re-tested on Intel LGA 1700 in 2026](https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games) ⭐️ 6.5/10
+## [GOG Galaxy Confirmed as Native Linux Application in Development](https://www.techpowerup.com/351154/gog-galaxy-is-coming-to-linux-as-a-native-application) ⭐️ 6.5/10
 
-Tom's Hardware re-tested Intel's LGA 1700 CPU lineup (Alder Lake through Raptor Lake) with both DDR4 and DDR5 memory using a modern 2026 15-game benchmark suite, finding that DDR4 systems suffered an average performance drop of 14% compared to DDR5, with some games losing up to 25% of their performance. This re-examination is highly relevant for budget-conscious consumers amid the current unprecedented surge in DDR5 memory prices, as it quantifies exactly what performance they sacrifice by sticking with cheaper DDR4 on an LGA 1700 platform. The data helps buyers make informed decisions about whether saving money on memory is worth the gaming performance trade-off. The testing used 15 modern games as benchmarks, and the 14% average / 25% peak gap suggests the DDR4 performance penalty has actually widened compared to earlier comparisons, likely due to newer games being more memory-bandwidth-intensive. The LGA 1700 socket was notable for being Intel's last generation to support both DDR4 and DDR5, depending on the motherboard used.
+GOG has confirmed that its GOG Galaxy launcher is officially being developed as a native Linux application. Co-CEO Krzysztof Papliński stated that Linux support is a company priority, and GOG has hired a dedicated specialist to lead the project, though no release timeline has been announced. This is a significant signal from GOG (a CD Projekt subsidiary) that it is investing first-party engineering resources into the Linux gaming ecosystem, which has grown rapidly thanks to the Steam Deck. A native port would offer better stability, performance, and integration compared to existing compatibility workarounds, potentially making GOG's store and game library more accessible to Linux gamers. GOG has not released any timeline because porting the full GOG Galaxy storefront with all its features while maintaining stability requires significant engineering effort. In the meantime, Linux users can already run the Windows version of GOG Galaxy through Lutris, Heroic Games Launcher, or Valve's Proton compatibility layer.
 
-rss · Tom's Hardware · Jul 28, 10:32
+rss · TechPowerUp News · Jul 28, 16:49
 
-**Background**: Intel's LGA 1700 socket debuted in late 2021 with 12th Gen Alder Lake processors and supported through 14th Gen Raptor Lake. It was unique in Intel's lineup because motherboard manufacturers offered both DDR4 and DDR5 variants, giving consumers a choice. DDR5 is the newer memory standard offering higher bandwidth and frequencies, but it has historically commanded a significant price premium. In mid-2026, an unprecedented memory price surge has made DDR5 particularly expensive, prompting many builders to reconsider whether DDR4 on older platforms remains a viable budget option.
+**Background**: GOG Galaxy is a DRM-free game launcher and store frontend operated by GOG, a subsidiary of CD Projekt (the studio behind The Witcher and Cyberpunk 2077). Linux gaming has grown substantially in recent years, largely driven by Valve's Steam Deck handheld console and the Proton compatibility layer, which allows Windows games to run on Linux. Open-source tools like Lutris and Heroic Games Launcher have also helped Linux users access stores like GOG, Epic, and Amazon, but a native application from GOG itself would represent official first-party support for the platform.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games">Re-examining the DDR 4 gaming gap with... | Tom's Hardware</a></li>
-<li><a href="https://www.techreviewer.com/tech-answers/lga-1700-cpus/">LGA 1700 CPU List - Which Intel CPUs Use the LGA 1700 Socket?</a></li>
-<li><a href="https://eatcreatesleep.net/best-budget-gaming-cpus/">10 Best Budget Gaming CPUs (July 2026) Expert Reviews</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proton_(software)">Proton (software) - Wikipedia</a></li>
+<li><a href="https://lutris.net/">Lutris - Open Gaming Platform</a></li>
+<li><a href="https://heroicgameslauncher.com/">Heroic Games Launcher — Free Epic, GOG & Amazon Games ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DDR4`, `#DDR5`, `#Intel-LGA1700`, `#gaming-performance`, `#memory-prices`
+**Tags**: `#linux`, `#gaming`, `#gog-galaxy`, `#native-port`, `#cd-projekt`
 
 ---
 
 <a id="item-13"></a>
-## [AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material) ⭐️ 6.5/10
+## [Tom's Hardware Benchmarks Laptops on Battery vs. AC Power](https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd) ⭐️ 6.5/10
 
-AI companies are reportedly buying physical books through intermediaries to train LLMs and then shredding them to cover their tracks.
+Tom's Hardware tested laptops powered by processors from Intel, AMD, Qualcomm, and Apple to measure and compare performance differences when running on battery versus AC power. This comparison provides empirical data that helps laptop buyers understand real-world performance trade-offs across all major processor architectures, including the newly relevant ARM-based Snapdragon X platform challenging traditional x86 dominance. The test covers four distinct processor ecosystems: Intel and AMD's traditional x86 chips, Apple's custom ARM-based Silicon, and Qualcomm's Snapdragon X Elite designed for Windows on ARM, each potentially handling power-state transitions differently.
 
-rss · Tom's Hardware · Jul 28, 10:30
+rss · Tom's Hardware · Jul 29, 13:07
 
-**Tags**: `#AI ethics`, `#training data`, `#copyright`, `#LLM`, `#industry practices`
+**Background**: Modern laptop CPUs dynamically adjust clock speeds based on power source and thermal limits, meaning a processor may perform noticeably slower on battery than when plugged in. Apple Silicon refers to Apple's custom ARM-based chips that replaced Intel processors in Mac computers starting in late 2020. Qualcomm's Snapdragon X Elite is an ARM-based processor launched for Windows laptops, aiming to compete with x86 chips while offering improved efficiency and AI processing capabilities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://deepwiki.com/mikeroyal/Apple-Silicon-Guide">mikeroyal/ Apple - Silicon -Guide | DeepWiki</a></li>
+<li><a href="https://www.qualcomm.com/laptops/products/snapdragon-x-elite">Snapdragon X Elite | Best Laptop Performance | Snapdragon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_systems_on_chips">List of Qualcomm Snapdragon systems on chips - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#laptops`, `#benchmarking`, `#battery-life`, `#apple-silicon`, `#snapdragon-x`, `#hardware-comparison`
 
 ---
 
 <a id="item-14"></a>
-## [China's AI Short Drama Market Surpasses 22 Billion Yuan in H1 2025](https://36kr.com/newsflashes/3916018332970372?f=rss) ⭐️ 6.3/10
+## [Intel Nova Lake iGPU May Require 65W Dedicated Power Delivery](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-nova-lake-desktop-sku-to-require-65w-of-separate-power-delivery-for-its-igpu-leaker-claims-beefy-integrated-graphics-could-require-two-vccgt-phases-for-12-xe3p-cores) ⭐️ 6.5/10
 
-According to DataEye, China's AI short drama market exceeded 22 billion yuan in the January-May 2025 period, with projections to reach 40 billion yuan for the full year, while domestic AI short drama users surpassed 600 million in the first half of 2025. The report indicates that AI is fundamentally reshaping the production logic and commercial boundaries of short-form video content across the entire ecosystem. This represents a massive commercial validation of generative AI in video content production, demonstrating that AI-generated dramas have moved from experimental niches to mainstream scale in China within months. The trend is reshaping the value chain for traditional film and TV production companies, short drama platforms, AI technology providers, and content creators, with significant implications for global content production economics. The market data covers both revenue (22B+ yuan in January-May 2025) and user scale (600M+ in H1 2025), indicating that growth is occurring simultaneously on the supply and demand sides. DataEye, the data provider, is a Shenzhen-based digital content marketing and analytics firm originally spun off from Tencent Games alumni, with current coverage spanning gaming, micro-short dramas, and AI industries.
+According to leaker Jaykihn on X, Intel's upcoming 16-core Nova Lake desktop APU with 12 Xe3P iGPU cores will reportedly require 65W of dedicated power delivery, necessitating two separate VCCGT phases on the motherboard VRM since a single phase cannot sustain that load. This signals Intel is significantly scaling up integrated graphics performance on its desktop processors, blurring the line between APUs and traditional CPUs with discrete GPUs, which has major implications for motherboard VRM design and mainstream gaming without a dedicated graphics card. The SKU includes 4 P-cores, 8 E-cores, and 4 LPE-cores alongside the 12 Xe3P GPU cores. Normally VCCGT is a single-phase power rail for integrated graphics, but Intel will need dual-phase design to deliver the 65W iGPU power budget on compatible motherboards.
 
-rss · 36氪 · Jul 29, 00:59
+rss · Tom's Hardware · Jul 29, 11:01
 
-**Background**: AI short dramas (AI短剧) are short-form serialized video works where key elements—such as scripts, visuals, and even on-screen performers—are generated or assisted by artificial intelligence, including large language models for scripting, video generation models for visuals, and digital human avatars for acting. China pioneered the micro-short drama (微短剧) format, a mobile-first, vertically-oriented, episodic video genre that exploded domestically around 2023, often monetized via pay-per-episode microtransactions. Major Chinese tech firms including ByteDance have invested heavily in AI video generation capabilities specifically tailored to power this emerging content ecosystem.
+**Background**: Nova Lake is Intel's next-generation desktop CPU architecture expected in Q1 2027, built on the Intel 18A process and using a new LGA1954 socket. Xe3P refers to Intel's third-generation Xe graphics architecture for integrated GPUs. VCCGT is the voltage rail on the motherboard's VRM (Voltage Regulator Module) that specifically powers the integrated graphics portion of a processor, distinct from VCCCore which powers the CPU cores. The power requirement of 65W just for integrated graphics rivals or exceeds the entire TDP of many mid-range desktop CPUs, indicating Intel is targeting significantly stronger gaming and compute performance from its on-die GPU.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://baike.baidu.com/en/item/AI+Short+Drama/1515540">AI Short Drama_Baiduwiki - 百度百科</a></li>
-<li><a href="https://baike.baidu.com/en/item/DataEye/75851">DataEye（a big data company specializing in global digital ...</a></li>
-<li><a href="https://news.skrew.ai/chinese-short-dramas-ai-content-machines/">Chinese Short Dramas Become AI Video Content Factories</a></li>
+<li><a href="https://www.techpowerup.com/351160/intel-nova-lake-s-12-xe3p-igpu-to-draw-up-to-65-watts">Intel "Nova Lake-S" 12 Xe3P iGPU to Draw Up to 65... | TechPowerUp</a></li>
+<li><a href="https://wccftech.com/intel-nova-lake-s-apu-with-12-xe3p-cores-will-reportedly-require-65w-for-full-performance/">Intel Nova Lake-S APU With 12 Xe 3 P Cores Will Reportedly Require...</a></li>
+<li><a href="https://www.gigabyte.com/Motherboard/B760-GAMING-X-DDR4-GEN5">B760 GAMING X DDR4 GEN5 Motherboard - GIGABYTE Global</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#content-generation`, `#short-drama`, `#market-analysis`, `#China-tech`
+**Tags**: `#Intel`, `#Nova Lake`, `#iGPU`, `#hardware leak`, `#PC components`
 
 ---
 
 <a id="item-15"></a>
-## [HarmonyOS 7 Lowers Developer Entry Barrier with Minimal-Code Cross-Device Integration](https://sspai.com/post/112822) ⭐️ 6.3/10
+## [State of play: SSD pricing one year into the AI component crisis  — 220% price increases are crippling the DIY market](https://www.tomshardware.com/pc-components/ssds/state-of-play-ssd-pricing-one-year-into-the-ai-component-crisis-220-percent-price-increases-are-crippling-the-diy-market) ⭐️ 6.5/10
 
-HarmonyOS 7 streamlines cross-device interactions so developers can enable features like tap-to-transfer between phone and computer with only a few lines of code. The example cited by the Sspai team shows photo sharing shrinking from a five-step process to a single tap, demonstrating the new low-friction integration model. By drastically reducing the code required for distributed capabilities, Huawei is attempting to expand its HarmonyOS ecosystem beyond first-party apps and attract third-party developers who previously faced steep integration costs. If successful, this approach could accelerate the adoption of the 1+8+N device strategy and differentiate HarmonyOS from Android and iOS in the multi-device experience. The cross-device capability shown in the article is built on HarmonyOS's distributed virtual bus and Service Collaboration Kit (SCK), which abstract away low-level communication so that developers only invoke high-level intents. Search results also indicate HarmonyOS 7 ships with an Android 16-level kernel base via the DroiTong compatibility container, a new spatial design with 'liquid glass' styling, and Celia promoted to a system-wide intelligent hub.
+Analysis of SSD market one year into the AI-driven component crisis reveals 220% price increases severely impacting the DIY PC building market.
 
-rss · 少数派 · Jul 28, 08:40
+rss · Tom's Hardware · Jul 29, 10:52
 
-**Background**: HarmonyOS is Huawei's self-developed distributed operating system, first released in 2019, built around a microkernel architecture with under one million lines of kernel code. Its core concept, the '1+8+N' strategy, envisions seamless interaction across smartphones, eight categories of surrounding devices, and a wider range of IoT products. Atomic Services and the SCK are key frameworks that allow app capabilities to be invoked across devices without requiring developers to manage the underlying distributed infrastructure themselves.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/HarmonyOS">HarmonyOS - Wikipedia</a></li>
-<li><a href="https://www.digitaltvnews.net/?p=33382">Huawei launches HarmonyOS distributed operating... | Digital TV News</a></li>
-<li><a href="https://dev.to/moyantianwang/comprehensive-guide-to-developing-harmonyos-atomic-services-practical-implementation-3p2c">Comprehensive Guide to Developing HarmonyOS Atomic Services ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#HarmonyOS`, `#Huawei`, `#Developer Ecosystem`, `#Cross-Device`, `#Mobile OS`
+**Tags**: `#SSD`, `#hardware-pricing`, `#AI-industry-impact`, `#PC-building`, `#market-analysis`
 
 ---
 
 <a id="item-16"></a>
-## [索尼抛弃实体游戏光盘，谁成为了转型代价？](https://sspai.com/post/112774) ⭐️ 6.3/10
+## [氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿](https://36kr.com/p/3916547493965442?f=rss) ⭐️ 6.3/10
 
-Analysis of Sony's transition away from physical game discs and the stakeholders bearing the cost of this industry transformation.
+Daily tech roundup highlighting Kimi's $3.5B+ Series F at $35B valuation, Midea's European AC demand surge, New Oriental's strong quarterly results, UMC's new Tainan fab for AI, and Alibaba's Lingyang deploying AI agent 'employees'.
 
-rss · 少数派 · Jul 28, 03:02
+rss · 36氪 · Jul 29, 11:04
 
-**Tags**: `#gaming-industry`, `#sony`, `#digital-distribution`, `#business-strategy`, `#console-gaming`
+**Tags**: `#AI funding`, `#Chinese tech`, `#Kimi`, `#semiconductors`, `#business news`
 
 ---
 
 <a id="item-17"></a>
-## [加拿大议员在议会演讲期间阅读了 AI 的回应](https://www.solidot.org/story?sid=84946) ⭐️ 6.3/10
+## [HuaChen ChipLight Raises Over 100M RMB to Advance Domestic High-End Laser Chips](https://36kr.com/p/3916108853521792?f=rss) ⭐️ 6.3/10
 
-News digest covering a Canadian MP unknowingly reading AI-generated text in parliament, a Chinese company reportedly beginning small-batch DUV lithography machine production for domestic chipmakers, and the Wikimedia Foundation's refusal to voluntarily recognize employee unionization.
+Chinese IDM laser chip company HuaChen ChipLight announced the completion of a new funding round exceeding 100 million RMB, led by Cowin Capital with participation from Zhangjiang Yaokun, Hongshan Capital, and existing shareholders. The company's core 1000mW 974nm/976nm GaAs pump laser chips have passed internal testing, with optical and reliability performance comparable to US products at approximately 50% of the manufacturing cost. This funding reflects China's broader push to break the foreign blockade on high-end photonic semiconductor components that are critical for AI data center infrastructure (DCI), long-haul and submarine optical networks, and emerging Co-Packaged Optics (CPO) architectures. If the company successfully achieves mass production at half the cost of foreign equivalents, it could reshape the competitive landscape of optical communication supply chains. The company employs an IDM (vertically integrated manufacturing) model that covers the entire chip value chain, and mass production of the pump laser chips is scheduled for H2 2026. HuaChen ChipLight is also developing ultra-high power InP CW laser chips targeting CPO applications, positioning itself to address import dependency across multiple high-end photonic segments.
 
-rss · Solidot · Jul 28, 15:13
+rss · 36氪 · Jul 29, 05:38
 
-**Tags**: `#semiconductors`, `#china-tech`, `#AI-policy`, `#labor-unions`, `#news-digest`
+**Background**: Pump laser chips at 974nm/976nm are critical components in Erbium-Doped Fiber Amplifiers (EDFAs), which amplify optical signals across long-haul backbone networks, metro networks, submarine cables, and AI data center interconnects. Co-Packaged Optics (CPO) is an emerging architecture that integrates optical engines directly with switch ASICs to boost bandwidth and energy efficiency in AI-scale data centers. The IDM model allows a chip company to control design, wafer fabrication, and packaging internally—an approach increasingly favored for specialized photonic devices where foundry ecosystems are less mature.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.optcore.net/ai-optical-interconnect-evolution-w6/">AI Optical Interconnect Evolution: CPO , Silicon Photonics, and Data ...</a></li>
+<li><a href="https://www.box-laser.com/974nm-976nm-pump-laser-module.html">974 nm 976 nm Pump Laser Module Manufacturers and Suppliers...</a></li>
+<li><a href="https://www.chetanpatil.in/the-semiconductor-vertical-integration-shift/">The Semiconductor Vertical Integration Shift - #chetanpatil - Chetan...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#photonics`, `#laser-chips`, `#AI-infrastructure`, `#funding-news`
 
 ---
 
 <a id="item-18"></a>
-## [AI Demand Pushes Japanese and Korean MLCC Suppliers to Record Monthly Shipments; Consumer-Grade Order Spillovers Continue to Surge, Says TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12779.html) ⭐️ 6.0/10
+## [Mind Lab pioneers Mixture-of-LoRA post-training for continual learning](https://36kr.com/p/3916202023660929?f=rss) ⭐️ 6.3/10
 
-AI-driven demand has pushed Murata, Samsung Electro-Mechanics, and Taiyo Yuden to record five-year monthly MLCC shipment highs in June 2026, with consumer-grade order spillovers continuing to surge.
+Chinese AI startup Mind Lab (Neo Lab), founded by serial entrepreneur Andrew Chen (陈锴杰) in October 2025, released and open-sourced its Macaron-V1 model on July 21, using a Mixture-of-LoRA (MoL) post-training approach that adds only ~4B trainable parameters on top of a frozen 744B base model (GLM-5.2) to handle Chat, Agent, Coding, and UI-generation tasks. The company claims 6 SOTAs out of 12 benchmarks, $10M ARR within two weeks of commercialization, and has cumulatively raised $60M, including a ~$50M Series A led by Meituan Strategic Investment. The approach positions MoL post-training as a parameter-efficient alternative to full fine-tuning for building models that continually adapt to user-specific scenarios, aligning with Richard Sutton's recent thesis on experience-driven AI and the moves of major labs like DeepSeek and Zhipu toward continual learning. If the benchmark claims hold, it could shift how the industry thinks about post-training infrastructure and personalized model adaptation, especially as post-training data volumes now exceed pre-training data in many projects. Mind Lab demonstrated trillion-parameter LoRA-RL training on Kimi K2 in December 2025 using only 64 H800 GPUs with ~10% of traditional GPU consumption, claiming it was the only team in China (and one of two globally, alongside Mira Murati's Thinking Machines Lab) capable of LoRA-RL at that scale. Their MinT infrastructure platform can reportedly manage over a million LoRA models with near 10x faster real-time adapter loading by transmitting only lightweight LoRA adapters.
 
-rss · DRAMeXchange (TrendForce) · Jul 28, 14:45
+rss · 36氪 · Jul 29, 04:10
 
-**Tags**: `#MLCC`, `#semiconductor-supply-chain`, `#AI-hardware`, `#market-research`, `#electronics-manufacturing`
+**Background**: LoRA (Low-Rank Adaptation) is a parameter-efficient fine-tuning technique that trains small low-rank weight matrices while keeping the original large model frozen, drastically reducing compute and memory costs. Mixture-of-LoRAs (MoL) extends this idea by composing multiple LoRA experts within a model so that different adapters can be dynamically selected per task, enabling modular multi-task or cross-domain specialization. Continual learning refers to training a model sequentially on new tasks or data while retaining previously learned capabilities—a long-standing challenge in machine learning that has gained renewed attention as practitioners seek ways to make LLMs adapt to individual users without expensive full retraining.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.emergentmind.com/topics/mixture-of-loras-mol">Mixture of LoRAs ( MoL ) Framework</a></li>
+<li><a href="https://twinailabs.com/en/glossary/lora">LoRA ( Low - Rank Adaptation ) Explained — Twin AI</a></li>
+<li><a href="https://www.lesswrong.com/posts/vQ6tirCJGEtQAEgNx/what-happens-when-llms-learn-new-things-and-continual">What happens when LLMs learn new things? & Continual learning ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#continual-learning`, `#mixture-of-loras`, `#post-training`, `#chinese-ai-startups`, `#macaron`
 
 ---
 
 <a id="item-19"></a>
-## [Vibe Coding in Safety-Critical Software: Promise, Pitfalls, and a Path Forward](https://www.eetimes.com/vibe-coding-in-safety-critical-software-promise-pitfalls-and-a-path-forward/) ⭐️ 6.0/10
+## [US Awards $874M CHIPS Act Funding to 7 Tech Firms for Semiconductor R&D](https://36kr.com/newsflashes/3916694245469826?f=rss) ⭐️ 6.3/10
 
-An industry perspective arguing that AI-driven vibe coding cannot operate without deterministic verification gates, human review, and formal proof in safety-critical software development.
+On July 29, the US Department of Commerce announced it has signed non-binding preliminary memoranda of terms (PMTs) with seven technology companies under the CHIPS and Science Act, allocating up to $874 million in federal incentives for semiconductor research and development, while also taking minority equity stakes in the recipient firms. This funding round targets next-generation semiconductor technologies beyond traditional logic chips—including integrated photonics, advanced packaging, and memory—where US competitiveness has lagged behind global rivals. The minority equity component represents an unusual government intervention that signals a more aggressive industrial policy stance on critical emerging technologies. The funding spans six technology areas: integrated photonics, computing architecture, advanced packaging, substrates, materials, and memory. Integrated photonics uses light (photons) instead of electrons for data transmission, promising higher bandwidth and lower power consumption, while advanced packaging techniques like 2.5D and 3D packaging are critical for chiplet-based designs and AI accelerators.
 
-rss · EE Times · Jul 28, 13:52
+rss · 36氪 · Jul 29, 12:27
 
-**Tags**: `#AI-coding`, `#safety-critical`, `#software-verification`, `#vibe-coding`, `#industry-analysis`
+**Background**: The CHIPS and Science Act was signed into law by President Biden on August 9, 2022, with bipartisan support. It earmarked $39 billion for semiconductor manufacturing incentives aimed at reversing decades of decline in US chip fabrication capacity and reducing dependence on Asian supply chains, particularly Taiwan. The Act combined direct manufacturing subsidies with broader investments in science, research, and workforce development. Integrated photonics and advanced packaging are considered critical for next-generation computing, including AI workloads, where traditional scaling of transistor density faces physical limits.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.britannica.com/money/CHIPS-And-Science-Act">CHIPS and Science Act | Background, Provisions... | Britannica Money</a></li>
+<li><a href="https://resources.pcb.cadence.com/blog/2023-semiconductor-chip-packaging">Semiconductor Chip Packaging | Advanced PCB Design... | Cadence</a></li>
+<li><a href="https://www.photondelta.com/">PhotonDelta – European Integrated Photonics Ecosystem</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#CHIPS-Act`, `#government-funding`, `#US-policy`, `#photonics`
 
 ---
 
 <a id="item-20"></a>
-## [Will Purging Chinese Tech Cost Europe Its Digital Future?](https://www.eetimes.com/will-purging-chinese-tech-cost-europe-its-digital-future/) ⭐️ 6.0/10
+## [腾讯混元开源AngelSpec](https://36kr.com/newsflashes/3916684374371721?f=rss) ⭐️ 6.3/10
 
-EE Times article examining whether the EU's removal of Chinese telecom equipment could cost up to $46 billion and impact Europe's digital future.
+Tencent Hunyuan team open-sources AngelSpec, a speculative decoding framework for drafter training, architecture design, and deployment, alongside Hy3-A21B MTP and DFly drafter weights.
 
-rss · EE Times · Jul 28, 08:19
+rss · 36氪 · Jul 29, 12:17
 
-**Tags**: `#EU-policy`, `#telecom`, `#geopolitics`, `#Huawei`, `#infrastructure`
+**Tags**: `#speculative-decoding`, `#llm-inference`, `#tencent-hunyuan`, `#open-source`, `#inference-optimization`
 
 ---
