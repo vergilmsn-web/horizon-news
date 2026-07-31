@@ -9,371 +9,403 @@ lang: en
 
 ---
 
-1. [Open-Source AMD RADV Vulkan Driver Ported from Linux to Windows](#item-1) ⭐️ 8.5/10
-2. [Stacked PRs are now live on GitHub](#item-2) ⭐️ 8.0/10
-3. [Google DeepMind Releases Gemini Robotics 2 with Whole-Body Intelligence](#item-3) ⭐️ 8.0/10
-4. [OpenAI Cuts GPT-5.6 Luna Price by 80% with Kernel Optimizations](#item-4) ⭐️ 8.0/10
-5. [Intel to license x86 Atom RTL code to Rosaic Labs](#item-5) ⭐️ 8.0/10
-6. [US FCC bans Chinese robots](#item-6) ⭐️ 8.0/10
-7. [Seagate Roadmap Targets 50 TB HAMR Hard Drives in 2027](#item-7) ⭐️ 7.5/10
-8. [(PR) Kioxia Introduces First PCIe 6.0 Enterprise SSDs Utilizing Newest BiCS FLASH Generation 10](#item-8) ⭐️ 7.5/10
-9. [Amazon Accidentally Burns $1.8M on Claude for Simple Coding Task](#item-9) ⭐️ 7.5/10
-10. [Exploring Apple Silicon’s local AI performance with the Mac Studio and M4 Max — M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything](#item-10) ⭐️ 7.5/10
-11. [AMD Launches Ryzen Embedded AI X100, Unveils Physical AI Stack](#item-11) ⭐️ 7.5/10
-12. [MiniMax H3正式发布](#item-12) ⭐️ 7.3/10
-13. [顶尖 AI 初创公司很少发表论文](#item-13) ⭐️ 7.3/10
-14. [Read this before you buy that TV streaming stick](#item-14) ⭐️ 7.0/10
-15. [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](#item-15) ⭐️ 7.0/10
-16. [Martin Fowler Analyzes Economics of AI-Assisted Refactoring](#item-16) ⭐️ 7.0/10
-17. [Qualcomm Acquires Modular's Open AI Software Stack](#item-17) ⭐️ 7.0/10
-18. [Indian Startup Vimag Labs Develops Rare-Earth-Free Wirelessly Excited EV Motor](#item-18) ⭐️ 7.0/10
-19. [Samsung Q2 Chip Profit Surges 250x to $62 Billion Amid 2027 Supply Shortage Outlook](#item-19) ⭐️ 7.0/10
-20. [GloFo gets $300m for  SiPho](#item-20) ⭐️ 7.0/10
+1. [Lumentum CEO Warns of Indium Phosphide Shortage Worse Than Memory Crisis](#item-1) ⭐️ 8.5/10
+2. [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](#item-2) ⭐️ 8.0/10
+3. [JEP 401 Value Objects Preview Merged to OpenJDK Master](#item-3) ⭐️ 8.0/10
+4. [Zoox Becomes First to Win Regulatory Approval for Driverless Robotaxi](#item-4) ⭐️ 8.0/10
+5. [Montage Technology Begins Trial Production of Industry-First CXL 3.2 MXC Chip](#item-5) ⭐️ 7.5/10
+6. [TSMC Develops EMIB-like Packaging to Rival Intel](#item-6) ⭐️ 7.5/10
+7. [Valve Funds RADV Vulkan Driver Port from Linux to Windows](#item-7) ⭐️ 7.5/10
+8. [Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget —'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics](#item-8) ⭐️ 7.5/10
+9. [AMD Launches Ryzen Embedded AI X100, Unveils Physical AI Strategy](#item-9) ⭐️ 7.5/10
+10. [最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”](#item-10) ⭐️ 7.3/10
+11. [EU AI Act Transparency Requirements Take Effect August 2](#item-11) ⭐️ 7.3/10
+12. [图灵奖得主朱迪亚·珀尔：大模型会讲因果，因为人类替它解释过世界，但无法通向AGI](#item-12) ⭐️ 7.3/10
+13. [Session Portability: The Hidden Lock-In of AI Coding Assistants](#item-13) ⭐️ 7.0/10
+14. [GitHub Launches Stacked Pull Requests in Public Preview](#item-14) ⭐️ 7.0/10
+15. [I flagged two research papers for fake authors and both were accepted as orals](#item-15) ⭐️ 7.0/10
+16. [TSMC CoWoS-S vs CoWoS-R: Key Differences Explained](#item-16) ⭐️ 7.0/10
+17. [Military AI Agents Face Rising Cyberthreats on the Battlefield](#item-17) ⭐️ 7.0/10
+18. [Apple Addresses Memory Shortage, Evaluates Chinese Suppliers YMTC and CXMT](#item-18) ⭐️ 6.5/10
+19. [(PR) Apple Reports Third Quarter Fiscal 2026 Results](#item-19) ⭐️ 6.5/10
+20. [Seagate Targets 50 TB HAMR Hard Drives for 2027 Validation](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Open-Source AMD RADV Vulkan Driver Ported from Linux to Windows](https://www.techpowerup.com/351212/devs-port-open-source-linux-amd-graphics-driver-to-windows) ⭐️ 8.5/10
+## [Lumentum CEO Warns of Indium Phosphide Shortage Worse Than Memory Crisis](https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory) ⭐️ 8.5/10
 
-Valve is funding Collabora to port the open-source AMD RADV Vulkan driver from the Mesa 3D graphics library on Linux to Windows, making it the first open-source GPU driver available on the Windows platform. Collabora has already successfully run Counter-Strike 2 on the ported driver, though several technical challenges remain unresolved. This is a historic milestone as Windows has never had an open-source driver for any GPU vendor, and it could disrupt the proprietary GPU driver ecosystem that has dominated Windows for decades. The move could improve transparency, accelerate debugging, and benefit Linux-based handheld gaming devices like the Steam Deck that also run Windows. RADV serves as an alternative to AMD's own open-source AMDVLK driver and the closed-source Radeon Software Vulkan driver, with the main architectural difference being the pipeline compiler used. The port is still in early stages with unresolved development challenges, and Valve has only sponsored the first phase of the project.
+Lumentum CEO Michael Hurlston warned at the RAISE Summit that indium phosphide (InP) is heading into a supply squeeze worse than the ongoing memory shortage, with current fab and material supply already running approximately 30% below customer demand. This warning is significant because indium phosphide is the critical material enabling co-packaged optics (CPO), a key technology for next-generation AI data center interconnects. A sustained supply bottleneck could constrain the buildout of AI infrastructure at a time when demand for high-bandwidth optical connectivity is skyrocketing, potentially slowing deployment timelines across the industry. Lumentum is a leading supplier of InP-based laser components used in silicon photonics transceivers. The 30% supply gap compares unfavorably to the widely discussed memory chip shortage, suggesting the photonic materials supply chain may be even less prepared to scale than the silicon supply chain.
 
-rss · TechPowerUp News · Jul 30, 04:39
+rss · Tom's Hardware · Jul 31, 12:45
 
-**Background**: Mesa is a long-standing open-source graphics library that began as an implementation of the OpenGL specification and has grown to support multiple graphics APIs including OpenGL ES, OpenCL, Vulkan, and VA-API. RADV is Mesa's open-source Vulkan driver for AMD Radeon GPUs and is the default Linux graphics driver on many AMD-powered Linux systems. Vulkan is a low-overhead cross-platform graphics and compute API designed to give developers more direct control over GPU hardware compared to older APIs like OpenGL.
+**Background**: Indium phosphide (InP) is a III-V compound semiconductor prized for its ability to efficiently generate, detect, and modulate light at the wavelengths used in fiber-optic communications, making it ideal for high-speed optical transceivers. Silicon photonics leverages silicon manufacturing techniques to build optical components on silicon wafers, enabling cheaper and more scalable integration of optics with electronics. Co-packaged optics (CPO) takes this a step further by placing photonic chiplets directly on the same substrate as switch ASICs, dramatically reducing electrical interconnect length, power consumption, and latency—capabilities increasingly critical as AI workloads drive unprecedented bandwidth demands inside data centers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.phoronix.com/search/RADV">RADV - Phoronix</a></li>
-<li><a href="https://deepwiki.com/mirror/mesa/3.2-amd-vulkan-driver-(radv)">AMD Vulkan Driver ( RADV ) | mirror/mesa | DeepWiki</a></li>
-<li><a href="https://mesa3d.org/">Home — The Mesa 3D Graphics Library</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Indium_phosphide">Indium phosphide - Wikipedia</a></li>
+<li><a href="https://www.corning.com/optical-communications/worldwide/en/home/the-signal-network-blog/what-is-co-packaged-optics.html">What is Co-Packaged Optics? | CPO Technology is the Future of Data Center Processing | Corning</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source`, `#gpu-drivers`, `#amd`, `#vulkan`, `#valve`, `#windows`, `#graphics`
+**Tags**: `#semiconductors`, `#supply-chain`, `#silicon-photonics`, `#AI-infrastructure`, `#co-packaged-optics`
 
 ---
 
 <a id="item-2"></a>
-## [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) ⭐️ 8.0/10
+## [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) ⭐️ 8.0/10
 
-GitHub has launched Stacked PRs in public preview, a major workflow feature that lets developers manage dependent pull requests as a stack, though early users report significant bugs.
+DeepSeek V4 Flash 0731 model release with benchmark analysis showing competitive intelligence at $0.28/m output tokens, sparking discussion about low-cost API sustainability and local deployment options.
 
-hackernews · tomzorz · Jul 30, 16:26 · [Discussion](https://news.ycombinator.com/item?id=49112232)
+hackernews · theanonymousone · Jul 31, 07:59 · [Discussion](https://news.ycombinator.com/item?id=49120299)
 
-**Tags**: `#github`, `#developer-tools`, `#version-control`, `#code-review`, `#workflow`
+**Tags**: `#DeepSeek`, `#LLM`, `#AI-models`, `#model-pricing`, `#open-source`
 
 ---
 
 <a id="item-3"></a>
-## [Google DeepMind Releases Gemini Robotics 2 with Whole-Body Intelligence](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) ⭐️ 8.0/10
+## [JEP 401 Value Objects Preview Merged to OpenJDK Master](https://github.com/openjdk/jdk/pull/31120) ⭐️ 8.0/10
 
-Google DeepMind has released Gemini Robotics 2, its most advanced vision-language-action (VLA) model that converts vision and language inputs directly into motor control, enabling robots to control their entire body from feet to fingertips. The model is designed to power any type of robot, combining deep spatial reasoning with long-horizon planning for complex, multi-step tasks. This release represents a significant step toward general-purpose, physically embodied AI, moving beyond language-only models to robots that can reason about and act in the real world. By integrating frontier multimodal AI with dexterous robotic control, Google DeepMind is positioning itself in a competitive race against other AI labs to deliver adaptable, multi-robot collaboration systems with broad applications. Gemini Robotics 2 pairs deep spatial reasoning with long-horizon planning, allowing robots to map multi-step sequences and complete unfamiliar tasks, and supports multi-robot collaboration. DeepMind describes the model as an intelligence layer that can power any robot type, though early user impressions note that current hardware actuators remain a major limiting factor in real-world fluidity.
+JEP 401 (Value Objects Preview) has been merged into OpenJDK master, marking a key milestone in the multi-year Project Valhalla effort to bring value types to the Java language. The feature is available as a preview in JDK 28 and can be tried by compiling and running with the --enable-preview flag. Value objects address Java's long-standing lack of value types, allowing highly-efficient objects without identity that the JVM can store on the stack or in CPU registers instead of the heap, unlocking significant performance gains. This is a fundamental language evolution that will affect how Java developers model data and optimize performance-critical code. The feature is currently preview-stage and ships in JDK 28, requiring --enable-preview flags during both compilation and execution; for best performance, all referring classes should also be compiled with preview enabled. Most existing classes can be migrated to value classes compatibly, though some behavioral incompatibilities and library API limitations exist.
 
-hackernews · ai2027 · Jul 30, 15:15 · [Discussion](https://news.ycombinator.com/item?id=49111237)
+hackernews · mfiguiere · Jul 31, 04:38 · [Discussion](https://news.ycombinator.com/item?id=49119063)
 
-**Background**: Vision-language-action (VLA) models are a class of AI systems that extend large multimodal models—such as Google's Gemini—into the physical world by directly outputting motor commands. Dexterous robotic control refers to the ability of a robot to perform fine-grained manipulation tasks using multi-fingered hands or end-effectors, rather than simple parallel-jaw grippers. Whole-body intelligence goes a step further by coordinating the full kinematics of a humanoid robot, including legs, torso, and arms, enabling more natural and capable movements in unstructured environments.
+**Background**: Project Valhalla is an OpenJDK incubator project aimed at bringing value types and related enhancements to Java, bridging the gap between object-oriented expressiveness and low-level performance efficiency. Traditional Java objects are heap-allocated references with identity, which carries overhead for small, immutable data such as numeric tuples. Value objects remove that identity requirement, enabling flatter memory layouts and better CPU cache behavior. JEP 401 represents the first installment of Valhalla to reach the JDK, with further features expected in later stages.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">Gemini Robotics 2 brings whole body intelligence to robots</a></li>
-<li><a href="https://deepmind.google/models/gemini-robotics/gemini-robotics/">Gemini Robotics 2 — Google DeepMind</a></li>
-<li><a href="https://deepmind.google/models/gemini-robotics/">Gemini Robotics — Google DeepMind</a></li>
+<li><a href="https://openjdk.org/jeps/401">JEP 401: Value Objects (Preview)</a></li>
+<li><a href="https://inside.java/2025/10/27/try-jep-401-value-classes/">Try Out JEP 401 Value Classes and Objects - Inside.java</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Project_Valhalla_(Java_language)">Project Valhalla (Java language) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussion was notably rich, featuring a rare insider perspective from a DeepMind researcher (canyon289) who praised the lab's interdisciplinary breadth. Other commenters noted Google's underappreciated breadth across model types (xnx), drew parallels to early LLM progress that may accelerate rapidly (FartyMcFarter), raised concerns about hardware actuator limitations holding back humanoid robotics (Geee), and asked pointed questions about real-world readiness for daily tasks like opening doorknobs and avoiding collisions (aabhay). Overall sentiment was cautiously optimistic, balancing excitement about the AI advances with skepticism about near-term physical deployment.
+**Discussion**: The community response is broadly positive, with developers expressing enthusiasm for value types as a long-awaited performance improvement and appreciation for the Java team's careful, backward-compatible approach to language evolution. A commenter (mormegil) cautioned that this is only the first part of Valhalla and pointed readers to a deeper analysis, while others shared links to prior discussions to provide additional context.
 
-**Tags**: `#robotics`, `#deepmind`, `#gemini`, `#ai`, `#humanoid-robots`
+**Tags**: `#java`, `#openjdk`, `#project-valhalla`, `#value-objects`, `#jvm`
 
 ---
 
 <a id="item-4"></a>
-## [OpenAI Cuts GPT-5.6 Luna Price by 80% with Kernel Optimizations](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) ⭐️ 8.0/10
+## [Zoox Becomes First to Win Regulatory Approval for Driverless Robotaxi](https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/) ⭐️ 8.0/10
 
-OpenAI announced an 80% price reduction on its GPT-5.6 Luna model, making it 5x cheaper than before. The price drop was enabled by kernel optimizations that cut end-to-end serving costs by 20% and boosted token-generation efficiency by more than 15%. This announcement potentially reverses the year-long industry trend of steadily rising AI inference prices and signals intensifying competition among model providers. The price-performance leap could unlock new high-volume use cases such as running dozens of parallel agents for research, hypothesis generation, and other previously cost-prohibitive workloads. GPT-5.6 is structured as a three-tier family (Sol, Terra, Luna) with Luna positioned as the fastest and most affordable option optimized for cost-sensitive, high-volume workloads. The 20% serving-cost reduction combined with 15% token-efficiency gains compound multiplicatively, though OpenAI has not disclosed whether similar efficiency gains will propagate to the higher-tier Sol and Terra models.
+Amazon-owned Zoox has become the first company to receive regulatory approval for deploying genuinely driverless robotaxis, with a license to operate up to 2,500 vehicles annually for a two-year period. This marks a historic milestone in the commercialization of autonomous vehicles, as Zoox's approval removes the need for a safety operator on board and sets a precedent for other companies like Waymo and Tesla. It demonstrates that regulators are increasingly confident in the maturity of self-driving technology for public deployment at scale. Zoox's robotaxis feature a bidirectional, steering-wheel-free interior that seats up to four passengers, distinguishing them from retrofitted conventional vehicles. The approval comes after NHTSA streamlined its review process for autonomous vehicles without traditional controls, a change that helps companies like Zoox deploy vehicles without steering wheels or pedals.
 
-hackernews · tedsanders · Jul 30, 17:15 · [Discussion](https://news.ycombinator.com/item?id=49112867)
+rss · Electronics Weekly · Jul 31, 05:10
 
-**Background**: OpenAI's GPT-5.6 family marks the company's first explicit multi-tier architecture, decoupling the generation number (5.6) from capability levels to let users trade off cost and performance. Kernel-level optimizations refer to low-level GPU code that accelerates model inference, and improvements in this area can translate directly into serving capacity and cost reductions without requiring changes to the model weights themselves. Industry context includes Meta's KernelEvolve and Standard Kernel, which similarly use AI-driven kernel optimization to push inference throughput higher.
+**Background**: Robotaxis are autonomous vehicles that operate as on-demand ride-hailing services, using machine learning, AI, and onboard sensors to navigate roads without a human driver. Zoox, acquired by Amazon in 2020, develops purpose-built autonomous vehicles rather than retrofitting existing car models. The U.S. National Highway Traffic Safety Administration (NHTSA) governs the approval process for autonomous vehicles, and in 2025 the agency streamlined its exemption process for vehicles without traditional human controls, which had previously caused lengthy delays for companies like Ford and GM.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://apimodels.app/models/gpt-5-6-luna">GPT-5.6 Luna ( OpenAI ) API — Official Model · Cost tier , Up to 95% Off</a></li>
-<li><a href="https://www.hackaigc.com/blog/gpt-5-6-sol-terra-luna-openai-tiers-2026">GPT-5.6 Sol, Terra & Luna : OpenAI 's Three- Tier Model Family...</a></li>
-<li><a href="https://grokipedia.com/page/Most_Token-Efficient_AI_Models_2026">Most Token-Efficient AI Models (2026) — Grokipedia</a></li>
+<li><a href="https://www.usatoday.com/story/cars/research/reviews/2026/05/11/zoox-vs-waymo-tesla-amazon-robotaxi-differences/89981647007/">Amazon Zoox robotaxi vs Waymo, Tesla: What sets it apart</a></li>
+<li><a href="https://www.automotiveworld.com/news/nhtsa-streamlines-autonomous-vehicle-approval-process-2/">NHTSA streamlines autonomous vehicle approval process | Automotive World</a></li>
+<li><a href="https://www.nvidia.com/en-in/glossary/robotaxi/">What is a Robotaxi ? | NVIDIA Glossary</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community reaction is overwhelmingly positive and surprised, with commenters noting that an 80% cut on an already-cheap model feels like a paradigm-shifting event rather than a typical 5-10% incremental improvement. simonw raised the question of whether the 20% serving-cost reduction translates to billions in monthly savings given known inference infrastructure spending (e.g., Anthropic's reported $1.25B SpaceX deal). bob1029 compared the shift to the dialup-to-broadband transition and highlighted new possibilities for running 50+ parallel agents for statistical hypothesis generation, while pavpanchekha framed it as part of a broader pricing-down trend alongside competitors Kimi K3 and GLM 5.2.
-
-**Tags**: `#OpenAI`, `#GPT-5`, `#AI-pricing`, `#model-efficiency`, `#infrastructure`
+**Tags**: `#autonomous-vehicles`, `#robotaxi`, `#Zoox`, `#regulatory-approval`, `#Amazon`
 
 ---
 
 <a id="item-5"></a>
-## [Intel to license x86 Atom RTL code to Rosaic Labs](https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/) ⭐️ 8.0/10
+## [Montage Technology Begins Trial Production of Industry-First CXL 3.2 MXC Chip](https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5) ⭐️ 7.5/10
 
-Intel plans to license the register-transfer level (RTL) code for its x86 Atom processor cores to Rosaic Labs, a startup incorporated in May 2025 and led by CEO Amarjit Gill. The licensed IP could be the "Tremont" microarchitecture or a newer Atom-class core. Intel has historically guarded its x86 designs as closely held proprietary IP, and licensing full RTL to an external startup is a rare and potentially precedent-setting move in the semiconductor industry. This could open the door for new x86-compatible designs, custom variants, and expanded third-party participation in the x86 ecosystem traditionally dominated by Intel and AMD. The specific Atom core IP being licensed has not been disclosed, but candidates include "Tremont" (the last standalone Atom microarchitecture used in Elkhart Lake and Jasper Lake) or a newer core. Rosaic Labs is reportedly raising approximately $10 million to support chip ambitions that appear focused on low-power x86 designs.
+Montage Technology announced the industry's first trial production of its CXL 3.2 Memory eXpander Controller (MXC) chip, supporting PCIe 6.x and integrating dual DDR5 controllers at up to 8000 MT/s. The chip complies with CXL Type 3 specifications, enabling real-time conversion of host-side CXL memory requests into DDR commands to break through traditional server memory capacity limits. As AI workloads escalate memory bandwidth and capacity requirements, CXL-based memory expansion is becoming a critical tool for scaling data centers, and being first-to-market with a CXL 3.2 trial chip positions Montage ahead in this emerging segment. The chip's alignment with PCIe 6.x and 8000 MT/s DDR5 targets the next-generation memory infrastructure being deployed by Intel, AMD, and major cloud and AI providers. The MXC chip delivers up to 64 GT/s over PCIe 6.x and integrates dual DDR5 controllers supporting up to 8000 MT/s. It implements CXL.mem and CXL.io sub-protocols but not CXL.cache, classifying it as a Type 3 memory expander rather than an accelerator with full coherency.
 
-rss · Electronics Weekly · Jul 30, 11:35
+rss · TechPowerUp News · Jul 31, 15:07
 
-**Background**: Register-Transfer Level (RTL) is a design abstraction in digital circuit design that describes how data flows between hardware registers and the logical operations performed on those signals, typically expressed in hardware description languages like Verilog or VHDL. The x86 instruction set architecture, originally developed by Intel, underpins most desktop and server CPUs and has historically been licensed only in limited forms, mainly to AMD. Atom is Intel's low-power CPU line historically used for entry-level tasks, networking equipment, and embedded systems, though Intel has since transitioned much of its low-power portfolio to its E-Core designs, with microarchitectures like Gracemont serving as successors to the Atom family.
+**Background**: Compute Express Link (CXL) is a cache-coherent interconnect standard built on top of PCIe, enabling high-bandwidth, low-latency connections between CPUs and devices such as memory expanders, accelerators, and fabric switches. The CXL standard defines three sub-protocols: CXL.io (based on PCIe for I/O and configuration), CXL.mem (for host-to-device memory access), and CXL.cache (for coherent device access to host memory). CXL Type 3 devices implement only CXL.mem and CXL.io, making them well suited for memory expansion and pooling. The CXL 3.2 specification adds enhanced monitoring, security, OS support, and a hot-page unit for memory tiering, while also enabling multi-host fabric capabilities that extend beyond earlier single-host memory expansion. A Memory eXpander Controller (MXC) sits between a host's CXL interface and attached DDR5 modules, translating CXL memory requests into standard DDR5 commands.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Register-transfer_level">Register-transfer level - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core">Semiconductor intellectual property core - Wikipedia</a></li>
-<li><a href="https://www.synopsys.com/glossary/what-is-register-transfer-level-design.html">What is Register-Transfer-Level (RTL) Design? | Synopsys</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Compute_Express_Link">Compute Express Link - Wikipedia</a></li>
+<li><a href="https://www.trendforce.com/news/2026/02/09/news-global-memory-interconnect-leader-montage-technology-rides-ai-data-center-boom-to-hk-ipo/">[News] Global Memory Interconnect Leader Montage Technology...</a></li>
+<li><a href="https://ts2.tech/en/cxl-memory-competition-creates-new-ai-expansion-channel-revenue-uptake-could-be-delayed/">CXL Memory Competition Creates New AI Expansion Channel...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#x86`, `#Intel`, `#RTL`, `#semiconductor IP`, `#licensing`
+**Tags**: `#CXL`, `#DDR5`, `#memory-expansion`, `#data-center`, `#AI-infrastructure`
 
 ---
 
 <a id="item-6"></a>
-## [US FCC bans Chinese robots](https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/) ⭐️ 8.0/10
+## [TSMC Develops EMIB-like Packaging to Rival Intel](https://www.techpowerup.com/351236/tsmc-develops-emib-like-technology-to-compete-with-intel) ⭐️ 7.5/10
 
-The US FCC has banned the import of Chinese humanoid robots citing national security concerns over data collection and potential surveillance.
+TSMC is developing an advanced packaging technology internally referred to as 'EMIB-like' to directly compete with Intel's Embedded Multi-die Interconnect Bridge (EMIB), with Taiwan's Kinsus Interconnect Technology assisting in development, scaling, and manufacturing. This move signals escalating competition in the advanced semiconductor packaging market, a critical enabler for AI accelerators and high-performance computing chips where CoWoS demand is surging but supply is constrained. By building an EMIB alternative, TSMC aims to defend its dominant position against Intel's growing foothold in the AI packaging supply chain. TSMC currently offers three CoWoS variants: CoWoS-S uses a full monolithic silicon interposer with TSVs for maximum routing density; CoWoS-L takes a hybrid approach with an organic base and embedded Local Silicon Interconnects (LSI) for high-speed die-to-die links; CoWoS-R replaces silicon entirely with an organic copper/polymer RDL interposer for cost-effective scalability. The key distinction between TSMC's CoWoS-L silicon bridges and Intel's EMIB is which package layer the bridge is embedded into and who controls the surrounding mass-production steps.
 
-rss · Electronics Weekly · Jul 30, 05:42
+rss · TechPowerUp News · Jul 30, 16:08
 
-**Tags**: `#FCC`, `#robotics`, `#US-China relations`, `#trade policy`, `#national security`
+**Background**: Advanced packaging is the discipline of combining multiple silicon dies into a single packaged chip, and it has become the bottleneck for AI chips because it determines how much compute and memory can be linked at high speed. TSV (through-silicon via) is a vertical electrical connection passing completely through a silicon wafer, enabling 3D stacking and dense inter-die communication. Intel's EMIB embeds tiny silicon bridge dies inside the package substrate itself, allowing high-density chip-to-chip signaling without requiring a large, expensive full silicon interposer. As AI accelerators grow beyond the reticle limit of a single photolithography exposure, these 'bridge' and 'interposer' techniques are essential for stitching multi-die packages together, which is why both Intel and TSMC are racing to scale their respective solutions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-emib-embedded-multi-die-interconnect-bridge/">Intel EMIB ( Embedded Multi - die Interconnect Bridge ) - SemiWiki</a></li>
+<li><a href="https://xenospectrum.com/en/tsmc-emib-like-packaging/">TSMC Reportedly Developing Advanced Packaging ... | XenoSpectrum</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS ® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#TSMC`, `#Intel`, `#advanced packaging`, `#chiplets`
 
 ---
 
 <a id="item-7"></a>
-## [Seagate Roadmap Targets 50 TB HAMR Hard Drives in 2027](https://www.techpowerup.com/351243/seagate-roadmap-targets-50-tb-hamr-hard-drives-in-2027) ⭐️ 7.5/10
+## [Valve Funds RADV Vulkan Driver Port from Linux to Windows](https://www.tomshardware.com/software/linux/valve-funding-port-of-linux-radv-radeon-vulkan-driver-to-windows-cross-platform-effort-already-runs-counter-strike-2) ⭐️ 7.5/10
 
-Seagate unveiled its updated storage roadmap alongside its Q4 fiscal 2026 earnings, confirming that 50 TB HAMR hard drives based on the upcoming Mozaic 5+ platform are slated for customer validation in 2027, with the current Mozaic 4+ platform (up to 44 TB) expected to represent 50% of HAMR exabytes shipped by the end of 2026. This roadmap signals a major step in HDD areal density scaling, which is critical for hyperscalers, AI data centers, and enterprises managing explosive data growth where cost-per-terabyte still favors HDDs over SSDs for bulk storage. Seagate's flagship HDDs use ten platters, so exceeding 5 TB per platter yields the 50 TB target; the company also has a lab demo goal of 10 TB per platter around 2028 (potentially enabling ~100 TB drives), and the broader roadmap extends to 50–60 TB by 2030 and beyond 80 TB by 2031/2032.
+Valve is funding a project to port Mesa's open-source RADV Radeon Vulkan driver from Linux to Windows, and the port has already achieved a notable milestone by successfully running Counter-Strike 2 on Windows. This development challenges the traditional boundary that graphics drivers are platform-specific, and could benefit Windows users with AMD GPUs by offering an open-source alternative. It also strengthens Linux gaming by demonstrating Valve's continued investment in open graphics ecosystems and cross-platform compatibility. The RADV driver is part of Mesa, supports AMD GCN and RDNA GPUs, and is community-developed. The Windows port builds on existing RADV work rather than being a new driver, leveraging cross-platform abstractions in Mesa. Counter-Strike 2 running on the port demonstrates practical viability, though broader game compatibility and performance parity remain to be validated.
 
-rss · TechPowerUp News · Jul 30, 20:18
+rss · Tom's Hardware · Jul 31, 12:25
 
-**Background**: Heat-Assisted Magnetic Recording (HAMR) is a hard disk recording technology that uses a tiny laser diode on each recording head to momentarily heat a spot on the disk, allowing much smaller and more densely packed magnetic bits to be written without losing thermal stability. Seagate's Mozaic platform is its branded HAMR-based product family; Mozaic 4+ is the current generation qualified with hyperscale cloud providers and shipping at up to 44 TB, while Mozaic 5+ will be the third generation enabling the jump beyond 5 TB per platter.
+**Background**: Mesa is the primary open-source 3D graphics library on Linux, providing implementations of OpenGL, OpenGL ES, Vulkan, OpenCL, and more. RADV is Mesa's community-developed Vulkan driver for AMD Radeon GPUs, covering the older GCN architectures and the newer RDNA families, and it is generally considered a strong alternative to AMD's official AMDVLK driver. Vulkan is a low-overhead cross-platform graphics and compute API designed as the successor to OpenGL, and a working Vulkan driver is essential for modern gaming on both Windows and Linux.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Heat-assisted_magnetic_recording">Heat-assisted magnetic recording - Wikipedia</a></li>
-<li><a href="https://www.seagate.com/innovation/hamr/">Heat Assisted Magnetic Recording (HAMR)</a></li>
-<li><a href="https://www.businesswire.com/news/home/20260309717474/en/Seagate-Delivers-Industrys-Highest-Capacity-Hard-Drives-with-Next-Generation-Mozaic-4">Seagate Delivers Industry’s Highest Capacity Hard Drives with...</a></li>
+<li><a href="https://mesa3d.org/">Home — The Mesa 3D Graphics Library</a></li>
+<li><a href="https://www.phoronix.com/review/amdvlk-radv-rx7900/3">AMDVLK vs. Mesa RADV Radeon Vulkan Driver ... - Phoronix</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#storage`, `#HAMR`, `#Seagate`, `#hard-drives`, `#enterprise-hardware`
+**Tags**: `#Vulkan`, `#RADV`, `#Mesa`, `#Linux`, `#AMD`, `#Valve`, `#graphics-drivers`
 
 ---
 
 <a id="item-8"></a>
-## [(PR) Kioxia Introduces First PCIe 6.0 Enterprise SSDs Utilizing Newest BiCS FLASH Generation 10](https://www.techpowerup.com/351218/kioxia-introduces-first-pcie-6-0-enterprise-ssds-utilizing-newest-bics-flash-generation-10) ⭐️ 7.5/10
+## [Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget —'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics) ⭐️ 7.5/10
 
-Kioxia announces the CM10 Series, the first PCIe 6.0 enterprise SSDs using BiCS FLASH Gen 10 TLC, offering up to 92% higher sequential read performance and direct liquid cooling for AI workloads.
+An internal Amazon presentation revealed that a failed AI coding deployment using Claude cost $1.8 million and went 860% over budget, going undetected for months.
 
-rss · TechPowerUp News · Jul 30, 07:57
+rss · Tom's Hardware · Jul 30, 16:08
 
-**Tags**: `#PCIe 6.0`, `#Enterprise SSD`, `#Kioxia`, `#AI Infrastructure`, `#NAND Flash`
+**Tags**: `#AI costs`, `#AI governance`, `#Claude`, `#Amazon`, `#AI agents`
 
 ---
 
 <a id="item-9"></a>
-## [Amazon Accidentally Burns $1.8M on Claude for Simple Coding Task](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics) ⭐️ 7.5/10
+## [AMD Launches Ryzen Embedded AI X100, Unveils Physical AI Strategy](https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/) ⭐️ 7.5/10
 
-An internal Amazon presentation revealed that a failed AI deployment cost the company $1.8 million — 860% over its original budget — because runaway usage of Anthropic's Claude for a menial coding task went undetected for several months. Several other Amazon projects also reportedly incurred hundreds of thousands of dollars in excess AI expenses. As one of the world's largest tech companies with deep AI expertise, Amazon's inability to detect and control runaway AI spending serves as a cautionary tale for organizations adopting AI coding tools at scale. It highlights systemic gaps in enterprise AI cost monitoring, budget guardrails, and operational oversight that can affect any company deploying LLMs in production. The original budget for the task was approximately $210,000, but costs ballooned to $1.8 million due to months of unmonitored Claude usage. The incident was uncovered through internal Amazon AI usage metrics, suggesting the organization had measurement tools in place but lacked effective alerting or budget enforcement mechanisms.
+At Advancing AI 2026, AMD unveiled its Ryzen Embedded AI X100 system-on-chip (SoC) and outlined a comprehensive product stack for physical AI, spanning SoCs, modules, and developer kits aimed at robotics and edge AI applications. This launch signals AMD's strategic expansion into the rapidly growing physical AI and robotics market, positioning the company against competitors like Nvidia in the embedded AI space and tapping into a sector that has attracted billions in investment and top AI talent over the past year. AMD's physical AI product stack extends beyond the X100 SoC to include modules and development kits, offering a full hardware ecosystem for robotics developers. The SoC follows AMD's existing Ryzen AI Embedded P100 series CPU lineup and is designed to bring AI inference capabilities directly to edge devices.
 
-rss · Tom's Hardware · Jul 30, 16:08
+rss · ServeTheHome · Jul 30, 22:00
 
-**Background**: Claude is an AI assistant developed by Anthropic, a leading AI research company, and is widely used for coding, reasoning, and language tasks. AI coding tools — which generate, refactor, or debug code using large language models — typically charge based on token consumption, meaning costs scale with usage volume. Enterprise AI cost management has emerged as a new discipline focused on tracking token usage, allocating AI spend across teams, and setting budget controls to prevent runaway expenses.
+**Background**: Physical AI refers to the integration of large AI models with physical systems such as robots, enabling machines to adapt to varied tasks rather than repeating pre-programmed motions. Edge AI SoCs typically combine CPU, GPU, and NPU (Neural Processing Unit) cores in a heterogeneous architecture, allowing developers to run neural network inference locally on devices rather than relying on cloud computing. AMD's Ryzen Embedded AI X100 joins a competitive embedded processor market that includes offerings from companies like Rockchip and targets the growing demand for on-device AI in robotics, IoT, and industrial automation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cloudzero.com/blog/ai-cost-management/">AI cost management in 2026: tools, platforms & controling AI ...</a></li>
-<li><a href="https://docs.getdx.com/reports/ai-cost-management/">AI cost management - docs.getdx.com</a></li>
+<li><a href="https://www.flowerclaw.tech/en/articles/1-7-billion-bet-on-physical-ai-when-large-models-get-hands-a-en">$1.7 Billion Bet on ' Physical AI ': What It Means... | Flower Claw Lab</a></li>
+<li><a href="https://whychips.com/npu-selection-guide-int8-fp8-quantization-for-edge-ai/">NPU Selection Guide: INT8/FP8 Quantization for Edge AI - WhyChips</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ai-cost-management`, `#enterprise-ai`, `#claude`, `#amazon`, `#ai-coding-tools`
+**Tags**: `#AMD`, `#embedded AI`, `#physical AI`, `#edge computing`, `#robotics`
 
 ---
 
 <a id="item-10"></a>
-## [Exploring Apple Silicon’s local AI performance with the Mac Studio and M4 Max — M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything](https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything) ⭐️ 7.5/10
+## [最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”](https://36kr.com/p/3919271016263303?f=rss) ⭐️ 7.3/10
 
-Tom's Hardware benchmarks the Mac Studio M4 Max against NVIDIA GB10 and AMD Strix Halo, finding M4 Max leads in decode throughput despite memory bandwidth not being the sole determining factor.
+Wuhan has built China's first comprehensive low-altitude drone remote sensing monitoring network for a mega-city, deploying 146 unmanned drone ports with 5-minute response capability, serving 16 government departments in traffic management, ecological monitoring, and urban operations.
 
-rss · Tom's Hardware · Jul 30, 14:52
+rss · 36氪 · Jul 31, 08:12
 
-**Tags**: `#apple-silicon`, `#hardware-benchmark`, `#local-llm`, `#m4-max`, `#ai-inference`
+**Tags**: `#low-altitude-economy`, `#drone-technology`, `#smart-city`, `#urban-governance`, `#DJI`
 
 ---
 
 <a id="item-11"></a>
-## [AMD Launches Ryzen Embedded AI X100, Unveils Physical AI Stack](https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/) ⭐️ 7.5/10
+## [EU AI Act Transparency Requirements Take Effect August 2](https://36kr.com/newsflashes/3919473270812290?f=rss) ⭐️ 7.3/10
 
-At its Advancing AI 2026 event, AMD announced the Ryzen Embedded AI X100 processor and unveiled a comprehensive product stack for physical AI spanning SoCs, modules, and developer kits. The company is positioning physical AI as its next major growth opportunity. Physical AI—enabling machines to sense, decide, and act in real-world environments—is an emerging high-growth segment that includes autonomous vehicles, industrial robots, and service robots. AMD's full-stack approach (from chips to dev kits) signals a serious competitive commitment against rivals like NVIDIA in the edge and embedded AI market. The Ryzen Embedded AI X100 is part of AMD's embedded processor line targeting edge inference workloads. By offering SoCs, modules, and developer kits together, AMD is lowering the barrier for OEMs and developers to build physical AI products without having to integrate discrete components themselves.
+The EU Commission announced that from August 2, 2025, the EU AI Office and member state authorities will jointly begin enforcing provisions of the EU AI Act, with new AI transparency requirements taking effect. The rules require interactive AI systems like chatbots to clearly disclose their AI identity to users, and mandate labeling along with machine-readable markers for AI-generated or manipulated content including deepfake images, videos, and audio. This marks a major regulatory milestone as the world's first comprehensive horizontal AI regulation begins active enforcement, affecting every AI system deployed in the EU market. Companies worldwide must adapt their products to comply with these transparency standards or face penalties, while the rules are likely to shape global norms for AI governance and content provenance. The transparency rules specifically target two categories: interactive AI systems (chatbots must disclose AI identity rather than impersonate humans) and synthetic media (deepfakes must carry both human-readable labels and machine-readable markers such as C2PA Content Credentials for automated verification). Notably, enforcement for high-risk AI systems has been delayed from August 2, 2026 to December 2, 2027, and AI systems that generate child sexual abuse material have been newly added to the list of prohibited systems.
 
-rss · ServeTheHome · Jul 30, 22:00
+rss · 36氪 · Jul 31, 11:45
 
-**Background**: Physical AI refers to intelligent systems that can sense, decide, and act in real-world environments, powering applications such as autonomous vehicles, industrial robots, and consumer service robots. A System on Chip (SoC) is an integrated circuit that combines most key components of a computer—including CPU, GPU, memory, and I/O—onto a single piece of silicon, making it ideal for embedded and edge devices where size, power efficiency, and cost matter. AMD's strategy mirrors a broader industry trend where chip vendors provide complete hardware-and-tools stacks to accelerate adoption in emerging AI markets.
+**Background**: The EU AI Act, adopted in 2024, is the world's first comprehensive horizontal regulation on artificial intelligence and takes a risk-based approach, categorizing AI systems by risk level. The AI Office, established within the European Commission, coordinates enforcement alongside national competent authorities across member states, while the AI Board, Scientific Panel, and Advisory Forum steer governance. Machine-readable markers like C2PA (Coalition for Content Provenance and Authenticity) Content Credentials allow software to inspect and verify the origin and editing history of digital assets, serving as a critical technical tool for distinguishing AI-generated from authentic media and combating deepfake-driven fraud and misinformation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/physical-ai-autonomous-robotics-when-intelligence-moves-girija-ravi-dwc2c">Physical AI and Autonomous Robotics : When Intelligence Moves...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/System_on_a_chip">System on a chip - Wikipedia</a></li>
-<li><a href="https://www.synopsys.com/glossary/what-is-system-on-a-chip.html">What is a System on a Chip (SoC)? - Synopsys</a></li>
+<li><a href="https://artificialintelligenceact.eu/the-ai-office-summary/">The AI Office : What is it, and how does it... | EU Artificial Intelligence Act</a></li>
+<li><a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai">AI Act | Shaping Europe ’s digital future</a></li>
+<li><a href="https://www.jaggaer.com/blog/eu-ai-act-fines-penalties">EU AI Act Fines & Penalties: The Complete Guide</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#edge-AI`, `#embedded-systems`, `#physical-AI`, `#hardware`
+**Tags**: `#EU AI Act`, `#AI regulation`, `#transparency`, `#compliance`, `#AI policy`
 
 ---
 
 <a id="item-12"></a>
-## [MiniMax H3正式发布](https://36kr.com/newsflashes/3918865590677126?f=rss) ⭐️ 7.3/10
+## [图灵奖得主朱迪亚·珀尔：大模型会讲因果，因为人类替它解释过世界，但无法通向AGI](https://www.solidot.org/story?sid=84970) ⭐️ 7.3/10
 
-MiniMax officially releases MiniMax H3, a universal all-modal generation model supporting text, image, video, and audio understanding/generation with up to 15s 2K output, with model weights planned to open-source soon.
+Turing Award winner Judea Pearl argues in a new interview that LLMs can mimic causal language but lack true causal reasoning, and thus cannot achieve AGI; alongside Google's dynamic patching for Chrome and a cancer genetics discovery.
 
-rss · 36氪 · Jul 31, 01:16
+rss · Solidot · Jul 31, 02:34
 
-**Tags**: `#multimodal-ai`, `#video-generation`, `#model-release`, `#open-source`, `#text-to-video`
+**Tags**: `#causal-inference`, `#AGI`, `#Judea-Pearl`, `#LLM-limitations`, `#cybersecurity`
 
 ---
 
 <a id="item-13"></a>
-## [顶尖 AI 初创公司很少发表论文](https://www.solidot.org/story?sid=84959) ⭐️ 7.3/10
+## [Session Portability: The Hidden Lock-In of AI Coding Assistants](https://earendil.com/posts/session-portability/) ⭐️ 7.0/10
 
-Analysis of bioRxiv data shows over half of AI unicorn companies have published virtually no papers, with top 5% of companies contributing 90% of citations, raising reproducibility and transparency concerns.
+An analysis argues that AI coding assistants and inference providers create vendor lock-in through non-portable session state and tightly coupled features such as web search and code execution bundled as 'tools.' Switching providers forces users to abandon accumulated context, conversation history, and workflow customizations. As developers and companies increasingly depend on AI coding assistants for daily work, this lock-in reshapes the power relationship between users and providers, potentially stifling competition and innovation. Without interoperability standards, users cannot freely choose better or cheaper models, and providers face little pressure to compete on quality or price. The article highlights that so-called 'frontier inference providers' package powerful non-LLM extensions (web search, code execution, file access) as simple API tools, creating technical moats that are theoretically separable but practically inseparable. Commenter vintagedave notes that CodeBot streams full session data to the client, contrasting with common opaque practices.
 
-rss · Solidot · Jul 30, 05:47
+hackernews · apitman · Jul 31, 03:47 · [Discussion](https://news.ycombinator.com/item?id=49118781)
 
-**Tags**: `#AI research`, `#academic publishing`, `#AI industry`, `#reproducibility`, `#OpenAI`
+**Background**: AI inference providers are companies that run large language models and expose them via APIs, often adding extra capabilities like web search or code execution on top. AI coding assistants are tools (like GitHub Copilot, Cursor, or CodeBot) that maintain a persistent session—tracking your files, edits, conversation history, and tool calls. Because this session state lives on the provider's servers in proprietary formats and is deeply integrated with their unique tool stack, moving to a competitor means starting over from scratch. This mirrors historical lock-in patterns seen with operating systems, phone ecosystems, and enterprise software.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://read.technically.dev/p/whats-an-inference-provider">What's an inference provider ? - by Will Raphaelson</a></li>
+<li><a href="https://www.marktechpost.com/2025/08/17/what-is-ai-inference-a-technical-deep-dive-and-top-9-ai-inference-providers-2025-edition/">What is AI Inference ? A Technical Deep Dive and... - MarkTechPost</a></li>
+<li><a href="https://blogs.novita.ai/top-10-ai-inference-providers-in-2025/">Top 10 AI Inference Providers in 2025 - Novita</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members broadly agree this is an under-recognized problem. solarkraft warns against gradual ecosystem capture using a 'frog in warm water' metaphor and urges users to actively exercise switching rights. vintagedave contrasts CodeBot's transparent full-session streaming with opaque industry practices. hobofan emphasizes that non-LLM extensions packaged as simple 'tools' build substantial moats, while abound adds that cost-driven mid-session model switching—potentially automated by a routing model—is an important use case the article didn't explore.
+
+**Tags**: `#AI`, `#vendor-lock-in`, `#developer-tools`, `#open-standards`, `#session-portability`
 
 ---
 
 <a id="item-14"></a>
-## [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) ⭐️ 7.0/10
+## [GitHub Launches Stacked Pull Requests in Public Preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) ⭐️ 7.0/10
 
-KrebsOnSecurity warns that many cheap TV streaming sticks come pre-configured for residential proxy abuse and ad fraud, with e-commerce platforms failing to act on FBI warnings about these harmful devices.
+GitHub has launched stacked pull requests in public preview, giving developers a native way to break large code changes into a series of smaller, dependent PRs that can be reviewed separately. The feature includes the gh stack CLI and AI agent integration via the skills package, rolling out across all repositories. This is a major workflow enhancement for code review on the world's largest code hosting platform, affecting millions of developers who previously had to rely on third-party tools like Graphite. The release also signals GitHub's response to AI coding agents that increasingly produce large, multi-step changes, where stacked review can dramatically reduce reviewer burden. Early users report significant bugs, including broken stack-wide merging that forces re-approval for each PR in the stack when using squash and merge with required reviews. The release notably lacks documentation optimized for AI agents, and several commenters argue the feature is more basic and less mature than the years-old Graphite implementation.
 
-hackernews · speckx · Jul 30, 17:04 · [Discussion](https://news.ycombinator.com/item?id=49112744)
+hackernews · tomzorz · Jul 30, 16:26 · [Discussion](https://news.ycombinator.com/item?id=49112232)
 
-**Tags**: `#cybersecurity`, `#iot-security`, `#consumer-privacy`, `#supply-chain-security`, `#ad-fraud`
+**Background**: Stacked pull requests, also known as stacked diffs or dependent PRs, are a workflow concept where a large feature is broken into a series of small, dependent changes that build on top of each other, so reviewers can handle smaller, more focused changes and trace dependencies easily. GitHub has notably lagged behind specialized tools like Graphite, which pioneered this workflow years ago, and Sapling, Meta's source control system built around stacked commits. The rise of AI coding agents producing massive diffs has made stacked PR workflows increasingly important for managing review complexity at scale.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.graphite.com/guides/stacked-diffs">Stacked diffs</a></li>
+<li><a href="https://itbrief.in/story/github-puts-stacked-pull-requests-into-public-preview">GitHub puts stacked pull requests into public preview</a></li>
+<li><a href="https://codex.danielvaughan.com/2026/04/16/stacked-prs-coding-agents-gh-stack-sapling-codex-skill/">Stacked PRs Meet Coding Agents: GitHub gh stack , Sapling, and the...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is mixed: while the announcement has 738 upvotes, commenters raise sharp criticisms about expanding the preview despite unresolved bugs (full-stack merging is reportedly broken), the inconvenience of per-PR re-approvals under squash merges, and the component-based examples (database schema, API, frontend as separate stack branches) that can lead to partial deployments. Several users note GitHub is late to ship a basic and buggy v1 compared to Graphite, and that documentation targeting AI agents is missing.
+
+**Tags**: `#github`, `#developer-workflow`, `#code-review`, `#version-control`, `#product-launch`
 
 ---
 
 <a id="item-15"></a>
-## [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/) ⭐️ 7.0/10
+## [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) ⭐️ 7.0/10
 
-Physicists have resolved the long-standing muon magnetic moment anomaly, but the solution reveals inconsistencies with prior experimental results, potentially reshaping understanding of fundamental physics.
+A reviewer details how two research papers with fake, AI-generated authors were accepted as oral presentations at ML conferences, exposing serious gaps in academic peer review.
 
-hackernews · ibobev · Jul 30, 15:22 · [Discussion](https://news.ycombinator.com/item?id=49111305)
+hackernews · volumes94 · Jul 30, 22:33 · [Discussion](https://news.ycombinator.com/item?id=49116721)
 
-**Tags**: `#physics`, `#particle-physics`, `#muon-g-2`, `#experimental-science`, `#quanta-magazine`
+**Tags**: `#academic-integrity`, `#peer-review`, `#machine-learning`, `#AI-generated-content`, `#conference-reviewing`
 
 ---
 
 <a id="item-16"></a>
-## [Martin Fowler Analyzes Economics of AI-Assisted Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html) ⭐️ 7.0/10
+## [TSMC CoWoS-S vs CoWoS-R: Key Differences Explained](https://semiwiki.com/semiconductor-manufacturers/tsmc/371759-the-difference-between-cowos-s-and-cowos-r/) ⭐️ 7.0/10
 
-Martin Fowler published an article examining the economic conditions under which AI-assisted refactoring delivers real value, using a strict definition of refactoring as a correctness-preserving series of code edits and drawing on Giles Edwards-Alexander's experiment showing that decomposing large functions can reduce token costs. As AI coding tools become standard in software development, understanding when refactoring pays off economically—particularly in terms of LLM token consumption—helps teams make informed decisions about code quality investments and avoid wasting AI compute on poorly structured codebases. The article grounds its analysis in Martin Fowler's 2nd edition of Refactoring and examines concrete code (e.g., @src/firestore.rs), linking refactoring benefits to measurable outcomes like token reduction rather than purely qualitative claims. Community discussion emphasizes that compact contexts also improve AI reasoning quality, not just lower costs.
+A SemiWiki technical explainer compares TSMC's two main CoWoS (Chip-on-Wafer-on-Substrate) advanced packaging variants: CoWoS-S, which uses a silicon interposer, and CoWoS-R, which uses an RDL-based interconnection layer. CoWoS packaging is the backbone of today's AI accelerators, including NVIDIA's H100 and B200 GPUs, making the distinction between these variants highly relevant amid the ongoing CoWoS capacity crunch driven by surging AI chip demand. CoWoS-S uses a full silicon interposer for high-density interconnects and embedded deep trench capacitors, making it suitable for ultra-high-performance computing, while CoWoS-R replaces the silicon interposer with an RDL layer derived from TSMC's InFO platform, offering a more cost-effective option with trade-offs in interconnect density.
 
-hackernews · javaeeeee · Jul 30, 15:10 · [Discussion](https://news.ycombinator.com/item?id=49111176)
+rss · SemiWiki · Jul 31, 13:00
 
-**Background**: Refactoring is the practice of restructuring existing code without changing its external behavior, often used to pay down 'technical debt'—the accumulated cost of expedient shortcuts taken during software development. With the rise of large language models (LLMs) for coding, each interaction consumes tokens (units of processed text), making code complexity directly relevant to AI-assisted development costs. Tools such as GitHub Copilot, Tabnine, and Claude are increasingly being evaluated for their ability to automatically improve code quality at scale.
+**Background**: CoWoS, introduced by TSMC in 2012, is a 2.5D advanced packaging technology that addresses the post-Moore's Law performance ceiling by integrating multiple chiplets—such as processors and HBM memory—onto a single package, shortening electrical connections between compute and memory components. An interposer serves as an intermediate bridge layer between chips and the underlying substrate. In 2.5D packaging, silicon interposers provide extremely fast and dense signal conduits but are expensive, while RDL-based approaches use organic redistribution layers as a more affordable alternative with lower interconnect density.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html">The Economic Benefit of Refactoring - martinfowler.com</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Technical_debt">Technical debt - Wikipedia</a></li>
-<li><a href="https://www.linkedin.com/posts/martin-fowler-com_the-economic-benefit-of-refactoring-activity-7488582775789420544-_JJX">The Economic Benefit of Refactoring | Martin Fowler | 15 comments</a></li>
+<li><a href="https://www.nextpcb.com/blog/cowos-packaging-h100-b200">CoWoS Packaging Explained : Why H100 & B200 Need 2.5D</a></li>
+<li><a href="https://www.aminext.blog/en/post/tsmc-cowos-s-r-l-differences">CoWoS -S, R , L Explained – TSMC’s Advanced Packaging ...</a></li>
+<li><a href="https://www.lovechip.com/blog/cowos-vs-copos-vs-cowop-tsmc-advanced-packaging-explained">CoWoS vs. CoPoS vs. CoWoP: TSMC Advanced Packaging ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly praise the article's specificity and quantitative grounding, contrasting it with vague AI commentary. Key themes include: (1) long-standing software engineering best practices being reinvented for AI contexts (e.g., keeping documentation in code, giving developers the big picture), (2) the indispensable role of humans in the loop since refactoring agents lack understanding of overall project purpose, and (3) the argument that compact code enables better AI reasoning—not just lower token costs—leading to more correct and generalizable software.
-
-**Tags**: `#ai-assisted-coding`, `#refactoring`, `#software-engineering`, `#gen-ai`, `#technical-debt`
+**Tags**: `#TSMC`, `#advanced-packaging`, `#CoWoS`, `#semiconductor-manufacturing`, `#AI-chips`
 
 ---
 
 <a id="item-17"></a>
-## [Qualcomm Acquires Modular's Open AI Software Stack](https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/) ⭐️ 7.0/10
+## [Military AI Agents Face Rising Cyberthreats on the Battlefield](https://www.eetimes.com/military-ai-agents-under-cyberthreat-the-route-forward/) ⭐️ 7.0/10
 
-Qualcomm has acquired Modular's open AI software stack, including the Mojo programming language and the MAX inference platform, and has committed to keeping the technology hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality. The acquisition positions Qualcomm as a player in the AI software and infrastructure layer, not just hardware, and signals that even chip vendors see value in cross-platform AI tooling. By keeping the stack hardware-agnostic, Qualcomm is acknowledging that the future of AI deployment will mix GPUs, CPUs, and specialized accelerators, and wants its tools usable across that mix rather than locked to its own chips. Mojo is a compiled, statically-typed language built on MLIR that aims to combine Python's usability with C-level performance for AI workloads, while MAX is a next-generation inference framework that abstracts hardware complexity so models can run across GPUs, CPUs, and accelerators without code changes. Qualcomm's promise to keep both projects open and hardware-neutral is notable because it contrasts with the usual pattern of a chipmaker acquiring software to lock in its own silicon.
+EE Times published an analysis examining the cybersecurity vulnerabilities threatening autonomous military AI agents as armed forces rapidly adopt battlefield AI systems. The article highlights the urgent need for robust defenses against cyberattacks targeting these autonomous systems. As militaries worldwide integrate AI agents into autonomous weapons, surveillance, and decision-making systems, cyber vulnerabilities could be exploited by adversaries to hijack, mislead, or disable critical battlefield assets. The stakes are uniquely high because compromised military AI could lead to mission failure, friendly fire incidents, or unintended escalation. The provided excerpt is only a brief teaser, so full technical specifics about the vulnerabilities, attack vectors, or proposed defenses are not available in the given content. Related research indicates that LLM agents can autonomously exploit one-day vulnerabilities, and adversarial attacks can deceive object detection models such as YOLOv8 used in military surveillance contexts.
 
-rss · EE Times · Jul 30, 14:43
+rss · EE Times · Jul 31, 07:30
 
-**Background**: Heterogeneous AI infrastructure refers to AI system architectures that combine multiple processor types—such as CPUs, GPUs, FPGAs, and custom AI accelerators—within a single deployment, rather than relying on a uniform hardware type. Modular was an AI infrastructure company that built Mojo and MAX to unify and simplify development across this fragmented hardware landscape, with MAX serving as an inference engine and Mojo as a systems-level programming language tailored for AI. Qualcomm is best known as a mobile SoC vendor through its Snapdragon line, but has been expanding into PCs, automotive, and data-center AI, making a move into cross-platform AI tooling a logical extension of that strategy.
+**Background**: Adversarial attacks involve deliberately crafted inputs that cause AI models to produce incorrect outputs—for example, subtly modifying images so an object detector misclassifies a military vehicle as a harmless object. Data and model poisoning attacks inject malicious samples into training datasets, corrupting the model's behavior from within and potentially creating hidden backdoors. Research from UIUC has also shown that LLM-based AI agents themselves can autonomously discover and exploit real-world cybersecurity vulnerabilities, meaning military AI agents face threats both as potential targets and as emerging offensive tools in cyberspace.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo (programming language) - Wikipedia</a></li>
-<li><a href="https://www.modular.com/open-source/max">MAX: A high-performance inference framework for AI - Modular</a></li>
-<li><a href="https://sambanova.ai/blog/what-is-heterogeneous-ai-infrastructure">What Is Heterogeneous AI Infrastructure?</a></li>
+<li><a href="https://siddhantt.medium.com/hacking-ai-the-threat-of-adversarial-attacks-a7ec977f8b83">When AI Gets Tricked: The Threat of Adversarial Attacks | Medium</a></li>
+<li><a href="https://campustechnology.com/articles/2024/07/01/uiuc-study-ai-agents-can-exploit-cybersecurity-vulnerabilities.aspx">UIUC Study: AI Agents Can Exploit Cybersecurity Vulnerabilities</a></li>
+<li><a href="https://www.cobalt.io/blog/data-poisoning-attacks-a-new-attack-vector-within-ai">Data Poisoning Attacks : A New Attack Vector within AI | Cobalt</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Qualcomm`, `#AI infrastructure`, `#Modular`, `#Mojo`, `#acquisition`
+**Tags**: `#military-ai`, `#cybersecurity`, `#ai-security`, `#defense-tech`, `#autonomous-systems`
 
 ---
 
 <a id="item-18"></a>
-## [Indian Startup Vimag Labs Develops Rare-Earth-Free Wirelessly Excited EV Motor](https://www.eetimes.com/indian-startup-vimag-labs-develops-wirelessly-excited-motor-without-rare-earth-magnets/) ⭐️ 7.0/10
+## [Apple Addresses Memory Shortage, Evaluates Chinese Suppliers YMTC and CXMT](https://www.techpowerup.com/351254/apple-talks-memory-shortage-and-evaluating-more-suppliers) ⭐️ 6.5/10
 
-Indian startup Vimag Labs has developed a wirelessly excited electric vehicle (EV) motor that eliminates the need for rare-earth permanent magnets while claiming to deliver performance comparable to permanent magnet synchronous motors (PMSMs). This development addresses a critical supply chain vulnerability, as rare-earth elements are concentrated in a few countries and subject to geopolitical trade restrictions. If the claimed PMSM-level performance is validated, it could significantly reduce EV manufacturing costs and dependency on imported rare-earth materials. The motor uses wireless excitation to generate the rotor magnetic field instead of permanent magnets, a concept originally pioneered by University of Tokyo researchers for wheel motor applications. The technology is still at an early announcement stage, and independent verification of PMSM-comparable torque, efficiency, and durability metrics has not yet been published.
+During Apple's record Q2 earnings call (revenue of $109.4 billion), CEO Tim Cook stated that the company has benefited from stockpiled memory inventory to mitigate the impact of memory inflation, and confirmed that Apple sources memory from three suppliers—SK hynix, Micron, and Samsung—while actively evaluating additional options, likely including Chinese memory makers YMTC for NAND Flash and CXMT for DRAM, the latter of which may require regulatory approval. As one of the world's largest electronics manufacturers, Apple's supplier diversification strategy has significant ripple effects across the global semiconductor supply chain. Adding Chinese memory makers amid ongoing US-China tech tensions could reshape the NAND and DRAM markets and signal shifting geopolitical dynamics in chip procurement. Tim Cook warned that Apple will pay even more for memory in the September quarter than in the June quarter, indicating ongoing upward pressure on memory pricing. Apple's existing three-supplier structure (SK hynix, Micron, Samsung) covers both DRAM and NAND, and any addition of YMTC (NAND) and CXMT (DRAM) would require separate US regulatory clearance given existing sanctions on certain Chinese chipmakers.
 
-rss · EE Times · Jul 30, 07:00
+rss · TechPowerUp News · Jul 31, 08:53
 
-**Background**: Permanent magnet synchronous motors (PMSMs) are the dominant motor type in modern EVs because they offer high efficiency, power density, and precise control. They rely on rare-earth magnets—typically containing neodymium and dysprosium—to generate a strong, stable magnetic field in the rotor. The concentration of rare-earth mining and processing in a handful of countries creates supply chain risks, motivating research into magnet-free alternatives such as induction motors, switched reluctance motors, and wirelessly excited synchronous motors. The wirelessly excited motor concept uses wireless power transfer to energize the rotor field electromagnetically, avoiding permanent magnets entirely.
+**Background**: NAND flash is non-volatile storage that retains data without power and is used in SSDs and mobile devices for persistent storage, while DRAM is volatile memory used as a computer's working memory for active processing. YMTC (Yangtze Memory Technologies Corp.), founded in 2016 in Wuhan with Chinese government backing, is China's leading NAND flash producer using its proprietary Xtacking architecture. CXMT (ChangXin Memory Technologies), also founded in 2016, is China's only large-scale DRAM manufacturer, producing DDR4 modules for mobile, PC, and server applications. Both firms represent China's strategic push to reduce dependence on foreign chipmakers amid ongoing US export controls.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.caranddriver.com/features/a70943678/electric-car-ev-motors-how-they-work/">caranddriver.com/features/a70943678/ electric - car -ev- motors -how...</a></li>
-<li><a href="https://www.emobility-engineering.com/magnetic-materials-ev-motors-performance-innovations/">Magnetic Materials for EV Motors: Rare Earths & Emerging Tech</a></li>
-<li><a href="https://www.researchgate.net/publication/381205390_Applications_of_Wireless_Power_Transfer_System_in_Motors_A_Review">(PDF) Applications of Wireless Power Transfer System in Motors ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
+<li><a href="https://www.techtarget.com/searchstorage/definition/RAM-random-access-memory">What is RAM ( random access memory )? | Definition from TechTarget</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#electric-vehicles`, `#motor-technology`, `#rare-earth-alternatives`, `#hardware`, `#startup`
+**Tags**: `#Apple`, `#semiconductors`, `#memory-shortage`, `#supply-chain`, `#geopolitics`
 
 ---
 
 <a id="item-19"></a>
-## [Samsung Q2 Chip Profit Surges 250x to $62 Billion Amid 2027 Supply Shortage Outlook](https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/) ⭐️ 7.0/10
+## [(PR) Apple Reports Third Quarter Fiscal 2026 Results](https://www.techpowerup.com/351246/apple-reports-third-quarter-fiscal-2026-results) ⭐️ 6.5/10
 
-Samsung reported Q2 chip division profit of $62 billion, a 250-fold year-over-year increase, on Q2 revenue of $119 billion. The company also projected an ongoing supply shortage through 2027, signaling sustained strong demand. This unprecedented profitability reflects how AI-driven demand for memory and advanced chips has transformed the semiconductor industry from a cyclical business into a structurally tight market. Samsung's results, alongside peers SK hynix and Micron, signal that the memory supercycle is far from over and will reshape pricing, supply allocation, and technology roadmaps across the entire electronics ecosystem. Samsung's semiconductor division spans three core segments — Memory (DRAM, NAND, HBM), System LSI, and Foundry — with internal foundry capacity increasingly being prioritized for HBM4 base die production over external customers. Industry data from Nikkei indicates DRAM supply will meet only 60% of demand through 2027, with all three major memory makers prioritizing AI memory over consumer chips.
+Apple reports strongest June quarter ever with $109.4B revenue (up 16% YoY), driven by double-digit growth across iPhone, Mac, and Services, alongside announcing the new Siri AI at WWDC26.
 
-rss · Electronics Weekly · Jul 30, 11:08
+rss · TechPowerUp News · Jul 30, 20:38
 
-**Background**: The global memory supply shortage, dubbed 'RAMmageddon' by media, began in 2025 and is driven primarily by surging AI infrastructure demand for high-bandwidth memory (HBM) used in GPUs and accelerators. Unlike the 2020–2023 chip shortage caused by pandemic-era disruptions, this shortage is demand-driven and structural, with major manufacturers like Samsung, SK hynix, and Micron unable to add capacity quickly enough due to the complexity of advanced memory production. HBM4 represents the next generation of stacked memory critical for next-generation AI processors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
-<li><a href="https://www.how2shout.com/news/memory-shortage-2027-ai-hbm-samsung-sk-hynix-micron.html">Memory Shortage to Last Until 2027: AI Demand Squeezes PC ...</a></li>
-<li><a href="https://semiconductor.samsung.com/about-us/business-area/">Business Areas | About Us | Samsung Semiconductor Global</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#Samsung`, `#industry-news`, `#supply-chain`, `#financial-reporting`
+**Tags**: `#apple`, `#earnings`, `#quarterly-results`, `#siri-ai`, `#finance`
 
 ---
 
 <a id="item-20"></a>
-## [GloFo gets $300m for  SiPho](https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/) ⭐️ 7.0/10
+## [Seagate Targets 50 TB HAMR Hard Drives for 2027 Validation](https://www.techpowerup.com/351243/seagate-roadmap-targets-50-tb-hamr-hard-drives-in-2027) ⭐️ 6.5/10
 
-The U.S. Department of Commerce is advancing $300 million to Globalfoundries to accelerate R&D in next-generation silicon photonics, covering optical materials, wafer technologies, and advanced packaging.
+Seagate revealed in its Q4 fiscal 2026 earnings report that 50 TB HAMR hard drives are planned for customer validation in 2027, built on a new Mozaic 5+ platform that exceeds 5 TB per platter across ten platters. The company also confirmed that its current Mozaic 4+ platform, which tops out at 44 TB, is expected to represent 50% of HAMR exabytes shipped by the end of 2026. This roadmap signals continued areal-density growth crucial for AI-driven data center expansion, where storage demand is ballooning far faster than data center footprints can grow. Seagate's HAMR scale-up also sets the competitive pace against rival drive technologies and emerging alternatives like SSD stacking in the hyperscale market. The 50 TB milestone is achieved through ten 5+ TB platters rather than platter-count increases, and the Mozaic 5+ drives will first go through customer qualification, then OEM and data center validation before broader availability. Seagate also disclosed a longer-term lab target of 10 TB per platter around 2028, which would push drives toward 100 TB, with the broader capacity roadmap reaching 50–60 TB by 2030 and past 80 TB by 2031–2032.
 
-rss · Electronics Weekly · Jul 30, 05:35
+rss · TechPowerUp News · Jul 30, 20:18
 
-**Tags**: `#silicon-photonics`, `#semiconductor-manufacturing`, `#government-funding`, `#GlobalFoundries`, `#advanced-packaging`
+**Background**: Heat-Assisted Magnetic Recording (HAMR) is an advanced hard drive technology that uses a laser to momentarily heat the platter surface during writing, allowing much smaller magnetic grains to be stably magnetized and thereby increasing areal density well beyond the limits of conventional perpendicular magnetic recording (PMR) and its microwave-assisted successor (MAMR). Seagate's Mozaic 4+ is the world's first commercially shipping HAMR-based platform, deployed initially at hyperscale cloud providers running massive AI and big-data workloads. Consumer-grade HAMR drives are not expected anytime soon: qualification cycles for enterprise HDDs typically take years, and Seagate's roadmap is explicitly aimed at Big Tech, enterprises, and AI companies rather than retail channels.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techradar.com/pro/seagate-reveals-mozaic-4-its-highest-capacity-hard-drives-ever-offering-up-to-44tb-for-the-next-generation-of-storage">Seagate Mozaic 4+ is its highest-capacity hard drives ever | TechRadar</a></li>
+<li><a href="https://www.techspot.com/news/113301-seagate-looking-launch-50tb-hamr-hard-disk-drives.html">Seagate aims to launch 50TB HAMR hard drives in 2027 | TechSpot</a></li>
+<li><a href="https://www.itjones.com/blogs/2024/07/01/what-is-heat-assisted-magnetic-recording-hamr-and-how-is-it-going-to-impact-your-data-storage">What Is Heat - Assisted Magnetic Recording ( HAMR ) And How Is It ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#hardware`, `#storage`, `#HAMR`, `#Seagate`, `#enterprise`
 
 ---

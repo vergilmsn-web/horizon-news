@@ -9,371 +9,403 @@ lang: zh
 
 ---
 
-1. [开源 AMD RADV Vulkan 驱动从 Linux 移植至 Windows](#item-1) ⭐️ 8.5/10
-2. [GitHub 现已上线堆叠式 PR 功能](#item-2) ⭐️ 8.0/10
-3. [Google DeepMind 发布 Gemini Robotics 2，赋予机器人全身智能](#item-3) ⭐️ 8.0/10
-4. [OpenAI 通过内核优化将 GPT-5.6 Luna 价格降低 80%](#item-4) ⭐️ 8.0/10
-5. [Intel 拟将 x86 Atom 的 RTL 代码授权给 Rosaic Labs](#item-5) ⭐️ 8.0/10
-6. [美国联邦通信委员会禁止中国机器人](#item-6) ⭐️ 8.0/10
-7. [希捷路线图：2027 年实现 50TB HAMR 硬盘](#item-7) ⭐️ 7.5/10
-8. [（新闻稿）铠侠推出首批搭载最新 BiCS FLASH 第 10 代的 PCIe 6.0 企业级固态硬盘](#item-8) ⭐️ 7.5/10
-9. [亚马逊用 Claude 处理简单编码任务意外花费 180 万美元](#item-9) ⭐️ 7.5/10
-10. [探索 Apple Silicon 在本地 AI 性能方面的表现——搭载 M4 Max 的 Mac Studio——M4 Max 在解码吞吐量上超越 GB10 和 Strix Halo，但内存带宽并非唯一决定因素](#item-10) ⭐️ 7.5/10
-11. [AMD 推出 Ryzen Embedded AI X100，发布物理 AI 全栈产品](#item-11) ⭐️ 7.5/10
-12. [MiniMax H3 正式发布](#item-12) ⭐️ 7.3/10
-13. [顶尖 AI 初创公司鲜少发表论文](#item-13) ⭐️ 7.3/10
-14. [购买电视流媒体棒之前请先阅读此文](#item-14) ⭐️ 7.0/10
-15. [物理学家解开μ子谜团，但旧实验结果却对不上](#item-15) ⭐️ 7.0/10
-16. [Martin Fowler 分析 AI 辅助重构的经济价值](#item-16) ⭐️ 7.0/10
-17. [高通收购 Modular 开源 AI 软件栈](#item-17) ⭐️ 7.0/10
-18. [印度初创公司 Vimag Labs 开发无稀土无线励磁电动汽车电机](#item-18) ⭐️ 7.0/10
-19. [三星 Q2 芯片利润暴涨 250 倍达 620 亿美元，2027 年供应短缺预期持续](#item-19) ⭐️ 7.0/10
-20. [格罗方德获 3 亿美元资金支持硅光子技术研发](#item-20) ⭐️ 7.0/10
+1. [Lumentum CEO 警告：磷化铟短缺将比内存危机更严重](#item-1) ⭐️ 8.5/10
+2. [DeepSeek V4 Flash 0731 智能、性能与价格分析](#item-2) ⭐️ 8.0/10
+3. [JEP 401 值对象（预览版）合并至 OpenJDK 主分支](#item-3) ⭐️ 8.0/10
+4. [Zoox 成为首个获批真正无人驾驶 Robotaxi 的公司](#item-4) ⭐️ 8.0/10
+5. [澜起科技试产业界首款 CXL 3.2 MXC 芯片](#item-5) ⭐️ 7.5/10
+6. [台积电开发类 EMIB 封装技术以抗衡英特尔](#item-6) ⭐️ 7.5/10
+7. [Valve 资助将 RADV Vulkan 驱动从 Linux 移植到 Windows](#item-7) ⭐️ 7.5/10
+8. [亚马逊误用 Claude 处理琐碎编码任务花费 180 万美元，超预算 860%——内部 AI 使用指标中发现"灾难性昂贵"的编码失误](#item-8) ⭐️ 7.5/10
+9. [AMD 推出 Ryzen 嵌入式 AI X100，公布物理 AI 战略](#item-9) ⭐️ 7.5/10
+10. [最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146 座无人机机场构建"城市智眼"](#item-10) ⭐️ 7.3/10
+11. [欧盟《人工智能法》透明度要求 8 月 2 日起正式生效](#item-11) ⭐️ 7.3/10
+12. [图灵奖得主朱迪亚·珀尔：大模型会讲因果，因为人类替它解释过世界，但无法通向 AGI](#item-12) ⭐️ 7.3/10
+13. [会话可移植性：AI 编程助手的隐性锁定](#item-13) ⭐️ 7.0/10
+14. [GitHub 堆叠式 Pull Request 公开预览版正式上线](#item-14) ⭐️ 7.0/10
+15. [我标记了两篇有虚假作者的论文，它们均被录用为口头报告](#item-15) ⭐️ 7.0/10
+16. [台积电 CoWoS-S 与 CoWoS-R 的关键差异解析](#item-16) ⭐️ 7.0/10
+17. [军事 AI 智能体面临日益严峻的网络威胁](#item-17) ⭐️ 7.0/10
+18. [苹果应对内存短缺，评估中国供应商长江存储与长鑫存储](#item-18) ⭐️ 6.5/10
+19. [（公关稿）苹果公布 2026 财年第三季度业绩](#item-19) ⭐️ 6.5/10
+20. [希捷目标 2027 年实现 50TB HAMR 硬盘验证](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [开源 AMD RADV Vulkan 驱动从 Linux 移植至 Windows](https://www.techpowerup.com/351212/devs-port-open-source-linux-amd-graphics-driver-to-windows) ⭐️ 8.5/10
+## [Lumentum CEO 警告：磷化铟短缺将比内存危机更严重](https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory) ⭐️ 8.5/10
 
-Valve 正在资助 Collabora 将开源的 AMD RADV Vulkan 驱动从 Linux 上的 Mesa 3D 图形库移植到 Windows，使其成为 Windows 平台上首个开源 GPU 驱动。Collabora 已经在移植后的驱动上成功运行了《反恐精英 2》，但仍有一些技术挑战尚未解决。 这是一个历史性的里程碑，因为 Windows 此前从未拥有过任何 GPU 厂商提供的开源驱动，这可能会颠覆数十年来主导 Windows 平台的专有 GPU 驱动生态。此举有望提高驱动开发的透明度，加快调试速度，并使同时运行 Windows 的 Linux 掌上游戏设备（如 Steam Deck）受益。 RADV 是 AMD 自有的开源 AMDVLK 驱动和闭源 Radeon Software Vulkan 驱动的替代方案，主要架构差异在于所使用的管线编译器（pipeline compiler）。移植工作仍处于早期阶段，存在尚未解决的开发挑战，Valve 目前只赞助了该项目的第一阶段。
+Lumentum 首席执行官 Michael Hurlston 在 RAISE Summit 上警告称，磷化铟（InP）正面临比当前内存短缺更严重的供应紧缩，目前晶圆厂和材料的供应量已比客户需求低约 30%。 这一警告意义重大，因为磷化铟是实现共封装光学（CPO）的关键材料，而 CPO 是下一代 AI 数据中心互连的核心技术。在高带宽光连接需求激增之际，持续的供应瓶颈可能制约 AI 基础设施的建设速度，进而影响整个行业的部署时间表。 Lumentum 是基于磷化铟的激光元器件的主要供应商，这些元器件被用于硅光子收发器中。30%的供应缺口与广受关注的内存芯片短缺相比更为严峻，表明光子学材料供应链的扩产准备可能还不如硅供应链充分。
 
-rss · TechPowerUp News · 7月30日 04:39
+rss · Tom's Hardware · 7月31日 12:45
 
-**背景**: Mesa 是一个历史悠久的开源图形库，最初是 OpenGL 规范的开源实现，后来逐渐扩展支持多种图形 API，包括 OpenGL ES、OpenCL、Vulkan 和 VA-API。RADV 是 Mesa 中面向 AMD Radeon GPU 的开源 Vulkan 驱动，在许多基于 AMD 的 Linux 系统上是默认的图形驱动。Vulkan 是一种低开销、跨平台的图形与计算 API，旨在让开发者比 OpenGL 等旧 API 更直接地控制 GPU 硬件。
+**背景**: 磷化铟（InP）是一种 III-V 族化合物半导体，因其能在光纤通信所用波长下高效地产生、检测和调制光信号而备受青睐，非常适合用于高速光收发器。硅光子技术利用硅制造工艺在硅晶圆上构建光学元件，从而以更低的成本、更高的可扩展性实现光学与电子器件的集成。共封装光学（CPO）则更进一步，将光子芯粒直接放置在与交换 ASIC 相同的基板上，大幅缩短电气互连长度、降低功耗和延迟——随着 AI 工作负载推动数据中心内部带宽需求激增，这些能力变得愈发关键。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.phoronix.com/search/RADV">RADV - Phoronix</a></li>
-<li><a href="https://deepwiki.com/mirror/mesa/3.2-amd-vulkan-driver-(radv)">AMD Vulkan Driver ( RADV ) | mirror/mesa | DeepWiki</a></li>
-<li><a href="https://mesa3d.org/">Home — The Mesa 3D Graphics Library</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Indium_phosphide">Indium phosphide - Wikipedia</a></li>
+<li><a href="https://www.corning.com/optical-communications/worldwide/en/home/the-signal-network-blog/what-is-co-packaged-optics.html">What is Co-Packaged Optics? | CPO Technology is the Future of Data Center Processing | Corning</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open-source`, `#gpu-drivers`, `#amd`, `#vulkan`, `#valve`, `#windows`, `#graphics`
+**标签**: `#semiconductors`, `#supply-chain`, `#silicon-photonics`, `#AI-infrastructure`, `#co-packaged-optics`
 
 ---
 
 <a id="item-2"></a>
-## [GitHub 现已上线堆叠式 PR 功能](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) ⭐️ 8.0/10
+## [DeepSeek V4 Flash 0731 智能、性能与价格分析](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) ⭐️ 8.0/10
 
-GitHub 已公开发布预览版堆叠式 PR（Stacked PRs），这是一项重要的工作流功能，允许开发者将存在依赖关系的拉取请求作为一组进行管理，但早期用户反馈称该功能存在较多明显的 Bug。
+DeepSeek V4 Flash 0731 模型正式发布，基准测试分析显示其在输出价格为每百万 token 0.28 美元的情况下仍具备竞争力的智能水平，由此引发了关于低成本 API 可持续性以及本地部署方案的广泛讨论。
 
-hackernews · tomzorz · 7月30日 16:26 · [社区讨论](https://news.ycombinator.com/item?id=49112232)
+hackernews · theanonymousone · 7月31日 07:59 · [社区讨论](https://news.ycombinator.com/item?id=49120299)
 
-**标签**: `#github`, `#developer-tools`, `#version-control`, `#code-review`, `#workflow`
+**标签**: `#DeepSeek`, `#LLM`, `#AI-models`, `#model-pricing`, `#open-source`
 
 ---
 
 <a id="item-3"></a>
-## [Google DeepMind 发布 Gemini Robotics 2，赋予机器人全身智能](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) ⭐️ 8.0/10
+## [JEP 401 值对象（预览版）合并至 OpenJDK 主分支](https://github.com/openjdk/jdk/pull/31120) ⭐️ 8.0/10
 
-Google DeepMind 发布了 Gemini Robotics 2，这是其最先进的视觉-语言-动作（VLA）模型，能够将视觉和语言输入直接转换为运动控制，使机器人能够从脚到指尖控制其全身。该模型旨在为各类机器人提供动力，将深度空间推理与长程规划相结合，以完成复杂的多步骤任务。 此次发布代表了朝着通用物理具身 AI 迈出的重要一步，从纯语言模型迈向能够在现实世界中推理和行动的机器人。通过将前沿多模态 AI 与灵巧的机器人控制相结合，Google DeepMind 正在与其他 AI 实验室展开竞争，争夺能够交付适应性强的多机器人协作系统并获得广泛应用。 Gemini Robotics 2 将深度空间推理与长程规划相结合，使机器人能够规划多步骤序列并完成不熟悉的任务，同时支持多机器人协作。DeepMind 将该模型描述为一个可以为任何类型机器人提供动力的智能层，但早期用户反馈指出，当前硬件执行器仍然是实际应用中流畅性的主要限制因素。
+JEP 401（值对象预览版）已合并至 OpenJDK 主分支，标志着历时多年的 Project Valhalla 项目在将值类型引入 Java 语言方面迈出了关键一步。该特性作为预览功能在 JDK 28 中提供，可通过添加 --enable-preview 标志进行编译和运行来体验。 值对象弥补了 Java 长期以来缺失值类型的不足，允许 JVM 将无标识的高效对象存储在栈上甚至 CPU 寄存器中，而非堆上，从而带来显著的性能提升。这是 Java 语言的一次根本性演进，将影响开发者建模数据和优化性能关键代码的方式。 该特性目前处于预览阶段，随 JDK 28 发布，编译和运行时均需添加 --enable-preview 标志；为获得最佳性能，所有引用值类的相关类也应使用预览模式编译。大多数现有类可以兼容地迁移为值类，但仍存在一些行为不兼容性和库 API 限制。
 
-hackernews · ai2027 · 7月30日 15:15 · [社区讨论](https://news.ycombinator.com/item?id=49111237)
+hackernews · mfiguiere · 7月31日 04:38 · [社区讨论](https://news.ycombinator.com/item?id=49119063)
 
-**背景**: 视觉-语言-动作（VLA）模型是一类将 Google Gemini 等大型多模态模型扩展到物理世界的人工智能系统，通过直接输出运动指令来实现操控。灵巧机器人控制指的是机器人使用多指机械手或末端执行器执行精细操作任务的能力，而非简单的平行夹爪。全身智能则更进一步，协调类人机器人的完整运动学，包括腿部、躯干和手臂，使其能够在非结构化环境中实现更自然、能力更强的运动。
+**背景**: Project Valhalla 是 OpenJDK 的孵化器项目，旨在为 Java 引入值类型及相关增强特性，弥合面向对象表达力与底层性能效率之间的鸿沟。传统 Java 对象是基于堆分配的引用并具有对象身份，对于像数值元组这样的小型不可变数据会带来额外开销。值对象移除了对对象身份的要求，使内存布局更扁平、CPU 缓存行为更优。JEP 401 是 Valhalla 首批进入 JDK 的内容，后续阶段预计还将推出更多特性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">Gemini Robotics 2 brings whole body intelligence to robots</a></li>
-<li><a href="https://deepmind.google/models/gemini-robotics/gemini-robotics/">Gemini Robotics 2 — Google DeepMind</a></li>
-<li><a href="https://deepmind.google/models/gemini-robotics/">Gemini Robotics — Google DeepMind</a></li>
+<li><a href="https://openjdk.org/jeps/401">JEP 401: Value Objects (Preview)</a></li>
+<li><a href="https://inside.java/2025/10/27/try-jep-401-value-classes/">Try Out JEP 401 Value Classes and Objects - Inside.java</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Project_Valhalla_(Java_language)">Project Valhalla (Java language) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论异常丰富，包含一位 DeepMind 研究员（canyon289）的罕见内部视角，他赞扬了该实验室跨学科的广度。其他评论者指出 Google 在各种模型类型上被低估的广度（xnx），将当前进展与早期大语言模型的快速发展相类比（FartyMcFarter），对硬件执行器限制阻碍类人机器人发展表示担忧（Geee），并就日常任务（如拧门把手、避免碰撞）的实际准备就绪情况提出了尖锐问题（aabhay）。整体情绪持谨慎乐观态度，在对 AI 进展感到兴奋的同时，对短期内物理部署的可行性保持怀疑。
+**社区讨论**: 社区反应总体积极，开发者对值类型这一期待已久的性能改进表示热情，并对 Java 团队在语言演进中谨慎且保持向后兼容的做法表示赞赏。评论者 mormegil 提醒这只是 Valhalla 项目的第一部分，并引导读者参阅更深入的分析；其他评论者则分享了此前的相关讨论链接以提供更多背景。
 
-**标签**: `#robotics`, `#deepmind`, `#gemini`, `#ai`, `#humanoid-robots`
+**标签**: `#java`, `#openjdk`, `#project-valhalla`, `#value-objects`, `#jvm`
 
 ---
 
 <a id="item-4"></a>
-## [OpenAI 通过内核优化将 GPT-5.6 Luna 价格降低 80%](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) ⭐️ 8.0/10
+## [Zoox 成为首个获批真正无人驾驶 Robotaxi 的公司](https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/) ⭐️ 8.0/10
 
-OpenAI 宣布将 GPT-5.6 Luna 模型降价 80%，使其价格降至原来的五分之一。此次降价得益于内核优化，将端到端推理服务成本削减了 20%，并将 token 生成效率提升了超过 15%。 此次发布可能逆转一年来 AI 推理价格持续上涨的行业趋势，并标志着模型提供商之间的竞争正在加剧。性价比的大幅跃升可能催生新的高吞吐量应用场景，例如为研究、假设生成等工作并行运行数十个智能体，而这些场景此前因成本过高而难以实现。 GPT-5.6 采用三层架构（Sol、Terra、Luna），其中 Luna 定位于速度最快、价格最低的层级，面向成本敏感的高吞吐量工作负载。20% 的服务成本降低与 15% 的 token 效率提升产生了叠加效应，但 OpenAI 尚未披露这些效率提升是否会同步惠及 Sol 和 Terra 等更高层级模型。
+亚马逊旗下的 Zoox 成为首家获得监管批准、可部署真正无人驾驶 Robotaxi 的公司，获准在两年内每年运营最多 2,500 辆自动驾驶车辆。 这是自动驾驶汽车商业化的历史性里程碑，因为 Zoox 获得批准意味着车辆不再需要配备安全员，并为 Waymo 和特斯拉等其他公司开创了先例。这表明监管机构对自动驾驶技术在公共大规模部署方面的成熟度越来越有信心。 Zoox 的 Robotaxi 采用无方向盘的双向内部布局，可容纳最多四名乘客，这使其与改装自传统车辆的自动驾驶汽车区分开来。此次批准发生在 NHTSA 简化无传统控制装置自动驾驶汽车审批流程之后，这一变化帮助像 Zoox 这样的公司部署没有方向盘或踏板的车辆。
 
-hackernews · tedsanders · 7月30日 17:15 · [社区讨论](https://news.ycombinator.com/item?id=49112867)
+rss · Electronics Weekly · 7月31日 05:10
 
-**背景**: OpenAI 的 GPT-5.6 系列标志着该公司首次采用明确的多层架构，将模型代数（5.6）与能力等级解耦，让用户可以在成本和性能之间灵活取舍。内核级优化指的是加速模型推理的低层 GPU 代码，这一层面的改进可以直接转化为服务容量的提升和成本的下降，而无需改动模型权重。行业背景方面，Meta 的 KernelEvolve 和 Standard Kernel 等项目同样利用 AI 驱动的内核优化来提升推理吞吐量。
+**背景**: Robotaxi 是作为按需网约车服务运营的自动驾驶汽车，利用机器学习、人工智能和车载传感器在无人驾驶的情况下在道路上行驶。Zoox 于 2020 年被亚马逊收购，专门开发全新设计的自动驾驶车辆，而非改装现有车型。美国国家公路交通安全管理局（NHTSA）负责自动驾驶汽车的审批流程，该机构在 2025 年简化了无传统人类控制装置车辆的豁免流程，此前的繁琐流程曾导致福特和通用等公司面临漫长的审批延迟。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://apimodels.app/models/gpt-5-6-luna">GPT-5.6 Luna ( OpenAI ) API — Official Model · Cost tier , Up to 95% Off</a></li>
-<li><a href="https://www.hackaigc.com/blog/gpt-5-6-sol-terra-luna-openai-tiers-2026">GPT-5.6 Sol, Terra & Luna : OpenAI 's Three- Tier Model Family...</a></li>
-<li><a href="https://grokipedia.com/page/Most_Token-Efficient_AI_Models_2026">Most Token-Efficient AI Models (2026) — Grokipedia</a></li>
+<li><a href="https://www.usatoday.com/story/cars/research/reviews/2026/05/11/zoox-vs-waymo-tesla-amazon-robotaxi-differences/89981647007/">Amazon Zoox robotaxi vs Waymo, Tesla: What sets it apart</a></li>
+<li><a href="https://www.automotiveworld.com/news/nhtsa-streamlines-autonomous-vehicle-approval-process-2/">NHTSA streamlines autonomous vehicle approval process | Automotive World</a></li>
+<li><a href="https://www.nvidia.com/en-in/glossary/robotaxi/">What is a Robotaxi ? | NVIDIA Glossary</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应总体上极为正面且充满惊喜，评论者认为对一个本就廉价的模型再降价 80% 更像是范式转变事件，而非典型的 5-10% 渐进式改进。simonw 提出了一个关键问题：鉴于已知的推理基础设施支出（例如 Anthropic 披露的 12.5 亿美元 SpaceX 合同），20% 的服务成本降低是否意味着每月可节省数十亿美元。bob1029 将这一变化类比为从拨号上网到宽带的转型，并指出未来可以并行运行 50 个以上智能体进行统计假设生成，而 pavpanchekha 则将其与 Kimi K3 和 GLM 5.2 等竞争对手一起，归入整体价格下行趋势的一部分。
-
-**标签**: `#OpenAI`, `#GPT-5`, `#AI-pricing`, `#model-efficiency`, `#infrastructure`
+**标签**: `#autonomous-vehicles`, `#robotaxi`, `#Zoox`, `#regulatory-approval`, `#Amazon`
 
 ---
 
 <a id="item-5"></a>
-## [Intel 拟将 x86 Atom 的 RTL 代码授权给 Rosaic Labs](https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/) ⭐️ 8.0/10
+## [澜起科技试产业界首款 CXL 3.2 MXC 芯片](https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5) ⭐️ 7.5/10
 
-Intel 计划将其 x86 Atom 处理器核心的 RTL（寄存器传输级）代码授权给 Rosaic Labs，这是一家于 2025 年 5 月成立的初创公司，由首席执行官 Amarjit Gill 领导。所授权的 IP 可能是"Tremont"微架构或更新的 Atom 级核心。 Intel 历来将 x86 设计视为严密保护的专有知识产权，向外部初创公司授权完整 RTL 在整个半导体行业极为罕见，可能具有开创先例的意义。这有望为新的 x86 兼容设计、定制化变体以及第三方参与传统上由 Intel 和 AMD 主导的 x86 生态打开大门。 具体授权的 Atom 核心 IP 尚未披露，候选方案包括"Tremont"（最后一个独立 Atom 微架构，用于 Elkhart Lake 和 Jasper Lake）或更新的核心。据报道，Rosaic Labs 正在筹集约 1000 万美元以支持其芯片计划，该计划看起来专注于低功耗 x86 设计。
+澜起科技宣布业界首款 CXL 3.2 内存扩展控制器（MXC）芯片进入试产阶段，支持 PCIe 6.x，并集成最高可达 8000 MT/s 的双通道 DDR5 控制器。该芯片符合 CXL Type 3 规范，能够将主机端 CXL 内存请求实时转换为 DDR 命令，从而突破传统服务器的内存容量限制。 随着 AI 工作负载对内存带宽与容量需求的持续提升，基于 CXL 的内存扩展正成为数据中心扩展的关键工具，率先试产 CXL 3.2 芯片使澜起科技在这一新兴赛道占据先发优势。该芯片对 PCIe 6.x 与 8000 MT/s DDR5 的支持，精准对接了 Intel、AMD 及主要云和 AI 厂商正在部署的下一代内存基础设施。 该 MXC 芯片通过 PCIe 6.x 提供高达 64 GT/s 的数据传输速率，并集成可支持 8000 MT/s 的双通道 DDR5 控制器。它实现了 CXL.mem 与 CXL.io 子协议，但未实现 CXL.cache，因此定位为 Type 3 内存扩展器，而非具备完整一致性的加速器。
 
-rss · Electronics Weekly · 7月30日 11:35
+rss · TechPowerUp News · 7月31日 15:07
 
-**背景**: 寄存器传输级（RTL）是数字电路设计中的一种设计抽象，描述数据如何在硬件寄存器之间流动以及对这些信号执行的逻辑操作，通常使用 Verilog 或 VHDL 等硬件描述语言表达。x86 指令集架构最初由 Intel 开发，支撑着大多数台式机和服务器 CPU，历史上仅以有限形式授权，主要对象为 AMD。Atom 是 Intel 的低功耗 CPU 产品线，历史上面向入门级任务、网络设备和嵌入式系统，但 Intel 已将其大部分低功耗产品过渡到 E 核设计，以 Gracemont 等微架构作为 Atom 家族的继任者。
+**背景**: Compute Express Link（CXL）是一种构建于 PCIe 之上的缓存一致性互连标准，旨在实现 CPU 与内存扩展器、加速器、Fabric 交换机等设备之间的高带宽、低延迟连接。CXL 标准定义了三个子协议：CXL.io（基于 PCIe 的 I/O 与配置）、CXL.mem（主机到设备的内存访问）和 CXL.cache（设备对主机内存的一致性访问）。CXL Type 3 设备仅实现 CXL.mem 与 CXL.io，特别适合内存扩展与内存池化。最新的 CXL 3.2 规范增加了增强的监控、安全、操作系统支持以及用于内存分层的热页单元（hot-page unit），同时还支持超越早期单主机内存扩展的多主机 Fabric 能力。MXC（内存扩展控制器）芯片位于主机的 CXL 接口与外接 DDR5 内存模组之间，负责将 CXL 内存请求转换为标准的 DDR5 命令。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Register-transfer_level">Register-transfer level - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core">Semiconductor intellectual property core - Wikipedia</a></li>
-<li><a href="https://www.synopsys.com/glossary/what-is-register-transfer-level-design.html">What is Register-Transfer-Level (RTL) Design? | Synopsys</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Compute_Express_Link">Compute Express Link - Wikipedia</a></li>
+<li><a href="https://www.trendforce.com/news/2026/02/09/news-global-memory-interconnect-leader-montage-technology-rides-ai-data-center-boom-to-hk-ipo/">[News] Global Memory Interconnect Leader Montage Technology...</a></li>
+<li><a href="https://ts2.tech/en/cxl-memory-competition-creates-new-ai-expansion-channel-revenue-uptake-could-be-delayed/">CXL Memory Competition Creates New AI Expansion Channel...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#x86`, `#Intel`, `#RTL`, `#semiconductor IP`, `#licensing`
+**标签**: `#CXL`, `#DDR5`, `#memory-expansion`, `#data-center`, `#AI-infrastructure`
 
 ---
 
 <a id="item-6"></a>
-## [美国联邦通信委员会禁止中国机器人](https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/) ⭐️ 8.0/10
+## [台积电开发类 EMIB 封装技术以抗衡英特尔](https://www.techpowerup.com/351236/tsmc-develops-emib-like-technology-to-compete-with-intel) ⭐️ 7.5/10
 
-美国联邦通信委员会以数据收集和潜在监控可能危及国家安全为由，禁止进口中国人形机器人。
+台积电正在内部称为"类 EMIB"的先进封装技术，以直接对标英特尔的嵌入式多芯片互连桥（EMIB），由台湾的欣兴电子（Kinsus Interconnect Technology）协助开发、量产和制造。 此举标志着先进半导体封装市场竞争日益激烈，而封装技术是 AI 加速器和高性能计算芯片的关键支撑，CoWoS 需求飙升但产能受限。通过打造 EMIB 替代方案，台积电旨在抵御英特尔在 AI 封装供应链中不断扩张的份额。 台积电目前提供三种 CoWoS 变体：CoWoS-S 采用全单晶硅中介层与 TSV 通孔，以实现最高布线密度；CoWoS-L 采用混合方案，使用有机基底并在高速芯片互连处嵌入局部硅桥（LSI）；CoWoS-R 则完全用有机铜/聚合物 RDL 中介层替代硅，以实现高性价比的可扩展性。台积电 CoWoS-L 的硅桥与英特尔 EMIB 的关键区别在于硅桥嵌入封装中的哪一层，以及由谁负责前后工序的大规模量产。
 
-rss · Electronics Weekly · 7月30日 05:42
+rss · TechPowerUp News · 7月30日 16:08
 
-**标签**: `#FCC`, `#robotics`, `#US-China relations`, `#trade policy`, `#national security`
+**背景**: 先进封装是将多个硅芯片裸片整合到单一封装中的工艺，现已成为 AI 芯片的瓶颈，因为它决定了能以多高速率连接多少计算和存储资源。TSV（硅通孔）是穿透整个硅晶圆或裸片的垂直电气连接，可实现 3D 堆叠和高密度芯片间通信。英特尔的 EMIB 将微小的硅桥接裸片嵌入封装基板内部，从而实现高密度芯片互连信号传输，无需使用大尺寸且昂贵的全硅中介层。随着 AI 加速器尺寸突破单次光刻曝光的极限光罩（reticle）大小，这些"桥接"和"中介层"技术对于多芯片封装拼接至关重要，这也是英特尔和台积电竞相扩大各自方案产能的原因。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-emib-embedded-multi-die-interconnect-bridge/">Intel EMIB ( Embedded Multi - die Interconnect Bridge ) - SemiWiki</a></li>
+<li><a href="https://xenospectrum.com/en/tsmc-emib-like-packaging/">TSMC Reportedly Developing Advanced Packaging ... | XenoSpectrum</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS ® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#TSMC`, `#Intel`, `#advanced packaging`, `#chiplets`
 
 ---
 
 <a id="item-7"></a>
-## [希捷路线图：2027 年实现 50TB HAMR 硬盘](https://www.techpowerup.com/351243/seagate-roadmap-targets-50-tb-hamr-hard-drives-in-2027) ⭐️ 7.5/10
+## [Valve 资助将 RADV Vulkan 驱动从 Linux 移植到 Windows](https://www.tomshardware.com/software/linux/valve-funding-port-of-linux-radv-radeon-vulkan-driver-to-windows-cross-platform-effort-already-runs-counter-strike-2) ⭐️ 7.5/10
 
-希捷在 2026 财年第四季度财报中公布了更新的存储路线图，确认基于下一代 Mozaic 5+平台的 50TB HAMR 硬盘将于 2027 年进入客户验证阶段，当前容量最高 44TB 的 Mozaic 4+平台预计到 2026 年底将占 HAMR 出货总容量的 50%。 这一路线图标志着硬盘面密度（areal density）的重大飞跃，对超大规模云服务商、AI 数据中心以及管理爆炸式数据增长的企业至关重要——在海量存储场景下，硬盘的每 TB 成本仍优于 SSD。 希捷旗舰硬盘采用十张盘片结构，因此每盘片超过 5TB 即可实现 50TB 目标；公司还计划在 2028 年前后实验室演示每盘片 10TB（理论上有望实现约 100TB 硬盘），更长远路线图到 2030 年达到 50–60TB，2031/2032 年突破 80TB。
+Valve 正在资助一个项目，将 Mesa 的开源 RADV Radeon Vulkan 驱动从 Linux 移植到 Windows，并且该移植工作已取得重要里程碑，成功在 Windows 上运行了《反恐精英 2》。 这一进展打破了图形驱动通常与特定平台绑定的传统界限，可能为使用 AMD GPU 的 Windows 用户提供一个开源替代方案。同时，它也表明 Valve 持续投资于开源图形生态和跨平台兼容性，进一步推动了 Linux 游戏的发展。 RADV 驱动是 Mesa 项目的一部分，支持 AMD 的 GCN 和 RDNA 架构 GPU，由社区开发维护。此次 Windows 移植建立在现有 RADV 工作基础上，复用了 Mesa 中的跨平台抽象层，而非全新编写。《反恐精英 2》能够在移植版上运行证明了其实际可行性，但更广泛的游戏兼容性和性能对等仍有待验证。
 
-rss · TechPowerUp News · 7月30日 20:18
+rss · Tom's Hardware · 7月31日 12:25
 
-**背景**: 热辅助磁记录（HAMR）是一种硬盘记录技术，通过每个磁头上的微型激光二极管瞬间加热盘片上的一个小区域，使得更小、更密集的磁位能够在不损失热稳定性的情况下被写入。希捷的 Mozaic 平台是其 HAMR 产品家族的品牌名称：Mozaic 4+是当前一代，已获得超大规模云服务商认证并以最高 44TB 容量出货，而 Mozaic 5+将是第三代，实现每盘片超过 5TB 的跨越。
+**背景**: Mesa 是 Linux 上最主要的开源 3D 图形库，提供 OpenGL、OpenGL ES、Vulkan、OpenCL 等 API 的开源实现。RADV 是 Mesa 中面向 AMD Radeon GPU 的社区开发 Vulkan 驱动，覆盖较老的 GCN 架构和较新的 RDNA 系列，通常被视为 AMD 官方 AMDVLK 驱动的有力替代方案。Vulkan 是一种低开销、跨平台的图形与计算 API，是 OpenGL 的继任者，稳定的 Vulkan 驱动对于在 Windows 和 Linux 上运行现代游戏至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Heat-assisted_magnetic_recording">Heat-assisted magnetic recording - Wikipedia</a></li>
-<li><a href="https://www.seagate.com/innovation/hamr/">Heat Assisted Magnetic Recording (HAMR)</a></li>
-<li><a href="https://www.businesswire.com/news/home/20260309717474/en/Seagate-Delivers-Industrys-Highest-Capacity-Hard-Drives-with-Next-Generation-Mozaic-4">Seagate Delivers Industry’s Highest Capacity Hard Drives with...</a></li>
+<li><a href="https://mesa3d.org/">Home — The Mesa 3D Graphics Library</a></li>
+<li><a href="https://www.phoronix.com/review/amdvlk-radv-rx7900/3">AMDVLK vs. Mesa RADV Radeon Vulkan Driver ... - Phoronix</a></li>
 
 </ul>
 </details>
 
-**标签**: `#storage`, `#HAMR`, `#Seagate`, `#hard-drives`, `#enterprise-hardware`
+**标签**: `#Vulkan`, `#RADV`, `#Mesa`, `#Linux`, `#AMD`, `#Valve`, `#graphics-drivers`
 
 ---
 
 <a id="item-8"></a>
-## [（新闻稿）铠侠推出首批搭载最新 BiCS FLASH 第 10 代的 PCIe 6.0 企业级固态硬盘](https://www.techpowerup.com/351218/kioxia-introduces-first-pcie-6-0-enterprise-ssds-utilizing-newest-bics-flash-generation-10) ⭐️ 7.5/10
+## [亚马逊误用 Claude 处理琐碎编码任务花费 180 万美元，超预算 860%——内部 AI 使用指标中发现"灾难性昂贵"的编码失误](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics) ⭐️ 7.5/10
 
-铠侠发布 CM10 系列，这是首批采用 BiCS FLASH 第 10 代 TLC 的 PCIe 6.0 企业级固态硬盘，顺序读取性能提升高达 92%，并支持针对 AI 工作负载的直接液冷技术。
+一份内部演示文件显示，亚马逊一次失败的 AI 编码部署使用 Claude 花费了 180 万美元，超出预算 860%，且这一情况在数月内都未被发现。
 
-rss · TechPowerUp News · 7月30日 07:57
+rss · Tom's Hardware · 7月30日 16:08
 
-**标签**: `#PCIe 6.0`, `#Enterprise SSD`, `#Kioxia`, `#AI Infrastructure`, `#NAND Flash`
+**标签**: `#AI costs`, `#AI governance`, `#Claude`, `#Amazon`, `#AI agents`
 
 ---
 
 <a id="item-9"></a>
-## [亚马逊用 Claude 处理简单编码任务意外花费 180 万美元](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics) ⭐️ 7.5/10
+## [AMD 推出 Ryzen 嵌入式 AI X100，公布物理 AI 战略](https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/) ⭐️ 7.5/10
 
-亚马逊一份内部演示文件披露，一次失败的 AI 部署让公司花费了 180 万美元，超出原始预算 860%，原因在于使用 Anthropic 的 Claude 处理一个简单编码任务时出现了不受控的使用，而这一问题在数月内都未被发现。据报道，亚马逊其他几个项目也产生了数十万美元的额外 AI 开支。 作为全球最大的科技公司之一，亚马逊尽管拥有深厚的 AI 专业能力，却未能发现并控制 AI 支出的失控，这为大规模采用 AI 编码工具的企业敲响了警钟。此事件暴露出企业在 AI 成本监控、预算护栏和运营监督方面的系统性缺陷，任何在生产环境中部署大语言模型的公司都可能面临类似问题。 该任务的原始预算约为 21 万美元，但由于数月未受监控的 Claude 使用，成本膨胀至 180 万美元。该事件是通过亚马逊内部 AI 使用指标发现的，说明公司虽然拥有衡量工具，但缺乏有效的告警或预算执行机制。
+在 Advancing AI 2026 大会上，AMD 发布了 Ryzen Embedded AI X100 片上系统（SoC），并展示了涵盖 SoC、模组和开发套件的完整物理 AI 产品栈，瞄准机器人技术和边缘 AI 应用市场。 此次发布标志着 AMD 战略性地进军快速增长的物理 AI 和机器人市场，使该公司在嵌入式 AI 领域与 Nvidia 等竞争对手展开角逐，并切入过去一年间吸引了数十亿美元投资和顶级 AI 人才的领域。 AMD 的物理 AI 产品栈不仅包括 X100 SoC，还涵盖模组和开发套件，为机器人开发者提供完整的硬件生态系统。该 SoC 延续了 AMD 现有的 Ryzen AI Embedded P100 系列 CPU 产品线，旨在将 AI 推理能力直接带到边缘设备上。
 
-rss · Tom's Hardware · 7月30日 16:08
+rss · ServeTheHome · 7月30日 22:00
 
-**背景**: Claude 是由领先的人工智能研究公司 Anthropic 开发的 AI 助手，广泛应用于编码、推理和语言任务。AI 编码工具利用大语言模型生成、重构或调试代码，通常按 token 消耗量计费，这意味着成本会随着使用量的增加而扩大。企业 AI 成本管理已成为一门新兴学科，专注于追踪 token 使用量、在各团队间分配 AI 开支，并设置预算控制以防止支出失控。
+**背景**: 物理 AI 是指将大型 AI 模型与机器人等物理系统相结合，使机器能够适应多样化任务，而不是重复预设的动作。边缘 AI SoC 通常在异构架构中集成 CPU、GPU 和 NPU（神经网络处理单元），使开发者能够在本地设备上运行神经网络推理，而不是依赖云计算。AMD 的 Ryzen Embedded AI X100 加入了竞争激烈的嵌入式处理器市场，该市场还包括瑞芯微等公司的产品，瞄准机器人、物联网和工业自动化领域日益增长的端侧 AI 需求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cloudzero.com/blog/ai-cost-management/">AI cost management in 2026: tools, platforms & controling AI ...</a></li>
-<li><a href="https://docs.getdx.com/reports/ai-cost-management/">AI cost management - docs.getdx.com</a></li>
+<li><a href="https://www.flowerclaw.tech/en/articles/1-7-billion-bet-on-physical-ai-when-large-models-get-hands-a-en">$1.7 Billion Bet on ' Physical AI ': What It Means... | Flower Claw Lab</a></li>
+<li><a href="https://whychips.com/npu-selection-guide-int8-fp8-quantization-for-edge-ai/">NPU Selection Guide: INT8/FP8 Quantization for Edge AI - WhyChips</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ai-cost-management`, `#enterprise-ai`, `#claude`, `#amazon`, `#ai-coding-tools`
+**标签**: `#AMD`, `#embedded AI`, `#physical AI`, `#edge computing`, `#robotics`
 
 ---
 
 <a id="item-10"></a>
-## [探索 Apple Silicon 在本地 AI 性能方面的表现——搭载 M4 Max 的 Mac Studio——M4 Max 在解码吞吐量上超越 GB10 和 Strix Halo，但内存带宽并非唯一决定因素](https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything) ⭐️ 7.5/10
+## [最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146 座无人机机场构建"城市智眼"](https://36kr.com/p/3919271016263303?f=rss) ⭐️ 7.3/10
 
-Tom's Hardware 对搭载 M4 Max 的 Mac Studio 与 NVIDIA GB10 和 AMD Strix Halo 进行了基准测试，结果发现尽管内存带宽并非唯一决定因素，M4 Max 在解码吞吐量方面仍处于领先地位。
+武汉已建成中国首个面向超大城市的全域低空无人机遥感监测网络，部署 146 座无人机机场，具备 5 分钟响应能力，服务于交通管理、生态监测和城市运营等 16 个政府部门。
 
-rss · Tom's Hardware · 7月30日 14:52
+rss · 36氪 · 7月31日 08:12
 
-**标签**: `#apple-silicon`, `#hardware-benchmark`, `#local-llm`, `#m4-max`, `#ai-inference`
+**标签**: `#low-altitude-economy`, `#drone-technology`, `#smart-city`, `#urban-governance`, `#DJI`
 
 ---
 
 <a id="item-11"></a>
-## [AMD 推出 Ryzen Embedded AI X100，发布物理 AI 全栈产品](https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/) ⭐️ 7.5/10
+## [欧盟《人工智能法》透明度要求 8 月 2 日起正式生效](https://36kr.com/newsflashes/3919473270812290?f=rss) ⭐️ 7.3/10
 
-在 Advancing AI 2026 大会上，AMD 发布了 Ryzen Embedded AI X100 处理器，并推出了覆盖 SoC、模块和开发者套件的物理 AI 全栈产品组合。公司将物理 AI 定位为下一个主要增长机会。 物理 AI——使机器在真实环境中感知、决策和行动——是一个新兴的高增长领域，涵盖自动驾驶汽车、工业机器人和服务机器人。AMD 从芯片到开发者套件的全栈布局，标志着其在边缘和嵌入式 AI 市场上对 NVIDIA 等竞争对手的认真承诺。 Ryzen Embedded AI X100 是 AMD 嵌入式处理器产品线的一部分，目标应用为边缘推理工作负载。通过同时提供 SoC、模块和开发者套件，AMD 降低了 OEM 厂商和开发者构建物理 AI 产品的门槛，使其无需自行集成分立元件。
+欧盟委员会 7 月 31 日宣布，自 8 月 2 日起，欧盟 AI 办公室将与各成员国主管部门共同开始执行《人工智能法》相关规定，同时新的人工智能透明度要求也将正式生效。新规要求聊天机器人等交互式 AI 系统必须向用户明确表明其 AI 身份，并对 AI 生成或编辑的深度伪造图片、视频和音频等内容进行标识，添加机器可识别标记以便识别和追踪。 这是全球首部综合性横向 AI 法规开始实际执行的重要里程碑，影响所有在欧盟市场部署的 AI 系统。全球企业必须调整其产品以符合这些透明度标准，否则可能面临处罚，同时这些规则也将塑造全球 AI 治理和内容溯源领域的规范标准。 透明度规则具体针对两类对象：交互式 AI 系统（聊天机器人必须披露其 AI 身份而非冒充真人）和合成媒体（深度伪造内容必须同时携带人类可读标签和类似 C2PA 内容凭证的机器可读标记，以便自动化验证）。值得注意的是，高风险 AI 系统的执法时间已从 2026 年 8 月 2 日推迟至 2027 年 12 月 2 日，且生成儿童性虐材料的 AI 系统已被新增列入禁止清单。
 
-rss · ServeTheHome · 7月30日 22:00
+rss · 36氪 · 7月31日 11:45
 
-**背景**: 物理 AI 是指能够在真实环境中进行感知、决策和行动的智能系统，其应用包括自动驾驶汽车、工业机器人和消费级服务机器人。SoC（片上系统）是将计算机的主要组件——包括 CPU、GPU、内存和 I/O——集成到单一硅片上的集成电路，非常适合体积小、功耗低、成本敏感的嵌入式和边缘设备。AMD 的策略反映了行业更广泛的趋势：芯片厂商提供完整的硬件与工具链，以加速在新兴 AI 市场中的采用。
+**背景**: 欧盟《人工智能法》于 2024 年通过，是全球首部针对人工智能的综合横向监管立法，采用基于风险的分级方法，按风险等级对 AI 系统进行分类。AI 办公室设立于欧盟委员会内部，与各成员国主管当局协同执法，同时 AI 委员会、科学小组和顾问论坛共同主导治理工作。C2PA（内容来源和真实性联盟）内容凭证等机器可读标记允许软件检视和验证数字资产的来源与编辑历史，是区分 AI 生成内容与真实媒体、打击深度伪造欺诈和虚假信息的关键技术工具。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/physical-ai-autonomous-robotics-when-intelligence-moves-girija-ravi-dwc2c">Physical AI and Autonomous Robotics : When Intelligence Moves...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/System_on_a_chip">System on a chip - Wikipedia</a></li>
-<li><a href="https://www.synopsys.com/glossary/what-is-system-on-a-chip.html">What is a System on a Chip (SoC)? - Synopsys</a></li>
+<li><a href="https://artificialintelligenceact.eu/the-ai-office-summary/">The AI Office : What is it, and how does it... | EU Artificial Intelligence Act</a></li>
+<li><a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai">AI Act | Shaping Europe ’s digital future</a></li>
+<li><a href="https://www.jaggaer.com/blog/eu-ai-act-fines-penalties">EU AI Act Fines & Penalties: The Complete Guide</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#edge-AI`, `#embedded-systems`, `#physical-AI`, `#hardware`
+**标签**: `#EU AI Act`, `#AI regulation`, `#transparency`, `#compliance`, `#AI policy`
 
 ---
 
 <a id="item-12"></a>
-## [MiniMax H3 正式发布](https://36kr.com/newsflashes/3918865590677126?f=rss) ⭐️ 7.3/10
+## [图灵奖得主朱迪亚·珀尔：大模型会讲因果，因为人类替它解释过世界，但无法通向 AGI](https://www.solidot.org/story?sid=84970) ⭐️ 7.3/10
 
-MiniMax 正式发布 MiniMax H3，这是一款支持文本、图像、视频和音频理解与生成的通用全模态生成模型，可输出最长 15 秒的 2K 内容，模型权重计划即将开源。
+图灵奖得主朱迪亚·珀尔在最新访谈中指出，大语言模型虽能模仿因果语言，却缺乏真正的因果推理能力，因此无法通向通用人工智能（AGI）；报道同时涉及谷歌面向 Chrome 的动态补丁技术及一项癌症遗传学突破。
 
-rss · 36氪 · 7月31日 01:16
+rss · Solidot · 7月31日 02:34
 
-**标签**: `#multimodal-ai`, `#video-generation`, `#model-release`, `#open-source`, `#text-to-video`
+**标签**: `#causal-inference`, `#AGI`, `#Judea-Pearl`, `#LLM-limitations`, `#cybersecurity`
 
 ---
 
 <a id="item-13"></a>
-## [顶尖 AI 初创公司鲜少发表论文](https://www.solidot.org/story?sid=84959) ⭐️ 7.3/10
+## [会话可移植性：AI 编程助手的隐性锁定](https://earendil.com/posts/session-portability/) ⭐️ 7.0/10
 
-对 bioRxiv 数据的分析显示，超过一半的 AI 独角兽公司几乎未发表过任何论文，而排名前 5% 的公司贡献了 90% 的引用量，由此引发了关于可重复性与透明度的担忧。
+一篇分析文章指出，AI 编程助手和推理服务提供商通过不可移植的会话状态以及将网页搜索、代码执行等功能紧密耦合为「工具」的方式，形成了供应商锁定。用户更换提供商时，不得不放弃已积累的上下文、对话历史和工作流定制。 随着开发者和企业在日常工作中越来越依赖 AI 编程助手，这种锁定重塑了用户与提供商之间的权力关系，可能抑制竞争和创新。如果没有互操作性标准，用户就无法自由选择更好或更便宜的模型，而提供商也几乎不需要在质量或价格上展开竞争。 文章强调，所谓的「前沿推理提供商」将强大的非 LLM 扩展功能（网页搜索、代码执行、文件访问）打包为简单的 API 工具，构建了理论上可分离但实际上难以拆解的技术护城河。评论者 vintagedave 指出 CodeBot 将完整的会话数据流式传输给客户端，与业界普遍存在的不透明做法形成鲜明对比。
 
-rss · Solidot · 7月30日 05:47
+hackernews · apitman · 7月31日 03:47 · [社区讨论](https://news.ycombinator.com/item?id=49118781)
 
-**标签**: `#AI research`, `#academic publishing`, `#AI industry`, `#reproducibility`, `#OpenAI`
+**背景**: AI 推理提供商是通过 API 暴露大语言模型的公司，通常还会在此基础上添加网页搜索或代码执行等额外能力。AI 编程助手是维护持续会话的工具（如 GitHub Copilot、Cursor 或 CodeBot），它们会跟踪用户的文件、编辑、对话历史和工具调用。由于这些会话状态以专有格式存储在提供商的服务器上，并与提供商独有的工具栈深度集成，迁移到竞争对手意味着从零开始。这与历史上操作系统、手机生态和企业软件中出现的锁定模式如出一辙。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://read.technically.dev/p/whats-an-inference-provider">What's an inference provider ? - by Will Raphaelson</a></li>
+<li><a href="https://www.marktechpost.com/2025/08/17/what-is-ai-inference-a-technical-deep-dive-and-top-9-ai-inference-providers-2025-edition/">What is AI Inference ? A Technical Deep Dive and... - MarkTechPost</a></li>
+<li><a href="https://blogs.novita.ai/top-10-ai-inference-providers-in-2025/">Top 10 AI Inference Providers in 2025 - Novita</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员普遍认为这是一个被低估的问题。solarkraft 用「温水中的青蛙」的比喻警告渐进式生态锁定，呼吁用户积极行使切换权利。vintagedave 将 CodeBot 透明的完整会话流式传输与业界普遍的不透明做法进行了对比。hobofan 强调，被打包为简单「工具」的非 LLM 扩展构建了巨大的护城河，而 abound 则补充说，成本驱动的会话内模型切换（可能由路由模型自动完成）是文章未探讨的重要用例。
+
+**标签**: `#AI`, `#vendor-lock-in`, `#developer-tools`, `#open-standards`, `#session-portability`
 
 ---
 
 <a id="item-14"></a>
-## [购买电视流媒体棒之前请先阅读此文](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) ⭐️ 7.0/10
+## [GitHub 堆叠式 Pull Request 公开预览版正式上线](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) ⭐️ 7.0/10
 
-KrebsOnSecurity 警告称，许多廉价的电视流媒体棒在出厂时就被预先配置用于住宅代理滥用和广告欺诈，而电商平台未能针对 FBI 对这些有害设备的警告采取行动。
+GitHub 正式将堆叠式 Pull Request（stacked PRs）功能推向公开预览版，让开发者可以将大型代码变更拆分为一系列相互依赖的小型 PR 并分别进行评审。该功能包含 gh stack 命令行工具和通过 skills 包实现的 AI 智能体集成，并将逐步覆盖所有代码仓库。 这是全球最大代码托管平台在代码评审工作流上的一次重大升级，将影响此前只能依赖 Graphite 等第三方工具的数百万开发者。此次发布也表明 GitHub 正积极回应 AI 编程智能体日益增长的产出——这些智能体往往会生成大规模、多步骤的代码变更，而堆叠式评审正好契合这一需求。 早期用户报告了显著的 Bug，包括整堆合并功能在许多场景下完全失效——当使用 squash 合并并要求评审时，堆栈中每个 PR 都需要重新审批。此次发布也明显缺少针对 AI 智能体优化的文档，部分评论者认为该功能比已经存在多年的 Graphite 实现更为基础且不够成熟。
 
-hackernews · speckx · 7月30日 17:04 · [社区讨论](https://news.ycombinator.com/item?id=49112744)
+hackernews · tomzorz · 7月30日 16:26 · [社区讨论](https://news.ycombinator.com/item?id=49112232)
 
-**标签**: `#cybersecurity`, `#iot-security`, `#consumer-privacy`, `#supply-chain-security`, `#ad-fraud`
+**背景**: 堆叠式 Pull Request（也称为 stacked diffs 或 dependent PR）是一种工作流概念，它将一个大型功能拆分为一系列相互依赖、层层叠加的小型变更，让评审者能够处理更小、更聚焦的变更并轻松追溯依赖关系。GitHub 在该领域明显落后于 Graphite（多年前率先推出此工作流的专业工具）和 Meta 围绕堆叠式提交构建的 Sapling 源代码管理系统。随着 AI 编程智能体产生大量 diff，堆叠式 PR 工作流对于大规模管理评审复杂度变得日益重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.graphite.com/guides/stacked-diffs">Stacked diffs</a></li>
+<li><a href="https://itbrief.in/story/github-puts-stacked-pull-requests-into-public-preview">GitHub puts stacked pull requests into public preview</a></li>
+<li><a href="https://codex.danielvaughan.com/2026/04/16/stacked-prs-coding-agents-gh-stack-sapling-codex-skill/">Stacked PRs Meet Coding Agents: GitHub gh stack , Sapling, and the...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反应褒贬不一：虽然该公告获得了 738 次点赞，但评论者提出了尖锐批评，指责 GitHub 在许多 Bug 未修复的情况下就扩大了预览范围（据报告整堆合并功能存在故障）、使用 squash 合并时每个 PR 都需重新审批的不便，以及对官方示例中按组件拆分（数据库 schema、API、前端作为堆栈中的独立分支）的批评——这可能导致部分功能被部署上线。多位用户指出，相比 Graphite，GitHub 姗姗来迟地发布了一个基础且 Bug 较多的 v1 版本，并且缺乏面向 AI 智能体的文档。
+
+**标签**: `#github`, `#developer-workflow`, `#code-review`, `#version-control`, `#product-launch`
 
 ---
 
 <a id="item-15"></a>
-## [物理学家解开μ子谜团，但旧实验结果却对不上](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/) ⭐️ 7.0/10
+## [我标记了两篇有虚假作者的论文，它们均被录用为口头报告](https://geospatialml.com/posts/reviewing-ai-slop/) ⭐️ 7.0/10
 
-物理学家解决了长期存在的μ子磁矩异常问题，但这一解决方案却与以往的实验结果存在矛盾，可能会重塑我们对基础物理的理解。
+一位审稿人详细揭露了如何有两篇由 AI 生成的虚假作者的论文被机器学习会议录用为口头报告，暴露出学术同行评审中存在严重漏洞。
 
-hackernews · ibobev · 7月30日 15:22 · [社区讨论](https://news.ycombinator.com/item?id=49111305)
+hackernews · volumes94 · 7月30日 22:33 · [社区讨论](https://news.ycombinator.com/item?id=49116721)
 
-**标签**: `#physics`, `#particle-physics`, `#muon-g-2`, `#experimental-science`, `#quanta-magazine`
+**标签**: `#academic-integrity`, `#peer-review`, `#machine-learning`, `#AI-generated-content`, `#conference-reviewing`
 
 ---
 
 <a id="item-16"></a>
-## [Martin Fowler 分析 AI 辅助重构的经济价值](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html) ⭐️ 7.0/10
+## [台积电 CoWoS-S 与 CoWoS-R 的关键差异解析](https://semiwiki.com/semiconductor-manufacturers/tsmc/371759-the-difference-between-cowos-s-and-cowos-r/) ⭐️ 7.0/10
 
-Martin Fowler 发表了一篇文章，探讨在何种经济条件下 AI 辅助的重构能真正创造价值。文章采用「可证明保持正确性的代码修改序列」这一严格的重构定义，并引用了 Giles Edwards-Alexander 的实验——该实验表明将大型函数拆分可以降低 token 成本。 随着 AI 编程工具在软件开发中日益普及，理解何时重构在经济上是划算的——尤其是涉及 LLM token 消耗时——有助于团队就代码质量投入做出明智决策，避免在结构糟糕的代码库上浪费 AI 算力。 文章以 Martin Fowler 的《重构》第二版为理论依据，并分析具体代码（如 @src/firestore.rs），将重构收益与 token 减少等可量化结果挂钩，而非仅做定性论述。社区讨论还强调，紧凑的上下文不仅降低成本，还能提升 AI 的推理质量。
+SemiWiki 发布了一篇技术解析文章，比较了台积电两种主流 CoWoS（晶圆级芯片封装）先进封装方案：采用硅中介层的 CoWoS-S 与基于 RDL（重布线层）互连的 CoWoS-R。 CoWoS 封装是当今 AI 加速器（如 NVIDIA H100 和 B200 GPU）的核心基础，在 AI 芯片需求激增导致 CoWoS 产能紧张的背景下，这两种方案的区别具有高度现实意义。 CoWoS-S 采用完整硅中介层实现高密度互连并嵌入深沟槽电容，适合超高性能计算；CoWoS-R 则用源自台积电 InFO 平台的 RDL 层取代硅中介层，成本更低，但在互连密度上存在权衡。
 
-hackernews · javaeeeee · 7月30日 15:10 · [社区讨论](https://news.ycombinator.com/item?id=49111176)
+rss · SemiWiki · 7月31日 13:00
 
-**背景**: 重构是指在不改软件外部行为的前提下重组现有代码的实践，常用于偿还「技术债务」——即开发过程中因走捷径而累积的额外成本。随着大语言模型（LLM）在编程领域广泛应用，每次交互都会消耗 token（文本处理单元），代码复杂度因此直接影响到 AI 辅助开发的成本。GitHub Copilot、Tabnine、Claude 等工具正越来越多地被评估其在大规模场景下自动提升代码质量的能力。
+**背景**: CoWoS 由台积电于 2012 年推出，是一种 2.5D 先进封装技术，通过将多个小芯片（如处理器和 HBM 高带宽内存）集成在单一封装内，缩短了计算与存储组件之间的电气连接，以应对后摩尔时代的性能瓶颈。中介层是芯片与底层基板之间的中间桥接层。在 2.5D 封装中，硅中介层提供极快且高密度的信号通道，但成本高昂；而基于 RDL 的方案使用有机重布线层作为更经济的替代方案，但互连密度较低。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html">The Economic Benefit of Refactoring - martinfowler.com</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Technical_debt">Technical debt - Wikipedia</a></li>
-<li><a href="https://www.linkedin.com/posts/martin-fowler-com_the-economic-benefit-of-refactoring-activity-7488582775789420544-_JJX">The Economic Benefit of Refactoring | Martin Fowler | 15 comments</a></li>
+<li><a href="https://www.nextpcb.com/blog/cowos-packaging-h100-b200">CoWoS Packaging Explained : Why H100 & B200 Need 2.5D</a></li>
+<li><a href="https://www.aminext.blog/en/post/tsmc-cowos-s-r-l-differences">CoWoS -S, R , L Explained – TSMC’s Advanced Packaging ...</a></li>
+<li><a href="https://www.lovechip.com/blog/cowos-vs-copos-vs-cowop-tsmc-advanced-packaging-explained">CoWoS vs. CoPoS vs. CoWoP: TSMC Advanced Packaging ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍赞扬文章的具体性和量化依据，将其与模糊的 AI 评论进行对比。主要观点包括：(1) 长期存在的软件工程最佳实践正在 AI 语境下被重新发明（例如将文档保留在代码中、为开发者提供全局视角）；(2) 由于重构代理缺乏对项目整体目标的理解，人类在循环中的参与不可或缺；(3) 紧凑的代码不仅降低 token 成本，还能促进 AI 进行更好的推理，从而生成更正确、更具泛化能力的软件。
-
-**标签**: `#ai-assisted-coding`, `#refactoring`, `#software-engineering`, `#gen-ai`, `#technical-debt`
+**标签**: `#TSMC`, `#advanced-packaging`, `#CoWoS`, `#semiconductor-manufacturing`, `#AI-chips`
 
 ---
 
 <a id="item-17"></a>
-## [高通收购 Modular 开源 AI 软件栈](https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/) ⭐️ 7.0/10
+## [军事 AI 智能体面临日益严峻的网络威胁](https://www.eetimes.com/military-ai-agents-under-cyberthreat-the-route-forward/) ⭐️ 7.0/10
 
-高通收购了 Modular 的开源 AI 软件栈，包括 Mojo 编程语言和 MAX 推理平台，并承诺在异构 AI 基础设施从理论走向落地的过程中，保持该技术的硬件无关性。 此次收购将高通定位为 AI 软件和基础设施层面的参与者，而不仅仅是硬件厂商，表明即使是芯片供应商也看到了跨平台 AI 工具的价值。通过保持软件栈的硬件无关性，高通承认 AI 部署的未来将混合使用 GPU、CPU 和专用加速器，并希望其工具能在这种混合环境中使用，而非被锁定在其自研芯片上。 Mojo 是一种基于 MLIR 构建的编译型静态类型语言，旨在将 Python 的易用性与 C 级别的性能相结合以应对 AI 工作负载；MAX 则是下一代推理框架，能够抽象硬件复杂性，使模型无需修改代码即可在 GPU、CPU 和各种加速器上运行。高通承诺保持两个项目的开源和硬件中立，这一点值得关注，因为它与芯片厂商收购软件以锁定自家硅片的常见模式形成了对比。
+EE Times 发表了一篇分析文章，探讨随着各国军队迅速采用战场 AI 系统，威胁自主军事 AI 智能体的网络安全漏洞问题。该文强调了针对这些自主系统的网络攻击防御的迫切需求。 随着世界各国军队将 AI 智能体集成到自主武器、监视和决策系统中，网络漏洞可能被对手利用来劫持、误导或瘫痪关键战场资产。其风险尤为严峻，因为受感染的军事 AI 可能导致任务失败、友军误伤事件或意外升级。 所提供的摘录仅为简短预告，因此关于漏洞、攻击路径或提议防御措施的完整技术细节在给定内容中不可获取。相关研究表明，LLM 智能体可以自主利用一日漏洞（one-day vulnerabilities），而对抗性攻击可以欺骗 YOLOv8 等用于军事监视场景的目标检测模型。
 
-rss · EE Times · 7月30日 14:43
+rss · EE Times · 7月31日 07:30
 
-**背景**: 异构 AI 基础设施是指在同一部署中结合多种处理器类型（如 CPU、GPU、FPGA 和定制 AI 加速器）的 AI 系统架构，而非依赖单一统一的硬件类型。Modular 是一家 AI 基础设施公司，构建了 Mojo 和 MAX 以统一并简化跨这种碎片化硬件生态的开发，其中 MAX 作为推理引擎，Mojo 作为面向 AI 的系统级编程语言。高通因其骁龙系列移动 SoC 而广为人知，但一直在向 PC、汽车和数据中心 AI 领域拓展，因此进入跨平台 AI 工具市场是其战略的自然延伸。
+**背景**: 对抗性攻击涉及精心设计的输入，使 AI 模型产生错误输出——例如，通过细微修改图像，使目标检测器将军用车辆误分类为无害物体。数据和模型投毒攻击则将恶意样本注入训练数据集，从内部破坏模型行为，并可能创建隐藏的后门。伊利诺伊大学（UIUC）的研究还表明，基于 LLM 的 AI 智能体本身可以自主发现并利用现实世界的网络安全漏洞，这意味着军事 AI 智能体既面临作为潜在攻击目标的威胁，也正成为网络空间中新兴的攻击工具。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo (programming language) - Wikipedia</a></li>
-<li><a href="https://www.modular.com/open-source/max">MAX: A high-performance inference framework for AI - Modular</a></li>
-<li><a href="https://sambanova.ai/blog/what-is-heterogeneous-ai-infrastructure">What Is Heterogeneous AI Infrastructure?</a></li>
+<li><a href="https://siddhantt.medium.com/hacking-ai-the-threat-of-adversarial-attacks-a7ec977f8b83">When AI Gets Tricked: The Threat of Adversarial Attacks | Medium</a></li>
+<li><a href="https://campustechnology.com/articles/2024/07/01/uiuc-study-ai-agents-can-exploit-cybersecurity-vulnerabilities.aspx">UIUC Study: AI Agents Can Exploit Cybersecurity Vulnerabilities</a></li>
+<li><a href="https://www.cobalt.io/blog/data-poisoning-attacks-a-new-attack-vector-within-ai">Data Poisoning Attacks : A New Attack Vector within AI | Cobalt</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Qualcomm`, `#AI infrastructure`, `#Modular`, `#Mojo`, `#acquisition`
+**标签**: `#military-ai`, `#cybersecurity`, `#ai-security`, `#defense-tech`, `#autonomous-systems`
 
 ---
 
 <a id="item-18"></a>
-## [印度初创公司 Vimag Labs 开发无稀土无线励磁电动汽车电机](https://www.eetimes.com/indian-startup-vimag-labs-develops-wirelessly-excited-motor-without-rare-earth-magnets/) ⭐️ 7.0/10
+## [苹果应对内存短缺，评估中国供应商长江存储与长鑫存储](https://www.techpowerup.com/351254/apple-talks-memory-shortage-and-evaluating-more-suppliers) ⭐️ 6.5/10
 
-印度初创公司 Vimag Labs 开发了一款无线励磁电动汽车（EV）电机，无需使用稀土永磁体，同时声称其性能可媲美永磁同步电机（PMSM）。 这一进展解决了一个关键的供应链脆弱性问题，因为稀土元素集中在少数几个国家，并受到地缘政治贸易限制的影响。如果所声称的 PMSM 级性能得到验证，可能会显著降低电动汽车制造成本，并减少对进口稀土材料的依赖。 该电机采用无线励磁来产生转子磁场，取代了永磁体，这一概念最初由东京大学的研究人员为轮毂电机应用所开创。该技术仍处于早期公告阶段，PMSM 级别扭矩、效率和耐久性指标的独立验证尚未公布。
+在苹果创下 1094 亿美元营收纪录的第二季度财报电话会议上，CEO 蒂姆·库克表示，公司得益于提前囤积的内存库存，从而缓解了内存价格上涨带来的影响，并确认苹果目前从 SK hynix、Micron 和 Samsung 三家供应商采购内存，同时正在积极评估其他选项，其中很可能包括中国的长江存储（YMTC）供应 NAND Flash 和长鑫存储（CXMT）供应 DRAM，后者可能需要获得监管批准。 作为全球最大的电子产品制造商之一，苹果的供应商多元化战略对全球半导体供应链具有重大影响。在中美科技紧张关系持续的背景下引入中国内存厂商，可能重塑 NAND 和 DRAM 市场格局，并预示着芯片采购领域地缘政治格局的转变。 库克警告称，苹果在 9 月份当季度的内存采购成本将高于 6 月份当季度，表明内存价格仍面临持续上涨的压力。苹果现有的三家供应商结构（SK hynix、Micron、Samsung）覆盖 DRAM 和 NAND 两类产品，任何新增的 YMTC（NAND）和 CXMT（DRAM）都将鉴于对中国芯片厂商的现有制裁而需要获得美国监管部门的单独审批。
 
-rss · EE Times · 7月30日 07:00
+rss · TechPowerUp News · 7月31日 08:53
 
-**背景**: 永磁同步电机（PMSM）是现代电动汽车中最主要的电机类型，因为它们具有高效率、高功率密度和精确的控制能力。它们依赖稀土磁体（通常含钕和镝）在转子中产生强大而稳定的磁场。稀土矿产开采和加工集中在少数几个国家，造成了供应链风险，推动了对无磁体替代方案的研究，如感应电机、开关磁阻电机和无线励磁同步电机。无线励磁电机概念利用无线电力传输来电磁激励转子磁场，完全避免了永磁体的使用。
+**背景**: NAND Flash 是一种非易失性存储，断电后仍能保留数据，广泛用于 SSD 和移动设备的持久存储；DRAM 则是易失性内存，用作计算机运行程序时的工作内存。长江存储（YMTC）于 2016 年在武汉成立，得到中国政府支持，是中国领先的 NAND Flash 生产商，采用其专有的 Xtacking 架构。长鑫存储（CXMT）同样成立于 2016 年，是中国唯一大规模生产 DRAM 的厂商，产品涵盖用于手机、PC 和服务器的 DDR4 内存模组。在美国持续实施出口管制的背景下，这两家公司代表了中国在战略层面减少对外国芯片厂商依赖的努力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.caranddriver.com/features/a70943678/electric-car-ev-motors-how-they-work/">caranddriver.com/features/a70943678/ electric - car -ev- motors -how...</a></li>
-<li><a href="https://www.emobility-engineering.com/magnetic-materials-ev-motors-performance-innovations/">Magnetic Materials for EV Motors: Rare Earths & Emerging Tech</a></li>
-<li><a href="https://www.researchgate.net/publication/381205390_Applications_of_Wireless_Power_Transfer_System_in_Motors_A_Review">(PDF) Applications of Wireless Power Transfer System in Motors ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
+<li><a href="https://www.techtarget.com/searchstorage/definition/RAM-random-access-memory">What is RAM ( random access memory )? | Definition from TechTarget</a></li>
 
 </ul>
 </details>
 
-**标签**: `#electric-vehicles`, `#motor-technology`, `#rare-earth-alternatives`, `#hardware`, `#startup`
+**标签**: `#Apple`, `#semiconductors`, `#memory-shortage`, `#supply-chain`, `#geopolitics`
 
 ---
 
 <a id="item-19"></a>
-## [三星 Q2 芯片利润暴涨 250 倍达 620 亿美元，2027 年供应短缺预期持续](https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/) ⭐️ 7.0/10
+## [（公关稿）苹果公布 2026 财年第三季度业绩](https://www.techpowerup.com/351246/apple-reports-third-quarter-fiscal-2026-results) ⭐️ 6.5/10
 
-三星公布 Q2 芯片部门利润达 620 亿美元，同比增长 250 倍，Q2 营收为 1190 亿美元。公司同时预测供应短缺将持续至 2027 年，表明需求保持强劲。 这种前所未有的盈利能力反映了 AI 驱动的内存和先进芯片需求已将半导体行业从周期性业务转变为结构性紧张的市场。三星与 SK 海力士、美光的业绩共同表明，内存超级周期远未结束，将重塑整个电子生态系统的定价、供应链分配和技术路线图。 三星半导体部门涵盖三大核心业务——内存（DRAM、NAND、HBM）、系统 LSI 和晶圆代工，其中内部代工产能正越来越多地被优先用于 HBM4 基础芯片生产，而非外部客户。日经新闻的行业数据显示，2027 年前 DRAM 供应仅能满足 60%的需求，三大内存厂商均在优先保障 AI 内存而非消费级芯片。
+苹果创下有史以来最强劲的六月季度业绩，营收达 1094 亿美元（同比增长 16%），这得益于 iPhone、Mac 和服务业务均实现两位数增长，同时在 WWDC26 大会上发布了全新 Siri AI。
 
-rss · Electronics Weekly · 7月30日 11:08
+rss · TechPowerUp News · 7月30日 20:38
 
-**背景**: 全球内存供应短缺（媒体称之为'RAMmageddon'）始于 2025 年，主要由 AI 基础设施对 GPU 和加速器所用高带宽内存（HBM）的爆炸性需求驱动。与 2020–2023 年因疫情导致的芯片短缺不同，此次短缺是需求驱动且具有结构性，三星、SK 海力士和美光等主要厂商因先进内存生产的复杂性无法快速增加产能。HBM4 是下一代 AI 处理器所需的关键堆叠内存技术。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
-<li><a href="https://www.how2shout.com/news/memory-shortage-2027-ai-hbm-samsung-sk-hynix-micron.html">Memory Shortage to Last Until 2027: AI Demand Squeezes PC ...</a></li>
-<li><a href="https://semiconductor.samsung.com/about-us/business-area/">Business Areas | About Us | Samsung Semiconductor Global</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#Samsung`, `#industry-news`, `#supply-chain`, `#financial-reporting`
+**标签**: `#apple`, `#earnings`, `#quarterly-results`, `#siri-ai`, `#finance`
 
 ---
 
 <a id="item-20"></a>
-## [格罗方德获 3 亿美元资金支持硅光子技术研发](https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/) ⭐️ 7.0/10
+## [希捷目标 2027 年实现 50TB HAMR 硬盘验证](https://www.techpowerup.com/351243/seagate-roadmap-targets-50-tb-hamr-hard-drives-in-2027) ⭐️ 6.5/10
 
-美国商务部向格罗方德预拨 3 亿美元，用于加速下一代硅光子技术的研发，涵盖光学材料、晶圆技术和先进封装领域。
+希捷在 2026 财年第四季度财报中透露,计划于 2027 年向客户送样验证 50TB HAMR 硬盘,该产品基于新一代 Mozaic 5+ 平台,单碟容量超过 5TB,十碟封装即可达到 50TB。希捷同时确认,现有的最高 44TB Mozaic 4+ 平台预计将在 2026 年底前占其 HAMR 出货总容量的 50%。 这一路线图标志着面向 AI 数据中心扩张的存储密度持续增长,在这一领域,存储需求增速远超数据中心物理空间的扩张速度。希捷在 HAMR 技术上的规模化推进,也为对抗竞争对手硬盘技术以及超大规模市场中新兴的 SSD 堆叠方案设定了竞争节奏。 50TB 容量是通过十片 5TB 以上碟片实现的,碟片数量并未增加;Mozaic 5+ 硬盘首先送客户验证,再经 OEM 和数据中心验证后才会更广泛上市。希捷还披露了更长期的实验室目标——2028 年前后实现单碟 10TB,从而推动单盘容量接近 100TB;整体容量路线图为 2030 年左右达到 50–60TB,2031–2032 年突破 80TB。
 
-rss · Electronics Weekly · 7月30日 05:35
+rss · TechPowerUp News · 7月30日 20:18
 
-**标签**: `#silicon-photonics`, `#semiconductor-manufacturing`, `#government-funding`, `#GlobalFoundries`, `#advanced-packaging`
+**背景**: 热辅助磁记录(HAMR)是一种先进的硬盘技术,它利用激光在写入时瞬间加热盘片表面,使更小的磁粒能够稳定磁化,从而将面密度提升到传统垂直磁记录(PMR)及其微波辅助版本(MAMR)所无法企及的水平。希捷的 Mozaic 4+ 是全球首个商用的 HAMR 平台,最初部署在运行大规模 AI 和大数据工作负载的超大规模云服务商处。消费级 HAMR 硬盘短期内不会面世:企业级 HDD 的认证周期通常长达数年,希捷的路线图明确针对大型科技企业、企业级客户和 AI 公司,而非零售渠道。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.techradar.com/pro/seagate-reveals-mozaic-4-its-highest-capacity-hard-drives-ever-offering-up-to-44tb-for-the-next-generation-of-storage">Seagate Mozaic 4+ is its highest-capacity hard drives ever | TechRadar</a></li>
+<li><a href="https://www.techspot.com/news/113301-seagate-looking-launch-50tb-hamr-hard-disk-drives.html">Seagate aims to launch 50TB HAMR hard drives in 2027 | TechSpot</a></li>
+<li><a href="https://www.itjones.com/blogs/2024/07/01/what-is-heat-assisted-magnetic-recording-hamr-and-how-is-it-going-to-impact-your-data-storage">What Is Heat - Assisted Magnetic Recording ( HAMR ) And How Is It ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#hardware`, `#storage`, `#HAMR`, `#Seagate`, `#enterprise`
 
 ---
