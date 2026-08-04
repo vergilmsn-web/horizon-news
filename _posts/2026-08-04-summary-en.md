@@ -5,357 +5,421 @@ date: 2026-08-04
 lang: en
 ---
 
-> From 107 items, 20 important content pieces were selected
+> From 109 items, 20 important content pieces were selected
 
 ---
 
-1. [AMD Unveils Helios: First Rackscale AI Platform with 72 MI455X GPUs](#item-1) ⭐️ 8.5/10
-2. [Neural network autonomously controls satellite bus in orbit](#item-2) ⭐️ 8.0/10
-3. [Sandisk and SK hynix Release First OCP Specification for High Bandwidth Flash](#item-3) ⭐️ 7.5/10
-4. [TSMC Targets 100,000 N2 Wafers per Month by the End of 2026](#item-4) ⭐️ 7.5/10
-5. [AI Enthusiast Uses Claude Code to Bypass BIOS RSA-2048 Signature Checks, Unlocks 55 Hidden Settings](#item-5) ⭐️ 7.5/10
-6. [Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity](#item-6) ⭐️ 7.5/10
-7. [AI Significantly Reduces Customer Service Jobs at Major Companies](#item-7) ⭐️ 7.3/10
-8. [LLMs reward expertise](#item-8) ⭐️ 7.0/10
-9. [Ten advances in mathematics and theoretical computer science](#item-9) ⭐️ 7.0/10
-10. [Cloudflare's FP8 KV Cache Quantization for Serving Kimi and GLM at Scale](#item-10) ⭐️ 7.0/10
-11. [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](#item-11) ⭐️ 7.0/10
-12. [Andy Pavlo joins ClickHouse to establish ClickHouse Labs](#item-12) ⭐️ 7.0/10
-13. [Renesas Tackles Memory Bottleneck with MRDIMM Update](#item-13) ⭐️ 7.0/10
-14. [Video Interview: ChipAgents CEO on Latest Funding for Agentic AI in EDA](#item-14) ⭐️ 7.0/10
-15. [TSMC Ahead of Schedule on $49B 1.4nm Fab Construction](#item-15) ⭐️ 7.0/10
-16. [NVIDIA RTX 50 Series GPUs Face 20-30% Price Hike in South Korea](#item-16) ⭐️ 6.5/10
-17. [Kioxia Announces GP1 Series PCIe 6.0 NVMe SSDs for AI Workloads](#item-17) ⭐️ 6.5/10
-18. [CXMT Reportedly Plans Second Fab in Beijing to Boost DRAM Output](#item-18) ⭐️ 6.5/10
-19. [AI companies slash token prices amid fierce competition from Chinese models](#item-19) ⭐️ 6.5/10
-20. [Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 — upscaling makes low-end GPUs viable for esports and internet cafes](#item-20) ⭐️ 6.5/10
+1. [AMD Unveils Helios: 72-GPU Rackscale AI System](#item-1) ⭐️ 8.5/10
+2. [FFmpeg 9.0 "Lei" Major Release with Vulkan APV Decoding](#item-2) ⭐️ 8.3/10
+3. [LLMs Reward Expertise, Not Democratize Coding](#item-3) ⭐️ 8.0/10
+4. [Lilian Weng Introduces Harness Engineering for AI Self-Improvement](#item-4) ⭐️ 8.0/10
+5. [DRAM Supply Tight Through 2027; NVIDIA May Cut Rubin Ultra HBM Specs](#item-5) ⭐️ 8.0/10
+6. [US Bans Imports of Foreign-Made Humanoid Robots, Targeting China](#item-6) ⭐️ 8.0/10
+7. [Kioxia and Sandisk Announce 10th-Gen 332-Layer QLC NAND at 4.8 Gb/s](#item-7) ⭐️ 7.5/10
+8. [CXMT Enters LPDDR6 Risk Production with 12.8 Gbps Memory Chips](#item-8) ⭐️ 7.5/10
+9. [Memory Makers Sell Out 2027 Capacity to Long-Term Contracts](#item-9) ⭐️ 7.5/10
+10. [TSMC Targets 100,000 N2 Wafers per Month by End of 2026](#item-10) ⭐️ 7.5/10
+11. [Texas halts 1,800 data center applications over 474 GW power backlog](#item-11) ⭐️ 7.5/10
+12. [Sandisk and SK hynix unveil HBF spec with UCIe for GPUs](#item-12) ⭐️ 7.5/10
+13. [Chinese chipmaking tool roadmaps examined — Beijing's nascent lithography tools target DUV production at five machines a year, and an EUV prototype with no chips](#item-13) ⭐️ 7.5/10
+14. [Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims — HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market](#item-14) ⭐️ 7.5/10
+15. [Anthropic Signs $10 Billion Compute Deal with AI Cloud Startup](#item-15) ⭐️ 7.3/10
+16. [TSMC Expands CoWoS Packaging Outsourcing as NVIDIA GPU Orders Strain Capacity](#item-16) ⭐️ 7.3/10
+17. [DeepSeek V4 Flash Runs on a Single AMD MI300X at 150+ tok/s](#item-17) ⭐️ 7.0/10
+18. [Xbox goes down. You can't play games you own on disc](#item-18) ⭐️ 7.0/10
+19. [Swiftlet Runs 80B Qwen in 4.3GB Mac RAM, 35B on iPhone](#item-19) ⭐️ 7.0/10
+20. [Ten advances in mathematics and theoretical computer science](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [AMD Unveils Helios: First Rackscale AI Platform with 72 MI455X GPUs](https://www.servethehome.com/amd-helios-architecture-deep-dive-amd-broadcom-hardware-combined/) ⭐️ 8.5/10
+## [AMD Unveils Helios: 72-GPU Rackscale AI System](https://www.servethehome.com/amd-helios-architecture-deep-dive-amd-broadcom-hardware-combined/) ⭐️ 8.5/10
 
-AMD unveiled its Helios rackscale architecture at Advancing AI 2026, integrating 72 Instinct MI455X accelerators into a single unified system — marking AMD's first rackscale AI datacenter platform. The design tightly co-designs AMD's CPUs, GPUs, and networking around the data path of an AI workload. Helios represents AMD's direct challenge to NVIDIA's NVL72-class rackscale systems, signaling AMD's emergence as a serious full-stack AI infrastructure competitor. By using the open UALink standard over Ethernet instead of a proprietary fabric, AMD positions Helios as a vendor-neutral alternative that could reshape hyperscaler procurement strategies. The MI455X is equipped with HBM4 memory, and the 72 accelerators communicate via UALink over Ethernet — distinguishing AMD's approach from NVIDIA's proprietary NVLink. Helios has entered full production, with rack shipments scheduled for Q3 2026, and the platform targets 64-bit Linux environments.
+At Advancing AI 2026, AMD unveiled Helios, its first rackscale AI system, which integrates 72 Instinct MI455X accelerators with AMD EPYC "Venice" CPUs and Pensando Vulcano AI NICs into a single unified platform connected via UALink over Ethernet. Helios represents AMD's most ambitious end-to-end AI infrastructure play to date, directly challenging NVIDIA's NVL rackscale platforms and signaling that AMD is now competing at the full-system level rather than just the accelerator level. The system uses UALink, an industry-backed multi-vendor interconnect, for high-speed GPU-to-GPU communication, and the MI455X platform supports 64-bit Linux, reflecting its focus on large-scale AI training and inference workloads.
 
 rss · ServeTheHome · Aug 3, 19:00
 
-**Background**: Rackscale architecture treats an entire server rack — compute, memory, storage, and networking — as a single coherent system rather than as independently assembled servers. NVIDIA pioneered this model with its NVL72 system, which links 72 GPUs using proprietary NVLink technology. UALink (Ultra Accelerator Link) is an industry-backed open interconnect standard designed to enable high-speed, vendor-neutral communication among accelerators from multiple vendors. The MI455X is AMD's next-generation data center GPU, positioned to compete with NVIDIA's Rubin generation.
+**Background**: Rack-scale architecture treats an entire rack—rather than individual servers—as a single unified computing platform, optimizing compute, memory, and networking for AI workloads that demand massive parallelism. NVIDIA pioneered this approach with its NVL rackscale systems. UALink is an emerging open standard designed to enable high-speed, low-latency communication among accelerators from multiple vendors, serving as a counterweight to NVIDIA's proprietary NVLink interconnect.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.amd.com/en/products/rackscale-solutions/helios.html">AMD Helios Rackscale Solution – Powering Frontier AI</a></li>
-<li><a href="https://www.amd.com/en/blogs/2026/amd-launches-helios-the-highest-performing-rackscale-ai-infrastructure-solution.html">AMD Launches Helios™: The Highest Performing Rackscale AI Infrastructure Solution</a></li>
-<li><a href="https://www.networkworld.com/article/4204533/amd-unveils-ai-gpu-to-challenge-nvidias-rubin.html">AMD unveils AI GPU to challenge Nvidia’s Rubin | Network World</a></li>
+<li><a href="https://www.servethehome.com/amd-helios-architecture-deep-dive-amd-broadcom-hardware-combined/">AMD Helios Architecture Deep Dive: The Power of... - ServeTheHome</a></li>
+<li><a href="https://www.amd.com/en/products/rackscale-solutions/helios.html">AMD Helios</a></li>
+<li><a href="https://www.datacenterknowledge.com/servers/what-is-rack-scale-computing-and-why-is-it-relevant-again-">What Is Rack-Scale Computing?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#Helios`, `#rackscale`, `#MI455X`, `#AI-infrastructure`
+**Tags**: `#AMD`, `#Helios`, `#rackscale-architecture`, `#MI455X`, `#AI-datacenter`
 
 ---
 
 <a id="item-2"></a>
-## [Neural network autonomously controls satellite bus in orbit](https://www.electronicsweekly.com/news/neural-network-controls-satellite-bus-in-orbit-2026-08/) ⭐️ 8.0/10
+## [FFmpeg 9.0 "Lei" Major Release with Vulkan APV Decoding](https://www.solidot.org/story?sid=85003) ⭐️ 8.3/10
 
-The US Air Force Research Laboratory (AFRL) has demonstrated autonomous control of a satellite bus using a neural network in orbit, marking what the organisation describes as a pivotal shift toward AI-driven spacecraft operations. This demonstration represents a significant milestone for onboard AI in space, with implications for defence, autonomous space operations, and the broader deployment of edge AI in resource-constrained orbital environments where real-time ground intervention is impractical. The source article is truncated and does not disclose the neural network architecture, specific mission parameters, or failure modes, limiting deeper technical assessment. The AFRL demonstration sits alongside other orbital edge AI efforts, such as Open Cosmos's HAMMER and Φ-Sat-2 missions and EDGX's onboard edge AI compute platforms.
+FFmpeg 9.0 "Lei" has been released as a major version, introducing Vulkan-accelerated APV (Advanced Professional Video) decoding, Apple ProRes RAW Vulkan acceleration, NVIDIA CUDA transpose filter, animated WebP decoding/demuxing, AMD AMF enhancements, and AVX-512 CPU optimizations. It also extends the AMF color converter (vf_vpp_amf) with HDR support and adds MP4 muxer support for LCEVC audio track muxing. FFmpeg is one of the most widely-used open-source multimedia frameworks, forming the backbone of countless video processing, streaming, encoding, and playback applications across the industry. This major release brings significant GPU acceleration (Vulkan, CUDA) and CPU-level optimizations (AVX-512) that improve performance for professional video workflows, including Apple ProRes and the emerging APV codec. APV is a professional video codec handled via Vulkan shaders in a manner similar to FFmpeg's existing ProRes Vulkan acceleration. AVX-512 refers to 512-bit SIMD instruction set extensions for x86 CPUs first implemented by Intel in the 2016 Xeon Phi x200, enabling processing of eight double-precision or sixteen single-precision floating-point numbers per instruction. LCEVC (MPEG-5 Part 2) is an ISO/IEC enhancement layer standard that can be combined with any base video codec to produce an enhanced stream.
 
-rss · Electronics Weekly · Aug 3, 09:08
+rss · Solidot · Aug 4, 09:52
 
-**Background**: A satellite bus is the main structural body of a spacecraft that houses the payload and scientific instruments, typically managing power, propulsion, thermal control, and intra-spacecraft communications. Historically, satellites have functioned largely as 'bent pipes,' collecting raw data and relaying it to ground stations for processing. Orbital edge AI flips this model by running neural networks directly on the spacecraft, enabling autonomous decision-making, faster response times, and reduced dependence on ground control — capabilities increasingly critical for defence and time-sensitive applications such as disaster response.
+**Background**: FFmpeg is a free, open-source project consisting of libraries and programs for handling multimedia data, including libavcodec (codec library), libavformat (container format library), and command-line tools like ffmpeg and ffplay. It supports virtually every widely-used audio and video format and is integrated into many software products including VLC, HandBrake, OBS Studio, and various streaming services. Vulkan is a cross-platform graphics and compute API that, beyond gaming, is increasingly used for general-purpose GPU compute tasks such as video decoding and encoding. APV (Advanced Professional Video) is a relatively new professional codec designed for high-quality video workflows.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Satellite_bus">Satellite bus - Wikipedia</a></li>
-<li><a href="https://blacknightspacelabs.com/blog/orbital-edge-ai-onboard-satellite-processing-cognisat-space-ai-vpu-inference-bent-pipe-bottleneck">Orbital Edge AI & On - Board Satellite ... | BlacKnight Space Labs</a></li>
+<li><a href="https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV">FFmpeg Introduces Vulkan APV Encoder - Phoronix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AVX-512">AVX-512 - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LCEVC">LCEVC - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#neural-networks`, `#satellite`, `#autonomous-systems`, `#space-tech`, `#edge-AI`
+**Tags**: `#FFmpeg`, `#open-source`, `#multimedia`, `#biology`, `#caves`
 
 ---
 
 <a id="item-3"></a>
-## [Sandisk and SK hynix Release First OCP Specification for High Bandwidth Flash](https://www.techpowerup.com/351335/sandisk-and-sk-hynix-advance-global-standardization-of-high-bandwidth-flash-with-release-of-first-ocp-technical-specification) ⭐️ 7.5/10
+## [LLMs Reward Expertise, Not Democratize Coding](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 8.0/10
 
-Sandisk and SK hynix, together with Google and Tenstorrent, released the first OCP technical specification for High Bandwidth Flash (HBF) memory, just six months after the consortium began work in February 2025. The specification defines two capacity configurations (8-layer and 16-layer NAND stacking, up to 512GB) and three bandwidth grades (Grade 1–3) covering approximately 0.4 TB/s to 3.0 TB/s. HBF is positioned as a new memory tier between HBM and SSDs, offering NAND flash's high density at near-HBM bandwidth levels, which is critical for AI inference workloads that demand large memory capacity. Standardization through OCP with backing from major players like Google and Tenstorrent signals real industry momentum and could accelerate ecosystem adoption, potentially easing the cost and supply constraints of HBM in AI accelerators. HBF is built on Sandisk's low-cost, high-density CBA-based NAND core technology with 3D stack packaging, reportedly delivering performance within about 2.2% of unlimited-capacity HBM while significantly increasing capacity. The specification targets AI inference scenarios where larger, near-compute memory capacity and higher bandwidth are needed to improve power, performance, and total cost of ownership.
+A widely-circulated article argues that LLMs function as 'amplifying mirrors' — they reflect and magnify the user's existing domain knowledge and prompting skill rather than replacing it. The author contends that claims of AI 'democratizing' software development are misleading, as practitioners with deep expertise consistently extract more value from these tools. This framing challenges the prevailing narrative that LLMs level the playing field for non-programmers and challenges assumptions about AI's impact on the software industry. It has practical implications for how teams evaluate productivity gains, how organizations structure training, and how individual developers should approach AI-assisted workflows. The article draws an analogy between prompting LLMs and clinical medical history-taking: skilled users guide conversations with open-ended, structured questions and converge toward specifics, while avoiding dictating exact outputs. Commenters also note that the quality of the user's vocabulary, problem-framing, and world knowledge directly shapes the model's responses, meaning those who treat the LLM as a cognitive extension outperform those who treat it as a replacement for thinking.
 
-rss · TechPowerUp News · Aug 4, 01:46
+hackernews · MaxMussio · Aug 3, 21:13 · [Discussion](https://news.ycombinator.com/item?id=49161518)
 
-**Background**: The Open Compute Project (OCP) is a non-profit organization that creates open-source data center hardware specifications to foster industry collaboration, reduce costs, and accelerate innovation. High Bandwidth Memory (HBM) is the current standard for high-performance AI accelerators, but it is expensive and capacity-limited due to its use of DRAM. High Bandwidth Flash (HBF) is a new class of NAND flash memory using advanced packaging and interfaces to deliver bandwidth comparable to HBM while offering much higher capacity and lower cost per gigabyte—making it particularly suited for AI inference, which typically requires large model and context storage rather than the extreme bandwidth of HBM-focused training.
+**Background**: Large language models (LLMs) are AI systems trained on massive text corpora that generate language by statistically predicting the next word in a sequence. Prompt engineering refers to the practice of carefully crafting inputs to guide an LLM toward desired outputs, and has emerged as a key discipline for maximizing LLM utility. A common claim since 2023 has been that LLMs 'democratize' software development by allowing non-programmers to build applications through natural-language instructions, though critics have noted that output quality still depends heavily on the user's ability to evaluate, debug, and direct the AI's work.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sandisk.com/company/newsroom/blogs/2025/scaling-beyond-the-wall-inside-sandisks-high-bandwidth-flash-for-ai">Scaling the Memory Wall: Behind Sandisk’s High Bandwidth Flash for AI Inferencing | Sandisk</a></li>
-<li><a href="https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/collateral/company/Sandisk-HBF-Fact-Sheet.pdf">HIGH BANDWIDTH FLASH</a></li>
-<li><a href="https://www.emergentmind.com/topics/high-bandwidth-flash-hbf">High Bandwidth Flash (HBF) Overview</a></li>
-<li><a href="https://www.gigabyte.com/glossary/ocp">What Is OCP and How Does It Work? - GIGABYTE Global</a></li>
+<li><a href="https://www.ibm.com/think/topics/large-language-models">What Are Large Language Models (LLMs)? | IBM</a></li>
+<li><a href="https://www.promptingguide.ai/techniques">Prompting Techniques | Prompt Engineering Guide</a></li>
+<li><a href="https://aws.amazon.com/what-is/large-language-model/">What is LLM? - Large Language Models Explained - AWS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#memory technology`, `#OCP`, `#HBF`, `#industry standardization`
+**Discussion**: The community broadly agrees with the article's core thesis. Commenters offered useful analogies — one compared prompting LLMs to doctors taking a medical history (guiding patients without dictating answers), while another recounted watching a non-engineer friend struggle to direct an LLM toward a correct solution despite the AI's raw coding ability. A few commenters called for formal empirical study of the effect, noting the risk of confirmation bias in anecdotal experience, and observed that meticulous engineers who write detailed, specific prompts consistently get better results than coworkers who type brief, vague queries.
+
+**Tags**: `#LLMs`, `#AI-assistants`, `#prompting`, `#software-engineering`, `#expertise`
 
 ---
 
 <a id="item-4"></a>
-## [TSMC Targets 100,000 N2 Wafers per Month by the End of 2026](https://www.techpowerup.com/351326/tsmc-targets-100-000-n2-wafers-per-month-by-the-end-of-2026) ⭐️ 7.5/10
+## [Lilian Weng Introduces Harness Engineering for AI Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/) ⭐️ 8.0/10
 
-TSMC aims to scale its 2nm N2 wafer production from 20,000 to 100,000 wafers per month by end of 2026, growing the node's revenue share from 3% to over 10%.
+Lilian Weng, the former OpenAI safety lead now focused on recursive self-improvement, published a comprehensive technical post defining 'harness engineering' as the discipline of designing scaffolding—context delivery, tool interfaces, planning artifacts, verification loops, memory systems, and sandboxes—around AI agents to enable recursive self-improvement beyond raw model weights. This framing signals a paradigm shift: as raw model training yields diminishing returns, the next leap in agent capability may come from the infrastructure surrounding the model. It also frames harness design as a potential competitive moat for frontier labs and a primary locus of self-improvement research. Weng positions harness engineering as overlapping with—but distinct from—auto-research, evolutionary program search, model self-play, synthetic data, test-time training, and continual learning. Related work such as AIDE² from Weco AI provides early empirical evidence at Level 1 of recursive self-improvement, and LangChain's 'Anatomy of an Agent Harness' complements Weng's framing with practical patterns.
 
-rss · TechPowerUp News · Aug 3, 17:12
+hackernews · tosh · Aug 4, 06:17 · [Discussion](https://news.ycombinator.com/item?id=49164896)
 
-**Tags**: `#semiconductors`, `#TSMC`, `#manufacturing`, `#2nm`, `#chip-industry`
+**Background**: A 'harness' in the AI agent context refers to the software scaffolding—prompt templates, tool calls, memory stores, verification scripts, and orchestration logic—that wraps around a base language model to make it behave as a useful agent. Recursive self-improvement (RSI) is the hypothesized process in which an AI system rewrites or improves its own code, potentially triggering an intelligence explosion. Harness engineering applies this idea one level down: instead of rewriting weights, the agent iteratively redesigns the scaffolding around itself to bootstrap better performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.anthropic.com/institute/recursive-self-improvement">When AI builds itself \ Anthropic</a></li>
+<li><a href="https://www.langchain.com/blog/the-anatomy-of-an-agent-harness">The Anatomy of an Agent Harness</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters broadly endorsed the framing. One developer shared a personal project for engineering unified theories via agent-edited prose, another asked Weng for a future post on auto-research and evolutionary program search. A builder of Document.bot reported already applying hillclimb-style harness experiments in Codex to improve their app. A standout question raised whether harness design is where frontier labs can build a durable moat—an open strategic question that several replies engaged with. One commenter wryly invoked the 'Torment Nexus' meme to flag safety concerns.
+
+**Tags**: `#AI-agents`, `#self-improvement`, `#harness-engineering`, `#recursive-self-improvement`, `#Lilian-Weng`
 
 ---
 
 <a id="item-5"></a>
-## [AI Enthusiast Uses Claude Code to Bypass BIOS RSA-2048 Signature Checks, Unlocks 55 Hidden Settings](https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings) ⭐️ 7.5/10
+## [DRAM Supply Tight Through 2027; NVIDIA May Cut Rubin Ultra HBM Specs](https://www.dramexchange.com/WeeklyResearch/Post/2/12789.html) ⭐️ 8.0/10
 
-A Redditor used Anthropic's Claude Code to reverse-engineer their HP laptop's BIOS firmware, bypass the RSA-2048 DXE-FV signature verification check, and unlock 55 hidden setup fields along with four advanced BIOS configuration tabs on their own hardware. This case demonstrates that current AI coding agents can meaningfully assist with low-level firmware reverse engineering and binary analysis—tasks that previously demanded deep specialized expertise. It also raises broader questions about how AI tools will reshape both offensive security research and defensive firmware hardening across the industry. The work involved three layers of patches: bypassing the RSA-2048 signature check in the DXE firmware volume phase, exposing 55 hidden setup fields, and revealing additional BIOS configuration tabs. Importantly, the RSA-2048 cryptographic algorithm itself was not broken—the specific signature verification routine in the firmware was circumvented, which is a meaningful distinction.
+TrendForce reports that DRAM supply will remain tight through 2027, which may force NVIDIA to scale back the HBM specifications of its upcoming Rubin Ultra AI accelerators. The constraint reflects sustained demand pressure from AI workloads outpacing memory manufacturing capacity. HBM is a critical bottleneck for next-generation AI training and inference, and any reduction in HBM capacity or bandwidth on Rubin Ultra could directly limit the performance and competitiveness of NVIDIA's flagship AI platform against rivals such as AMD and custom ASIC solutions. The signal also has broader implications for hyperscalers and AI startups planning compute capacity around 2027-era NVIDIA hardware. Rubin Ultra is expected to launch in 2027 on TSMC's 3nm process with the GR110 GPU, originally spec'd at up to 1,024 GB of HBM4e memory. TrendForce's analysis suggests the downgraded configuration may involve fewer HBM stacks, lower capacity per stack, or a shift to a slightly earlier HBM generation than originally planned.
 
-rss · Tom's Hardware · Aug 3, 11:55
+rss · DRAMeXchange (TrendForce) · Aug 4, 17:26
 
-**Background**: BIOS is low-level firmware on a PC that initializes hardware before the operating system loads, and it typically contains hidden settings (such as advanced power, virtualization, or diagnostic options) that manufacturers restrict to business or enterprise users. RSA-2048 is an asymmetric cryptographic algorithm using 2048-bit keys, widely used to digitally sign firmware so that a device will only boot code approved by the manufacturer. Claude Code is Anthropic's agentic coding tool that runs in the terminal, reads codebases, and can execute commands—making it well-suited to multi-step tasks like disassembling binaries and generating patch scripts.
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology that delivers far higher bandwidth than traditional GDDR memory, and it has become the standard memory solution for AI accelerators because training large models requires feeding enormous volumes of data to GPU compute units. HBM4e, the latest generation, doubles per-pin data rates to 16 Gb/s and can provide over 4 TB/s of bandwidth per stack. NVIDIA's product roadmap progressed from Hopper (H100) to Blackwell (B200) and Blackwell Ultra (B300, late 2025), followed by Vera Rubin and Rubin Ultra in 2027, with Rubin Ultra being the high-end successor intended to push AI training and inference performance further. Tight DRAM supply, driven by explosive AI-driven demand and limited wafer capacity expansion at Samsung, SK Hynix, and Micron, has become a strategic concern for the entire AI hardware ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings">AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings | Tom's Hardware</a></li>
-<li><a href="https://x.com/cyber_razz/status/2079834248794493194">Abdulkadir | Cybersecurity on X: "A Reddit user gave Claude Code their HP laptop's BIOS dump. Asked it to unlock the firmware. Claude disassembled the signature-check code. Found the RSA-2048 verification function. Then wrote a Python script to bypass it. The user modified the BIOS. Flashed it back. Got https://t.co/VmpMQVbOjS" / X</a></li>
-<li><a href="https://docs.anthropic.com/en/docs/claude-code/overview">Claude Code overview - Anthropic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://arstechnica.com/ai/2025/03/nvidia-announces-rubin-ultra-and-feynman-ai-chips-for-2027-and-2028/">Nvidia announces “ Rubin Ultra ” and “Feynman” AI... - Ars Technica</a></li>
+<li><a href="https://www.techpowerup.com/gpu-specs/rubin-ultra-gpu.c4426">NVIDIA Rubin Ultra GPU Specs | TechPowerUp GPU Database</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Claude Code`, `#BIOS hacking`, `#reverse engineering`, `#security`
+**Tags**: `#NVIDIA`, `#HBM`, `#DRAM`, `#AI hardware`, `#supply chain`
 
 ---
 
 <a id="item-6"></a>
-## [Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity](https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity) ⭐️ 7.5/10
+## [US Bans Imports of Foreign-Made Humanoid Robots, Targeting China](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-rise-of-the-humanoids-2026-08/) ⭐️ 8.0/10
 
-Analysis of how TSMC, Intel, Samsung Foundry, and GlobalFoundries are each pursuing different co-packaged optics strategies to enable next-generation optical connectivity for AI scale-up systems.
+The U.S. government last week banned the import of new advanced robotic devices manufactured abroad, with the move primarily aimed at China. The Federal Communications Commission (FCC) announced the ban, citing cybersecurity and national security concerns, and it applies specifically to state-of-the-art humanoid robots. This policy marks a significant escalation in US-China trade tensions into the rapidly growing humanoid robotics sector and could reshape the global robotics supply chain. The move is especially consequential because Chinese firms reportedly shipped 25 times more humanoid robots than US rivals in 2025, claiming roughly 85% of global market share. The FCC, rather than a traditional trade or commerce agency, led the ban under cybersecurity and supply chain risk justifications. Beijing has condemned the action as protectionism that will harm American firms and consumers, signaling that retaliatory measures or diplomatic escalation may follow.
 
-rss · Tom's Hardware · Aug 3, 11:45
+rss · Electronics Weekly · Aug 4, 13:30
 
-**Tags**: `#co-packaged-optics`, `#semiconductors`, `#AI-infrastructure`, `#foundry-roadmaps`, `#photonics`
+**Background**: Humanoid robots are robots designed to resemble and perform tasks akin to the human body, integrating advanced AI with sensors, motors, and control systems for tasks such as walking, manipulation, and navigation. The field has rapidly evolved beyond research curiosities into commercially deployed platforms used in industrial and domestic settings, with major players from both the US and China competing for market dominance. The FCC is the US agency that regulates communications technologies, and its involvement suggests the ban was framed around connected-device cybersecurity concerns rather than traditional tariff-based trade policy.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.chinadailyasia.com/hk/article/637135">China blasts US import ban on humanoid robots</a></li>
+<li><a href="https://www.webpronews.com/america-draws-the-line-why-the-u-s-banned-chinese-humanoid-robots-after-they-flooded-the-market/">America Draws the Line: Why the U . S . Banned Chinese Humanoid ...</a></li>
+<li><a href="https://roboticsandautomationnews.com/2026/02/07/the-state-of-humanoid-robotics-from-research-labs-to-real-world-potential/98732/">The state of humanoid robotics: assessing the capabilities, limitations, and commercial potential of leading platforms</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Industry coverage highlights broad concern over the ban's potential to fragment the global humanoid robotics supply chain and accelerate a US-China tech decoupling. Chinese officials and commentators frame the policy as protectionism that will ultimately harm American consumers by limiting access to lower-cost robots, while US proponents emphasize supply chain security and the need to nurture domestic alternatives.
+
+**Tags**: `#humanoid-robots`, `#robotics`, `#trade-policy`, `#us-china-trade`, `#import-restrictions`
 
 ---
 
 <a id="item-7"></a>
-## [AI Significantly Reduces Customer Service Jobs at Major Companies](https://www.solidot.org/story?sid=84994) ⭐️ 7.3/10
+## [Kioxia and Sandisk Announce 10th-Gen 332-Layer QLC NAND at 4.8 Gb/s](https://www.techpowerup.com/351353/kioxia-and-sandisk-unveil-10th-gen-332-layer-qlc-nand-with-4-8-gb-s-interface-speeds) ⭐️ 7.5/10
 
-Major companies including Microsoft, Commonwealth Bank of Australia (CBA), Uber, and Hyatt are substantially cutting customer service headcount through AI-powered automation. Microsoft reduced its customer service team from approximately 50,000 to 40,000, saving about $750 million annually, while Hyatt cut 30% of its internal Americas customer service staff and Uber eliminated 10% of its customer service positions. With analysts projecting that nearly half of all customer service positions could be affected by 2030, this trend could disrupt millions of call center workers concentrated in the US, India, and the Philippines—countries that previously benefited from Western companies outsourcing customer service in English. The displacement may also reshape global labor markets and challenge the long-established business model of offshore customer support outsourcing. Microsoft's sales and service operations lead Judson Althoff noted that complex issues still require human support, but the company is continuously expanding the scope of automated resolution. CBA cut hundreds of customer service roles and expects to save tens of millions of dollars annually. The shift is driven both by improvements in generative AI capability and by executive pressure to adopt new technologies to reduce costs.
+Kioxia and Sandisk jointly unveiled their 10th-generation Quad-Level-Cell (QLC) 3D NAND flash memory, featuring 332 layers, a record-setting bit density exceeding 37 Gb/mm² (a 60% improvement over the 8th generation), and an industry-first 4.8 Gb/s interface speed for QLC flash. The technology leverages their CMOS directly Bonded to Array (CBA) architecture, which fabricates the CMOS logic and memory array on separate wafers before bonding them together. This announcement pushes the storage industry forward on three fronts—density, speed, and cost-per-bit—which directly benefits high-capacity SSDs for data centers, AI workloads, and consumer devices. The 4.8 Gb/s interface is particularly significant because QLC NAND has historically lagged behind TLC in performance due to its higher bit-per-cell complexity, so closing that gap could accelerate QLC adoption in performance-sensitive segments. The CBA (CMOS Bonded to Array) approach is an evolution of the older CMOS-under-Array (CuA) monolithic process, allowing each side to be optimized independently before wafer-to-wafer hybrid bonding, which improves yield and scalability for high layer counts. The 332-layer architecture and 37 Gb/mm² density represent industry-leading figures, though as a press release the announcement does not yet disclose per-die capacity, endurance ratings, or production timelines.
 
-rss · Solidot · Aug 3, 14:22
+rss · TechPowerUp News · Aug 4, 13:38
 
-**Background**: The call center industry is a major global employer, with millions of workers in countries like the Philippines and India, which became dominant outsourcing destinations because of their English-speaking workforces. Generative AI tools—including large language models and conversational AI platforms—now enable companies to automate chat and phone interactions that previously required human agents. Platforms like Zendesk and others have built AI-first customer service workflows that resolve issues across multiple channels without human intervention.
+**Background**: NAND flash memory stores data in floating-gate transistors as electric charges; the more bits per cell, the higher the density but generally the lower the speed and endurance. QLC (Quad-Level-Cell) stores 4 bits per cell, making it the most cost-effective option for high-capacity drives, though it is slower and wears out faster than TLC or SLC. Traditional 3D NAND stacks memory cell layers vertically, but as layer counts exceed 200, manufacturing challenges grow; the CBA architecture addresses this by separating the CMOS control logic from the memory array into distinct wafers that are then hybrid-bonded, enabling more precise process control and continued scaling.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.zendesk.com/">AI -Powered Service Platform | Zendesk</a></li>
+<li><a href="https://www.electronicdesign.com/technologies/embedded/article/55307984/imec-unlocking-z-pitch-scaling-for-next-generation-3d-nand-flash">Unlocking Z-Pitch Scaling for Next-Generation 3 D NAND Flash</a></li>
+<li><a href="https://www.silicon-power-industrial.com/news-center-detail/bics8/">BiCS8 3 D NAND : Next-Gen Edge & Embedded Storage Guide</a></li>
+<li><a href="https://filtron.co/flash-memory-explained-why-your-devices-are-faster-than-ever-3gh">Flash Memory Explained : Why Your Devices Are Faster Than... - Filtron</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#automation`, `#customer-service`, `#labor-market`, `#industry-trends`
+**Tags**: `#NAND flash`, `#storage technology`, `#Kioxia`, `#Sandisk`, `#semiconductor`
 
 ---
 
 <a id="item-8"></a>
-## [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 7.0/10
+## [CXMT Enters LPDDR6 Risk Production with 12.8 Gbps Memory Chips](https://www.techpowerup.com/351350/cxmt-enters-lpddr6-risk-production-with-12-8-gbps-memory-chips) ⭐️ 7.5/10
 
-Article arguing that LLMs produce significantly better outputs for users with domain expertise, as experts can craft better prompts, provide better context, and critically evaluate responses, effectively making LLMs an 'amplifying mirror' of user capability.
+Chinese memory manufacturer CXMT has entered risk production of LPDDR6 chips at 12.8 Gbps, achieving parity with Samsung, SK hynix, and Micron in next-generation mobile DRAM technology.
 
-hackernews · MaxMussio · Aug 3, 21:13 · [Discussion](https://news.ycombinator.com/item?id=49161518)
+rss · TechPowerUp News · Aug 4, 12:59
 
-**Tags**: `#LLMs`, `#AI`, `#prompt-engineering`, `#expertise`, `#human-AI-interaction`
+**Tags**: `#LPDDR6`, `#CXMT`, `#memory`, `#semiconductors`, `#DRAM`
 
 ---
 
 <a id="item-9"></a>
-## [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 7.0/10
+## [Memory Makers Sell Out 2027 Capacity to Long-Term Contracts](https://www.techpowerup.com/351344/memory-makers-seal-2027-deals-no-room-for-new-buyers) ⭐️ 7.5/10
 
-OpenAI announces ten advances where AI models contributed to mathematics and theoretical computer science, including conjectures and proofs, with community debating implications for the future of mathematical research.
+Samsung, SK hynix, and Micron have sold out their entire memory production capacity for 2027 years ahead of schedule, pushing customers into 3-5 year contracts requiring advance payments. With only about 60-70% of estimated demand met, 2027 is shaping up to be the worst memory shortage in recent history. This signals a fundamental shift in the memory market driven by insatiable AI infrastructure demand, locking smaller buyers out of supply and potentially keeping DRAM prices elevated for years. Hardware OEMs, PC makers, and AI labs without secured allocations face the risk of constrained production and higher component costs well into 2028. The advance payment deposit model requires customers to pre-pay for future memory capacity, with deals negotiated individually per customer. Industry insiders note that July and August are critical months for securing allocations for the following year, and the situation has been kept quiet to avoid losing existing allocations.
 
-hackernews · milkshakes · Aug 3, 16:27 · [Discussion](https://news.ycombinator.com/item?id=49157930)
+rss · TechPowerUp News · Aug 4, 09:04
 
-**Tags**: `#AI`, `#mathematics`, `#OpenAI`, `#research`, `#reasoning`
+**Background**: DRAM (Dynamic Random-Access Memory) is a core type of volatile memory used in servers, PCs, and nearly all computing devices. Global DRAM production is highly concentrated, with more than 90% of supply controlled by a small number of large manufacturers using 300mm wafer fabrication facilities. The recent surge in AI workloads — particularly large language model training and inference — has dramatically increased demand for high-bandwidth memory and traditional DRAM, reshaping supply dynamics across the entire semiconductor industry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.industryresearch.co/blog/top-dram-wafer-companies-12">DRAM Wafer Market Outlook 2026–2035 | Growth & Trends</a></li>
+<li><a href="https://www.linkedin.com/posts/futurum-group-hq_ai-semiconductors-memory-activity-7488859988816384001-omoe">#ai # semiconductors #memory #futurum | The Futurum Group</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#memory-market`, `#DRAM`, `#semiconductors`, `#AI-infrastructure`, `#supply-chain`
 
 ---
 
 <a id="item-10"></a>
-## [Cloudflare's FP8 KV Cache Quantization for Serving Kimi and GLM at Scale](https://blog.cloudflare.com/smaller-faster-safer-models/) ⭐️ 7.0/10
+## [TSMC Targets 100,000 N2 Wafers per Month by End of 2026](https://www.techpowerup.com/351326/tsmc-targets-100-000-n2-wafers-per-month-by-the-end-of-2026) ⭐️ 7.5/10
 
-Cloudflare published a technical deep-dive detailing how it efficiently serves open-weight models Kimi (by Moonshot AI) and GLM (by Zhipu AI) at scale, with a focus on FP8 KV cache quantization and other inference optimizations to reduce memory footprint and improve throughput. As open-weight Chinese models gain global traction, the infrastructure choices made by major providers like Cloudflare directly affect latency, cost, and quality for developers building on top of these models. FP8 KV cache quantization is a critical lever for fitting large models onto limited GPU memory, and Cloudflare's public discussion offers rare transparency into a practice that many providers apply silently. FP8 KV cache quantization stores cached Key and Value tensors in 8-bit floating point instead of FP16/BF16, yielding roughly 2× memory savings on attention caches, and can be enabled independently of weight quantization (as documented in vLLM and TensorRT Edge-LLM). The post also references additional optimizations for fitting large MoE architectures like GLM-4.5/GLM-5 onto commodity GPUs.
+TSMC is rapidly scaling its 2nm N2 node production from approximately 20,000 wafers per month to a target of 100,000 wafers per month by the end of 2026, a fivefold increase in roughly four months. Meanwhile, demand from NVIDIA, AMD, and Broadcom has pushed the N3 family's monthly output to 180,000 wafers, ahead of TSMC's original Q4 2026 target. This aggressive scaling reflects surging demand for cutting-edge AI and consumer silicon, and signals that 2nm will transition from a niche product to a meaningful revenue driver, jumping from 3% to over 10% of TSMC's revenue mix. The pace of capacity expansion also indicates that the leading-edge foundry market remains tight, with implications for chip pricing, supply chain planning, and TSMC's competitors. N2 wafers carry a price of around $30,000 each, a roughly 20% premium over the prior 3nm generation, making N2 among the most expensive real estate in the global tech supply chain. The N2 node is manufactured at TSMC's Baoshan facility and employs Gate-All-Around (GAA) transistor architecture, which improves performance and power efficiency compared to the FinFET transistors used at N3.
 
-hackernews · ascorbic · Aug 3, 17:08 · [Discussion](https://news.ycombinator.com/item?id=49158581)
+rss · TechPowerUp News · Aug 3, 17:12
 
-**Background**: The KV cache is a per-request memory structure that stores previously computed Key and Value projections for each token in a transformer, enabling efficient autoregressive generation without re-computing attention over the full context. As context lengths grow into the hundreds of thousands of tokens, the KV cache often dominates GPU memory usage, making quantization of the cache itself a high-leverage optimization. Kimi is a long-context LLM family from Chinese startup Moonshot AI, while GLM is Zhipu AI's open-weight flagship model line, including the Mixture-of-Experts GLM-4.5 and GLM-5 (~745B parameters, 44B active).
+**Background**: TSMC's N2 is the company's first 2nm-class process node and represents a generational shift from FinFET to Gate-All-Around (GAA) transistor architecture, where the gate fully surrounds the channel for better current control and lower leakage. The current revenue distribution shows N5 at 33%, N3 at 30%, and N2 at only 3%, highlighting how new nodes typically start small before scaling. Apple is widely reported as the lead customer for N2, with Qualcomm, MediaTek, AMD, and NVIDIA expected to follow in subsequent waves.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://llm-academy.dev/kv-cache-quant/">KV Cache Quantization Explained... | LLM Academy</a></li>
-<li><a href="https://docs.vllm.ai/projects/llm-compressor/en/0.9.0/examples/quantization_kv_cache/">fp 8 Weight, Activation, and KV Cache Quantization - LLM ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
+<li><a href="https://www.tweaktown.com/news/112989/tsmc-is-ramping-up-2nm-production-100k-monthly-wafers-by-the-end-of-2026/index.html">TSMC is ramping up 2 nm production, 100K monthly wafers by the end...</a></li>
+<li><a href="https://faq.com.tw/en/hardware/2026-05-18-tsmc-n2-2nm-chip-ramp-ai-hardware-en/">TSMC 's 2 nm Chip Production Surges Toward 140,000 Wafers a Month...</a></li>
+<li><a href="https://cambashi-insights.com/encyclopedia/gate-all-around/">Gate - All - Around ( GAA ) - Cambashi Insights</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion is mixed: several commenters praise Cloudflare's transparency about KV cache quantization, noting that many providers apply such optimizations silently while marketing unquantized weights, and ask for more thorough evaluation across model families. Others raise concerns about Cloudflare's lack of Zero Data Retention (ZDR) on its inference service as a privacy/trust issue, question the choice of int4 over nf4, complain about hidden pricing, and inquire about hiring.
-
-**Tags**: `#LLM inference`, `#quantization`, `#model serving`, `#Cloudflare`, `#KV cache`
+**Tags**: `#semiconductors`, `#TSMC`, `#manufacturing`, `#2nm`, `#silicon`
 
 ---
 
 <a id="item-11"></a>
-## [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) ⭐️ 7.0/10
+## [Texas halts 1,800 data center applications over 474 GW power backlog](https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium) ⭐️ 7.5/10
 
-An open-weights video generation model with native audio, 2K support, and notable weight pruning optimization launches with immediate ComfyUI integration.
+Texas Governor Greg Abbott has directed the Public Utility Commission of Texas (PUCT) and ERCOT to pause all data center applications and conduct a comprehensive audit. The moratorium covers approximately 1,800 projects that collectively requested 474 GW of power—roughly five times the state's all-time peak demand—while only 28 of 377 operators complied with disclosure requests. This moratorium exposes a critical bottleneck in the AI infrastructure buildout: power grid capacity is becoming a more binding constraint than chips or capital. It signals that state regulators are pushing back against unchecked data center expansion, potentially reshaping where hyperscalers and AI companies choose to locate new capacity. ERCOT manages roughly 90% of Texas's electric load, and the 474 GW backlog dwarfs the grid's actual peak demand of approximately 80–90 GW. The extremely low compliance rate (28 of 377) suggests systemic opacity in data center planning, making the audit a prerequisite for any meaningful grid reliability assessment.
 
-hackernews · vblanco · Aug 3, 13:34 · [Discussion](https://news.ycombinator.com/item?id=49155629)
+rss · Tom's Hardware · Aug 4, 14:57
 
-**Tags**: `#video-generation`, `#open-weights`, `#comfyui`, `#multimodal-ai`, `#model-compression`
+**Background**: ERCOT (Electric Reliability Council of Texas) is the independent grid operator that manages the flow of electric power to about 90% of Texas's load. The Public Utility Commission of Texas (PUCT) is the state regulatory body that oversees ERCOT and sets rules for investor-owned utilities. Data centers—especially those powering AI training and inference workloads—consume enormous amounts of electricity and water for cooling, and their rapid proliferation in Texas has been driven by cheap land, favorable tax policies, and the state's independent grid (which is not subject to federal interstate regulation). The state experienced a major grid failure during Winter Storm Uri in 2021, making grid reliability a politically sensitive issue.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.datacenterdynamics.com/en/news/texas-governor-directs-puct-ercot-to-audit-all-data-centers-seeking-grid-connection/">Texas governor directs PUCT , ERCOT to audit all data centers seeking...</a></li>
+<li><a href="https://www.battleswarmblog.com/?p=72588">The Texas Data Center Dilemma « Lawrence Person's BattleSwarm Blog</a></li>
+<li><a href="https://texasborderbusiness.com/turning-on-the-juice/">Turning on the Juice! - Texas Border Business</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#data-centers`, `#ai-infrastructure`, `#power-grid`, `#regulation`, `#texas`
 
 ---
 
 <a id="item-12"></a>
-## [Andy Pavlo joins ClickHouse to establish ClickHouse Labs](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse) ⭐️ 7.0/10
+## [Sandisk and SK hynix unveil HBF spec with UCIe for GPUs](https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie) ⭐️ 7.5/10
 
-Prominent CMU database researcher Andy Pavlo joins ClickHouse to establish ClickHouse Labs, signaling the company's commitment to fundamental database systems research.
+Sandisk and SK hynix formally released the High Bandwidth Flash (HBF) technical specification through the Open Compute Project, targeting up to 3 TB/s of bandwidth and up to 16-Hi NAND stacks connected via UCIe. Google and Tenstorrent joined the consortium during the standardization process, though only four companies are currently engaged with the technology. HBF could provide GPUs with terabytes of additional memory capacity at high bandwidth, directly addressing the memory wall that constrains large AI inference workloads. If widely adopted, it could reshape the economics of AI accelerators by offering a cheaper, higher-capacity alternative or complement to HBM, potentially lowering total cost of ownership for AI inference systems. The specification targets up to 16-Hi NAND stacks with TSV technology and uses the UCIe chiplet interconnect standard for package-level integration. The 3 TB/s bandwidth figure is a target rather than a current product capability, and this announcement covers a specification document rather than shipping hardware or production AI servers.
 
-hackernews · nikolay_sivko · Aug 3, 14:09 · [Discussion](https://news.ycombinator.com/item?id=49156011)
+rss · Tom's Hardware · Aug 4, 14:42
 
-**Tags**: `#database-systems`, `#clickhouse`, `#industry-news`, `#research`, `#olap`
+**Background**: High Bandwidth Memory (HBM) is the current standard for high-bandwidth memory used alongside GPUs and AI accelerators, but it is expensive and limited in capacity per stack. NAND flash is far cheaper and denser per dollar but traditionally far too slow for direct use by compute accelerators. HBF attempts to bridge this gap by stacking NAND dies vertically (up to 16 layers using TSV technology) and exposing them through the UCIe chiplet interconnect, enabling large pools of flash memory to sit close enough to compute to serve AI inference workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.skhynix.com/en/hbf-at-fms-2026/">SK hynix Unveils First HBF Standard Specifications with Sandisk ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://www.uciexpress.org/">Home | UCIe Consortium</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#GPU`, `#memory-technology`, `#NAND`, `#UCIe`, `#AI-infrastructure`
 
 ---
 
 <a id="item-13"></a>
-## [Renesas Tackles Memory Bottleneck with MRDIMM Update](https://www.eetimes.com/renesas-tackles-memory-bottleneck-with-mrdimm-update/) ⭐️ 7.0/10
+## [Chinese chipmaking tool roadmaps examined — Beijing's nascent lithography tools target DUV production at five machines a year, and an EUV prototype with no chips](https://www.tomshardware.com/tech-industry/semiconductors/chinese-chipmaking-tool-roadmap-examined) ⭐️ 7.5/10
 
-Renesas announces Gen 3 DDR5 MRDIMMs delivering 16,000 MT/s bandwidth to address memory bottlenecks in AI workloads without requiring a platform redesign.
+Analysis of China's nascent lithography tool roadmaps, examining the gap between ambitious DUV production targets (5 machines/year) and EUV prototype status with no working chips yet, questioning whether the program is a legitimate rival to established players.
 
-rss · EE Times · Aug 3, 19:00
+rss · Tom's Hardware · Aug 4, 13:15
 
-**Tags**: `#MRDIMM`, `#DDR5`, `#memory-bandwidth`, `#AI-infrastructure`, `#Renesas`
+**Tags**: `#semiconductors`, `#lithography`, `#DUV`, `#EUV`, `#China-tech`, `#chip-manufacturing`, `#geopolitics`
 
 ---
 
 <a id="item-14"></a>
-## [Video Interview: ChipAgents CEO on Latest Funding for Agentic AI in EDA](https://www.eetimes.com/video-interview-chipagents-ceo-on-latest-funding-for-agentic-ai-in-eda/) ⭐️ 7.0/10
+## [Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims — HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market](https://www.tomshardware.com/tech-industry/three-major-pc-makers-now-using-chinese-memory-to-fight-unprecedented-memory-shortage-report-claims-hp-asus-and-acer-using-small-amounts-of-cxmt-chips-in-limited-number-of-notebooks-for-non-us-market) ⭐️ 7.5/10
 
-ChipAgents raises $60M to pursue autonomous agentic AI for chip design automation, positioning itself against traditional copilot-style EDA tools.
+HP, Asus, and Acer have reportedly begun using CXMT's Chinese memory chips in limited notebooks for non-US markets to address an ongoing memory shortage.
 
-rss · EE Times · Aug 3, 14:07
+rss · Tom's Hardware · Aug 4, 10:15
 
-**Tags**: `#agentic-ai`, `#eda`, `#chip-design`, `#funding`, `#ai-agents`
+**Tags**: `#memory-shortage`, `#supply-chain`, `#CXMT`, `#PC-manufacturing`, `#semiconductors`
 
 ---
 
 <a id="item-15"></a>
-## [TSMC Ahead of Schedule on $49B 1.4nm Fab Construction](https://www.electronicsweekly.com/news/business/tsmc-ahead-of-schedule-with-1-4nm-fab-2026-08/) ⭐️ 7.0/10
+## [Anthropic Signs $10 Billion Compute Deal with AI Cloud Startup](https://36kr.com/newsflashes/3925172170324099?f=rss) ⭐️ 7.3/10
 
-TSMC is ahead of schedule in constructing its $49 billion 1.4nm fab at the Central Taiwan Science Park in Taichung, according to the Commercial Times. Construction on the facility began in November 2025. As one of the world's most advanced semiconductor fabs, an on-schedule or ahead-of-schedule 1.4nm (A14) node is critical for next-generation AI accelerators, high-performance computing, and consumer chips. The $49 billion investment scale also reflects the escalating capital requirements of leading-edge fabrication and TSMC's determination to maintain its process leadership over rivals like Samsung and Intel. The 1.4nm node is officially branded as 'A14' by TSMC and is expected to enter high-volume manufacturing around 2027–2028. It relies heavily on Extreme Ultraviolet (EUV) lithography and will succeed the N2 (2nm) node, which is scheduled for late 2025.
+Anthropic has reportedly signed a $10 billion computing power agreement with an AI cloud startup, according to Chinese financial media outlet First Financial (第一财经). No further details about the partner, contract duration, or specific infrastructure commitments have been disclosed in the brief news flash. A $10 billion compute deal of this scale underscores the astronomical capital expenditure required to train and serve frontier AI models, and highlights Anthropic's aggressive infrastructure strategy as it competes with OpenAI, Google DeepMind, and other major AI labs. It also signals growing demand for specialized AI cloud providers beyond traditional hyperscalers like AWS, Google Cloud, and Azure. The news comes as a single-line flash with no specifics on the startup partner, contract length, or whether this involves GPU clusters, custom silicon, or data center capacity. Anthropic has historically relied heavily on Amazon Web Services and Google Cloud as primary compute partners, so a $10 billion commitment to a startup would represent a notable diversification of its compute supply chain.
 
-rss · Electronics Weekly · Aug 3, 05:15
+rss · 36氪 · Aug 4, 12:11
 
-**Background**: In semiconductor manufacturing, process 'node' names like 1.4nm no longer correspond to any physical transistor dimension—they are marketing labels representing successive generations of transistor density and performance improvements. TSMC's roadmap runs N3 (3nm) → N2 (2nm) → A14 (1.4nm), with each node offering gains in power efficiency, transistor density, and performance. The construction of cutting-edge fabs is extraordinarily capital-intensive, often costing tens of billions of dollars, partly due to the enormous expense of EUV lithography tools from ASML, which can cost over $200 million each. A14 is expected to be especially important for AI workloads, where computational density and energy efficiency are paramount.
+**Background**: Anthropic is a San Francisco-based AI safety-focused public benefit corporation and the creator of the Claude family of large language models, competing directly with OpenAI's GPT series and Google's Gemini. AI compute contracts at this scale typically cover access to tens of thousands of GPUs or specialized AI accelerators over multi-year periods, as training a single frontier model can require tens of thousands of NVIDIA H100 or equivalent chips running for months. The 'compute bottleneck' has become one of the defining constraints on AI development, with specialized AI cloud startups emerging to offer alternatives to the dominant hyperscalers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.phonearena.com/news/tsmc-says-what-follows-2nm-node_id153534">For the first time, TSMC reveals what will follow the 2 nm node</a></li>
-<li><a href="https://electrazine.com/the-next-leap-in-semiconductors-the-1-4nm-process-node/">The Next Leap in Semiconductors : The 1 . 4 nm Process Node ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://www.mayerbrown.com/en/insights/publications/2026/06/portability-of-ai-compute-infrastructure-in-ai-acquisitions">Portability of AI Compute Infrastructure in AI Acquisitions | Mayer Brown</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#TSMC`, `#semiconductors`, `#1.4nm`, `#fabrication`, `#industry-news`
+**Tags**: `#Anthropic`, `#AI infrastructure`, `#cloud computing`, `#deal`, `#AI industry`
 
 ---
 
 <a id="item-16"></a>
-## [NVIDIA RTX 50 Series GPUs Face 20-30% Price Hike in South Korea](https://www.techpowerup.com/351329/nvidia-geforce-rtx-50-series-faces-30-price-increase-in-south-korea) ⭐️ 6.5/10
+## [TSMC Expands CoWoS Packaging Outsourcing as NVIDIA GPU Orders Strain Capacity](https://36kr.com/newsflashes/3925154441787525?f=rss) ⭐️ 7.3/10
 
-NVIDIA's GeForce RTX 50 series GPUs are rumored to see a 20-30% price increase in South Korea due to rapidly rising GDDR7 memory costs from suppliers. South Korean importers and distributors have already informed the supply chain about the upcoming price hike, which could reach up to 30% depending on the model. This price increase affects the entire RTX 50 lineup, with premium models bearing the biggest impact, potentially pushing the RTX 5090 past $5,100 in South Korea. Even though South Korea hosts major DRAM producers like SK hynix and Samsung, no one is exempt from these rising costs, signaling broader GPU pricing pressure that could spread to other markets. NVIDIA bundles GDDR7 memory with the GPU die as a kit for its AIB partners, so any memory cost increase directly affects board partners and consumers. With each 2GB GDDR7 module costing in the low $20s and the RTX 5090 requiring 16 modules, NVIDIA spends at least $320 on GDDR7 alone for its flagship card, before accounting for the GPU die, R&D, and AIB margins.
+TSMC is further outsourcing the CoW (Chip-on-Wafer) portion of its CoWoS advanced packaging to OSAT companies like ASE, as NVIDIA's surging GPU orders have pushed the foundry's packaging lines to full capacity. This signals a critical bottleneck in the AI chip supply chain, as CoWoS packaging is essential for integrating AI processors with high-bandwidth memory. The move highlights how explosive AI demand is forcing even the world's leading foundry to redistribute workloads, potentially affecting the pace of AI infrastructure deployment globally. CoWoS is TSMC's 2.5D packaging technology available in three variants: CoWoS-S, CoWoS-R, and CoWoS-L, each using different interlayer materials. TSMC has qualified a 5.5-times-reticle CoWoS technology for 2026 volume production, indicating the push toward ever-larger chip packages for AI workloads.
 
-rss · TechPowerUp News · Aug 3, 18:47
+rss · 36氪 · Aug 4, 11:53
 
-**Background**: GDDR7 is the latest generation of graphics double data rate memory, offering higher bandwidth than GDDR6 and GDDR6X for high-performance GPUs. Add-in Board (AIB) partners are companies like ASUS, MSI, and Gigabyte that purchase GPU dies and components from NVIDIA and manufacture retail graphics cards. The RTX 50 series is NVIDIA's latest consumer GPU lineup, with the RTX 5090 being the flagship model featuring 32GB of GDDR7 memory.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100">In a troubling sign, Nvidia RTX 50 series prices jump... | Tom's Hardware</a></li>
-<li><a href="https://grokipedia.com/page/Add-in_board">Add - in board</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#RTX-50-series`, `#GPU-pricing`, `#GDDR7-memory`, `#hardware-news`
-
----
-
-<a id="item-17"></a>
-## [Kioxia Announces GP1 Series PCIe 6.0 NVMe SSDs for AI Workloads](https://www.techpowerup.com/351318/kioxia-announces-gp1-series-super-high-iops-ssds-for-ai-applications) ⭐️ 6.5/10
-
-Kioxia announced the GP1 Series, its first PCIe 6.0 NVMe SSD delivering up to 10 million random read IOPS using XL-FLASH generation 2 low-latency flash memory, designed to extend HBM as a flash-based memory tier for AI systems. Evaluation samples will be available to select customers by the end of 2026, with a public showcase at FMS 2026 in Santa Clara. The GP1 targets a critical bottleneck in AI infrastructure: GPU memory capacity. By offering a high-IOPS flash tier that sits between HBM4 and conventional NAND, it promises to expand the effective memory pool available to GPUs at a fraction of the cost of adding more HBM, directly addressing the economics of large-context and retrieval-heavy AI workloads. Key specifications include PCIe 6.0 interface, GPU direct access support, 10M random read IOPS, and use of XL-FLASH Gen 2 — Kioxia's low-latency NAND-based Storage Class Memory. The product is positioned as a HBM-extension tier rather than a general-purpose SSD, and won't reach evaluation customers until late 2026.
-
-rss · TechPowerUp News · Aug 3, 14:47
-
-**Background**: XL-FLASH is Kioxia's low-latency NAND-based Storage Class Memory (SCM), positioned between DRAM and conventional NAND in the memory hierarchy to deliver much faster access than typical SSDs. High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology used in GPUs and AI accelerators, with HBM4 being the latest generation powering next chips such as NVIDIA Rubin. Memory tiering — combining HBM, SCM-class flash, and bulk NAND — is increasingly important for AI workloads whose working sets exceed on-package GPU memory, and PCIe 6.0 doubles per-lane bandwidth versus PCIe 5.0, which is needed to keep such flash tiers fed at the IOPS levels AI systems require.
+**Background**: CoWoS (Chip-on-Wafer-on-Substrate) is a 2.5D advanced packaging technology developed by TSMC that places AI processors at the center with HBM (High Bandwidth Memory) stacks surrounding them, connected through an interposer. OSAT (Outsourced Semiconductor Assembly and Test) companies like ASE specialize in the back-end processes of chip packaging and testing. HBM, co-developed by Samsung, AMD, and SK Hynix, is a 3D-stacked memory technology critical for feeding data to AI accelerators like NVIDIA's H200, B200, and upcoming Vera Rubin GPUs. With SK Hynix controlling about 62% of HBM shipments in Q2 2025, the entire AI chip stack—from packaging to memory—faces tight supply.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.storagereview.com/news/kioxia-gp1-series-hits-10-million-random-read-iops-on-xl-flash-gen-2">KIOXIA GP1 Series Hits 10 Million Random Read IOPS on XL - FLASH ...</a></li>
-<li><a href="https://blog-us.kioxia.com/post/2026/05/06/storage-class-memory-scm-explained-the-next-leap-in-memory-technology">Storage Class Memory (SCM) Explained – The Next... | KIOXIA Blog</a></li>
+<li><a href="https://vcnh.top/blog/36/">TSMC will manufacture unprecedented giant chips - vcnh.top</a></li>
+<li><a href="https://currentaffairs.adda247.com/pm-modi-inaugurates-cg-semi-osat-facility-in-sanand-strengthening-indias-semiconductor-ecosystem/">PM Modi Inaugurates CG Semi OSAT Facility in Sanand...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SSD`, `#PCIe 6.0`, `#AI infrastructure`, `#storage`, `#Kioxia`
+**Tags**: `#TSMC`, `#CoWoS`, `#NVIDIA`, `#semiconductor supply chain`, `#AI chips`, `#packaging`
 
 ---
 
-<a id="item-18"></a>
-## [CXMT Reportedly Plans Second Fab in Beijing to Boost DRAM Output](https://www.techpowerup.com/351308/cxmt-reportedly-plans-second-fab-in-beijing-to-boost-dram-output) ⭐️ 6.5/10
+<a id="item-17"></a>
+## [DeepSeek V4 Flash Runs on a Single AMD MI300X at 150+ tok/s](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) ⭐️ 7.0/10
 
-Chinese DRAM maker CXMT is reportedly planning a second fab in Beijing to triple its wafer production capacity to 600,000 WPM, backed by local government funding.
+Developer ryanzhou demonstrated running DeepSeek V4 Flash, a 284B-parameter MoE model, on a single AMD MI300X GPU achieving over 150 tokens/second while preserving full inference weights, though the context window was reduced from the original 1M to 256k tokens. This demonstration highlights the viability of deploying frontier-scale open-weight models on non-NVIDIA hardware at a more accessible price point, potentially lowering barriers for researchers and smaller organizations to experiment with state-of-the-art models outside of the NVIDIA GPU ecosystem. The setup preserves full-precision inference weights (no aggressive quantization) but sacrifices context length; the MI300X's high HBM capacity is key to fitting the model, though the original DeepSeek V4 Flash was designed for 1M-token contexts, and the paper reports ~15k tokens/s/gpu on H800, suggesting further optimization headroom remains.
 
-rss · TechPowerUp News · Aug 3, 09:45
+hackernews · zhoutong · Aug 4, 10:00 · [Discussion](https://news.ycombinator.com/item?id=49166386)
 
-**Tags**: `#semiconductors`, `#DRAM`, `#memory`, `#China`, `#manufacturing`
-
----
-
-<a id="item-19"></a>
-## [AI companies slash token prices amid fierce competition from Chinese models](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs) ⭐️ 6.5/10
-
-All major AI developers are aggressively cutting token prices to remain competitive against highly efficient new releases from Chinese AI companies, squeezing already thin profit margins. According to OpenRouter data cited by CNBC, Chinese AI models now handle 30-46% of US enterprise API tokens, up from just 4.5% a year ago, with companies like Coinbase halving their AI bills by migrating traffic to DeepSeek. This price war threatens the profit margins and investor returns that AI companies have promised to justify the massive capital being poured into the sector. As commoditization accelerates and efficiency becomes the primary differentiator, the entire economics of generative AI could shift from premium software margins toward utility-like pricing. AI services are typically priced per million tokens, with separate rates for input (prompts) and output (completions), and output tokens usually costing several times more than input tokens. The competitive pressure is largely driven by Chinese open-weight models like DeepSeek that achieve comparable or better performance at a fraction of the inference cost, forcing Western providers to match prices rather than compete purely on capability.
-
-rss · Tom's Hardware · Aug 3, 16:26
-
-**Background**: Tokens are the fundamental units that language models process — they are roughly word fragments, short words, or punctuation marks — and AI services charge users based on how many tokens are consumed during API calls. Major AI labs like OpenAI, Anthropic, and Google built their business models on the assumption that advanced AI capabilities would command premium pricing, attracting record-breaking investment in 2024-2025. However, the emergence of highly efficient Chinese open-source models has disrupted this assumption by demonstrating that top-tier performance can be delivered at dramatically lower costs, making price competition unavoidable.
+**Background**: DeepSeek V4 Flash is a Mixture-of-Experts (MoE) model with 284 billion total parameters and approximately 13 billion active parameters per token, making it far smaller than its V4-Pro sibling (1.6T parameters). The AMD MI300X is a data-center GPU notable for its large HBM memory capacity (192GB), which makes it well-suited for hosting large language models. Running a full frontier MoE model on a single GPU — rather than requiring multiple cards or a multi-node setup — is significant because it dramatically reduces infrastructure complexity and cost, though it typically requires trading off context window or quantization precision.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://api-docs.deepseek.com/quick_start/pricing/">Models & Pricing | DeepSeek API Docs</a></li>
-<li><a href="https://spoonai.me/posts/2026-07-11-chinese-ai-models-30-46pct-us-enterprise-tokens-cnbc-jul2026-en">Chinese AI Ate 30-46% of US Enterprise API Traffic... | spoonai</a></li>
-<li><a href="https://agenticschool.dev/fundamentals/what-are-tokens.md">agenticschool.dev/fundamentals/ what - are - tokens .md</a></li>
+<li><a href="https://deepseek.ai/deepseek-v4">DeepSeek V 4 Explained: V 4 -Pro 1.6T vs V 4 - Flash 284B (2026)</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash">deepseek -ai/ DeepSeek - V 4 - Flash · Hugging Face</a></li>
+<li><a href="https://www.remio.ai/post/deepseek-v4-flash-reportedly-outperforms-its-larger-sibling-on-agent-tasks">DeepSeek V 4 Flash Reportedly Outperforms Its Larger Sibling on...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ai-industry`, `#pricing`, `#market-dynamics`, `#competition`, `#china-tech`
+**Discussion**: Commenters raised practical and technical points: one noted that MI300X is typically sold only in 8x configurations costing around €250K, not as single units; another highlighted that while the demo preserves full inference weights (unlike dumbed-down quantization), the context window trade-off from 1M to 256k is the main concession, comparable to Codex's range. A commenter from doubleword.ai shared related prior work using 2x MI300X setups and recommended hotaisle.xyz for MI300X experimentation. Finally, one participant pointed out that DeepSeek's own H800 numbers (15k tok/s/gpu) suggest significant optimization headroom remains on MI300X.
+
+**Tags**: `#DeepSeek`, `#AMD MI300X`, `#LLM inference`, `#GPU deployment`, `#model optimization`
+
+---
+
+<a id="item-18"></a>
+## [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) ⭐️ 7.0/10
+
+Xbox server outage prevents users from playing games they physically own on disc, sparking discussion about digital ownership, DRM, and the loss of consumer rights in modern gaming.
+
+hackernews · surprisetalk · Aug 4, 12:01 · [Discussion](https://news.ycombinator.com/item?id=49167448)
+
+**Tags**: `#gaming`, `#DRM`, `#digital-ownership`, `#consumer-rights`, `#xbox`
+
+---
+
+<a id="item-19"></a>
+## [Swiftlet Runs 80B Qwen in 4.3GB Mac RAM, 35B on iPhone](https://github.com/leonickson1/Swiftlet) ⭐️ 7.0/10
+
+Developer leonickson1 released Swiftlet, a tool on GitHub that uses aggressive quantization and memory swapping to run an 80-billion-parameter Qwen model using only 4.3GB of RAM on a Mac, and a 35-billion-parameter model on an iPhone at roughly 1 token per second. This demonstration pushes the boundary of on-device LLM inference by showing that massive models can run on severely resource-constrained consumer hardware, signaling a potential future where powerful AI runs locally without expensive GPU racks. It reflects Apple's broader strategic bet that consumer-grade AI will increasingly run on-device rather than in the cloud. Swiftlet builds on the earlier TurboFieldfare project and achieves its memory footprint through aggressive quantization (reducing model weight precision to 4-bit or lower), combined with memory swapping to SSD storage. The tradeoff is significant: iPhone inference is limited to about 1 token/second, and heavy SSD swapping raises concerns about long-term storage wear, though increasing the RAM cache on Macs with 24-32GB can substantially improve speed.
+
+hackernews · leonickson · Aug 3, 16:54 · [Discussion](https://news.ycombinator.com/item?id=49158333)
+
+**Background**: Large language models (LLMs) like Alibaba's Qwen family typically require enormous amounts of memory — an 80B model in standard 16-bit precision would need around 160GB of RAM. Quantization is a compression technique that reduces the numerical precision of model weights (commonly from 16-bit down to 4-bit or 3-bit), dramatically shrinking memory requirements at the cost of some model quality. Apple Silicon chips feature a unified memory architecture that allows the CPU and GPU to share the same memory pool, which is advantageous for AI workloads. Memory swapping extends usable memory by spilling less-frequently-used data to SSD storage, enabling models to exceed physical RAM limits.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pub.towardsai.net/llm-quantisation-quantise-hugging-face-model-with-gptq-awq-and-bitsandbytes-a4ad45cd8b48">LLM Quantization : Quantize Model with GPTQ, AWQ... | Towards AI</a></li>
+<li><a href="https://huggingface.co/Qwen">Org profile for Qwen on Hugging Face, the AI community building the...</a></li>
+<li><a href="https://strongmocha.com/ai-infrastructure-data-centers/apple-silicon-s-quiet-memory-advantage-2/">Apple Silicon ’s Quiet Memory Advantage - StrongMocha</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The Hacker News community responded with strong enthusiasm, viewing the project as meaningful progress despite its practical limitations. Commenters highlighted that such experimentation is how real progress happens, predicted that Apple is strategically betting on consumer-grade on-device AI, and noted that increasing RAM cache on larger Macs (24-32GB) can substantially speed up inference. One user running tests confirmed the approach's utility, while the original TurboFieldfare creator thanked Swiftlet for crediting their work.
+
+**Tags**: `#on-device-ai`, `#llm-inference`, `#quantization`, `#apple-silicon`, `#edge-computing`
 
 ---
 
 <a id="item-20"></a>
-## [Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 — upscaling makes low-end GPUs viable for esports and internet cafes](https://www.tomshardware.com/pc-components/gpus/gaming-on-the-4gb-radeon-rx-6500-xt-and-gtx-1650-super-in-2026) ⭐️ 6.5/10
+## [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 7.0/10
 
-Tom's Hardware tests whether 4GB VRAM graphics cards from 2020 remain viable for gaming in 2026 using modern upscaling technologies, in light of AMD's controversial RX 9050 4GB launch.
+OpenAI highlights ten concrete advances in mathematics and theoretical computer science achieved with AI reasoning models, sparking community debate about the nature of machine-driven mathematical discovery.
 
-rss · Tom's Hardware · Aug 3, 12:30
+hackernews · milkshakes · Aug 3, 16:27 · [Discussion](https://news.ycombinator.com/item?id=49157930)
 
-**Tags**: `#gpu`, `#vram`, `#amd`, `#upscaling`, `#budget-gaming`
+**Tags**: `#AI`, `#mathematics`, `#OpenAI`, `#reasoning-models`, `#research-frontier`
 
 ---
