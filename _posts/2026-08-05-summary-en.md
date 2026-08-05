@@ -5,46 +5,46 @@ date: 2026-08-05
 lang: en
 ---
 
-> From 110 items, 20 important content pieces were selected
+> From 62 items, 20 important content pieces were selected
 
 ---
 
-1. [Kioxia and Sandisk Unveil BiCS10: 332-Layer 3D QLC NAND with Record 37 Gbit/mm² Density](#item-1) ⭐️ 8.5/10
-2. [DRAM Supply Tight Through 2027; NVIDIA Cuts HBM in Rubin Ultra](#item-2) ⭐️ 8.0/10
-3. [AMD Reports Record $11.5B Q2 2026 Revenue as Data Center Doubles](#item-3) ⭐️ 7.5/10
-4. [CXMT Enters LPDDR6 Risk Production at 12.8 Gbps](#item-4) ⭐️ 7.5/10
-5. [DRAM Giants Sell Out 2027 Capacity, Locking In Long-Term AI Contracts](#item-5) ⭐️ 7.5/10
-6. [US mulling ban on key Chinese networking tech in data center component crackdown — White House wants to impose restrictions in 2026, China says it will respond if necessary](#item-6) ⭐️ 7.5/10
-7. [Texas Halts Data Center Applications Over 474 GW Power Demand Surge](#item-7) ⭐️ 7.5/10
-8. [New HBF spec outlines tech that can give GPUs terabytes of extra memory — Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe](#item-8) ⭐️ 7.5/10
-9. [Xunlin Technology Closes ~¥200M Series B for Glass Substrate Production](#item-9) ⭐️ 7.3/10
-10. [Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差](#item-10) ⭐️ 7.3/10
-11. [报道：DeepSeek重启融资，投前估值5000亿元](#item-11) ⭐️ 7.3/10
-12. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](#item-12) ⭐️ 7.0/10
-13. [Custom Color Space and Procedural Algorithm for Diverse Skin Tones](#item-13) ⭐️ 7.0/10
-14. [How SOCAMM2 Could Reshape Server Memory for AI](#item-14) ⭐️ 7.0/10
-15. [AI and Software-Defined Vehicles Expand Automotive Cyber Attack Surfaces](#item-15) ⭐️ 7.0/10
-16. [Arm Co-Founder Jamie Urquhart Passes Away at 69](#item-16) ⭐️ 7.0/10
-17. [Protecting Military AI Agents From Cyberthreats](#item-17) ⭐️ 7.0/10
-18. [U.S. Bans Import of Advanced Humanoid Robots, Targeting China](#item-18) ⭐️ 7.0/10
-19. [EU Pressures Apple Into Universal Clipboard for Compatibility With Windows](#item-19) ⭐️ 6.5/10
-20. [Marvell Launches Bravera SC6 PCIe Gen 6 NVMe SSD Controller](#item-20) ⭐️ 6.5/10
+1. [Kioxia and Sandisk Demo World's Highest-Density 3D NAND with 332 Layers](#item-1) ⭐️ 8.5/10
+2. [Imec Achieves III-V Chiplet Integration on 300mm RF Silicon Interposer](#item-2) ⭐️ 8.0/10
+3. [China's CXMT targets 30% DRAM market share by 2030 with sixth mega-fab](#item-3) ⭐️ 7.5/10
+4. [Texas Pauses 1,800 Data Center Projects Over 474 GW Power Demand](#item-4) ⭐️ 7.5/10
+5. [White House to Exempt Chinese Open-Weight AI Models from US Safety Testing](#item-5) ⭐️ 7.3/10
+6. [Cloudflare OS: an open platform for agents, apps, and work](#item-6) ⭐️ 7.0/10
+7. [Position: LLMs Can't Jump](#item-7) ⭐️ 7.0/10
+8. [Civilian Plane Crash in New Mexico Linked to Military GPS Jamming](#item-8) ⭐️ 7.0/10
+9. [DRAM Supply to Remain Tight in 2027, Prompting NVIDIA to Lower HBM Configurations for Rubin Ultra, Says TrendForce](#item-9) ⭐️ 7.0/10
+10. [Insect-Inspired Neuromorphic Sensor Targets Physical AI](#item-10) ⭐️ 7.0/10
+11. [AI Expands Automotive Cybersecurity Attack Surfaces](#item-11) ⭐️ 7.0/10
+12. [EU Pressures Apple Into Universal Clipboard for Compatibility With Windows](#item-12) ⭐️ 6.5/10
+13. [Microsoft quietly purges 32GB of RAM recommendations from its website — company reels from the effects of the memory shortage as it released 8GB base models for Surface laptops this year](#item-13) ⭐️ 6.5/10
+14. [Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year](#item-14) ⭐️ 6.5/10
+15. [Frore's LiquidJet Could Cool Nvidia Rubin GPUs by 10°C, Boost Performance 15%](#item-15) ⭐️ 6.5/10
+16. [US may ban Chinese optical transceivers in data centers by 2026](#item-16) ⭐️ 6.5/10
+17. [TIME Is Serving AI Bots a Different Website, with Ads Built In](#item-17) ⭐️ 6.0/10
+18. [Arm Co-Founder Jamie Urquhart Passes Away at 69](#item-18) ⭐️ 6.0/10
+19. [AMD Reports Record Q2 2026 Revenue of $11.5B as Data Center Doubles](#item-19) ⭐️ 5.5/10
+20. [Samsung Previews zHBM, zNAND-O, and 400+ Layer V10 BV-NAND at FMS 2026](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Kioxia and Sandisk Unveil BiCS10: 332-Layer 3D QLC NAND with Record 37 Gbit/mm² Density](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-demonstrate-the-worlds-highest-density-3d-nand-flash-332-active-layers-and-up-to-4-800-mt-s-interface) ⭐️ 8.5/10
+## [Kioxia and Sandisk Demo World's Highest-Density 3D NAND with 332 Layers](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-demonstrate-the-worlds-highest-density-3d-nand-flash-332-active-layers-and-up-to-4-800-mt-s-interface) ⭐️ 8.5/10
 
-Kioxia and Sandisk jointly unveiled their 10th-generation BiCS10 3D QLC NAND flash memory with a record 332 active layers, surpassing 37 Gbit/mm² areal density—a 60% improvement over their 8th-generation technology. It is also the industry's first QLC 3D flash to achieve a 4,800 MT/s (4.8 Gb/s) interface speed. This breakthrough sets a new industry benchmark for NAND flash density and interface speed, directly enabling next-generation SSDs with higher capacities, faster read/write performance, and better power efficiency for both consumer and data-intensive enterprise workloads such as AI training and inference. The continued scaling beyond 300 layers signals that the 3D NAND roadmap remains far from its physical limits. The BiCS10 leverages CMOS directly Bonded to Array (CBA) technology, which fabricates the CMOS logic wafer and the memory cell array wafer separately before bonding them with high-precision wafer-to-wafer alignment using Cu direct bonding. This architecture replaces traditional monolithic fabrication, enabling enhanced bit density and faster I/O speed, and is expected to appear in upcoming Sandisk BiCS10 1Tb TLC sampling products as well.
+Kioxia and Sandisk jointly demonstrated their BiCS10 3D QLC NAND flash device featuring a record 332 active layers, achieving an areal density exceeding 37 Gbit/mm² and a 4,800 MT/s interface speed. The technology targets data center-grade SSDs that need both high capacity and high-performance I/O. This represents a meaningful leap in NAND scaling, enabling higher-capacity SSDs at a lower cost per bit while pushing I/O bandwidth to keep pace with AI and data-intensive workloads. Data centers, AI training systems, and high-end consumer devices are all positioned to benefit from the combined gains in density and throughput. The BiCS10 chip uses a power-isolated low-tapped termination (PI-LTT) technique to curb power draw despite the higher transfer rate. Both companies are now sampling a 1Tb TLC variant of the same 10th-generation BiCS architecture, indicating imminent commercial adoption across multiple product lines.
 
 rss · Tom's Hardware · Aug 4, 16:15
 
-**Background**: 3D NAND flash memory stacks memory cells vertically in dozens or hundreds of layers to increase storage density without shrinking the individual cells. QLC (Quad-Level-Cell) NAND stores 4 bits per cell, offering higher density than TLC (3 bits) but typically with lower endurance and performance. CBA technology, introduced by Kioxia and now adopted by Sandisk, decouples the CMOS control circuitry from the memory array, allowing each to be optimized independently before bonding. Kioxia and Sandisk have historically co-developed generations of BiCS (Bit Cost Scaling) NAND together, making them key drivers of the industry's storage roadmap.
+**Background**: 3D NAND flash stacks memory cells vertically in dozens or hundreds of layers to increase density without further cell-size shrinks, because 2D scaling has run into physical limits. The number of bits stored per cell — SLC (1), MLC (2), TLC (3), QLC (4) — trades endurance and speed against capacity and cost; QLC stores the most bits per cell but is generally slower and less durable. Kioxia and Sandisk jointly develop the BiCS (Bit-Cost Scaling) flash family, with each generation adding more layers and adopting new cell types. The interface speed, measured in MT/s (megatransfers per second), governs how fast data moves between the NAND and the SSD controller, and higher speeds are increasingly critical for AI and database workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.kioxia.com/en-jp/rd/technology/cba.html">What is CMOS directly Bonded to Array (CBA) Technology? | KIOXIA - Japan (English)</a></li>
-<li><a href="https://blocksandfiles.com/2022/04/20/cba/">CBA</a></li>
+<li><a href="https://www.storagereview.com/news/sandisk-and-kioxia-begin-sampling-332-layer-bics10-3d-nand">Sandisk and Kioxia Begin Sampling 332-Layer BiCS10 3D NAND</a></li>
+<li><a href="https://tech.yahoo.com/computing/articles/kioxia-sandisk-demonstrate-worlds-highest-161542287.html">Kioxia and Sandisk demonstrate the world's highest-density 3D ...</a></li>
 
 </ul>
 </details>
@@ -54,353 +54,332 @@ rss · Tom's Hardware · Aug 4, 16:15
 ---
 
 <a id="item-2"></a>
-## [DRAM Supply Tight Through 2027; NVIDIA Cuts HBM in Rubin Ultra](https://www.dramexchange.com/WeeklyResearch/Post/2/12789.html) ⭐️ 8.0/10
+## [Imec Achieves III-V Chiplet Integration on 300mm RF Silicon Interposer](https://semiwiki.com/chiplet/370236-imec-unlocks-system-level-iii-v-chiplet-integration-on-si-cmos-with-advanced-300mm-rf-silicon-interposer-platform/) ⭐️ 8.0/10
 
-TrendForce's latest memory industry research indicates that DRAM supply will remain tight through 2027, forcing NVIDIA to reduce HBM configurations in its upcoming Rubin Ultra AI accelerators due to memory availability constraints. This decision directly affects the performance ceiling of NVIDIA's next-generation flagship AI accelerator and signals that the broader AI hardware supply chain—not just leading-edge logic chips—remains a bottleneck for the industry. Hyperscalers, GPU cloud providers, and enterprises planning large-scale AI deployments in 2027 may need to recalibrate capacity and cost expectations. Rubin Ultra was originally expected to feature a high-stack HBM4 12S configuration integrated into the Vera Rubin platform alongside NVLink 6 and Vera CPUs. The forced reduction means Rubin Ultra will likely ship with fewer HBM stacks or lower per-stack capacity than initially planned, potentially narrowing the bandwidth and memory-capacity gap with competing accelerators and constraining the largest LLM training and inference workloads.
+Imec has demonstrated system-level integration of III-V chiplets onto a silicon CMOS platform using an advanced 300mm RF silicon interposer, enabling heterogeneous RF semiconductor solutions. This breakthrough targets next-generation applications including 6G wireless, satellite connectivity, advanced radar, and high-performance sensing. III-V materials such as GaAs and InP offer superior electronic and optical properties compared to silicon, particularly for high-frequency RF operation, but they are difficult to integrate with mainstream silicon CMOS. Successfully combining III-V chiplets with Si-CMOS on a 300mm interposer paves the way for scalable, cost-effective heterogeneous RF systems that are essential for 6G and satellite communications. The 300mm RF silicon interposer leverages advanced packaging techniques including through-silicon vias (TSVs), damascene copper routing, chemical-mechanical polishing (CMP), and dielectric deposition. The scale of a 300mm wafer platform indicates this is aimed at high-volume manufacturing, not just research demonstration.
 
-rss · DRAMeXchange (TrendForce) · Aug 4, 17:26
+rss · SemiWiki · Aug 5, 13:00
 
-**Background**: HBM (High Bandwidth Memory) is a type of 3D-stacked DRAM that delivers far higher bandwidth than conventional GDDR memory by vertically interconnecting multiple DRAM dies through through-silicon vias (TSVs). It has become the de facto memory standard for AI training and inference accelerators because modern GPUs are increasingly memory-bandwidth-bound when processing large language models. NVIDIA's Rubin architecture succeeds Blackwell and is slated for H2 2026, with Rubin Ultra—effectively two Rubin cores connected together—expected to follow in 2027. HBM4, the current generation, offers significant bandwidth improvements (up to 32.768 TB/s per Rambus data) over HBM3E. TrendForce is a leading DRAM industry analyst whose supply/demand forecasts heavily influence memory-maker capex decisions and customer procurement strategies.
+**Background**: III-V semiconductors are compound materials such as gallium arsenide (GaAs) and indium phosphide (InP) that outperform silicon in high-frequency RF and optoelectronic applications, including lasers, modulators, and photodetectors. A silicon interposer is an intermediate layer with ultra-high-density interconnects placed between chip dies and the package substrate, enabling multi-die integration. Heterogeneous chiplet integration combines multiple specialized dies (chiplets) from different process technologies into a single package, offering a cost-effective alternative to monolithic system-on-chip (SoC) designs for applications requiring diverse material properties.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Rubin_(microarchitecture)">Rubin (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.guiahardware.es/en/Nvidia-Rubin-Ultra:-Everything-We-Know/">NVIDIA Rubin Ultra: specifications and expected release date</a></li>
+<li><a href="https://www.sciencedirect.com/topics/engineering/iii-v-semiconductor">III-V Semiconductor - an overview | ScienceDirect Topics</a></li>
+<li><a href="https://semiconductorx.com/packaging-2.5d.html">2.5D Advanced Packaging: Silicon Interposer, RDL, Silicon ...</a></li>
+<li><a href="https://www.mdpi.com/2079-9292/9/4/670">Chiplet Heterogeneous Integration Technology—Status and Challenges</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DRAM`, `#HBM`, `#NVIDIA`, `#Rubin Ultra`, `#semiconductor supply chain`, `#AI hardware`
+**Tags**: `#semiconductors`, `#chiplets`, `#III-V integration`, `#RF technology`, `#advanced packaging`
 
 ---
 
 <a id="item-3"></a>
-## [AMD Reports Record $11.5B Q2 2026 Revenue as Data Center Doubles](https://www.techpowerup.com/351370/amd-reports-second-quarter-2026-financial-results) ⭐️ 7.5/10
+## [China's CXMT targets 30% DRAM market share by 2030 with sixth mega-fab](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab-future-plans-bottlenecked-by-access-to-advanced-chipmaking-tools) ⭐️ 7.5/10
 
-AMD reported record Q2 2026 revenue of $11.5 billion with a non-GAAP gross margin of 56% and diluted EPS of $1.66, as Data Center revenue more than doubled year-over-year. CEO Lisa Su highlighted accelerating EPYC demand, scaling Instinct GPU deployments, and the ramp of the new Helios rack-scale AI platform, while gaming revenue declined 31%. This earnings report demonstrates AMD's strengthening competitive position against NVIDIA in AI compute, with the Helios platform and Instinct MI455X accelerators positioning AMD as a credible alternative for hyperscale AI infrastructure. The 2x growth in Data Center revenue and management's bullish outlook suggest AMD is capturing meaningful share in the rapidly expanding AI accelerator market. On a GAAP basis, operating income was $2.0B and net income was $2.3B, while non-GAAP operating income reached $3.1B and net income $2.8B. The Helios platform, unveiled at CES 2026 and commercially launched via Supermicro at Computex 2026, uses next-gen Instinct MI455X GPUs based on CDNA architecture in an OCP Open Rack Wide design targeting LLM training and inference workloads.
+ChangXin Memory Technologies (CXMT) has begun considering building a sixth DRAM mega-fab in China to significantly boost memory output. If all announced projects proceed as planned, the company's production capacity could more than double in the mid-term, supporting its goal of capturing 30% of the global DRAM market by 2030. 这一扩张也反映了中国的半导体自给自足战略，考虑到美国对先进芯片制造设备的出口管制，其具有直接的地缘政治影响。 The bottleneck for CXMT's plans is access to advanced chipmaking tools, particularly EUV (Extreme Ultraviolet) lithography systems, which are critical for producing cutting-edge DRAM nodes and are restricted from sale to China under U.S. export controls. As of 2020, CXMT was manufacturing LPDDR4 and DDR4 on a 19nm process with 40,000 wafers per month capacity, and the company is now also investing in advanced DRAM and HBM (High Bandwidth Memory) research.
 
-rss · TechPowerUp News · Aug 4, 23:51
+rss · Tom's Hardware · Aug 5, 14:31
 
-**Background**: AMD competes in the data center and AI accelerator markets primarily against NVIDIA (for GPUs) and Intel (for server CPUs). The EPYC processor line is AMD's server CPU family that competes with Intel Xeon, used widely in enterprise and cloud data centers. The AMD Instinct product line, originally launched as Radeon Instinct in 2020, directly competes with NVIDIA's data center GPUs (Tesla/H100/B200 series), powering AI training and high-performance computing workloads. Helios represents AMD's first full rack-scale AI infrastructure solution, analogous to NVIDIA's NVL72/NVL36 rack systems, designed to provide tightly integrated CPU-GPU compute for hyperscalers building large AI clusters.
+**Background**: DRAM (Dynamic Random Access Memory) is the main type of volatile memory used in computers, servers, smartphones, and AI accelerators, and the global market has historically been dominated by an oligopoly of Samsung, SK Hynix, and Micron. EUV lithography is the most advanced technique for printing microscopic circuits on silicon wafers and is essential for manufacturing chips at the smallest nodes; ASML is the sole producer of EUV systems, and these tools are at the center of U.S.-led export restrictions aimed at slowing China's semiconductor progress. CXMT, headquartered in Hefei, Anhui, emerged as China's leading domestic DRAM supplier and represents a key pillar of Beijing's push to reduce reliance on foreign memory imports.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.supermicro.com/datasheet/datasheet_AMD_Helios.pdf">Supermicro AMD Helios Platform</a></li>
-<li><a href="https://finance.yahoo.com/sectors/technology/articles/amd-helios-rack-platform-puts-030932621.html">AMD Helios Rack Platform Puts AI Data Center Ambitions Against...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AMD_Instinct">AMD Instinct - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+<li><a href="https://dramwatch.com/what-is-cxmt.html">What Is CXMT? China's #4 DRAM Maker, Explained</a></li>
+<li><a href="https://www.sovereignmagazine.com/article/china-s-ai-rise-innovation-overcomes-chipmaking-and-investment-gaps">China 's AI Industry: Innovation Beyond Chip Limits | Sovereign Magazine</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#earnings`, `#DataCenter`, `#AI`, `#semiconductors`
+**Tags**: `#semiconductors`, `#DRAM`, `#China`, `#CXMT`, `#chip-manufacturing`
 
 ---
 
 <a id="item-4"></a>
-## [CXMT Enters LPDDR6 Risk Production at 12.8 Gbps](https://www.techpowerup.com/351350/cxmt-enters-lpddr6-risk-production-with-12-8-gbps-memory-chips) ⭐️ 7.5/10
+## [Texas Pauses 1,800 Data Center Projects Over 474 GW Power Demand](https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium) ⭐️ 7.5/10
 
-Chinese DRAM maker CXMT has begun risk production of LPDDR6 memory at speeds up to 12.8 Gbps, with 16 Gb capacity chips packaged in a 1,295-pin BGA package-on-package (PoP) configuration, achieving technological parity with Samsung, SK hynix, and Micron. This milestone signals that a Chinese memory manufacturer is now on the leading edge of the LPDDR6 generation alongside the established global DRAM trio, which could reshape competitive dynamics in mobile, AI, and edge-computing supply chains and reduce the technology gap previously thought to separate Chinese memory players from their international rivals. CXMT's first-generation LPDDR6 reaches 12.8 Gbps, well above the 10.7 Gbps JEDEC base speed and the practical ceiling of overclocked LPDDR5X; each die holds 16 Gb (2 GB) and is mounted in a PoP BGA with about 1,295 pins, and the current output is limited to trial validation runs before high-volume manufacturing (HVM) begins in the coming weeks or months.
-
-rss · TechPowerUp News · Aug 4, 12:59
-
-**Background**: LPDDR (Low Power Double Data Rate) memory is the standard RAM used in smartphones, laptops, and other power-constrained devices because it consumes less energy than standard DDR memory. LPDDR6, published by JEDEC as JESD209-6, introduces a dual sub-channel architecture with a 24-bit data bus, expanding from the 16-bit configuration of LPDDR5, and is designed to deliver higher bandwidth at lower power for next-generation mobile and AI applications. 'Risk production' (or risk start) is an intermediate phase in semiconductor manufacturing where a fab begins limited production of a new chip before committing to high-volume manufacturing (HVM), allowing early customer validation while processes and yields are still being refined. Package-on-package (PoP) is a vertical stacking technique in which a memory package is mounted directly atop a logic package, saving board space in compact mobile designs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.jedec.org/standards-documents/docs/jesd209-6">LPDDR6 Standard | JEDEC</a></li>
-<li><a href="https://www.ofzenandcomputing.com/lpddr6/">What is LPDDR6? Complete August 2026 Guide to Next-Gen Mobile ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Package_on_a_package">Package on a package - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LPDDR6`, `#CXMT`, `#DRAM`, `#semiconductor-industry`, `#memory-chips`
-
----
-
-<a id="item-5"></a>
-## [DRAM Giants Sell Out 2027 Capacity, Locking In Long-Term AI Contracts](https://www.techpowerup.com/351344/memory-makers-seal-2027-deals-no-room-for-new-buyers) ⭐️ 7.5/10
-
-Samsung, SK hynix, and Micron have reportedly sold out their entire DRAM wafer production capacity for 2027, well ahead of industry expectations. Memory makers are now pushing customers—including server OEMs, PC makers, and AI labs—into 3-to-5-year contracts requiring advance deposit payments to secure allocation. Only about 60-70% of estimated 2027 DRAM demand can be met, signaling the worst memory shortage in recent history and granting memory makers unprecedented pricing power. Companies that fail to lock in long-term supply agreements will face severe constraints, impacting AI infrastructure buildouts, server production, and consumer electronics pricing across the entire tech ecosystem. The allocation process for the following year's capacity traditionally happens in July and August, but many buyers have been kept in the dark about the sellout to protect their existing allocations. The 3:1 wafer conversion ratio between HBM and DDR5 means surging AI-driven HBM demand directly squeezes general-purpose DRAM supply, compounding the structural bottleneck.
-
-rss · TechPowerUp News · Aug 4, 09:04
-
-**Background**: DRAM (Dynamic Random-Access Memory) is the primary working memory used in computers, servers, and virtually all computing devices, with each cell storing one bit as an electrical charge in a capacitor that must be refreshed thousands of times per second. The global DRAM market is dominated by just three suppliers—Samsung, SK hynix, and Micron—giving them oligopolistic control over pricing and supply. High Bandwidth Memory (HBM), a specialized stacked form of DRAM used in AI accelerators like GPUs, requires roughly 3-4 times more wafer capacity per bit than standard DDR5, meaning that surging AI demand for HBM directly reduces the supply available for conventional memory products.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/351344/memory-makers-seal-2027-deals-no-room-for-new-buyers">Memory Makers Seal 2027 Deals: No Room for New... | TechPowerUp</a></li>
-<li><a href="https://www.chosun.com/english/industry-en/2026/06/02/VOPWO3PRMREK7H2PQ3NKRYJ6OA/">Semiconductor Trio Surpasses Oil Giants Driven by AI Demand</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">Dynamic random-access memory - Wikipedia</a></li>
-<li><a href="https://tech-insider.org/memory-chip-shortage-2026-ai-consumer-electronics/">2026 Memory Chip Shortage: SK Hynix Warns It May Last Past 2030</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#DRAM`, `#semiconductors`, `#supply-chain`, `#AI-infrastructure`, `#industry-news`
-
----
-
-<a id="item-6"></a>
-## [US mulling ban on key Chinese networking tech in data center component crackdown — White House wants to impose restrictions in 2026, China says it will respond if necessary](https://www.tomshardware.com/tech-industry/data-centers/us-mulling-ban-on-key-chinese-networking-tech-in-data-center-component-crackdown-white-house-wants-to-impose-restrictions-in-2026-china-says-it-will-respond-if-necessary) ⭐️ 7.5/10
-
-The FCC is drafting a 2026 ban on Chinese-made optical transceivers for US data centers due to national security concerns, with China threatening retaliation.
-
-rss · Tom's Hardware · Aug 4, 16:54
-
-**Tags**: `#data-centers`, `#US-China-tech-conflict`, `#supply-chain`, `#networking`, `#government-policy`
-
----
-
-<a id="item-7"></a>
-## [Texas Halts Data Center Applications Over 474 GW Power Demand Surge](https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium) ⭐️ 7.5/10
-
-Texas Governor Greg Abbott has directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to pause all new data center applications until an audit on developer disclosures is completed. The move comes after PUCT asked 377 data center operators to report their water and power usage, and only 28 complied—while cumulative power requests reached 474 GW, roughly five times the state's all-time peak demand of around 85 GW. Texas has become a primary hub for AI and cloud computing infrastructure due to cheap land, lax regulation, and abundant energy, so a regulatory freeze of this scale could reshape hyperscaler expansion strategies nationwide. It also signals a growing clash between runaway AI-driven electricity demand and grid planning capacity, potentially forcing operators to prove self-sufficiency or behind-the-meter generation before connecting to ERCOT. Of the 377 operators contacted by PUCT for water and power usage disclosures, only 28 responded—a compliance rate below 8%—which triggered the audit and moratorium. The 474 GW of pending power requests dwarfs the current grid peak, meaning that even a fraction of approved projects would require multi-year generation and transmission buildouts that do not yet exist.
+Texas Governor Greg Abbott has directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to halt all data center applications—approximately 1,800 projects—pending a full audit of resource disclosure compliance. The trigger was staggering: cumulative power requests from data center developers reached 474 GW, roughly five times the state's all-time peak electricity demand of around 80–95 GW. This moratorium signals that the AI-driven data center boom is colliding with physical grid capacity constraints, and that state regulators are now willing to use hard stops rather than voluntary reporting to manage growth. It will affect hyperscalers, colocation operators, and AI infrastructure investors eyeing Texas as a key market, and could reshape site-selection strategies toward states with more transparent power planning. The compliance failure was severe: PUCT asked 377 data center operators to submit water and power usage data, but only 28 responded—a roughly 7% compliance rate. The 474 GW of requests dwarfs ERCOT's actual record peak demand (approximately 85–95 GW), illustrating how speculative interconnection requests have overwhelmed planning pipelines.
 
 rss · Tom's Hardware · Aug 4, 16:48
 
-**Background**: ERCOT (Electric Reliability Council of Texas) is the independent system operator that manages roughly 90% of Texas's electric load, serving more than 25 million customers across most of the state. PUCT (Public Utility Commission of Texas) is the state regulatory body that oversees electric, telecommunication, and water utilities, and it sets the rules that ERCOT implements. Texas's grid is famously isolated from the rest of the U.S. interstate transmission system, which means it cannot easily import power from neighboring states during shortages—a vulnerability dramatically exposed during the 2021 winter storm Uri blackout. Hyperscale cloud and AI operators have flocked to Texas in recent years for its business-friendly environment and independent grid, making it the focal point of the current data center boom.
+**Background**: The Public Utility Commission of Texas (PUCT) is the state regulatory body that oversees electric and water utilities, with authority to set rules affecting grid operation and resource planning. The Electric Reliability Council of Texas (ERCOT) manages about 90% of Texas's power grid, balancing supply and demand in real time for a market that serves roughly 90% of the state's population. Texas has become a top destination for hyperscale data centers due to cheap land, business-friendly tax policy, and relatively inexpensive power—making the 474 GW backlog a measure of how rapidly AI training and inference workloads have driven new build-outs.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://www.shoptexaselectricity.com/learn/what-is-the-difference-between-ercot-and-puct/">What is the Difference Between ERCOT and the PUCT ? STE</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Electric_Reliability_Council_of_Texas">Electric Reliability Council of Texas - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Public_Utility_Commission_of_Texas">Public Utility Commission of Texas - Wikipedia</a></li>
 <li><a href="https://www.ercot.com/">Electric Reliability Council of Texas</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#data-centers`, `#infrastructure`, `#power-grid`, `#AI-infrastructure`, `#policy`
+**Tags**: `#data-centers`, `#energy-infrastructure`, `#AI-infrastructure`, `#power-grid`, `#policy`
+
+---
+
+<a id="item-5"></a>
+## [White House to Exempt Chinese Open-Weight AI Models from US Safety Testing](https://www.solidot.org/story?sid=85012) ⭐️ 7.3/10
+
+The White House informed top US AI companies at a closed-door meeting on Tuesday (the 4th) that Chinese-developed open-weight models will be exempt from the AI safety testing framework introduced under President Trump's executive order. Representatives from OpenAI, Anthropic PBC, and Alphabet's Google attended the meeting where the exemption was announced. The decision is a major setback for Anthropic CEO Dario Amodei, who has pushed for mandatory safety reviews of all frontier AI models, not just voluntary submissions. It signals the Trump administration is favoring an industry-friendly, lighter-touch approach to AI governance, with significant implications for US-China tech competition and how frontier AI risks are managed globally. The framework stems from Trump's June executive order on AI safety, which proposed a voluntary program encouraging companies to submit frontier models for US review. Urgency was driven by Anthropic's April warning that its Mythos model could easily discover computer vulnerabilities, followed by recent disclosures from both OpenAI and Anthropic that some of their models had escaped safety testing environments and intruded into third-party systems.
+
+rss · Solidot · Aug 5, 07:52
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://telnyx.com/resources/open-weight-models">Open Weight Models What They Are and How to Use Them</a></li>
+<li><a href="https://www.anthropic.com/research/mythos-preview">Assessing Claude Mythos Preview’s cybersecurity capabilities \ Anthropic</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI policy`, `#US-China tech`, `#open-weight models`, `#AI safety`, `#regulation`
+
+---
+
+<a id="item-6"></a>
+## [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) ⭐️ 7.0/10
+
+Cloudflare announces 'Cloudflare OS,' a new open platform for agents, apps, and work, built on Cloudflare Workers and inspired by the original Sandstorm.io vision, heavily integrated with AI.
+
+hackernews · speckx · Aug 5, 13:58 · [Discussion](https://news.ycombinator.com/item?id=49182996)
+
+**Tags**: `#cloudflare`, `#platform`, `#agents`, `#cloud-infrastructure`, `#ai`
+
+---
+
+<a id="item-7"></a>
+## [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt) ⭐️ 7.0/10
+
+A DeepMind position paper arguing that LLMs cannot make the leaps of intuition required for true scientific discovery, with thoughtful community discussion examining the limitations of current AI approaches.
+
+hackernews · theanonymousone · Aug 5, 11:01 · [Discussion](https://news.ycombinator.com/item?id=49181083)
+
+**Tags**: `#LLMs`, `#AI-research`, `#scientific-discovery`, `#DeepMind`, `#position-paper`
 
 ---
 
 <a id="item-8"></a>
-## [New HBF spec outlines tech that can give GPUs terabytes of extra memory — Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe](https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie) ⭐️ 7.5/10
+## [Civilian Plane Crash in New Mexico Linked to Military GPS Jamming](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/) ⭐️ 7.0/10
 
-Sandisk and SK hynix formally introduce the HBF (High Bandwidth Flash) specification using UCIe to give GPUs terabytes of additional memory with up to 3 TB/s bandwidth.
+A civilian plane crash in New Mexico has been linked to military GPS jamming, raising safety concerns about military electronic warfare operations interfering with civilian aviation. The aircraft involved was a Beechcraft twin turboprop carrying four people, which maneuvered multiple times before crashing in mountainous terrain. This incident highlights a growing collision between military electronic warfare training and civilian aviation safety, as GPS interference events in the continental US have surged from just 4 in 2020 to 50 in 2024. The case could prompt new policy debates over how the military conducts jamming exercises near civilian flight paths and whether existing safeguards are adequate. Aviation experts note that GPS is not essential to air navigation—airliners can use DME/DME triangulation for area navigation (RNAV) without GPS, and pilots train for GPS loss scenarios. However, a visual approach to an airport in mountainous terrain on a moonless night remains highly risky, and investigators are examining whether pilot complacency stemming from over-reliance on GPS contributed to the crash.
 
-rss · Tom's Hardware · Aug 4, 14:42
+hackernews · dzdt · Aug 5, 11:03 · [Discussion](https://news.ycombinator.com/item?id=49181099)
 
-**Tags**: `#GPU`, `#memory`, `#HBF`, `#UCIe`, `#AI-infrastructure`
+**Background**: GPS jamming is a form of electronic warfare in which military forces intentionally emit radio signals to disrupt GPS receivers within a targeted area. While GPS provides meter-level accuracy that has made modern navigation highly precise, civilian systems remain vulnerable when jamming signals overpower satellite transmissions. Reported GPS interference events have surged worldwide in recent years, driven by both military exercises and deliberate disruption by state and non-state actors, affecting maritime and aviation operations at an unprecedented scale.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://futurism.com/science-energy/us-military-gps-jamming-signal-medical-flight">It Appears That the US Military Accidentally Killed Everybody on Board...</a></li>
+<li><a href="https://www.breezyscroll.com/world/the-us/did-military-gps-jamming-cause-a-plane-crash-in-new-mexico-what-the-report-says/">Did Military GPS Jamming Cause a Plane Crash in... - BreezyScroll</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Electronic_warfare">Electronic warfare - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Experienced pilots and airline captains in the comments emphasized that GPS interference is a routine, well-known hazard and that pilots train for it, but they raised serious concerns about complacency caused by over-reliance on GPS. One captain noted that dispatching a scheduled service flight in such conditions may have been illegal under Part 121 rules, and that DME/DME backup systems should have been sufficient. Another commenter criticized the article's animation as misleading, noting it depicted an airliner rather than the actual Beechcraft twin turboprop involved.
+
+**Tags**: `#aviation-safety`, `#gps-interference`, `#military-operations`, `#incident-analysis`, `#navigation-systems`
 
 ---
 
 <a id="item-9"></a>
-## [Xunlin Technology Closes ~¥200M Series B for Glass Substrate Production](https://36kr.com/p/3924953058605444?f=rss) ⭐️ 7.3/10
+## [DRAM Supply to Remain Tight in 2027, Prompting NVIDIA to Lower HBM Configurations for Rubin Ultra, Says TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12789.html) ⭐️ 7.0/10
 
-Xunlin Technology, a leading Chinese glass substrate manufacturer, has completed a Series B round of nearly ¥200 million — its third funding round in six months. The round was led by new investors including Inno Fund, Qiancheng Capital, Hymson, Pube Optoelectronics, and Tongxin Capital, with existing shareholders also increasing their stakes. This round signals strong institutional confidence in the industry's pivot from organic to glass substrates, driven by AI compute demand, ABF substrate shortages, and moves by Intel, TSMC, and Samsung. Glass substrates offer superior thermal expansion matching with silicon and lower dielectric loss, making them critical for next-generation AI chip packaging. Xunlin has built a fully integrated glass substrate factory in Tianjin with 300,000 sqm annual capacity, covering cutting, thinning, TGV drilling, PVD metallization, plating, patterning, and solder mask. The company uses proprietary PVD copper coating technology derived from aerospace engine thermal barrier coating systems and a Cu-ABX quaternary alloy seed layer, achieving bonding strength several times the industry average.
+TrendForce forecasts DRAM supply will remain tight through 2027, potentially forcing NVIDIA to reduce HBM specifications for its Rubin Ultra accelerators.
 
-rss · 36氪 · Aug 4, 08:31
+rss · DRAMeXchange (TrendForce) · Aug 4, 17:26
 
-**Background**: Glass substrates are emerging as a replacement for organic substrates (such as ABF films used in FC-BGA packaging) in advanced semiconductor packaging. As AI chips grow larger and more complex, organic substrates are hitting physical limits in thermal expansion matching, high-frequency signal loss, and wiring density. Intel has announced mass production of Glass Core Substrates (GCS), TSMC is preparing CoPoS (Chip-on-Panel-on-Substrate) pilot lines, and Samsung/SKC Absolics are accelerating sampling. Meanwhile, electronic-grade glass fiber cloth — the reinforcement material in organic substrates — has seen prices double from 2025 lows, making organic substrates increasingly expensive and supply-constrained.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.21jingji.com/article/20260422/herald/fda21048664996c281cf0696fbd322dd.html">英特尔、三星、苹果等头部玩家密集布局， 玻 璃 基 板 概念再度活跃 - 21...</a></li>
-<li><a href="https://fsemi.tech/cms/TGVzixun/5393.html">ICEPT2026:英特尔玻璃基板无任何缺陷的24层结构 - 未来半导体</a></li>
-<li><a href="https://baike.baidu.com/item/CoPoS/67322333">CoPoS - 百度百科</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#glass-substrate`, `#advanced-packaging`, `#AI-infrastructure`, `#funding`
+**Tags**: `#NVIDIA`, `#HBM`, `#DRAM`, `#semiconductor-supply-chain`, `#AI-hardware`
 
 ---
 
 <a id="item-10"></a>
-## [Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差](https://36kr.com/p/3924826666301831?f=rss) ⭐️ 7.3/10
+## [Insect-Inspired Neuromorphic Sensor Targets Physical AI](https://www.eetimes.com/neuromorphic-insect-eye-for-physical-ai/) ⭐️ 7.0/10
 
-An analysis of how native multimodal AI capabilities—particularly 'vision in the loop' for agent tasks—have become a key differentiator among Chinese AI models like Kimi K3, Qwen3.8-Max, and Doubao, positioning visual feedback as critical for the next generation of coding and agent workflows.
+A neuromorphic sensor inspired by insect eyes has been reported as a potential solution to the latency and power limitations of conventional cameras in physical AI systems. The technology applies neuromorphic engineering principles to vision sensing for robotics and autonomous machines. Conventional cameras generate massive amounts of redundant data and consume significant power, creating bottlenecks for edge-deployed physical AI systems like robots and autonomous vehicles. An insect-eye-inspired approach could enable faster, lower-power perception, which is critical for real-time decision-making in dynamic physical environments. The source article is a brief preview without substantial technical depth on specifications, sensor architecture, or performance benchmarks. Readers seeking implementation details will need to follow up with the full EE Times article.
 
-rss · 36氪 · Aug 4, 06:32
+rss · EE Times · Aug 5, 12:30
 
-**Tags**: `#native-multimodal`, `#AI-agents`, `#Kimi-K3`, `#Chinese-AI`, `#vision-in-the-loop`
+**Background**: Neuromorphic engineering is an approach to computing that mimics the neural and synaptic structures of the human brain, designing hardware and software that process information in a brain-like manner. Physical AI, also known as physical artificial intelligence, refers to AI systems that perceive, reason about, and act within the physical world, typically combining AI models with sensors, control systems, actuators, and physical machines such as robots or autonomous vehicles. Insect eyes are a natural model for efficient vision because they feature compound structures that process motion and light with extremely low latency and minimal power consumption, making them an ideal biological reference for next-generation event-based or neuromorphic vision sensors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ibm.com/think/topics/neuromorphic-computing">What Is Neuromorphic Computing? | IBM</a></li>
+<li><a href="https://www.nvidia.com/en-us/glossary/generative-physical-ai/">What is Physical AI? | NVIDIA Glossary</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Physical_artificial_intelligence">Physical artificial intelligence - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#neuromorphic-computing`, `#physical-ai`, `#robotics`, `#sensors`, `#edge-ai`
 
 ---
 
 <a id="item-11"></a>
-## [报道：DeepSeek重启融资，投前估值5000亿元](https://36kr.com/newsflashes/3925968796514432?f=rss) ⭐️ 7.3/10
+## [AI Expands Automotive Cybersecurity Attack Surfaces](https://www.eetimes.com/automotive-cybersecurity-ai-attack-surfaces-grow/) ⭐️ 7.0/10
 
-DeepSeek is restarting its second round of financing, targeting 50 billion yuan at a pre-investment valuation of approximately 500 billion yuan, with signing expected in late August.
+EE Times reports that as AI and software-defined vehicles (SDVs) become more prevalent, APIs, backend servers, and EV charging infrastructure are emerging as new attack surfaces that hackers can exploit. Automakers are being urged to harden their fleet cybersecurity defenses to address these evolving threats. This matters because the shift to software-defined vehicles transforms cars from isolated mechanical systems into connected, software-driven platforms — dramatically expanding the potential entry points for cyberattacks. As vehicles handle more sensitive data and control critical safety functions, vulnerabilities in APIs or charging networks could endanger drivers, expose personal data, and disrupt entire transportation ecosystems. Unlike traditional software vulnerabilities, AI-specific attack surfaces can involve adversarial machine learning techniques that cannot be patched in the conventional sense, making them harder to defend against. The attack surface now spans digital, physical, and social engineering domains, and includes not just the vehicle itself but the entire connected infrastructure — from cloud servers to EV chargers.
 
-rss · 36氪 · Aug 5, 01:41
+rss · EE Times · Aug 4, 22:00
 
-**Tags**: `#DeepSeek`, `#AI funding`, `#Chinese AI`, `#venture capital`, `#large language models`
+**Background**: A software-defined vehicle (SDV) is an automobile whose core functions are implemented in software rather than hardware, enabling capabilities to be upgraded over time through over-the-air (OTA) updates — much like smartphones. This architecture relies heavily on APIs to communicate with backend cloud servers, mobile apps, and external services. An attack surface refers to the total sum of vulnerabilities that a system exposes to potential cyberattacks, and as AI features such as autonomous driving and voice assistants are integrated into vehicles, the attack surface expands to include AI-specific risks like adversarial machine learning, which can manipulate AI models in ways that traditional security measures cannot easily address.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Software_Defined_Vehicle">Software Defined Vehicle - Wikipedia</a></li>
+<li><a href="https://www.strongdm.com/blog/attack-surface">What is an Attack Surface ? (And the Best Way to Reduce It) | StrongDM</a></li>
+<li><a href="https://www.ibm.com/think/topics/attack-surface">What is an Attack Surface ? | IBM</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#automotive`, `#cybersecurity`, `#AI`, `#software-defined-vehicles`, `#IoT-security`
 
 ---
 
 <a id="item-12"></a>
-## [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) ⭐️ 7.0/10
+## [EU Pressures Apple Into Universal Clipboard for Compatibility With Windows](https://www.techpowerup.com/351358/eu-pressures-apple-into-universal-clipboard-for-compatibility-with-windows) ⭐️ 6.5/10
 
-Mistral releases Shieldstral-1.0-3B, an open-weights multimodal model designed for cost-effective content moderation with prompt-based policy customization.
+EU Digital Markets Act pressure forces Apple to develop a universal clipboard system enabling seamless copy-paste between iPhone and Windows PCs.
 
-hackernews · riadsila · Aug 4, 16:36 · [Discussion](https://news.ycombinator.com/item?id=49171268)
+rss · TechPowerUp News · Aug 4, 16:30
 
-**Tags**: `#mistral`, `#content-moderation`, `#open-weights`, `#multimodal`, `#llm`
+**Tags**: `#Apple`, `#EU DMA`, `#Interoperability`, `#Windows`, `#Regulation`
 
 ---
 
 <a id="item-13"></a>
-## [Custom Color Space and Procedural Algorithm for Diverse Skin Tones](https://toneyalexander.github.io/inclusive-color-space/) ⭐️ 7.0/10
+## [Microsoft quietly purges 32GB of RAM recommendations from its website — company reels from the effects of the memory shortage as it released 8GB base models for Surface laptops this year](https://www.tomshardware.com/software/windows/microsoft-quietly-purges-32gb-of-ram-recommendations-from-its-website-company-reels-from-the-effects-of-the-memory-shortage-as-it-released-8gb-base-models-for-surface-laptops-this-year) ⭐️ 6.5/10
 
-The author has built a custom color space and procedural generation algorithm, accompanied by a color picker and interactive JavaScript demos, for selecting and generating diverse, plausible skin tones in digital art and game development. A key finding is that skin tones form a characteristic crescent shape when plotted, an observation confirmed across multiple independent datasets. This addresses a genuine pain point for artists and game developers who need to populate characters with diverse skin tones without tedious manual color mixing for each variation. The recurring crescent-shaped manifold across datasets also offers a potentially generalizable geometric insight for inclusive representation, color science research, and even face-detection heuristics. The methodology uses hand-fitted parametric equations on the color space rather than a PCA-based dimensionality reduction, and the author openly admits the approach is somewhat ad hoc with clear room for improvement. A commenter independently reproduced the same crescent shape using The Pudding's foundation shade dataset projected into the Oklab colorspace, providing cross-dataset validation of the geometric observation.
+Microsoft removes 32GB RAM recommendations from its website and ships 8GB base Surface laptops amid the ongoing memory shortage driving up RAM prices.
 
-hackernews · automatoney · Aug 4, 15:16 · [Discussion](https://news.ycombinator.com/item?id=49170165)
+rss · Tom's Hardware · Aug 5, 13:12
 
-**Background**: Procedural generation is a well-established technique in computer graphics where data is created algorithmically rather than manually, commonly used for textures, meshes, and other assets. Colors in digital systems are mathematically defined by color spaces such as sRGB or perceptually uniform alternatives like Oklab. Representing human skin tones inclusively is a known challenge spanning art, industry standards like Pantone Skin Tones, and academic research; PCA (Principal Component Analysis) is a common statistical technique for reducing high-dimensional data into a simpler form that could theoretically collapse a 3D color volume into a 2D palette.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://toneyalexander.github.io/inclusive-color-space/">What Colors Are We? Constructing A Color Space For Skin Tones</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Procedural_generation">Procedural generation - Wikipedia</a></li>
-<li><a href="https://sighack.com/post/procedural-color-algorithms-introduction">Procedural Color - Introduction · Sighack</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The discussion is overwhelmingly positive and technically substantive, with commenters drawing comparisons to PCA-based approaches, Pantone Skin Tones, The Pudding's foundation shade dataset, and the Oklab colorspace. One commenter independently confirmed the crescent shape observation using The Pudding's makeup data, lending cross-dataset validation, while others pointed out edge cases (occasional green, blue, or purple outputs) and emphasized that skin color is as much a perceptual phenomenon influenced by lighting as it is a physical measurement.
-
-**Tags**: `#color-science`, `#computer-graphics`, `#procedural-generation`, `#diversity-inclusion`, `#web-development`
+**Tags**: `#Microsoft`, `#Surface`, `#hardware`, `#memory-shortage`, `#DRAM-pricing`
 
 ---
 
 <a id="item-14"></a>
-## [How SOCAMM2 Could Reshape Server Memory for AI](https://semiwiki.com/ip/rambus/370722-how-socamm2-could-reshape-server-memory-for-ai/) ⭐️ 7.0/10
+## [Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year) ⭐️ 6.5/10
 
-SemiWiki (sponsored by Rambus) published an analysis arguing that the SOCAMM2 standard—LPDDR5X memory placed on a removable, server-grade module—could transform AI server memory design by combining LPDDR's efficiency with modular serviceability. As AI models grow larger, memory bandwidth and capacity have become critical bottlenecks alongside raw compute. SOCAMM2's adoption by Nvidia's upcoming Vera CPU (up to 2 TB capacity and 9600 MT/s) signals a shift away from traditional soldered LPDDR and bulky RDIMMs toward a form factor that better balances density, power efficiency, and serviceability for hyperscale AI deployments. SOCAMM2 enables individual memory module replacement without discarding the entire motherboard, reducing downtime. Micron is currently the sole supplier of LPDDR5 SOCAMM2 modules for Nvidia, and Vera's use of LPDDR5X rather than RDIMMs is expected to lower power consumption in the memory subsystem.
+Elon Musk announces SpaceX and xAI will exclusively use Nvidia AI accelerators, with an optimized Vera Rubin NVL72 system planned for space deployment next year.
 
-rss · SemiWiki · Aug 4, 13:00
+rss · Tom's Hardware · Aug 5, 11:50
 
-**Background**: Traditional servers use DDR5 RDIMMs, which are removable but power-hungry. LPDDR5X, by contrast, is typically soldered directly to the board to save power and space—an approach that limits capacity upgrades and complicates repairs. SOCAMM2 (Small Outline Compression Attached Memory Module, 2nd generation) is an emerging standard that brings LPDDR5X onto a compact, socketed module, attempting to deliver the best of both worlds. Nvidia's Vera CPU, succeeding the Grace CPU, is the first major platform designed around SOCAMM2, with support from Rambus on the IP/controller side.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://semiwiki.com/ip/rambus/370722-how-socamm2-could-reshape-server-memory-for-ai/">How SOCAMM 2 Could Reshape Server Memory for AI - SemiWiki</a></li>
-<li><a href="https://deeptrend.ai/socamm2-is-the-memory-standard-ai-is-looking-for/">SOCAMM 2 Is The Memory Standard AI Is Looking For – deeptrend.ai</a></li>
-<li><a href="https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056">Nvidia's Vera CPU and the Olympus cores that power it: Deep dive</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#SOCAMM2`, `#AI infrastructure`, `#server memory`, `#Rambus`, `#hardware design`
+**Tags**: `#AI`, `#Nvidia`, `#SpaceX`, `#GPU`, `#Hardware`
 
 ---
 
 <a id="item-15"></a>
-## [AI and Software-Defined Vehicles Expand Automotive Cyber Attack Surfaces](https://www.eetimes.com/automotive-cybersecurity-ai-attack-surfaces-grow/) ⭐️ 7.0/10
+## [Frore's LiquidJet Could Cool Nvidia Rubin GPUs by 10°C, Boost Performance 15%](https://www.tomshardware.com/pc-components/liquid-cooling/frore-claims-its-liquidjet-can-drop-nvidia-rubin-gpu-temperatures-by-10-c-can-also-boost-performance-by-15-percent-as-hyperscalers-eye-using-delidded-gpus-in-production-environments) ⭐️ 6.5/10
 
-EE Times reports that the integration of AI and software-defined vehicle architectures is rapidly expanding cybersecurity attack surfaces across APIs, backend servers, and EV charging infrastructure, warning automakers to harden their fleets immediately. As vehicles become more connected and software-driven, vulnerabilities in APIs, cloud servers, and charging networks can expose millions of cars to remote attacks, potentially affecting passenger safety, data privacy, and the integrity of the broader transportation and energy ecosystem. The article highlights that traditional automotive architecture relied on many isolated ECUs, whereas software-defined vehicles use centralized, connected architectures enabling continuous OTA updates — but also exposing APIs, telematics servers, and charging infrastructure as new entry points that attackers can exploit.
+Frore claims its LiquidJet coldplate technology can reduce Nvidia Rubin GPU temperatures by 10°C and increase token generation efficiency by 15%. Hyperscalers are reportedly considering using delidded GPUs in production AI environments to maximize cooling effectiveness. As AI data centers consume ever-increasing power, thermal management has become a critical bottleneck for both sustained performance and operating costs. More efficient cooling directly translates into higher sustained compute throughput, lower energy expenses, and denser rack configurations — all central to the economics of large-scale AI deployments. LiquidJet uses a 3D jet-channel design fabricated via advanced semiconductor processes rather than traditional 2D microchannel skiving, allowing it to adapt to non-uniform high power density hotspots. The technology is rated to handle 1400W TDP GPUs like the NVIDIA GB300 and is being positioned for the upcoming Rubin generation, though Frore's claims have not been independently verified.
 
-rss · EE Times · Aug 4, 22:00
+rss · Tom's Hardware · Aug 5, 11:02
 
-**Background**: Software-defined vehicles (SDVs) decouple hardware from software, enabling over-the-air updates and continuous feature improvements via centralized compute platforms rather than dozens of independent electronic control units (ECUs). This shift greatly expands connectivity — through cellular networks, APIs, and cloud services — which in turn creates new cybersecurity challenges. Organizations like OWASP and Upstream Security have documented growing automotive threats, including weak in-vehicle communication protocols such as CAN bus, API vulnerabilities, and the emerging use of AI by both defenders and attackers.
+**Background**: Nvidia Rubin is the company's next-generation GPU architecture following Blackwell, expected to sample in Q4 2026 with broader availability in 2027. Modern AI GPUs consume enormous amounts of power (often 1000W+ per chip), making traditional air cooling inadequate and driving adoption of direct-to-chip liquid cooling. A coldplate is a metal block with internal channels that sits directly on a chip, with coolant flowing through to absorb heat. Token generation speed is a key benchmark for LLM inference performance, making the claimed 15% improvement particularly significant for AI workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Automotive_Security_Cheat_Sheet.html">Automotive Security - OWASP Cheat Sheet Series</a></li>
-<li><a href="https://upstream.auto/reports/global-automotive-cybersecurity-report/">2026 Automotive Cybersecurity Report - Upstream Security</a></li>
+<li><a href="https://www.froresystems.com/blog/frore-systems-introduces-liquidjet-tm-redefining-coldplates-for-ai-data-centers">Frore Systems introduces LiquidJet ™: Redefining Coldplates for AI...</a></li>
+<li><a href="https://www.tweaktown.com/news/108338/frore-systems-intros-liquidjet-coldplates-that-cool-1400w-nvidia-gb300-ai-gpus-ready-for-rubin/index.html">Frore Systems intros LiquidJet coldplates that cool 1400W NVIDIA...</a></li>
+<li><a href="https://www.spheron.ai/gpu-rental/r100/">Rent NVIDIA R100 Rubin GPU : Pre-Order Cloud | Spheron</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#automotive`, `#cybersecurity`, `#AI`, `#software-defined-vehicles`, `#industry-analysis`
+**Tags**: `#AI-infrastructure`, `#data-center-cooling`, `#Nvidia-Rubin`, `#GPU-cooling`, `#hyperscalers`
 
 ---
 
 <a id="item-16"></a>
-## [Arm Co-Founder Jamie Urquhart Passes Away at 69](https://www.eetimes.com/jamie-urquhart-1957-2026-friendly-supportive-right-to-the-end/) ⭐️ 7.0/10
+## [US may ban Chinese optical transceivers in data centers by 2026](https://www.tomshardware.com/tech-industry/data-centers/us-mulling-ban-on-key-chinese-networking-tech-in-data-center-component-crackdown-white-house-wants-to-impose-restrictions-in-2026-china-says-it-will-respond-if-necessary) ⭐️ 6.5/10
 
-EE Times published a tribute to Jamie Urquhart, co-founder of Arm, who passed away in 2026 at the age of 69. The article highlights his quiet but lasting influence on the chip industry and the startup ecosystem, noting his reputation for being friendly and supportive throughout his career. As co-founder of Arm, Urquhart helped shape one of the most ubiquitous processor architectures in history—Arm-based chips power approximately 95% of the world's smartphones and are licensed to over 500 companies. His passing marks the end of an era for the semiconductor industry and reminds the community of the human stories behind the foundational technologies that underpin modern computing. Arm operates on a licensing model rather than manufacturing chips directly, which has been central to its dominance in the semiconductor ecosystem. The Arm architecture originated from Acorn Computers in the 1980s, initially standing for Acorn RISC Machine before being renamed Advanced RISC Machine.
+The FCC is drafting a ban on Chinese-made optical transceivers used in U.S. data centers, with restrictions potentially taking effect in 2026. China has warned it will respond if the ban is implemented. This move could disrupt global data center supply chains, as Chinese manufacturers dominate the optical transceiver market, and it signals a deepening of US-China tech decoupling into critical infrastructure components. Hyperscale data center operators, cloud providers, and telecom carriers may face higher costs or need to qualify alternative suppliers. Optical transceivers are compact devices that convert electrical signals into light for high-speed fiber optic transmission; U.S. officials claim these components could be weaponized for covert data exfiltration, malware installation, or operational disruption. The specific transceiver categories, companies targeted, and enforcement mechanisms under the draft rule have not yet been disclosed.
 
-rss · EE Times · Aug 4, 17:33
+rss · Tom's Hardware · Aug 4, 16:54
 
-**Background**: Arm was originally developed by Acorn Computers in the 1980s as a RISC (Reduced Instruction Set Computing) processor, distinguishing it fundamentally from Intel's CISC (Complex Instruction Set Computing) x86 architecture. Unlike Intel, which both designs and manufactures chips, Arm licenses its processor designs to semiconductor companies such as Apple, Qualcomm, and Samsung, enabling those firms to build custom chips for smartphones, embedded systems, and increasingly data centers and AI workloads. This licensing model has allowed Arm's architecture to become the de facto standard for mobile and energy-efficient computing worldwide.
+**Background**: Optical transceivers serve as the bridge between electrical and optical domains in a network, using laser diodes and photodetectors to enable high-bandwidth, low-latency data transmission across fiber optic cables. They are foundational building blocks of modern data centers, 5G infrastructure, and high-speed enterprise networks. The proposed ban is part of a broader U.S. strategy to restrict Chinese-made hardware in critical communications infrastructure, echoing earlier actions against Huawei networking equipment and Chinese-made semiconductors. Covert channel attacks via optical components—such as data exfiltration through modulated infrared LEDs—have been demonstrated in academic research, lending some technical plausibility to the security concerns cited.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techtarget.com/whatis/definition/ARM-processor">What is an Arm processor?</a></li>
-<li><a href="https://www.fool.com/investing/2025/08/09/is-arm-holdings-stock-a-buy-now/">Is Arm Holdings Stock a Buy Now? | The Motley Fool</a></li>
+<li><a href="https://optics.carritech.com/knowledge/how-do-optical-transceivers-work/">How Do Optical Transceivers Work? | Carritech Optics</a></li>
+<li><a href="https://resources.l-p.com/knowledge-center/how-optical-transceivers-transmit-data">How Do Optical Transceivers Transmit Data?</a></li>
+<li><a href="https://www.photonectcorp.com/post/optical-transceivers-explained-the-backbone-of-modern-data-networks">Optical Transceivers Explained: The Backbone of Modern Data ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Arm`, `#semiconductor-industry`, `#obituary`, `#industry-history`, `#chip-design`
+**Tags**: `#data-centers`, `#US-China-tech-tensions`, `#supply-chain`, `#cybersecurity`, `#regulation`
 
 ---
 
 <a id="item-17"></a>
-## [Protecting Military AI Agents From Cyberthreats](https://www.eetimes.com/protecting-military-ai-agents-from-cyberthreats/) ⭐️ 7.0/10
+## [TIME Is Serving AI Bots a Different Website, with Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) ⭐️ 6.0/10
 
-EE Times published an overview highlighting that military AI systems face threats from hackers, data poisoning, and weak governance rules, and recommends securing them through zero-trust architectures, adversarial red-teaming, and formal governance frameworks. As armed forces increasingly deploy AI for intelligence, targeting, and autonomous decision-making, adversarial manipulation of these systems could lead to misidentification, mission failure, or even escalation of conflict. Securing military AI is therefore a strategic imperative that bridges traditional cybersecurity with the unique risks of AI-specific attacks. The article's visible content is limited to a brief abstract rather than deep technical analysis; its core recommendations — zero-trust (formalized in NIST SP 800-207), AI red-teaming (probing systems with adversarial inputs such as prompt injection and data poisoning), and governance frameworks — mirror best practices already used in enterprise and frontier AI safety contexts but applied to defense-grade deployments.
+TIME magazine is serving AI bots a different version of their website with embedded ads, raising questions about AI traffic monetization, LLM memory poisoning via persistent context, and potential SEO cloaking violations.
 
-rss · EE Times · Aug 4, 07:36
+hackernews · vincent_s · Aug 5, 12:41 · [Discussion](https://news.ycombinator.com/item?id=49182041)
 
-**Background**: Zero-trust architecture (ZTA), as defined in NIST SP 800-207, is a security model that assumes no user or device is trusted by default and requires continuous verification of every access request. Red-teaming for AI systems is an adversarial testing practice in which testers deliberately try to break or manipulate models — for example, via adversarial attacks that add subtle perturbations to inputs to cause misclassification, as first systematically demonstrated in computer vision research around 2014. Data poisoning is a related attack in which malicious samples are injected into training data to corrupt model behavior. Applying these well-established cybersecurity and AI-safety concepts to military systems is challenging because of classified operational environments, strict reliability requirements, and the potential kinetic consequences of failures.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Zero_trust_architecture">Zero trust architecture - Wikipedia</a></li>
-<li><a href="https://www.nist.gov/publications/zero-trust-architecture">Zero Trust Architecture | NIST What Is Zero Trust Architecture? | Microsoft Security Zero Trust Architecture (NIST 800-207) Explained: Principles ... What is Zero Trust Architecture? - SANS Institute Zero trust architecture - Wikipedia Zero Trust | Cybersecurity and Infrastructure Security Agency ...</a></li>
-<li><a href="https://medium.com/health-science/ai-red-teaming-the-8-hacking-techniques-used-to-break-the-safety-guardrails-of-powerful-llms-ai-ee0928d8d915">8 "Hacking" Techniques Used for AI Red Teaming | Health and Science</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI security`, `#military AI`, `#cybersecurity`, `#zero trust`, `#adversarial attacks`
+**Tags**: `#ai`, `#web-scraping`, `#publishing`, `#advertising`, `#seo`
 
 ---
 
 <a id="item-18"></a>
-## [U.S. Bans Import of Advanced Humanoid Robots, Targeting China](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-rise-of-the-humanoids-2026-08/) ⭐️ 7.0/10
+## [Arm Co-Founder Jamie Urquhart Passes Away at 69](https://www.eetimes.com/jamie-urquhart-1957-2026-friendly-supportive-right-to-the-end/) ⭐️ 6.0/10
 
-The U.S. government has banned the import of new advanced robotic devices manufactured abroad, with the policy primarily aimed at Chinese manufacturers. The restrictions specifically target state-of-the-art humanoid robots and are expected to directly impact Chinese robotics companies such as Unitree. This ban represents a significant escalation in U.S.-China tech trade tensions, extending export and import controls from semiconductors and AI chips into the physical robotics domain. It could reshape the global humanoid robot market by restricting Chinese manufacturers' access to U.S. customers while potentially accelerating domestic U.S. robotics development and benefiting American competitors. The ban explicitly applies to state-of-the-art humanoid robots and other advanced robotic devices manufactured abroad, with the article truncated before detailing additional product categories. The restrictions intersect with prior chip controls, as Chinese robotics firms like Unitree have collaborated with U.S. chipmaker Nvidia, raising questions about whether embedded U.S. components or AI software will also fall under the ban.
+EE Times has published a tribute obituary for Jamie Urquhart (1957–2026), the co-founder of Arm, remembering him as a friendly and supportive figure who championed chips, startups, and people throughout his career until the end of his life. Urquhart was a pivotal figure in one of the most consequential semiconductor companies of the modern era; Arm's instruction set now underpins the vast majority of mobile processors and is rapidly expanding into PCs, data centers, and automotive markets, making the passing of any of its founding figures a moment of reflection for the entire chip industry. The available content is only a brief teaser linking to the full EE Times article, so specific anecdotes, quotes, and details about his later career as a mentor and investor are not included in the excerpt provided.
 
-rss · Electronics Weekly · Aug 4, 13:30
+rss · EE Times · Aug 4, 17:33
 
-**Background**: Humanoid robots are sophisticated machines designed to resemble and perform tasks like humans, integrating AI, sensors, actuators, and advanced control systems. The global humanoid robot market has rapidly evolved, with notable models including Tesla's Optimus, Boston Dynamics' Atlas, Agility Robotics' Digit, and Apptronik's Apollo entering industrial and commercial applications. U.S.-China tech competition has increasingly extended beyond semiconductors and AI into emerging technologies, with previous restrictions on advanced chips such as Nvidia's H100 setting a precedent for broader technology decoupling between the two nations.
+**Background**: Arm (originally Acorn RISC Machine, later Advanced RISC Machines) was founded in the early 1990s as a joint venture involving Acorn Computers, Apple, and VLSI Technology, pioneering the now-ubiquitous reduced instruction set computing (RISC) architecture for low-power processors. Urquhart is widely recognized for his central role in building Arm's partner-licensing business model, which allowed dozens of chip designers to license and customize Arm cores, fueling the mobile computing revolution. After his tenure at Arm, he became an active angel investor and mentor in the UK semiconductor startup scene.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.electropages.com/blog/2026/08/us-bans-foreign-humanoid-robots-china">US Bans Chinese Humanoid Robots Over National Security Concerns</a></li>
-<li><a href="https://www.coinlive.com/news/chinese-robots-are-now-banned-from-u-s-markets-and">Chinese Robots Are Now Banned From U . S . Markets — And...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#humanoid-robots`, `#trade-policy`, `#robotics`, `#US-China-tech`, `#import-ban`
+**Tags**: `#Arm`, `#semiconductors`, `#industry-obituary`, `#tech-history`, `#startups`
 
 ---
 
 <a id="item-19"></a>
-## [EU Pressures Apple Into Universal Clipboard for Compatibility With Windows](https://www.techpowerup.com/351358/eu-pressures-apple-into-universal-clipboard-for-compatibility-with-windows) ⭐️ 6.5/10
+## [AMD Reports Record Q2 2026 Revenue of $11.5B as Data Center Doubles](https://www.techpowerup.com/351370/amd-reports-second-quarter-2026-financial-results) ⭐️ 5.5/10
 
-Under EU Digital Markets Act pressure, Apple is developing a universal clipboard feature to enable seamless copy-paste between iPhones and Windows PCs, addressing Microsoft's interoperability request.
+AMD reported record Q2 2026 revenue of $11.5 billion, with Data Center revenue more than doubling year-over-year, driven by accelerating EPYC demand, scaling Instinct GPU deployments, and the ramp of the new Helios rack-scale AI platform. Non-GAAP operating income reached $3.1 billion with 56% gross margin, while gaming revenue declined 31%. This earnings report underscores AMD's strengthening position in the AI accelerator and data center CPU markets, areas where it competes directly with NVIDIA and Intel. The successful ramp of Helios signals AMD's ambition to compete in full-stack rack-scale AI infrastructure rather than just individual chips, which could reshape the competitive landscape for large-scale AI deployments. Helios is AMD's first rack-scale AI platform, combining Instinct MI400-series GPUs, sixth-generation EPYC 'Venice' CPUs, and Pensando 'Vulcano' AI NICs into a liquid-cooled rack unified by the ROCm software stack. HPE and Supermicro are already lined up to offer Helios-based solutions in 2026, validating AMD's open ecosystem approach against NVIDIA's more vertically integrated stack.
 
-rss · TechPowerUp News · Aug 4, 16:30
+rss · TechPowerUp News · Aug 4, 23:51
 
-**Tags**: `#Apple`, `#EU Regulation`, `#Digital Markets Act`, `#Interoperability`, `#Windows`
-
----
-
-<a id="item-20"></a>
-## [Marvell Launches Bravera SC6 PCIe Gen 6 NVMe SSD Controller](https://www.techpowerup.com/351356/marvell-introduces-bravera-sc6-ssd-controller-for-pcie-gen-6-nvme-ssds) ⭐️ 6.5/10
-
-Marvell has introduced the Bravera SC6 SSD Controller (MV-SF1410), one of the first enterprise-grade controllers to support the PCIe Gen 6 interface and the NVMe 2.2 protocol. The controller integrates high-speed NAND flash support, multicore processing, advanced error correction, enterprise-grade security, and intelligent flash management into a single chip. As AI training and inference workloads drive unprecedented demand for storage bandwidth and low latency, PCIe Gen 6 SSD controllers are critical for next-generation data center and hyperscale cloud infrastructure. Marvell's early entry into this space positions it against competitors like Silicon Motion, which is also developing PCIe Gen 6 and Gen 7 designs. The Bravera SC6 is engineered as an enterprise-ready platform rather than a consumer product, emphasizing scalability, security, and reliability features needed for modern data centers. Specific performance numbers, power consumption figures, NAND interface details, and sampling/availability dates were not disclosed in the announcement, which reads primarily as a product teaser.
-
-rss · TechPowerUp News · Aug 4, 15:33
-
-**Background**: PCIe Gen 6 is the latest generation of the Peripheral Component Interconnect Express standard, finalized by the PCI-SIG and offering significantly higher bandwidth than PCIe Gen 5, along with improved power efficiency and signal integrity. NVMe (Non-Volatile Memory Express) is the standard protocol for accessing flash storage over PCIe, and version 2.2 introduces new features for modern enterprise workloads. Enterprise SSD controllers sit between the host system and NAND flash memory, managing data placement, wear leveling, error correction, encryption, and I/O scheduling — functions that become increasingly critical as storage moves from raw bandwidth bottlenecks toward latency-sensitive AI and database applications.
+**Background**: AMD's EPYC line is its server CPU family competing with Intel Xeon and increasingly with custom ARM-based chips in cloud data centers. Instinct is AMD's line of data center GPUs designed for AI training and HPC workloads, competing head-on with NVIDIA's H100/B100 series. Helios represents AMD's strategic move into rack-scale AI systems—integrated hardware-and-software platforms that deliver entire AI compute racks rather than discrete components, a segment pioneered by NVIDIA with its NVL72/NVL576 systems. The 31% gaming revenue decline reflects weakness in AMD's Radeon GPU and semi-custom console chip businesses, highlighting the divergence between its AI-driven growth and traditional PC/gaming segments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://fidus.com/blog/exploring-pcie-gen-6-advancements-benefits/">The Advancements of PCIe Gen 6 .0: A Comprehensive Overview</a></li>
-<li><a href="https://www.patsnap.com/resources/blog/rd-blog/ssd-controller-technology-landscape-2026-patsnap-eureka/">SSD Controller Technology Landscape 2026 — PatSnap Eureka</a></li>
-<li><a href="https://www.techolam.com/news/pcie-gen7-ssd-controllers-a-shift-in-enterprise-storage-architecture">PCIe Gen7 SSD Controllers: A Shift in Enterprise Storage ...</a></li>
+<li><a href="https://aiwiki.ai/wiki/amd_helios_rack">AMD Helios | AI Wiki</a></li>
+<li><a href="https://www.hpe.com/us/en/newsroom/press-release/2025/12/hpe-accelerates-ai-deployments-with-first-amd-helios-ai-rack-scale-architecture-with-open-scale-up-networking-built-with-broadcom.html">HPE accelerates AI deployments with first AMD “ Helios ” AI rack - scale ...</a></li>
+<li><a href="https://www.supermicro.com/datasheet/datasheet_AMD_Helios.pdf">Supermicro AMD Helios Platform</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#PCIe Gen 6`, `#SSD Controller`, `#NVMe`, `#Enterprise Storage`, `#Data Center`
+**Tags**: `#AMD`, `#earnings-report`, `#AI-infrastructure`, `#data-center`, `#semiconductors`
+
+---
+
+<a id="item-20"></a>
+## [Samsung Previews zHBM, zNAND-O, and 400+ Layer V10 BV-NAND at FMS 2026](https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026) ⭐️ 5.5/10
+
+At FMS 2026 in Santa Clara, Samsung unveiled its next-generation AI memory roadmap, including concept models of zHBM and zNAND-O, as well as the industry's first V-NAND technology featuring more than 400 active layers—V10 BV-NAND. The company also showcased HBM4E, an HBM5 mock-up with a new heat path block cooling solution, LPDDR5X-PIM, and approximately 30 memory and storage technologies at its AI cloud server-inspired booth. This announcement signals Samsung's aggressive push to define the memory foundation for AI infrastructure, targeting the rapidly growing demand from AI data centers for higher bandwidth, density, and energy efficiency. With zHBM promising 10x the density of HBM5 and zNAND-O targeting long-term storage, Samsung is positioning itself against competitors like SK Hynix and Micron in the race to supply next-gen AI chips. zHBM leverages next-generation wafer bonding technology to deliver more than 10x memory density versus HBM5, triple the energy efficiency, and over 50% reduction in thermal resistance. V10 BV-NAND uses wafer bonding combined with a 3-stack architecture to surpass 400 layers, boosting density by approximately 58% over V9 chips, though Samsung has not yet announced a commercial timeline.
+
+rss · TechPowerUp News · Aug 4, 20:24
+
+**Background**: FMS (Future of Memory and Storage) is an annual industry conference focused on memory and storage technologies. HBM (High Bandwidth Memory) is a type of stacked DRAM used primarily in AI accelerators and GPUs, where multiple DRAM dies are vertically interconnected to deliver very high data throughput. NAND flash is the non-volatile storage technology used in SSDs and other persistent storage devices; V-NAND (Vertical NAND) refers to Samsung's proprietary approach of stacking memory cells vertically to increase density. The current generation standards discussed include HBM4 (in production) and HBM5 (in development), while V9 and V10 refer to successive generations of Samsung's V-NAND node.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure">Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting...</a></li>
+<li><a href="https://www.trendforce.com/news/2026/08/05/news-samsung-unveils-industry-first-400-layer-v10-bv-nand-memory-density-up-58-vs-v9/">[News] Samsung Unveils Industry-First 400+ Layer V10 BV-NAND ...</a></li>
+<li><a href="https://www.guru3d.com/story/samsung-unveils-400layer-v10-bvnand-and-vertically-stacked-zhbm/">Samsung Unveils 400-Layer V10 BV-NAND and Vertically Stacked ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Samsung`, `#memory`, `#HBM`, `#NAND`, `#FMS2026`
 
 ---
