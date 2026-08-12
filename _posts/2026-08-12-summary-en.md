@@ -5,374 +5,373 @@ date: 2026-08-12
 lang: en
 ---
 
-> From 85 items, 20 important content pieces were selected
+> From 89 items, 20 important content pieces were selected
 
 ---
 
-1. [Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates](#item-1) ⭐️ 9.5/10
-2. [Stealing Reasoning Traces from Proprietary LLM APIs](#item-2) ⭐️ 8.0/10
-3. [AMD Challenges Nvidia with Heterogeneous SoC for Robotics](#item-3) ⭐️ 8.0/10
-4. [NEC’s new department staffed only by AI agents](#item-4) ⭐️ 8.0/10
-5. [(PR) Sony Semiconductor Solutions and TSMC Establish Joint Venture for Next-Gen Image Sensors](#item-5) ⭐️ 7.5/10
-6. [Intel raises $19.7 billion to help fund future projects as 14A production looms — share sale attracted $100 billion in demand, report claims](#item-6) ⭐️ 7.5/10
-7. [FCC proposes import ban on Chinese optical transceivers — blockade targets key AI interconnects as China holds 56% global market share](#item-7) ⭐️ 7.5/10
-8. [Nvidia Releases Nemotron 3.5 Lightning MoE Model and NeMo Switchyard Router](#item-8) ⭐️ 7.0/10
-9. [Compression is prediction](#item-9) ⭐️ 7.0/10
-10. [Mojo 1.0: Modular's Python-Superset AI Language Hits Stable](#item-10) ⭐️ 7.0/10
-11. [xAI Launches Grok Bot: Autonomous Browser Agent](#item-11) ⭐️ 7.0/10
-12. [AI Hardware’s Next Frontier Is Integration](#item-12) ⭐️ 7.0/10
-13. [Waymo Nearly Quadruples Driverless Fleet to ~4,000 Vehicles](#item-13) ⭐️ 7.0/10
-14. [RTX 50 Series Prices Surge Up to 41% Above MSRP in August](#item-14) ⭐️ 6.5/10
-15. [Samsung Delays High-NA EUV Adoption Until 1nm Node in 2030](#item-15) ⭐️ 6.5/10
-16. [SK hynix to expand China NAND production 50% by 2027, mulls Solidigm IPO](#item-16) ⭐️ 6.5/10
-17. [BC-250 APU Unlocked to 40 CUs and 8 Zen 2 Cores, Matches Steam Machine at Half Price](#item-17) ⭐️ 6.5/10
-18. [Japanese authorities use new tool to identify initial torrent uploaders — anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring](#item-18) ⭐️ 6.5/10
-19. [Laser Wireless Charging Achieves 38.49% Efficiency for Drones](#item-19) ⭐️ 6.5/10
-20. [Minisforum N5 Max: Strix Halo AI Mini-PC with 10GbE NAS](#item-20) ⭐️ 6.5/10
+1. [Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say](#item-1) ⭐️ 8.0/10
+2. [AMD Acknowledges TPM Vulnerability, but Everything Is Now Patched](#item-2) ⭐️ 7.5/10
+3. [Intel is Selling $20B of its Own Stock to Build More Fab Capacity](#item-3) ⭐️ 7.5/10
+4. [Optical Interconnects and Silicon Photonics Become AI's Next Hot Commodity](#item-4) ⭐️ 7.5/10
+5. [YMTC enters top three NAND makers for first time, AI servers consume 48% of flash](#item-5) ⭐️ 7.5/10
+6. [Samsung Foundry delays 1.4nm to 2029, bets on High-NA EUV for 1nm era](#item-6) ⭐️ 7.5/10
+7. [What sort of maths are LLMs good at?](#item-7) ⭐️ 7.0/10
+8. [Woxi: Open-Source Wolfram Language Reimplementation in Rust](#item-8) ⭐️ 7.0/10
+9. [Compression Is Prediction: Bridging Information Theory and Intelligence](#item-9) ⭐️ 7.0/10
+10. [Global PCB Shortage Worsens as Chinese Makers Quote 2028 Delivery](#item-10) ⭐️ 7.0/10
+11. [Imec Proposes CMOS, BiCMOS, and III-V Chiplet Mix for 100GHz+ Datacentre Connectivity](#item-11) ⭐️ 7.0/10
+12. [SK hynix to Boost NAND Flash Production in China by 50% in 2027](#item-12) ⭐️ 6.5/10
+13. [DapuStor Unveils 512 TB E2 SSD and Liquid-Cooled EDSFF Drives at FMS2026](#item-13) ⭐️ 6.5/10
+14. [Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act](#item-14) ⭐️ 6.5/10
+15. [Intel CEO hints at return to the memory business — says market is ripe for innovation, hints at stacking memory and CPU](#item-15) ⭐️ 6.5/10
+16. [European Bookstores Hit by Suspicious Bulk Orders Linked to AI Training](#item-16) ⭐️ 6.5/10
+17. [Two undersea cables reportedly damaged off the coast of Perth following suspicious vessel activity — company CEO says faults happened ‘straight after each other and in close proximity'](#item-17) ⭐️ 6.5/10
+18. [Minisforum N5 Max Review: Strix Halo APU Meets 10GbE NAS](#item-18) ⭐️ 6.5/10
+19. [农民因听从 AI 建议而导致 150 亩芝麻几乎全毁](#item-19) ⭐️ 6.3/10
+20. [Temperature Does Not Only Age Hardware — It Moves the System](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates) ⭐️ 9.5/10
+## [Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say](https://www.eetimes.com/sony-tsmc-4-7b-deal-helps-thwart-samsung-analysts-say/) ⭐️ 8.0/10
 
-Nvidia partners with six major financial institutions to arrange up to $500 billion in long-term financing for customers building AI data centers.
+Sony and TSMC form a $4.7B strategic partnership to counter Samsung's growing presence in smartphone image sensors, particularly for Apple's supply chain.
 
-rss · Tom's Hardware · Aug 11, 11:04
+rss · EE Times · Aug 12, 10:06
 
-**Tags**: `#nvidia`, `#ai-infrastructure`, `#data-centers`, `#financing`, `#gpu`
+**Tags**: `#semiconductors`, `#TSMC`, `#Sony`, `#image-sensors`, `#supply-chain`
 
 ---
 
 <a id="item-2"></a>
-## [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) ⭐️ 8.0/10
+## [AMD Acknowledges TPM Vulnerability, but Everything Is Now Patched](https://www.techpowerup.com/351550/amd-acknowledges-tpm-vulnerability-but-everything-is-now-patched) ⭐️ 7.5/10
 
-Research showing that reasoning traces from proprietary LLM APIs can be extracted by replaying frontier model outputs into weaker sibling models and jailbreaking them, undermining the IP protection of hidden chain-of-thought.
+AMD acknowledges a high-severity TPM 2.0 out-of-bounds read vulnerability affecting all Ryzen 3000-9000 series CPUs, already patched via motherboard firmware updates.
 
-hackernews · quantumgarbage · Aug 11, 13:22 · [Discussion](https://news.ycombinator.com/item?id=49257876)
+rss · TechPowerUp News · Aug 12, 13:56
 
-**Tags**: `#llm-security`, `#reasoning-models`, `#model-extraction`, `#jailbreak`, `#ai-ip-protection`
+**Tags**: `#security`, `#AMD`, `#TPM`, `#vulnerability`, `#CVE`
 
 ---
 
 <a id="item-3"></a>
-## [AMD Challenges Nvidia with Heterogeneous SoC for Robotics](https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/) ⭐️ 8.0/10
+## [Intel is Selling $20B of its Own Stock to Build More Fab Capacity](https://www.techpowerup.com/351484/intel-is-selling-usd-20b-of-its-own-stock-to-build-more-fab-capacity) ⭐️ 7.5/10
 
-AMD has unveiled a new system-on-chip (SoC) designed specifically for robots that integrates CPU, GPU, and NPU on a single die with unified memory architecture. This product directly targets Nvidia's dominance in the robotics compute market. This move signals AMD's intent to disrupt Nvidia's near-monopoly in robotics AI compute by offering an alternative architectural philosophy that moves away from GPU-centric designs. Robotics developers, system integrators, and edge AI application builders may benefit from more competitive pricing, greater architectural flexibility, and improved power efficiency for autonomous systems. The chip uses a heterogeneous compute approach where CPU, GPU, and NPU share a unified memory pool, eliminating data-copy bottlenecks between separate processing units. While the provided article is truncated and lacks specific benchmarks, SKU details, or release dates, the architectural concept mirrors AMD's earlier Strix Halo designs (e.g., Ryzen AI Max+ 395) that demonstrated the viability of unified memory across heterogeneous engines.
+Intel announces a $20 billion underwritten public stock offering to fund its capital-intensive foundry expansion, with potential to reach $23 billion including underwriter options.
 
-rss · EE Times · Aug 11, 14:09
+rss · TechPowerUp News · Aug 12, 08:03
 
-**Background**: A neural processing unit (NPU) is a specialized hardware accelerator designed to efficiently run AI and machine learning inference workloads, particularly neural networks. A heterogeneous System-on-Chip (SoC) integrates multiple types of processors—such as CPUs for general-purpose logic, GPUs for parallel computation, and NPUs for AI inference—on a single chip. Unified memory architecture allows all these processing units to access the same memory pool, reducing latency and energy use compared to designs where each unit has its own dedicated memory. Nvidia's robotics platforms (such as Jetson) have traditionally relied on a GPU-centric architecture, where the GPU is the primary AI compute engine.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Neural_processing_unit">Neural processing unit - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Heterogeneous_computing">Heterogeneous computing - Wikipedia</a></li>
-<li><a href="https://ca.minisforum.com/blogs/news/amd-ryzen-ai-max-395-explained-strix-halo-unified-memory-and-local-ai">AMD Ryzen AI Max+ 395 Explained: Strix Halo, Unified Memory , and...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD`, `#Nvidia`, `#robotics`, `#SoC`, `#AI hardware`
+**Tags**: `#Intel`, `#semiconductor`, `#stock-offering`, `#fab-expansion`, `#foundry`
 
 ---
 
 <a id="item-4"></a>
-## [NEC’s new department staffed only by AI agents](https://www.electronicsweekly.com/news/business/nec-has-new-department-staffed-only-by-ai-agents-2026-08/) ⭐️ 8.0/10
+## [Optical Interconnects and Silicon Photonics Become AI's Next Hot Commodity](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs) ⭐️ 7.5/10
 
-NEC has launched a new 'Corporate AI & Workforce Division' staffed entirely by 17 AI agents, marking a notable step toward AI-only organizational units in major corporations.
+Optical interconnects and silicon photonics have emerged as critical commodities for AI data centers, with the US seeking to exclude Chinese optical transceivers from future AI infrastructure. However, China's current dominance of the photonics supply chain could make any export ban complicated ahead of a key US-China summit. As AI workloads demand ever-higher bandwidth and lower power consumption, optical interconnects are becoming essential infrastructure for scaling data centers. China's dominant position in this supply chain creates a strategic vulnerability for US AI ambitions, potentially shaping trade negotiations and export control policies. Modern data centers are transitioning to high-capacity optical technologies such as 400G and 800G transmission to handle AI-driven traffic growth. Silicon photonics combines optical components with electrical circuits on a single chip, enabling smaller form factors, lower energy consumption, and integration with conventional semiconductor manufacturing processes.
 
-rss · Electronics Weekly · Aug 11, 05:13
+rss · Tom's Hardware · Aug 12, 12:42
 
-**Tags**: `#AI agents`, `#corporate automation`, `#NEC`, `#workforce transformation`, `#enterprise AI`
+**Background**: Optical transceivers are devices that convert electrical signals into optical (light) signals and vice versa, enabling data transmission over fiber optic cables with minimal signal loss. Silicon photonics is a technology that integrates these optical components onto silicon chips, allowing manufacturers to leverage existing semiconductor fabrication processes for scalable, cost-effective photonic circuits. This approach is critical for AI data centers because traditional copper-based interconnects struggle to keep pace with the massive bandwidth and energy efficiency requirements of AI training and inference workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Data_center_interconnect">Data center interconnect - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics - Wikipedia</a></li>
+<li><a href="https://smartoptics.com/knowledgebank-post/optical-transceivers-turning-data-into-light/">Optical transceivers - turning data into light</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#photonics`, `#AI infrastructure`, `#semiconductors`, `#US-China trade`, `#optical interconnects`
 
 ---
 
 <a id="item-5"></a>
-## [(PR) Sony Semiconductor Solutions and TSMC Establish Joint Venture for Next-Gen Image Sensors](https://www.techpowerup.com/351522/sony-semiconductor-solutions-and-tsmc-establish-joint-venture-for-next-gen-image-sensors) ⭐️ 7.5/10
+## [YMTC enters top three NAND makers for first time, AI servers consume 48% of flash](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time) ⭐️ 7.5/10
 
-Sony Semiconductor Solutions and TSMC have signed a definitive agreement to establish a joint venture in Japan for the volume production of advanced image sensors for smartphones, with production expected to commence in 2029.
+According to Counterpoint Research data for Q2, China's YMTC became the third-largest NAND flash maker with a 14% market share, surpassing Micron, Kioxia, and Sandisk, with bit shipments growing 22% year-over-year. Samsung led with 25%, SK hynix (including Solidigm) followed at 22%, while AI servers now consume 48% of all flash memory. YMTC's rise despite U.S. sanctions demonstrates the resilience of China's domestic semiconductor industry and signals a significant shift in the global NAND flash competitive landscape. The fact that AI servers now consume nearly half of all flash memory underscores how the AI boom is reshaping memory demand patterns and pricing. YMTC's Xtacking 4.0 architecture is now in mass production with 267-layer 3D NAND, with a roadmap to 300+ layer technology anticipated for next year, despite U.S. sanctions limiting access to advanced equipment. However, YMTC ranks only fifth in revenue share because it focuses on consumer electronics rather than the more profitable enterprise server and AI sectors.
 
-rss · TechPowerUp News · Aug 11, 16:27
+rss · Tom's Hardware · Aug 12, 12:35
 
-**Tags**: `#semiconductors`, `#image-sensors`, `#sony`, `#tsmc`, `#joint-venture`
+**Background**: YMTC (Yangtze Memory Technologies Corp.) is a Chinese semiconductor company founded in Wuhan in 2016 with government investment, aiming to reduce China's dependence on foreign memory chips. It was added to the U.S. Entity List in 2022, restricting access to advanced chipmaking equipment. Its proprietary Xtacking architecture bonds two wafers together to achieve higher bit density and faster I/O speeds. NAND flash is a type of non-volatile storage used in SSDs, smartphones, and data centers, with 3D NAND stacking memory cells vertically to increase capacity.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ymtc.com/en/technicalintroduction.html">About Xtacking ®- YMTC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.scmp.com/tech/tech-trends/article/3296452/top-chinese-memory-chip-maker-ymtc-makes-another-design-breakthrough-defying-us-sanctions">Top Chinese memory chip maker YMTC makes another design...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NAND flash`, `#semiconductors`, `#AI infrastructure`, `#YMTC`, `#market analysis`
 
 ---
 
 <a id="item-6"></a>
-## [Intel raises $19.7 billion to help fund future projects as 14A production looms — share sale attracted $100 billion in demand, report claims](https://www.tomshardware.com/tech-industry/semiconductors/intel-raises-usd19-7-billion-to-help-fund-future-projects-as-14a-production-looms-share-sale-attracted-usd100-billion-in-demand-report-claims) ⭐️ 7.5/10
+## [Samsung Foundry delays 1.4nm to 2029, bets on High-NA EUV for 1nm era](https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond) ⭐️ 7.5/10
 
-Intel is raising $19.7B through an oversubscribed stock offering (with $100B in demand) to fund manufacturing expansion, 14A process node development, and foundry customer acquisition efforts.
+Samsung Foundry has delayed its 1.4nm-class node to 2029, making its SF2 process one of its longest-lasting process technologies. The company also announced plans to begin using High-NA EUV lithography for its 1nm-class process technology starting in 2030. This roadmap revision highlights the escalating difficulty of advancing semiconductor process nodes and has direct competitive implications against TSMC and Intel, both of which are also racing toward sub-2nm production. The delay could affect Samsung's ability to attract leading-edge fabless customers seeking the most advanced manufacturing capacity. SF2 becoming one of Samsung's longest-running nodes suggests customers will depend on it across multiple product generations, extending the revenue tail of that process. The shift to High-NA EUV — which increases the numerical aperture of the optical system to print finer features — is positioned as the enabler for sub-1nm scaling beyond 2030.
 
-rss · Tom's Hardware · Aug 11, 13:35
+rss · Tom's Hardware · Aug 12, 11:00
 
-**Tags**: `#semiconductors`, `#intel`, `#manufacturing`, `#foundry`, `#funding`
+**Background**: A semiconductor process node refers to a generation of chip manufacturing technology, historically named after the smallest physical transistor feature but now largely a marketing designation. EUV (extreme ultraviolet) lithography uses 13.5nm wavelength light to pattern the finest features on advanced chips and has been essential for nodes at 7nm and below. High-NA EUV is the next leap, raising the numerical aperture of the projection optics to enable even finer patterning required for sub-2nm logic and leading-edge DRAM. Samsung, TSMC, and Intel are the three foundries competing at the leading edge, with TSMC manufacturing roughly 90% of sub-5nm chips globally.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/EUV_lithography">EUV lithography - Wikipedia</a></li>
+<li><a href="https://chipdocket.com/articles/what-is-high-na-euv-lithography-explainer-2026-06-22">High-NA EUV Lithography Explained | ChipDocket</a></li>
+<li><a href="https://semiconductorx.com/mfg-process-nodes.html">Process Nodes: N3, N2, 18A, SF3; Foundry Concentration ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#Samsung`, `#process-technology`, `#EUV-lithography`, `#foundry`
 
 ---
 
 <a id="item-7"></a>
-## [FCC proposes import ban on Chinese optical transceivers — blockade targets key AI interconnects as China holds 56% global market share](https://www.tomshardware.com/tech-industry/fcc-proposes-import-ban-on-chinese-optical-transceivers-blockade-targets-key-ai-interconnects-as-china-holds-56-percent-global-market-share) ⭐️ 7.5/10
+## [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) ⭐️ 7.0/10
 
-The FCC is drafting a proposal to ban imports of Chinese-made optical transceivers under the Secure Networks Act, targeting a critical AI interconnect component where China holds 56% of the global market.
+Timothy Gowers examines which types of mathematics LLMs excel at, sparking discussion about AI's strengths in sampling/search versus formal reasoning.
 
-rss · Tom's Hardware · Aug 11, 12:03
+hackernews · ColinWright · Aug 12, 10:04 · [Discussion](https://news.ycombinator.com/item?id=49270022)
 
-**Tags**: `#AI infrastructure`, `#supply chain`, `#US-China tech war`, `#optical networking`, `#policy/regulation`
+**Tags**: `#AI`, `#LLM`, `#mathematics`, `#reasoning`, `#AI-evaluation`
 
 ---
 
 <a id="item-8"></a>
-## [Nvidia Releases Nemotron 3.5 Lightning MoE Model and NeMo Switchyard Router](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) ⭐️ 7.0/10
+## [Woxi: Open-Source Wolfram Language Reimplementation in Rust](https://woxi.ad-si.com/) ⭐️ 7.0/10
 
-Nvidia announced Nemotron 3.5 Lightning, a new open Mixture-of-Experts (MoE) model optimized for speed, alongside NeMo Switchyard, an open-source library that intelligently routes LLM requests to the most suitable model for each task. These releases signal Nvidia's push into both efficient small-to-mid-size open models and the emerging 'LLM router' infrastructure layer, enabling enterprises to mix-and-match models to balance cost, latency, and quality — a pattern increasingly common in production AI stacks. Nemotron 3.5 Lightning uses the MoE architecture, activating only a subset of parameters per token for faster inference. NeMo Switchyard supports OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages APIs, and ships with one-command launchers (e.g., 'switchyard launch claude') that spin up a local proxy for tools like Claude Code and Codex.
+Woxi is an open-source interpreter for the Wolfram Language written in Rust, offering a free alternative to Mathematica with integration options including a CLI, Jupyter kernel, Python package, npm package, WASM module, and a Mathematica-like GUI called Woxi Studio built with the iced framework. Conformance is validated through approximately 26,000 unit tests and around 900 .wls script snapshot tests. Mathematica and the Wolfram Language are proprietary, expensive tools that have dominated symbolic computation for decades; an open-source reimplementation lowers the barrier to entry for students, researchers, and developers who need CAS capabilities without licensing costs. Woxi's millisecond-level startup time and WASM embeddability make it practical for shell scripting, web applications, and embedding into other software, use cases where the original Wolfram kernel is too slow or heavy to be viable. Woxi is not a full Mathematica replacement and is still in early development, with the current focus on fixing edge cases, improving performance, and growing the community. Community testing indicates that Woxi, along with Sage and Maxima, handled certain algebra problems where SymPy and Xcas failed, though it remains to be seen how it compares to Mathematica on deeper symbolic computation tasks.
 
-hackernews · droidjj · Aug 11, 19:35 · [Discussion](https://news.ycombinator.com/item?id=49263340)
+hackernews · adius · Aug 12, 10:06 · [Discussion](https://news.ycombinator.com/item?id=49270040)
 
-**Background**: Mixture-of-Experts (MoE) architectures allow a model to contain hundreds of billions of total parameters while only activating a fraction per token, trading memory usage for faster inference. 'LLM routing' is an emerging pattern where an intermediary layer inspects incoming requests and dispatches them to different models (e.g., a cheap model for simple queries, a frontier model for complex ones) to optimize cost and latency. Cloudflare's kentonv mentioned plugging models into 'Cloudflare OS,' a Workers-based development platform for building AI agents.
+**Background**: The Wolfram Language is a proprietary, high-level multi-paradigm programming language developed by Wolfram Research, emphasizing symbolic computation, functional programming, and rule-based programming; it serves as the programming language of Mathematica. A computer algebra system (CAS) is mathematical software that can manipulate mathematical expressions in a way similar to traditional manual computations, supporting areas like linear algebra, calculus, and differential equations. WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine designed as a portable compilation target, enabling near-native code execution speed in web browsers and embedding into host applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/">NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard ... | NVIDIA Blog</a></li>
-<li><a href="https://github.com/NVIDIA-NeMo/Switchyard">GitHub - NVIDIA - NeMo / Switchyard · GitHub</a></li>
-<li><a href="https://www.redhat.com/en/topics/ai/mixture-of-experts">What is Mixture of Experts ( MoE )?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wolfram_Language">Wolfram Language - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Computer_algebra_system">Computer algebra system - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAssembly">WebAssembly - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Hands-on testing from Cloudflare OS developer kentonv found that MoE models including Nemotron 3.5 Lightning were 'terrible' at coding tasks despite being fast, with dense ~30B models performing much better. jmward01 argued the 'ramapocalypse' is accelerating the shift toward small efficient models over multi-trillion-parameter ones. thehamkercat raised a technical concern about how routers like Switchyard handle prompt caching across multi-turn sessions — sticky routing per session may send later messages to suboptimal models. docheinestages criticized Nvidia's benchmark chart for excluding the Qwen model range (except its largest variant).
+**Discussion**: Community sentiment is largely positive and curious, with one user reporting that Woxi was able to solve certain algebra problems where SymPy and Xcas failed, expressing newfound fascination with term-rewriting languages. A commenter asked about symbolic mathematics performance compared to Mathematica and SymPy, while another noted this is a repost from six months ago, indicating sustained interest. A recurring theme is that open-source reimplementations of mature proprietary tools are underrated, particularly for enabling new embedding workflows.
 
-**Tags**: `#nvidia`, `#llm`, `#moe-models`, `#model-routing`, `#nemotron`
+**Tags**: `#wolfram-language`, `#rust`, `#computer-algebra-system`, `#open-source`, `#wasm`
 
 ---
 
 <a id="item-9"></a>
-## [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) ⭐️ 7.0/10
+## [Compression Is Prediction: Bridging Information Theory and Intelligence](https://ngrok.com/blog/compression-is-prediction) ⭐️ 7.0/10
 
-An exploration of the thesis that compression, prediction, and intelligence are fundamentally equivalent, accompanied by high-quality community discussion that adds nuance about generalization, abstraction, and connections to classic information theory.
+Ngrok published a conceptual blog post titled 'Compression is prediction,' arguing that compression is fundamentally about prediction and understanding. The post draws deep connections between information theory, machine learning, and the nature of intelligence itself. This perspective offers a unifying theoretical framework linking compression algorithms, predictive modeling, and the philosophical notion of understanding — suggesting that intelligence itself may be understood as the ability to discover patterns and compress information efficiently. It has practical implications for how we think about optimization in both technical systems and everyday decision-making. The core idea is rooted in Kolmogorov complexity — the length of the shortest program that can produce a given data sequence — and the Minimum Description Length (MDL) principle, which treats the most compact model of data as the best one. The blog post attracted significant engagement with 609 upvotes and 252 comments, with community references to David MacKay's Cambridge course and Grant Sanderson's 3Blue1Brown video series.
 
 hackernews · nikolay · Aug 11, 19:49 · [Discussion](https://news.ycombinator.com/item?id=49263497)
 
-**Tags**: `#information-theory`, `#machine-learning`, `#compression`, `#data-compression`, `#philosophy-of-mind`
+**Background**: Kolmogorov complexity measures the information content of a string by the length of the shortest computer program that produces it, and is central to algorithmic information theory. The Minimum Description Length (MDL) principle extends this idea to statistical model selection, choosing the model that yields the shortest total description of the data including the model itself. In machine learning, the link between compression and prediction is well established: models that compress data well by exploiting its underlying patterns also tend to generalize and predict well on unseen data, connecting to theoretical frameworks like Solomonoff induction.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kolmogorov_complexity">Kolmogorov complexity - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Minimum_description_length">Minimum description length - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community response was overwhelmingly positive and intellectually engaged. Commenters cited David MacKay's Cambridge course 'Information Theory, Inference, and Learning Algorithms' as a canonical treatment of the topic, and pointed to Grant Sanderson's 3Blue1Brown video series as an excellent visual explanation. One commenter illustrated the concept with a vivid planetary motion example: naive position tables compress into smooth interpolation, which further compresses into the laws of gravity — 'compression is literally understanding.' Another drew practical life lessons, arguing that optimizing workflows is valuable even without immediate economic returns because optimization is itself a form of understanding. One commenter also noted technical issues with the blog page's rendering when JavaScript was disabled.
+
+**Tags**: `#information-theory`, `#machine-learning`, `#compression`, `#intelligence`, `#philosophy`
 
 ---
 
 <a id="item-10"></a>
-## [Mojo 1.0: Modular's Python-Superset AI Language Hits Stable](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) ⭐️ 7.0/10
+## [Global PCB Shortage Worsens as Chinese Makers Quote 2028 Delivery](https://www.electronicsweekly.com/news/business/pcb-shortage-getting-worse-2026-08/) ⭐️ 7.0/10
 
-Mojo 1.0 has been released as the first stable version of Modular's AI/ML-focused programming language, which blends Python-like syntax with systems-level features inspired by Rust. The release marks a maturity milestone, though the compiler remains proprietary with a commitment to open-source by 2026. This release signals Modular's ambition to carve out a niche in the AI infrastructure stack by offering a unified language that bridges Python's ease of use and the performance of lower-level systems languages. It could influence how developers approach heterogeneous AI/ML workloads spanning CPUs and GPUs, though it faces stiff competition from established tools like JAX, PyTorch, and even Rust-based Python extensions. Mojo incorporates Rust-inspired semantics including static typing and a borrow checker while maintaining Python-like syntax. The official roadmap indicates that full Python superset compatibility is no longer guaranteed, with Phase 3 stating Mojo 'may or may not' evolve into a full superset. The closed-source compiler remains a key concern, despite promises to open-source the toolchain in 2026.
+The global shortage of printed circuit boards (PCBs) has intensified to the point that some Chinese manufacturers are quoting delivery dates as far out as 2028 for orders placed as recently as last month. The shortage is being driven primarily by massive consumption of advanced PCBs by AI data centers. This shortage signals a critical bottleneck in the AI infrastructure supply chain, as advanced PCBs are essential components in AI servers and accelerators. Extended lead times of two to three years could delay AI data center deployments, increase hardware costs, and constrain the pace of AI expansion globally. AI server PCBs typically require high-layer-count multilayer designs (16 to 32 layers) with controlled impedance, HDI microvia structures, low-loss laminates such as Rogers and Teflon, and heavy copper on power planes for thermal management. These specifications are far more complex than standard PCBs, making them harder to scale production for.
 
-hackernews · dayanruben · Aug 11, 16:56 · [Discussion](https://news.ycombinator.com/item?id=49261128)
+rss · Electronics Weekly · Aug 12, 05:17
 
-**Background**: Mojo was developed by Modular, a company founded by Chris Lattner (creator of LLVM and Swift) that also builds the MAX AI inference platform. The language was designed to address Python's performance limitations for AI workloads while maintaining developer familiarity. A 'Python superset' means the language accepts all valid Python syntax and adds new features on top, similar to how TypeScript extends JavaScript. The borrow checker is a compile-time feature that enforces memory safety without garbage collection, originally popularized by Rust.
+**Background**: Printed Circuit Boards (PCBs) are the foundational building blocks of virtually all electronic devices, providing the physical platform and electrical connections for components like chips, memory, and connectors. AI servers and accelerators demand particularly advanced PCBs, including High-Density Interconnect (HDI) boards with blind, buried, and micro vias, as well as hybrid boards combining metal cores with advanced laminates for superior thermal performance and signal integrity. The surge in AI data center construction has created unprecedented demand for these specialized boards, outstripping the manufacturing capacity of global suppliers, with China being a dominant production hub.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo ( programming language ) - Wikipedia</a></li>
-<li><a href="https://www.modular.com/">Modular : Inference from Kernel to Cloud</a></li>
-<li><a href="https://github.com/modular/modular">modular / modular : The Modular Platform (includes MAX & Mojo )...</a></li>
+<li><a href="https://www.pcbrunner.com/pcb-capacity-emerges-as-ai-data-center-bottleneck-in-2026/">PCB Capacity Emerges as AI Data Center Bottleneck in 2026</a></li>
+<li><a href="https://www.richpcba.com/blogs/pcb-manufacturers-support-ai-data-centers/">How PCB Manufacturers Can Support the Growth of AI and Data Centers - Rich Full Joy</a></li>
+<li><a href="https://www.pcbonline.com/blog/high-density-interconnect-pcb-for-ai-high-speed.html">High - Density Interconnect PCB for AI , High-Speed Network, etc.</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is mixed, with skepticism dominating the top comments. Users question the value proposition of a language with a closed-source compiler when alternatives like Rust-backed Python libraries (e.g., Pydantic) already exist. Others express concern that the original Python superset goal appears to have been walked back, and critique the decision to delay open-sourcing the compiler to 2026 rather than releasing it sooner. Some remain hopeful despite these reservations.
-
-**Tags**: `#programming-languages`, `#mojo`, `#python`, `#ai-ml`, `#compiler`
+**Tags**: `#supply-chain`, `#pcb`, `#electronics-manufacturing`, `#ai-infrastructure`, `#hardware`
 
 ---
 
 <a id="item-11"></a>
-## [xAI Launches Grok Bot: Autonomous Browser Agent](https://x.ai/bot) ⭐️ 7.0/10
+## [Imec Proposes CMOS, BiCMOS, and III-V Chiplet Mix for 100GHz+ Datacentre Connectivity](https://www.electronicsweekly.com/news/business/imec-proposes-a-mix-of-cmos-bicmos-and-iii-v-for-datacentre-connectivity-2026-08/) ⭐️ 7.0/10
 
-xAI has launched Grok Bot, an autonomous agentic AI system capable of taking over browser sessions and extracting credentials directly from a user's logged-in sessions. The product, showcased at x.ai/bot, demonstrates the agent navigating, clicking, and performing actions on behalf of users. This launch marks a significant step in the evolution of agentic AI, moving from prompt-based assistants to persistent autonomous agents with deep access to user accounts and data. It raises urgent security and privacy questions about credential exposure, prompt injection attacks, and data leakage, and sets the stage for other major AI labs to follow suit. Grok Bot can autonomously navigate full browser sessions—opening windows, loading pages, clicking, and filling forms—and can read cookies and credentials from the user's active sessions. The system relies on browser-level access, which means giving xAI visibility into everything a user is already logged into, including bank, email, and social accounts.
+Imec has proposed a heterogeneous chiplet integration approach that combines CMOS, BiCMOS, and III-V semiconductor technologies on separate chiplets to enable cost-effective datacentre interconnects operating at frequencies above 100 GHz. As AI workloads drive exponential growth in datacentre bandwidth demands, traditional silicon-only interconnects struggle to keep pace with the need for ultra-high-frequency, energy-efficient links. Imec's heterogeneous chiplet approach could offer a more economical path to next-generation optical and electrical connectivity compared to monolithic integration on a single process node. The strategy leverages Si-CMOS for digital logic and control, BiCMOS for analog/RF signal conditioning, and III-V compound semiconductors (such as GaAs or InP) for their superior high-frequency and optoelectronic performance. By splitting these functions across chiplets rather than co-integrating them on one wafer, Imec aims to use cost-effective, mature manufacturing processes for each function while still achieving 100 GHz+ operation.
 
-hackernews · rvz · Aug 11, 17:23 · [Discussion](https://news.ycombinator.com/item?id=49261514)
+rss · Electronics Weekly · Aug 12, 05:16
 
-**Background**: Agentic AI refers to AI systems that can take initiative and autonomously execute multi-step tasks on behalf of users, typically following an observe-plan-act loop. Unlike traditional chatbots that only respond to prompts, AI agents can use tools, control browsers, and persist across sessions. Browser automation agents in particular have gained traction as a way to let AI interact with the web the way humans do—logging into services, filling forms, and extracting information—which inherently requires access to sensitive session data like cookies and credentials.
+**Background**: CMOS (Complementary Metal-Oxide-Semiconductor) is the dominant digital logic technology, prized for its low power consumption and high integration density, but its performance degrades at very high frequencies. BiCMOS integrates bipolar junction transistors (which excel at high-speed analog and RF circuits) and CMOS logic onto a single chip, combining the strengths of both. III-V compound semiconductors, made from elements in Groups III and V of the periodic table (such as gallium arsenide or indium phosphide), offer superior electron mobility and direct bandgap properties, making them ideal for high-frequency RF and photonic applications. Chiplets are small, specialised dies that are packaged together to form a larger system, allowing manufacturers to mix and match process technologies that would be impractical to combine on a single wafer—a strategy known as heterogeneous integration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ai.plainenglish.io/agentic-ai-separating-capability-from-agent-washing-2a685daa8c3a">Agentic AI : Separating Capability from Agent Washing | by Nathalie...</a></li>
-<li><a href="https://dev.to/anakin_writers/reliable-web-connected-ai-agents-start-at-the-fetch-layer-4neg">Reliable Web-Connected AI Agents Start at the... - DEV Community</a></li>
-<li><a href="https://anchorbrowser.io/guides/how-ai-agents-interact-with-the-web-a-mental-model">Anchor Browser - Build reliable browser agents</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BiCMOS">BiCMOS - Wikipedia</a></li>
+<li><a href="https://engineerfix.com/what-are-iii-v-semiconductors-and-why-are-they-important/">What Are III-V Semiconductors and Why Are They Important?</a></li>
+<li><a href="https://semiengineering.com/what-exactly-are-chiplets-and-heterogeneous-integration/">What Exactly Are Chiplets And Heterogeneous Integration?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is mixed: some users see Grok Bot as the natural next step in AI evolution (from tab-complete to prompts to agents) and praise the natural feel of interacting with autonomous routines, while many others express strong concerns about giving xAI continuous access to all their accounts and credentials. Key worries include prompt injection attacks, data deletion, and the unsettling demonstration of the bot simply harvesting saved credentials from the browser. There is also broader debate about the legal grey area of bots vs. anti-bot systems, especially when major companies simultaneously promote bots while defending against scraping.
-
-**Tags**: `#agentic-ai`, `#xai`, `#grok`, `#ai-security`, `#browser-automation`
+**Tags**: `#semiconductors`, `#chiplets`, `#datacentre`, `#heterogeneous-integration`, `#III-V`
 
 ---
 
 <a id="item-12"></a>
-## [AI Hardware’s Next Frontier Is Integration](https://www.eetimes.com/ai-hardwares-next-frontier-is-integration/) ⭐️ 7.0/10
+## [SK hynix to Boost NAND Flash Production in China by 50% in 2027](https://www.techpowerup.com/351524/sk-hynix-to-boost-nand-flash-production-in-china-by-50-in-2027) ⭐️ 6.5/10
 
-Coverage of LID World Summit 2026 highlighting that AI progress increasingly depends on system-level advances in memory, packaging, photonics, and power rather than just chip-level improvements.
+SK hynix plans to increase NAND Flash production at its Solidigm-operated fab in Dalian, China by 50% in 2027, raising output from approximately 100,000 wafers per month to roughly 150,000 wafers per month, ending a four-year expansion freeze triggered by export controls and market downturn. This expansion signals renewed confidence in NAND Flash demand from data center and enterprise SSD markets, and represents a notable thaw in capacity investment in China by a major Korean chipmaker after years of US export control headwinds. It also coincides with plans to spin off Solidigm via a NASDAQ listing, reshaping the competitive landscape of the NAND industry. Solidigm will introduce its floating gate 3D QLC NAND Flash with over 200 active storage layers per chip, enabling multi-terabyte enterprise SSDs. The 50% capacity increase represents only a small fraction of global NAND Flash demand, and global supply is expected to balance with demand in 2027.
 
-rss · EE Times · Aug 11, 09:25
+rss · TechPowerUp News · Aug 11, 17:43
 
-**Tags**: `#AI hardware`, `#photonics`, `#semiconductors`, `#chip packaging`, `#HPC`
+**Background**: SK hynix acquired Intel's 3D NAND and SSD business in two phases starting in 2021, with the Dalian NAND Flash manufacturing facility rebranded as Solidigm. NAND Flash is a non-volatile memory technology that stores data in floating-gate transistors, with QLC (Quad-Level Cell) storing four bits per cell for higher density but lower endurance. Floating gate and charge trap are the two main cell architectures used in 3D NAND, with Solidigm choosing floating gate technology for this new generation. The 2021 acquisition included Intel's SSD business, NAND IP, employees, and the Dalian fab in China for a total value of $9 billion.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.solidigm.com/en-WW/212943-sk-hynix-completes-the-first-phase-of-intel-nand-and-ssd-business-acquisition/">SK hynix completes the First Phase of Intel NAND and SSD ...</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/ssds/intel-and-sk-hynix-close-nand-business-deal-intel-gets-usd1-9-billion-sk-hynix-gets-ip-and-employees">Intel and SK hynix close NAND business deal: Intel gets $1.9 ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flash_memory">Flash memory - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#NAND-Flash`, `#SK-hynix`, `#Solidigm`, `#supply-chain`
 
 ---
 
 <a id="item-13"></a>
-## [Waymo Nearly Quadruples Driverless Fleet to ~4,000 Vehicles](https://www.electronicsweekly.com/news/business/waymo-extends-driverless-lead-2026-08/) ⭐️ 7.0/10
+## [DapuStor Unveils 512 TB E2 SSD and Liquid-Cooled EDSFF Drives at FMS2026](https://www.techpowerup.com/351517/dapustor-showcases-512-tb-and-liquid-cooled-ssds-at-fms2026) ⭐️ 6.5/10
 
-Waymo, Alphabet's autonomous vehicle unit, has expanded its driverless car fleet to nearly 4,000 vehicles, up from approximately 700, significantly extending its lead in commercial autonomous vehicle deployment. This near-fivefold fleet expansion signals that Waymo is moving beyond pilot programs into true commercial scale, reinforcing its competitive moat against rivals such as Tesla, Cruise, and Chinese robotaxi operators. The milestone also suggests improving unit economics and operational maturity for Level 4 autonomy in real-world ride-hailing. Waymo's fleet growth from ~700 to ~4,000 vehicles represents one of the most aggressive scaling efforts in the robotaxi industry to date. The company operates using its sixth-generation 'Waymo Driver' autonomous driving stack, designed to be compatible with multiple vehicle platforms.
+At FMS2026, DapuStor showcased its new 512 TB E2 R6060 SSD, which doubles the capacity of its prior-generation 245 TB drive and enables 1 PB of storage with just two drives. The company also demonstrated liquid-cooled EDSFF SSD designs intended for high-density AI training clusters and scale-out storage deployments. This release signals a rapid escalation in single-drive SSD capacity aimed squarely at AI infrastructure, where training datasets are ballooning into the petabyte range. By combining extreme density with liquid cooling, DapuStor is addressing the thermal and rack-space bottlenecks that limit how much storage can be packed into AI data centers. The R6060 line is built on a PCIe Gen5 interface with DapuStor's DP800 controller and 3D QLC NAND, previously topping out at 245 TB in E3.L, E1.L, and U.2 form factors. The new liquid-cooled EDSFF approach follows an industry trend (also pursued by Solidigm and others) of attaching cold plates directly to SSDs to manage heat in dense AI racks.
 
-rss · Electronics Weekly · Aug 11, 05:15
+rss · TechPowerUp News · Aug 11, 15:03
 
-**Background**: Waymo originated as Google's self-driving car project and is now a subsidiary of Alphabet. Its autonomous driving technology, branded as the 'Waymo Driver,' integrates sensors, cameras, radar, LiDAR, and audio receivers to enable fully driverless operation without a human safety driver. Robotaxi services like Waymo's operate within geofenced areas known as the Operational Design Domain (ODD), restricting operations to specific zones where the technology has been validated. Competitors include Tesla (which launched a robotaxi service in Austin at a flat fee of $4.20 per ride), as well as various Chinese players such as Baidu's Apollo Go and Pony.ai.
+**Background**: EDSFF (Enterprise and Data Center Standard Form Factor) is a family of SSD form factors developed by a consortium of 15 companies and now maintained by SNIA, designed specifically for data center servers and using NVMe over PCIe. DapuStor is a Chinese enterprise SSD vendor specializing in high-capacity NVMe drives for AI and cloud workloads. As AI training clusters demand more local storage and face increasing thermal constraints, manufacturers are pushing both single-drive capacities higher and adopting liquid cooling to manage the heat generated by densely packed flash.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://waymo.com/">Waymo - Self- Driving Cars - Autonomous Vehicles - Ride-Hail</a></li>
-<li><a href="https://spectrum.ieee.org/full-autonomy-waymo-driver">What Full Autonomy Means for the Waymo Driver - IEEE Spectrum</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Robotaxi">Robotaxi - Wikipedia</a></li>
+<li><a href="https://en.dapustor.com/">Dapustor | Data Center Best Enterprise SSD | NVMe SSD | DapuStor</a></li>
+<li><a href="https://www.snia.org/forums/cmsi/knowledge/formfactors">SSD Form Factors | SNIA | Experts on Data</a></li>
+<li><a href="https://www.storagereview.com/enterprise/ssd">SSD Archives - StorageReview.com</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#autonomous-vehicles`, `#Waymo`, `#self-driving`, `#robotaxi`, `#industry-news`
+**Tags**: `#SSD`, `#storage`, `#AI infrastructure`, `#data center`, `#enterprise hardware`
 
 ---
 
 <a id="item-14"></a>
-## [RTX 50 Series Prices Surge Up to 41% Above MSRP in August](https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream) ⭐️ 6.5/10
+## [Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act) ⭐️ 6.5/10
 
-NVIDIA's GeForce RTX 50 series GPUs have seen significant price hikes on Newegg between July and August 2025, with the RTX 5060 Ti 16GB jumping from $570 to $805 (a roughly 41% increase) and the RTX 5070 climbing 36% from $660 to $900, both far exceeding official MSRPs. With mid-range RTX 50 cards jumping 27–41% in a single month, gamers and PC builders are effectively priced out of upgrading at intended price points, and the pattern mirrors the 2020–2022 GPU shortage era—suggesting AI-driven demand is once again squeezing consumer GPU supply. The data is based on Newegg median listed prices; the entry-level RTX 5050 rose only 5% to $315, the RTX 5070 Ti stayed flat at $1,100, and the RTX 5080 crept up just 3% to $1,500, indicating the steepest inflation is concentrated in the mid-range tier rather than at the very top or bottom of the stack.
+Anthropic will embed digital watermarks in Claude-generated text and images to comply with the EU's Artificial Intelligence Act.
 
-rss · TechPowerUp News · Aug 11, 09:42
+rss · Tom's Hardware · Aug 12, 11:30
 
-**Background**: The RTX 50 series is built on NVIDIA's Blackwell GPU microarchitecture, the successor to Ada Lovelace, which powers both GeForce consumer cards and data-center accelerators used for AI training. MSRP (Manufacturer's Suggested Retail Price) is the price NVIDIA recommends retailers charge, but actual retail prices routinely diverge due to supply–demand imbalances. During the 2020–2022 GPU shortage, RTX 30-series cards frequently sold for two to three times their MSRP, and the current RTX 50 pricing pattern suggests a similar supply squeeze is re-emerging as AI workloads compete for the same Blackwell silicon.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.cgdirector.com/gpu-msrp-list/">GPU MSRP List - AMD, Nvidia & Intel Graphics Cards</a></li>
-<li><a href="https://www.digitaltrends.com/computing/graphics-card-pricing-availability/">Why are video cards selling for way above MSRP ? - Digital Trends</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#GPU`, `#hardware-pricing`, `#RTX-50-series`, `#PC-hardware`
+**Tags**: `#AI policy`, `#watermarking`, `#EU AI Act`, `#Anthropic`, `#content provenance`
 
 ---
 
 <a id="item-15"></a>
-## [Samsung Delays High-NA EUV Adoption Until 1nm Node in 2030](https://www.techpowerup.com/351507/samsung-delays-high-na-euv-adoption-until-2030-for-1-nm-node) ⭐️ 6.5/10
+## [Intel CEO hints at return to the memory business — says market is ripe for innovation, hints at stacking memory and CPU](https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu) ⭐️ 6.5/10
 
-Samsung has confirmed it will not adopt ASML's High-NA EUV lithography tools until its 1nm node, which is scheduled for 2030, making it one of the last major foundries to introduce the technology. Intel is already ramping its 14A node with High-NA EUV in risk production, while TSMC is expected to introduce it in 2029. This delay highlights a strategic divergence among major foundries on how to extend Moore's Law, and underscores the enormous cost pressure of next-generation lithography, where a single High-NA EUV machine costs around $400 million. Samsung's and TSMC's bets on Low-NA EUV could reshape capital expenditure trends and equipment vendor strategies across the semiconductor industry. ASML's most advanced High-NA EUV machine costs roughly $400 million, while Low-NA EUV tools are about half that price. TSMC publicly claims it can maintain a competitive edge using existing Low-NA EUV technology by scaling down nodes and introducing incremental improvements with each generation, and Samsung appears to be following the same playbook.
+Intel's CEO Lip-Bu Tan hints at a potential return to the memory business with a new memory architecture involving stacked memory and CPU.
 
-rss · TechPowerUp News · Aug 11, 08:57
+rss · Tom's Hardware · Aug 12, 10:05
 
-**Background**: Extreme ultraviolet (EUV) lithography uses light at a wavelength of about 13.5 nanometers to print extremely fine circuit patterns onto silicon wafers, enabling the most advanced chips. ASML, based in the Netherlands, holds a near-monopoly on EUV lithography machines and is the sole manufacturer of High-NA EUV systems. High-NA EUV uses a higher numerical aperture lens to achieve even finer resolution than standard Low-NA EUV, but the systems are significantly larger and far more expensive. Leading foundries like TSMC, Samsung, and Intel are currently weighing the cost-benefit tradeoff of adopting High-NA tools versus extending the use of cheaper Low-NA systems for upcoming process nodes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
-<li><a href="https://lzwjava.github.io/asml-euv-monopoly-en">ASML 's EUV Lithography Monopoly Drives Success</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#Samsung`, `#EUV lithography`, `#chip manufacturing`, `#ASML`
+**Tags**: `#Intel`, `#memory`, `#semiconductors`, `#hardware-architecture`, `#industry-news`
 
 ---
 
 <a id="item-16"></a>
-## [SK hynix to expand China NAND production 50% by 2027, mulls Solidigm IPO](https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo-report-claims-second-phase-of-fab-could-boost-local-production-by-50-percent) ⭐️ 6.5/10
+## [European Bookstores Hit by Suspicious Bulk Orders Linked to AI Training](https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-bookstores-in-europe-receive-suspicious-orders-for-thousands-of-books-prompting-fears-theyll-be-destroyed-to-train-ai-sellers-believe-acquisitions-are-part-of-ai-tech-companies-push-to-get-more-data) ⭐️ 6.5/10
 
-SK hynix plans to expand its Dalian, China NAND Flash fab by 50% in 2027, raising Solidigm's monthly wafer output from approximately 100,000 to 150,000, and is reportedly considering a NASDAQ IPO for its Solidigm subsidiary to capitalize on peak data center SSD demand. This expansion signals renewed confidence in NAND demand after a four-year freeze triggered by US export controls and a market downturn, and a potential Solidigm IPO would unlock value from a key AI-era storage asset amid surging enterprise SSD consumption. Solidigm will begin producing floating gate 3D QLC NAND Flash with over 200 active storage layers per chip, enabling multi-terabyte enterprise SSDs; however, even at 150,000 wafers per month, this output represents only a small fraction of global NAND demand.
+Independent bookstores across Europe are reporting sudden bulk online orders for obscure, long-out-of-print titles that had seen little interest for years, with sellers suspecting that these purchases are being made by AI companies seeking fresh text data for large language model training. This trend highlights a troubling new front in the AI data acquisition race, where small businesses are unknowingly drawn into the supply chain for LLM training, and it intensifies ongoing debates over copyright, consent, and the ethics of how AI companies source their training corpora. Out-of-print and obscure titles are particularly prized because their content typically cannot be scraped from the open web, making them rare and high-value training material. Similar practices have already been documented in litigation against Anthropic, which was found to have purchased and destructively scanned millions of print books.
 
-rss · Tom's Hardware · Aug 11, 16:39
+rss · Tom's Hardware · Aug 12, 10:00
 
-**Background**: NAND Flash is a type of non-volatile storage memory used in SSDs, smartphones, and tablets, and 3D NAND stacks memory cells vertically to achieve higher densities at lower cost. SK hynix acquired Intel's NAND and SSD business in two phases starting in 2021 for roughly $9–10 billion, creating Solidigm as a US-based subsidiary headquartered in San Jose that operates the Dalian fab in China. US export controls on advanced semiconductor manufacturing equipment and a subsequent NAND market downturn had halted Solidigm's capacity expansion in China since 2021, making this resumption notable for both industry supply dynamics and geopolitical sensitivities around chip manufacturing in China.
+**Background**: Large language models like GPT and Claude learn by analyzing massive volumes of text to predict and generate human-like language. Books are especially valuable training material because they contain long-form, structured, high-quality prose. However, much of the openly available web text has already been exhausted, driving AI firms to seek harder-to-obtain sources such as out-of-print books. Recent court rulings have addressed whether scanning and destroying purchased physical books for AI training constitutes fair use, a legal gray area that remains contested.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.skhynix.com/en/sk-hynix-completes-the-first-phase-of-intel-nand-and-ssd-business-acquisition/">SK hynix completes the First Phase of Intel NAND and SSD Business...</a></li>
-<li><a href="https://thessdguy.com/solidigm-sk-hynix-new-ssd-flash-subsidiary/">Solidigm , SK hynix ’ New SSD/Flash Subsidiary – The SSD Guy Blog</a></li>
+<li><a href="https://arstechnica.com/ai/2025/06/anthropic-destroyed-millions-of-print-books-to-build-its-ai-models/">Anthropic destroyed millions of print books to build its AI models</a></li>
+<li><a href="https://thebotpost.com/ai-news/ai-firms-destroying-millions-books-train-models">AI ' Book Burning': Why Firms Destroy Millions of Books to Train AI</a></li>
+<li><a href="https://www.mandurahmail.com.au/story/8377940/why-stolen-australian-books-are-being-used-to-train-ai/">Why stolen Australian books are being used to train AI | Mandurah Mail</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SK hynix`, `#Solidigm`, `#semiconductor manufacturing`, `#data center SSDs`, `#IPO`
+**Tags**: `#AI`, `#training-data`, `#ethics`, `#copyright`, `#data-acquisition`
 
 ---
 
 <a id="item-17"></a>
-## [BC-250 APU Unlocked to 40 CUs and 8 Zen 2 Cores, Matches Steam Machine at Half Price](https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu) ⭐️ 6.5/10
+## [Two undersea cables reportedly damaged off the coast of Perth following suspicious vessel activity — company CEO says faults happened ‘straight after each other and in close proximity'](https://www.tomshardware.com/networking/two-undersea-cables-reportedly-damaged-off-the-coast-of-perth-following-suspicious-vessel-activity-company-ceo-says-faults-happened-straight-after-each-other-and-in-close-proximity) ⭐️ 6.5/10
 
-Tom's Hardware benchmarked the AMD BC-250, a repurposed PS5 APU originally used for crypto mining, after community mods unlocked all 40 RDNA2 Compute Units and all eight Zen 2 cores (up from the stock 24 CUs and 6 cores). The resulting build delivers Steam Machine-level gaming performance at roughly half the cost of an actual Steam Machine. This demonstrates that budget-conscious builders can achieve console-competitive gaming performance using repurposed silicon, potentially disrupting the entry-level gaming PC market and highlighting the creativity of the open-source hardware modding community. It also illustrates how AMD's console-generation APU silicon retains substantial untapped capability years after launch. The 40 CU unlock works by writing two hardware registers during amdgpu driver init (device ID 0x13FE, BC-250 specific), as the disabled CUs are fused off in firmware rather than physically damaged. The build runs Linux and targets living-room gaming use cases similar to Steam Deck and Steam Machine, though BC-250 availability remains limited to second-hand mining hardware channels.
+Two undersea cables off Perth were damaged under suspicious circumstances with a vessel reportedly passing over the area during the disruptions.
 
-rss · Tom's Hardware · Aug 11, 13:13
+rss · Tom's Hardware · Aug 12, 09:00
 
-**Background**: The BC-250 is an AMD APU derived from the same semi-custom chip powering the PlayStation 5, featuring RDNA2 graphics and Zen 2 CPU cores on a single die. During the cryptocurrency mining boom, many of these APUs were salvaged from mining rigs and sold as standalone boards. The Steam Machine line, revived by Valve, refers to small living-room PCs designed to compete with consoles, while the original 2015 Steam Machines were mini-PCs running SteamOS. The BC-250 community has developed firmware patches and driver modifications to activate hardware blocks that AMD disabled for the console SKUs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu">Benchmarking AMD 's BC - 250 , offering Steam... | Tom's Hardware</a></li>
-<li><a href="https://elektricm.github.io/amd-bc250-docs/system/40cu-unlock/">40 CU Unlock - AMD BC250 Documentation</a></li>
-<li><a href="https://github.com/duggasco/bc250-40cu-unlock">duggasco/bc250-40 cu - unlock : Re-enable all 40 CUs on the AMD ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#hardware`, `#amd`, `#ps5-apu`, `#benchmarks`, `#budget-gaming`
+**Tags**: `#networking`, `#infrastructure`, `#security`, `#undersea-cables`, `#telecommunications`
 
 ---
 
 <a id="item-18"></a>
-## [Japanese authorities use new tool to identify initial torrent uploaders — anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring](https://www.tomshardware.com/tech-industry/cyber-security/initial-seeder-on-popular-anime-torrenting-site-nyaa-arrested-by-japanese-authorities-anti-piracy-group-claims-it-identified-user-without-torrent-swarm-monitoring) ⭐️ 6.5/10
+## [Minisforum N5 Max Review: Strix Halo APU Meets 10GbE NAS](https://www.servethehome.com/minisforum-n5-max-review-with-amd-ryzen-ai-max-395/) ⭐️ 6.5/10
 
-Japanese authorities arrested an initial seeder on anime torrenting site Nyaa using a new tool that identifies uploaders without traditional torrent swarm monitoring.
+ServeTheHome has published a review of the Minisforum N5 Max, a compact mini-PC that packs AMD's flagship Ryzen AI Max+ 395 (Strix Halo) APU with 64GB of unified memory, built-in 10GbE networking, and a 5-bay NAS enclosure into a single chassis. This product represents a convergence trend in the mini-PC and home lab space, where powerful AI-capable APUs with large unified memory pools are being combined with traditional server features like multi-bay storage and high-speed networking. It will appeal to home lab enthusiasts, small business users, and content creators who want workstation-class AI inference and local LLM capabilities alongside a capable NAS in one box. The Ryzen AI Max+ 395 is a chiplet APU featuring dual 8-core Zen 5 CCDs (16 cores total) with 512-bit FPUs, paired with a powerful integrated GPU and NPU, all sharing a unified memory pool with up to ~256 GB/s bandwidth. The 10GbE networking enables fast transfers to and from the 5-bay NAS, making the system suitable for both AI workloads and high-throughput storage tasks in a single compact unit.
 
-rss · Tom's Hardware · Aug 11, 11:00
+rss · ServeTheHome · Aug 11, 17:00
 
-**Tags**: `#piracy`, `#anti-piracy`, `#cybersecurity`, `#torrenting`, `#privacy`
+**Background**: AMD's Strix Halo is the company's first chiplet APU for the consumer market, designed as a system-on-chip with a large unified memory architecture shared between the CPU, GPU, and NPU. This unified memory approach—similar in concept to Apple's M-series chips—enables large language models to run locally on the integrated GPU, with configurations supporting up to 128GB of memory. 10GbE (10 Gigabit Ethernet) is a networking standard that offers ten times the bandwidth of standard gigabit Ethernet, commonly used in NAS environments and home labs to eliminate network bottlenecks during large file transfers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.pcgamesn.com/amd/strix-halo-guide">AMD Strix Halo guide: Everything we know about AMD Ryzen AI Max AMD Gorgon Halo, Gorgon Point, Strix Halo/Point, Fire Range ... AMD’s Chiplet APU: An Overview of Strix Halo AMD Strix Halo Architecture — Syvidea AMD Ryzen AI Max+395: A Leap Forward in Generative AI ... AMD Ryzen AI Max+ 395 (Strix Halo) Explained — Specs ...</a></li>
+<li><a href="https://strixhalo.wiki/">Welcome to the Strix Halo Wiki! – Strix Halo Wiki</a></li>
+<li><a href="https://specpicks.com/reviews/ryzen-ai-max-395-laptop-review-2025">Ryzen AI Max 395 Laptop: Specs and AI | SpecPicks</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#hardware-review`, `#AMD`, `#Strix-Halo`, `#NAS`, `#mini-PC`
 
 ---
 
 <a id="item-19"></a>
-## [Laser Wireless Charging Achieves 38.49% Efficiency for Drones](https://www.tomshardware.com/tech-industry/drones/wireless-ota-charging-with-lasers-could-keep-drones-airborne-indefinitely-improved-receiver-converts-at-38-49-percent-efficiency-and-uses-nanocrystalline-material-for-thermals) ⭐️ 6.5/10
+## [农民因听从 AI 建议而导致 150 亩芝麻几乎全毁](https://www.solidot.org/story?sid=85077) ⭐️ 6.3/10
 
-Researchers demonstrated a ground-based laser wireless power transfer system for drones that achieves 38.49% power conversion efficiency at the receiver, using nanocrystalline materials for thermal management. This approach could potentially allow drones to remain airborne indefinitely without needing to land for recharging. This advancement addresses one of the most critical limitations of commercial and industrial drones — limited flight time due to battery capacity. If scalable, it would unlock persistent operations for applications like surveillance, delivery, communications relay, and search-and-rescue, fundamentally changing drone mission planning. The 38.49% conversion efficiency is a notable improvement, though still leaving significant energy losses that must be dissipated as heat, which is why the nanocrystalline thermal management material is critical. The system is described as ground-based, meaning the laser transmitter stays fixed while the drone acts as a moving receiver, introducing challenges around precise beam tracking and atmospheric interference.
+A 67-year-old Chinese farmer destroyed nearly 150 acres of sesame crops by blindly following AI-generated herbicide recommendations that turned out to be toxic to sesame, illustrating real-world consequences of AI hallucination and over-reliance.
 
-rss · Tom's Hardware · Aug 11, 10:30
+rss · Solidot · Aug 12, 11:03
 
-**Background**: Wireless Power Transfer (WPT) technologies encompass both near-field methods (like inductive coupling used in phone chargers) and far-field methods such as laser-based directed energy transfer. Laser power beaming transmits concentrated optical energy over long distances without physical cables, but it requires a specialized receiver to convert the light back into electricity. Nanocrystalline materials — substances with grain sizes below 100 nanometers — exhibit enhanced thermal, mechanical, and electronic properties compared to bulk materials, making them useful for managing the intense heat generated during high-power energy conversion. Maintaining stable thermal performance is especially important in nanocrystalline systems when grain sizes fall below 20 nm, where thermal stability becomes a key engineering concern.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://fiberbridge-photonics.com/applications/Laser-based-wireless-power-transfer">Laser -Based Wireless Power Transfer | Fiberbridge Photonics</a></li>
-<li><a href="https://www.researchgate.net/publication/283550290_Thermal_Stability_The_Next_Frontier_for_Nanocrystalline_Materials">(PDF) Thermal Stability: The Next Frontier for Nanocrystalline ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#wireless-power`, `#drones`, `#laser-technology`, `#nanocrystalline-materials`, `#energy-efficiency`
+**Tags**: `#AI safety`, `#AI hallucination`, `#agriculture`, `#China tech news`, `#climate research`
 
 ---
 
 <a id="item-20"></a>
-## [Minisforum N5 Max: Strix Halo AI Mini-PC with 10GbE NAS](https://www.servethehome.com/minisforum-n5-max-review-with-amd-ryzen-ai-max-395/) ⭐️ 6.5/10
+## [Temperature Does Not Only Age Hardware — It Moves the System](https://semiwiki.com/3dic/371828-temperature-does-not-only-age-hardware-it-moves-the-system/) ⭐️ 6.0/10
 
-ServeTheHome has published a review of the Minisforum N5 Max, a compact all-in-one system that pairs AMD's flagship Strix Halo Ryzen AI Max+ 395 APU with 64GB of unified memory, 10GbE networking, and a 5-bay NAS enclosure in a single chassis. This system represents a convergence trend where AI-capable silicon, workstation-grade memory, fast networking, and bulk storage are merged into a single small-footprint device, making local AI inference and home-lab workloads far more accessible without building separate machines. The Ryzen AI Max+ 395 is built on TSMC 4nm and integrates CPU, GPU, and NPU on a single die with a shared memory pool, retailing around €1,500 and reportedly outperforming competitors by up to 4x in time-to-first-token benchmarks on small models like Llama 3.2 3B via LM Studio.
+A technical perspective arguing that temperature effects on hardware go beyond accelerating aging mechanisms to actively shifting system behavior, challenging the conventional reliability-clock view of thermal stress.
 
-rss · ServeTheHome · Aug 11, 17:00
+rss · SemiWiki · Aug 11, 21:00
 
-**Background**: AMD's Strix Halo is a high-end APU line introduced in early 2025 for laptops and mini-PCs, designed to bring substantial AI and GPU compute to compact form factors. The shared-memory architecture allows the GPU to access large amounts of system RAM, which is especially valuable for running large language models locally. 10GbE (10 Gigabit Ethernet) is a networking standard that is ten times faster than standard Gigabit Ethernet, once reserved for enterprise use but now increasingly affordable for home labs and enthusiast setups.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.amd.com/en/blogs/2025/amd-ryzen-ai-max-395-processor-breakthrough-ai-.html">AMD Ryzen ™ AI MAX+ 395 Processor : Breakthrough AI ...</a></li>
-<li><a href="https://morgannriu.fr/en/blog/amd-strix-halo-ryzen-ai-max-395-ia-locale">AMD Strix Halo ( Ryzen AI Max+ 395 ) for Local AI : the... | Morgann Riu</a></li>
-<li><a href="https://a.ngnxry.com/article/1574-10gbe-networking-on-a-budget-affordable-nics-and-switches-for-your-homelab/">10 GbE Networking on a Budget: Affordable NICs and... | a.ngnxry.com</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD Strix Halo`, `#hardware review`, `#NAS`, `#mini-PC`, `#AI hardware`
+**Tags**: `#semiconductors`, `#thermal-management`, `#hardware-reliability`, `#3DIC`, `#failure-analysis`
 
 ---
