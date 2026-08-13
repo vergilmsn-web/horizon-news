@@ -5,118 +5,129 @@ date: 2026-08-13
 lang: en
 ---
 
-> From 95 items, 20 important content pieces were selected
+> From 87 items, 20 important content pieces were selected
 
 ---
 
-1. [Suspected China-linked hackers used AI to run the first-ever end-to-end autonomous cyberattack on Taiwan's government, Israeli firm says — open-source-built tool continuously devised effective hack strategies in real-time](#item-1) ⭐️ 8.5/10
-2. [Tailscale Traces Database Corruption to 16-Year-Old SQLite WAL-Reset Bug](#item-2) ⭐️ 8.0/10
-3. [Qwen Releases Qwen3.8-2.4T-A95B: A 2.4T Parameter Open-Weight MoE Model](#item-3) ⭐️ 8.0/10
-4. [Meta Cuts Server Count 25% by Reusing Old DDR4 Memory via CXL](#item-4) ⭐️ 8.0/10
+1. [First End-to-End Autonomous AI Cyberattack Hits Taiwan Government](#item-1) ⭐️ 8.5/10
+2. [Tailscale uncovers 16-year-old race condition in SQLite WAL reset](#item-2) ⭐️ 8.0/10
+3. [Qwen Releases 2.4T-Parameter MoE Model with 1-Bit Quantization Variant](#item-3) ⭐️ 8.0/10
+4. [Meta Cuts 25% of Servers by Pooling Old DDR4 Memory via CXL](#item-4) ⭐️ 8.0/10
 5. [CXMT Surpasses 90% DDR5 Yield, Challenges Industry Giants](#item-5) ⭐️ 7.5/10
-6. [AMD Acknowledges High-Severity TPM 2.0 Vulnerability Affecting Ryzen 3000–9000 Series](#item-6) ⭐️ 7.5/10
-7. [YMTC Becomes Third-Largest NAND Flash Maker, Overtakes Micron, Kioxia, Sandisk](#item-7) ⭐️ 7.5/10
-8. [Optical Interconnects and Silicon Photonics Emerge as AI's Critical Commodity](#item-8) ⭐️ 7.5/10
-9. [European Bookstores Hit by Suspicious Bulk Orders from AI Firms](#item-9) ⭐️ 7.5/10
-10. [AMD Instinct MI455X Deep Dive: CDNA 5 Ushers in New Era](#item-10) ⭐️ 7.5/10
-11. [DeepSeek Releases V4 Pro 0813, a Cost-Effective Frontier Model](#item-11) ⭐️ 7.0/10
-12. [xAI Releases Grok 4.6 Frontier Model with Updated Capabilities](#item-12) ⭐️ 7.0/10
-13. [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](#item-13) ⭐️ 7.0/10
-14. [Why Tiny JPEGs Look Different in Chrome vs Firefox](#item-14) ⭐️ 7.0/10
-15. [Comparing Intel EMIB and Intel Foveros](#item-15) ⭐️ 7.0/10
-16. [Intel may be heading back to memory](#item-16) ⭐️ 7.0/10
-17. [PCB shortage  getting worse](#item-17) ⭐️ 7.0/10
-18. [Imec Proposes CMOS, BiCMOS, and III-V Chiplet Mix for Datacenter Connectivity](#item-18) ⭐️ 7.0/10
-19. [Intel Offers $20 Billion in Stock to Expand Foundry Capacity](#item-19) ⭐️ 6.5/10
-20. [Qualcomm details Snapdragon C specs for $300 laptops for the first time — claims 67% faster performance on battery than Intel N250, AC performance remains a mystery](#item-20) ⭐️ 6.5/10
+6. [CXMT overtakes Tencent as China's most valuable company at $524 billion](#item-6) ⭐️ 7.5/10
+7. [Coin-sized device hacks Boeing 737 avionics via diagnostic port and Wi-Fi](#item-7) ⭐️ 7.5/10
+8. [Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.](#item-8) ⭐️ 7.5/10
+9. [PCIe 6.0 SSDs and Controllers Finally Reach Commercial Market](#item-9) ⭐️ 7.5/10
+10. [AMD Instinct MI455X Deep Dive: CDNA 5 Ushers In Next Era of Instinct](#item-10) ⭐️ 7.5/10
+11. [DeepSeek V4 Pro 0813](#item-11) ⭐️ 7.0/10
+12. [Comparing Intel EMIB and Foveros Advanced Packaging Technologies](#item-12) ⭐️ 7.0/10
+13. [Neuromorphic Computing Needs More Than Novel Chips](#item-13) ⭐️ 7.0/10
+14. [TI Launches First Commercial CAN XL Transceiver at 20Mbps](#item-14) ⭐️ 7.0/10
+15. [Intel may be heading back to memory](#item-15) ⭐️ 7.0/10
+16. [Essay Reassesses Principia Mathematica as Surprisingly Modern](#item-16) ⭐️ 6.5/10
+17. [NVIDIA's Six-Year-Old A100 GPU to Stay in Service Until 2029](#item-17) ⭐️ 6.5/10
+18. [Qualcomm Unveils Snapdragon C: $300 Laptops with 67% Edge Over Intel N250](#item-18) ⭐️ 6.5/10
+19. [LACT v0.10.0 Adds NVIDIA PowerMizer, Voltage Boost, and Blackwell Sensors on Linux](#item-19) ⭐️ 6.5/10
+20. [Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company — analysts point to accelerating foundry progress and capex expansion](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Suspected China-linked hackers used AI to run the first-ever end-to-end autonomous cyberattack on Taiwan's government, Israeli firm says — open-source-built tool continuously devised effective hack strategies in real-time](https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time) ⭐️ 8.5/10
+## [First End-to-End Autonomous AI Cyberattack Hits Taiwan Government](https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time) ⭐️ 8.5/10
 
-Suspected China-linked hackers reportedly used autonomous AI agents to conduct the first fully end-to-end AI-driven cyberattack against Taiwan's government, compromising 85 accounts and stealing over 2,500 records.
+Suspected China-linked hackers used open-source AI agents to build an autonomous hacking tool that conducted the first documented end-to-end autonomous cyberattack on Taiwan's government, compromising 85 accounts and stealing over 2,500 records over a four-day period in early July. This incident represents a potential paradigm shift in cyberwarfare, demonstrating that AI agents can independently plan, adapt, and execute complex multi-stage attacks with minimal human supervision, raising urgent concerns for national security, AI safety governance, and the global defense posture against state-sponsored threats. The attack deployed up to eight autonomous AI agents simultaneously across 21 government systems, with the tool continuously devising new effective strategies in real-time; it was detected by Israeli cybersecurity firm Dream, and notably leveraged open-source components, making the capability potentially replicable by other threat actors.
 
 rss · Tom's Hardware · Aug 12, 14:58
 
-**Tags**: `#cybersecurity`, `#AI-agents`, `#cyberwarfare`, `#China-Taiwan`, `#state-sponsored-hacking`
+**Background**: Autonomous AI agents, also called agentic AI, are systems that can reason, plan, and act independently to achieve complex goals with minimal human intervention. In cybersecurity, such agents have been increasingly studied for both defensive purposes and offensive applications. Earlier incidents in late 2025 and mid-2026 saw AI models participate in cyber operations, but the Taiwan breach is distinguished as the first fully end-to-end autonomous attack—one where the AI handled every stage from reconnaissance to data exfiltration without human direction. The use of open-source AI agents is particularly significant because it lowers the technical barrier for threat actors to deploy sophisticated autonomous attack tooling.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas">Taiwan says it was hit by ‘abnormal’ AI -assisted cyber-attack | Hacking</a></li>
+<li><a href="https://www.metacurity.com/autonomous-ai-agents-hacked-the-taiwan-government-in-a-cyber-first/">Autonomous AI agents hacked the Taiwan government in a cyber first</a></li>
+<li><a href="https://www.iaps.ai/research/autonomous-cyber-attacks">The Emergence of Autonomous Cyber Attacks: Analysis and ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#AI-agents`, `#cyberwarfare`, `#state-sponsored-attacks`, `#AI-safety`
 
 ---
 
 <a id="item-2"></a>
-## [Tailscale Traces Database Corruption to 16-Year-Old SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) ⭐️ 8.0/10
+## [Tailscale uncovers 16-year-old race condition in SQLite WAL reset](https://tailscale.com/blog/sqlite-wal-reset-bug) ⭐️ 8.0/10
 
-Tailscale engineers traced mysterious database corruption incidents to a 16-year-old SQLite WAL-reset race condition bug, funding the development of a custom VFS shim that helped isolate the data race. During the investigation, the team also uncovered a second stale expression index bug. This case demonstrates how subtle, long-latent concurrency bugs can lurk in foundational open-source software despite millions of lines of tests, and it highlights the value of companies financially supporting upstream projects when they encounter critical issues. It also shows how SQLite, despite its ubiquity and maturity, can still harbor edge-case race conditions capable of corrupting production systems. The bug is a race condition during SQLite's WAL checkpointing process, involving the WAL-index metadata (mxFrame, nBackfill, and the WAL lock matrix). Tailscale's control plane uses a single-writer design—one Go process exclusively accesses the database—which is exactly how SQLite is intended to be used, yet the race still manifested under production load.
+Tailscale has disclosed a race condition bug in SQLite's Write-Ahead Logging (WAL) reset code that had gone undetected for 16 years, and funded the development of a custom VFS (Virtual File System) shim to isolate the issue and help track down similar bugs in the future. SQLite is one of the most widely deployed databases in the world, embedded in countless applications and operating systems, so a long-latent correctness bug in its core logging code has far-reaching implications. The incident also highlights how companies relying on open-source infrastructure can meaningfully invest back into upstream debugging tools rather than silently patching around issues. The bug only manifests when multiple concurrent connections interact with the WAL reset path, which is uncommon in typical single-writer SQLite deployments but can occur in production environments with multiple readers and writers. Tailscale's VFS shim simulates filesystem faults and enables deterministic concurrency testing, going beyond SQLite's traditional randomized test suite which proved insufficient for catching this class of race condition.
 
 hackernews · ropbear · Aug 12, 14:22 · [Discussion](https://news.ycombinator.com/item?id=49272832)
 
-**Background**: SQLite's Write-Ahead Logging (WAL) mode improves concurrency by writing changes to a separate .db-wal file and using a .db-shm shared memory file for caching, rather than modifying the main database directly. Checkpointing periodically transfers committed transactions from the WAL back into the main database file. SQLite's Virtual File System (VFS) is an abstraction layer that lets the engine interact with different operating systems' file operations, and a custom VFS shim can intercept those calls to add debugging or instrumentation. Despite SQLite shipping 92 million lines of tests, this particular race condition went undetected for roughly 16 years.
+**Background**: SQLite's WAL mode improves concurrency by maintaining a separate append-only log file where writes are recorded before being checkpointed back into the main database, allowing readers and writers to operate simultaneously without blocking each other. The SQLite VFS (Virtual File System) is an abstraction layer that lets developers customize how SQLite interacts with the underlying filesystem, and shims built on top of it can intercept calls to simulate failures or control timing. Race conditions in concurrent database code are notoriously difficult to reproduce because they depend on exact interleaving of operations, which is why traditional testing often misses them.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sqlite.org/wal.html">Write-Ahead Logging</a></li>
-<li><a href="https://sqlite.org/vfs.html">The SQLite OS Interface or "VFS"</a></li>
-<li><a href="https://tailscale.com/blog/sqlite-wal-reset-bug">How Tailscale helped find the SQLite WAL - Reset bug</a></li>
-<li><a href="https://www.theregister.com/databases/2026/08/12/tailscale-says-deeply-buried-16-year-old-sqlite-bug-caused-last-years-outages/5287004">Tailscale says deeply buried 16-year-old SQLite bug caused last...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Write-ahead_logging">Write - ahead logging - Wikipedia</a></li>
+<li><a href="https://www.sqlite.org/vfs.html">The SQLite OS Interface or " VFS "</a></li>
+<li><a href="https://victoria.dev/posts/sqlite-in-production-with-wal/">SQLite in Production with WAL | victoria.dev</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News community responded very positively (790 points, 141 comments), broadly praising Tailscale for funding the open-source VFS shim and for engaging responsibly with the SQLite team through a support contract. Commenters debated technical details—some were puzzled by how a race condition could occur in a single-writer design, while others asked why Tailscale checkpoints so frequently, speculating it is to keep the WAL small for fast recovery in their network control plane.
+**Discussion**: The Hacker News community responded enthusiastically, with several commenters highlighting this as a strong example of a company meaningfully funding open-source tooling rather than just consuming it. Multiple commenters praised the technical quality of the writeup, while others pointed to Antithesis's deterministic concurrency testing as the modern approach that outclasses SQLite's traditional randomized testing methodology for this class of bug. One commenter wryly invoked Dijkstra's observation that testing can only prove the presence of bugs, never their absence, in light of SQLite's 92 million lines of tests failing to catch a 16-year-old race condition.
 
-**Tags**: `#sqlite`, `#database-corruption`, `#debugging`, `#post-mortem`, `#tailscale`
+**Tags**: `#sqlite`, `#databases`, `#concurrency`, `#bug-hunting`, `#open-source`
 
 ---
 
 <a id="item-3"></a>
-## [Qwen Releases Qwen3.8-2.4T-A95B: A 2.4T Parameter Open-Weight MoE Model](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) ⭐️ 8.0/10
+## [Qwen Releases 2.4T-Parameter MoE Model with 1-Bit Quantization Variant](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) ⭐️ 8.0/10
 
-Qwen has released Qwen3.8-2.4T-A95B, a Mixture-of-Experts (MoE) model with 2.4 trillion total parameters and 95 billion active parameters, available in BF16 (~4.9TB), FP8, and a striking 1-bit quantized variant at just 397GB. The model is positioned as a Kimi K3 rival with claimed performance between Claude Opus 4.8 and Fable 5 levels. This is one of the largest open-weight frontier-class models ever released, significantly advancing the open-source AI ecosystem's capability ceiling. The 1-bit quantization at 397GB is particularly significant as it brings near-frontier model performance within reach of high-end consumer or small-server hardware, a major milestone for local and self-hosted deployment. The launch ships only BF16 and FP8 precision variants, making it harder to serve than Kimi K3 at release, with no QAT for q4 quantization (requiring significant calibration effort to reach ~1.3TB). The license permits free use for organizations under $50M annual revenue, with restrictions above that threshold. Notably, the open-weight version lacks the vision input, non-thinking mode, and 1M default context length available in the commercial Qwen3.8-Max variant.
+Alibaba's Qwen team released Qwen3.8-2.4T-A95B, a 2.4 trillion parameter Mixture of Experts (MoE) language model with 95B active parameters, positioning it as a direct competitor to Kimi K3. The release ships BF16 and FP8 weight formats, alongside a 1-bit quantized variant that fits in just 397GB while reportedly achieving Opus 4.5-level performance. This release demonstrates that frontier-level AI performance is becoming accessible on consumer-grade hardware through aggressive quantization, potentially democratizing access to state-of-the-art models. It also intensifies the open-source AI competition among Qwen, DeepSeek, and Moonshot (Kimi), pushing the frontier of what open-weight models can achieve. The full BF16 model requires 4.9TB of storage, and the open-weight release lacks vision input support and the 1M context length—features that remain exclusive to the closed-source Qwen3.8-Max variant. The license permits free use for entities earning under $50M annually but imposes restrictions above that threshold, and no QAT (Quantization-Aware Training) was applied for q4 quantization, leaving further size reductions to third parties.
 
 hackernews · Philpax · Aug 12, 15:01 · [Discussion](https://news.ycombinator.com/item?id=49273478)
 
-**Background**: Mixture-of-Experts (MoE) models split a neural network into specialized sub-networks called 'experts' and use a router to activate only the most relevant ones for each input token. This allows total model capacity to scale massively (trillions of parameters) while keeping per-token compute cost proportional to only the active parameters (95B here), rather than the full 2.4T. Quantization, meanwhile, reduces the numerical precision of model weights — for example, from 16-bit (BF16) to 8-bit (FP8) or even 1-bit — dramatically shrinking memory requirements. Microsoft's BitNet.cpp demonstrated that 1-bit (ternary) quantization can make large models feasible on local devices, a technique applied here to bring a frontier-scale MoE down to 397GB.
+**Background**: Mixture of Experts (MoE) is a neural network architecture that partitions computation into multiple specialized subnetworks, allowing models to have enormous total parameter counts while activating only a small fraction during each inference, thereby improving efficiency. 1-bit (or 1.58-bit/ternary) quantization is an extreme compression technique that restricts model weights to just three values (−1, 0, +1), dramatically reducing memory requirements and enabling inference on modest hardware. FP8 (Floating-Point 8) is an 8-bit floating-point format used in AI training and inference that reduces computational and memory costs compared to standard FP16 or BF16 formats.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://researchaudio.io/p/mixture-of-experts-moe-in-large-language-models">Mixture of Experts ( MoE ) in Large Language Models</a></li>
-<li><a href="https://www.unite.ai/microsofts-inference-framework-brings-1-bit-large-language-models-to-local-devices/">Microsoft’s Inference Framework Brings 1 - Bit Large Language ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1.58-bit_large_language_model">1.58-bit large language model - Wikipedia</a></li>
+<li><a href="https://developer.nvidia.com/blog/floating-point-8-an-introduction-to-efficient-lower-precision-ai-training/">Floating-Point 8: An Introduction to Efficient, Lower-Precision AI Training | NVIDIA Technical Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is largely positive but with notable caveats. Users are excited that the 1-bit 397GB variant puts Opus 4.5-level performance into hardware a 'normal person could buy,' while expressing concern that the launch-only BF16/FP8 formats (without QAT q4) make serving harder than Kimi K3 initially. There is disappointment that the open-weight release omits vision support and 1M context length compared to the commercial Qwen3.8-Max, and one commenter noted API pricing is roughly 2x more expensive than Grok 4.6. The release was also discussed alongside DeepSeek V4-Pro-0813 (1.6T-A49B), which reportedly sits at Fable 5 level.
+**Discussion**: The community expressed strong excitement about the 1-bit quantization achievement—fitting Opus 4.5-level performance into 397GB on consumer hardware—but raised concerns that serving difficulty exceeds Kimi K3's because no low-bit QAT was provided. Commentators noted that DeepSeek V4-Pro (1.6T-A49B) benchmark scores were announced around the same time, placing Qwen3.8 in a three-way race with DeepSeek and Kimi, while several users expressed disappointment that the open-weight model lacks the vision support and 1M context features available only in the closed Qwen3.8-Max.
 
-**Tags**: `#qwen`, `#large-language-models`, `#mixture-of-experts`, `#open-source-ai`, `#model-release`
+**Tags**: `#LLM`, `#MoE`, `#Qwen`, `#open-source-AI`, `#model-release`
 
 ---
 
 <a id="item-4"></a>
-## [Meta Cuts Server Count 25% by Reusing Old DDR4 Memory via CXL](https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/) ⭐️ 8.0/10
+## [Meta Cuts 25% of Servers by Pooling Old DDR4 Memory via CXL](https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/) ⭐️ 8.0/10
 
-Meta has achieved a 25% reduction in its server count by repurposing older DDR4 memory through Compute Express Link (CXL) technology, allowing it to continue using legacy memory modules rather than discarding them. This is a meaningful hyperscale deployment of CXL memory expansion and pooling, demonstrating both economic savings and sustainability benefits. If other companies can replicate this approach, it could reshape how data centers handle hardware lifecycle and e-waste, particularly as CXL 4.0 doubles bandwidth to 128GT/s. While Meta's success is notable, widespread adoption faces several practical hurdles: different DIMM generations are not interchangeable due to differing pin counts and notch positions, mixing older memory with newer systems creates power management and telemetry challenges, and most enterprises lack the engineering scale and tooling to replicate Meta's bespoke solution.
+Meta has achieved a 25% reduction in server count by pooling legacy DDR4 memory through Compute Express Link (CXL) technology, demonstrating a production-scale memory pooling deployment at hyperscaler level. However, the article highlights that other companies attempting to replicate this approach face significant practical hurdles around DIMM compatibility, power management, and telemetry tooling. This is one of the first publicly documented production case studies of CXL-based memory pooling at hyperscaler scale, providing a real-world data point that the rest of the industry has been waiting for. The 25% server reduction has massive implications for capital expenditure, energy efficiency, and extending the useful life of installed hardware, but the noted barriers suggest widespread adoption will be slower than CXL advocates have promised. Meta's approach centers on pooling old DDR4 memory — hardware that would otherwise be decommissioned — through CXL's CPU-to-memory interconnect, which runs over the PCIe physical layer. The remaining barriers include DIMM-level compatibility issues (since pooled memory must match what host servers expect), power and thermal provisioning (CXL-attached memory devices draw additional power), and the lack of mature telemetry software to monitor and manage shared memory resources across a fleet.
 
 rss · EE Times · Aug 12, 18:40
 
-**Background**: Compute Express Link (CXL) is an open-standard, cache-coherent interconnect built on the PCIe physical and electrical interface, designed to enable high-speed CPU-to-device and CPU-to-memory connections in data centers. The latest CXL 4.0 specification doubles bandwidth from 64GT/s to 128GT/s, adds support for bundled ports, and enhances memory RAS features. DIMM (Dual In-line Memory Module) is the standard form factor for server memory, and different generations such as DDR4 and DDR5 are not forward or backward compatible due to differing pin counts and keying positions. This incompatibility is precisely what CXL memory pooling aims to address by abstracting memory from the CPU's local DIMM slots.
+**Background**: Compute Express Link (CXL) is an open standard interconnect built on top of the PCI Express physical layer, enabling high-speed CPU-to-memory and CPU-to-device connections in data centers. CXL 2.0 and later versions support memory pooling, which lets multiple servers dynamically share memory resources rather than each server having a fixed, locally-attached pool. This is especially relevant as DDR4 hardware is being phased out in favor of DDR5, leaving large installed bases of still-functional DDR4 memory — Meta's innovation is putting that legacy memory back to work through a CXL fabric. Other vendors like Marvell are now shipping CXL switches specifically designed to enable rack-scale memory pooling, and Intel Xeon 6 platforms are providing the host-side CPU support needed for these deployments.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Compute_Express_Link">Compute Express Link - Wikipedia</a></li>
-<li><a href="https://computeexpresslink.org/about-cxl/">About CXL® - Compute Express Link</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DIMM">DIMM - Wikipedia</a></li>
+<li><a href="https://www.rambus.com/blogs/compute-express-link/">Compute Express Link (CXL): All you need to know - Rambus</a></li>
+<li><a href="https://investor.marvell.com/news-events/press-releases/detail/1017/marvell-launches-next-generation-cxl-switch-enabling-memory-pooling-to-break-through-the-ai-memory-wall">Marvell Launches Next-generation CXL Switch, Enabling Memory ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#CXL`, `#datacenter`, `#memory`, `#infrastructure`, `#Meta`
+**Tags**: `#CXL`, `#memory-pooling`, `#Meta`, `#data-center`, `#DDR4`
 
 ---
 
 <a id="item-5"></a>
 ## [CXMT Surpasses 90% DDR5 Yield, Challenges Industry Giants](https://www.techpowerup.com/351557/cxmt-surpasses-90-ddr5-yield-challenges-industry-giants) ⭐️ 7.5/10
 
-Chinese memory manufacturer CXMT has reportedly achieved over 90% DDR5 production yield, matching industry leaders Samsung, SK hynix, and Micron on a slightly older 17nm node.
+Chinese memory manufacturer CXMT has reportedly surpassed 90% DDR5 production yields on its 17nm node, approaching the yield rates of leading manufacturers like Samsung, signaling growing competition in the global DRAM market.
 
 rss · TechPowerUp News · Aug 12, 16:24
 
@@ -125,281 +136,279 @@ rss · TechPowerUp News · Aug 12, 16:24
 ---
 
 <a id="item-6"></a>
-## [AMD Acknowledges High-Severity TPM 2.0 Vulnerability Affecting Ryzen 3000–9000 Series](https://www.techpowerup.com/351550/amd-acknowledges-tpm-vulnerability-but-everything-is-now-patched) ⭐️ 7.5/10
+## [CXMT overtakes Tencent as China's most valuable company at $524 billion](https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo) ⭐️ 7.5/10
 
-AMD has publicly disclosed two high-severity out-of-bounds read vulnerabilities in the TPM 2.0 reference implementation—CVE-2026-6726 with a CVSS score of 8.5 and CVE-2026-6727 with a CVSS score of 8.3—affecting all Ryzen desktop CPUs from the 3000 through 9000 series. The flaw was discovered by Intel security researchers and reported to the Trusted Computing Group, and motherboard firmware patches had already been rolling out since May before today's acknowledgment. TPM 2.0 safeguards the cryptographic keys behind disk encryption (e.g., BitLocker) and digital signatures, so a successful exploit could let an attacker bypass or disable the TPM and compromise all encrypted data and signed credentials on affected systems. While the coordinated pre-disclosure patching limited real-world exposure, the cross-generational scope—spanning five Ryzen product families—underscores how a single reference-code flaw can ripple across an entire CPU lineup. The vulnerability can be triggered from user-mode applications by sending malicious commands to a TPM running affected firmware, potentially exposing stored TPM data or affecting availability; affected firmware versions can be identified by inspecting the TPM part number and firmware version in the Endorsement Key certificate. Patches shipped through motherboard OEMs from May through July 2026, and the remaining Ryzen AI 300, Ryzen AI 400 desktop/notebook, and Ryzen AI Max 300 series are scheduled to receive Pluton secure processor updates this month.
+ChangXin Memory Technologies (CXMT) surpassed Tencent in market valuation just 17 days after its IPO, reaching approximately $524 billion to become China's most valuable publicly listed company. This milestone signals the rising strategic importance of memory semiconductors, driven by surging AI-related demand for DRAM. It also reflects China's ambition to achieve self-sufficiency in chip manufacturing and reduce dependence on foreign memory suppliers amid ongoing U.S. export controls. CXMT is China's largest domestic DRAM manufacturer and the country's only large-scale producer of modern DDR5, LPDDR5, and LPDDR5X memory, fabricated at 17nm and 19nm process nodes. The company has no controlling shareholder, and its rapid valuation growth reflects both domestic policy support and the global memory upcycle.
 
-rss · TechPowerUp News · Aug 12, 13:56
+rss · Tom's Hardware · Aug 13, 13:27
 
-**Background**: A Trusted Platform Module (TPM) is a dedicated hardware component—often implemented as a firmware-based 'fTPM' on modern CPUs—that securely stores cryptographic keys used for full-disk encryption, platform integrity attestation, and digital certificate signing. An out-of-bounds read is a memory-safety flaw in which software accesses memory beyond an allocated buffer, potentially leaking sensitive adjacent data or causing instability; when reachable through attacker-controlled input, it becomes a viable information-disclosure primitive. The Trusted Computing Group (TCG) is the industry consortium that maintains the TPM 2.0 specification and coordinates multi-vendor vulnerability response, which is why a flaw discovered by Intel researchers could affect AMD's implementation sharing the same TCG reference code.
+**Background**: CXMT (ChangXin Memory Technologies; 长鑫存储) was founded in 2016 in Hefei, Anhui Province, as part of a wave of Chinese semiconductor plants created to compete in the global memory market. The global DRAM industry has historically been dominated by Samsung, SK Hynix, and Micron, making domestic Chinese production a strategic priority. CXMT's 2025 unveiling of DDR5 DRAM marked a significant technological milestone for China's semiconductor industry, enabling downstream module makers to ramp up consumer and enterprise storage products built on domestically sourced chips.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7064.html">Trusted Platform Module (TPM) Reference Code Errata - AMD</a></li>
-<li><a href="https://trustedcomputinggroup.org/wp-content/uploads/VRT0010-Advisory_Final-1.pdf">Title: TPM 2.0 Improper Object Slot Reuse Released: 2026-08 ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Trusted_Platform_Module">Trusted Platform Module - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.bybit.com/en/wiki/article/what-is-cxmt-china-s-dram-chip-maker-explained/">What Is CXMT? China's DRAM Chip Maker Explained | Bybit Wiki</a></li>
+<li><a href="https://www.scmp.com/tech/tech-trends/article/3353464/chinese-memory-module-makers-ramp-production-cxmt-ddr5-breakthrough-hits-market">Chinese memory module makers ramp up production as CXMT DDR5 breakthrough hits market | South China Morning Post</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#amd`, `#tpm`, `#vulnerability`, `#hardware`
+**Tags**: `#semiconductors`, `#memory`, `#CXMT`, `#China-tech`, `#IPO`
 
 ---
 
 <a id="item-7"></a>
-## [YMTC Becomes Third-Largest NAND Flash Maker, Overtakes Micron, Kioxia, Sandisk](https://www.techpowerup.com/351543/ymtc-surpasses-micron-kioxia-and-sandisk-in-global-storage-market-share) ⭐️ 7.5/10
+## [Coin-sized device hacks Boeing 737 avionics via diagnostic port and Wi-Fi](https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi) ⭐️ 7.5/10
 
-According to Counterpoint Research data for Q2, Chinese memory maker YMTC became the third-largest NAND Flash manufacturer globally, surpassing Micron, Kioxia, and Sandisk, with bit shipments growing 22% year-over-year and 5% quarter-over-quarter. Samsung led with 25% market share while SK hynix (including Solidigm) held 22% in second place. This marks a significant milestone for China's domestic semiconductor industry, showing that Chinese memory makers can compete with established Western and Japanese players in advanced NAND technology. The achievement carries notable geopolitical weight given ongoing US export controls restricting advanced chipmaking technology to China. Despite ranking third in shipment volume, YMTC only placed fifth in revenue share because it focuses on consumer electronics while Micron, Kioxia, and others target the more lucrative enterprise server and AI markets. YMTC is currently mass-producing 267-layer 3D NAND on its proprietary Xtacking 4.0 architecture and expects to reach 300+ layers next year.
+Security researchers demonstrated a coin-sized device that plugs into an easily accessible diagnostic port in the avionics bay of a Boeing 737, allowing it to inject false data into the Flight Management Computer via in-flight Wi-Fi. The device can be hidden behind a protective dust cover and could potentially alter takeoff weights or divert an aircraft. This attack vector exposes a significant cybersecurity vulnerability affecting thousands of widely-deployed Boeing 737 aircraft and raises serious concerns about the convergence of passenger Wi-Fi networks with critical avionics systems. It also highlights how easily accessible physical ports can become entry points for attackers, potentially requiring redesigns of aircraft maintenance access controls. The attack exploits an ARINC 615-style diagnostic data loader port—normally used by maintenance crews to upload software and data to avionics—combined with the aircraft's in-flight Wi-Fi network. By bridging the diagnostic port and the Wi-Fi system, the small device can override legitimate pilot commands, effectively allowing a remote or locally positioned attacker to manipulate flight management data.
 
-rss · TechPowerUp News · Aug 12, 09:39
+rss · Tom's Hardware · Aug 13, 12:04
 
-**Background**: NAND Flash is a non-volatile storage memory used in SSDs, smartphones, and other devices. 3D NAND stacks memory cells vertically in layers to increase density, so more layers generally translate to higher capacity and lower cost per bit. YMTC's proprietary Xtacking architecture bonds two separate wafers together (one for the memory array, one for CMOS logic circuitry) using hybrid bonding with copper interconnects, rather than building everything on a single wafer — an approach that can improve performance and density. The global NAND market has historically been dominated by Samsung, SK hynix, Micron, Kioxia, and Sandisk.
+**Background**: The Boeing 737's Flight Management Computer (FMC) handles navigation, performance calculations, and flight planning, including optimal takeoff weights and vertical navigation paths. Aircraft like the 737 also feature ARINC 615 diagnostic data loader ports, standardized interfaces that allow maintenance personnel to update avionics software and configuration data. In-flight Connectivity (IFC) systems provide passenger Wi-Fi via satellite links, but in some implementations the network architecture may share infrastructure or routing paths with aircraft internal systems, potentially creating attack surfaces that bridge passenger networks with safety-critical avionics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time">YMTC breaks into the top three NAND makers for... | Tom's Hardware</a></li>
-<li><a href="https://wccftech.com/chinas-ymtc-becomes-the-worlds-third-largest-nand-manufacturer-clocking-in-explosive-growth-while-eyeing-samsung-level-capacity/">China's YMTC Becomes The World's Third-Largest NAND ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flight_management_system">Flight management system - Wikipedia</a></li>
+<li><a href="http://www.b737.org.uk/fmc.htm">The Boeing 737 Flight Management Computer</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Inflight_Connectivity">Inflight Connectivity - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NAND Flash`, `#semiconductor`, `#YMTC`, `#storage industry`, `#China tech`
+**Tags**: `#cybersecurity`, `#aviation-security`, `#hardware-hacking`, `#vulnerability`, `#Boeing-737`
 
 ---
 
 <a id="item-8"></a>
-## [Optical Interconnects and Silicon Photonics Emerge as AI's Critical Commodity](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs) ⭐️ 7.5/10
+## [Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.](https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people) ⭐️ 7.5/10
 
-Optical interconnects and silicon photonics are rapidly becoming critical commodities for AI data centers, but U.S. efforts to ban Chinese optical transceivers face major challenges due to China's entrenched dominance across the photonics supply chain. The convergence of surging AI infrastructure demand with geopolitical supply-chain dependencies places photonics on par with advanced semiconductors as a strategic chokepoint, directly impacting hyperscaler buildouts, GPU cluster scalability, and the broader U.S.–China technology rivalry. Industry forecasts project that all AI data center interconnects will go optical within five years, with 800G/1.6T optical modules, co-packaged optics (CPO), and silicon photonics chiplets emerging as the key building blocks for next-generation GPU clusters.
+A critical Zoom vulnerability ('Zoomsday') allows any meeting participant to take over other participants' devices, discovered via AI-assisted research using just 20 prompts.
 
-rss · Tom's Hardware · Aug 12, 12:42
+rss · Tom's Hardware · Aug 13, 11:20
 
-**Background**: Optical interconnects transmit data using light rather than electrical signals over copper, delivering significantly higher bandwidth and lower latency across centimeter-to-meter-scale links inside data centers. Silicon photonics integrates photonic components onto silicon wafers using conventional semiconductor fabrication processes, enabling compact, scalable, and cost-effective optical circuits. Optical transceivers, which convert between electrical and optical signals, are the physical modules connecting GPUs, switches, and servers. As AI model sizes balloon and GPU clusters scale to tens of thousands of nodes, the bandwidth and latency demands have pushed photonics from a niche technology into a critical bottleneck — and a strategic commodity — for the entire AI stack.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://semiengineering.com/all-ai-data-center-interconnects-will-be-optical-within-5-years/">All AI Data Center Interconnects Will Be Optical Within 5 Years</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics - Wikipedia</a></li>
-<li><a href="https://www.yolegroup.com/strategy-insights/opinion-optical-transceivers-at-the-chokepoint-of-ai-growth-and-supply-chain-constraints/">Opinion: optical transceivers at the chokepoint of AI growth ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#photonics`, `#AI-infrastructure`, `#semiconductor-supply-chain`, `#US-China-tech`, `#data-centers`
+**Tags**: `#security`, `#vulnerability`, `#zoom`, `#ai-security`, `#rce`
 
 ---
 
 <a id="item-9"></a>
-## [European Bookstores Hit by Suspicious Bulk Orders from AI Firms](https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-bookstores-in-europe-receive-suspicious-orders-for-thousands-of-books-prompting-fears-theyll-be-destroyed-to-train-ai-sellers-believe-acquisitions-are-part-of-ai-tech-companies-push-to-get-more-data) ⭐️ 7.5/10
+## [PCIe 6.0 SSDs and Controllers Finally Reach Commercial Market](https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays) ⭐️ 7.5/10
 
-Independent bookstores across Europe have reported receiving unusual bulk orders for obscure titles that haven't seen interest in years, with sellers strongly suspecting these acquisitions are part of AI companies' push to obtain more data for training large language models (LLMs). The buyers reportedly show no interest in the books' content, raising fears the physical copies will be destroyed after being digitized. This development reveals an ethically questionable and potentially illegal frontier of AI training data acquisition that extends beyond digital copyright debates into the physical destruction of cultural artifacts. It highlights the environmental cost, cultural loss, and legal ambiguity of AI development, affecting independent booksellers, authors, rare book collectors, and regulators grappling with how to govern AI data sourcing. The orders specifically target obscure and older titles that are unlikely to already exist in widely available digital training datasets like Books3 or Library Genesis, making physical acquisition necessary. Older books are particularly valuable because they offer writing produced entirely by humans, a quality that has become surprisingly difficult to guarantee in modern online text increasingly saturated with AI-generated content.
+PCIe 6.0 SSDs are finally reaching commercial availability after years of delays, with controllers from Marvell, Phison, and SMI being prepared for upcoming drives from Micron and Samsung. The new generation controllers are designed to handle petabyte-class SSDs and are claimed to deliver aggregate throughput reaching up to 28 TB/s for read/write operations. This represents a major generational shift in storage interfaces, doubling the per-lane bandwidth compared to PCIe 5.0 and enabling entirely new use cases in AI training, high-performance computing, and hyperscale data centers. The arrival also signals maturity in the broader PCIe 6.0 ecosystem, paving the way for next-generation GPUs, NICs, and accelerators. PCIe 6.0 SSDs are aimed primarily at enterprise and data center workloads rather than consumer desktops, with petabyte-class capacities enabled by next-generation NAND and advanced controller architectures. Note that the cited 28 TB/s figure represents aggregate throughput across multiple lanes/devices rather than a single drive's sequential speed.
 
-rss · Tom's Hardware · Aug 12, 10:00
+rss · Tom's Hardware · Aug 13, 09:40
 
-**Background**: Large language models require enormous quantities of text data for training. While some AI companies have faced lawsuits over using pirated digital book collections like Books3 and LibGen (e.g., Meta was sued for torrenting copyrighted works to train Llama), the legal landscape remains unsettled — a 2025 federal court ruling found that training AI on lawfully acquired copyrighted books can qualify as fair use. This has pushed some AI firms to seek out older and obscure physical books, which they digitize and then destroy — a practice that has drawn comparisons to Ray Bradbury's Fahrenheit 451 and adds an environmental and cultural dimension to the ongoing debate about AI training data ethics.
+**Background**: PCIe (Peripheral Component Interconnect Express) is the standard high-speed interface for connecting components such as GPUs, SSDs, and NICs to a computer's motherboard, with each new generation historically doubling the per-lane bandwidth. The PCIe 6.0 specification was finalized by the PCI-SIG consortium in January 2021, but the development of compatible controllers and SSDs has taken several additional years. SSD controllers from Phison, Marvell, and Silicon Motion (SMI) are critical silicon components that manage NAND flash memory and bridge it to the PCIe interface, essentially determining an SSD's performance ceiling.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://indianexpress.com/article/explained/explained-ai/ai-companies-buying-physical-books-training-data-10817242/">Why AI companies are cutting up books to train AI models</a></li>
-<li><a href="https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books">AI Companies Are Buying Antique Books, Ingesting Their ...</a></li>
-<li><a href="https://mashable.com/life/ai-companies-destroy-books-training-data">AI companies are buying and destroying old books for training data | Mashable</a></li>
+<li><a href="https://pcisig.com/blog/pcie®-60-specification-webinar-qa-deeper-dive-flit-mode-pam4-and-forward-error-correction-fec">The PCIe® 6.0 Specification Webinar Q&A: A Deeper Dive into ...</a></li>
+<li><a href="https://vlsitrainers.com/pcie-5-0-6-0-pam4-fec-flit-mode/">PCIe 5.0 & 6.0 Explained: PAM4, FEC, Flit Mode and Bandwidth ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_flash_memory_controller_manufacturers">List of flash memory controller manufacturers - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI ethics`, `#training data`, `#LLM`, `#data acquisition`, `#copyright`
+**Tags**: `#PCIe 6.0`, `#SSD`, `#storage`, `#hardware`, `#data-center`
 
 ---
 
 <a id="item-10"></a>
-## [AMD Instinct MI455X Deep Dive: CDNA 5 Ushers in New Era](https://www.servethehome.com/amd-instinct-mi455x-deep-dive-cdna-5-marks-the-next-era-of-instinct/) ⭐️ 7.5/10
+## [AMD Instinct MI455X Deep Dive: CDNA 5 Ushers In Next Era of Instinct](https://www.servethehome.com/amd-instinct-mi455x-deep-dive-cdna-5-marks-the-next-era-of-instinct/) ⭐️ 7.5/10
 
-ServeTheHome has published a deep dive into AMD's Instinct MI455X accelerator, which is built on the new CDNA 5 architecture and serves as the foundation of AMD's next-generation AI servers and the Helios rackscale system. The MI455X and CDNA 5 are central to AMD's competitive positioning against NVIDIA in the rapidly growing AI accelerator market, and the Helios platform represents AMD's first true rackscale system designed for hyperscale AI deployments. CDNA 5 employs an advanced chiplet architecture that partitions compute, memory, cache, and I/O functions across specialized dies, allowing each function to be optimized independently for performance and power efficiency. The MI455X extends AMD's AI accelerator portfolio with an open solution that scales from a single chip to a full rack and beyond to gigawatt-scale AI factories.
+ServeTheHome has published an in-depth technical analysis of AMD's Instinct MI455X accelerator built on the CDNA 5 architecture, which serves as the compute foundation for AMD's next-generation AI server lineup and the Helios rackscale platform. The MI455X and Helios system represent AMD's most direct challenge yet to NVIDIA's dominance in AI infrastructure, offering an open-standards-based rackscale alternative that combines Instinct GPUs, EPYC CPUs, and Pensando networking at production scale. Helios rack cabinets integrate 72 MI455X GPUs alongside EPYC CPUs and Pensando networking, and CDNA 5 employs chiplet-based advanced packaging designed to minimize data movement overhead and improve power efficiency for AI workloads.
 
 rss · ServeTheHome · Aug 12, 17:00
 
-**Background**: CDNA (Compute DNA) is AMD's GPU architecture designed specifically for data center and accelerator workloads, as opposed to the RDNA architecture used in gaming GPUs. AMD's Instinct line competes in the data center AI accelerator market currently dominated by NVIDIA's H100/H200/B200 GPUs. The Helios rackscale system is AMD's first rack-level AI reference design, built on Meta's Open Rack Wide (ORW) standard submitted to the Open Compute Project, integrating GPUs, CPUs, networking, and open software into a single platform. AMD acquired Pensando in 2022 to add networking capabilities needed for such rackscale systems.
+**Background**: CDNA (Compute DNA) is AMD's dedicated compute GPU microarchitecture designed specifically for datacenter and AI workloads, distinct from the consumer-focused RDNA architecture. AMD's Instinct line has progressively evolved through CDNA generations (CDNA, CDNA 2, CDNA 3) to compete with NVIDIA's data center GPUs. The Helios rackscale system represents AMD's strategy to deliver a fully integrated AI infrastructure combining GPUs, CPUs, and high-speed networking—an approach mirroring NVIDIA's NVL/NVLink rackscale systems but built on open industry standards.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.amd.com/en/technologies/cdna.html">AMD CDNA™ Architecture</a></li>
-<li><a href="https://www.amd.com/content/dam/amd/en/documents/products/technologies/cdna/amd-cdna5-whitepaper.pdf">AMD CDNA 5 Architecture INTRODUCING</a></li>
-<li><a href="https://www.servethehome.com/amd-helios-architecture-deep-dive-amd-broadcom-hardware-combined/">AMD Helios Architecture Deep Dive: The Power of AMD’s ...</a></li>
+<li><a href="https://www.servethehome.com/amd-helios-architecture-deep-dive-amd-broadcom-hardware-combined/">AMD Helios Architecture Deep Dive: The Power of... - ServeTheHome</a></li>
+<li><a href="https://www.amd.com/content/dam/amd/en/documents/products/technologies/cdna/amd-cdna5-whitepaper.pdf">INTRODUCING AMD CDNA 5 Architecture</a></li>
+<li><a href="https://finance.yahoo.com/technology/article/amd-launches-helios-system-in-direct-challenge-to-nvidias-ai-dominance-183000104.html">AMD launches Helios system in direct challenge to Nvidia's AI ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#Instinct MI455X`, `#CDNA 5`, `#AI Accelerators`, `#Data Center GPUs`
+**Tags**: `#AMD`, `#GPU`, `#AI accelerators`, `#CDNA 5`, `#data center hardware`
 
 ---
 
 <a id="item-11"></a>
-## [DeepSeek Releases V4 Pro 0813, a Cost-Effective Frontier Model](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) ⭐️ 7.0/10
+## [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) ⭐️ 7.0/10
 
-DeepSeek has released V4 Pro (version 0813), a large-scale Mixture-of-Experts model with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is priced at $0.435 per million input tokens and $0.87 per million output tokens, positioned as a frontier-tier model at highly competitive pricing. DeepSeek's releases have consistently disrupted the AI market by offering near-frontier performance at a fraction of the cost of Western competitors. V4 Pro further intensifies pressure on closed-source models like Claude Sonnet and GPT-4-tier offerings, giving developers and enterprises a powerful open-weight alternative for production workloads. The model has a documented 94% hallucination rate on the AA-Omniscience benchmark, meaning it almost always responds rather than abstaining when uncertain—a notable limitation for confidence-sensitive use cases. It is available via OpenRouter, DeepInfra, and Hugging Face under the identifier deepseek-ai/DeepSeek-V4-Pro, and was officially announced on WeChat.
+DeepSeek releases V4 Pro 0813 model, showing mixed reception with some users finding significant gains in coding/agent tasks while others prefer the smaller Flash version.
 
 hackernews · explosion-s · Aug 12, 16:04 · [Discussion](https://news.ycombinator.com/item?id=49274600)
 
-**Background**: DeepSeek is a major Chinese AI lab known for releasing high-performing open-weight models that rival proprietary systems. A Mixture-of-Experts (MoE) architecture routes each input to only a subset of the total parameters, reducing compute cost while maintaining large model capacity. OpenRouter is a unified API platform that aggregates multiple model providers, allowing developers to access models like DeepSeek V4 Pro through a single interface without managing separate API keys.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openrouter.ai/deepseek/deepseek-v4-pro">DeepSeek V4 Pro - API Pricing & Benchmarks | OpenRouter</a></li>
-<li><a href="https://deepinfra.com/blog/deepseek-v4-pro-model-overview">DeepSeek V4 Pro: Model Overview, Features & Performance Guide</a></li>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro">deepseek-ai/DeepSeek-V4-Pro · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment is largely positive, with developers reporting strong real-world performance at very low cost—one user spent only ~$12.50 processing 2B tokens with 50% cache hits and saw significant gains on a distributed physics engine. Practical testing by simonw revealed image-generation shortcomings (misplaced elements like a bicycle basket), and several users are comparing V4 Pro against Kimi K3, GLM-5.2, and MiniMax as cost-effective alternatives to Claude Sonnet/Opus. The top-voted comment criticized the news link for pointing to OpenRouter rather than DeepSeek's official API docs or benchmark sources.
-
-**Tags**: `#deepseek`, `#llm`, `#ai-models`, `#openrouter`, `#model-release`
+**Tags**: `#deepseek`, `#llm`, `#ai-models`, `#model-release`, `#openrouter`
 
 ---
 
 <a id="item-12"></a>
-## [xAI Releases Grok 4.6 Frontier Model with Updated Capabilities](https://x.ai/news/grok-4-6) ⭐️ 7.0/10
+## [Comparing Intel EMIB and Foveros Advanced Packaging Technologies](https://semiwiki.com/semiconductor-manufacturers/intel/372086-comparing-intel-emib-and-intel-foveros/) ⭐️ 7.0/10
 
-xAI has released Grok 4.6, the latest major version of its frontier AI model. The release is positioned competitively against other top labs, with community reports highlighting its API pricing advantage and claimed benchmark performance against models like GPT-5.6-Sol and Kimi K3. Grok 4.6 signals xAI's continued push into frontier-model territory, intensifying competition with OpenAI, Anthropic, and other labs. Heavy investment in proprietary inference infrastructure makes xAI a structural competitor that pressures pricing across the industry. Community testing found that the xAI / SpaceXAI API silently appends a default system prompt to all requests, with a clause forbidding the model from acknowledging the guidelines, which can override user-level system prompts and cause the model to refuse meta-discussion. Users also reported that Grok 4.5 (the prior version) felt notably more concise and faster than competitors, a usability trait many hope carries forward into 4.6.
+SemiWiki has published a technical comparison of Intel's EMIB (Embedded Multi-die Interconnect Bridge) and Foveros advanced semiconductor packaging technologies, both designed to combine multiple silicon chiplets within a single processor package to support heterogeneous integration. As the semiconductor industry transitions from monolithic dies to chiplet-based designs, the choice between 2.5D and 3D packaging approaches directly affects performance, power efficiency, cost, and scalability — making this comparison essential context for engineers, architects, and investors tracking heterogeneous integration trends. EMIB is a 2.5D packaging approach that uses small embedded bridge dies for high-density inter-chip routing without requiring a full silicon interposer, while Foveros is a 3D stacking technology using through-silicon vias (TSVs) that enables logic-on-logic vertical integration with shorter interconnect lengths and higher bandwidth.
 
-hackernews · iLuddite · Aug 12, 15:32 · [Discussion](https://news.ycombinator.com/item?id=49274027)
+rss · SemiWiki · Aug 12, 17:00
 
-**Background**: Frontier AI models are the most capable large language models available at any given time, trained at extreme scale and characterized by advanced reasoning and broad general-purpose abilities. xAI, founded by Elon Musk, has invested heavily in building its own inference compute (including large-scale GPU clusters tied to SpaceX infrastructure) to reduce dependence on third-party clouds. Model numbering conventions vary by lab, but major version bumps (e.g., 4.5 to 4.6) typically denote substantial capability or training-pipeline changes rather than minor patches.
+**Background**: Chiplets are small, modular silicon dies that are manufactured separately and then assembled into a single package, allowing semiconductor companies to mix process nodes and IP blocks optimized for different functions. Heterogeneous integration refers to combining these specialized chiplets — such as CPUs, GPUs, memory, and I/O — into one package to improve yield, cost, and performance scaling beyond what a single monolithic die can achieve. Intel's EMIB technology, introduced earlier, focuses on 2.5D lateral interconnects via embedded bridge dies, whereas Foveros represents Intel's move into true 3D vertical stacking for advanced products like the Meteor Lake and later Core Ultra processors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/glossary/frontier-models/">What Are Frontier AI Models and How They Work - NVIDIA</a></li>
-<li><a href="https://www.datacamp.com/blog/frontier-models">Frontier Models Explained: What Defines the Cutting Edge of AI</a></li>
-<li><a href="https://www.cisco.com/site/us/en/learn/topics/artificial-intelligence/what-is-a-frontier-model.html">What is a frontier model? - Cisco</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-emib-embedded-multi-die-interconnect-bridge/">Intel EMIB (Embedded Multi-die Interconnect Bridge) - SemiWiki</a></li>
+<li><a href="https://hothardware.com/news/intel-foveros-to-usher-in-industry-first-3d-stacked-system-on-a-chip-designs">Intel Foveros To Usher In Industry First 3 D Stacked ... | HotHardware</a></li>
+<li><a href="https://www.linkedin.com/pulse/intels-pivot-advanced-packaging-finding-its-niche-new-sriram-putta-p9otc">Intel 's Pivot to Advanced Packaging : Finding Its Niche in the New...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Sentiment is mixed but competitive-focused: commentators note that within roughly two months of Fable's release, all major labs seemed to ship Fable-level models, fueling speculation about researcher mobility, distillation, or benchmark optimization. One user flagged a concrete technical quirk (the injected system prompt that hides itself from the model), while others praised prior Grok versions for conciseness and speed compared to Claude and GPT siblings, framing Grok as a healthy, if polarizing, market disruptor.
-
-**Tags**: `#AI`, `#Grok`, `#xAI`, `#LLM`, `#model-release`
+**Tags**: `#semiconductors`, `#Intel`, `#chiplets`, `#advanced-packaging`, `#hardware`
 
 ---
 
 <a id="item-13"></a>
-## [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html) ⭐️ 7.0/10
+## [Neuromorphic Computing Needs More Than Novel Chips](https://www.eetimes.com/neuromorphic-computing-needs-more-than-novel-chips/) ⭐️ 7.0/10
 
-uBlock Origin has effectively given up trying to block Facebook ads due to increasingly sophisticated anti-ad-blocking measures from Meta.
+Katie Schuman argues that neuromorphic computing's progress requires investment in HPC engineers, compilers, and shared hardware access, not just novel chip designs.
 
-hackernews · Markoff · Aug 12, 11:28 · [Discussion](https://news.ycombinator.com/item?id=49270726)
+rss · EE Times · Aug 13, 13:00
 
-**Tags**: `#ad-blocking`, `#uBlock Origin`, `#Facebook`, `#privacy`, `#open-source`
+**Tags**: `#neuromorphic-computing`, `#HPC`, `#compilers`, `#computer-architecture`, `#industry-opinion`
 
 ---
 
 <a id="item-14"></a>
-## [Why Tiny JPEGs Look Different in Chrome vs Firefox](https://guillaumetech.github.io/posts/jpg-scaling-chrome/) ⭐️ 7.0/10
+## [TI Launches First Commercial CAN XL Transceiver at 20Mbps](https://www.electronicsweekly.com/news/products/can-xl-transceiver-supports-data-rates-up-to-20mbps-2026-08/) ⭐️ 7.0/10
 
-A technical analysis reveals that Chrome and Firefox employ fundamentally different JPEG downscaling strategies: Chrome decompresses the image to its full resolution and then scales it down, while Firefox partially decompresses the JPEG directly at the target scale, producing visually distinct results for small rendered images. This matters for web developers and designers because the browser a user chooses can noticeably change how small icons, thumbnails, and UI elements appear, potentially breaking carefully designed interfaces — especially in cross-browser products like Electron-based apps. It also highlights how an apparent 'optimization' in image rendering can have unintended visual consequences. The difference is exacerbated by the fact that the two browsers also use different scaling algorithms: Chrome tends to produce blurrier output, while Firefox tends to be sharper but exhibits slightly more ringing artifacts. Mozilla is actively working on improving Firefox's partial-decompression path (tracked in Bugzilla bug 2033250). Using JPEGs for icons is generally discouraged — PNG or appropriately-sized source images are preferred.
+Texas Instruments has launched the TCAN6062, which it claims is the industry's first commercially available CAN XL transceiver. The device supports data rates up to 20Mbps, targeting automotive and industrial network applications. As automotive E/E architectures evolve toward zonal and software-defined designs with higher data demands, and as industrial systems require faster communication, CAN XL bridges the gap between legacy CAN/CAN FD and more expensive automotive Ethernet solutions. TI's first-mover position with a commercially available transceiver could accelerate CAN XL adoption across the automotive and industrial supply chain. The article content is truncated and does not provide specifics such as payload size, bus voltage levels, package options, or availability/pricing. CAN XL as a protocol is standardized under ISO 11898-1, targets bandwidth beyond 10Mbit/s, and a companion CANsec data-link-layer security protocol is under development in CiA 613-2.
 
-hackernews · gutechh · Aug 12, 14:00 · [Discussion](https://news.ycombinator.com/item?id=49272549)
+rss · Electronics Weekly · Aug 13, 05:03
 
-**Background**: JPEG images are compressed using the Discrete Cosine Transform (DCT), which converts image data into frequency components that are then quantized. When a browser needs to display a JPEG at a smaller size than its native resolution, it must 'downscale' the image. One approach is to fully decode the JPEG into raw pixels at full resolution and then resize those pixels; another is to partially decode the JPEG — performing IDCT (Inverse DCT) directly at the target scale — which can be more memory-efficient but produces different visual results. The choice of scaling algorithm (e.g., bilinear vs. Lanczos) further affects sharpness and artifact characteristics. Chrome and Firefox have historically taken different paths here, leading to the discrepancies described in the article.
+**Background**: Controller Area Network (CAN) is a vehicle bus standard developed in the 1980s to enable reliable communication between electronic control units (ECUs), and remains a cornerstone of automotive and industrial embedded networking. CAN FD (Flexible Data-rate) extended the protocol beyond classic CAN with larger payloads and higher bit rates, and CAN XL goes further by increasing bandwidth beyond 10Mbit/s as specified in ISO 11898-1. CAN XL was developed by the CAN in Automation (CiA) Special Interest Group to address the growing need for higher data throughput and larger data packages in modern vehicles and industrial systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sourceforge.net/p/libjpeg-turbo/mailman/libjpeg-turbo-users/thread/528CE62F.6040007@users.sourceforge.net/">Thread: [Libjpeg-turbo-users] Expanded scale settings | libjpeg-turbo</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chroma_subsampling">Chroma subsampling - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CAN_bus">CAN bus - Wikipedia</a></li>
+<li><a href="https://can-cia.org/can-knowledge/controller-area-network-extended-data-field-length-can-xl">CAN XL : CAN in Automation (CiA)</a></li>
+<li><a href="https://kvaser.com/can-xl/">CAN XL - Kvaser - Advanced CAN Solutions</a></li>
+<li><a href="https://www.rfwireless-world.com/terminology/can-vs-can-fd-vs-can-xl">CAN vs CAN-FD vs CAN-XL: Key Differences Explained</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members largely agreed with the article's core point but expanded on it: jonathanlydall noted that the same issue affects PNGs and recounted a real-world case where an Electron upgrade with Chrome's new behavior broke product icons; advisedwang stressed that the real fix is using appropriately-sized source images rather than relying on the browser to scale; debazel pointed out that the different scaling algorithms (Chrome blurrier, Firefox sharper with ringing) contribute significantly to the visual gap; muizelaar provided a Bugzilla link (bug 2033250) showing Firefox's ongoing work on partial decompression; and PetitPrince pushed back, asking whether Firefox truly does a full render before scaling or just partial decompression in a different way.
-
-**Tags**: `#browser-engineering`, `#image-processing`, `#chrome`, `#firefox`, `#web-development`
+**Tags**: `#CAN-XL`, `#automotive-networking`, `#transceivers`, `#Texas-Instruments`, `#embedded-systems`
 
 ---
 
 <a id="item-15"></a>
-## [Comparing Intel EMIB and Intel Foveros](https://semiwiki.com/semiconductor-manufacturers/intel/372086-comparing-intel-emib-and-intel-foveros/) ⭐️ 7.0/10
+## [Intel may be heading back to memory](https://www.electronicsweekly.com/news/business/intel-may-be-heading-back-to-memory-2026-08/) ⭐️ 7.0/10
 
-A technical comparison of Intel's EMIB and Foveros advanced packaging technologies for chiplet-based heterogeneous integration.
+Intel CEO Lip-Bu Tan hints at a potential return to the memory market, reversing the company's historical exit from memory manufacturing.
 
-rss · SemiWiki · Aug 12, 17:00
+rss · Electronics Weekly · Aug 12, 15:18
 
-**Tags**: `#semiconductor-packaging`, `#intel`, `#chiplets`, `#EMIB`, `#Foveros`
+**Tags**: `#Intel`, `#semiconductors`, `#memory`, `#strategy`, `#HBM`
 
 ---
 
 <a id="item-16"></a>
-## [Intel may be heading back to memory](https://www.electronicsweekly.com/news/business/intel-may-be-heading-back-to-memory-2026-08/) ⭐️ 7.0/10
+## [Essay Reassesses Principia Mathematica as Surprisingly Modern](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) ⭐️ 6.5/10
 
-Intel CEO Lip-Bu Tan has signaled that the company may reconsider investing in the memory market.
+A new essay on okmij.org reexamines Whitehead and Russell's Principia Mathematica (1910–1913), arguing that despite its archaic notation, the work remains surprisingly modern and insightful as a foundation for mathematical logic. The author highlights that many techniques now taken for granted in logic were absent at the time of writing. This essay invites programmers and logicians to look back at a foundational text whose ideas—such as operator-precedence notation and type-theoretic foundations—still resonate with modern programming language design. It also reminds readers that much of what we consider standard in logic and computation was hard-won over the last century. The essay emphasizes Principia's idiosyncratic notation for avoiding parentheses—a dot-based precedence system that one commenter notes could inspire modern programming-language syntax for non-associative operators. It also implicitly grapples with the limits later exposed by Gödel's 1931 incompleteness theorems, which proved that no such formal system can capture all of mathematics.
 
-rss · Electronics Weekly · Aug 12, 15:18
+hackernews · matt_d · Aug 12, 23:26 · [Discussion](https://news.ycombinator.com/item?id=49279928)
 
-**Tags**: `#Intel`, `#Semiconductors`, `#Memory`, `#Industry Strategy`, `#Hardware`
+**Background**: Principia Mathematica, published in three volumes between 1910 and 1913 by Bertrand Russell and Alfred North Whitehead, was an attempt to derive all of mathematics from a small set of logical axioms, building on the earlier work of Frege and Peano. Its ambitious project was later shown to be impossible in full generality by Kurt Gödel's incompleteness theorems (1931), which demonstrated that any sufficiently powerful consistent formal system must contain true statements that cannot be proved within the system. Despite this limitation, Principia remains a landmark in the history of formal logic and the philosophy of mathematics.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://plato.stanford.edu/Entries/principia-mathematica/">Principia Mathematica (Stanford Encyclopedia of Philosophy)</a></li>
+<li><a href="https://www.storyofmathematics.com/20th_russell.html/">Bertrand Russell & Alfred North Whitehead - Principia Mathematica ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters generally treat Principia Mathematica as a historically valuable but difficult text. Some, like radford-neal, extract concrete lessons—such as its dot-based precedence notation as a model for modern programming languages—while others, like pngwen, emphasize Gödel's devastating review that proved Principia cannot achieve its stated goals. The overall tone is respectful and curious, with humor about the book's near-unreadability, though several respondents affirm its continued pedagogical value when teaching the history and limits of formal computation.
+
+**Tags**: `#Mathematical Logic`, `#Principia Mathematica`, `#History of Mathematics`, `#Gödel Incompleteness`, `#Programming Notation`
 
 ---
 
 <a id="item-17"></a>
-## [PCB shortage  getting worse](https://www.electronicsweekly.com/news/business/pcb-shortage-getting-worse-2026-08/) ⭐️ 7.0/10
+## [NVIDIA's Six-Year-Old A100 GPU to Stay in Service Until 2029](https://www.techpowerup.com/351581/nvidias-six-years-old-a100-ampere-gpu-to-remain-in-use-until-2029) ⭐️ 6.5/10
 
-Global PCB shortage is worsening dramatically with Chinese manufacturers quoting 2028 delivery dates, driven by massive demand from AI data centers consuming advanced PCB capacity.
+CoreWeave has secured a customer agreement to rent NVIDIA's six-year-old A100 "Ampere" accelerators through 2029 for AI training and inference workloads, as confirmed by NVIDIA CEO Jensen Huang on social media. The arrangement demonstrates that even older-generation GPUs launched in 2020 remain commercially valuable in the current AI compute market. This signals extreme demand for AI compute resources, where even legacy hardware with lower specs can command long-term rental contracts simply because the market is starved of GPU capacity. It also highlights the economics of the GPU cloud rental market, where older chips at lower hourly rates remain attractive to cost-conscious AI workloads despite the availability of far more capable newer generations. The A100 GA100 SKU launched in late 2020 features 6,912 CUDA cores and up to 80 GB of HBM2E memory; while newer Hopper, Blackwell, and Rubin generations offer multifold improvements in efficiency and memory capacity, the 80 GB of HBM2E per card still meets minimum requirements in today's memory-constrained landscape. CoreWeave reported $2.58 billion in quarterly revenue, up 112% year-over-year, underscoring the scale of the AI infrastructure boom.
 
-rss · Electronics Weekly · Aug 12, 05:17
+rss · TechPowerUp News · Aug 13, 14:04
 
-**Tags**: `#supply-chain`, `#PCB`, `#semiconductors`, `#AI-infrastructure`, `#manufacturing`
+**Background**: NVIDIA's A100 is based on the Ampere architecture, NVIDIA's data-center GPU generation released in 2020, which introduced third-generation Tensor Cores optimized for AI workloads. CoreWeave is one of the largest dedicated AI cloud providers, originally emerging from crypto mining in 2017 and growing to become NVIDIA's largest dedicated cloud customer by the mid-2020s. HBM2E (High Bandwidth Memory 2e) is a 3D-stacked DRAM standard that provides high bandwidth for AI accelerators, though it has since been superseded by HBM3 and HBM3E in newer GPUs such as H100 and Blackwell B200.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.coreweave.com/">The Essential Cloud for AI | CoreWeave</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GeForce_RTX_30_series">GeForce RTX 30 series - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#A100`, `#GPUs`, `#AI-infrastructure`, `#CoreWeave`
 
 ---
 
 <a id="item-18"></a>
-## [Imec Proposes CMOS, BiCMOS, and III-V Chiplet Mix for Datacenter Connectivity](https://www.electronicsweekly.com/news/business/imec-proposes-a-mix-of-cmos-bicmos-and-iii-v-for-datacentre-connectivity-2026-08/) ⭐️ 7.0/10
+## [Qualcomm Unveils Snapdragon C: $300 Laptops with 67% Edge Over Intel N250](https://www.techpowerup.com/351578/qualcomm-introduces-usd-300-laptops-with-snapdragon-c-outruns-intel-n250-by-up-to-67) ⭐️ 6.5/10
 
-Imec has proposed an approach for datacenter connectivity that integrates CMOS, BiCMOS, and III-V chiplets, targeting cost-effective manufacturing while operating at frequencies above 100 GHz. The combination leverages the strengths of each technology family within a heterogeneous chiplet architecture. Next-generation data centers require ever-higher bandwidth interconnects to handle AI workloads and scale-out architectures, and pushing beyond 100 GHz is difficult with silicon alone. A heterogeneous chiplet approach that blends cost-effective CMOS scaling with the superior high-frequency performance of III-V materials could unlock a practical path to terabit-class datacenter links. Imec's approach relies on heterogeneous chiplet integration rather than monolithic fabrication, allowing each technology to be optimized independently. Si-CMOS provides scalable digital logic, BiCMOS contributes high-frequency analog sections, and III-V materials such as InP, GaAs, and GaN deliver superior gain and power efficiency at millimeter-wave frequencies.
+Qualcomm has officially detailed the specifications of its Snapdragon C platform, an ARM-based SoC designed for entry-level laptops starting around $300, featuring an 8-core Kryo CPU (up to 3.0 GHz single-core / 2.0 GHz multi-core), an Adreno A643 GPU at 900 MHz, and a Hexagon NPU for light AI workloads. The company claims the chip outperforms Intel's N250 'Twin Lake' by 24% to 67% depending on workload, with significantly better battery efficiency across Netflix playback, web browsing, and Teams video calls. This announcement intensifies the ARM vs. x86 competition in the PC market by directly challenging Intel's entry-level offerings on both performance and efficiency, potentially reshaping the budget laptop segment. With DRAM and NAND prices currently elevated, a $300 modern ARM laptop could expand access to capable computing for students, families, and basic office workers who previously had to settle for underpowered or older hardware. Snapdragon C supports up to 16 GB of LPDDR4x, LPDDR5, or LPDDR5x memory alongside PCIe 3.0 NVMe and UFS 2.2/3.1 storage, with LPDDR4x likely enabling the lowest BOM cost. Qualcomm's most aggressive claim is 50% faster single-threaded and 67% better multi-threaded Cinebench performance versus the Intel N250, plus 106% higher efficiency during Netflix playback, though real-world battery life will depend on each manufacturer's chassis design and configuration.
 
-rss · Electronics Weekly · Aug 12, 05:16
+rss · TechPowerUp News · Aug 13, 12:15
 
-**Background**: CMOS is the dominant silicon-based technology used for low-power digital logic, but its performance degrades at very high frequencies. BiCMOS combines bipolar transistors—well-suited for high-frequency analog circuits—with CMOS logic gates on a single die, and is commonly used in mixed-signal ICs such as ADCs and software-defined radios. III-V semiconductors (compounds from groups III and V of the periodic table, such as indium phosphide, gallium arsenide, and gallium nitride) offer far higher electron mobility and breakdown voltage than silicon, making them ideal for RF and millimeter-wave amplification, but they are expensive to process at large wafer sizes. Chiplet integration allows these disparate technologies—each fabricated on its optimal substrate—to be combined at the package level, balancing performance with manufacturing cost.
+**Background**: Qualcomm's Snapdragon C is part of its broader strategy to expand its laptop chip portfolio beyond the premium Snapdragon X Elite/Plus tier, targeting price-sensitive segments where Intel and AMD have historically dominated. ARM-based PC chips have traditionally struggled with software compatibility, relying on emulation (such as Microsoft's Prism) for x86 applications, though native ARM64 support in Windows has been steadily improving. Intel's N250 is part of the 'Twin Lake' refresh of low-power Atom-class silicon aimed at entry-level Chromebooks and Windows laptops, making this comparison a head-to-head battle for the sub-$400 laptop market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BiCMOS">BiCMOS - Wikipedia</a></li>
-<li><a href="https://www.imec-int.com/en/press/imec-unlocks-system-level-iii-v-chiplet-integration-si-cmos-advancing-its-300mm-rf-silicon">System-level III-V chiplet integration unlocked on Si-CMOS - imec</a></li>
-<li><a href="https://en.wikipedia.org/wiki/IMEC">IMEC - Wikipedia</a></li>
+<li><a href="https://www.digitaltrends.com/computing/qualcomm-reveals-snapdragon-c-specs-for-budget-laptops-and-intel-could-have-a-serious-headache/">Qualcomm reveals Snapdragon C specs for budget laptops, and ...</a></li>
+<li><a href="https://tech.yahoo.com/computing/articles/qualcomm-details-snapdragon-c-specs-211433169.html">Qualcomm details Snapdragon C specs for $300 laptops for the ...</a></li>
+<li><a href="https://www.qualcomm.com/news/releases/2026/05/introducing-snapdragon-c--designed-to-revolutionize-entry-tier-l">Introducing Snapdragon C: Designed to Revolutionize Entry ...</a></li>
+<li><a href="https://wccftech.com/qualcomm-aims-snapdragon-c-at-300-usd-laptops-up-to-16-gb-memory-8-cores-all-day-battery/">Qualcomm Aims Snapdragon C At $300 Laptops With Up To 16 GB...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#datacenter`, `#III-V`, `#chiplets`, `#CMOS`
+**Tags**: `#Qualcomm`, `#Snapdragon`, `#ARM`, `#laptops`, `#hardware`
 
 ---
 
 <a id="item-19"></a>
-## [Intel Offers $20 Billion in Stock to Expand Foundry Capacity](https://www.techpowerup.com/351484/intel-is-selling-usd-20b-of-its-own-stock-to-build-more-fab-capacity) ⭐️ 6.5/10
+## [LACT v0.10.0 Adds NVIDIA PowerMizer, Voltage Boost, and Blackwell Sensors on Linux](https://www.techpowerup.com/351566/lact-brings-more-nvidia-oc-controls-and-gpu-sensors-to-linux) ⭐️ 6.5/10
 
-Intel announced an underwritten public offering of 210,526,315 common shares priced at $95 each, raising $20 billion after increasing the deal from an initially planned $15 billion. Underwriters also received a 30-day option to buy another 31,578,947 shares, which could increase the total to approximately $23 billion. The equity raise gives Intel substantial capital to expand its foundry and advanced-packaging capacity without relying primarily on debt, but it will dilute existing shareholders’ ownership. The financing also shows the enormous capital required to compete for demand created by AI computing and custom silicon. JPMorgan, Goldman Sachs, Morgan Stanley, and Citigroup are serving as joint book-running managers. Intel cited AI compute, physical AI, purpose-built silicon, advanced packaging, and external wafers as growth areas, although the announcement did not specify individual fab projects or construction schedules.
+LACT v0.10.0 has been released with new NVIDIA overclocking controls, including a PowerMizer mode that forces GPUs into the highest p-state and a 'Voltage boost' slider that adds extra voltage headroom for overclocks. The update also adds new sensor readouts for NVIDIA Blackwell GPUs (hotspot and per-memory-chip temperatures for GDDR6x and GDDR7) and GTT memory display support for AMD GPUs. This update addresses long-standing gaps in Linux GPU management, where native overclocking tools have historically been more limited than their Windows counterparts, especially for the latest NVIDIA Blackwell architecture. The expanded monitoring and tuning options benefit Linux enthusiasts, gamers, and developers running memory-intensive workloads on both NVIDIA and AMD hardware. Developers explicitly note that the new 'Voltage boost' slider only provides additional voltage headroom rather than functioning as a traditional voltage offset slider. The GTT memory display feature is highlighted as especially useful for AMD iGPUs and older low-VRAM GPUs that frequently need to spill over into system memory.
 
-rss · TechPowerUp News · Aug 12, 08:03
+rss · TechPowerUp News · Aug 12, 22:40
 
-**Background**: In an underwritten public offering, a company issues new common shares through financial underwriters, which typically purchase the shares and distribute them to investors. Joint book-running managers collectively manage the order book, pricing, and allocation of those shares. Leading-edge semiconductor fabs are exceptionally capital-intensive, while Intel intends to use the proceeds to expand manufacturing and advanced-packaging capacity for its foundry customers.
+**Background**: LACT (Linux AMD GPU Control) is an open-source GPU overclocking and monitoring tool aimed at Linux users, who have historically had fewer native GPU tuning utilities than Windows users. PowerMizer is NVIDIA's intelligent power management framework that dynamically adjusts GPU clock speeds and voltage across multiple performance states (p-states); it has been a source of frustration for some Linux users seeking to lock in maximum performance. NVIDIA Blackwell is the company's latest GPU microarchitecture, succeeding Ada Lovelace, and introduces next-generation memory types including GDDR7. GTT (Graphics Translation Table) is an I/O memory management unit that maps GPU-accessible system memory addresses, and is commonly used by integrated GPUs and APUs that share system RAM.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.stocktitan.net/news/AXTI/axt-announces-pricing-of-550-million-public-offering-of-common-wdky7lmymgo3.html">AXT prices $550M stock offering at $64.25 a share | AXTI Stock News</a></li>
-<li><a href="https://www.investopedia.com/terms/b/bookrunner.asp">Book Runner Guide: Definition, Essential Duties, and Industry ... Lead Bookrunners, Joint Bookrunners, and Co-Managers: Roles Top Stories Roles in the IPO Process: Lead Manager vs Bookrunner Joint book-running manager - Brimco Bookrunner - Wikipedia Joint Bookrunner Role in Financial Markets Explained Clearly What is a Book Running Lead Manager (BRLM)in IPO? - Groww</a></li>
-<li><a href="https://cbonds.com/glossary/greenshoe-option/">Greenshoe Option Explained: IPO’s Unique Share Stabilization Tool</a></li>
+<li><a href="https://nvidia.custhelp.com/app/answers/detail/a_id/2272/~/technical-brief---powermizer-8.0-intelligent-power-management-technology">nvidia .custhelp.com/app/answers/detail/a_id/2272/~/technical-brief...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Graphics_address_remapping_table">Graphics address remapping table - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Intel`, `#semiconductors`, `#foundry`, `#stock-offering`, `#chip-manufacturing`
+**Tags**: `#linux`, `#gpu`, `#nvidia`, `#overclocking`, `#monitoring`
 
 ---
 
 <a id="item-20"></a>
-## [Qualcomm details Snapdragon C specs for $300 laptops for the first time — claims 67% faster performance on battery than Intel N250, AC performance remains a mystery](https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery) ⭐️ 6.5/10
+## [Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company — analysts point to accelerating foundry progress and capex expansion](https://www.tomshardware.com/pc-components/cpus/analysts-see-increasing-foundry-success-conviction-as-intel-ceo-puts-usd12-million-more-of-his-own-money-in-company-analysts-point-to-accelerating-foundry-progress-and-capex-expansion) ⭐️ 6.5/10
 
-Qualcomm reveals Snapdragon C specs for $300 laptops, claiming 67% better battery performance than Intel N250, while AC performance details remain undisclosed.
+Intel's CEO Lip-Bu Tan invested an additional $12 million in company stock as analysts point to growing confidence in Intel's foundry business progress and expanding capital expenditures.
 
-rss · Tom's Hardware · Aug 12, 21:14
+rss · Tom's Hardware · Aug 13, 11:00
 
-**Tags**: `#qualcomm`, `#snapdragon`, `#arm-laptops`, `#intel-competition`, `#mobile-processors`
+**Tags**: `#Intel`, `#semiconductors`, `#foundry`, `#business-news`, `#capex`
 
 ---
