@@ -5,410 +5,363 @@ date: 2026-08-14
 lang: en
 ---
 
-> From 79 items, 20 important content pieces were selected
+> From 84 items, 20 important content pieces were selected
 
 ---
 
-1. [TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029](#item-1) ⭐️ 8.5/10
-2. [Coin-Sized Device Hacks Boeing 737 Flight Management Computer via Wi-Fi](#item-2) ⭐️ 8.5/10
-3. [Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.](#item-3) ⭐️ 8.5/10
-4. [Christopher Domas Releases DRAM Manipulation Tool Bypassing Hardware Security](#item-4) ⭐️ 8.0/10
-5. [PCIe 6.0 SSDs and Controllers Reach Market After Years of Delays](#item-5) ⭐️ 7.5/10
-6. [Google Releases Gemini 3.7 Flash with Scheduled Price Doubling](#item-6) ⭐️ 7.0/10
-7. [Cerebras Claims 7x Speedup for OpenAI Model on HLE Benchmark](#item-7) ⭐️ 7.0/10
-8. [Understanding is the new bottleneck](#item-8) ⭐️ 7.0/10
-9. [DeepSeek Harness developer preview](#item-9) ⭐️ 7.0/10
-10. [Choose Boring Technology (2015)](#item-10) ⭐️ 7.0/10
-11. [How Compaction Works in the Pi Coding Agent](#item-11) ⭐️ 7.0/10
-12. [systemd-journald Bug Causes 49KB+ Disk Writes Per Log Line](#item-12) ⭐️ 7.0/10
-13. [Neuromorphic Computing Needs More Than Novel Chips](#item-13) ⭐️ 7.0/10
-14. [NVIDIA GeForce NOW Officially Launches Native Linux Client](#item-14) ⭐️ 6.5/10
-15. [Qualcomm Unveils Snapdragon C Platform for $300 Arm Laptops, Claims 67% Lead Over Intel N250](#item-15) ⭐️ 6.5/10
-16. [Nightmare Eclipse discloses 'ShieldBreak' Windows zero-day privilege escalation flaw](#item-16) ⭐️ 6.5/10
-17. [NPO Gains Ground as Industry Hedge Against CPO's Growing Pains](#item-17) ⭐️ 6.5/10
-18. [CXMT overtakes Tencent as China's most valuable company at $524 billion valuation](#item-18) ⭐️ 6.5/10
-19. [Musk: xAI to Scale Compute to 10 GW by 2027, Projects $500B Revenue](#item-19) ⭐️ 6.5/10
-20. [Cerebras shares plunge nearly 20% after missing earnings expectations — hardware sales drop but AI cloud revenue climbs 281%](#item-20) ⭐️ 6.5/10
+1. [NVIDIA Secures TSMC A16 Node for Next-Generation "Feynman" GPUs](#item-1) ⭐️ 8.5/10
+2. [TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029](#item-2) ⭐️ 8.5/10
+3. [Just one instruction on AMD's 2015-era CPUs cracks open secret memory areas and gives full hardware-level control — exploit for 15h and 16h chip families gets you access to Platform Security Processor, microcode, and System Management Interface](#item-3) ⭐️ 8.5/10
+4. [GLM-5.3: Frontier coding with emergent cyber capabilities](#item-4) ⭐️ 8.0/10
+5. [Christopher Domas Releases 'skitter' DRAM Exploit Tool for AMD CPUs](#item-5) ⭐️ 8.0/10
+6. [Understanding is the new bottleneck](#item-6) ⭐️ 8.0/10
+7. [Nvidia Jetson Chip Found in Russian Cruise Missile: Ukraine Claims](#item-7) ⭐️ 7.5/10
+8. [ShieldBreak: New Windows Zero-Day Privilege Escalation Vulnerability Disclosed](#item-8) ⭐️ 7.5/10
+9. [Gemini 3.7 Flash](#item-9) ⭐️ 7.0/10
+10. [Dan McKinley's 'Choose Boring Technology' Essay Still Resonates a Decade Later](#item-10) ⭐️ 7.0/10
+11. [ASML’s Path to Lithography Dominance—and the Coming Maskless Revolution](#item-11) ⭐️ 7.0/10
+12. [Intel at a Memory Crossroads: Considering a Return to Memory Chip Manufacturing](#item-12) ⭐️ 7.0/10
+13. [All-Solid-State Batteries (ASSBs) Advance to Pilot Production in 2026](#item-13) ⭐️ 7.0/10
+14. [Epic Games Launcher Coming "Soon" to Linux](#item-14) ⭐️ 6.5/10
+15. [Microsoft Unifies Copilot Features Into a Super App](#item-15) ⭐️ 6.5/10
+16. [US Imposes Up to 100% Tariffs on Foreign-Made Drones, Targeting China](#item-16) ⭐️ 6.5/10
+17. [Intel VP Hallock on Nova Lake and DDR4 Comeback Strategy](#item-17) ⭐️ 6.5/10
+18. [Prusa Research upgrades entire 3D printer lineup to second-generation '+' models for free](#item-18) ⭐️ 6.5/10
+19. [Near-Packaged Optics Gains Ground as Hedge Against CPO's Growing Pains](#item-19) ⭐️ 6.5/10
+20. [Microchip Showcases 160-Lane PCIe Gen6 Switch at FMS 2026](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029](https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029) ⭐️ 8.5/10
+## [NVIDIA Secures TSMC A16 Node for Next-Generation "Feynman" GPUs](https://www.techpowerup.com/351607/nvidia-secures-tsmc-a16-node-for-next-generation-feynman-gpus) ⭐️ 8.5/10
 
-TSMC has achieved 98% yield on its CoWoS-L advanced packaging at 5.5x reticle size, enabling 4,720mm² silicon packages, with a 14x reticle size variant (12,012mm²) planned for 2029 alongside the A14 node.
+NVIDIA is prototyping its post-Rubin 'Feynman' GPU architecture on TSMC's A16 (1.6nm) node with backside power delivery and 3D chiplet packaging, with mass production scheduled for H2 2028.
 
-rss · TechPowerUp News · Aug 13, 15:37
+rss · TechPowerUp News · Aug 14, 09:56
 
-**Tags**: `#TSMC`, `#semiconductor-manufacturing`, `#advanced-packaging`, `#CoWoS`, `#AI-hardware`
+**Tags**: `#NVIDIA`, `#TSMC`, `#semiconductors`, `#GPU architecture`, `#advanced packaging`
 
 ---
 
 <a id="item-2"></a>
-## [Coin-Sized Device Hacks Boeing 737 Flight Management Computer via Wi-Fi](https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi) ⭐️ 8.5/10
+## [TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029](https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029) ⭐️ 8.5/10
 
-Security researchers demonstrated a coin-sized device that exploits a Boeing 737's accessible diagnostic port and in-flight Wi-Fi to remotely inject false data into the Flight Management Computer, potentially altering takeoff weights or diverting the aircraft. This vulnerability exposes a critical attack vector affecting one of the most widely used commercial aircraft in the world, with the physical accessibility of the diagnostic port combined with in-flight Wi-Fi exploitation making it especially concerning for aviation safety, regulators, and aerospace cybersecurity professionals. The device plugs into a diagnostic port in the plane's avionics bay and can easily be hidden behind its protective dust cover, allowing it to override pilot commands. It leverages in-flight Wi-Fi as the remote communication channel, meaning an adversary does not require line-of-sight access once the hardware is planted.
+TSMC has achieved 98% packaging yield on CoWoS-L at 5.5x reticle size (858 mm²), enabling 4,720 mm² silicon integration, with a 14x reticle variant (~12,012 mm²) planned for 2029 alongside the A13 node.
 
-rss · Tom's Hardware · Aug 13, 12:04
+rss · TechPowerUp News · Aug 13, 15:37
 
-**Background**: The Flight Management Computer (FMC), supplied by Smiths Industries (formerly Lear Seigler), was introduced on the Boeing 737 in 1979 and has evolved into a core component of the Flight Management System (FMS), providing automated flight control and navigation from takeoff to rollout. Diagnostic ports in commercial aircraft avionics bays are designed for maintenance and system monitoring, allowing technicians to interface with onboard electronics. In-flight Wi-Fi networks, now common on commercial flights, provide a wireless data path that, if not properly isolated from critical avionics systems, can potentially serve as an entry point for cyberattacks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="http://www.b737.org.uk/fmc.htm">The Boeing 737 Flight Management Computer</a></li>
-<li><a href="https://www.baesystems.com/en-us/definition/what-is-avionics">What is avionics ? | BAE Systems</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#cybersecurity`, `#aviation-security`, `#vulnerability-disclosure`, `#hardware-hacking`, `#Boeing-737`
+**Tags**: `#semiconductors`, `#TSMC`, `#CoWoS`, `#advanced-packaging`, `#AI-hardware`
 
 ---
 
 <a id="item-3"></a>
-## [Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.](https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people) ⭐️ 8.5/10
+## [Just one instruction on AMD's 2015-era CPUs cracks open secret memory areas and gives full hardware-level control — exploit for 15h and 16h chip families gets you access to Platform Security Processor, microcode, and System Management Interface](https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas) ⭐️ 8.5/10
 
-A critical 'Zoomsday' vulnerability in Zoom allows meeting participants to take over other attendees' devices, and was discovered using AI-assisted research with only 20 prompts.
+A newly disclosed exploit targeting AMD's 2015-era 15h and 16h CPU families allows a single instruction to access protected memory areas, exposing the Platform Security Processor, microcode, and System Management Interface to hardware-level control.
 
-rss · Tom's Hardware · Aug 13, 11:20
+rss · Tom's Hardware · Aug 14, 09:33
 
-**Tags**: `#security`, `#vulnerability`, `#zoom`, `#ai-assisted-research`, `#cybersecurity`
+**Tags**: `#security`, `#amd`, `#cpu-vulnerability`, `#hardware-exploit`, `#platform-security`
 
 ---
 
 <a id="item-4"></a>
-## [Christopher Domas Releases DRAM Manipulation Tool Bypassing Hardware Security](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
+## [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) ⭐️ 8.0/10
 
-Security researcher Christopher Domas has released an open-source proof-of-concept tool called 'skitter-creek-bath-salts' that exploits the memory controller architecture of AMD processors by manipulating DRAM address translation registers, effectively scrambling physical address mappings to access protected memory regions. This research exposes a new class of hardware-level vulnerabilities that can bypass security boundaries traditionally enforced at the processor and OS level, with particular implications for embedded systems and gaming consoles (Xbox, PlayStation) where achieving ring-0 access could compromise the entire platform. The tool is currently confirmed to work on AMD Jaguar (AMD16h family, released 2013), with partial notes about Zen 3 having a different memory controller register base address. The technique targets DRAM address scrambling mechanisms, a security feature designed to randomize physical memory layouts, by reconfiguring them to produce predictable or remapped addresses.
+Z.ai releases GLM-5.3, a frontier coding model with emergent cyber capabilities, already scanning OSS at scale and disclosing numerous CVEs, prompting rapid commercial adoption.
 
-hackernews · matt_d · Aug 13, 14:17 · [Discussion](https://news.ycombinator.com/item?id=49286341)
+hackernews · pella · Aug 14, 05:19 · [Discussion](https://news.ycombinator.com/item?id=49294997)
 
-**Background**: DRAM (Dynamic Random-Access Memory) is the primary volatile memory in modern computing systems. Modern processors use memory controllers with address translation and scrambling features to randomize physical memory layouts, making it harder for attackers to reliably access specific memory locations. Ring-0 refers to the highest privilege level in x86 processors, granting unrestricted access to all hardware and memory; achieving ring-0 on locked-down systems like game consoles is the holy grail for hardware hackers because it allows bypassing all software security measures.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.linxi.com.au/news/amd-hardware-vulnerability-exposed-by-dram-address-scrambling-research">AMD DRAM Scrambling Exploit Bypasses Security Fences | Linxi News</a></li>
-<li><a href="https://github.com/xoreaxeaxeax">xoreaxeaxeax (domas) · GitHub</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment is strongly positive, with high anticipation for the Black Hat talk. Commenters praised Domas as an exceptional hacker and communicator, noting his previous talks on reverse engineering and hardware backdoors. Key concerns raised include the limited scope of confirmed affected processors (primarily AMD Jaguar) and uncertainty about applicability to newer CPU families. Users also noted the irony that increasingly complex DRAM subsystems with proprietary firmware have created a massive attack surface, and speculated about implications for console security.
-
-**Tags**: `#security`, `#hardware`, `#DRAM`, `#reverse-engineering`, `#black-hat`
+**Tags**: `#ai-models`, `#cybersecurity`, `#vulnerability-disclosure`, `#code-generation`, `#frontier-ai`
 
 ---
 
 <a id="item-5"></a>
-## [PCIe 6.0 SSDs and Controllers Reach Market After Years of Delays](https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays) ⭐️ 7.5/10
+## [Christopher Domas Releases 'skitter' DRAM Exploit Tool for AMD CPUs](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
 
-After years of delays, PCIe 6.0 SSDs are finally entering the market, with Micron and Samsung already offering drives and merchant controller vendors Marvell, Phison, and Silicon Motion (SMI) preparing next-generation enterprise platforms featuring up to 16 NAND channels and throughput approaching 28–30 TB/s. This milestone marks a major step in storage interconnect evolution, enabling unprecedented throughput for AI, high-performance computing, and large-scale data center workloads. The shift will affect enterprise IT planners, hyperscalers, and hardware integrators evaluating next-generation storage infrastructure roadmaps. The new controller platforms can drive 2 PB-class SSDs and deliver up to 28 TB/s read/write speeds, dramatically outpacing PCIe 5.0 limits. PCIe 6.0 itself doubles the per-lane bandwidth of PCIe 5.0 to 64 GT/s using PAM4 signaling and forward error correction (FEC), but adoption has been slowed by controller and drive readiness.
+Security researcher Christopher Domas has released a proof-of-concept tool called 'skitter-creek-bath-salts' that exploits a vulnerability in AMD's DRAM-controller configuration, allowing attackers to bypass hardware-enforced memory isolation and gain access to protected areas including the Platform Security Processor (PSP), System Management Mode (SMM), and microcode patch RAM with a single instruction on AMD 15h and 16h chip families. This research exposes a significant hardware-level attack surface on AMD processors used in gaming consoles and consumer devices, potentially enabling deep system compromise. If exploited, it could allow attackers to extract firmware secrets, install persistent implants, and break the trust roots that modern CPUs rely on for secure boot and measured computing. The attack works by flipping specific configuration bits in the memory controller to rewrite how physical addresses map onto actual DRAM cells—a process Domas describes as 'spaghettifying' memory. The exploit targets AMD's 16h (Jaguar, 2013) family by default, with partial notes for Zen 3 (different memory controller register base address), but applicability to newer CPU families remains unclear from the documentation.
 
-rss · Tom's Hardware · Aug 13, 09:40
+hackernews · matt_d · Aug 13, 14:17 · [Discussion](https://news.ycombinator.com/item?id=49286341)
 
-**Background**: PCI Express (PCIe) is the standard high-speed serial interconnect used to link CPUs with GPUs, SSDs, NICs, and other peripherals; each new generation typically doubles per-lane bandwidth. PCIe 6.0, finalized by the PCI-SIG, reaches 64 GT/s per lane and introduces PAM4 signaling and FEC to maintain signal integrity at these rates. NVMe (Non-Volatile Memory Express) is the low-latency, parallel protocol designed for SSDs over PCIe, and NVMe-oF extends it across fabrics for datacenter-scale deployments. SSD controllers from Phison (Taiwanese), Marvell, and Silicon Motion act as the bridge between the host PCIe interface and the underlying NAND flash, so their readiness is a gating factor for any new PCIe generation.
+**Background**: Modern CPUs use multiple privilege levels (rings) to isolate sensitive operations from normal software; 'ring 0' provides the highest OS-level access, while negative rings (like SMM and PSP) handle even more privileged functions such as firmware, secure boot, and hardware-level trust. DRAM scrambling is a technique used by memory controllers to remap physical addresses to DRAM cells, originally designed to reduce electrical interference and improve signal integrity. AMD's Platform Security Processor (PSP) is an ARM-based coprocessor embedded in AMD CPUs that handles sensitive operations including the fTPM (firmware TPM) and firmware validation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays">The current state of PCIe 6.0 SSDs and controllers — Marvell, Phison, and SMI prepare controllers as drives finally come to market following years of delays | Tom's Hardware</a></li>
-<li><a href="https://www.rfwireless-world.com/terminology/pcie-5-0-vs-pcie-6-0">PCIe 5.0 vs PCIe 6.0: Key Differences Explained | RF Wireless ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/NVM_Express">NVM Express - Wikipedia</a></li>
+<li><a href="https://github.com/xoreaxeaxeax/skitter-creek-bath-salts">GitHub - xoreaxeaxeax/ skitter -creek-bath-salts: Unlocking _everything...</a></li>
+<li><a href="https://gbhackers.com/new-dram-scrambling-attack-unlocks-amd-cpu-psp-smm/">New DRAM Scrambling Attack Unlocks AMD CPU PSP, SMM and...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas">Just one instruction on AMD's 2015-era CPUs gets... | Tom's Hardware</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#PCIe 6.0`, `#SSD`, `#storage-hardware`, `#NVMe`, `#data-center`
+**Discussion**: Community sentiment is highly enthusiastic, with commenters praising Domas's track record and eagerly anticipating his Black Hat talk, linking his previous research (MoVfuscator, hardware backdoors in x86). Technical commenters raised concerns about the attack's scope on modern CPUs—specifically questioning applicability beyond AMD Jaguar 16h and whether Zen 3+ architectures are also vulnerable. Others noted the implications for gaming console security, observing that achieving ring-0 access on Xbox and PlayStation hardware would expose nearly all system secrets.
+
+**Tags**: `#security`, `#DRAM`, `#hardware-exploitation`, `#Christopher-Domas`, `#Black-Hat`
 
 ---
 
 <a id="item-6"></a>
-## [Google Releases Gemini 3.7 Flash with Scheduled Price Doubling](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 7.0/10
+## [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ⭐️ 8.0/10
 
-Google has released Gemini 3.7 Flash, a new tier of its Gemini model family, with an introductory pricing structure that is scheduled to roughly double on December 31, 2026, before stepping up again on January 1, 2027. The release comes only three weeks after Gemini 3.6 Flash, marking an unusually rapid iteration cadence for the Flash line. The unusually short release cycle (three weeks from 3.6 Flash) and the pre-announced price increase raise questions about pricing stability and developer planning for high-volume, low-cost workloads that the Flash line typically serves. For teams building summarization, parsing, and formatting pipelines, the effective cost trajectory over the next year could materially affect total cost of ownership. Community testing suggests Gemini 3.7 Flash is notably strong in vision-to-code tasks, though Opus 5 still leads in that benchmark. It also shows frontier-level results for its price tier in threejseval coding evaluations, outperforming 3.6 Flash. Per the listed price reference, after the scheduled increases the model is expected to reach $1.50 per million input tokens and $7.50 per million output tokens.
+As LLMs automate code writing, understanding code—its purpose, model, and motivations—becomes the new critical bottleneck in software engineering workflows.
 
-hackernews · thisisauserid · Aug 13, 17:23 · [Discussion](https://news.ycombinator.com/item?id=49289112)
+hackernews · sebg · Aug 13, 18:47 · [Discussion](https://news.ycombinator.com/item?id=49290299)
 
-**Background**: The Gemini Flash line is Google's fast, low-cost variant designed for high-volume, largely text-based workloads such as summarization, parsing, and formatting, while still offering meaningful reasoning capability. Flash models typically compete on a price-to-intelligence frontier rather than absolute capability, with tier upgrades every few months. LLM API pricing is structured per million tokens, with separate rates for input (prompts) and output (model responses), and output tokens are consistently more expensive because each one requires a full forward pass. Scheduled introductory pricing that steps up later is an unusual pattern compared with the more common flat-rate or volume-discount approaches.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://emergent.sh/learn/gemini-3-6-flash-vs-3-1-pro">Gemini 3.6 Flash vs Gemini 3.1 Pro: Benchmarks, Pricing, and Which...</a></li>
-<li><a href="https://artificialanalysis.ai/articles/gemini-3-5-flash-everything-you-need-to-know">Gemini 3.5 Flash : The new leader in intelligence versus speed</a></li>
-<li><a href="https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/">Introducing Gemini 3 Flash : Benchmarks, global availability</a></li>
-<li><a href="https://costgoat.com/compare/llm-api">LLM API Pricing Comparison & Cost Guide (Aug 2026)</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Sentiment is mixed but engaged, with 612 upvotes and 340 comments. Simon Willison criticized the unusual scheduled price doubling and the rapid 3.6-to-3.7 cadence, while jjcm's vision tests showed Gemini 3.7 performing well against Opus 5 despite the price gap. nicolamanzini reported frontier-level results for its price tier on threejseval. Several comments referenced apparently fabricated models (GPT-5.6 Luna, DeepSWE 1.1, Terra), which introduce noise into the discussion and should not be taken as reliable comparisons.
-
-**Tags**: `#Google`, `#Gemini`, `#LLM`, `#AI-models`, `#pricing`
+**Tags**: `#AI`, `#software-engineering`, `#LLMs`, `#code-review`, `#developer-productivity`
 
 ---
 
 <a id="item-7"></a>
-## [Cerebras Claims 7x Speedup for OpenAI Model on HLE Benchmark](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) ⭐️ 7.0/10
+## [Nvidia Jetson Chip Found in Russian Cruise Missile: Ukraine Claims](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech) ⭐️ 7.5/10
 
-Cerebras announced that an OpenAI model, referred to as 'GPT-5.6 Sol,' running on its 'Ultrafast' inference mode completed all 2,500 Humanity's Last Exam (HLE) questions in 11 hours and 11 minutes, compared to 78 hours and 27 minutes for a competing system ('Claude Fable 5'), yielding a claimed ~7× speedup at comparable accuracy. If the speedup holds at equivalent quality, it signals that inference—not just training—is becoming a key competitive battleground in AI, potentially reshaping the economics of the industry as model weights themselves commoditize. It also raises the question of whether faster inference enables qualitatively better reasoning through more iteration within a given time budget. The cited model names 'GPT-5.6 Sol' and 'Claude Fable 5' are not standard, widely-recognized model identifiers, which raises credibility concerns about the blog's headline '7× faster' claim. One commenter (Topfi) noted that neither Cerebras nor OpenAI explicitly confirmed that 'Ultrafast' mode produces outputs equivalent to standard GPT-5.6, which is a critical caveat for evaluating the result.
+Ukrainian intelligence has claimed that Russia's new S-71 'Monochrome' cruise missile incorporates Nvidia Jetson Orin NX AI modules, allegedly used to provide AI-powered terminal guidance for targeting. This revelation raises serious questions about export controls on commercial AI hardware, as the Jetson Orin NX is a widely available developer module sold globally. It highlights the dual-use nature of consumer-grade AI chips and may pressure Nvidia and regulators to tighten restrictions on chip sales to Russia and other sanctioned entities. The Jetson Orin NX delivers up to 100 TOPS of AI performance in a compact SO-DIMM form factor, making it suitable for edge AI applications including robotics and autonomous systems. Terminal guidance refers to the final phase of a missile's flight when it homes in on a target, and AI-based guidance could enable object recognition or autonomous target selection.
 
-hackernews · pr337h4m · Aug 13, 18:10 · [Discussion](https://news.ycombinator.com/item?id=49289844)
+rss · Tom's Hardware · Aug 14, 10:30
 
-**Background**: Cerebras Systems builds wafer-scale AI processors—chips the size of an entire silicon wafer—designed to deliver ultra-fast inference and training by keeping an entire model on a single die and minimizing data movement. Humanity's Last Exam (HLE) is a frontier benchmark of expert-level questions across science, math, and humanities, designed to stress-test state-of-the-art LLMs. The broader context is that the AI industry is shifting focus from pure model capability benchmarks to inference economics, where speed, cost-per-token, and hardware specialization increasingly determine winners.
+**Background**: The Nvidia Jetson platform is a family of compact, low-power computing modules designed for embedded AI applications such as drones, robots, and IoT devices. Cruise missiles are self-propelled guided weapons that fly to a target area and use a guidance system — terminal guidance being the final phase of targeting — to increase hit accuracy. The use of commercial off-the-shelf (COTS) components in military systems is a well-established practice, but the integration of modern AI accelerators like the Jetson Orin NX represents a new escalation in the sophistication of weaponized consumer technology.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cerebras">Cerebras - Wikipedia</a></li>
-<li><a href="https://artificialanalysis.ai/evaluations/humanitys-last-exam">Humanity's Last Exam Benchmark Leaderboard | Artificial Analysis</a></li>
+<li><a href="https://developer.nvidia.com/embedded/jetson-modules">Jetson Modules , Support, Ecosystem, and Lineup | NVIDIA Developer</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Missile">Missile - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The thread features substantive debate. exabrial argues that AI's economic moat will shift from model weights to inference hardware, drawing a parallel to how operating systems became free. csallen makes the insightful point that faster inference may yield better reasoning because human-like quality of thought comes from iteration, not single-pass generation. Topfi raises skepticism, noting the lack of explicit equivalence guarantees between Ultrafast and standard model output—a caveat not addressed in the blog post itself.
-
-**Tags**: `#ai-inference`, `#cerebras`, `#openai`, `#hardware-acceleration`, `#llm-reasoning`
+**Tags**: `#Nvidia`, `#AI-hardware`, `#military-tech`, `#geopolitics`, `#export-controls`
 
 ---
 
 <a id="item-8"></a>
-## [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ⭐️ 7.0/10
+## [ShieldBreak: New Windows Zero-Day Privilege Escalation Vulnerability Disclosed](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched) ⭐️ 7.5/10
 
-As LLMs make code generation easier, understanding and maintaining correct mental models of software systems becomes the primary bottleneck for software engineering.
+Security researcher Nightmare Eclipse disclosed ShieldBreak, a new Windows zero-day privilege escalation vulnerability that exploits a flaw in Microsoft Defender's security engine to escalate a low-level user to full SYSTEM-level access. Microsoft has already deployed a Defender-side mitigation to block the exploit, and security researcher Will Dormann independently verified the reported behavior. The vulnerability is particularly concerning because it ironically requires Microsoft Defender to be enabled for the exploit to function, meaning systems relying on Defender for protection are precisely those most at risk. The disclosure highlights the ongoing cat-and-mouse game between vulnerability researchers and Microsoft's security teams, and security teams should immediately verify their Defender coverage is current. ShieldBreak specifically bypasses Microsoft's July mitigation for CVE-2026-50656, suggesting an evolving vulnerability chain targeting Defender's security engine. The fact that Microsoft was able to push a Defender-side fix quickly indicates the issue was treated as high priority, though the irony of exploiting the very software meant to protect Windows systems remains noteworthy.
 
-hackernews · sebg · Aug 13, 18:47 · [Discussion](https://news.ycombinator.com/item?id=49290299)
+rss · Tom's Hardware · Aug 13, 17:36
 
-**Tags**: `#software-engineering`, `#llm`, `#ai-coding`, `#developer-productivity`, `#mental-models`
+**Background**: A privilege escalation vulnerability allows an attacker who already has some level of access to a system to elevate their privileges to a higher tier, such as gaining SYSTEM-level access on Windows, which is the highest privilege level granting complete control over the operating system. A zero-day vulnerability is one that is exploited before the vendor has had time to release a patch, making it especially dangerous. Microsoft Defender is the built-in antivirus and security software on Windows, and flaws within it are ironic since it is designed to protect against exactly these kinds of attacks.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.varindia.com/news/shieldbreak-vulnerability-in-microsoft-defender-may-enable-full-system-access">ShieldBreak Vulnerability in Microsoft Defender May Enable Full</a></li>
+<li><a href="https://en.cryptonomist.ch/2026/08/12/windows-security-vulnerability-shieldbreak/">Windows Security Vulnerability Exposes ShieldBreak Exploit</a></li>
+<li><a href="https://windowsreport.com/shieldbreak-zero-day-grants-system-access-on-fully-patched-windows/">ShieldBreak Zero-Day Grants SYSTEM Access on Fully Patched...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#windows`, `#zero-day`, `#privilege-escalation`, `#vulnerability-disclosure`
 
 ---
 
 <a id="item-9"></a>
-## [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) ⭐️ 7.0/10
+## [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 7.0/10
 
-DeepSeek releases an open-source developer preview of their agent harness framework featuring full session traceability, built on Cordis v4 plugin architecture.
+Google announces Gemini 3.7 Flash with new pricing structure, prompting community discussion about model versioning cadence, pricing sustainability, and practical performance comparisons against competitors.
 
-hackernews · bjin · Aug 13, 12:58 · [Discussion](https://news.ycombinator.com/item?id=49285244)
+hackernews · thisisauserid · Aug 13, 17:23 · [Discussion](https://news.ycombinator.com/item?id=49289112)
 
-**Tags**: `#deepseek`, `#ai-agents`, `#open-source`, `#llm-framework`, `#plugin-architecture`
+**Tags**: `#AI`, `#LLM`, `#Google`, `#Gemini`, `#model-release`
 
 ---
 
 <a id="item-10"></a>
-## [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) ⭐️ 7.0/10
+## [Dan McKinley's 'Choose Boring Technology' Essay Still Resonates a Decade Later](https://mcfunley.com/choose-boring-technology) ⭐️ 7.0/10
 
-A 2015 essay advocating for choosing 'boring' technology in most cases, resurfaced with modern discussion around applying its 'innovation tokens' framework to AI agent architectures.
+Dan McKinley's classic 2015 essay advocating for the use of boring, proven technologies in software engineering has been re-shared and generated 392 points with 217 comments on Hacker News. The post re-introduces his influential 'innovation tokens' framework, which has become a widely adopted mental model for technology selection. The essay provides a powerful framework for engineering teams and leaders to make deliberate tradeoffs about when to adopt new tools versus proven solutions. The concept helps prevent technology choices from becoming ends in themselves, and remains highly relevant as organizations continue to grapple with the hype around new architectures like microservices and Kubernetes. The central metaphor proposes that every team has roughly three 'innovation tokens' to spend—choosing boring technologies is essentially 'free,' but each adoption of new, risky tech costs a token that should ideally be spent on areas that differentiate the product. The essay was originally published on March 30, 2015, drawing from McKinley's six years of experience as an engineer at Etsy.
 
 hackernews · tosh · Aug 13, 17:48 · [Discussion](https://news.ycombinator.com/item?id=49289512)
 
-**Tags**: `#software-engineering`, `#technology-selection`, `#engineering-culture`, `#ai-agents`, `#pragmatism`
+**Background**: Dan McKinley is a software engineer best known for his time at Etsy, where he observed how a highly productive engineering team often succeeded by limiting technology churn. The 'innovation tokens' concept works as a budget metaphor: when evaluating any new technology (database, language, framework), teams must weigh whether the innovation is worth spending a scarce token on. The essay was written during the height of the microservices hype, when many teams were adopting new architectures without clear justification, and it pushed back against treating 'new' as inherently 'better.'
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mcfunley.com/choose-boring-technology">Dan McKinley :: Choose Boring Technology</a></li>
+<li><a href="https://boringtechnology.club/?ref=alexandre.storelli.fr">Choose Boring Technology</a></li>
+<li><a href="https://jonathannen.com/choose-boring-technology/">Dan McKinley 's classic advice on " choosing boring technology " is....</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters overwhelmingly endorsed the innovation tokens concept, with one PM/engineering leader calling it 'one of the most useful concepts' in their career for both making and explaining tradeoffs. Concrete examples were shared: one engineer described running two bare-metal Linux servers with Postgres, HAProxy, and PHP to achieve 99.99% uptime for most business needs, while another noted how they ported an R script to LINQPad because nobody on the team had R experience, illustrating the 'optimize globally' principle. Several commenters observed that despite the essay's age, it remains relevant because newer, less experienced engineers continue to be lured into chasing fashionable architectures.
+
+**Tags**: `#software-engineering`, `#technology-selection`, `#engineering-management`, `#architecture`, `#best-practices`
 
 ---
 
 <a id="item-11"></a>
-## [How Compaction Works in the Pi Coding Agent](https://earendil.com/posts/compaction-in-pi/) ⭐️ 7.0/10
+## [ASML’s Path to Lithography Dominance—and the Coming Maskless Revolution](https://semiwiki.com/lithography/372177-asmls-path-to-lithography-dominance-and-the-coming-maskless-revolution/) ⭐️ 7.0/10
 
-A detailed technical post explains how the Pi coding agent performs conversation history compaction, summarizing older content while preserving recent work to keep interactions within model context limits. The article covers both auto-compaction and branch summarization mechanisms in Pi's architecture. Context management is a critical bottleneck for long-running AI coding agents, and compaction is the most widely deployed solution today. Understanding how specific tools implement compaction — and what alternatives like pruning offer — directly impacts developers building agent systems that must operate over extended sessions. Compaction trades raw conversation history for summarized representations, which can cause the LLM to miss original intent. Alternatives discussed include pruning (removing low-value messages without summarization), dual-KV-cache streaming compaction, progressive compaction with pointer replacement, and image-based context encoding (as reportedly done by OMP).
+Analysis of ASML's four-decade rise to lithography dominance through systems engineering and strategic bets, with forward-looking discussion of emerging maskless lithography technologies.
 
-hackernews · tosh · Aug 13, 17:57 · [Discussion](https://news.ycombinator.com/item?id=49289654)
+rss · SemiWiki · Aug 14, 13:00
 
-**Background**: LLMs have fixed context windows, so coding agents that operate over long sessions must manage conversation length. Compaction summarizes old messages to free up context space, while pruning removes low-value messages entirely. KV (key-value) cache is the memory mechanism transformers use to store attention computations; its size scales linearly with context length, making cache management a major cost factor. Prompt caching, where providers cache repeated prompt prefixes to reduce cost, constrains how aggressively an agent can restructure its context.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://earendil.com/posts/compaction-in-pi/">How Compaction Works in Pi | EARENDIL</a></li>
-<li><a href="https://pi.dev/docs/latest/compaction">Compaction & Branch Summarization · Documentation · Pi</a></li>
-<li><a href="https://atlan.com/know/ai-agent/ai-agent-context/how-to-implement-context-pruning-ai-agents/">Context Pruning for AI Agents: Methods and Implementation [2026]</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The 39-comment thread shows practitioners broadly dissatisfied with current compaction approaches. Key viewpoints include: kierangill prefers pruning to preserve conversation fidelity; novaRom describes a dual-KV-cache technique that summarizes during tool execution time; skeledrew notes that prompt caching discourages creative progressive compaction because restructuring breaks cache hits; damsta wants fine-grained control over which messages get summarized; and jakswa highlights OMP's experimental image-based compaction that bypasses traditional summarization entirely.
-
-**Tags**: `#ai-agents`, `#context-management`, `#compaction`, `#llm-infrastructure`, `#coding-assistants`
+**Tags**: `#semiconductors`, `#lithography`, `#ASML`, `#manufacturing`, `#industry-analysis`
 
 ---
 
 <a id="item-12"></a>
-## [systemd-journald Bug Causes 49KB+ Disk Writes Per Log Line](https://github.com/systemd/systemd/issues/40262) ⭐️ 7.0/10
+## [Intel at a Memory Crossroads: Considering a Return to Memory Chip Manufacturing](https://www.eetimes.com/intel-at-a-memory-crossroads-again/) ⭐️ 7.0/10
 
-A bug report on GitHub (issue #40262) reveals that systemd-journald triggers excessive disk writes for a single log entry — over 49KB on ext4 filesystems and over 110KB on btrfs filesystems — due to a design issue in how journal entries are written to disk. systemd-journald is the default logging daemon on virtually all modern Linux distributions, so this write amplification affects SSD endurance, storage consumption, and system performance across millions of machines. The issue also highlights systemic design problems with journald's filtering and inability to suppress chatty applications, which can silently degrade any Linux system. The dramatic difference between ext4 (49KB+) and btrfs (110KB+) stems from btrfs's copy-on-write architecture: because every write creates new copies of changed data blocks, a journal entry that triggers metadata updates results in substantially more physical writes than on ext4's journaling-based approach. The journal file format uses an append-only, mmap()-based design inspired by git repositories, which makes each write inherently expensive.
+Intel CEO Lip-Bu Tan has hinted at a potential return to the memory chip business, citing that new memory architectures—once considered a commodity market—are now strategically interesting, particularly in the context of AI-driven demand. He also hinted at innovations involving stacking memory and CPU together. This signals a major strategic shift for Intel, which has historically been a CPU specialist and exited the memory market years ago. If Intel re-enters, it could disrupt the current oligopoly dominated by SK Hynix, Samsung, and Micron, while also addressing the AI-driven memory supply crunch that has made HBM a critical resource. Intel previously attempted returns to memory via NAND and Optane products, and also explored RDRAM technology. Meanwhile, SK Hynix is investing $720 billion to triple memory fab capacity by 2034, underscoring how fierce the competition has become in the AI memory space.
 
-hackernews · ValdikSS · Aug 13, 18:41 · [Discussion](https://news.ycombinator.com/item?id=49290215)
+rss · EE Times · Aug 14, 13:01
 
-**Background**: systemd-journald is the logging component of the systemd init system, storing log data in a structured binary format rather than plain text. It uses an append-only file design with mmap() for atomic, crash-resistant writes. ext4 is the most common Linux filesystem, using a traditional journaling approach for metadata consistency, while btrfs is a modern copy-on-write filesystem that provides snapshots and data integrity checksums at the cost of higher write amplification. Write amplification matters particularly for SSDs, which have finite write endurance.
+**Background**: Intel was historically a player in the memory business before exiting it, leaving the DRAM market dominated by three companies: Samsung, SK Hynix, and Micron. High Bandwidth Memory (HBM) is a 3D-stacked SDRAM technology that delivers faster data access with lower energy consumption—critical for AI workloads that require massive parallel processing. The AI boom has transformed memory from a low-margin commodity into a strategic resource, with the three major suppliers concentrating capacity on high-margin HBM and server DRAM, causing supply tightness in commodity DRAM segments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wiki.archlinux.org/title/Systemd/Journal">systemd /Journal - ArchWiki</a></li>
-<li><a href="https://www.linuxfordevices.com/tutorials/linux/ext4-vs-btrfs-filesystem">Ext 4 vs Btrfs Filesystems - Which one should you... - LinuxForDevices</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu">Intel CEO hints at return to the memory business — says market is...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://economy.ac/news/2026/08/202608289721">“Alternative Amid Memory Supply Crunch” CXMT... | The Economy</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community commenters are largely critical of journald's overall design, not just this specific bug. Users complain about the inability to effectively filter logs by subsystem or identifier, the lack of control over chatty applications (e.g., kio logging tens of thousands of entries from file pickers), and the suggestion that journald is better used only as a log router forwarding to rsyslog rather than as a primary store. One commenter noted that the current behavior contradicts the original design intent of the journal database format.
-
-**Tags**: `#systemd`, `#journald`, `#linux`, `#debugging`, `#system-administration`
+**Tags**: `#Intel`, `#semiconductors`, `#memory-chips`, `#AI-infrastructure`, `#industry-strategy`
 
 ---
 
 <a id="item-13"></a>
-## [Neuromorphic Computing Needs More Than Novel Chips](https://www.eetimes.com/neuromorphic-computing-needs-more-than-novel-chips/) ⭐️ 7.0/10
+## [All-Solid-State Batteries (ASSBs) Advance to Pilot Production in 2026](https://www.electronicsweekly.com/news/business/solid-state-auto-batteries-2026-08/) ⭐️ 7.0/10
 
-Katie Schuman argues in EE Times that the neuromorphic computing field must invest in its software stack, compilers, tooling, and shared hardware infrastructure—alongside developing novel chips—to transition from research to practical deployment. This perspective highlights a systemic bottleneck for an emerging computing paradigm; without robust software ecosystems and shared infrastructure, neuromorphic hardware risks remaining confined to academic labs regardless of its underlying technical promise. The piece specifically calls for HPC engineers, mature compilers, and shared hardware access as critical missing pieces, a concern mirrored by dedicated forums such as the MCSI neurocore track on neuromorphic software stacks, compilers, and programming models.
+According to TrendForce, the Technology Readiness Levels (TRLs) of all-solid-state batteries (ASSBs) have advanced significantly in 2026, with Toyota, Honda, Nissan, and Samsung leading pilot line production efforts alongside Japanese suppliers. This milestone signals that solid-state battery technology is moving from laboratory research toward near-term commercialization, which could reshape EV safety, energy density, range, and the competitive landscape of the global automotive battery supply chain. Pilot production is an intermediate stage that bridges R&D and mass manufacturing, typically used to validate manufacturing processes, yield rates, and cost models before full-scale commercialization; ASSBs replace the flammable liquid electrolyte in conventional lithium-ion cells with a solid electrolyte (polymer, oxide, or sulphide), often paired with a lithium metal anode.
 
-rss · EE Times · Aug 13, 13:00
+rss · Electronics Weekly · Aug 14, 05:08
 
-**Background**: Neuromorphic computing is a brain-inspired approach that uses artificial spiking neurons to perform computations, aiming for greater energy efficiency and adaptability than traditional von Neumann architectures. While novel neuromorphic chips have been produced by several research labs and companies, the surrounding ecosystem—including software frameworks, compilers that translate mainstream code onto spiking hardware, and shared infrastructure for benchmarking—remains immature compared to established computing platforms like GPUs. Katie Schuman is a well-known researcher in the field, having previously worked at Oak Ridge National Laboratory and contributed to neuromorphic computing research and education.
+**Background**: All-solid-state batteries (ASSBs) are widely seen as the next-generation successor to conventional lithium-ion cells, promising higher energy density, improved safety, and longer service life by eliminating flammable liquid electrolytes. The Technology Readiness Level (TRL) framework, originally developed by NASA in the 1970s and later adopted by agencies such as the U.S. Air Force, the European Union, and the UK, provides a systematic scale—typically 1 through 9—to evaluate how mature a technology is, from basic concept to full deployment. Pilot production generally corresponds to mid-range TRLs, sitting between laboratory validation and commercial-scale manufacturing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuromorphic_computing">Neuromorphic computing</a></li>
-<li><a href="https://mcsoc-forum.org/site/index.php/neurocore-t12/">Neuromorphic Software Stacks, Compilers, and Programming ...</a></li>
-<li><a href="https://open-neuromorphic.org/neuromorphic-computing/software/">Neuromorphic Software Guide</a></li>
+<li><a href="https://www.crugroup.com/en/communities/thought-leadership/2025/from-smartphones-to-flying-taxis-the-coming-age-of-all-solid-state-batteries/">Unlocking a new era with all - solid - state batteries - CRU Group</a></li>
+<li><a href="https://www.solidenergies.com/what-is-assb">What is ASSB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Technology_readiness_level">Technology readiness level - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#neuromorphic-computing`, `#HPC`, `#compilers`, `#emerging-hardware`, `#ecosystem`
+**Tags**: `#solid-state-batteries`, `#ASSB`, `#automotive`, `#EV`, `#battery-technology`
 
 ---
 
 <a id="item-14"></a>
-## [NVIDIA GeForce NOW Officially Launches Native Linux Client](https://www.techpowerup.com/351585/nvidia-geforce-now-for-linux-officially-arrives) ⭐️ 6.5/10
+## [Epic Games Launcher Coming "Soon" to Linux](https://www.techpowerup.com/351601/epic-games-launcher-coming-soon-to-linux) ⭐️ 6.5/10
 
-NVIDIA has released the official native Linux client for its GeForce NOW cloud gaming service, exiting beta with global availability. The client officially supports Ubuntu 24.04 LTS and later, and is also distributed through a Flatpak repository. This is a significant milestone for Linux gaming, giving Linux users a first-party, officially supported way to stream high-end PC games from the cloud without needing Windows. It signals NVIDIA's growing investment in the Linux ecosystem and broadens the addressable market for GeForce NOW. The Linux app is optimized so that DLSS 4.5 Frame Generation feels more responsive with reduced latency, and Performance-tier members benefit from server-side CPU performance improvements. These upgrades are most noticeable at 120 FPS or 4K rendering, and all changes are server-side, requiring no client update.
+Epic Games is reportedly preparing to launch a native Linux version of its game launcher, signaling broader Linux gaming expansion tied to Easy Anti-Cheat support improvements.
 
-rss · TechPowerUp News · Aug 13, 15:52
+rss · TechPowerUp News · Aug 14, 05:07
 
-**Background**: GeForce NOW is NVIDIA's cloud gaming service that streams games from remote servers equipped with powerful GPUs to users' devices, allowing them to play titles they already own from stores like Steam, Ubisoft Connect, or Epic Games. DLSS 4.5 is NVIDIA's latest AI-driven upscaling and frame generation technology, introduced at CES 2026, which can dynamically generate up to five additional frames per traditionally rendered frame on RTX 50 Series GPUs. Flatpak is a cross-distribution Linux package management framework that lets developers distribute a single app bundle that runs in a sandbox across many Linux distributions without dependency issues.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/GeForce_Now">GeForce Now - Wikipedia</a></li>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-gen-6x-2nd-gen-transformer-super-res/">NVIDIA DLSS 4.5 Delivers Major Upgrade With 2nd Gen ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Flatpak">Flatpak - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#nvidia`, `#linux`, `#gaming`, `#cloud-gaming`, `#geforce-now`
+**Tags**: `#linux`, `#gaming`, `#epic-games`, `#steam-deck`, `#platform-support`
 
 ---
 
 <a id="item-15"></a>
-## [Qualcomm Unveils Snapdragon C Platform for $300 Arm Laptops, Claims 67% Lead Over Intel N250](https://www.techpowerup.com/351578/qualcomm-introduces-usd-300-laptops-with-snapdragon-c-outruns-intel-n250-by-up-to-67) ⭐️ 6.5/10
+## [Microsoft Unifies Copilot Features Into a Super App](https://www.techpowerup.com/351589/microsoft-unifies-copilot-features-into-a-super-app) ⭐️ 6.5/10
 
-Qualcomm has revealed detailed specifications of its entry-level Snapdragon C SoC, an Arm-based platform with up to 8 Kryo cores (3.0 GHz single-core / 2.0 GHz multicore), an Adreno A643 GPU at 900 MHz, a Hexagon NPU, and support for up to 16 GB of LPDDR4x/LPDDR5/LPDDR5x memory, targeting Windows laptops priced around $300. The company claims Snapdragon C outperforms Intel's N250 'Twin Lake' chip by 24–67% depending on the workload, with efficiency gains of up to 106% during Netflix playback. This is Qualcomm's most aggressive move yet into the budget laptop segment that has been almost entirely dominated by x86 chips from Intel and AMD, and the inclusion of an NPU at a $300 price point could democratize on-device AI for students and everyday users. If the performance and battery-life claims hold up in independent testing, it could meaningfully reshape the entry-level Windows PC market, especially in regions where Apple has already targeted budget buyers with devices like the rumored MacBook Neo. Snapdragon C supports LPDDR4x, which is cheaper than LPDDR5/5x and helps make the $300 target feasible, alongside PCIe 3.0 NVMe and UFS 2.2/3.1 storage. Qualcomm's performance comparisons are all based on battery-powered operation; AC-performance numbers have not yet been disclosed, and the 67% claim specifically comes from Cinebench multithreaded results — broader benchmark and real-world validation is still pending.
+Microsoft is consolidating its various Copilot features and integrations into a single unified 'super app,' retiring some features like Deep Research, Podcasts, and Group Chat while bringing Office 365 access under one roof.
 
-rss · TechPowerUp News · Aug 13, 12:15
+rss · TechPowerUp News · Aug 13, 17:39
 
-**Background**: Snapdragon C is Qualcomm's entry-tier Arm-based PC platform for Windows laptops, sitting below its higher-performance Snapdragon X Elite and X Plus lines that target premium AI PCs. The Kryo CPU architecture is Qualcomm's semi-custom Arm core design, originally derived from ARM's Cortex-A series and used across its Snapdragon mobile and compute SoCs. The Hexagon NPU is Qualcomm's dedicated neural processing unit for accelerating on-device AI inference at low power, and integrating it into a $300 chip is a notable departure from the industry norm of reserving NPUs for premium laptops. The Intel N250 'Twin Lake' is an entry-level Intel chip featuring only efficiency (E) cores, commonly found in sub-$400 laptops and mini-PCs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery">Qualcomm details Snapdragon C specs for $300... | Tom's Hardware</a></li>
-<li><a href="https://wccftech.com/qualcomm-aims-snapdragon-c-at-300-usd-laptops-up-to-16-gb-memory-8-cores-all-day-battery/">Qualcomm Aims Snapdragon C At $300 Laptops With Up To 16 GB...</a></li>
-<li><a href="https://www.qualcomm.com/processors/hexagon">Qualcomm Hexagon NPU | Snapdragon NPU Details</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#qualcomm`, `#snapdragon`, `#arm`, `#budget-laptops`, `#mobile-pc`
+**Tags**: `#Microsoft`, `#Copilot`, `#AI`, `#product-strategy`, `#software-consolidation`
 
 ---
 
 <a id="item-16"></a>
-## [Nightmare Eclipse discloses 'ShieldBreak' Windows zero-day privilege escalation flaw](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched) ⭐️ 6.5/10
+## [US Imposes Up to 100% Tariffs on Foreign-Made Drones, Targeting China](https://www.tomshardware.com/tech-industry/drones/us-imposes-up-to-100-percent-tariffs-on-foreign-made-drones-and-components-china-remains-primary-target-as-washington-moves-to-reduce-reliance-on-overseas-suppliers) ⭐️ 6.5/10
 
-A threat actor or researcher known as 'Nightmare Eclipse' has publicly disclosed a new Windows zero-day vulnerability called 'ShieldBreak' that allows attackers to escalate privileges to system-level access. Microsoft has responded rapidly by pushing a mitigation through Microsoft Defender to block exploitation. Privilege escalation vulnerabilities are critical components in attack chains, allowing attackers who already have a foothold on a system to gain full control. This matters to Windows administrators, security teams, and end users because unpatched zero-days can be weaponized by ransomware operators and advanced persistent threat groups. The vulnerability grants SYSTEM-level privileges, the highest access level on Windows, making it particularly dangerous. Microsoft's swift deployment of a Defender-side mitigation — rather than waiting for a full OS patch — reflects an increasingly common approach of using endpoint security products to shield users before a formal fix ships.
+The Trump administration has imposed tariffs of up to 100% on foreign-made drones and their components, with China identified as the primary target. The move is justified on national security grounds and aims to reduce US dependence on overseas drone suppliers. These steep tariffs could significantly reshape the global drone industry by making Chinese-made drones and components far more expensive in the US market, potentially benefiting domestic manufacturers such as Skydio. Hardware startups, component suppliers, and commercial drone operators that rely on Chinese supply chains will face major cost disruptions and may need to rapidly redesign or reshore their products. The 100% tariff rate is exceptionally high and applies not only to complete drones but also to individual components, meaning even partially Chinese-sourced products could be affected. The policy framework resembles Section 232 national security tariffs previously used on steel and aluminum, signaling a broad trade-policy tool rather than a narrowly targeted restriction.
 
-rss · Tom's Hardware · Aug 13, 17:36
+rss · Tom's Hardware · Aug 14, 11:53
 
-**Background**: A zero-day vulnerability is a security flaw unknown to the software vendor, giving defenders 'zero days' to prepare before exploitation. Privilege escalation vulnerabilities specifically allow attackers to move from a limited user account to higher permissions, such as Administrator or SYSTEM, on a Windows machine. These flaws are typically chained with other exploits (like phishing or remote code execution) to fully compromise a system, and they are highly valued by both cybersecurity researchers and cybercriminals.
+**Background**: The US drone market has long been dominated by Chinese manufacturers, particularly DJI, which holds an estimated majority share of the global commercial drone market. US lawmakers and intelligence officials have raised concerns for years about Chinese-made drones potentially transmitting sensitive geospatial and visual data back to China. Previous administrations had already placed certain Chinese drone companies on restricted entity lists, and Congress passed the American Security Drone Act to limit federal use of Chinese drones. This new tariff action represents an escalation from entity-specific restrictions to broad economic pressure across the entire foreign drone supply chain.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Zero-day_vulnerability">Zero-day vulnerability - Wikipedia</a></li>
-<li><a href="https://hackerdna.com/blog/windows-privilege-escalation">Windows Privilege Escalation: Techniques Guide (2026)</a></li>
-<li><a href="https://www.paloaltonetworks.com/cyberpedia/zero-day-attacks-explained-risks-examples-prevention">What Is a Zero-Day Attack? Risks, Examples, and Prevention</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#cybersecurity`, `#windows`, `#zero-day`, `#vulnerability`, `#privilege-escalation`
+**Tags**: `#drones`, `#tariffs`, `#trade-policy`, `#supply-chain`, `#china-us-relations`
 
 ---
 
 <a id="item-17"></a>
-## [NPO Gains Ground as Industry Hedge Against CPO's Growing Pains](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains) ⭐️ 6.5/10
+## [Intel VP Hallock on Nova Lake and DDR4 Comeback Strategy](https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript) ⭐️ 6.5/10
 
-Analysts report that near-packaged optics (NPO) is strengthening its position as an interim solution while co-packaged optics (CPO) continues to face technical and manufacturing challenges. The expected volume ramp for NPO silicon photonics products is now projected to extend through the end of the decade. This trend matters because AI workloads are pushing data center interconnect bandwidth and energy efficiency to their limits, and the architectural choice between NPO and CPO will shape how hyperscalers and chipmakers build next-generation AI infrastructure. The shift signals a pragmatic hedging strategy: companies are deploying NPO now rather than waiting for CPO's unsolved thermal, yield, and standards issues to mature. In NPO architectures, the optical engine is moved off the switch ASIC but remains within a few centimeters on the same board, typically using socketed or surface-mount interfaces on the system motherboard. This places NPO on a spectrum between traditional pluggable transceivers (LPO) and fully integrated CPO, offering higher density than pluggables without CPO's tight thermal and packaging constraints.
+In a 1:1 interview with Tom's Hardware, Intel VP and GM of Enthusiast Channel Business Robert Hallock discussed expectations for the upcoming Nova Lake architecture, revealed a strategy shift toward DIY builders during the ongoing memory pricing crisis, and teased a return to Raptor Lake-based CPUs for DDR4 platforms. Hallock also credited the Raptor Lake refresh with triggering a strategic paradigm shift inside Intel. This interview offers rare forward-looking commentary from a senior Intel executive on the company's next-generation desktop CPU strategy at a time when high memory prices are dampening PC-building enthusiasm. The decision to revive Raptor Lake for DDR4 users signals Intel's pragmatism in addressing current market pain points rather than pushing all customers to costly DDR5 platforms. Nova Lake is positioned as Core Ultra Series 4 desktop and mobile processors and is expected to launch in late 2026 using a new LGA 1954 socket, with a redesigned P-core and E-core layout rather than a straightforward refresh of the prior generation. Hallock's mention of bringing Raptor Lake back specifically targets DDR4 platforms, which remain widely deployed and unaffected by the current DDR5-driven 'RAMageddon' pricing surge.
 
-rss · Tom's Hardware · Aug 13, 16:52
+rss · Tom's Hardware · Aug 14, 11:00
 
-**Background**: Optical interconnects replace traditional copper links between chips and switches, using silicon photonics to convert electrical signals into light for higher bandwidth and lower power at long distances. Pluggable optics modules sit on the front panel of a switch and can be swapped, but they consume significant power and limit density as speeds scale to 800G and 1.6T. Co-packaged optics (CPO) aims to place the optical engine directly onto the switch ASIC package, dramatically reducing electrical trace length and power, but faces challenges in thermal management, manufacturing yield, and ecosystem standardization. Near-packaged optics (NPO) emerges as a middle ground, keeping the optical engine close to but separate from the ASIC.
+**Background**: Nova Lake is Intel's next-generation desktop CPU family, succeeding Arrow Lake and expected to introduce a fresh P-core/E-core design on a new LGA 1954 socket, making it incompatible with existing LGA 1851 motherboards. 'RAMageddon' refers to the 2025-2026 memory pricing crisis driven largely by AI-related demand for HBM and DRAM, which has inflated consumer DDR5 prices and pushed some PC builders toward DDR4 alternatives. Raptor Lake, the codename for 13th-generation Intel Core processors built on the Intel 7 process, used LGA 1700 and supported both DDR4 and DDR5, which is why Intel can revive it as a lower-cost DDR4 option during the current memory squeeze.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://resources.l-p.com/glossary/what-is-near-packaged-optics-benefits-network-upgrades">Beyond Pluggables: What is NPO (Near-Packaged Optics) and Why ...</a></li>
-<li><a href="https://resources.l-p.com/knowledge-center/npo-vs-cpo-optics-placement-speed-efficiency-data-center">NPO vs CPO: Decoding the Future of Optical Networking</a></li>
-<li><a href="https://www.naddod.com/blog/optical-interconnect-technology-analysis-lpo-npo-cpo">Optical Interconnect Technology Analysis: LPO, NPO, CPO</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nova_Lake_(microprocessor)">Nova Lake (microprocessor) - Wikipedia</a></li>
+<li><a href="https://www.techradar.com/pro/why-is-ram-so-expensive-right-now-its-more-complicated-than-you-think">DRAM shortages, AI demand, and rising prices : what... | TechRadar</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#silicon-photonics`, `#AI-infrastructure`, `#data-center`, `#optical-interconnects`, `#hardware-trends`
+**Tags**: `#Intel`, `#Nova Lake`, `#CPU`, `#DDR4`, `#hardware`
 
 ---
 
 <a id="item-18"></a>
-## [CXMT overtakes Tencent as China's most valuable company at $524 billion valuation](https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo) ⭐️ 6.5/10
+## [Prusa Research upgrades entire 3D printer lineup to second-generation '+' models for free](https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free) ⭐️ 6.5/10
 
-ChangXin Memory Technologies (CXMT) overtook Tencent to become China's most valuable company just 17 days after its initial public offering, reaching a market valuation of approximately $524 billion. This milestone signals the enormous market confidence in China's domestic semiconductor industry, particularly in DRAM memory—a sector long dominated by Samsung, SK Hynix, and Micron. The rapid ascent of CXMT underscores how memory chips have become strategic assets amid the global AI boom and tightening US-led export controls on advanced chip technology to China. CXMT, founded in 2016 and headquartered in Hefei, Anhui, specializes in DRAM chips used in mobile phones, PCs, tablets, and servers. Despite being a relative newcomer in DRAM, its valuation now exceeds that of Tencent, a long-dominant Chinese tech giant, reflecting investor bets on China's push for semiconductor self-sufficiency amid the AI-driven memory supercycle.
+Prusa Research announced that its entire 3D printer lineup, including the XL, CORE One, and CORE One L, is receiving second-generation upgrades with a new '+' designation. All new orders will automatically receive the updated '+' models at no additional cost. This is a significant move by one of the most respected names in the desktop 3D printing industry, as it ensures new buyers receive the latest hardware without paying a premium during a transition period. The consumer-friendly policy also reflects competitive pressure in the 3D printer market, where manufacturers are racing to deliver better speed, reliability, and material compatibility. The upgraded models will carry a '+' suffix to distinguish them from previous generations, following a naming convention similar to the MINI+. Specific technical improvements for each model were not detailed in the announcement, but the CORE One+'s known strengths include a high-speed CoreXY architecture and an enclosed design capable of printing engineering-grade materials like PLA, PETG, ABS, ASA, PC, and Nylon.
 
-rss · Tom's Hardware · Aug 13, 13:27
+rss · Tom's Hardware · Aug 13, 20:35
 
-**Background**: DRAM (Dynamic Random-Access Memory) is a type of volatile memory used as main memory in virtually all computing devices, from smartphones to data center servers. The global DRAM market has historically been an oligopoly controlled by three companies—Samsung, SK Hynix, and Micron—all based outside China. CXMT, established in 2016 in Hefei, is China's flagship attempt to break into this strategic market and reduce reliance on foreign memory suppliers. The company's rapid rise to a $524 billion valuation just 17 days after its IPO suggests investors view domestic Chinese DRAM capacity as essential to the country's technology sovereignty and AI infrastructure ambitions.
+**Background**: Prusa Research, founded by Josef Průša in the Czech Republic, is one of the leading desktop FDM (Fused Deposition Modeling) 3D printer manufacturers, known for open-source designs and reliable machines. Its product lineup as of 2025 includes the MK4S, MINI+, XL, and CORE One, with the XL being a premium multi-tool printer featuring up to 5 tool heads for multi-color and multi-material printing, while the CORE One is a high-speed enclosed CoreXY printer. The company also develops PrusaSlicer, an open-source slicing software widely used across the 3D printing community.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
-<li><a href="https://electronics.alibaba.com/buyingguides/chinese-ram-manufacturers-who-matters-in-2026">Chinese RAM Manufacturers Guide: What to Know Before Buying</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prusa_Research">Prusa Research - Wikipedia</a></li>
+<li><a href="https://www.prusa3d.com/">Original Prusa 3 D printers directly from Josef Prusa</a></li>
+<li><a href="https://www.dynamism.com/brands/prusa/prusa-core-one-plus-kit.html">Prusa CORE One + Kit | Dynamism</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#memory-chips`, `#china-tech`, `#ipo`, `#market-news`
+**Tags**: `#3d-printing`, `#prusa-research`, `#hardware-updates`, `#consumer-electronics`, `#product-announcement`
 
 ---
 
 <a id="item-19"></a>
-## [Musk: xAI to Scale Compute to 10 GW by 2027, Projects $500B Revenue](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-increase-data-center-capacity-7x-by-2027-targeting-10-gigawatts-of-compute-up-to-usd500-billion-in-revenue-by-the-end-of-next-year) ⭐️ 6.5/10
+## [Near-Packaged Optics Gains Ground as Hedge Against CPO's Growing Pains](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains) ⭐️ 6.5/10
 
-Elon Musk stated that xAI will expand its nameplate power draw to 10 gigawatts by late 2027, a roughly 7x increase from current capacity, and projected up to $500 billion in revenue by the end of next year (2026). The 10 GW target would give xAI compute power orders of magnitude beyond what is currently available for AI workloads. 10吉瓦的计算规模大致相当于十座核反应堆的输出，远超目前业界顶尖水平约1吉瓦的集群规模，表明xAI正试图跻身超大规模AI实验室的顶级行列。电力和电网接入已成为AI基础设施的核心瓶颈，因此在两年内获得如此规模的电力供应，其后勤和电网挑战与芯片供应本身同等重要。 Nameplate power draw refers to the maximum rated power capacity of a data center rather than its average consumption, so 10 GW is an upper-bound design target rather than a guaranteed sustained load. Musk's revenue projection of $500 billion by end of 2026 is highly aspirational; xAI is a relatively young company and historically Musk's forward-looking financial and timeline targets have a mixed record of materializing as originally stated.
+Analysts report that near-packaged optics (NPO) is gaining traction as the industry hedges against implementation challenges with co-packaged optics (CPO). NPO-based silicon photonics products are expected to ship in volume through the end of the decade. This matters because AI infrastructure and hyperscale data centers are increasingly bottlenecked by the bandwidth and power efficiency limits of traditional electrical interconnects, making the choice between NPO and CPO pivotal for next-generation networking roadmaps. The shift affects chipmakers, switch ASIC vendors, and cloud operators planning multi-year capital deployments. NPO sits architecturally between traditional pluggable optics (like QSFP modules) and fully co-packaged optics, placing the optical engine in close proximity to the switching chip without the deep co-integration that CPO demands. CPO relies heavily on silicon photonics to integrate waveguides, modulators, and detectors directly onto a silicon wafer, but faces yield, thermal, and standardization headwinds that have slowed adoption.
 
-rss · Tom's Hardware · Aug 13, 10:00
+rss · Tom's Hardware · Aug 13, 16:52
 
-**Background**: AI training and inference workloads are extraordinarily power-hungry because they run on large fleets of GPUs or custom AI accelerators operating in parallel around the clock. As of early 2026, the largest AI training clusters were approaching 1 GW of infrastructure scale, and analysts have warned that gigawatt-class AI data centers could risk triggering regional power-grid blackouts due to the concentrated, fluctuating load profiles of training jobs. Because grid interconnect capacity and physical power delivery have become the primary bottleneck for AI scaling, a 10 GW target by 2027 would require multi-year提前规划 of substations, generation, and cooling infrastructure well in advance of chip deployment.
+**Background**: Data center networking has traditionally relied on pluggable optical transceivers that convert electrical signals to light and back, but as AI workloads drive terabit-scale bandwidth demands, the industry is moving toward tighter integration of optics and silicon. LPO (Linear Pluggable Optics), NPO, and CPO represent three successive stages in this evolution: LPO simplifies the pluggable module, NPO brings the optical engine nearer to the switch ASIC on the same substrate or package, and CPO integrates the optics directly into the switch chip package. Silicon photonics is the enabling technology that makes NPO and CPO feasible by allowing optical components to be fabricated using standard CMOS processes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/ai/articles/elon-musk-says-xai-increase-100000046.html">Elon Musk says xAI will increase data center capacity 7x by ...</a></li>
-<li><a href="https://www.datacenters.com/news/ai-training-clusters-are-reaching-1-gw-infrastructure-scale">AI Training Clusters Are Reaching 1 GW Infrastructure Scale</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout">AI Training Load Fluctuations at Gigawatt-scale - Risk of ...</a></li>
+<li><a href="https://resources.l-p.com/glossary/what-is-near-packaged-optics-benefits-network-upgrades">Beyond Pluggables: What is NPO ( Near - Packaged Optics ) and Why...</a></li>
+<li><a href="https://dev.to/aicplight/lpo-vs-npo-vs-cpo-the-evolution-of-optical-interconnects-in-ai-data-centers-33ha">LPO vs NPO vs CPO: The Evolution of Optical ... - DEV Community</a></li>
+<li><a href="https://www.fibermall.com/blog/overview-of-cpo.htm">Comprehensive Overview of CPO ( Co - Packaged Optics ) | FiberMall</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#xAI`, `#AI infrastructure`, `#data centers`, `#Elon Musk`, `#compute scaling`
+**Tags**: `#phototonics`, `#AI-infrastructure`, `#data-center`, `#silicon-photonics`, `#hardware`
 
 ---
 
 <a id="item-20"></a>
-## [Cerebras shares plunge nearly 20% after missing earnings expectations — hardware sales drop but AI cloud revenue climbs 281%](https://www.tomshardware.com/tech-industry/artificial-intelligence/cerebras-shares-plunge-nearly-20-percent-after-missing-earnings-expectations-hardware-sales-drop-but-ai-cloud-revenue-climbs-281-percent) ⭐️ 6.5/10
+## [Microchip Showcases 160-Lane PCIe Gen6 Switch at FMS 2026](https://www.servethehome.com/microchip-switchtec-160-lane-pcie-gen6-switch-shown-at-fms-2026-with-xpressconnect-pcie-6-retimer/) ⭐️ 6.5/10
 
-Cerebras stock drops nearly 20% after missing earnings expectations, with declining hardware sales partially offset by 281% growth in AI cloud revenue.
+At FMS 2026, Microchip demonstrated a 160-lane Switchtec PCIe Gen6 switch alongside its XpressConnect PCIe 6 retimer, with Everpure also making a cameo appearance. The demonstration highlighted next-generation data center connectivity hardware for AI and high-performance computing workloads. PCIe Gen6 switches with extremely high lane counts are critical for scaling AI infrastructure, where GPUs, accelerators, and high-bandwidth memory must be interconnected with minimal latency. A 160-lane fabric switch enables dense topologies such as large GPU clusters, directly supporting the build-out of AI training and inference data centers. The Switchtec family historically delivers sub-10ns hop latency, well below the PCIe Gen5 specification's roughly 60ns reference, and the Gen6 generation is positioned for AI and HPC workloads. Retimers like XpressConnect are formally defined in the PCIe specification to extend physical link reach while preserving signal integrity at the high 64 GT/s PAM4 signaling rates that Gen6 employs.
 
-rss · Tom's Hardware · Aug 13, 09:46
+rss · ServeTheHome · Aug 13, 18:00
 
-**Tags**: `#AI hardware`, `#Cerebras`, `#semiconductors`, `#earnings`, `#AI cloud`
+**Background**: PCI Express (PCIe) is the standard high-speed serial interconnect used inside servers to link CPUs, GPUs, NVMe storage, and accelerators. Each new generation roughly doubles per-lane bandwidth: PCIe Gen5 runs at 32 GT/s and Gen6 at 64 GT/s using PAM4 signaling, meaning a x16 Gen6 link delivers about 128 GB/s per direction (256 GB/s bidirectional). At these speeds, signal integrity degrades quickly over copper traces, so retimers are needed to recondition signals and extend reach, while PCIe switches fan out connectivity to many endpoints in fabric topologies typical of modern AI clusters.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/confessions-engineer-pcie-gen-6-nyquist-trap-chandra-sekhar-mallela-073fc">Confessions of an Engineer: The PCIe Gen 6 Nyquist Trap</a></li>
+<li><a href="https://thevoltpost.com/microchip-switchtec-gen-6-pcie-switches/">Switchtec Gen 6 PCIe switches from Microchip for AI Workload</a></li>
+<li><a href="https://www.servethehome.com/microchip-switchtec-pcie-5-0-switches-now-sampling/">Microchip Switchtec PCIe 5.0 Switches Now... - ServeTheHome</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#PCIe Gen6`, `#Microchip`, `#data center infrastructure`, `#hardware`, `#FMS 2026`
 
 ---

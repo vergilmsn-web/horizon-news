@@ -5,410 +5,363 @@ date: 2026-08-14
 lang: zh
 ---
 
-> 从 79 条内容中筛选出 20 条重要资讯。
+> 从 84 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [台积电 CoWoS-L 封装在 5.5 倍光罩尺寸下实现 98%良率，14 倍版本将于 2029 年推出](#item-1) ⭐️ 8.5/10
-2. [硬币大小设备通过 Wi-Fi 入侵波音 737 飞行管理计算机](#item-2) ⭐️ 8.5/10
-3. [严重"Zoomsday"漏洞可在 Zoom 通话期间实现设备完全接管——AI 辅助研究仅用 20 个提示词就找到了可攻破数亿人的漏洞。](#item-3) ⭐️ 8.5/10
-4. [Christopher Domas 发布 DRAM 操作工具，绕过硬件安全机制](#item-4) ⭐️ 8.0/10
-5. [PCIe 6.0 SSD 与控制器历经多年延期后终于面市](#item-5) ⭐️ 7.5/10
-6. [Google 发布 Gemini 3.7 Flash，定价将于 2026 年底翻倍](#item-6) ⭐️ 7.0/10
-7. [Cerebras 声称在 HLE 基准测试中为 OpenAI 模型实现 7 倍加速](#item-7) ⭐️ 7.0/10
-8. [理解力成为新的瓶颈](#item-8) ⭐️ 7.0/10
-9. [DeepSeek Harness 开发者预览版](#item-9) ⭐️ 7.0/10
-10. [选择无聊的技术（2015）](#item-10) ⭐️ 7.0/10
-11. [Pi 编程代理中的上下文压缩机制解析](#item-11) ⭐️ 7.0/10
-12. [systemd-journald 漏洞导致单条日志产生 49KB+ 磁盘写入](#item-12) ⭐️ 7.0/10
-13. [神经形态计算不能仅靠新型芯片](#item-13) ⭐️ 7.0/10
-14. [NVIDIA GeForce NOW 官方原生 Linux 客户端正式发布](#item-14) ⭐️ 6.5/10
-15. [高通发布面向 300 美元笔记本的骁龙 C 平台，宣称性能领先英特尔 N250 达 67%](#item-15) ⭐️ 6.5/10
-16. [Nightmare Eclipse 披露 Windows 零日提权漏洞“ShieldBreak”](#item-16) ⭐️ 6.5/10
-17. [近封装光学兴起，成为业界对 CPO 阵痛的避险选择](#item-17) ⭐️ 6.5/10
-18. [长鑫存储超越腾讯成为中国市值最高公司，估值达 5240 亿美元](#item-18) ⭐️ 6.5/10
-19. [马斯克：xAI 到 2027 年将算力扩展至 10 吉瓦，营收目标 5000 亿美元](#item-19) ⭐️ 6.5/10
-20. [Cerebras 股价暴跌近 20%，因业绩低于预期——硬件销售下滑，但 AI 云收入增长 281%](#item-20) ⭐️ 6.5/10
+1. [英伟达锁定台积电 A16 制程，用于下一代"Feynman" GPU](#item-1) ⭐️ 8.5/10
+2. [台积电 CoWoS-L 在 5.5 倍光罩尺寸下达 98%良率，14 倍版本将于 2029 年推出](#item-2) ⭐️ 8.5/10
+3. [AMD 2015 年时代 CPU 仅凭一条指令即可破解秘密内存区域，获得完全硬件级控制——针对 15h 和 16h 芯片家族的漏洞利用可访问平台安全处理器、微代码和系统管理接口](#item-3) ⭐️ 8.5/10
+4. [GLM-5.3：具备新兴网络安全能力的前沿编码模型](#item-4) ⭐️ 8.0/10
+5. [Christopher Domas 发布针对 AMD CPU 的 DRAM 利用工具 'skitter'](#item-5) ⭐️ 8.0/10
+6. [理解成为新的瓶颈](#item-6) ⭐️ 8.0/10
+7. [乌克兰称俄罗斯巡航导弹中发现 Nvidia Jetson 芯片](#item-7) ⭐️ 7.5/10
+8. [ShieldBreak：新的 Windows 零日权限提升漏洞被公开披露](#item-8) ⭐️ 7.5/10
+9. [Gemini 3.7 Flash](#item-9) ⭐️ 7.0/10
+10. [Dan McKinley《选择无聊技术》十年后仍引发共鸣](#item-10) ⭐️ 7.0/10
+11. [ASML 的光刻霸权之路——以及即将到来的无掩膜革命](#item-11) ⭐️ 7.0/10
+12. [英特尔面临存储芯片抉择：考虑重返存储芯片制造领域](#item-12) ⭐️ 7.0/10
+13. [全固态电池(ASSB)技术 2026 年进入中试量产阶段](#item-13) ⭐️ 7.0/10
+14. [Epic Games 启动器即将登陆 Linux](#item-14) ⭐️ 6.5/10
+15. [微软将 Copilot 功能整合为一个超级应用](#item-15) ⭐️ 6.5/10
+16. [美国对外国制造无人机征收高达 100%关税，重点针对中国](#item-16) ⭐️ 6.5/10
+17. [英特尔副总裁谈 Nova Lake 与 DDR4 回归策略](#item-17) ⭐️ 6.5/10
+18. [Prusa Research 全线 3D 打印机免费升级至第二代 '+' 版本](#item-18) ⭐️ 6.5/10
+19. [近封装光学（NPO）崛起，成为应对共封装光学难题的备选方案](#item-19) ⭐️ 6.5/10
+20. [Microchip 在 FMS 2026 展示 160 通道 PCIe Gen6 交换机](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [台积电 CoWoS-L 封装在 5.5 倍光罩尺寸下实现 98%良率，14 倍版本将于 2029 年推出](https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029) ⭐️ 8.5/10
+## [英伟达锁定台积电 A16 制程，用于下一代"Feynman" GPU](https://www.techpowerup.com/351607/nvidia-secures-tsmc-a16-node-for-next-generation-feynman-gpus) ⭐️ 8.5/10
 
-台积电已在 5.5 倍光罩尺寸的 CoWoS-L 先进封装技术上实现 98%良率，可制造 4,720 平方毫米的硅封装；14 倍光罩尺寸版本（12,012 平方毫米）计划于 2029 年与 A14 制程同步推出。
+英伟达正在台积电 A16（1.6 纳米）制程上对其鲁宾（Rubin）之后的"Feynman" GPU 架构进行原型设计，采用背面供电和 3D 芯粒封装技术，预计于 2028 年下半年量产。
 
-rss · TechPowerUp News · 8月13日 15:37
+rss · TechPowerUp News · 8月14日 09:56
 
-**标签**: `#TSMC`, `#semiconductor-manufacturing`, `#advanced-packaging`, `#CoWoS`, `#AI-hardware`
+**标签**: `#NVIDIA`, `#TSMC`, `#semiconductors`, `#GPU architecture`, `#advanced packaging`
 
 ---
 
 <a id="item-2"></a>
-## [硬币大小设备通过 Wi-Fi 入侵波音 737 飞行管理计算机](https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi) ⭐️ 8.5/10
+## [台积电 CoWoS-L 在 5.5 倍光罩尺寸下达 98%良率，14 倍版本将于 2029 年推出](https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029) ⭐️ 8.5/10
 
-安全研究人员展示了一种硬币大小的设备，该设备利用波音 737 容易接触的诊断端口和机上 Wi-Fi，可远程向飞行管理计算机注入虚假数据，潜在地改变起飞重量或改变飞机航向。 此漏洞暴露了影响全球使用最广泛的商用飞机之一的严重攻击途径，诊断端口的物理可接触性结合机上 Wi-Fi 的利用，对航空安全、监管机构和航空航天网络安全专业人员来说尤为令人担忧。 该设备插入飞机电子设备舱中的诊断端口，可以轻松隐藏在保护性防尘盖后面，从而覆盖飞行员的指令。它利用机上 Wi-Fi 作为远程通信信道，这意味着一旦硬件被植入，攻击者就不再需要视线接触。
+台积电已在 5.5 倍光罩尺寸（858 平方毫米）的 CoWoS-L 封装上实现 98%良率，可支持 4720 平方毫米的硅芯片集成；14 倍光罩版本（约 12,012 平方毫米）计划于 2029 年随 A13 节点一同推出。
 
-rss · Tom's Hardware · 8月13日 12:04
+rss · TechPowerUp News · 8月13日 15:37
 
-**背景**: 飞行管理计算机（FMC）由史密斯工业公司（原 Lear Seigler）供应，于 1979 年首次应用于波音 737，并已发展成为飞行管理系统（FMS）的核心组件，提供从起飞到着陆的自动飞行控制和导航功能。商用飞机电子设备舱中的诊断端口专为维护和系统监控而设计，允许技术人员与机载电子设备进行接口。商用航班上现已普及的机上 Wi-Fi 网络提供了无线数据传输路径，如果与关键航电系统未能充分隔离，就可能成为网络攻击的入口。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="http://www.b737.org.uk/fmc.htm">The Boeing 737 Flight Management Computer</a></li>
-<li><a href="https://www.baesystems.com/en-us/definition/what-is-avionics">What is avionics ? | BAE Systems</a></li>
-
-</ul>
-</details>
-
-**标签**: `#cybersecurity`, `#aviation-security`, `#vulnerability-disclosure`, `#hardware-hacking`, `#Boeing-737`
+**标签**: `#semiconductors`, `#TSMC`, `#CoWoS`, `#advanced-packaging`, `#AI-hardware`
 
 ---
 
 <a id="item-3"></a>
-## [严重"Zoomsday"漏洞可在 Zoom 通话期间实现设备完全接管——AI 辅助研究仅用 20 个提示词就找到了可攻破数亿人的漏洞。](https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people) ⭐️ 8.5/10
+## [AMD 2015 年时代 CPU 仅凭一条指令即可破解秘密内存区域，获得完全硬件级控制——针对 15h 和 16h 芯片家族的漏洞利用可访问平台安全处理器、微代码和系统管理接口](https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas) ⭐️ 8.5/10
 
-Zoom 中存在一个严重的"Zoomsday"漏洞，允许会议参与者接管其他与会者的设备，该漏洞通过 AI 辅助研究仅用 20 个提示词便被发现。
+一个针对 AMD 2015 年时代 15h 和 16h CPU 家族的新公开漏洞利用，允许通过单条指令访问受保护的内存区域，从而将平台安全处理器、微代码和系统管理接口暴露于硬件级控制之下。
 
-rss · Tom's Hardware · 8月13日 11:20
+rss · Tom's Hardware · 8月14日 09:33
 
-**标签**: `#security`, `#vulnerability`, `#zoom`, `#ai-assisted-research`, `#cybersecurity`
+**标签**: `#security`, `#amd`, `#cpu-vulnerability`, `#hardware-exploit`, `#platform-security`
 
 ---
 
 <a id="item-4"></a>
-## [Christopher Domas 发布 DRAM 操作工具，绕过硬件安全机制](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
+## [GLM-5.3：具备新兴网络安全能力的前沿编码模型](https://z.ai/blog/glm-5.3) ⭐️ 8.0/10
 
-安全研究员 Christopher Domas 发布了一款名为 'skitter-creek-bath-salts' 的开源概念验证工具，该工具通过操纵 AMD 处理器的内存控制器架构，操作 DRAM 地址转换寄存器，使物理地址映射混乱化，从而访问受保护的内存区域。 这项研究揭示了一类新的硬件级漏洞，可以绕过传统上由处理器和操作系统强制执行的安全边界，对嵌入式系统和游戏机（Xbox、PlayStation）具有特殊影响，在这些平台上获取 ring-0 访问权限可能会危及整个平台安全。 该工具目前已确认可在 AMD Jaguar（AMD16h 系列，发布于 2013 年）上运行，并有部分说明指出 Zen 3 的内存控制器寄存器基地址有所不同。该技术针对 DRAM 地址加扰机制（一种旨在随机化物理内存布局的安全特性），通过重新配置使其产生可预测或重新映射的地址。
+Z.ai 发布 GLM-5.3，这是一款具备新兴网络安全能力的前沿编码模型，已大规模扫描开源软件并披露众多 CVE，推动了快速的商业应用。
 
-hackernews · matt_d · 8月13日 14:17 · [社区讨论](https://news.ycombinator.com/item?id=49286341)
+hackernews · pella · 8月14日 05:19 · [社区讨论](https://news.ycombinator.com/item?id=49294997)
 
-**背景**: DRAM（动态随机存取存储器）是现代计算系统中的主要易失性存储器。现代处理器使用带有地址转换和加扰功能的内存控制器来随机化物理内存布局，使攻击者难以可靠地访问特定内存位置。Ring-0 是 x86 处理器中的最高特权级别，授予对所有硬件和内存的无限制访问权限；在像游戏机这样锁定的系统上获得 ring-0 访问权限是硬件黑客的终极目标，因为它允许绕过所有软件安全措施。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://news.linxi.com.au/news/amd-hardware-vulnerability-exposed-by-dram-address-scrambling-research">AMD DRAM Scrambling Exploit Bypasses Security Fences | Linxi News</a></li>
-<li><a href="https://github.com/xoreaxeaxeax">xoreaxeaxeax (domas) · GitHub</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区情绪非常积极，对黑帽大会演讲充满期待。评论者称赞 Domas 是一位出色的黑客和演讲者，并提到他之前关于逆向工程和硬件后门的演讲。提出的主要担忧包括已确认受影响处理器范围有限（主要是 AMD Jaguar）以及是否适用于更新的 CPU 家族的不确定性。用户还指出，越来越复杂的 DRAM 子系统及其专有固件创造了巨大的攻击面，并推测了对游戏机安全的影响。
-
-**标签**: `#security`, `#hardware`, `#DRAM`, `#reverse-engineering`, `#black-hat`
+**标签**: `#ai-models`, `#cybersecurity`, `#vulnerability-disclosure`, `#code-generation`, `#frontier-ai`
 
 ---
 
 <a id="item-5"></a>
-## [PCIe 6.0 SSD 与控制器历经多年延期后终于面市](https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays) ⭐️ 7.5/10
+## [Christopher Domas 发布针对 AMD CPU 的 DRAM 利用工具 'skitter'](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
 
-历经多年延期后，PCIe 6.0 SSD 终于开始进入市场。Micron 和 Samsung 已经推出了相关产品，而主控芯片供应商 Marvell、Phison 和 Silicon Motion（SMI）正在筹备支持最多 16 条 NAND 通道、吞吐量接近 28–30 TB/s 的下一代企业级平台。 这一里程碑标志着存储互连技术演进的重大一步，可为 AI、高性能计算以及大规模数据中心工作负载提供前所未有的吞吐能力。这一转变将影响正在评估下一代存储基础设施路线图的企业 IT 规划人员、超大规模云服务商以及硬件集成商。 新一代控制器平台可驱动 PB 级（约 2 PB）容量 SSD，并提供高达 28 TB/s 的读写速度，远超 PCIe 5.0 的极限。PCIe 6.0 本身通过 PAM4 信号和前向纠错（FEC），将单通道带宽相比 PCIe 5.0 翻倍至 64 GT/s，但受控制器与硬盘成熟度所限，普及速度一直较慢。
+安全研究员 Christopher Domas 发布了一个名为 'skitter-creek-bath-salts' 的概念验证工具，利用了 AMD 内存控制器配置中的一个漏洞，允许攻击者绕过硬件强制的内存隔离，在 AMD 15h 和 16h 芯片系列上通过单一指令即可访问受保护区域，包括平台安全处理器 (PSP)、系统管理模式 (SMM) 和微码补丁 RAM。 这项研究暴露了用于游戏主机和消费设备的 AMD 处理器上存在的重大硬件级攻击面，可能导致深度系统入侵。如果被利用，攻击者可以提取固件秘密、安装持久植入物，并打破现代 CPU 安全启动和可信计算所依赖的信任根。 该攻击通过翻转内存控制器中的特定配置位来重写物理地址到实际 DRAM 单元的映射方式——Domas 将这一过程描述为将内存「意大利面化」。该漏洞默认针对 AMD 的 16h（Jaguar，2013 年）系列，并对 Zen 3 做了部分说明（不同的内存控制器寄存器基地址），但文档中对于更新 CPU 系列的适用性仍不明确。
 
-rss · Tom's Hardware · 8月13日 09:40
+hackernews · matt_d · 8月13日 14:17 · [社区讨论](https://news.ycombinator.com/item?id=49286341)
 
-**背景**: PCI Express（PCIe）是连接 CPU 与 GPU、SSD、网卡及其他外设的标准高速串行互连总线，每一代通常将单通道带宽翻倍。PCIe 6.0 由 PCI-SIG 最终确定，单通道速率达 64 GT/s，并引入 PAM4 信号和 FEC（前向纠错）以在该速率下保持信号完整性。NVMe（非易失性内存主机控制器接口规范）是专为 PCIe SSD 设计的低延迟并行协议，NVMe-oF 则将其扩展到数据中心级的网络传输场景。Phison（中国台湾）、Marvell 和 Silicon Motion 等公司的 SSD 主控芯片充当主机 PCIe 接口与底层 NAND 闪存之间的桥梁，因此其成熟度是任何新一代 PCIe 能否落地的关键因素。
+**背景**: Modern CPUs use multiple privilege levels (rings) to isolate sensitive operations from normal software; 'ring 0' provides the highest OS-level access, while negative rings (like SMM and PSP) handle even more privileged functions such as firmware, secure boot, and hardware-level trust. DRAM scrambling is a technique used by memory controllers to remap physical addresses to DRAM cells, originally designed to reduce electrical interference and improve signal integrity. AMD's Platform Security Processor (PSP) is an ARM-based coprocessor embedded in AMD CPUs that handles sensitive operations including the fTPM (firmware TPM) and firmware validation.
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays">The current state of PCIe 6.0 SSDs and controllers — Marvell, Phison, and SMI prepare controllers as drives finally come to market following years of delays | Tom's Hardware</a></li>
-<li><a href="https://www.rfwireless-world.com/terminology/pcie-5-0-vs-pcie-6-0">PCIe 5.0 vs PCIe 6.0: Key Differences Explained | RF Wireless ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/NVM_Express">NVM Express - Wikipedia</a></li>
+<li><a href="https://github.com/xoreaxeaxeax/skitter-creek-bath-salts">GitHub - xoreaxeaxeax/ skitter -creek-bath-salts: Unlocking _everything...</a></li>
+<li><a href="https://gbhackers.com/new-dram-scrambling-attack-unlocks-amd-cpu-psp-smm/">New DRAM Scrambling Attack Unlocks AMD CPU PSP, SMM and...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas">Just one instruction on AMD's 2015-era CPUs gets... | Tom's Hardware</a></li>
 
 </ul>
 </details>
 
-**标签**: `#PCIe 6.0`, `#SSD`, `#storage-hardware`, `#NVMe`, `#data-center`
+**社区讨论**: 社区情绪非常热情，评论者们赞扬了 Domas 的过往成就，并热切期待他在 Black Hat 上的演讲，还分享了他之前的研究（MoVfuscator、x86 中的硬件后门）。技术评论者对攻击在现代 CPU 上的适用范围表示担忧——具体质疑除 AMD Jaguar 16h 之外的适用性，以及 Zen 3 及更新的架构是否也受影响。其他人则注意到了对游戏主机安全的影响，指出在 Xbox 和 PlayStation 硬件上获得 ring-0 访问权限将暴露几乎所有的系统秘密。
+
+**标签**: `#security`, `#DRAM`, `#hardware-exploitation`, `#Christopher-Domas`, `#Black-Hat`
 
 ---
 
 <a id="item-6"></a>
-## [Google 发布 Gemini 3.7 Flash，定价将于 2026 年底翻倍](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 7.0/10
+## [理解成为新的瓶颈](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ⭐️ 8.0/10
 
-Google 发布了 Gemini 3.7 Flash，这是其 Gemini 模型家族的全新版本，其入门定价计划于 2026 年 12 月 31 日大致翻倍，并在 2027 年 1 月 1 日再次上调。该版本距 Gemini 3.6 Flash 发布仅三周，标志着 Flash 系列异常快速的迭代节奏。 如此短的发布周期（距 3.6 Flash 仅三周）以及预先公布的价格上涨，引发了人们对该定价稳定性以及 Flash 系列所服务的高吞吐低成本工作负载下开发者规划的质疑。对于构建摘要、解析和格式化流程的团队而言，未来一年的实际成本走势可能会对总拥有成本产生实质性影响。 社区测试表明，Gemini 3.7 Flash 在视觉转代码任务中表现出色，但 Opus 5 仍在此基准上保持领先。在 threejseval 编码评估中，它在同价位档位内也取得了领先水平的结果，优于 3.6 Flash。根据社区讨论引用的价格信息，按计划调价后，该模型的输出 tokens 价格预计将升至每百万 tokens 约 7.50 美元，输入 tokens 价格约为每百万 tokens 1.50 美元。
+随着大语言模型自动化代码编写，理解代码——其目的、模型和设计动机——正成为软件工程工作流中新的关键瓶颈。
 
-hackernews · thisisauserid · 8月13日 17:23 · [社区讨论](https://news.ycombinator.com/item?id=49289112)
+hackernews · sebg · 8月13日 18:47 · [社区讨论](https://news.ycombinator.com/item?id=49290299)
 
-**背景**: Gemini Flash 系列是 Google 的快速低成本模型版本，主要面向摘要、解析和格式化等高吞吐量、以文本为主的工作负载，同时仍提供有意义的推理能力。Flash 模型通常在性价比前沿而非绝对能力上竞争，每隔几个月就会进行一次版本升级。LLM API 定价按每百万 tokens 计费，输入（提示）和输出（模型回复）采用不同费率，且输出 tokens 始终更贵，因为每个输出 token 都需要一次完整的模型前向传播。与更常见的统一定价或批量折扣方式相比，安排在后期分阶段上调的入门定价是一种非常规的模式。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://emergent.sh/learn/gemini-3-6-flash-vs-3-1-pro">Gemini 3.6 Flash vs Gemini 3.1 Pro: Benchmarks, Pricing, and Which...</a></li>
-<li><a href="https://artificialanalysis.ai/articles/gemini-3-5-flash-everything-you-need-to-know">Gemini 3.5 Flash : The new leader in intelligence versus speed</a></li>
-<li><a href="https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/">Introducing Gemini 3 Flash : Benchmarks, global availability</a></li>
-<li><a href="https://costgoat.com/compare/llm-api">LLM API Pricing Comparison & Cost Guide (Aug 2026)</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区情绪褒贬不一但讨论热烈，获得了 612 个赞和 340 条评论。Simon Willison 批评了这种非常规的预定涨价方式和从 3.6 到 3.7 的快速迭代节奏；jjcm 的视觉测试显示，尽管存在价格差距，Gemini 3.7 相对 Opus 5 表现依然不错。nicolamanzini 报告称，在 threejseval 上，该模型在同价位段取得了领先水平的结果。部分评论引用了一些似乎为虚构的模型（GPT-5.6 Luna、DeepSWE 1.1、Terra），这些内容为讨论带来了噪音，不应视为可靠的对比。
-
-**标签**: `#Google`, `#Gemini`, `#LLM`, `#AI-models`, `#pricing`
+**标签**: `#AI`, `#software-engineering`, `#LLMs`, `#code-review`, `#developer-productivity`
 
 ---
 
 <a id="item-7"></a>
-## [Cerebras 声称在 HLE 基准测试中为 OpenAI 模型实现 7 倍加速](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) ⭐️ 7.0/10
+## [乌克兰称俄罗斯巡航导弹中发现 Nvidia Jetson 芯片](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech) ⭐️ 7.5/10
 
-Cerebras 宣布，运行在其「Ultrafast」推理模式下的 OpenAI 模型（被称为「GPT-5.6 Sol」）在 11 小时 11 分钟内完成了全部 2,500 道 Humanity's Last Exam（HLE）问题，而一个竞争系统（「Claude Fable 5」）需要 78 小时 27 分钟，据称在同等准确率下实现了约 7 倍的加速。 如果该加速效果在同等质量下成立，这表明推理（而不仅仅是训练）正在成为 AI 的关键竞争战场，随着模型权重本身的商品化，这可能会重塑行业经济格局。它还提出了一个疑问：在给定时间预算内，更快的推理是否能够通过更多迭代实现更好的推理质量。 所引用的模型名称「GPT-5.6 Sol」和「Claude Fable 5」并非广为人知的标准模型标识符，这引发了对该博客「7 倍加速」声明可信度的质疑。评论者 Topfi 指出，Cerebras 和 OpenAI 都未明确确认「Ultrafast」模式产生的输出与标准 GPT-5.6 等价，这是评估该结果时的一个关键警示。
+乌克兰情报部门声称，俄罗斯新型 S-71「Monochrome」巡航导弹采用了 Nvidia Jetson Orin NX AI 模块，据称用于提供 AI 驱动的末段制导以实现精确打击。 这一发现对商用 AI 硬件的出口管制提出了严肃质疑，因为 Jetson Orin NX 是一款在全球广泛销售的开发者模块。它凸显了消费级 AI 芯片的双重用途特性，可能促使 Nvidia 及监管机构加强对向俄罗斯及其他受制裁实体销售芯片的限制。 Jetson Orin NX 在紧凑的 SO-DIMM 形态下可提供高达 100 TOPS 的 AI 性能，非常适合机器人与自主系统等边缘 AI 应用。末段制导（terminal guidance）指的是导弹飞行最后阶段锁定目标的环节，基于 AI 的制导可实现目标识别或自主目标选择。
 
-hackernews · pr337h4m · 8月13日 18:10 · [社区讨论](https://news.ycombinator.com/item?id=49289844)
+rss · Tom's Hardware · 8月14日 10:30
 
-**背景**: Cerebras Systems 构建晶圆级 AI 处理器——即整块晶圆大小的芯片——旨在通过将整个模型保留在单个裸片上并最大限度地减少数据移动来实现超快的推理和训练。Humanity's Last Exam（HLE）是一个涵盖科学、数学和人文学科的专家级前沿问题基准测试，旨在对最先进的 LLM 进行压力测试。更广泛的背景是，AI 行业正将关注点从纯粹的模型能力基准转向推理经济，其中速度、每 token 成本和硬件专业化越来越多地决定赢家。
+**背景**: Nvidia Jetson 平台是一系列面向无人机、机器人和物联网设备等嵌入式 AI 应用的紧凑型低功耗计算模块。巡航导弹是自推进的制导武器，能飞向目标区域并利用制导系统——末段制导即最后的目标锁定阶段——提高命中精度。在军事系统中使用商用现成（COTS）组件已是成熟做法，但将 Jetson Orin NX 这类现代 AI 加速器集成其中，代表了武器化消费级技术复杂程度的新升级。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cerebras">Cerebras - Wikipedia</a></li>
-<li><a href="https://artificialanalysis.ai/evaluations/humanitys-last-exam">Humanity's Last Exam Benchmark Leaderboard | Artificial Analysis</a></li>
+<li><a href="https://developer.nvidia.com/embedded/jetson-modules">Jetson Modules , Support, Ecosystem, and Lineup | NVIDIA Developer</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Missile">Missile - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 讨论中包含实质性辩论。exabrial 认为，AI 的护城河将从模型权重转向推理硬件，并将其与操作系统最终变为免费的发展路径相类比。csallen 提出了一个深刻的观点：更快的推理可能产生更好的推理结果，因为类似人类的思维质量来自迭代，而非单次生成。Topfi 表示怀疑，指出缺乏 Ultrafast 模式与标准模型输出之间明确等价性的保证——这是博客文章本身未能解决的一个警示。
-
-**标签**: `#ai-inference`, `#cerebras`, `#openai`, `#hardware-acceleration`, `#llm-reasoning`
+**标签**: `#Nvidia`, `#AI-hardware`, `#military-tech`, `#geopolitics`, `#export-controls`
 
 ---
 
 <a id="item-8"></a>
-## [理解力成为新的瓶颈](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ⭐️ 7.0/10
+## [ShieldBreak：新的 Windows 零日权限提升漏洞被公开披露](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched) ⭐️ 7.5/10
 
-随着大语言模型让代码生成变得更容易，对软件系统建立并保持正确的心智模型，逐渐成为软件工程的主要瓶颈。
+安全研究员 Nightmare Eclipse 披露了 ShieldBreak，这是一个新的 Windows 零日权限提升漏洞，它利用 Microsoft Defender 安全引擎中的缺陷，将低权限用户提升为完整的 SYSTEM 级访问权限。Microsoft 已通过 Defender 端部署了缓解措施来阻止该漏洞利用，安全研究员 Will Dormann 独立验证了报告的行为。 这个漏洞尤其令人担忧，因为它讽刺地要求 Microsoft Defender 必须处于启用状态才能使漏洞利用生效，这意味着依赖 Defender 进行保护的系统正是面临最大风险的系统。此次披露凸显了漏洞研究人员和 Microsoft 安全团队之间持续的猫鼠博弈，安全团队应立即验证其 Defender 覆盖是否为最新版本。 ShieldBreak 专门绕过了 Microsoft 对 CVE-2026-50656 的 7 月缓解措施，表明存在针对 Defender 安全引擎不断演变的漏洞链。Microsoft 能够快速推出 Defender 端修复这一事实表明该漏洞被视为高优先级问题，尽管利用本应保护 Windows 系统的软件本身这一点仍然具有讽刺意味。
 
-hackernews · sebg · 8月13日 18:47 · [社区讨论](https://news.ycombinator.com/item?id=49290299)
+rss · Tom's Hardware · 8月13日 17:36
 
-**标签**: `#software-engineering`, `#llm`, `#ai-coding`, `#developer-productivity`, `#mental-models`
+**背景**: 权限提升漏洞允许已经拥有系统一定访问权限的攻击者将其权限提升到更高层级，例如在 Windows 上获得 SYSTEM 级访问权限，这是授予对操作系统完全控制权的最高权限级别。零日漏洞是指在供应商尚未发布补丁之前就被利用的漏洞，因此特别危险。Microsoft Defender 是 Windows 内置的防病毒和安全软件，其中的缺陷具有讽刺意味，因为该软件的设计目的正是保护系统免受此类攻击。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.varindia.com/news/shieldbreak-vulnerability-in-microsoft-defender-may-enable-full-system-access">ShieldBreak Vulnerability in Microsoft Defender May Enable Full</a></li>
+<li><a href="https://en.cryptonomist.ch/2026/08/12/windows-security-vulnerability-shieldbreak/">Windows Security Vulnerability Exposes ShieldBreak Exploit</a></li>
+<li><a href="https://windowsreport.com/shieldbreak-zero-day-grants-system-access-on-fully-patched-windows/">ShieldBreak Zero-Day Grants SYSTEM Access on Fully Patched...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cybersecurity`, `#windows`, `#zero-day`, `#privilege-escalation`, `#vulnerability-disclosure`
 
 ---
 
 <a id="item-9"></a>
-## [DeepSeek Harness 开发者预览版](https://deepseek.com/harness/en/) ⭐️ 7.0/10
+## [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 7.0/10
 
-DeepSeek 发布其智能体框架的开源开发者预览版，基于 Cordis v4 插件架构构建，具备完整的会话可追溯性。
+Google 发布 Gemini 3.7 Flash 并采用新的定价结构，引发社区围绕模型版本迭代节奏、定价可持续性以及与竞品实际性能对比的讨论。
 
-hackernews · bjin · 8月13日 12:58 · [社区讨论](https://news.ycombinator.com/item?id=49285244)
+hackernews · thisisauserid · 8月13日 17:23 · [社区讨论](https://news.ycombinator.com/item?id=49289112)
 
-**标签**: `#deepseek`, `#ai-agents`, `#open-source`, `#llm-framework`, `#plugin-architecture`
+**标签**: `#AI`, `#LLM`, `#Google`, `#Gemini`, `#model-release`
 
 ---
 
 <a id="item-10"></a>
-## [选择无聊的技术（2015）](https://mcfunley.com/choose-boring-technology) ⭐️ 7.0/10
+## [Dan McKinley《选择无聊技术》十年后仍引发共鸣](https://mcfunley.com/choose-boring-technology) ⭐️ 7.0/10
 
-这篇 2015 年的文章主张在大多数情况下选择"无聊"的技术，近期因其"创新代币"（innovation tokens）框架被重新讨论，用于指导 AI 智能体架构的设计。
+Dan McKinley 于 2015 年发表的、倡导在软件工程中使用经过验证的「无聊」技术的经典文章被重新分享，并在 Hacker News 上获得了 392 个赞和 217 条评论。该文章重新引介了他极具影响力的「创新代币」（innovation tokens）框架，这一框架已成为被广泛采用的技术选型心智模型。 这篇文章为工程团队和领导者提供了一个强有力的框架，使其能够在采用新工具与经过验证的方案之间做出审慎的权衡。这一概念有助于避免将技术选择本身作为目的，并且随着各类组织不断面对围绕微服务和 Kubernetes 等新架构的炒作，它至今仍具有高度的现实意义。 核心隐喻是每个团队大约拥有三枚「创新代币」可供花费——选择无聊的技术基本上是「免费的」，但每采用一项新的、有风险的技术都会消耗一枚代币，而代币理想情况下应花在与产品差异化的领域。文章最初发表于 2015 年 3 月 30 日，灵感来自 McKinley 在 Etsy 担任工程师六年的亲身经历。
 
 hackernews · tosh · 8月13日 17:48 · [社区讨论](https://news.ycombinator.com/item?id=49289512)
 
-**标签**: `#software-engineering`, `#technology-selection`, `#engineering-culture`, `#ai-agents`, `#pragmatism`
+**背景**: Dan McKinley 是一位软件工程师，最为人所知的是他在 Etsy 的工作经历，在那里他观察到一支高产的工程团队常常通过限制技术的频繁更迭来取得成功。「创新代币」概念本质上是一种预算隐喻：在评估任何新技术（数据库、语言、框架）时，团队必须权衡这种创新是否值得花费一枚稀缺的代币。这篇文章写于微服务炒作的高峰期，当时许多团队在没有充分理由的情况下采用新架构，它反对将「新」本身等同于「更好」的思维。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mcfunley.com/choose-boring-technology">Dan McKinley :: Choose Boring Technology</a></li>
+<li><a href="https://boringtechnology.club/?ref=alexandre.storelli.fr">Choose Boring Technology</a></li>
+<li><a href="https://jonathannen.com/choose-boring-technology/">Dan McKinley 's classic advice on " choosing boring technology " is....</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者压倒性地赞同「创新代币」概念，一位产品经理兼工程领导称这是其职业生涯中「最有用的概念之一」，无论是在做出还是在解释技术权衡时都非常有用。有人分享了具体案例：一位工程师描述了使用两台裸金属 Linux 服务器配合 Postgres、HAProxy 和 PHP 来满足大多数业务需求，并实现了 99.99% 的正常运行时间；另一位则提到他们将一个 R 脚本移植到了 LINQPad，因为团队中没人会 R 语言，这体现了「全局优化」原则。多位评论者指出，尽管这篇文章已有一定年头，但它至今仍具有现实意义，因为较新的、经验不足的工程师仍不断被吸引去追逐各种时髦架构。
+
+**标签**: `#software-engineering`, `#technology-selection`, `#engineering-management`, `#architecture`, `#best-practices`
 
 ---
 
 <a id="item-11"></a>
-## [Pi 编程代理中的上下文压缩机制解析](https://earendil.com/posts/compaction-in-pi/) ⭐️ 7.0/10
+## [ASML 的光刻霸权之路——以及即将到来的无掩膜革命](https://semiwiki.com/lithography/372177-asmls-path-to-lithography-dominance-and-the-coming-maskless-revolution/) ⭐️ 7.0/10
 
-一篇技术文章详细解析了 Pi 编程代理如何执行对话历史压缩（compaction），在保留近期工作内容的同时对较旧内容进行摘要，以使交互保持在模型上下文限制之内。文章涵盖了 Pi 架构中自动压缩和分支摘要两种机制。 上下文管理是长时间运行的 AI 编程代理的关键瓶颈，而压缩是当前部署最广泛的解决方案。了解特定工具如何实现压缩，以及诸如剪枝（pruning）等替代方案能提供什么，直接影响构建必须在长时间会话中运行的代理系统的开发者。 压缩以摘要表示代替原始对话历史，可能导致 LLM 遗漏原始意图。讨论的替代方案包括剪枝（不移除低价值消息）、双 KV 缓存流式压缩、带指针替换的渐进式压缩，以及基于图像的上下文编码（据报道 OMP 采用了这种方式）。
+分析 ASML 四十年来通过系统工程和战略押注崛起为光刻霸主的历程，并前瞻性地探讨新兴的无掩膜光刻技术。
 
-hackernews · tosh · 8月13日 17:57 · [社区讨论](https://news.ycombinator.com/item?id=49289654)
+rss · SemiWiki · 8月14日 13:00
 
-**背景**: LLM 具有固定的上下文窗口，因此在长时间会话中运行的编程代理必须管理对话长度。压缩（compaction）通过摘要旧消息来释放上下文空间，而剪枝（pruning）则完全移除低价值消息。KV（键值）缓存是 Transformer 用来存储注意力计算的内存机制；其大小随上下文长度线性增长，使缓存管理成为主要的成本因素。提示缓存（prompt caching）是服务提供商缓存重复的提示前缀以降低成本的技术，它限制了代理重构上下文的激进程度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://earendil.com/posts/compaction-in-pi/">How Compaction Works in Pi | EARENDIL</a></li>
-<li><a href="https://pi.dev/docs/latest/compaction">Compaction & Branch Summarization · Documentation · Pi</a></li>
-<li><a href="https://atlan.com/know/ai-agent/ai-agent-context/how-to-implement-context-pruning-ai-agents/">Context Pruning for AI Agents: Methods and Implementation [2026]</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 这条包含 39 条评论的讨论帖显示，实践者普遍对当前的压缩方案不满意。主要观点包括：kierangill 更倾向于剪枝以保留对话保真度；novaRom 描述了一种在工具执行期间进行摘要的双 KV 缓存技术；skeledrew 指出提示缓存阻碍了创造性的渐进式压缩，因为重构会破坏缓存命中；damsta 希望对哪些消息被摘要进行细粒度控制；jakswa 则强调了 OMP 试验性的基于图像的压缩方案，该方案完全跳过了传统的摘要步骤。
-
-**标签**: `#ai-agents`, `#context-management`, `#compaction`, `#llm-infrastructure`, `#coding-assistants`
+**标签**: `#semiconductors`, `#lithography`, `#ASML`, `#manufacturing`, `#industry-analysis`
 
 ---
 
 <a id="item-12"></a>
-## [systemd-journald 漏洞导致单条日志产生 49KB+ 磁盘写入](https://github.com/systemd/systemd/issues/40262) ⭐️ 7.0/10
+## [英特尔面临存储芯片抉择：考虑重返存储芯片制造领域](https://www.eetimes.com/intel-at-a-memory-crossroads-again/) ⭐️ 7.0/10
 
-GitHub 上的一个 Bug 报告（issue #40262）揭示了 systemd-journald 在写入单条日志时会触发过量的磁盘写入——在 ext4 文件系统上超过 49KB，在 btrfs 文件系统上超过 110KB——这是 journal 条目写入磁盘方式的设计缺陷所致。 systemd-journald 几乎是所有现代 Linux 发行版的默认日志守护进程，因此这种写入放大会影响数百万台机器的 SSD 寿命、存储占用和系统性能。该问题还暴露了 journald 在过滤和控制嘈杂应用日志方面的系统性设计缺陷，可能会在不知不觉中拖慢任何 Linux 系统。 ext4（49KB+）和 btrfs（110KB+）之间的巨大差异源于 btrfs 的写时复制（CoW）架构：由于每次写入都会为变更的数据块创建新副本，触发元数据更新的 journal 条目在物理写入量上远超 ext4 基于日志的写入方式。journal 文件格式采用受 git 仓库启发的仅追加、基于 mmap() 的设计，这使得每次写入本身就代价高昂。
+英特尔首席执行官陈立武（Lip-Bu Tan）暗示可能重返存储芯片市场，他表示曾经被视为大宗商品市场的新型存储架构如今具有重要战略意义，尤其在人工智能驱动的需求背景下。他还暗示将推动内存与 CPU 的堆叠整合创新。 这标志着英特尔这一历史悠久的 CPU 专业厂商的重大战略转变——英特尔多年前就已退出存储市场。如果英特尔重新进入，可能会打破由 SK 海力士、三星和美光主导的寡头格局，同时缓解由 AI 驱动的存储芯片供应紧张局面，使高带宽内存（HBM）成为关键战略资源。 英特尔此前曾尝试通过 NAND 闪存和 Optane 产品重返存储市场，也探索过 RDRAM 技术。与此同时，SK 海力士正在投资 7200 亿美元，到 2034 年将存储芯片产能扩大两倍，这凸显了 AI 存储领域竞争的激烈程度。
 
-hackernews · ValdikSS · 8月13日 18:41 · [社区讨论](https://news.ycombinator.com/item?id=49290215)
+rss · EE Times · 8月14日 13:01
 
-**背景**: systemd-journald 是 systemd 初始化系统的日志组件，以结构化的二进制格式存储日志数据，而非纯文本。它采用仅追加的文件设计和 mmap() 来实现原子的、抗崩溃的写入。ext4 是最常见的 Linux 文件系统，使用传统的日志方式来保证元数据一致性；而 btrfs 是现代的写时复制文件系统，能提供快照和数据完整性校验，代价是更高的写入放大。写入放大对 SSD 尤为重要，因为 SSD 的写入次数是有限的。
+**背景**: 英特尔曾是存储芯片市场的参与者，但后来退出，此后 DRAM 市场由三星、SK 海力士和美光三家公司主导。高带宽内存（HBM）是一种 3D 堆叠 SDRAM 技术，提供更快的数据访问速度和更低的能耗——这对需要大规模并行处理的 AI 工作负载至关重要。AI 热潮已将存储芯片从低利润的大宗商品转变为战略资源，三大主要供应商正在将产能集中于高利润的 HBM 和服务器 DRAM，导致商品级 DRAM 市场供应紧张。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wiki.archlinux.org/title/Systemd/Journal">systemd /Journal - ArchWiki</a></li>
-<li><a href="https://www.linuxfordevices.com/tutorials/linux/ext4-vs-btrfs-filesystem">Ext 4 vs Btrfs Filesystems - Which one should you... - LinuxForDevices</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu">Intel CEO hints at return to the memory business — says market is...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://economy.ac/news/2026/08/202608289721">“Alternative Amid Memory Supply Crunch” CXMT... | The Economy</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论者普遍批评 journald 的整体设计，而非仅仅针对这个具体的 Bug。用户抱怨无法按子系统或标识符有效过滤日志，以及无法控制嘈杂应用的日志输出（例如 kio 在文件选择器中一天写入数万条日志），还有人建议 journald 最好只作为日志路由器转发到 rsyslog，而不是作为主要存储。一位评论者指出当前行为违背了 journal 数据库格式的最初设计意图。
-
-**标签**: `#systemd`, `#journald`, `#linux`, `#debugging`, `#system-administration`
+**标签**: `#Intel`, `#semiconductors`, `#memory-chips`, `#AI-infrastructure`, `#industry-strategy`
 
 ---
 
 <a id="item-13"></a>
-## [神经形态计算不能仅靠新型芯片](https://www.eetimes.com/neuromorphic-computing-needs-more-than-novel-chips/) ⭐️ 7.0/10
+## [全固态电池(ASSB)技术 2026 年进入中试量产阶段](https://www.electronicsweekly.com/news/business/solid-state-auto-batteries-2026-08/) ⭐️ 7.0/10
 
-Katie Schuman 在 EE Times 发表观点，认为神经形态计算领域必须在研发新型芯片的同时，同步建设软件栈、编译器、工具链以及共享硬件基础设施，才能从研究阶段走向实际部署。 这一观点揭示了一种新兴计算范式所面临的系统性瓶颈——如果没有成熟的软件生态和共享基础设施，神经形态硬件无论底层技术前景多么光明，都将难以走出学术实验室。 文章特别呼吁需要高性能计算（HPC）工程师、成熟的编译器以及共享的硬件访问渠道，这些关切也反映在 MCSI neurocore 等专门讨论神经形态软件栈、编译器和编程模型的论坛中。
+据 TrendForce 报道，2026 年全固态电池(ASSB)的技术成熟度等级(TRL)显著提升，丰田、本田、日产和三星等公司正联合日本供应商率先推进中试生产线建设。 这一里程碑意味着固态电池技术正从实验室研究迈向近期商业化，可能重塑电动汽车的安全性、能量密度与续航里程，并改变全球汽车电池供应链的竞争格局。 中试量产是介于研发与大规模量产之间的关键阶段，通常用于在大规模商业化前验证制造工艺、良率和成本模型；ASSB 用固态电解质(聚合物、氧化物或硫化物)替代传统锂离子电池中的易燃液态电解质，通常与锂金属负极配合使用。
 
-rss · EE Times · 8月13日 13:00
+rss · Electronics Weekly · 8月14日 05:08
 
-**背景**: 神经形态计算是一种受大脑启发的计算方法，利用人工脉冲神经元执行计算，旨在比传统冯·诺依曼架构具有更高的能效和适应性。尽管多个研究实验室和公司已生产出新型神经形态芯片，但围绕其的生态系统——包括软件框架、将主流代码翻译到脉冲硬件上的编译器，以及用于基准测试的共享基础设施——相比 GPU 等成熟计算平台仍然不够完善。Katie Schuman 是该领域的知名研究员，曾在橡树岭国家实验室工作，并为神经形态计算的研究与教育做出了重要贡献。
+**背景**: 全固态电池(ASSB)被视为传统锂离子电池的下一代继任者，通过消除易燃液态电解质，有望实现更高的能量密度、更优的安全性和更长的循环寿命。技术成熟度等级(TRL)框架最初由 NASA 于 20 世纪 70 年代开发，后来被美国空军、欧盟和英国等机构广泛采用，提供了一套通常为 1 到 9 的系统化等级，用于评估技术从基础概念到全面部署的成熟程度。中试量产通常对应于中等水平的 TRL 阶段，介于实验室验证与商业化大规模制造之间。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuromorphic_computing">Neuromorphic computing</a></li>
-<li><a href="https://mcsoc-forum.org/site/index.php/neurocore-t12/">Neuromorphic Software Stacks, Compilers, and Programming ...</a></li>
-<li><a href="https://open-neuromorphic.org/neuromorphic-computing/software/">Neuromorphic Software Guide</a></li>
+<li><a href="https://www.crugroup.com/en/communities/thought-leadership/2025/from-smartphones-to-flying-taxis-the-coming-age-of-all-solid-state-batteries/">Unlocking a new era with all - solid - state batteries - CRU Group</a></li>
+<li><a href="https://www.solidenergies.com/what-is-assb">What is ASSB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Technology_readiness_level">Technology readiness level - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#neuromorphic-computing`, `#HPC`, `#compilers`, `#emerging-hardware`, `#ecosystem`
+**标签**: `#solid-state-batteries`, `#ASSB`, `#automotive`, `#EV`, `#battery-technology`
 
 ---
 
 <a id="item-14"></a>
-## [NVIDIA GeForce NOW 官方原生 Linux 客户端正式发布](https://www.techpowerup.com/351585/nvidia-geforce-now-for-linux-officially-arrives) ⭐️ 6.5/10
+## [Epic Games 启动器即将登陆 Linux](https://www.techpowerup.com/351601/epic-games-launcher-coming-soon-to-linux) ⭐️ 6.5/10
 
-NVIDIA 发布了 GeForce NOW 云游戏服务的官方原生 Linux 客户端，结束测试阶段并面向全球用户推出。该客户端官方支持 Ubuntu 24.04 LTS 及更高版本，同时也通过 Flatpak 仓库进行分发。 对于 Linux 游戏生态来说，这是一个重要的里程碑，为 Linux 用户提供了一种由官方支持、无需 Windows 即可从云端串流高端 PC 游戏的方式。这表明 NVIDIA 正在加大对 Linux 生态的投入，并扩大了 GeForce NOW 的潜在用户群。 Linux 客户端针对 DLSS 4.5 帧生成技术进行了优化，使其响应更加灵敏、延迟更低；Performance 等级会员还将受益于服务器端 CPU 性能的提升。这些改进在 120 FPS 或 4K 渲染时效果最为明显，且所有变更均在服务器端完成，用户无需更新客户端。
+据报道，Epic Games 正准备推出其游戏启动器的原生 Linux 版本，这标志着随着 Easy Anti-Cheat 反作弊支持的改进，Linux 游戏生态将进一步扩展。
 
-rss · TechPowerUp News · 8月13日 15:52
+rss · TechPowerUp News · 8月14日 05:07
 
-**背景**: GeForce NOW 是 NVIDIA 的云游戏服务，通过配备强大 GPU 的远程服务器向用户设备串流游戏，让玩家可以畅玩他们已从 Steam、Ubisoft Connect 或 Epic Games 等商店购买的游戏。DLSS 4.5 是 NVIDIA 在 CES 2026 上发布的最新 AI 驱动超采样与帧生成技术，可在 RTX 50 系列 GPU 上为每一帧传统渲染画面动态生成最多五个额外帧。Flatpak 是一个跨发行版的 Linux 软件包管理框架，允许开发者分发可在沙箱环境中跨多个 Linux 发行版运行的单一应用包，无需担心依赖问题。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/GeForce_Now">GeForce Now - Wikipedia</a></li>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-gen-6x-2nd-gen-transformer-super-res/">NVIDIA DLSS 4.5 Delivers Major Upgrade With 2nd Gen ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Flatpak">Flatpak - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#nvidia`, `#linux`, `#gaming`, `#cloud-gaming`, `#geforce-now`
+**标签**: `#linux`, `#gaming`, `#epic-games`, `#steam-deck`, `#platform-support`
 
 ---
 
 <a id="item-15"></a>
-## [高通发布面向 300 美元笔记本的骁龙 C 平台，宣称性能领先英特尔 N250 达 67%](https://www.techpowerup.com/351578/qualcomm-introduces-usd-300-laptops-with-snapdragon-c-outruns-intel-n250-by-up-to-67) ⭐️ 6.5/10
+## [微软将 Copilot 功能整合为一个超级应用](https://www.techpowerup.com/351589/microsoft-unifies-copilot-features-into-a-super-app) ⭐️ 6.5/10
 
-高通公布了其入门级骁龙 C SoC 的详细规格：该平台基于 Arm 架构，配备最多 8 个 Kryo 核心（单核 3.0 GHz/多核 2.0 GHz）、900 MHz 的 Adreno A643 GPU、Hexagon NPU，并支持最高 16 GB 的 LPDDR4x/LPDDR5/LPDDR5x 内存，面向售价约 300 美元的 Windows 笔记本。高通宣称骁龙 C 在性能上比英特尔 N250 "Twin Lake" 芯片领先 24%至 67%，在 Netflix 播放等场景下能效提升最高达 106%。 这是高通迄今为止向几乎被英特尔和 AMD 的 x86 芯片完全主导的入门级笔记本市场发起的最激进攻势，在 300 美元价位配备 NPU 有望让学生和普通用户也能享受到设备端 AI 能力。如果独立测试能够验证其性能和续航表现，可能会显著改变入门级 Windows PC 市场的格局，尤其是在苹果已通过传闻中的 MacBook Neo 等设备瞄准低价买家的市场。 骁龙 C 支持成本更低的 LPDDR4x 内存（相比 LPDDR5/5x 更便宜），这有助于实现 300 美元的目标价，同时支持 PCIe 3.0 NVMe 和 UFS 2.2/3.1 存储。高通的所有性能对比均基于电池供电状态，尚未披露插电（AC）性能数据，其中 67%的优势来自 Cinebench 多线程测试结果——更广泛的基准测试和实际应用验证仍有待公布。
+微软正在将其各种 Copilot 功能和集成整合到一个统一的"超级应用"中，同时淘汰深度研究、播客和群聊等功能，并将 Office 365 访问纳入其中。
 
-rss · TechPowerUp News · 8月13日 12:15
+rss · TechPowerUp News · 8月13日 17:39
 
-**背景**: 骁龙 C 是高通面向 Windows 笔记本的入门级 Arm PC 平台，定位低于其面向高端 AI PC 的骁龙 X Elite 和 X Plus 产品线。Kryo CPU 架构是高通半定制的 Arm 核心设计，最初源自 ARM 的 Cortex-A 系列，被广泛应用于高通的骁龙移动和计算 SoC 中。Hexagon NPU 是高通专用的神经处理单元，用于以低功耗加速设备端 AI 推理；将其集成到一颗 300 美元的芯片中，打破了行业通常仅在高端笔记本中配备 NPU 的惯例。英特尔 N250 "Twin Lake" 是英特尔面向预算市场的入门级芯片，仅配备能效核（E-core），常见于 400 美元以下的笔记本和迷你主机。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery">Qualcomm details Snapdragon C specs for $300... | Tom's Hardware</a></li>
-<li><a href="https://wccftech.com/qualcomm-aims-snapdragon-c-at-300-usd-laptops-up-to-16-gb-memory-8-cores-all-day-battery/">Qualcomm Aims Snapdragon C At $300 Laptops With Up To 16 GB...</a></li>
-<li><a href="https://www.qualcomm.com/processors/hexagon">Qualcomm Hexagon NPU | Snapdragon NPU Details</a></li>
-
-</ul>
-</details>
-
-**标签**: `#qualcomm`, `#snapdragon`, `#arm`, `#budget-laptops`, `#mobile-pc`
+**标签**: `#Microsoft`, `#Copilot`, `#AI`, `#product-strategy`, `#software-consolidation`
 
 ---
 
 <a id="item-16"></a>
-## [Nightmare Eclipse 披露 Windows 零日提权漏洞“ShieldBreak”](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched) ⭐️ 6.5/10
+## [美国对外国制造无人机征收高达 100%关税，重点针对中国](https://www.tomshardware.com/tech-industry/drones/us-imposes-up-to-100-percent-tariffs-on-foreign-made-drones-and-components-china-remains-primary-target-as-washington-moves-to-reduce-reliance-on-overseas-suppliers) ⭐️ 6.5/10
 
-被称为“Nightmare Eclipse”的威胁行为者或安全研究人员公开披露了一个名为“ShieldBreak”的 Windows 零日漏洞，攻击者可利用该漏洞将权限提升至系统级别。微软已迅速响应，通过 Microsoft Defender 推送缓解措施来阻止漏洞利用。 提权漏洞是攻击链中的关键环节，允许已经在系统上有立足点的攻击者获得完全控制权。这对 Windows 管理员、安全团队和终端用户来说非常重要，因为未被修补的零日漏洞可能被勒索软件运营商和高级持续性威胁组织武器化利用。 该漏洞可授予 SYSTEM 级别权限，这是 Windows 上最高的访问级别，因此尤其危险。微软快速通过 Defender 部署缓解措施——而非等待完整的操作系统补丁——反映了一种日益常见的做法：在正式补丁发布前，利用端点安全产品来保护用户。
+特朗普政府已对外国制造的无人机及其零部件征收高达 100%的关税，中国被认定为主要目标。此举以国家安全为由，旨在减少美国对海外无人机供应商的依赖。 这些高额关税可能重塑全球无人机产业格局，使中国制造的无人机和零部件在美国市场的价格大幅上涨，从而可能使 Skydio 等美国本土制造商受益。依赖中国供应链的硬件初创企业、零部件供应商和商业无人机运营商将面临重大成本冲击，可能需要迅速重新设计产品或将供应链迁回国内。 100%的关税税率异常高，不仅适用于整机无人机，还适用于零部件，这意味着即使是部分中国来源的产品也可能受到影响。该政策框架类似于此前对钢铁和铝使用的 232 条款国家安全关税，表明这是一种广泛的贸易政策工具，而非针对性的限制措施。
 
-rss · Tom's Hardware · 8月13日 17:36
+rss · Tom's Hardware · 8月14日 11:53
 
-**背景**: 零日漏洞是指软件厂商尚不知道的安全缺陷，防御者在漏洞被利用前有“零天”准备时间。提权漏洞特别允许攻击者从受限的用户账户提升到 Windows 机器上的更高权限，例如管理员或 SYSTEM 级别。这些漏洞通常与其他攻击手段（如钓鱼或远程代码执行）结合使用，以彻底攻陷系统，因此无论是网络安全研究人员还是网络犯罪分子都非常重视它们。
+**背景**: 美国无人机市场长期以来一直由中国制造商主导，尤其是大疆（DJI），其占据全球商业无人机市场的绝大部分份额。多年来，美国立法者和情报官员一直担忧中国制造的无人机可能将敏感的地理空间和视觉数据传回中国。之前的政府已将某些中国无人机企业列入受限实体清单，国会也通过了《美国安全无人机法案》以限制联邦机构使用中国无人机。此次新的关税行动标志着从针对特定实体的限制升级为对整个外国无人机供应链的广泛经济施压。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Zero-day_vulnerability">Zero-day vulnerability - Wikipedia</a></li>
-<li><a href="https://hackerdna.com/blog/windows-privilege-escalation">Windows Privilege Escalation: Techniques Guide (2026)</a></li>
-<li><a href="https://www.paloaltonetworks.com/cyberpedia/zero-day-attacks-explained-risks-examples-prevention">What Is a Zero-Day Attack? Risks, Examples, and Prevention</a></li>
-
-</ul>
-</details>
-
-**标签**: `#cybersecurity`, `#windows`, `#zero-day`, `#vulnerability`, `#privilege-escalation`
+**标签**: `#drones`, `#tariffs`, `#trade-policy`, `#supply-chain`, `#china-us-relations`
 
 ---
 
 <a id="item-17"></a>
-## [近封装光学兴起，成为业界对 CPO 阵痛的避险选择](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains) ⭐️ 6.5/10
+## [英特尔副总裁谈 Nova Lake 与 DDR4 回归策略](https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript) ⭐️ 6.5/10
 
-分析师指出，随着共封装光学（CPO）持续面临技术和量产挑战，近封装光学（NPO）作为过渡方案的定位正在强化。预计 NPO 硅光产品的量产周期将延续至本十年末。 这一趋势至关重要，因为 AI 工作负载正将数据中心互连的带宽和能效推向极限，NPO 与 CPO 之间的架构选择将决定超大规模厂商和芯片厂商如何构建下一代 AI 基础设施。这一转变反映了一种务实的对冲策略：企业选择现在部署 NPO，而不是等待 CPO 尚未解决的热设计、良率和标准化问题成熟。 在 NPO 架构中，光学引擎从交换机 ASIC 上移出，但仍保留在同一块板上几厘米以内的距离，通常通过系统主板上的插座式或表面贴装接口连接。这使得 NPO 定位于传统可插拔光模块（LPO）和完全集成的 CPO 之间，在密度上高于可插拔方案，同时又避开了 CPO 严苛的热设计和封装约束。
+在接受 Tom's Hardware 的一对一专访中，英特尔副总裁兼发烧级渠道业务总经理 Robert Hallock 讨论了即将推出的 Nova Lake 架构的预期，透露了在持续内存涨价危机期间转向 DIY 装机用户的战略调整，并暗示将重新推出基于 Raptor Lake 的 CPU 用于 DDR4 平台。Hallock 还指出 Raptor Lake 升级版在英特尔内部引发了一场战略范式转变。 在内存价格高企抑制 PC 装机热情之际，这次专访提供了英特尔高管对公司下一代桌面 CPU 战略的罕见前瞻性评论。重新启用 Raptor Lake 以支持 DDR4 用户，表明英特尔在应对当前市场痛点方面采取了务实的态度，而不是强行将所有客户推向昂贵的 DDR5 平台。 Nova Lake 定位为酷睿 Ultra 200V/400 系列（第 4 代）的桌面和移动处理器，预计于 2026 年底发布，采用全新的 LGA 1954 插槽，搭载重新设计的 P 核和 E 核架构，而非上一代的简单升级。Hallock 提到重新引入 Raptor Lake，专门面向 DDR4 平台，这些平台用户众多且不受当前由 DDR5 引发的“RAMageddon”涨价潮影响。
 
-rss · Tom's Hardware · 8月13日 16:52
+rss · Tom's Hardware · 8月14日 11:00
 
-**背景**: 光互连技术利用硅光子学将电信号转换为光信号，以在长距离传输中实现更高带宽和更低功耗，替代芯片与交换机之间的传统铜缆链路。可插拔光模块安装在交换机前面板上，可以更换，但在速率提升至 800G 和 1.6T 时，其功耗较高且密度受限。共封装光学（CPO）旨在将光学引擎直接置于交换机 ASIC 封装上，从而大幅缩短电路走线和降低功耗，但在热管理、制造良率和生态标准化方面面临挑战。近封装光学（NPO）应运而生，作为一种折中方案，将光学引擎保持在靠近但独立于 ASIC 的位置。
+**背景**: Nova Lake 是英特尔的下一代桌面 CPU 产品线，取代 Arrow Lake，预计将采用全新的 LGA 1954 插槽以及重新设计的 P 核与 E 核架构，因此与现有的 LGA 1851 主板不兼容。所谓“RAMageddon”指的是 2025-2026 年由 AI 对 HBM 和 DRAM 的需求驱动的内存涨价危机，导致消费级 DDR5 价格飙升，部分 PC 装机用户转向 DDR4 替代方案。Raptor Lake 是英特尔第 13 代酷睿处理器的代号，采用 Intel 7 工艺和 LGA 1700 插槽，同时支持 DDR4 和 DDR5，这也是英特尔能够在当前内存紧缺时期将其作为低成本 DDR4 方案重新启用的原因。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://resources.l-p.com/glossary/what-is-near-packaged-optics-benefits-network-upgrades">Beyond Pluggables: What is NPO (Near-Packaged Optics) and Why ...</a></li>
-<li><a href="https://resources.l-p.com/knowledge-center/npo-vs-cpo-optics-placement-speed-efficiency-data-center">NPO vs CPO: Decoding the Future of Optical Networking</a></li>
-<li><a href="https://www.naddod.com/blog/optical-interconnect-technology-analysis-lpo-npo-cpo">Optical Interconnect Technology Analysis: LPO, NPO, CPO</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nova_Lake_(microprocessor)">Nova Lake (microprocessor) - Wikipedia</a></li>
+<li><a href="https://www.techradar.com/pro/why-is-ram-so-expensive-right-now-its-more-complicated-than-you-think">DRAM shortages, AI demand, and rising prices : what... | TechRadar</a></li>
 
 </ul>
 </details>
 
-**标签**: `#silicon-photonics`, `#AI-infrastructure`, `#data-center`, `#optical-interconnects`, `#hardware-trends`
+**标签**: `#Intel`, `#Nova Lake`, `#CPU`, `#DDR4`, `#hardware`
 
 ---
 
 <a id="item-18"></a>
-## [长鑫存储超越腾讯成为中国市值最高公司，估值达 5240 亿美元](https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo) ⭐️ 6.5/10
+## [Prusa Research 全线 3D 打印机免费升级至第二代 '+' 版本](https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free) ⭐️ 6.5/10
 
-长鑫存储科技有限公司（CXMT）在首次公开募股仅 17 天后便超越腾讯，成为中国市值最高的公司，市值约为 5240 亿美元。 这一里程碑事件显示出市场对中国本土半导体产业、尤其是 DRAM 内存领域的巨大信心，而该领域长期由三星、SK 海力士和美光主导。长鑫存储的快速崛起凸显了在 AI 浪潮和美方不断收紧对华先进芯片出口管制的背景下，存储芯片已成为极具战略价值的资产。 长鑫存储成立于 2016 年，总部位于安徽合肥，专门生产用于手机、PC、平板和服务器的 DRAM 芯片。尽管在 DRAM 领域尚属新进入者，其市值如今已超越长期主导中国科技行业的巨头腾讯，反映出投资者在中国推动半导体自给自足以及 AI 驱动的存储超级周期中的押注。
+Prusa Research 宣布其全线 3D 打印机（包括 XL、CORE One 和 CORE One L）将获得第二代升级，并启用新的 '+' 标识。所有新订单将自动免费获得升级后的 '+' 版本。 作为桌面级 3D 打印行业最受认可的品牌之一，Prusa 的这一举措意义重大，确保新买家在产品过渡期内无需额外付费即可获得最新硬件。这种对消费者友好的政策也反映了 3D 打印机市场的竞争压力，各大厂商正竞相提供更好的速度、可靠性和材料兼容性。 升级后的机型将带有 '+' 后缀以区别于前代产品，沿用了类似 MINI+ 的命名约定。虽然公告中未详细说明每款机型的具体技术改进，但已知 CORE One+ 的优势包括高速 CoreXY 架构和封闭式设计，可打印 PLA、PETG、ABS、ASA、PC 和尼龙等工程级材料。
 
-rss · Tom's Hardware · 8月13日 13:27
+rss · Tom's Hardware · 8月13日 20:35
 
-**背景**: DRAM（动态随机存取存储器）是一种易失性内存，几乎应用于从智能手机到数据中心服务器的所有计算设备，作为主内存使用。全球 DRAM 市场历来由三星、SK 海力士和美光三家公司寡头垄断，这三家企业均不在中国。成立于 2016 年的长鑫存储总部位于合肥，是中国打破这一战略市场格局、减少对国外存储供应商依赖的旗舰项目。该公司上市仅 17 天市值便飙升至 5240 亿美元，表明投资者将其视为中国实现技术自主和 AI 基础设施建设目标的核心资产。
+**背景**: Prusa Research 由 Josef Průša 在捷克创立，是领先的桌面级 FDM（熔融沉积成型）3D 打印机制造商之一，以开源设计和可靠的机器著称。截至 2025 年，其产品线包括 MK4S、MINI+、XL 和 CORE One，其中 XL 是配备多达 5 个工具头的高端多工具打印机，可实现多色多材料打印，而 CORE One 是一款高速封闭式 CoreXY 打印机。该公司还开发了 PrusaSlicer，这是一款在 3D 打印社区广泛使用的开源切片软件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
-<li><a href="https://electronics.alibaba.com/buyingguides/chinese-ram-manufacturers-who-matters-in-2026">Chinese RAM Manufacturers Guide: What to Know Before Buying</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prusa_Research">Prusa Research - Wikipedia</a></li>
+<li><a href="https://www.prusa3d.com/">Original Prusa 3 D printers directly from Josef Prusa</a></li>
+<li><a href="https://www.dynamism.com/brands/prusa/prusa-core-one-plus-kit.html">Prusa CORE One + Kit | Dynamism</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#memory-chips`, `#china-tech`, `#ipo`, `#market-news`
+**标签**: `#3d-printing`, `#prusa-research`, `#hardware-updates`, `#consumer-electronics`, `#product-announcement`
 
 ---
 
 <a id="item-19"></a>
-## [马斯克：xAI 到 2027 年将算力扩展至 10 吉瓦，营收目标 5000 亿美元](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-increase-data-center-capacity-7x-by-2027-targeting-10-gigawatts-of-compute-up-to-usd500-billion-in-revenue-by-the-end-of-next-year) ⭐️ 6.5/10
+## [近封装光学（NPO）崛起，成为应对共封装光学难题的备选方案](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains) ⭐️ 6.5/10
 
-埃隆·马斯克表示，xAI 将在 2027 年底前将其额定电力容量扩展至 10 吉瓦（GW），约为现有容量的 7 倍，并预计到明年（2026 年）底营收最高可达 5000 亿美元。10 吉瓦的目标将使 xAI 的算力比当前可用于 AI 工作负载的算力高出多个数量级。 10 吉瓦的计算规模大致相当于十座核反应堆的输出，远超目前业界顶尖水平约 1 吉瓦的集群规模，表明 xAI 正试图跻身超大规模 AI 实验室的顶级行列。电力和电网接入已成为 AI 基础设施的核心瓶颈，因此在两年内获得如此规模的电力供应，其后勤和电网挑战与芯片供应本身同等重要。 额定电力容量（nameplate power draw）指的是数据中心的最大额定功率，而非其平均实际消耗，因此 10 吉瓦是一个设计上限目标，而非保证的持续负载。马斯克关于 2026 年底达到 5000 亿美元营收的预测极为雄心勃勃——xAI 是一家相对年轻的公司，且从历史来看，马斯克的前瞻性财务和时间表预测能否按原定计划兑现，参差不齐。
+分析师指出，近封装光学（NPO）正获得越来越多关注，因为行业正在对冲共封装光学（CPO）在部署中遇到的挑战。基于 NPO 的硅光子产品预计将在本十年结束前实现量产出货。 这一问题至关重要，因为 AI 基础设施和超大规模数据中心正日益受到传统电互连带宽和能效瓶颈的限制，使 NPO 与 CPO 之间的技术路线选择成为下一代网络架构规划的关键。这一转变将影响芯片制造商、交换机 ASIC 供应商以及规划多年资本支出的云服务运营商。 NPO 在架构上位于传统可插拔光模块（如 QSFP 模块）与完全共封装光模块之间，将光引擎放置在靠近交换芯片的位置，但不像 CPO 那样进行深度共集成。CPO 严重依赖硅光子技术，将波导、调制器和探测器直接集成到硅晶圆上，但在良率、热管理和标准化方面面临的挑战减缓了其推广速度。
 
-rss · Tom's Hardware · 8月13日 10:00
+rss · Tom's Hardware · 8月13日 16:52
 
-**背景**: AI 的训练和推理工作负载极其耗电，因为它们需要全天候并行运行大量 GPU 或定制 AI 加速器。截至 2026 年初，最大的 AI 训练集群已接近 1 吉瓦的基础设施规模，分析师曾警告称，吉瓦级 AI 数据中心由于训练任务集中且波动的负载曲线，可能引发区域性电网停电。由于电网互联容量和实际电力输送已成为 AI 扩展的主要瓶颈，2027 年达到 10 吉瓦的目标需要在芯片部署之前多年提前规划变电站、发电设施和冷却基础设施。
+**背景**: 传统数据中心网络依赖于可插拔光收发模块来实现电信号与光信号的相互转换，但随着 AI 工作负载推动太比特级带宽需求，行业正朝着光学与硅基芯片更紧密集成的方向演进。LPO（线性可插拔光学）、NPO 和 CPO 代表了这一演进过程中的三个连续阶段：LPO 简化了可插拔模块，NPO 将光引擎更靠近同一基板或封装上的交换机 ASIC，而 CPO 则将光学直接集成到交换芯片封装内。硅光子技术是使 NPO 和 CPO 成为可行的使能技术，它允许使用标准 CMOS 工艺来制造光学元件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/ai/articles/elon-musk-says-xai-increase-100000046.html">Elon Musk says xAI will increase data center capacity 7x by ...</a></li>
-<li><a href="https://www.datacenters.com/news/ai-training-clusters-are-reaching-1-gw-infrastructure-scale">AI Training Clusters Are Reaching 1 GW Infrastructure Scale</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout">AI Training Load Fluctuations at Gigawatt-scale - Risk of ...</a></li>
+<li><a href="https://resources.l-p.com/glossary/what-is-near-packaged-optics-benefits-network-upgrades">Beyond Pluggables: What is NPO ( Near - Packaged Optics ) and Why...</a></li>
+<li><a href="https://dev.to/aicplight/lpo-vs-npo-vs-cpo-the-evolution-of-optical-interconnects-in-ai-data-centers-33ha">LPO vs NPO vs CPO: The Evolution of Optical ... - DEV Community</a></li>
+<li><a href="https://www.fibermall.com/blog/overview-of-cpo.htm">Comprehensive Overview of CPO ( Co - Packaged Optics ) | FiberMall</a></li>
 
 </ul>
 </details>
 
-**标签**: `#xAI`, `#AI infrastructure`, `#data centers`, `#Elon Musk`, `#compute scaling`
+**标签**: `#phototonics`, `#AI-infrastructure`, `#data-center`, `#silicon-photonics`, `#hardware`
 
 ---
 
 <a id="item-20"></a>
-## [Cerebras 股价暴跌近 20%，因业绩低于预期——硬件销售下滑，但 AI 云收入增长 281%](https://www.tomshardware.com/tech-industry/artificial-intelligence/cerebras-shares-plunge-nearly-20-percent-after-missing-earnings-expectations-hardware-sales-drop-but-ai-cloud-revenue-climbs-281-percent) ⭐️ 6.5/10
+## [Microchip 在 FMS 2026 展示 160 通道 PCIe Gen6 交换机](https://www.servethehome.com/microchip-switchtec-160-lane-pcie-gen6-switch-shown-at-fms-2026-with-xpressconnect-pcie-6-retimer/) ⭐️ 6.5/10
 
-Cerebras 股价下跌近 20%，原因是业绩未达预期，硬件销售有所下滑，但 AI 云收入增长 281%，部分抵消了硬件销售的疲软。
+在 FMS 2026 上，Microchip 展示了 160 通道的 Switchtec PCIe Gen6 交换机以及 XpressConnect PCIe 6 重定时器（retimer），Everpure 也在展会中亮相。此次演示展示了面向 AI 和高性能计算工作负载的下一代数据中心连接硬件。 具有极高通道数量的 PCIe Gen6 交换机对于扩展 AI 基础设施至关重要，因为 GPU、加速器和高带宽内存必须以最低延迟互连。160 通道的交换芯片可支持密集拓扑（如大型 GPU 集群），直接助力 AI 训练和推理数据中心的建设。 Switchtec 系列历来提供低于 10ns 的跳数延迟，远低于 PCIe Gen5 规范约 60ns 的参考值，而 Gen6 代产品定位于 AI 和 HPC 工作负载。XpressConnect 等重定时器在 PCIe 规范中有正式定义，用于在 Gen6 所采用的高 64 GT/s PAM4 信号速率下扩展物理链路距离并保持信号完整性。
 
-rss · Tom's Hardware · 8月13日 09:46
+rss · ServeTheHome · 8月13日 18:00
 
-**标签**: `#AI hardware`, `#Cerebras`, `#semiconductors`, `#earnings`, `#AI cloud`
+**背景**: PCI Express（PCIe）是服务器内部用于连接 CPU、GPU、NVMe 存储和加速器的高速串行互连标准。每一代标准的单通道带宽大致翻倍：PCIe Gen5 速率为 32 GT/s，Gen6 使用 PAM4 信号达到 64 GT/s，因此一条 x16 Gen6 链路每个方向可提供约 128 GB/s（双向 256 GB/s）的带宽。在如此高的速率下，信号在铜走线上会快速衰减，因此需要重定时器来重新调理信号并延长传输距离，而 PCIe 交换机则可在现代 AI 集群常见的 fabric 拓扑中向多个端点扩展连接。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/confessions-engineer-pcie-gen-6-nyquist-trap-chandra-sekhar-mallela-073fc">Confessions of an Engineer: The PCIe Gen 6 Nyquist Trap</a></li>
+<li><a href="https://thevoltpost.com/microchip-switchtec-gen-6-pcie-switches/">Switchtec Gen 6 PCIe switches from Microchip for AI Workload</a></li>
+<li><a href="https://www.servethehome.com/microchip-switchtec-pcie-5-0-switches-now-sampling/">Microchip Switchtec PCIe 5.0 Switches Now... - ServeTheHome</a></li>
+
+</ul>
+</details>
+
+**标签**: `#PCIe Gen6`, `#Microchip`, `#data center infrastructure`, `#hardware`, `#FMS 2026`
 
 ---
