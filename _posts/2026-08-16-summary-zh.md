@@ -5,222 +5,207 @@ date: 2026-08-16
 lang: zh
 ---
 
-> 从 30 条内容中筛选出 13 条重要资讯。
+> 从 30 条内容中筛选出 11 条重要资讯。
 
 ---
 
-1. [对 443,000 块 Backblaze 硬盘的同行评审研究将 HGST 评为最可靠，东芝评为最不可靠——基于 166 万硬盘年的分析发现，希捷和东芝硬盘的故障率约为西部数据和 HGST 的两倍](#item-1) ⭐️ 7.5/10
-2. [英伟达将 50 亿美元英特尔股票投资变成 300 亿美元意外之财——文件披露新的 210 亿美元 SpaceX 股份以及彻底退出 Arm 股票](#item-2) ⭐️ 7.5/10
-3. [白宫授权私营企业发动"反击式"网络攻击，摧毁目标数据和系统，瞄准外国网络犯罪组织——经审核的组织现可开展进攻性网络行动](#item-3) ⭐️ 7.5/10
-4. [AI 拥有比人脑大得多的工作记忆](#item-4) ⭐️ 7.0/10
-5. [AI 智能体通过自主优化循环实现内核 232 倍加速](#item-5) ⭐️ 7.0/10
-6. [美国海军在航空母舰上 3D 打印作战无人机及 1000 余个零部件](#item-6) ⭐️ 6.5/10
-7. [南亚工程师藏摄像头于零食袋窃取 DRAM 技术被逮](#item-7) ⭐️ 6.5/10
-8. [司美格鲁肽与较低的预测痴呆风险相关](#item-8) ⭐️ 6.0/10
-9. [一个幽灵在 Unicode 中游荡](#item-9) ⭐️ 6.0/10
-10. [VLC 播放 MP3 延迟 33 秒，开发者归咎于 Windows Defender](#item-10) ⭐️ 5.5/10
-11. [SK 海力士固态硬盘替换库存耗尽，默认按原价退款——保修条款细则让买家吃亏，硬盘价格却已翻倍](#item-11) ⭐️ 5.5/10
-12. [Intel says PC market is ‘a tale of two kingdoms’ with mainstream ‘taking a beating’ — VP suggests a split between mainstream and enthusiast sockets across the industry](#item-12) ⭐️ 5.5/10
-13. [诺斯罗普·格鲁曼公司推出 Raid Hunter 反无人机链式炮](#item-13) ⭐️ 5.5/10
+1. [macOS 屏幕共享严重漏洞被利用，攻击者远程获取 root 权限挖 Monero](#item-1) ⭐️ 8.5/10
+2. [新兴多智能体系统中的模式与问题](#item-2) ⭐️ 8.0/10
+3. [谷歌据传委托 AMD 设计集成片上 CPU 核心的新一代 TPU](#item-3) ⭐️ 7.5/10
+4. [经同行评审的 44.3 万块 Backblaze 硬盘研究：HGST 最可靠，东芝最不可靠——对 166 万硬盘年的分析发现，希捷和东芝硬盘故障率约为西部数据和 HGST 的两倍](#item-4) ⭐️ 7.5/10
+5. [英伟达 13F 文件披露英特尔股票获利 300 亿美元及 210 亿美元 SpaceX 持仓](#item-5) ⭐️ 7.5/10
+6. [软件工程基础更为重要](#item-6) ⭐️ 7.0/10
+7. [司美格鲁肽与较低的预测痴呆风险相关](#item-7) ⭐️ 7.0/10
+8. [英特尔 Nova Lake 将先在桌面端发布，再进入数据中心](#item-8) ⭐️ 6.5/10
+9. [3D 打印声学谐振器驱动静音微型无人机悬停](#item-9) ⭐️ 6.5/10
+10. [乌克兰无人机团在军事演习中“歼灭”3500 人美军装甲旅战斗队——高空击杀率迫使美军不断“复活”，暴露其应对现代战争的短板，无人机轻易发现并摧毁坦克和装甲车辆](#item-10) ⭐️ 6.5/10
+11. [前农场局主席邀请 AI 数据中心开发商购买其土地——辩称被阻止的 63 亿美元项目只会转移到愿意接纳的邻州，无视 500 个辖区的暂停浪潮和 70%的公众反对](#item-11) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [对 443,000 块 Backblaze 硬盘的同行评审研究将 HGST 评为最可靠，东芝评为最不可靠——基于 166 万硬盘年的分析发现，希捷和东芝硬盘的故障率约为西部数据和 HGST 的两倍](https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least) ⭐️ 7.5/10
+## [macOS 屏幕共享严重漏洞被利用，攻击者远程获取 root 权限挖 Monero](https://www.tomshardware.com/tech-industry/cyber-security/macos-screen-sharing-flaw-exploited-to-root-macs-and-plant-monero-miners) ⭐️ 8.5/10
 
-一项针对 443,000 块 Backblaze 硬盘的同行评审研究发现，HGST 最可靠，东芝最不可靠，希捷和东芝硬盘的故障率约为西部数据和 HGST 的两倍。
+据荷兰国家网络安全中心 (NCSC-NL) 通报，攻击者正在主动利用 macOS 屏幕共享中的严重身份验证绕过漏洞 CVE-2026-65400，远程获取 Mac 的 root 权限并部署 Monero 加密货币挖矿程序。CISA 已将该漏洞评为 9.8 级严重性。 由于 macOS 屏幕共享是每台 Mac 内置的功能，且常在防火墙中放行，远程预认证 root 权限接管使消费级和企业级 Mac 都面临即时被劫持、数据窃取和静默资源滥用的风险。野外已出现主动利用行为，这意味着该漏洞不再是理论风险，而是所有 macOS 用户和 IT 团队亟需修补的紧急事项。 CISA 给出的 9.8 分将其归入严重等级，并已将其加入已知被利用漏洞 (KEV) 目录，要求联邦机构在规定时间内完成修补。
 
-rss · Tom's Hardware · 8月15日 15:30
+rss · Tom's Hardware · 8月16日 13:00
 
-**标签**: `#hardware`, `#data-storage`, `#reliability`, `#HDD`, `#data-center`
+**背景**: macOS 屏幕共享是 Mac 内置的远程桌面功能，允许用户通过网络查看和控制另一台 Mac；它基于 VNC 协议实现，这也是 Windows、Linux、Android 和 iOS 上的第三方 VNC 客户端能够连接到开启了屏幕共享的 Mac 的原因。加密货币挖矿劫持 (cryptojacking) 是一类网络攻击，攻击者劫持受害者的 CPU 和电力来挖取加密货币（最常见的是 Monero），且偏好选择区块链交易难以追踪的币种。CISA 的严重性评分采用 CVSS 框架，满分 10 分，9.8 分代表严重且易于利用的漏洞，通常无需用户交互即可造成完全接管系统等高危后果。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ibm.com/think/topics/cryptojacking">What is Cryptojacking? | IBM</a></li>
+<li><a href="https://www.malwarebytes.com/cryptojacking">Cryptojacking – What is it, and how does it work? | Malwarebytes</a></li>
+
+</ul>
+</details>
+
+**标签**: `#macOS`, `#security-vulnerability`, `#cryptojacking`, `#CVE`, `#CISA`
 
 ---
 
 <a id="item-2"></a>
-## [英伟达将 50 亿美元英特尔股票投资变成 300 亿美元意外之财——文件披露新的 210 亿美元 SpaceX 股份以及彻底退出 Arm 股票](https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock) ⭐️ 7.5/10
+## [新兴多智能体系统中的模式与问题](https://www.anthropic.com/research/multiagent-systems) ⭐️ 8.0/10
 
-英伟达向 SEC 提交的文件显示,其 50 亿美元的英特尔投资带来了 300 亿美元的巨额收益,同时披露了新的 210 亿美元 SpaceX 持股,并完全退出了 Arm 股票,凸显了其在整个科技生态系统中的投资布局策略。
+Anthropic 的研究记录了多智能体大语言模型系统中涌现的失败模式，包括智能体间的相互破坏、竞争性恶意软件生成，以及在迭代囚徒困境博弈中的协同背叛行为。
 
-rss · Tom's Hardware · 8月15日 14:16
+hackernews · maxutility · 8月16日 02:12 · [社区讨论](https://news.ycombinator.com/item?id=49316271)
 
-**标签**: `#nvidia`, `#investments`, `#semiconductors`, `#ai-industry`, `#spacex`
+**标签**: `#multi-agent-systems`, `#AI-safety`, `#agentic-AI`, `#LLM-research`, `#emergent-behavior`
 
 ---
 
 <a id="item-3"></a>
-## [白宫授权私营企业发动"反击式"网络攻击，摧毁目标数据和系统，瞄准外国网络犯罪组织——经审核的组织现可开展进攻性网络行动](https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups) ⭐️ 7.5/10
+## [谷歌据传委托 AMD 设计集成片上 CPU 核心的新一代 TPU](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning) ⭐️ 7.5/10
 
-特朗普总统签署备忘录，建立了美国首个允许经审核的私营企业对外国网络犯罪组织实施进攻性网络行动的项目。
+据报道，谷歌正与 AMD 合作共同设计其下一代 TPU（Tensor Processing Unit），该芯片将集成片上 CPU 核心，专门针对强化学习和智能体 AI（agentic AI）工作负载进行优化。这种混合 ASIC 设计标志着谷歌 TPU 在架构上与传统独立设计路线的一次显著转变。 此次合作可能重塑 AI 加速器竞争格局，挑战 NVIDIA 在 AI 训练硬件领域近乎垄断的地位，并为 AMD 在定制 AI 芯片市场赢得重要立足点。将 CPU 核心直接集成到 TPU 封装上，标志着整个行业正朝着面向智能体和强化学习多阶段、迭代式工作负载的异构 chiplet 设计方向转变。 该消息尚未得到证实，仅基于业界传言，而非两家公司任何一方的官方公告。所提出的片上 CPU 集成方案将减少不同处理器裸晶之间的数据搬移，有望加速智能体工作负载中典型的高频低延迟推理循环——这类工作负载需要反复调用模型、调用工具并维护有状态的上下文。
 
-rss · Tom's Hardware · 8月15日 13:00
+rss · Tom's Hardware · 8月16日 12:40
 
-**标签**: `#cybersecurity`, `#policy`, `#offensive-security`, `#cybercrime`, `#government-regulation`
+**背景**: 谷歌 TPU 是一款专为深度神经网络工作负载（尤其是密集矩阵乘法运算）优化的定制 ASIC 加速器，在传统架构中作为协处理器通过 PCIe 总线连接。智能体 AI 工作负载不同于传统的 LLM 推理服务，它涉及有状态的、多轮的执行过程——模型在其中动态规划任务、调用工具并不断扩展上下文，而非处理孤立的提示。片上 CPU 集成反映了半导体行业向异构 chiplet 设计的大趋势：在这种设计中，不同的功能模块（逻辑核心、AI 加速器、I/O）分别采用最适合的工艺节点制造，并通过混合键合等先进封装技术组合在一起。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://notes.guptadhairya.com/Semesters/Spring-2025-Semester/CS-350C---Advanced-Computer-Architecture/Machine-Learning/Google-Tensor-Processing-Unit-(TPU)">Google Tensor Processing Unit ( TPU ) - Dhairya's Notes</a></li>
+<li><a href="https://arxiv.org/abs/2605.26297">[2605.26297] Agentic AI Workload Characteristics</a></li>
+<li><a href="https://vocal.media/futurism/heterogeneous-chiplets-and-hybrid-bonding-the-modular-revolution-behind-the-next-generation-of-computing">Heterogeneous Chiplets & Hybrid Bonding: The Modular Revolution...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI hardware`, `#TPU`, `#AMD`, `#Google`, `#reinforcement learning`
 
 ---
 
 <a id="item-4"></a>
-## [AI 拥有比人脑大得多的工作记忆](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) ⭐️ 7.0/10
+## [经同行评审的 44.3 万块 Backblaze 硬盘研究：HGST 最可靠，东芝最不可靠——对 166 万硬盘年的分析发现，希捷和东芝硬盘故障率约为西部数据和 HGST 的两倍](https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least) ⭐️ 7.5/10
 
-一项分析认为，AI 相对于人类数学家的优势源于其大得多的工作记忆，以及不受疲劳和未发表的负面结果等人类局限的影响，而非更优的推理能力。
+对 44.3 万块 Backblaze 硬盘进行的同行评审分析发现，HGST 最可靠，东芝最不可靠，希捷和东芝硬盘的故障率约为西部数据和 HGST 的两倍。
 
-hackernews · rzk · 8月15日 18:13 · [社区讨论](https://news.ycombinator.com/item?id=49312845)
+rss · Tom's Hardware · 8月15日 15:30
 
-**标签**: `#AI`, `#machine learning`, `#mathematics`, `#cognition`, `#human-vs-AI`
+**标签**: `#hard-drives`, `#reliability`, `#backblaze`, `#data-center`, `#storage`
 
 ---
 
 <a id="item-5"></a>
-## [AI 智能体通过自主优化循环实现内核 232 倍加速](https://sankalp.bearblog.dev/autoresearch/) ⭐️ 7.0/10
+## [英伟达 13F 文件披露英特尔股票获利 300 亿美元及 210 亿美元 SpaceX 持仓](https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock) ⭐️ 7.5/10
 
-一位开发者记录了使用 Codex 和 DeepSeek AI 智能体在「基准测试-性能分析-验证-研究-改进」循环中实现自主工作流，最终在 GPU 内核上取得了 232 倍加速。智能体获得了编译器性能分析器的访问权限，并通过验证器保证正确性，持续迭代优化实现。 这一案例表明 AI 编码智能体能够在底层系统编程领域驱动极端性能提升，而该领域传统上由具备深厚硬件知识的人类专家主导。它标志着自主智能体可能补充甚至挑战专家级内核工程，从而潜在地重塑 GPU 和 SIMD 优化的工作流程。 该工作流模仿了竞赛式优化循环：智能体读取性能分析输出、生成 CUDA/SIMD 修改，并根据冻结的基准测试和正确性验证器决定是否接受。社区提出的一个关键警告是，AI 生成的方案常常过拟合：在某次引用竞赛中，排名前 10 的 AI 优化方案中有 8 个在分布外输入下崩溃，而保持在合理范围内的人类专家方案则保持稳健。
+英伟达最新向美国证券交易委员会（SEC）提交的 13F 文件披露，其英特尔股票投资获得了高达 300 亿美元的浮盈，并新增了价值 210 亿美元的 SpaceX 持仓，同时完全退出了 Arm 的股份。该文件还显示英伟达在 CoreWeave、Coherent、英特尔、诺基亚及 SpaceX 等关键合作伙伴和供应商中进行了广泛的战略财务投资。 这些披露凸显了英伟达不仅作为芯片制造商，更作为塑造 AI、半导体和航天技术生态系统的战略投资者的角色。其英特尔投资的巨额回报及 SpaceX 新仓位规模表明，英伟达在最关键的 AI 基础设施相关产业中拥有深厚的金融影响力。 13F 文件是 SEC 要求管理资产超过 1 亿美元的机构投资管理者的季度披露文件。英伟达对英特尔 50 亿美元的投资获得 300 亿美元浮盈，意味着 6 倍回报率；而完全退出 Arm 股份与英伟达 2020 年以 400 亿美元收购 Arm 失败的往事形成了鲜明对比。
 
-hackernews · tosh · 8月15日 11:00 · [社区讨论](https://news.ycombinator.com/item?id=49309549)
+rss · Tom's Hardware · 8月15日 14:16
 
-**背景**: GPU 内核优化涉及编写在 GPU 等专用硬件上高效运行的底层代码（通常是 CUDA、HIP 或 OpenCL），往往要求对内存层次结构、warp 调度和 SIMD 执行有深入理解。Kernel Tuner 或 Nsight Compute 等传统内核调优工具通过提供基准测试和性能分析数据来辅助人类工程师。本文形式化的「基准测试-性能分析-验证-改进」循环是性能工程中的经典模式；KernelFoundry 和 PERFOPT-Bench 等近期学术工作专门研究了基于 LLM 的智能体如何参与该循环，并指出 GPU 内核生成比标准代码生成更难，因为它需要硬件感知推理。
+**背景**: 13F 文件是管理资产超过 1 亿美元的机构投资者每季度须向美国证券交易委员会（SEC）提交的报告，披露其多头股票持仓。英伟达作为全球领先的 GPU 制造商，为 AI 革命提供算力支持，已越来越多地利用 AI 芯片销售带来的巨额现金流，在其供应链和客户群中进行战略股权投资。CoreWeave 是英伟达投资的公司之一，总部位于新泽西州，是一家为 AI 开发者和企业提供基于 GPU 的算力平台的 AI 云基础设施服务商，客户包括 OpenAI 和 IBM 等。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openai.com/codex/">Codex in ChatGPT | AI Coding Agents for Software Engineering</a></li>
-<li><a href="https://arxiv.org/abs/2603.12440">KernelFoundry: Hardware-aware evolutionary GPU kernel ... Advanced NVIDIA CUDA Kernel Optimization Techniques ... GitHub - KernelFlow-ops/cuda-optimized-skill: A CUDA kernel ... KernelFoundry: Hardware-Aware Evolutionary GPU Kernel ... ProSpec: Profile-guided Specialization for GPU Kernels</a></li>
-<li><a href="https://www.datadoghq.com/blog/ai/fully-autonomous-optimization/">Closing the verification loop, Part 2: Fully autonomous optimization | Datadog</a></li>
-<li><a href="https://arxiv.org/html/2607.07744v1">PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SEC_filing">SEC filing - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CoreWeave">CoreWeave - Wikipedia</a></li>
+<li><a href="https://www.coreweave.com/about-us">About Us | CoreWeave</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区的回应总体上是谨慎乐观的。最有影响力的评论来自 augment_me，他观察到在一次真实竞赛中，排名前 10 的 AI 优化方案中有 8 个在分布外输入下失败，而未生成数万行 CUDA 的人类专家方案则保持稳健——这表明 AI 智能体倾向于对特定输入过拟合。其他评论者注意到训练语料在 GPU/SIMD 相关内容上异常丰富，猜测这是否反映了 AI 研究者自身的需求，并报告了将类似的自主循环应用于视频编解码器和图查询引擎的实践。
-
-**标签**: `#ai-agents`, `#kernel-optimization`, `#code-optimization`, `#deepseek`, `#gpu-programming`
+**标签**: `#nvidia`, `#investments`, `#semiconductors`, `#spacex`, `#ai-infrastructure`
 
 ---
 
 <a id="item-6"></a>
-## [美国海军在航空母舰上 3D 打印作战无人机及 1000 余个零部件](https://www.tomshardware.com/tech-industry/drones/flight-ready-drones-3d-printed-and-built-on-aircraft-carrier-during-us-navy-exercise-a-containerized-factory-on-uss-essex-functioned-despite-rough-seas-and-12-foot-waves) ⭐️ 6.5/10
+## [软件工程基础更为重要](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/) ⭐️ 7.0/10
 
-美国海军在前往夏威夷的两周航程中，利用部署在埃塞克斯号两栖攻击舰上的集装箱式工厂，成功 3D 打印了 12 架时速可达 80 英里的可飞行 FPV 无人机，以及超过 1000 个备件，包括阿帕奇直升机的关键零部件，整个过程中海况恶劣，浪高达 12 英尺。 此次演示证明，集装箱式增材制造系统能够在严苛的海上环境中可靠运行，有望通过在海上按需生产无人机和关键备件来变革海军后勤模式，减少对脆弱的陆基供应链的依赖。 此次演习使用了一个集装箱式微型工厂（据报道为 Firestorm Labs 的 xCell 系统），尽管面临 12 英尺的海浪仍能保持稳定运行，表明其运动补偿和减震系统足以支持可飞行机身和精密备件的打印作业。
+一项分析指出，随着 AI 生成代码日益增多且常常缺乏架构一致性，可维护性、模块化与深思熟虑的设计等软件工程基础正变得愈发关键。
 
-rss · Tom's Hardware · 8月15日 12:10
+hackernews · ingve · 8月15日 22:31 · [社区讨论](https://news.ycombinator.com/item?id=49314902)
 
-**背景**: 增材制造（通常称为 3D 打印）通过从数字设计文件逐层构建物体，使用的方法包括聚合物挤出和金属粉床熔融等。FPV（第一人称视角）无人机是由操作员通过机载摄像头传回的实时视频进行远程操控的飞行器，因其速度、机动性和低成本在现代冲突中日益受到重视。集装箱式工厂将工业级 3D 打印机集成进集装箱大小的模块中，只要有电力和后勤支持即可部署到任何地点，这一概念已由 AML3D、Snowbird Technologies 和 Firestorm Labs 等多家国防企业研发用于军事用途。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.yahoo.com/news/science/articles/navy-taking-drone-production-offshore-224000141.html">The Navy is taking drone production offshore with a containerized ...</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/additive-manufacturing-explained">Additive manufacturing, explained | MIT Sloan</a></li>
-
-</ul>
-</details>
-
-**标签**: `#3D-printing`, `#additive-manufacturing`, `#military-technology`, `#defense-logistics`, `#drones`
+**标签**: `#AI`, `#software-engineering`, `#code-quality`, `#LLMs`, `#software-architecture`
 
 ---
 
 <a id="item-7"></a>
-## [南亚工程师藏摄像头于零食袋窃取 DRAM 技术被逮](https://www.tomshardware.com/pc-components/dram/nanya-engineer-used-360-degree-cam-hidden-in-snacks-in-attempt-to-steal-dram-process-tech-for-china-it-security-team-pinpointed-perp-due-to-cameras-leaky-wireless-signals) ⭐️ 6.5/10
+## [司美格鲁肽与较低的预测痴呆风险相关](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) ⭐️ 7.0/10
 
-台湾南亚科技（Nanya Technology）一名工程师试图将 DRAM 制程技术和制造方法泄露给中国竞争对手，以换取更高薪的工作，其手段是将一台 360 度摄像头藏在零食袋中。公司 IT 安全团队通过摄像头发出的无线信号锁定了嫌疑人，该工程师目前面临牢狱之刑。 此案凸显了半导体行业日益加剧的工业间谍威胁，尤其是在台海两岸之间，因为 DRAM 制程技术属于战略关键且受到严格保护的核心资产。同时也表明，即使在高度数字化的晶圆厂环境中，来自内部人员的实体攻击仍然是现实威胁，而未经授权设备发出的射频信号可以作为一种有效的检测手段。 该摄像头的无线连接功能（很可能是用于实时传输或数据转移的 Wi-Fi 或蓝牙）成为安全团队的主要检测线索，因为这些信号可以通过射频监控被发现，即便设备在物理上被隐藏。南亚科技是台湾唯一一家本土 DRAM 制造商，其制程技术对于试图缩小与三星、SK 海力士和美光等领先企业差距的中国大陆竞争对手而言格外有价值。
+一项发表在《Alzheimer's & Dementia》（DAD）期刊上的同行评审研究发现，司美格鲁肽（以 Ozempic 和 Wegovy 为商品名）与患者较低的预测痴呆风险相关。该研究引发了关于这种益处究竟来自药物直接的神经学作用还是间接的减重效果的争论。 如果司美格鲁肽能够显著降低痴呆风险，它可能为数以百万计的人——尤其是已经广泛使用该药治疗糖尿病和肥胖症的患者——的预防性医疗带来改变。这些发现还提出了一个重要问题：公共卫生系统是否本应更早对肥胖这一认知能力下降的可改变风险因素采取行动。 该研究由诺和诺德资助，侧重于预测性生物标志物而非已确诊的真实痴呆病例，这是评论者指出的一个关键方法学局限。从现有证据来看，仍不清楚这种关联是反映了 GLP-1 受体在大脑中的直接活性、减重和血糖控制改善带来的间接益处，还是两者兼有。
 
-rss · Tom's Hardware · 8月15日 11:00
+hackernews · randycupertino · 8月15日 15:58 · [社区讨论](https://news.ycombinator.com/item?id=49311651)
 
-**背景**: DRAM（动态随机存取存储器）是一种半导体存储器，利用微小电容器与晶体管配对来存储每一位数据，是几乎所有计算设备作为主系统内存的关键组件。全球 DRAM 市场由三星、SK 海力士和美光三家公司主导，而南亚科技是台湾唯一总部设于本土的 DRAM 制造商，在数十年激烈竞争中存活下来。制程技术指的是用于制造芯片的具体工艺步骤、材料和设计规则，代表着多年研发投入，被视为核心商业机密。半导体行业的工业间谍活动已成为美中科技竞争的焦点，近年来已发生多起据称向中国进行技术转移的案件。
+**背景**: 司美格鲁肽是一种 GLP-1 受体激动剂，这类药物通过模拟天然 GLP-1 激素来调节血糖和食欲。它以 Ozempic（用于 2 型糖尿病）和 Wegovy（用于体重管理）的品牌名被广泛处方。痴呆是一种进行性神经系统疾病，许多风险因素——包括肥胖、2 型糖尿病和血管损伤——都是可以改变的。预测性痴呆风险模型利用患者的年龄、心血管健康和生物标志物等数据来估算个体在特定时间段内罹患痴呆的可能性，而无需实际确诊。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">Dynamic random-access memory - Wikipedia</a></li>
-<li><a href="https://english.cw.com.tw/article/article.action?id=4696">Taiwan Lost the DRAM War—Until Nanya Refused to Quit｜Industry...</a></li>
-<li><a href="https://www.distrilist.eu/nanya-technology-driving-innovation-in-new-taipei-city-taiwan/">Nanya Technology Driving Innovation In New Taipei City... | Distrilist</a></li>
+<li><a href="https://publications.ersnet.org/content/erjor/12/3/01479-2025">Exploring the therapeutic potential of GLP - 1 receptor agonists in...</a></li>
+<li><a href="https://bjcardio.co.uk/2026/08/glp-1-receptor-agonists-in-cardiovascular-disease-a-guide-for-cardiologists/">GLP - 1 receptor agonists in cardiovascular disease: a guide for...</a></li>
+<li><a href="https://jech.bmj.com/content/75/9/843">Development and validation of a predictive algorithm for risk of...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#DRAM`, `#industrial-espionage`, `#cybersecurity`, `#tech-geopolitics`
+**社区讨论**: 社区讨论总体上参与度高且内容充实。评论者们就痴呆益处究竟是由 GLP-1 直接的神经学作用驱动，还是仅仅来自减重展开了辩论，一位用户指出糖尿病可以通过血管机制和神经细胞变性两种方式损伤大脑。多位用户分享了使用司美格鲁肽后显著减重的个人经历，但也报告了疲劳和关节问题等副作用。一位评论者指出该研究由诺和诺德资助，并依赖预测性生物标志物而非实际观察到的痴呆病例，因此提出了方法学方面的担忧。
+
+**标签**: `#semaglutide`, `#dementia`, `#GLP-1`, `#medical-research`, `#public-health`
 
 ---
 
 <a id="item-8"></a>
-## [司美格鲁肽与较低的预测痴呆风险相关](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) ⭐️ 6.0/10
+## [英特尔 Nova Lake 将先在桌面端发布，再进入数据中心](https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd) ⭐️ 6.5/10
 
-由诺和诺德资助的研究表明，司美格鲁肽通过生物标志物与较低的预测痴呆风险相关，但批评者指出实际的阿尔茨海默病临床试验并未显示出认知益处，且研究方法弱于标题所暗示的程度。
+英特尔副总裁 Robert Hallock 宣布，公司下一代 Nova Lake 核心架构将首先应用于消费级桌面处理器，然后才推向数据中心产品，这颠覆了英特尔传统的服务器优先发布策略。Hallock 呼吁爱好者在将 Nova Lake 与 AMD 竞品进行比较时"自己算算账"。 这标志着英特尔的一项重大战略转变，反映出 AMD 在消费和服务器市场对其施加的巨大竞争压力。通过率先推出发烧友硬件，英特尔正在向市场表明，桌面性能王冠对其品牌定位和对抗 AMD 锐龙产品线的竞争至关重要。 泄露的规格表明，Nova Lake-S 桌面版本将配备最多 16 个 CPU 核心和 12 核 Xe3P 集成显卡，目标是达到 RTX 2070 级别的游戏性能。英特尔已确认分别推出 Nova Lake-S（桌面）和 Nova Lake-U（笔记本）两条产品线，全面上市预计不会早于 2026 年。
 
-hackernews · randycupertino · 8月15日 15:58 · [社区讨论](https://news.ycombinator.com/item?id=49311651)
+rss · Tom's Hardware · 8月16日 12:10
 
-**标签**: `#healthcare`, `#semaglutide`, `#dementia`, `#GLP-1`, `#pharma-research`
+**背景**: 英特尔当前的 CPU 路线图包括 Arrow Lake（现一代平衡型桌面平台）、Panther Lake（面向笔记本）和 Nova Lake（预计 2026 年推出的下一代主要架构）。传统上，英特尔优先将新架构应用于服务器和数据中心产品，然后再推向消费级桌面，因为服务器产品利润率更高，且有助于建立企业客户信任度。Nova Lake-S 变体将接替作为过渡的 Bartlett Lake-S"仅 P 核"桌面产品。此次发布正值 AMD 锐龙桌面处理器在爱好者和市场中获得显著份额之际。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wccftech.com/intel-confirms-nova-lake-s-nova-lake-u-p-core-only-bartlett-lake-s-desktops-panther-lake-laptops/">Intel Officially Confirms Nova Lake -S & Nova Lake -U After P- Core ...</a></li>
+<li><a href="https://www.kad8.com/hardware/intel-nova-lake-16-core-cpu-leak-reveals-40w-xe3p-igpu/">Intel Nova Lake 16- Core CPU Leak Reveals 40W Xe3P iGPU · KAD</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Intel`, `#Nova Lake`, `#CPU`, `#desktop hardware`, `#AMD competition`
 
 ---
 
 <a id="item-9"></a>
-## [一个幽灵在 Unicode 中游荡](https://www.dampfkraft.com/ghost-characters.html) ⭐️ 6.0/10
+## [3D 打印声学谐振器驱动静音微型无人机悬停](https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers) ⭐️ 6.5/10
 
-探讨 Unicode 中的"幽灵字符"——这些 CJK 字符存在于标准中，却没有任何已知含义或有据可查的用法，其来源包括劣质扫描件和历史词典。
+研究人员展示了利用超声波频率以 12,000 RPM 产生类喷射推力的 3D 打印声学谐振器，可使微型无人机实现完全静音悬停。虽然原型机成功验证了概念可行性，但其推力输出仍远不足以满足任何实际飞行应用的需求。 这一概念验证代表了微型机器人技术中一种新颖的推进范式，它消除了活动机械部件，有望实现适用于医院、野生动物研究或隐蔽监视等敏感环境的超静音运行。它还为将增材制造与声学物理相结合应用于微型飞行器开辟了新的研究方向。 该推进机制依赖于在极高声压级（超过 125 dB）下驱动的亥姆霍兹型谐振器中的非线性效应，其中声流产生的推力类似于火箭喷管。一个关键限制是，目前的推重比远低于携带载荷或在户外持续飞行所需的值。
 
-hackernews · sensanaty · 8月15日 14:34 · [社区讨论](https://news.ycombinator.com/item?id=49310926)
+rss · Tom's Hardware · 8月16日 11:50
 
-**标签**: `#unicode`, `#internationalization`, `#cjk`, `#encoding`, `#nlp`
+**背景**: 声学推进利用特殊形状的谐振器（如亥姆霍兹谐振器）在极高声压级下驱动时产生的非线性效应，使空气从喷管喷出并产生推力——原理上类似于火箭，但由声能而非燃烧驱动。超声波频率（高于人类听觉范围，通常>20 kHz）通常被用于使此类设备不可闻。3D 打印使得复杂谐振器几何形状能够快速原型制造，而这些形状用传统方法制造会很困难或昂贵，使其成为实验性声学设备的理想制造方法。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.loudonmotors.com/articles/sound-wave-propulsion-systems">Sound Wave Propulsion : Transportation Through Acoustic ...</a></li>
+<li><a href="https://www.acs.psu.edu/drussell/demos.html">Dan Russell's Acoustics and Vibration Animations</a></li>
+<li><a href="https://www.youtube.com/watch?v=uJ8B8k1ISQg">Acoustic Propulsion Part 2 (measurement of thrust ) - YouTube</a></li>
+
+</ul>
+</details>
+
+**标签**: `#micro-drones`, `#acoustic-propulsion`, `#3D-printing`, `#robotics`, `#ultrasonics`
 
 ---
 
 <a id="item-10"></a>
-## [VLC 播放 MP3 延迟 33 秒，开发者归咎于 Windows Defender](https://www.tomshardware.com/software/windows/vlc-media-player-bug-reportedly-causes-33-second-delay-when-playing-mp3-files-on-windows-developers-say-microsoft-defender-is-to-blame) ⭐️ 5.5/10
+## [乌克兰无人机团在军事演习中“歼灭”3500 人美军装甲旅战斗队——高空击杀率迫使美军不断“复活”，暴露其应对现代战争的短板，无人机轻易发现并摧毁坦克和装甲车辆](https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles) ⭐️ 6.5/10
 
-VLC 开发者报告了一个 Windows 11 上的 bug，据称是 Microsoft Defender 干扰了媒体播放器的插件缓存，导致打开 MP3 文件时出现约 33 秒的播放延迟。开发者声称 Defender 的实时保护功能正在以某种方式阻止或扫描 VLC 的插件缓存文件，从而破坏了正常的模块加载过程。 这个问题影响了在主流桌面操作系统上运行的全球最广泛使用的媒体播放器之一，可能影响数百万依赖 VLC 进行音视频播放的 Windows 11 用户。它还凸显了第三方软件与激进的 安全套件之间持续存在的矛盾——过度保护的扫描行为可能会降低性能或破坏功能。 插件缓存（由 vlc-cache-gen.exe 管理）是 VLC 模块（如编解码器、解复用器和输入/输出处理模块）的预构建索引，使 VLC 能够在每次启动时无需重新扫描插件目录即可快速启动。如果 Defender 隔离或反复扫描该缓存文件，VLC 似乎会回退到一次耗时的完整模块扫描，这表现为 MP3 播放开始前约 33 秒的延迟。
+乌克兰一个无人机团在军事演习中决定性地击败了一支美国装甲旅战斗队，暴露了传统装甲部队在面对现代无人机战争时的脆弱性。
 
-rss · Tom's Hardware · 8月15日 13:30
+rss · Tom's Hardware · 8月16日 10:00
 
-**背景**: VLC 媒体播放器由 VideoLAN 项目开发，是一款开源跨平台媒体播放器，通过模块化的插件架构支持几乎所有音频和视频格式。VLC 并非将所有编解码器打包进一个庞大的可执行文件，而是将它们存储为独立的插件模块，并使用插件缓存来记住它们的位置以便更快启动。Microsoft Defender 是 Windows 10 和 11 内置的杀毒软件，其实时保护功能通过启发式和基于签名的检测持续监控文件、进程和行为。当 Defender 标记或反复检查另一个应用程序所依赖的文件时，可能会导致该应用程序出现明显的性能问题或功能故障。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/software/windows/vlc-media-player-bug-reportedly-causes-33-second-delay-when-playing-mp3-files-on-windows-developers-say-microsoft-defender-is-to-blame">Devs blame Windows for VLC media player bug that causes 33 ...</a></li>
-<li><a href="https://wiki.videolan.org/Documentation:VLC_Modules_Loading/">Documentation:VLC Modules Loading - VideoLAN Wiki</a></li>
-<li><a href="https://teletutoriales.com/en/what-is-vlc-cache-gen-exe-file/">What is vlc-cache-gen.exe file? - teletutoriales.com</a></li>
-
-</ul>
-</details>
-
-**标签**: `#VLC`, `#Windows 11`, `#Microsoft Defender`, `#Media Playback`, `#Software Bugs`
+**标签**: `#drones`, `#military-technology`, `#defense`, `#warfare`, `#autonomous-systems`
 
 ---
 
 <a id="item-11"></a>
-## [SK 海力士固态硬盘替换库存耗尽，默认按原价退款——保修条款细则让买家吃亏，硬盘价格却已翻倍](https://www.tomshardware.com/pc-components/ssds/sk-hynix-is-allegedly-out-of-replacement-ssds-for-warranty-returns-chipmakers-original-price-refund-leaves-buyers-stranded-in-the-storage-shortage) ⭐️ 5.5/10
+## [前农场局主席邀请 AI 数据中心开发商购买其土地——辩称被阻止的 63 亿美元项目只会转移到愿意接纳的邻州，无视 500 个辖区的暂停浪潮和 70%的公众反对](https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center) ⭐️ 5.5/10
 
-据报道，SK 海力士因库存短缺，对保修期内的固态硬盘替换仅按原价退款，而硬盘价格已经翻倍，这让消费者吃了亏。
+前密苏里农场局主席布莱克·赫斯特公开提供自家农田用于 AI 数据中心开发，无视 500 个辖区的暂停浪潮和 70%的公众反对，这些反对声音曾阻止附近一个 63 亿美元的项目落地。
 
-rss · Tom's Hardware · 8月15日 11:50
+rss · Tom's Hardware · 8月16日 10:30
 
-**标签**: `#SSDs`, `#warranty`, `#SK hynix`, `#supply shortage`, `#consumer rights`
-
----
-
-<a id="item-12"></a>
-## [Intel says PC market is ‘a tale of two kingdoms’ with mainstream ‘taking a beating’ — VP suggests a split between mainstream and enthusiast sockets across the industry](https://www.tomshardware.com/pc-components/cpus/intel-says-pc-market-is-a-tale-of-two-kingdoms-with-mainstream-taking-a-beating-vp-suggests-a-split-between-mainstream-and-enthusiast-sockets-across-the-industry) ⭐️ 5.5/10
-
-Intel VP Robert Hallock suggests the PC market may split into separate mainstream and enthusiast sockets if current market conditions persist.
-
-rss · Tom's Hardware · 8月15日 11:30
-
-**标签**: `#Intel`, `#PC hardware`, `#market analysis`, `#CPUs`, `#industry trends`
-
----
-
-<a id="item-13"></a>
-## [诺斯罗普·格鲁曼公司推出 Raid Hunter 反无人机链式炮](https://www.tomshardware.com/tech-industry/drones/anti-drone-chain-gun-with-50mm-precision-guided-ammunition-unveiled-northrop-grummans-raid-hunter-is-designed-to-wipe-out-drone-swarms-and-cruise-missiles) ⭐️ 5.5/10
-
-诺斯罗普·格鲁曼公司推出了 Raid Hunter，这是一种配备 50 毫米精确制导弹药的自主链式炮，旨在短距离内应对无人机蜂群和巡航导弹。该系统被视为现代短程防空体系中针对日益复杂空中威胁的新一层防御。 这一武器系统具有重要意义，因为廉价、大规模生产的无人机已成为战场上最紧迫的威胁之一，而传统防空系统在应对无人机蜂群时往往成本过高或反应过慢。一款射速较高、发射制导弹药的相对低成本链式炮，可能填补分层防空架构中短程防空(SHORAD)的关键缺口。 Raid Hunter 采用链式炮机构（由电机驱动，与原始的手摇加特林设计不同），发射 50 毫米精确制导弹药，将高射速与每发弹药的精确性相结合——这与传统非制导炮弹有所不同。该系统旨在融入更广泛的分层防空网络，而非作为独立解决方案运行。
-
-rss · Tom's Hardware · 8月15日 10:30
-
-**背景**: 链式炮是一种由外部动力驱动的火炮，其枪栓或击发机构通过循环链条由电机驱动，这使其与最初的手摇式加特林机枪有所区别。精确制导弹药（如 155 毫米 M982 Excalibur 炮弹）利用弹载制导系统（GPS、激光或惯性导航）修正其弹道以击中目标，相比非制导弹药大幅提高了精度。分层防空是一种将多层系统——从远程拦截器到短程火炮和电子战系统——结合起来的战略，用于在不同距离和高度上应对各类威胁。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Gatling_gun">Gatling gun - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/M982_Excalibur">M982 Excalibur - Wikipedia</a></li>
-<li><a href="https://breakingdefense.com/2025/10/how-layered-defense-systems-are-adapting-to-ever-shifting-drone-threats/">How layered defense systems are adapting to ever-shifting ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#defense-technology`, `#autonomous-systems`, `#drone-warfare`, `#precision-guided-munitions`, `#military-robotics`
+**标签**: `#data-centers`, `#AI-infrastructure`, `#NIMBYism`, `#policy`, `#land-use`
 
 ---
