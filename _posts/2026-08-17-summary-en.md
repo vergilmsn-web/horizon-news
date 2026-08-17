@@ -5,327 +5,437 @@ date: 2026-08-17
 lang: en
 ---
 
-> From 34 items, 15 important content pieces were selected
+> From 58 items, 20 important content pieces were selected
 
 ---
 
-1. [Critical macOS Screen Sharing Flaw Exploited for Root Access and Monero Mining](#item-1) ⭐️ 9.5/10
-2. [Stripe to Acquire OpenRouter for Over $7 Billion in AI Push](#item-2) ⭐️ 8.0/10
-3. [Google Reportedly Taps AMD for Next-Gen TPU with On-Package CPU Cores](#item-3) ⭐️ 7.5/10
-4. [Ukrainian drone regiment decimates U.S. armored brigade in war games](#item-4) ⭐️ 7.5/10
-5. [Third-World Engineer Defends RISC-V's Value in Embedded Systems](#item-5) ⭐️ 7.0/10
-6. [Anthropic Publishes Claude System Prompts with Community Tracking Tools](#item-6) ⭐️ 7.0/10
-7. [Cloudflare silently injects JS analytics beacon into sites after nameserver switch](#item-7) ⭐️ 7.0/10
-8. [3D-Printed Ultrasonic Resonators Power Silent Micro-Drone Flight](#item-8) ⭐️ 6.5/10
-9. [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](#item-9) ⭐️ 6.0/10
-10. [Maker compresses 2.9MB song 1000x with Meta's AI codec and encodes as QR codes](#item-10) ⭐️ 5.5/10
-11. [Ukraine's MICH 2000 drone, a $48K Chinese clone, destroys Russian Tu-95 bomber](#item-11) ⭐️ 5.5/10
-12. [Intel to Launch New Core Architecture on Desktop First with Nova Lake](#item-12) ⭐️ 5.5/10
-13. [Modern OLEDs are just as vulnerable to burn-in as 2017 panels in 10,000-hour test — twice the brightness and 27% efficiency gains offer crucial headroom](#item-13) ⭐️ 5.5/10
-14. [Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition](#item-14) ⭐️ 5.5/10
-15. [ADT R27A-BK3 EDSFF E1.S/E3.S to PCIe Gen5 Adapter Review](#item-15) ⭐️ 5.5/10
+1. [Anthropic's Claude Text Watermarking Criticized as Perversion of Writing](#item-1) ⭐️ 8.0/10
+2. [CXMT Breaks 9,000 MT/s Barrier with DDR5, Matching Top DRAM Makers](#item-2) ⭐️ 7.5/10
+3. [Intel Nova Lake-S CPUs Tested with AVX-512 and APX Support](#item-3) ⭐️ 7.5/10
+4. [美国一原告在法庭文件中植入针对 LLM 的提示词](#item-4) ⭐️ 7.3/10
+5. [Qwen 3.8 27B is excellent, but it defaults to overthinking things](#item-5) ⭐️ 7.0/10
+6. [Liquid Cooling to Reach 53% Penetration in High-End AI Infrastructure by 2026](#item-6) ⭐️ 7.0/10
+7. [Nvidia books TSMC's 1.6nm A16 capacity for Feynman GPU in H2 2028](#item-7) ⭐️ 7.0/10
+8. [Datacenter XPU-to-CPU Ratio Shifts from 10:1 to 1:1](#item-8) ⭐️ 7.0/10
+9. [PJM proposes cutting power to new data centers first during shortages](#item-9) ⭐️ 6.5/10
+10. [GoldenEye 007 for N64 Fully Decompiled After Five-Year Effort](#item-10) ⭐️ 6.5/10
+11. [Cherokee Nation Bans Hyperscale Data Centers on Tribal Lands](#item-11) ⭐️ 6.5/10
+12. [AI Data Center Optical Interconnect Market Projected to Reach $144B by 2030](#item-12) ⭐️ 6.5/10
+13. [PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs](#item-13) ⭐️ 6.5/10
+14. [Japanese Shop Offers $25/GB VRAM Upgrades for Older GPUs](#item-14) ⭐️ 6.5/10
+15. [Third-World Engineer Defends RISC-V for Embedded Accessibility](#item-15) ⭐️ 6.0/10
+16. [Reticulum: Decentralized Mesh Network Protocol Faces Embedded and Sustainability Challenges](#item-16) ⭐️ 6.0/10
+17. [EV Charging Inlet Evolves into an Integrated Charge-Control System](#item-17) ⭐️ 6.0/10
+18. [Fluid-Side Observability Expands AI Hardware Reliability](#item-18) ⭐️ 6.0/10
+19. [Neuromorphic Chips on Embedded Devices Face Security Gaps](#item-19) ⭐️ 6.0/10
+20. [Dstl, Lancaster University and Amethyst Research collaborate on thermal camera detector architecture](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Critical macOS Screen Sharing Flaw Exploited for Root Access and Monero Mining](https://www.tomshardware.com/tech-industry/cyber-security/macos-screen-sharing-flaw-exploited-to-root-macs-and-plant-monero-miners) ⭐️ 9.5/10
+## [Anthropic's Claude Text Watermarking Criticized as Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) ⭐️ 8.0/10
 
-A critical authentication bypass vulnerability (CVE-2026-65400) in macOS Screen Sharing is being actively exploited by attackers to gain root access and install Monero cryptocurrency miners, according to the Dutch National Cyber Security Centre (NCSC-NL). CISA has rated this vulnerability at a near-maximum severity of 9.8 out of 10, meaning any Mac with Screen Sharing enabled is potentially exposed to remote root compromise without requiring valid credentials. The flaw is an authentication bypass that lets attackers skip credential checks entirely, granting root-level control without valid login details; Monero is favored by cryptojackers because its privacy-focused features make mining transactions difficult to trace.
+John Gruber published a sharp critique arguing that Anthropic's newly announced text watermarking feature in Claude imperceptibly alters token distributions, corrupting the act of writing by inserting corporate-controlled bias into word choices. This controversy touches on the future of AI-generated content authenticity, user privacy (since detection requires sending text to providers), and whether frontier labs have the right to subtly shape the words their models produce—setting a precedent for all AI providers. Anthropic's watermark works by embedding imperceptible statistical patterns in token choices (akin to Google DeepMind's SynthID), and crucially the detection key is the same as the watermarking key—meaning users must trust Anthropic not to leak, rotate, or misuse it, and cannot independently verify detector results.
 
-rss · Tom's Hardware · Aug 16, 13:00
+hackernews · ropbear · Aug 16, 21:53 · [Discussion](https://news.ycombinator.com/item?id=49324087)
 
-**Background**: macOS Screen Sharing is built on the VNC (Virtual Network Computing) protocol, an open standard that allows remote desktop access and control across multiple platforms. An authentication bypass vulnerability enables an unauthenticated attacker to escalate privileges on a device or application without presenting valid credentials, effectively tricking the system into believing the attacker is already authenticated. Cryptojacking is an attack technique in which malicious actors install mining scripts on compromised machines to secretly generate cryptocurrency, with Monero being a common target due to its anonymity-focused design.
+**Background**: AI text watermarking is a technique that embeds invisible statistical signatures into AI-generated text so that a detector can later identify it as machine-produced. Google DeepMind's SynthID pioneered this approach, and Anthropic has adopted a similar method for Claude. Unlike metadata-based provenance (such as C2PA), text watermarks work by subtly biasing the model's token selection during generation—favoring certain words over others in statistically predictable patterns. This requires a secret key that is used both to insert the watermark during generation and to detect it afterward.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.lifewire.com/how-to-enable-mac-screen-sharing-2260830">Mac Screen Sharing</a></li>
-<li><a href="https://www.sentinelone.com/cybersecurity-101/identity-security/authentication-bypass/">What Is Authentication Bypass? Techniques & Examples - SentinelOne</a></li>
-<li><a href="https://d2lvhbqifib4zm.cloudfront.net/blog/what-is-cryptojacking/">What is cryptojacking ? Definition, detection, and prevention guide</a></li>
+<li><a href="https://www.anthropic.com/news/claude-text-watermark">How Claude's text watermarking works \ Anthropic</a></li>
+<li><a href="https://deepmind.google/models/synthid/">SynthID — Google DeepMind</a></li>
+<li><a href="https://explainx.ai/blog/anthropic-claude-invisible-watermarks-c2pa-august-2026">Claude Invisible Watermarks — What They Detect (And Miss) | explainx.ai Blog | explainx.ai</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#macOS`, `#security`, `#vulnerability`, `#cryptojacking`, `#CVE-2026-65400`
+**Discussion**: HN commenters surfaced several substantive concerns. User tancop identified a fatal architectural flaw: the same secret key used for watermarking and detection means users must blindly trust Anthropic's security, key rotation, and honesty, since a leaked key permanently devalues the watermark. User mangoman argued the technique fundamentally violates the model's trained distribution, giving concrete examples like altering natural 48/52 token probability splits. User ghrl raised privacy concerns that detection requires submitting text to potentially multiple AI providers. User jihadjihad framed it as an inherent power imbalance where users' needs are subordinated to corporate interests.
+
+**Tags**: `#ai-watermarking`, `#anthropic`, `#claude`, `#ai-safety`, `#synthid`
 
 ---
 
 <a id="item-2"></a>
-## [Stripe to Acquire OpenRouter for Over $7 Billion in AI Push](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) ⭐️ 8.0/10
+## [CXMT Breaks 9,000 MT/s Barrier with DDR5, Matching Top DRAM Makers](https://www.techpowerup.com/351649/cxmt-breaks-9-000-mt-s-barrier-with-ddr5) ⭐️ 7.5/10
 
-Stripe is reportedly finalizing an acquisition of OpenRouter, a leading LLM routing and AI model marketplace, for more than $7 billion. The deal would bring OpenRouter's unified API platform—which connects developers to over 400 AI models from 60+ providers—under Stripe's ownership. This acquisition signals Stripe's strategic expansion from payment processing into core AI infrastructure, leveraging its expertise in high-volume, low-latency API services to own the financial and routing rails of the AI economy. It positions Stripe at the center of a rapidly growing market where tokens and model usage are becoming as critical as traditional payment flows. OpenRouter had previously raised funding at a $1.3 billion valuation just months before this deal, meaning the $7B+ price represents roughly a 5x markup for early investors. The platform serves as a meta-layer that abstracts away the complexity of managing multiple LLM provider integrations, consolidating billing and authentication into a single endpoint with an OpenAI-compatible API.
+Chinese memory manufacturer CXMT has surpassed 9,000 MT/s on a DDR5 kit (iGame Shadow II 24G×2, 48 GB) running at 4,507 MHz on the Colorful iGame X870E VULCAN W OC motherboard, and is concurrently working on ultra-low latency bins, with DDR5-6000 CL30 and preliminary CL28 timings demonstrated on AMD and Intel platforms. This milestone puts CXMT on par with the world's leading DRAM makers — Samsung, SK hynix, and Micron — in both transfer rate and latency, marking an important step for China's domestic memory industry and reducing reliance on foreign suppliers amid ongoing semiconductor geopolitics. The 9,014 MT/s figure derives from 4,507 MHz via DDR's double-data-rate pumping, and the CL30/CAS-latency timings (CAS Latency is the number of clock cycles between a read command and the first data word) translate to roughly 10 ns first-word latency at 6,000 MT/s, matching what top-tier kits deliver.
 
-hackernews · zacharyozer · Aug 16, 20:31 · [Discussion](https://news.ycombinator.com/item?id=49323381)
+rss · TechPowerUp News · Aug 17, 13:28
 
-**Background**: OpenRouter is a unified API gateway and marketplace that routes requests across hundreds of large language models from providers including OpenAI, Anthropic, Mistral, and Google. LLM routing, the core technique OpenRouter employs, involves automatically selecting the most appropriate model for a given query based on factors like cost, speed, and reliability—similar to how an air traffic controller directs flights. Stripe, founded by the Collison brothers, is one of the world's largest payment processing platforms, handling trillions of dollars in annual volume and known for building highly reliable, developer-friendly financial APIs.
+**Background**: CXMT, officially ChangXin Memory Technologies, is China's leading domestic DRAM producer, founded in Hefei with government backing, and reached roughly 720,000 wafers per quarter by late 2025 on a 19 nm process. DDR5 is the current mainstream PC memory standard, where speeds are quoted in MT/s (mega-transfers per second) rather than MHz because each clock cycle transfers data twice; a higher MT/s figure combined with a lower CAS Latency (CL) value generally yields better real-world performance. At the 2025 China International Semiconductor Expo, CXMT first unveiled DDR5-8000 and LPDDR5X-10667 modules, making this 9,000 MT/s result a clear continuation of that trajectory.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openrouter.ai/about">About - The Unified Interface For LLMs | OpenRouter</a></li>
-<li><a href="https://www.codecademy.com/article/what-is-openrouter">What is OpenRouter? A Guide with Practical Examples</a></li>
-<li><a href="https://research.ibm.com/blog/LLM-routers">LLM routing for quality, low-cost responses - IBM Research</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.techpowerup.com/343185/chinese-cxmt-shows-homegrown-ddr5-8000-and-lpddr5x-10667-memory">Chinese CXMT Shows Homegrown DDR 5 -8000 and... | TechPowerUp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DDR5_SDRAM">DDR5 SDRAM - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are divided on strategic rationale: some view the acquisition as a natural extension of Stripe's API expertise into LLM infrastructure, while others question the high valuation given OpenRouter's role as a middleman. A key insight raised is that OpenRouter and OpenAI together represent roughly $100B in payment volume—about 5% of Stripe's total—making owning that volume directly strategically important. Several commenters noted the rapid valuation jump from $1.3B to $7B+ as an extraordinary return for investors.
-
-**Tags**: `#stripe`, `#openrouter`, `#acquisition`, `#ai-infrastructure`, `#llm-routing`
+**Tags**: `#DDR5`, `#memory`, `#CXMT`, `#overclocking`, `#semiconductors`
 
 ---
 
 <a id="item-3"></a>
-## [Google Reportedly Taps AMD for Next-Gen TPU with On-Package CPU Cores](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning) ⭐️ 7.5/10
+## [Intel Nova Lake-S CPUs Tested with AVX-512 and APX Support](https://www.techpowerup.com/351647/intel-nova-lake-s-tested-with-avx-512-and-apx-enabled) ⭐️ 7.5/10
 
-A rumor suggests Google is partnering with AMD to design next-generation TPUs that integrate on-package CPU cores specifically optimized for agentic and reinforcement learning workloads, representing a potential shift toward hybrid AI ASIC designs. If confirmed, this collaboration would introduce a new competitor into the custom AI silicon space dominated by NVIDIA and signal Google's recognition that reinforcement learning and agentic AI workloads require different hardware characteristics than the pure matrix multiplication workloads current TPUs are optimized for. The proposed 'hybrid AI ASIC' would reportedly combine AMD's CPU core IP (likely Zen-based) with Google's TPU matrix compute capabilities on a single package using chiplet-based heterogeneous integration, targeting the low-latency inference and tight decision loops required for RL training rather than pure tensor throughput.
+Intel is testing two Nova Lake-S desktop CPU SKUs — a 24-core model at 3.4 GHz and a 28-core model at 3.2 GHz — both featuring AVX-512 and APX instruction set support, as revealed by InstLatX64. The chips are based on Coyote Cove P-Cores and Arctic Wolf E-Cores, marking the return of 512-bit vector processing to Intel's consumer desktop lineup after its absence since Alder Lake. The reintroduction of AVX-512 to consumer desktops closes the gap between client and server/HEDT platforms, enabling high-performance computing, scientific simulation, and machine learning workloads to run natively on mainstream CPUs without proprietary extensions. Combined with APX's expanded register set, this could deliver meaningful performance gains across a wide range of software. AVX-512 provides 32 vector registers each 512 bits wide, enabling massive SIMD parallelism over 512-bit data paths, while APX doubles the number of general-purpose registers from 16 to 32 for improved general-purpose performance. Early engineering samples run at modest clock speeds (3.2–3.4 GHz), suggesting these are pre-production validation chips rather than final retail silicon.
 
-rss · Tom's Hardware · Aug 16, 12:40
+rss · TechPowerUp News · Aug 17, 12:46
 
-**Background**: Google's Tensor Processing Units (TPUs) are custom ASICs designed for neural network workloads, using systolic array architectures that efficiently process matrix multiplications by streaming data through thousands of ALUs. TPUs currently power both training and inference of large language and other deep learning models in Google Cloud. AMD is a major CPU and GPU designer whose Zen CPU architectures and CDNA GPU accelerators compete across the broader compute market. Recently, a new class of 'agentic' AI workloads — where models perform multi-step reasoning, planning, and decision-making — has emerged, often leveraging reinforcement learning techniques that require tight coupling between compute-heavy tensor operations and fast sequential decision logic traditionally handled by CPUs. Heterogeneous integration via chiplets allows different silicon dies to be combined in a single package, enabling tighter data exchange and better performance-per-watt than separate chips.
+**Background**: AVX-512 is a 512-bit extension to the 256-bit AVX SIMD instruction set, first implemented in the 2016 Intel Xeon Phi x200 (Knights Landing) and later adopted across Xeon server processors. Intel disabled AVX-512 on its hybrid Alder Lake and Raptor Lake client CPUs because the differing P-Core and E-Core designs complicated software optimization for the heterogeneous architecture. Intel APX (Advanced Performance Extensions) is a newer ISA extension that doubles the number of general-purpose registers from 16 to 32, designed to improve performance across many workloads with minimal silicon cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit">Tensor Processing Unit - Wikipedia</a></li>
-<li><a href="https://www.cadence.com/en_US/home/resources/white-papers/chiplets-and-heterogeneous-packaging-are-changing-system-design-and-analysis-wp.html">Chiplets and Heterogeneous Packaging Are Changing System Design and Analysis White Paper | Cadence</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AVX-512">AVX-512 - Wikipedia</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html">Introducing Intel® Advanced Performance Extensions (Intel® APX)</a></li>
+<li><a href="https://wccftech.com/intel-nova-lake-coyote-cove-p-core-arctic-wolf-e-core-diamond-rapids-panther-cove/">Intel Confirms Coyote Cove P- Core & Arctic Wolf E- Core For Nova...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI hardware`, `#Google TPU`, `#AMD`, `#reinforcement learning`, `#ASIC design`
+**Tags**: `#Intel`, `#CPU`, `#AVX-512`, `#APX`, `#Nova Lake`
 
 ---
 
 <a id="item-4"></a>
-## [Ukrainian drone regiment decimates U.S. armored brigade in war games](https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles) ⭐️ 7.5/10
+## [美国一原告在法庭文件中植入针对 LLM 的提示词](https://www.solidot.org/story?sid=85109) ⭐️ 7.3/10
 
-A Ukrainian drone regiment decisively defeated the U.S. Army's 3rd Brigade Combat Team (3rd BCT) of the 1st Cavalry Division during military war games, with drones easily spotting and destroying American tanks and armored vehicles despite the brigade fielding anti-drone units. This exercise reveals critical vulnerabilities in U.S. military doctrine and equipment against modern drone warfare, potentially forcing a fundamental rethink of armored force structure, counter-drone capabilities, and tactical doctrine as drone threats continue to evolve on battlefields worldwide. The high drone kill-rate forced continuous 'respawns' of the U.S. force, indicating that even dedicated anti-drone units were insufficient to neutralize the threat. The 3rd BCT is a roughly 4,400-4,700-strong armored formation whose tanks and heavy vehicles proved easy targets for the Ukrainian drone operators.
+A US plaintiff attempted prompt injection by hiding LLM-targeted instructions in white text within court filings, resulting in minor sanctions and the first documented case of prompt injection in the American court system.
 
-rss · Tom's Hardware · Aug 16, 10:00
+rss · Solidot · Aug 17, 07:16
 
-**Background**: A Brigade Combat Team (BCT) is the basic deployable maneuver unit of the U.S. Army, typically consisting of about 4,400 to 4,700 personnel depending on variant, with armored BCTs equipped with main battle tanks and heavy armored vehicles. War games employ an Opposing Force (OPFOR) to realistically simulate enemy tactics and stress-test friendly forces. Counter-UAS (C-UAS) capabilities—including jamming systems, directed-energy weapons, and retrofitted kinetic solutions—have become an increasing focus for the U.S. military, yet the Army's doctrine states that counter-UAS is 'not a stand-alone effort or the sole responsibility of any warfighting function,' and no dedicated Military Occupational Specialty (MOS) exists for the role.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Brigade_Combat_Team">Brigade Combat Team - Wikipedia</a></li>
-<li><a href="https://www.cbo.gov/sites/default/files/114th-congress-2015-2016/reports/51535-fsprimerbreakoutchapter2.pdf">The U.S. Militarys Force Structure : A Primer</a></li>
-<li><a href="https://www.congress.gov/crs-product/R48477">Department of Defense Counter Unmanned Aircraft Systems: Background and Issues for Congress | Congress.gov | Library of Congress</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#military-tech`, `#drone-warfare`, `#defense-strategy`, `#ukraine-conflict`, `#war-games`
+**Tags**: `#prompt-injection`, `#AI-security`, `#legal-tech`, `#LLM`, `#adversarial-AI`
 
 ---
 
 <a id="item-5"></a>
-## [Third-World Engineer Defends RISC-V's Value in Embedded Systems](https://rvembedded.com/blog_post/12/) ⭐️ 7.0/10
+## [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ⭐️ 7.0/10
 
-An embedded engineer from a developing country published a blog post responding to earlier criticism of RISC-V, arguing that the ISA's true strength lies in embedded applications where cost, accessibility, and customizability are more important than raw compute performance compared to ARM64 or x86. This perspective highlights a dimension often missing from mainstream RISC-V discourse, which tends to focus on competition with ARM and x86 in high-performance computing. It spotlights how open ISA economics matter for engineers in regions with supply-chain and cost constraints, potentially influencing RISC-V adoption strategy in emerging markets. The author's argument centers on the practical reality that in his country, a $1 chip can cost $60–$200 to ship, making the price difference between a 10-cent RISC-V part and a $1 ARM part highly significant. He acknowledges RISC-V's fragmentation and performance trade-offs but contends these are acceptable trade-offs for custom embedded silicon where binary distribution is less critical.
+Simon Willison reviews Qwen 3.8 27B as an excellent local model that defaults to overthinking due to RL training incentives, with community sharing workarounds and deployment experiences.
 
-hackernews · Narishma · Aug 16, 17:01 · [Discussion](https://news.ycombinator.com/item?id=49321717)
+hackernews · bilsbie · Aug 16, 23:45 · [Discussion](https://news.ycombinator.com/item?id=49324985)
 
-**Background**: RISC-V is an open-standard instruction set architecture (ISA) based on reduced instruction set computing principles, designed to be simple, modular, and freely licensable. Unlike proprietary ISAs such as ARM or x86, RISC-V allows anyone to design and manufacture compatible processors without licensing fees. This makes it particularly attractive for embedded systems, IoT devices, and custom silicon, though it competes against more mature ecosystems in mobile and server computing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://lucaberton.com/blog/risc-v-vs-arm-vs-x86-isa-comparison/">RISC - V vs ARM vs x 86 : How the Open ISA Compares</a></li>
-<li><a href="https://www.linkedin.com/learning/getting-started-with-risc-v/what-is-risc-v">What is RISC - V ? - Raspberry Pi Video Tutorial | LinkedIn Learning...</a></li>
-<li><a href="https://picockpit.com/raspberry-pi/arm-vs-risc-v-vs-x86/">A Simple Guide to ARM vs . RISC - V vs . x 86 | PiCockpit</a></li>
-
-</ul>
-</details>
-
-**Discussion**: 社区评论者看法不一。一些人称赞这一视角丰富了RISC-V的讨论，但也有评论者指出成本论证中的逻辑矛盾——作者一方面抱怨1美元的芯片运费高达60至200美元，另一方面却声称RISC-V让零件价格降至十分之一；如果运费占主导成本，这种说法似乎自相矛盾。还有人援引历史先例，指出x86最终在原始性能上超越了MIPS、SPARC和Alpha等RISC架构，表明RISC-V的性能差距有可能随时间缩小。
-
-**Tags**: `#risc-v`, `#embedded-systems`, `#hardware-architecture`, `#developing-world-tech`, `#isa-design`
+**Tags**: `#qwen`, `#local-llm`, `#llm-evaluation`, `#rl-training`, `#consumer-hardware`
 
 ---
 
 <a id="item-6"></a>
-## [Anthropic Publishes Claude System Prompts with Community Tracking Tools](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 7.0/10
+## [Liquid Cooling to Reach 53% Penetration in High-End AI Infrastructure by 2026](https://www.dramexchange.com/WeeklyResearch/Post/2/12801.html) ⭐️ 7.0/10
 
-Anthropic has published the official system prompts used by its Claude models on its platform documentation site, making the hidden instructions that shape model behavior publicly accessible. Developer Simon Willison has built a Git-based tool that archives these prompts as a commit history, enabling easy diff comparison across versions such as the Opus 4.8 to Opus 5 transition. System prompts define a model's role, tone, and behavioral boundaries, and seeing them publicly is rare and valuable for AI transparency. This resource helps prompt engineers understand how leading AI labs structure their internal instructions and gives the community a baseline for comparing model behavior across vendors. The published prompts include detailed behavioral rules such as instructing Claude to verify whether an image is actually present before responding to image-related queries, rather than assuming one based on the prompt text. Version diffs reveal additions referencing internal codenames like 'Claude Fable 5' and 'Claude Mythos 5,' hinting at Anthropic's product roadmap or internal naming conventions.
+TrendForce projects that liquid cooling will achieve 53% penetration in high-end AI infrastructure by 2026, driven by continued investment in AI servers. This projection marks a significant shift from air cooling to liquid cooling as the standard practice for AI workloads. This shift is significant because high-end AI chips generate substantially more heat than traditional processors, making conventional air cooling inadequate for next-generation AI workloads. The transition will reshape data center design, influence energy efficiency strategies, and impact the broader AI infrastructure supply chain. Liquid cooling technologies in data centers primarily fall into two categories: Direct-to-Chip (cold plate) liquid cooling and immersive liquid cooling. AI-enabled racks can demand up to six times more power than their traditional counterparts, intensifying the cooling challenge.
 
-hackernews · tosh · Aug 16, 12:48 · [Discussion](https://news.ycombinator.com/item?id=49319556)
+rss · DRAMeXchange (TrendForce) · Aug 17, 03:59
 
-**Background**: A system prompt is a set of hidden instructions provided to a large language model before any user message, defining the model's persona, constraints, and response style. It takes precedence over user inputs and shapes all subsequent interactions. Prompt engineering is the practice of crafting these instructions and user queries to elicit optimal model behavior. Transparency around system prompts is uncommon among major AI vendors, making Anthropic's publication noteworthy for the research and developer community.
+**Background**: Liquid cooling refers to using liquids—typically water or dielectric fluids—to dissipate heat from computing components, as opposed to traditional fan-based air cooling. AI data centers differ from traditional data centers in that they are designed to support high-intensity AI workloads such as training large language models, which require massive computational power and produce far more heat per rack. Two main liquid cooling approaches exist: Direct-to-Chip (cold plate) cooling, where liquid flows over heat sinks attached directly to chips, and immersive cooling, where entire servers are submerged in a dielectric fluid. The escalating power density of AI accelerators is the primary driver pushing operators toward these advanced cooling solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://promptengineering.org/system-prompts-in-large-language-models/">System Prompts in Large Language Models</a></li>
-<li><a href="https://www.kern-it.be/en/definitions/system-prompt/">System prompt: the hidden instruction that frames your LLM | KERN-IT</a></li>
+<li><a href="https://spectrum.ieee.org/data-center-liquid-cooling">Data Center Liquid Cooling: The AI Heat Solution - IEEE Spectrum</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/analysis/an-introduction-to-liquid-cooling-in-the-data-center/">An introduction to liquid cooling in the data center - DCD</a></li>
+<li><a href="https://rcrwireless.com/20250327/fundamentals/ai-data-center-difference">AI data center vs traditional data center: What is the difference?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members expressed mixed views: Simon Willison contributed a valuable version-tracking tool, while SwellJoe questioned why the system prompts are so lengthy given recent industry advice favoring shorter, more focused context files. ololobus noted surprise that basic common-sense checks (like verifying image presence) are still enforced via system prompt rather than being inherent to the model's capabilities, a sentiment echoed for newer models like Fable 5. Separately, user quaintdev raised concerns about community forum moderation regarding AI-critical content.
-
-**Tags**: `#claude`, `#anthropic`, `#prompt-engineering`, `#ai-transparency`, `#llm`
+**Tags**: `#AI infrastructure`, `#liquid cooling`, `#data centers`, `#market research`, `#TrendForce`
 
 ---
 
 <a id="item-7"></a>
-## [Cloudflare silently injects JS analytics beacon into sites after nameserver switch](https://news.ycombinator.com/item?id=49322107) ⭐️ 7.0/10
+## [Nvidia books TSMC's 1.6nm A16 capacity for Feynman GPU in H2 2028](https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/) ⭐️ 7.0/10
 
-A user on Hacker News reported that Cloudflare silently injects a JavaScript analytics beacon (static.cloudflareinsights.com/beacon.min.js) into HTML-only, JavaScript-free websites when their nameservers are pointed at Cloudflare, even before the site owner explicitly enables analytics in the dashboard. The injection is opt-out rather than opt-in, meaning users must actively navigate to the Analytics dashboard and disable a snippet that was never requested. This is a significant privacy and trust concern because site operators who deliberately maintain JavaScript-free or privacy-respecting websites are unknowingly having third-party tracking scripts injected without their consent. Because Cloudflare is one of the largest internet infrastructure providers, the default-on behavior affects potentially millions of proxied domains and raises broader questions about transparency from infrastructure vendors. The injected beacon loads from static.cloudflareinsights.com/beacon.min.js with version "2024.11.0" and embeds a unique token in its data-cf-beacon attribute. Injection only happens when traffic is proxied through Cloudflare (the orange-cloud DNS setting), not for DNS-only setups, because HTML modification requires terminating HTTPS connections. Workarounds include disabling the snippet via the Web Analytics dashboard or using a Content-Security-Policy header with a strict script-src directive.
+Nvidia has reportedly booked production capacity on TSMC's A16 (1.6nm) process node for its next-generation 'Feynman' GPU architecture, the successor to Rubin, with volume production targeted for the second half of 2028. The A16 node is TSMC's first to combine GAA nanosheet transistors with backside power delivery. This booking signals Nvidia's long-term AI accelerator roadmap and confirms its role as an early adopter of TSMC's most advanced logic node, reinforcing both companies' leadership positions in the AI hardware stack. It also puts pressure on competitors like AMD and Intel to secure comparable leading-edge capacity well before product launch. TSMC's A16 is the 1.6nm successor to the N2 (2nm) node and introduces backside power delivery (BSPDN), which relocates the power rail from the frontside to the backside of the wafer to reduce IR drop and improve transistor density. Feynman will be paired with Nvidia's 'Rosa' CPU (successor to Vera), reflecting a continued tight integration of CPU and GPU silicon for AI workloads.
 
-hackernews · stagas · Aug 16, 17:49
+rss · Electronics Weekly · Aug 17, 05:17
 
-**Background**: Cloudflare provides a layered set of services: DNS hosting, reverse-proxy/CDN, object storage (R2), and Web Analytics. Web Analytics operates in two distinct modes: edge analytics, which Cloudflare measures directly at its network edge without touching page content, and a RUM (Real User Monitoring) beacon, which is a JavaScript snippet injected into pages to collect browser-side performance metrics. The controversy here centers on the RUM beacon appearing to be automatically activated for newly proxied sites, rather than requiring an explicit opt-in from the site owner, which contradicts the expectation of users who select Cloudflare solely for DNS or R2 access.
+**Background**: Feynman is a GPU microarchitecture announced by Nvidia CEO Jensen Huang at GTC 2025 and named after physicist Richard Feynman, positioned as the company's post-Rubin AI accelerator generation. TSMC's A16 process builds on the 2nm node — TSMC's first to use Gate-All-Around (GAA) nanosheet transistors, which fully surround the channel to improve electrostatic control beyond FinFET — and adds backside power delivery, an emerging technique that moves the power network to the wafer's underside to free up routing resources on the frontside and reduce power loss.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developers.cloudflare.com/speed/observatory/rum-beacon/">RUM beacon for Web Analytics · Cloudflare Speed docs</a></li>
-<li><a href="https://cloudflare-docs.cloudflare-docs.workers.dev/web-analytics/faq/">Answers to common questions about Cloudflare Web Analytics .</a></li>
-<li><a href="https://developers.cloudflare.com/r2/">Overview · Cloudflare R 2 docs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Feynman_(microarchitecture)">Feynman (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Backside_Power_Delivery">Backside power delivery - Wikipedia</a></li>
+<li><a href="https://www.naddod.com/ai-insights/nvidia-feynman-architecture-introduction-next-gen-gpus-with-tsmc-a16-process">NVIDIA Feynman Architecture Introduction: Next-Gen GPUs with TSMC A16 Process - NADDOD Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members confirmed the behavior on their own sites, sharing identical beacon.min.js snippets, and proposed workarounds such as a Content-Security-Policy meta tag restricting script-src to 'self'. Several commenters clarified that the injection only occurs when Cloudflare terminates HTTPS as a proxy (orange-cloud), not for DNS-only setups, which another user verified by checking DNS-only domains and finding no analytics enabled. The thread also referenced Cloudflare's own blog post about enabling web analytics, suggesting the behavior is documented but not surfaced clearly to users configuring DNS for services like R2.
-
-**Tags**: `#cloudflare`, `#privacy`, `#web-infrastructure`, `#analytics`, `#security`
+**Tags**: `#nvidia`, `#tsmc`, `#semiconductors`, `#gpu-architecture`, `#process-node`
 
 ---
 
 <a id="item-8"></a>
-## [3D-Printed Ultrasonic Resonators Power Silent Micro-Drone Flight](https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers) ⭐️ 6.5/10
+## [Datacenter XPU-to-CPU Ratio Shifts from 10:1 to 1:1](https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/) ⭐️ 7.0/10
 
-Researchers have demonstrated 3D-printed resonators that, when excited at specific ultrasonic frequencies, generate thrust via acoustic streaming, enabling a silent flier to hover while spinning its propulsion rotors at over 12,000 RPM. Silent propulsion could enable new applications in surveillance, indoor monitoring, and stealth operations where conventional rotor noise is a limitation. It also points to a low-cost, 3D-printable pathway for manufacturing micro aerial vehicles that could complement or replace existing MEMS-based micro-propulsion approaches. The propulsion relies on acoustic streaming — a nonlinear phenomenon where high-amplitude sound waves drive a steady fluid flow — rather than conventional spinning blades. Because the driving frequencies are ultrasonic (above ~20 kHz), they are inaudible to humans, though current prototypes do not yet produce thrust sufficient for practical payloads or flight endurance.
+Dell'Oro Group reports that datacenter architectures are transitioning from a 10:1 to a 1:1 XPU-to-CPU ratio, driven by the rise of inference workloads which have fundamentally different network requirements than training-dominated workloads. This architectural shift signals a fundamental rebalancing of compute infrastructure as AI moves from a training-centric phase to an inference-centric deployment phase, impacting how datacenters are designed, networked, and provisioned for the next wave of AI services. Inference workloads impose different network demands than training—training typically relies on dense, high-bandwidth collective communication across many accelerators, while inference patterns are more varied and latency-sensitive, requiring closer CPU coordination. The original article is truncated and does not specify the timeline or quantitative thresholds for the transition.
 
-rss · Tom's Hardware · Aug 16, 11:50
+rss · Electronics Weekly · Aug 17, 05:09
 
-**Background**: Acoustic streaming was first described by Lord Rayleigh in 1884 and refers to the steady flow generated in a fluid when it absorbs high-amplitude acoustic oscillations; it is widely used in microscale acoustofluidic devices. Micro air vehicles are generally defined as ultra-lightweight flying platforms with a maximum wingspan of about 15 cm and a weight under 20 grams, where conventional propellers are difficult to miniaturize efficiently. Ultrasonic frequencies fall above the human hearing range (~20 kHz), which is what allows these devices to operate almost inaudibly.
+**Background**: An XPU is an umbrella term for auxiliary or specialized processing units used in datacenter servers, including GPUs, DPUs (Data Processing Units), IPUs (Infrastructure Processing Units), and other accelerators. AI training workloads have historically dominated datacenter design, requiring large clusters of tightly-coupled accelerators for parallel model training. As AI deployment matures, inference workloads—which serve real-time predictions from trained models—are growing rapidly and have distinct networking characteristics, driving the need for more balanced compute architectures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Acoustic_streaming">Acoustic streaming - Wikipedia</a></li>
-<li><a href="https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers">3 D - printed sound-powered jet engines propel micro... | Tom's Hardware</a></li>
-<li><a href="https://www.researchgate.net/publication/295277075_Design_and_Development_of_Ultrasonic_Jet_Array_UJA_for_Micro_Propulsion">Design and Development of Ultrasonic Jet Array (UJA) for Micro ...</a></li>
+<li><a href="https://www.snia.org/educational-library/what-xpu-2022">What is an xPU ? | SNIA | Experts on Data</a></li>
+<li><a href="https://www.naddod.com/ai-insights/training-vs-inference-why-your-ai-network-architecture-needs-to-be-different">Training vs Inference: Why Your AI Network Architecture Needs ...</a></li>
+<li><a href="https://edgecore.com/resources/thought-leadership/ai-inference-vs-training">AI Inference vs. Training: Infrastructure Differences ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#drones`, `#3D-printing`, `#acoustics`, `#micro-robotics`, `#research`
+**Tags**: `#datacenter`, `#AI infrastructure`, `#inference`, `#XPU`, `#networking`
 
 ---
 
 <a id="item-9"></a>
-## [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) ⭐️ 6.0/10
+## [PJM proposes cutting power to new data centers first during shortages](https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power) ⭐️ 6.5/10
 
-St Lucie Nuclear Reactor Unit 1 manually shut down after 3 control rods dropped into the core, with community discussion explaining this as a designed fail-safe mechanism in pressurized water reactors.
+PJM Interconnection, the largest grid operator in the United States, has asked federal regulators to approve new rules that would cut power to new data centers (50 MW and above) ahead of households during electricity supply shortages, requiring new facilities to bring their own on-site generation to avoid shutoffs. This policy shift directly impacts hyperscaler and AI infrastructure expansion plans in the PJM region, which covers 13 states and Washington D.C. It signals that grid operators are increasingly unwilling to let residential ratepayers bear the reliability risks of rapid AI-driven data center growth, pushing operators toward behind-the-meter power solutions. The 50 MW threshold targets only new data centers, not existing facilities. New facilities must arrange their own behind-the-meter generation—power produced on the customer side of the utility meter, often via microgrids capable of islanding—to qualify for uninterrupted service during shortage events.
 
-hackernews · toomuchtodo · Aug 16, 15:16 · [Discussion](https://news.ycombinator.com/item?id=49320856)
+rss · Tom's Hardware · Aug 17, 13:11
 
-**Tags**: `#nuclear-safety`, `#safety-critical-systems`, `#fail-safe-design`, `#reactor-physics`, `#incident-report`
+**Background**: PJM Interconnection is a regional transmission organization (RTO) founded in 1927 that coordinates wholesale electricity markets across 13 U.S. states and the District of Columbia, making it the largest competitive wholesale electricity market in North America. Behind-the-meter (BTM) generation refers to power produced at or near a customer's site rather than purchased from the grid; it was historically used only as emergency backup but is now increasingly deployed as a primary reliability and growth enabler for data centers. The Federal Energy Regulatory Commission (FERC) oversees interstate electricity transmission and wholesale markets, and any changes to PJM's market rules require FERC approval before taking effect.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/PJM_Interconnection">PJM Interconnection - Wikipedia</a></li>
+<li><a href="https://alleghenyhighlandsalliance.org/Library/AHA_Fact_Sheets/media/pdf5">PJM Interconnection and Wind Energy</a></li>
+<li><a href="https://www.datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power">Why Data Centers Are Turning to Behind-the-Meter Power</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#data-centers`, `#energy-infrastructure`, `#ai-infrastructure`, `#policy`, `#power-grid`
 
 ---
 
 <a id="item-10"></a>
-## [Maker compresses 2.9MB song 1000x with Meta's AI codec and encodes as QR codes](https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes) ⭐️ 5.5/10
+## [GoldenEye 007 for N64 Fully Decompiled After Five-Year Effort](https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports) ⭐️ 6.5/10
 
-A maker used Meta's open-source EnCodec neural audio codec to compress a 2.9MB song down to approximately 21KB — roughly 1000 times smaller — and then encoded the compressed data into eight QR codes printable on paper. Playback requires a neural network decoder to reconstruct the two-minute audio from the compressed discrete tokens. This project demonstrates the extreme compression capabilities of modern neural audio codecs and creatively showcases a physical medium (paper) for storing audio data. It highlights how AI-based compression can dramatically reduce storage and transmission costs for audio, though it also illustrates the trade-off that playback depends on specialized neural network software rather than standard media players. EnCodec was released by Meta in 2022 as an open-source neural audio codec supporting stereophonic audio at 48 kHz with bitrates of 3, 6, 12, and 24 kbps. The codec uses an encoder-quantizer-decoder pipeline with residual vector quantization to convert waveforms into discrete tokens, which is what enables such extreme compression ratios compared to traditional formats like MP3 or AAC.
+The N64 version of GoldenEye 007 has been fully decompiled after a five-year reverse engineering project, producing source code that matches the original retail binary. This achievement opens the door for complex mods and potential ports to other platforms. Decompilation of a culturally iconic game like GoldenEye 007 enables the community to create high-quality mods, fix bugs, and port the game to modern platforms while preserving the original experience. It represents a significant milestone in game preservation and reverse engineering. "100% decompiled" means the reconstructed C source code, when compiled with the original toolchain, produces a binary that is identical to the retail game. The project spanned approximately five years of dedicated reverse engineering effort.
 
-rss · Tom's Hardware · Aug 16, 14:22
+rss · Tom's Hardware · Aug 17, 11:28
 
-**Background**: Neural audio codecs are AI-based systems that compress audio into discrete tokens using deep learning, enabling high-fidelity reconstruction at much lower bitrates than traditional codecs like MP3 or AAC. Meta's EnCodec was among the first neural codecs to support high-quality stereo 48 kHz audio. Unlike traditional compression, which relies on hand-crafted mathematical algorithms, neural codecs learn statistical patterns from data and require a trained neural network for both encoding and decoding. This means files compressed with EnCodec are not playable on standard media players — they need the corresponding neural model to decode the tokens back into a listenable waveform.
+**Background**: Decompilation in retro gaming is the process of translating a compiled game's low-level machine code (assembly) back into higher-level source code, typically C, without access to the original source files. When a decompilation is described as "complete" or "100% matching," it means the reconstructed source code compiles to a binary identical to the retail game, ensuring functional fidelity. GoldenEye 007, released in 1997 by Rare for the Nintendo 64, was one of the most influential first-person shooters and a landmark title that helped define the console FPS genre.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://audiocraft.metademolab.com/encodec.html">EnCodec</a></li>
-<li><a href="https://github.com/facebookresearch/encodec">GitHub - facebookresearch/ encodec : State-of-the-art deep learning...</a></li>
-<li><a href="https://www.forasoft.com/learn/audio-for-video/glossary/terms-audio/encodec">EnCodec</a></li>
+<li><a href="https://heldgames.com/guides/retro-decompilation-recompilation-explained">Retro Game Decompilation and Recompilation, Explained</a></li>
+<li><a href="https://www.retroreversing.com/source-code/decompiled-retail-console-games">Decompiled Retail Console Games - Retro Reversing</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#audio-compression`, `#neural-codecs`, `#Meta-EnCodec`, `#creative-projects`, `#maker`
+**Tags**: `#reverse-engineering`, `#retro-gaming`, `#n64`, `#decompilation`, `#game-preservation`
 
 ---
 
 <a id="item-11"></a>
-## [Ukraine's MICH 2000 drone, a $48K Chinese clone, destroys Russian Tu-95 bomber](https://www.tomshardware.com/tech-industry/drones/ukraine-destroys-tu-95-bomber-using-48000-chinese-drone-clone) ⭐️ 5.5/10
+## [Cherokee Nation Bans Hyperscale Data Centers on Tribal Lands](https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands) ⭐️ 6.5/10
 
-Ukraine's MICH 2000 long-range strike drone, reverse-engineered from a Chinese civilian flying-wing airframe (ZTK-150) after covert factory photography, successfully destroyed a Russian Tu-95MS strategic bomber at the Engels-2 air base. The drone costs approximately $48,000 per unit, has a 2,000 km range, carries up to 60 kg of explosives, and is now produced at a rate of 6,000 units per year with 85% Ukrainian domestic content. This event demonstrates how rapid industrial reverse-engineering combined with distributed manufacturing can produce cost-effective deep-strike capabilities against high-value strategic assets. The destruction of a Tu-95MS is especially significant because only about 60 remain in Russia's Long-Range Aviation, and each is irreplaceable since the bomber has not been produced in decades. The MICH 2000 was developed by Ukraine's SBU Alfa unit starting from a Chinese civilian airframe purchased in 2023; two years of work localized engines, warheads, fuselages, and rocket boosters across dozens of Ukrainian suppliers. Its flying-wing configuration provides aerodynamic efficiency for long endurance, and the entire weapon system costs less than 1% of the value of a strategic bomber it can destroy.
+Cherokee Nation, with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands, citing concerns over energy and water consumption, air quality, noise, and cultural resource protection, and stated it will not support projects without prior consultation. As the largest federally recognized tribe in the United States, Cherokee Nation's ban represents a significant exercise of tribal sovereignty against the rapid expansion of AI-driven infrastructure. The move signals growing indigenous and community resistance to data center proliferation and could influence how other tribes and local governments approach negotiations with hyperscale developers. Hyperscale data centers typically house over 5,000 servers and consume vastly more electricity and water than enterprise-grade facilities. The policy applies specifically to tribally owned lands and trust lands, where the US federal government holds legal title but the Cherokee Nation retains beneficial interest and governing authority.
 
-rss · Tom's Hardware · Aug 16, 13:20
+rss · Tom's Hardware · Aug 17, 11:27
 
-**Background**: The Tupolev Tu-95 'Bear' is a Soviet-era turboprop strategic bomber that first flew in 1952 and has been a cornerstone of Russia's nuclear-capable long-range aviation for decades. The Tu-95MS variant carries cruise missiles and remains one of the few platforms capable of striking targets across the Northern Hemisphere. Flying-wing UAV designs eliminate the fuselage and tail, reducing drag and radar cross-section, which makes them attractive for long-range strike missions. Ukraine's approach—cloning an existing Chinese airframe and localizing production—mirrors a broader trend of asymmetric warfare where inexpensive mass-produced drones are used to attrit expensive legacy platforms.
+**Background**: Hyperscale data centers are the largest class of data center facilities, housing thousands of servers to support cloud computing, AI model training, and large-scale data processing workloads; they are significantly more power- and water-intensive than typical enterprise or colocation facilities. Tribal trust lands are parcels of land where the US federal government holds legal title on behalf of a tribal nation or individual Native American, while the tribe retains beneficial ownership and self-governance over land-use decisions. This decision comes amid a nationwide surge in data center construction driven by generative AI demand, which has intensified debates over environmental impact, local infrastructure strain, and community consent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/drones/ukraine-destroys-tu-95-bomber-using-48000-chinese-drone-clone">Ukraine built a $48,000 long-range drone after... | Tom's Hardware</a></li>
-<li><a href="https://defence-blog.com/ukraine-converts-chinese-drone-into-mich-2000-deep-striker/">Ukraine converts Chinese drone into MICH 2000 deep striker</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-95">Tupolev Tu - 95 - Wikipedia</a></li>
+<li><a href="https://www.lightwavenetworks.com/blog/about-hyperscale-datacenters/">About Hyperscale Datacenters | LightWave Networks</a></li>
+<li><a href="https://www.osiyo.net/2026/06/30/tribal-trust-lands-explained-federal-government/">What Are Tribal Trust Lands? How the Federal Government Holds ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#drones`, `#military-tech`, `#reverse-engineering`, `#ukraine-conflict`, `#hardware`
+**Tags**: `#data-centers`, `#tribal-sovereignty`, `#ai-infrastructure`, `#environmental-impact`, `#policy`
 
 ---
 
 <a id="item-12"></a>
-## [Intel to Launch New Core Architecture on Desktop First with Nova Lake](https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd) ⭐️ 5.5/10
+## [AI Data Center Optical Interconnect Market Projected to Reach $144B by 2030](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics) ⭐️ 6.5/10
 
-Intel VP Robert Hallock announced that the company's new core architecture, debuting with Nova Lake, will be released in consumer desktop processors before appearing in data center products — a reversal of Intel's typical launch order. Hallock encouraged enthusiasts to compare the new architecture's performance against AMD's offerings. This launch order reversal indicates Intel is under competitive pressure from AMD in the consumer desktop market and is prioritizing enthusiast mindshare to regain ground. It also signals that Intel sees the new core architecture as a critical differentiator it needs to showcase in the most visible segment first. Nova Lake is expected to launch in late 2026 and will require the new LGA 1954 socket, representing a full architectural rebuild rather than a refresh of the existing Arrow Lake platform. Intel's promotional framing encourages direct performance comparisons with AMD's competing desktop processors.
+A new forecast from CIC projects that the data center optical interconnect market will surge from $13.7 billion in 2024 to $144.4 billion by 2030, representing more than a tenfold increase. Silicon photonics is expected to dominate the market, capturing 63.7% of total revenue, driven largely by the adoption of co-packaged optics (CPO). This projected growth underscores the critical role of optical interconnects in scaling AI infrastructure, as traditional copper-based connections struggle to meet the bandwidth and power demands of large-scale AI training and inference clusters. The dominance of silicon photonics and CPO signals a major architectural shift in how next-generation data centers will be built, affecting hyperscalers, chip designers, and networking equipment vendors alike. Co-packaged optics integrates optical engines directly alongside switch chips, shortening signal transmission paths, reducing power consumption, and increasing bandwidth density compared to traditional pluggable optics. Silicon photonics leverages existing semiconductor fabrication processes to integrate optical and electronic components onto a single chip, enabling cost-effective mass production.
 
-rss · Tom's Hardware · Aug 16, 12:10
+rss · Tom's Hardware · Aug 17, 11:20
 
-**Background**: Intel has historically launched new core architectures in the data center (Xeon) segment first, then trickled them down to desktop platforms. Nova Lake is the codename for Intel's Core Ultra Series 4 processors, succeeding the current Arrow Lake generation. Intel's core architecture refers to the foundational design of the CPU's execution pipelines and logic, distinct from process node improvements. The competitive context is Intel's ongoing battle with AMD, whose Ryzen processors have gained significant desktop market share in recent years.
+**Background**: Optical interconnects use light signals to transmit data between chips, servers, and switches within data centers, offering higher bandwidth and lower power consumption than electrical copper connections at high speeds. Silicon photonics is a technology that builds optical components on silicon wafers, allowing optical and electronic circuits to be integrated on the same chip using standard semiconductor manufacturing processes. Co-packaged optics (CPO) represents an advanced packaging approach where optical transceivers are placed in close proximity to—rather than plugged into—switch ASICs, dramatically reducing the electrical signal path length and improving energy efficiency for AI-scale workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nova_Lake_(microprocessor)">Nova Lake (microprocessor) - Wikipedia</a></li>
-<li><a href="https://bottleneckcalculator.us.com/knowledge-base/hardware-guides/intel-nova-lake-architecture-the-new-desktop-king/">Intel vs AMD 2026: Nova Lake Desktop Performance Guide</a></li>
-<li><a href="https://acemagic.eu/blogs/einkaufsfuehrer/intel-nova-lake-vs-arrow-lake-vs-panther-lake">Intel Nova Lake vs Arrow Lake vs Panther Lake : Should You Buy...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics - Wikipedia</a></li>
+<li><a href="https://www.marvell.com/blogs/co-packaged-optics-for-next-wave-ai-data-centers.html">Co-packaged Optics: Powering the Next Wave of AI Data Center ...</a></li>
+<li><a href="https://www.networkworld.com/article/4098942/what-is-co-packaged-optics-a-solution-for-surging-capacity-in-ai-data-center-networks.html">What is co-packaged optics? A solution for surging capacity ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Intel`, `#Nova Lake`, `#CPU architecture`, `#AMD competition`, `#desktop processors`
+**Tags**: `#AI infrastructure`, `#data centers`, `#silicon photonics`, `#co-packaged optics`, `#market forecast`
 
 ---
 
 <a id="item-13"></a>
-## [Modern OLEDs are just as vulnerable to burn-in as 2017 panels in 10,000-hour test — twice the brightness and 27% efficiency gains offer crucial headroom](https://www.tomshardware.com/monitors/modern-oled-tvs-are-just-as-susceptible-to-burn-in-as-older-models-but-theyre-much-brighter-longevity-test-highlights-luminance-headroom-and-efficiency-as-mitigations) ⭐️ 5.5/10
+## [PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs](https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs) ⭐️ 6.5/10
 
-Rtings.com's 10,000-hour accelerated longevity test finds modern OLED TVs are equally susceptible to burn-in as 2017 models, though they offer significantly higher brightness and 27% better power efficiency as mitigations.
+PC Partner warns of rising GPU prices and budget card shortages in H2 2026, with analyst Jon Peddie suggesting manufacturers are inflating prices beyond justifiable memory cost increases.
 
-rss · Tom's Hardware · Aug 16, 11:10
+rss · Tom's Hardware · Aug 17, 11:00
 
-**Tags**: `#oled`, `#display-technology`, `#hardware`, `#consumer-electronics`, `#burn-in`
+**Tags**: `#GPU`, `#hardware`, `#pricing`, `#PC-building`, `#industry-news`
 
 ---
 
 <a id="item-14"></a>
-## [Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition](https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center) ⭐️ 5.5/10
+## [Japanese Shop Offers $25/GB VRAM Upgrades for Older GPUs](https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse) ⭐️ 6.5/10
 
-Former Missouri Farm Bureau president Blake Hurst is publicly offering his land for AI data center development, defying a wave of local moratoriums and public opposition to a $6.3B project.
+A Japanese repair shop is offering VRAM upgrades for older GPUs such as the RTX 2080 Ti at $25 per GB, enabling a fully modded 22GB GDDR6 configuration for just $282. The service targets budget-conscious AI practitioners seeking alternatives amid ongoing GPU and memory price inflation. This service provides a rare budget pathway for running larger AI/LLM inference workloads without purchasing expensive modern GPUs. It highlights how grassroots hardware modding communities are responding to supply constraints and inflated pricing in the AI hardware market. The upgrade involves BGA-level board rework to replace the original GDDR6 memory modules with higher-density 2GB Samsung chips, requiring specialized rework equipment and repair expertise. The RTX 2080 Ti originally ships with 11GB of VRAM, and GDDR6 offers roughly double the transfer speed of GDDR5 (14–16 GB/s versus 8 GB/s), though the bottleneck for AI workloads is primarily VRAM capacity rather than bandwidth.
 
-rss · Tom's Hardware · Aug 16, 10:30
+rss · Tom's Hardware · Aug 17, 10:30
 
-**Tags**: `#ai-infrastructure`, `#data-centers`, `#policy`, `#land-use`, `#nimby`
-
----
-
-<a id="item-15"></a>
-## [ADT R27A-BK3 EDSFF E1.S/E3.S to PCIe Gen5 Adapter Review](https://www.servethehome.com/adt-r27a-bk3-edsff-e1-s-and-e3-s-to-pcie-slot-review/) ⭐️ 5.5/10
-
-ServeTheHome has published a review of the ADT R27A-BK3, an adapter card that lets users mount a PCIe Gen5 E1.S or E3.S EDSFF SSD into a standard PCIe card slot, enabling these newer data center form factor drives to be tested or deployed in conventional PCIe-equipped systems. As EDSFF form factors like E1.S and E3.S become more common in data center and AI server deployments, adapters that bridge them to legacy PCIe slots become useful for lab validation, benchmarking, and incremental integration without redesigning whole systems. The adapter supports PCIe Gen5 bandwidth and accommodates both the smaller E1.S and the larger, higher-capacity E3.S EDSFF drives, making it flexible for testing enterprise-class NVMe SSDs in workstations or server chassis that lack native EDSFF backplanes.
-
-rss · ServeTheHome · Aug 16, 19:00
-
-**Background**: EDSFF, or the Enterprise and Data Center Standard Form Factor, was developed by a group of 15 companies under SNIA to standardize NVMe SSD hardware for data centers. The E1.S variant offers better thermal dissipation and higher power delivery than M.2, while the E3.S family is larger and supports higher-density deployments—a 2U server can hold up to 46 E3.S drives, making it well suited for AI and enterprise database workloads. As these form factors proliferate in hyperscale and AI infrastructure, adapters like the R27A-BK3 help bridge the gap to systems built around conventional PCIe slots.
+**Background**: VRAM is soldered directly onto the GPU PCB using BGA (Ball Grid Array) packages, making it impossible for typical users to swap memory modules as they would with system RAM. For large language model inference, the entire model—or substantial portions of it—must often reside in VRAM, so capacity directly determines which models can be loaded and how large a context window can be served. GDDR6 is the dominant graphics memory standard on modern gaming and compute GPUs, offering higher bandwidth and lower power consumption than its predecessor GDDR5.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Enterprise_and_Data_Center_Standard_Form_Factor">Enterprise and Data Center Standard Form Factor - Wikipedia</a></li>
-<li><a href="https://nvmexpress.org/how-edsff-is-making-nvme-technology-even-cooler/">How EDSFF is Making NVMe® Technology Even Cooler - NVM Express</a></li>
-<li><a href="https://www.serverstor.com/evolution-and-trends-of-edsff-hardware-form-factor-standards/">Enterprise-class SSD design specification EDSFF : Evolution from...</a></li>
+<li><a href="https://www.bentoml.com/blog/what-is-gpu-memory-and-why-it-matters-for-llm-inference">What is GPU Memory and Why it Matters for LLM Inference</a></li>
+<li><a href="https://techguided.com/gddr5-vs-gddr6-whats-the-difference/">GDDR5 vs GDDR6: What's the Difference? - Tech Guided GDDR5 vs GDDR6 - What’s the Difference and which do you need? GDDR5 vs GDDR5X vs GDDR6: Key Differences Explained GDDR5 vs GDDR6 – What is The Difference? Specifications ... GDDR6 VS GDDR5 Comparison in 2024 - CHUWI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#EDSFF`, `#E1.S`, `#E3.S`, `#PCIe Gen5`, `#hardware review`
+**Tags**: `#GPU`, `#VRAM`, `#hardware-modding`, `#AI-infrastructure`, `#budget-computing`
+
+---
+
+<a id="item-15"></a>
+## [Third-World Engineer Defends RISC-V for Embedded Accessibility](https://rvembedded.com/blog_post/12/) ⭐️ 6.0/10
+
+An engineer based in a developing country has published a blog post responding to criticism of RISC-V, arguing that the open instruction set architecture (ISA) is particularly valuable for embedded systems and accessibility in regions where component shipping costs are prohibitively high. This perspective highlights an underrepresented viewpoint in the RISC-V discourse, emphasizing that the value of open hardware extends beyond performance benchmarks to include economic accessibility, education, and self-reliance for engineers in developing nations. The author argues that for developing-world projects, a ten-cent RISC-V chip versus a one-dollar ARM chip makes a meaningful difference in total project cost, and that RISC-V's openness enables local design and fabrication. However, commenters pointed out contradictions in the cost analysis regarding shipping expenses.
+
+hackernews · Narishma · Aug 16, 17:01 · [Discussion](https://news.ycombinator.com/item?id=49321717)
+
+**Background**: RISC-V is an open-standard instruction set architecture (ISA) based on reduced instruction set computing (RISC) principles, allowing anyone to design and manufacture processors using it without licensing fees, unlike proprietary architectures such as ARM. The original article being responded to criticized RISC-V's design choices for delivering poor performance compared to ARM64 and argued that the ISA's many optional extensions create excessive fragmentation, making binary software distribution impractical. Embedded systems are computing devices with dedicated functions, often constrained by cost, power, and size, where RISC-V has found its strongest adoption so far.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/RISC-V">RISC-V - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open-source_hardware">Open - source hardware - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters productively critiqued the author's economic reasoning, noting a contradiction between his claim of $60-$200 shipping costs for $1 chips versus his assertion that a 10-cent vs $1 chip price difference is significant—the latter appears as a rounding error when shipping dominates costs. Others challenged his geographic generalizations, arguing that shipping to Nigeria and Bangladesh is far cheaper than he implies. Some felt the author was speaking past the original article's core technical arguments about ISA fragmentation and binary distribution challenges.
+
+**Tags**: `#RISC-V`, `#embedded-systems`, `#open-hardware`, `#developing-countries`, `#hardware-design`
+
+---
+
+<a id="item-16"></a>
+## [Reticulum: Decentralized Mesh Network Protocol Faces Embedded and Sustainability Challenges](https://reticulum.network/) ⭐️ 6.0/10
+
+Reticulum, a cryptography-based decentralized mesh networking stack designed for building resilient local and wide-area networks, is gaining community attention despite notable limitations around its Python dependency for embedded hardware targets and concerns about project sustainability as a single-maintainer effort. As interest in decentralized, censorship-resistant communication grows, Reticulum represents an ambitious open-source approach to building infrastructure-free mesh networks using commodity hardware like LoRa radios, but its practical deployment on the very constrained devices it targets remains a critical gap. The protocol uses cryptography to enable networks without central oversight, but its Python dependency makes it unsuitable for bare-metal or RTOS environments where LoRa target devices (using SX1262/SX128x radios on ARM MCUs) typically run. Community members point to a Rust fork at ratspeak.org and MeshCore as practical alternatives.
+
+hackernews · sudo_cowsay · Aug 16, 23:59 · [Discussion](https://news.ycombinator.com/item?id=49325061)
+
+**Background**: Reticulum is a networking stack—not a single network—that allows users to build decentralized mesh networks over various transports, including LoRa (Long Range) radios. LoRa is a low-power, long-range wireless technology based on Chirp Spread Spectrum modulation, commonly used for IoT and amateur radio communications, and ideal for battery-powered mesh nodes in remote areas. Unlike centralized internet infrastructure, mesh networks allow each node to relay traffic for others, enabling communication even when parts of the network are damaged or disconnected. Reticulum explicitly aims to create networks without kill-switches, surveillance, censorship, or central control.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://reticulum.network/manual/whatis.html">What is Reticulum ? - Reticulum Network Stack 1.4.2 documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LoRa">LoRa - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is mixed but leans cautious: while some appreciate Reticulum's vision of censorship-free networking, many express concerns about the Python requirement precluding embedded deployment on typical LoRa hardware, privacy claims that don't fully account for radio-level metadata leakage observable by observer nodes, and the sustainability risk of a single near-burned-out maintainer tackling a massive scope. Alternatives like the ratspeak.org Rust fork and MeshCore are frequently recommended as more immediately viable options.
+
+**Tags**: `#mesh-networking`, `#decentralized`, `#networking`, `#lora`, `#python`
+
+---
+
+<a id="item-17"></a>
+## [EV Charging Inlet Evolves into an Integrated Charge-Control System](https://www.eetimes.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/) ⭐️ 6.0/10
+
+A vendor perspective argues that integrating charge-control electronics directly into the EV charging inlet can reduce system complexity while supporting multiple global standards including J3400 (NACS), MCS, and CCS-based platforms. This architectural shift could simplify vehicle wiring, reduce BOM cost, and streamline compliance with the rapidly fragmenting global charging-standard landscape, affecting automotive tier-1 suppliers, OEMs, and charge-IC vendors. The proposal targets multi-standard support within a single inlet module, relevant given that SAE J3400 (NACS) is being standardized for cross-industry use and MCS is rolling out for heavy-duty EVs delivering 1 MW or more.
+
+rss · EE Times · Aug 17, 12:00
+
+**Background**: SAE J3400, based on Tesla's North American Charging Standard (NACS), is being formalized to replace or complement CCS1 connectors across North America. MCS (Megawatt Charging System) is a new ultra-fast standard aimed at heavy-duty electric trucks and buses, capable of delivering 1 MW or higher to recharge large battery packs during commercial operations. Today's EVs typically use a separate Electric Vehicle Charge Controller (EVCC) module to handle communication between the vehicle and charger; the proposed approach moves parts of this functionality into the inlet itself.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://driveelectric.gov/charging-connector">SAE J 3400 Charging Connector · Joint Office of Energy and...</a></li>
+<li><a href="https://www.chargepoly.com/en/glossaire/mcs-megawatt-charging-system-ca/">MCS : Megawatt Charging System | Chargepoly</a></li>
+<li><a href="https://www.chargepapa.com/blogs/chargepapa-knowledge-hub/nacs-sae-j3400-charging-standard-adapters-complete-guide-2026">NACS Charging Standard & Adapters Guide 2026 | SAE J 3400 ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#EV-charging`, `#automotive-electronics`, `#J3400`, `#MCS`, `#power-electronics`
+
+---
+
+<a id="item-18"></a>
+## [Fluid-Side Observability Expands AI Hardware Reliability](https://www.eetimes.com/fluid-side-observability-expands-ai-hardware-reliability/) ⭐️ 6.0/10
+
+EE Times reports that as AI systems increasingly depend on liquid cooling, monitoring coolant condition is emerging as a reliability signal that can reveal hidden risks before they affect hardware performance. Fluid-side observability is positioned as a new layer of monitoring for AI infrastructure. As AI workloads push data center power densities to unprecedented levels, traditional air cooling is being replaced by liquid cooling solutions such as direct-to-chip and immersion systems. Without proper fluid monitoring, coolant degradation, contamination, or flow anomalies can silently cause hardware failures, making observability a critical operational practice for protecting multi-million-dollar AI deployments. Industry guidance recommends that coolant in closed-loop liquid cooling systems be tested at three minimum intervals: at commissioning to establish a baseline, annually during normal operation, and semiannually for systems supporting high-density AI GPU workloads. Monitoring encompasses flow measurement, pressure monitoring, temperature sensing, coolant quality analysis, and advanced leak detection technologies.
+
+rss · EE Times · Aug 17, 11:34
+
+**Background**: Liquid cooling refers to using liquid coolant (such as water, dielectric fluids, or refrigerants) to remove heat from electronic components, as opposed to traditional air cooling. As AI accelerators like GPUs consume hundreds of watts per chip and are densely packed in server racks, liquid cooling has become essential to manage thermal loads. Fluid-side observability involves monitoring the physical and chemical condition of the coolant itself—such as pH, particulate count, conductivity, temperature, flow rate, and pressure—to detect early signs of degradation or contamination. Predictive coolant health is increasingly described as a missing reliability layer that can extend asset life and reduce unplanned downtime in AI data centers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.eetimes.com/fluid-side-observability-expands-ai-hardware-reliability/">Fluid-Side Observability Expands AI Hardware Reliability</a></li>
+<li><a href="https://datacenterpost.com/predictive-coolant-health-the-missing-reliability-layer-in-ai-data-centers/">Predictive Coolant Health: The Missing Reliability Layer in ...</a></li>
+<li><a href="https://blog.se.com/datacenter/2026/06/15/liquid-cooling-fluid-management-protect-ai-infrastructure/">Liquid cooling fluid management: Protect AI data center ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI hardware`, `#liquid cooling`, `#observability`, `#data center reliability`, `#thermal management`
+
+---
+
+<a id="item-19"></a>
+## [Neuromorphic Chips on Embedded Devices Face Security Gaps](https://www.electronicsweekly.com/news/design/eda-and-ip/security-challenges-of-neuromorphic-intelligence-on-embedded-systems-2026-08/) ⭐️ 6.0/10
+
+An article by Venus Kohli highlights that brain-inspired neuromorphic chips running on embedded devices offer remarkable processing efficiency but have not yet matured in terms of security compared to conventional von Neumann processors. As neuromorphic computing gains traction for energy-efficient edge AI, security weaknesses in these emerging architectures could expose billions of IoT and embedded devices to new attack vectors, potentially undermining adoption in safety-critical applications. The core concern is that neuromorphic processors, which use spiking neurons and physical synaptic connections for parallel, event-driven computation, lack the well-established security toolchains, verification methods, and threat models that have been developed over decades for von Neumann systems.
+
+rss · Electronics Weekly · Aug 17, 11:46
+
+**Background**: Neuromorphic computing is a brain-inspired approach that uses spiking neural networks and physical synaptic connections to replicate the brain's parallel, event-driven communication, offering significant energy efficiency for edge AI workloads. Conventional processors, in contrast, follow the von Neumann architecture, where instructions and data share the same memory space accessed via a single bus—a design from 1945 by John von Neumann. The von Neumann model has decades of accumulated security research, hardware-level safeguards, and mature verification tools, while neuromorphic chips represent a much newer paradigm whose security properties are still being characterized.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://medium.com/@._Doha_ElHariry_./neuromorphic-computing-how-brain-inspired-tech-powers-ai-besties-3089e1b438b0">Neuromorphic Computing : How Brain - Inspired Tech... | Medium</a></li>
+<li><a href="https://research.ibm.com/blog/what-is-neuromorphic-or-brain-inspired-computing">How neuromorphic computing takes inspiration from our brains</a></li>
+<li><a href="https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-von-neumann-architecture/">Von Neumann Architecture - GeeksforGeeks</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#neuromorphic-computing`, `#embedded-systems`, `#security`, `#hardware-design`, `#edge-AI`
+
+---
+
+<a id="item-20"></a>
+## [Dstl, Lancaster University and Amethyst Research collaborate on thermal camera detector architecture](https://www.electronicsweekly.com/news/research-news/dstl-lancaster-uni-research-innovations-for-thermal-cameras-2026-08/) ⭐️ 6.0/10
+
+The UK's Defence Science and Technology Laboratory (Dstl) has partnered with Amethyst Research and Lancaster University to design a novel detector architecture for thermal cameras aimed at boosting efficiency. The article's specific technical details are truncated, but the collaboration is positioned as an advance in infrared detector design. More efficient thermal camera detectors directly benefit defence and security applications by enabling smaller, lighter, lower-power imaging systems suitable for drones, vehicle mounts, or dismounted soldiers. As Dstl has previously demonstrated detectors more than ten times as efficient as current designs, this incremental collaboration could feed into that trajectory toward field-deployable thermal imaging. The article content is truncated, so the specific detector architecture (e.g., whether it relates to cooled or uncooled microbolometers, HgCdTe focal plane arrays, or meta-material enhanced structures) is not fully visible. Amethyst Research's published expertise covers HgCdTe infrared detectors, molecular beam epitaxy, meta-material optics, and device fabrication, which suggests the collaboration likely touches one or more of these areas.
+
+rss · Electronics Weekly · Aug 17, 09:11
+
+**Background**: Thermal (infrared) cameras detect long-wave or mid-wave infrared radiation emitted by objects and convert it into visible images, enabling vision in darkness, through smoke, and in adverse weather. Detector efficiency — how much incoming IR radiation is converted into a usable signal — is a critical parameter because higher efficiency allows the same image quality with smaller optics, lower power, and shorter exposure times. Dstl is the UK Ministry of Defence's executive agency for defence science and technology, while Amethyst Research is a US-based firm with two decades of experience in advanced infrared detectors, particularly HgCdTe (mercury cadmium telluride) materials. Lancaster University contributes academic research in physics and engineering.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory/about/recruitment">Working for Dstl - Defence Science and Technology Laboratory</a></li>
+<li><a href="https://ukdefencejournal.org.uk/thermal-cameras-that-soldiers-could-carry-are-in-view/">Thermal cameras that soldiers could carry are in view</a></li>
+<li><a href="https://amethystresearch.com/technologies/">Technologies – Amethyst</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#thermal-imaging`, `#defense-research`, `#sensor-technology`, `#dstl`, `#infrared-detectors`
 
 ---
