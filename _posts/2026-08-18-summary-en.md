@@ -5,420 +5,416 @@ date: 2026-08-18
 lang: en
 ---
 
-> From 85 items, 20 important content pieces were selected
+> From 75 items, 20 important content pieces were selected
 
 ---
 
-1. [DuckDB v2.0 Preview: Quack Adds Client/Server Mode](#item-1) ⭐️ 9.0/10
-2. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](#item-2) ⭐️ 8.0/10
-3. [HBM Shipments Shift to Malaysia, Intel's Project Pelican Emerges as CoWoS Competitor](#item-3) ⭐️ 7.5/10
-4. [Intel Nova Lake-S Tested with AVX-512 and APX Support](#item-4) ⭐️ 7.5/10
-5. [Geekom ships malware-laced drivers in AMD mini PCs, then removes them](#item-5) ⭐️ 7.5/10
-6. [DDR5 Memory Prices Surge 500% in 12 Months, Hitting 10x Historical Lows](#item-6) ⭐️ 7.5/10
-7. [America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs](#item-7) ⭐️ 7.5/10
-8. [美国一原告在法庭文件中植入针对 LLM 的提示词](#item-8) ⭐️ 7.3/10
-9. [AI;DR Movement: Readers Push Back Against LLM-Generated Content](#item-9) ⭐️ 7.0/10
-10. [Liquid Cooling Set to Reach 53% Penetration in High-End AI Servers by 2026](#item-10) ⭐️ 7.0/10
-11. [Security Gaps in Brain-Inspired Neuromorphic Chips for Embedded Devices](#item-11) ⭐️ 7.0/10
-12. [Nvidia Books TSMC 1.6nm A16 Capacity for Feynman GPU](#item-12) ⭐️ 7.0/10
-13. [XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1](#item-13) ⭐️ 7.0/10
-14. [ASUS GPU Tweak III Adds Auto-Shutdown to Prevent 12V-2×6 Meltdowns](#item-14) ⭐️ 6.5/10
-15. [CXMT Breaks 9,000 MT/s DDR5 Barrier on AMD Platform](#item-15) ⭐️ 6.5/10
-16. [Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'](#item-16) ⭐️ 6.5/10
-17. [Cherokee Nation bans hyperscale data centers on tribal lands](#item-17) ⭐️ 6.5/10
-18. [AI Data Center Optical Interconnect Market to Reach $144 Billion by 2030](#item-18) ⭐️ 6.5/10
-19. [PC Partner Warns of H2 2026 GPU Price Hikes and Budget Card Shortages](#item-19) ⭐️ 6.5/10
-20. [Japanese Shop Offers $25/GB GPU VRAM Upgrades for Budget AI](#item-20) ⭐️ 6.5/10
+1. [A Preview of DuckDB v2.0](#item-1) ⭐️ 8.0/10
+2. [HBM Shipments to Malaysia Surge, Pointing to Intel's Project Pelican](#item-2) ⭐️ 7.5/10
+3. [Geekom Pulls Driver Download Pages After Trojan Found in Legacy Mini PC Drivers](#item-3) ⭐️ 7.5/10
+4. [China's Domestic AI Chips to Capture 90% of Local Market by 2026](#item-4) ⭐️ 7.5/10
+5. [AirTag Exposes Amazon Facility Destroying Books for AI Training](#item-5) ⭐️ 7.5/10
+6. [Nvidia crypto mining GPUs hacked to restore locked-away VRAM — software mod unlocks 64GB of VRAM on $250 CMP 170HX](#item-6) ⭐️ 7.5/10
+7. [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399](#item-7) ⭐️ 7.5/10
+8. [Intel Xeon 658X Review: Granite Rapids Enters Workstations](#item-8) ⭐️ 7.5/10
+9. [Alibaba's Qwen Surpasses 3 Billion Downloads, Leading Global Open-Weight AI](#item-9) ⭐️ 7.3/10
+10. [Linux 7.3 improves performance when running out of vRAM](#item-10) ⭐️ 7.0/10
+11. [Google buys Spirit Airlines' bankruptcy data for $10M for AI training](#item-11) ⭐️ 7.0/10
+12. [Israel accused of creating fake think tank to manipulate AI chatbots](#item-12) ⭐️ 7.0/10
+13. [Top Five NAND Flash Brands' Revenue Soars 77% QoQ in Q2 2026; Micron Climbs to Third](#item-13) ⭐️ 7.0/10
+14. [Roblox In Hot Water Again for "Priotitizing Revenue" Over Child Safety](#item-14) ⭐️ 6.5/10
+15. [ASUS GPU Tweak III Adds Auto-Shutdown to Prevent 12V-2×6 Meltdowns](#item-15) ⭐️ 6.5/10
+16. [Federal Court Upholds Judicial Immunity Despite Alleged AI Reliance](#item-16) ⭐️ 6.5/10
+17. [China Orders State Agencies to Uninstall Government-Customized Windows 10](#item-17) ⭐️ 6.5/10
+18. [Indian Startup Othisis Test-Fires 3D-Printed Cryogenic Reusable Rocket Engine](#item-18) ⭐️ 6.5/10
+19. [Alibaba Sells Lingxi Games for $2B+ to Fund AI Infrastructure](#item-19) ⭐️ 6.5/10
+20. [Quake Shareware CD-ROM: A Technical Deep-Dive into 90s Game Distribution](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [DuckDB v2.0 Preview: Quack Adds Client/Server Mode](https://duckdb.org/2026/08/17/duckdb-20-highlights) ⭐️ 9.0/10
+## [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) ⭐️ 8.0/10
 
-DuckDB v2.0 was previewed with major new features, most notably the 'Quack' extension, which implements a native client/server protocol allowing DuckDB instances to communicate over a network. The v2.0 release also incorporates approximately 10,000 commits accumulated in under six months. Quack transforms DuckDB from a purely embedded analytics engine into a hybrid client/server system, dramatically expanding its deployment scenarios — from single-machine analytics to distributed workloads — without sacrificing its signature ease of use. The v2.0 milestone also signals continued strong investment in a tool that has become a foundational layer in modern data stacks, from dbt pipelines to streaming engines. Quack is delivered as an extension rather than a core change, meaning both client and server are DuckDB instances communicating via a native protocol. The DuckDB project noted that users had 'very persistently' requested client/server mode, which the team had previously resisted in favor of the embedded model.
+Preview of DuckDB v2.0 highlighting major new features and improvements for the popular in-process analytical database.
 
 hackernews · ibotty · Aug 17, 13:46 · [Discussion](https://news.ycombinator.com/item?id=49330781)
 
-**Background**: DuckDB is an in-process analytical (OLAP) database management system, first released in 2018, designed for fast columnar analytics directly within applications (commonly Python or R). Unlike traditional client-server systems such as PostgreSQL, DuckDB runs embedded inside the host process, similar to SQLite but optimized for analytical workloads. It supports spilling to disk to handle datasets larger than available memory, and has become popular for local data analysis, data engineering pipelines, and embedded analytics. OLAP (Online Analytical Processing) refers to database systems optimized for complex multi-dimensional queries and reporting, as opposed to OLTP (Online Transaction Processing) which handles many small transactions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0 – DuckDB</a></li>
-<li><a href="https://duckdb.org/quack/">Quack Remote Protocol – DuckDB</a></li>
-<li><a href="https://duckdb.org/">DuckDB – An in-process SQL OLAP database management system</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Online_analytical_processing">Online analytical processing - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community response is overwhelmingly enthusiastic, with practitioners describing DuckDB as a go-to tool for dbt pipelines, streaming analytics engines (like sql-flow processing thousands of events per second), spatial workloads, and embedded runtime storage. Several commenters expressed excitement specifically about Quack. One notable thread questioned whether the 10,000 commits in under six months reflect significant AI-assisted development, raising a broader meta-discussion about the pace of AI-augmented open-source development.
-
-**Tags**: `#duckdb`, `#database`, `#analytics`, `#olap`, `#open-source`
+**Tags**: `#duckdb`, `#database`, `#analytics`, `#data-engineering`, `#major-release`
 
 ---
 
 <a id="item-2"></a>
-## [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) ⭐️ 8.0/10
+## [HBM Shipments to Malaysia Surge, Pointing to Intel's Project Pelican](https://www.techpowerup.com/351658/hbm-shipments-to-malaysia-surge-pointing-to-intels-project-pelican-facility) ⭐️ 7.5/10
 
-AI-generated GitHub Copilot 'Autofix' code introduced a template injection vulnerability in Snowflake's GitHub Actions workflow, enabling compromise of their Jira instance.
+South Korean export data analyzed by SemiAnalysis shows that approximately $1.3 billion worth of high-bandwidth memory (HBM) is now being shipped to Malaysia, while shipments to Taiwan have dropped from over $5 billion to under $3 billion in just a few months. Since TSMC operates no advanced packaging facility in Malaysia, this shipment surge strongly suggests that Intel's $7 billion Project Pelican advanced packaging complex is operational and capturing HBM integration work traditionally dominated by TSMC's CoWoS technology. This development signals Intel's emergence as a credible third-party advanced packaging provider for AI and high-performance computing chips, directly challenging TSMC's near-monopoly on CoWoS services amid a severe global capacity crunch. It represents a major strategic milestone for Intel's foundry ambitions and could reshape supply chain dynamics for hyperscalers and AI chip designers seeking alternatives to TSMC. Project Pelican supports both EMIB (Embedded Multi-die Interconnect Bridge) and Foveros packaging flows, enabling die sort and die prep operations for heterogeneous chip integration. Interest in Intel's packaging services has reportedly attracted companies such as MediaTek, Google, and Qualcomm, though the article notes that other Malaysian packaging players remain too small to account for the observed shipment volumes.
 
-hackernews · galnagli · Aug 17, 14:18 · [Discussion](https://news.ycombinator.com/item?id=49331423)
+rss · TechPowerUp News · Aug 17, 17:19
 
-**Tags**: `#security`, `#ai-generated-code`, `#github-actions`, `#supply-chain`, `#copilot`, `#vulnerability`
+**Background**: High-bandwidth memory (HBM) is a type of 3D-stacked DRAM that delivers very high data throughput with better energy efficiency than conventional memory, making it essential for AI accelerators and GPUs used in training and inference workloads. Advanced packaging technologies such as TSMC's CoWoS (Chip-on-Wafer-on-Substrate) and Intel's EMIB and Foveros are needed to integrate HBM stacks with logic dies into a single package. The current global demand for CoWoS capacity has far outstripped supply due to the AI chip boom, creating an opening for alternative providers like Intel, whose Foveros technology stacks chiplets face-to-face on a silicon interposer, while EMIB uses small silicon bridges embedded in the package substrate for high-density chip-to-chip connections.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/343545/intel-completes-project-pelican-malaysia-packaging-fab-for-emib-and-foveros">Intel Completes "Project Pelican" Malaysia Packaging Fab for ...</a></li>
+<li><a href="https://www.lovechip.com/blog/foveros-vs-emib">Foveros vs EMIB: Key Differences, Performance Trade-offs, and ...</a></li>
+<li><a href="https://www.aminext.blog/en/post/tsmc-cowos-s-r-l-differences">CoWoS - S , R , L Explained – TSMC ’s Advanced Packaging Strategies...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#semiconductors`, `#advanced-packaging`, `#HBM`, `#TSMC-competition`
 
 ---
 
 <a id="item-3"></a>
-## [HBM Shipments Shift to Malaysia, Intel's Project Pelican Emerges as CoWoS Competitor](https://www.techpowerup.com/351658/hbm-shipments-to-malaysia-surge-pointing-to-intels-project-pelican-facility) ⭐️ 7.5/10
+## [Geekom Pulls Driver Download Pages After Trojan Found in Legacy Mini PC Drivers](https://www.techpowerup.com/351651/geekom-pulls-download-pages-after-malware-found-in-legacy-mini-pc-drivers) ⭐️ 7.5/10
 
-According to SemiAnalysis Chipbook export data, high-bandwidth memory (HBM) shipments from South Korea are increasingly heading to Malaysia rather than Taiwan, with approximately $1.3 billion in HBM now going to Malaysia versus less than $3 billion to Taiwan—down from over $5 billion to Taiwan just months ago. Analysts infer that Intel's $7 billion Project Pelican advanced packaging facility in Malaysia is absorbing HBM integration work that was previously TSMC's CoWoS domain. This shift signals the emergence of Intel as a viable second source for advanced HBM packaging, potentially breaking TSMC's near-monopoly on CoWoS technology that is critical for AI accelerator production. Foundry customers now have an alternative path for chiplet integration, which could reshape the AI chip supply chain and ease the severe CoWoS capacity bottleneck that has constrained NVIDIA and other AI GPU deliveries. Intel's Project Pelican supports both EMIB (Embedded Multi-die Interconnect Bridge) and Foveros packaging flows, and the facility is 99% complete with operations expected to begin in 2026. The inference that Intel—not TSMC or other smaller Malaysian players—is the recipient of this HBM volume is based on the fact that TSMC has no advanced packaging fab in Malaysia and only Intel's EMIB/Foveros technologies are mature enough to handle large-scale HBM integration.
+Geekom has removed the legacy LAN driver download page for its A7, A8, AE7, AX7 Pro, and AX8 Pro mini PCs after multiple malware scanning services confirmed the package contained a trojan capable of executing attacker commands. The company issued an official apology, stating the issue stemmed from an outdated resource that was not linked from the main product page but remained publicly accessible and indexed by search engines. This is a notable supply chain security incident involving a mainstream consumer hardware vendor distributing trojan-laced drivers through its official download infrastructure, affecting users who purchased affected AMD-based mini PCs. The case underscores how legacy pages left unmaintained on vendor sites can become persistent malware distribution vectors, and highlights the value of independent community-driven malware verification. The trojan was first flagged by Windows Security and subsequently verified by VirusTotal, FileScan, and MetaDefender, lending strong credibility to community reports on the r/MiniPCs subreddit. Geekom confirmed the malicious code was confined to the now-removed legacy drivers and stated the affected page was an outdated resource that failed to be cleaned up in time, though users who previously downloaded the package may still have infected files locally.
 
-rss · TechPowerUp News · Aug 17, 17:19
+rss · TechPowerUp News · Aug 17, 16:09
 
-**Background**: High-Bandwidth Memory (HBM) is a 3D-stacked DRAM technology that provides extremely high data throughput between memory and processors, making it essential for AI training and inference chips such as NVIDIA GPUs. Advanced packaging technologies like TSMC's CoWoS (Chip-on-Wafer-on-Substrate) and Intel's EMIB and Foveros are required to physically integrate HBM stacks with logic dies in a single package, enabling the chiplet-based designs that power modern AI accelerators. CoWoS comes in several variants—CoWoS-S, CoWoS-L, and CoWoS-R—each offering different trade-offs in interconnect density and scalability. Demand for CoWoS has far outstripped supply, creating a major bottleneck in the AI hardware supply chain.
+**Background**: A supply chain attack in cybersecurity refers to a compromise in which malicious code or tampered components are introduced through a trusted vendor's legitimate distribution channels, making the malware harder to detect because users trust the source. Multi-engine malware scanning services like VirusTotal and OPSWAT's MetaDefender aggregate dozens of antivirus engines to verify suspicious files, significantly increasing detection reliability compared to a single scanner. Mini PCs are compact desktop computers that have surged in popularity as affordable alternatives to traditional desktops, and vendors like Geekom ship downloadable driver packages from their websites to support varied hardware configurations across product generations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/343545/intel-completes-project-pelican-malaysia-packaging-fab-for-emib-and-foveros">Intel Completes "Project Pelican" Malaysia Packaging Fab for EMIB and Foveros | TechPowerUp</a></li>
-<li><a href="https://www.trendforce.com/news/2026/03/18/news-intel-ramps-up-advanced-packaging-malaysia-complex-operational-in-2026-emib-update/">[News] Intel Ramps Up Advanced Packaging: Malaysia Complex Operational in 2026, EMIB Update</a></li>
-<li><a href="https://www.ariat-tech.com/blog/CoWoS-Packaging-Explained-CoWoS-S-vs.CoWoS-R-vs.CoWoS-L,HBM,Manufacturing,and-AI-Chips.html">CoWoS Packaging Explained: CoWoS - S vs. CoWoS - R vs....</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Supply_chain_attack">Supply chain attack - Wikipedia</a></li>
+<li><a href="https://www.opswat.com/blog/metadefender-more-private-alternative-virustotal">Metadefender : A More Private Alternative to VirusTotal - OPSWAT</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#intel`, `#HBM`, `#advanced-packaging`, `#supply-chain`
+**Discussion**: Community discussion on Reddit's r/MiniPCs subreddit confirmed the malware warning, with multiple users reporting that the trojan-flagged driver was also detected by independent antivirus tools, validating the initial report. The discussion emphasized concerns about legacy vendor pages remaining online and indexed long after products are superseded, and praised Geekom's relatively swift and transparent response in pulling the page and issuing an apology.
+
+**Tags**: `#security`, `#malware`, `#supply-chain`, `#hardware`, `#mini-pc`
 
 ---
 
 <a id="item-4"></a>
-## [Intel Nova Lake-S Tested with AVX-512 and APX Support](https://www.techpowerup.com/351647/intel-nova-lake-s-tested-with-avx-512-and-apx-enabled) ⭐️ 7.5/10
+## [China's Domestic AI Chips to Capture 90% of Local Market by 2026](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd) ⭐️ 7.5/10
 
-Intel has been internally testing two Nova Lake-S desktop CPU SKUs — a 24-core variant at 3.4 GHz and a 28-core variant at 3.2 GHz — both featuring AVX-512 and APX instruction sets, as confirmed by InstLatX64. This confirms that 512-bit vector processing is returning to Intel's desktop lineup after being absent since the 11th generation. The return of AVX-512 to Intel's mainstream desktop platform closes a significant performance gap for HPC, scientific computing, machine learning inference, and other SIMD-heavy workloads that previously required Xeon or HEDT chips. Combined with APX's doubled register count, Nova Lake-S narrows the divide between consumer and server/professional tiers, giving developers and enthusiasts a much more capable general-purpose and vector platform. Nova Lake-S uses 'Coyote Cove' P-cores and 'Arctic Wolf' E-cores, sits on the new LGA1954 socket, and is expected to launch later in 2026. AVX-512 was disabled on Alder Lake and Raptor Lake client CPUs because the hybrid P-core/E-core design complicated software optimization, so its reintroduction here signals that Intel has resolved those software/hardware coexistence issues.
+Analysts forecast that Chinese AI accelerator vendors, led by Huawei and Cambricon, will supply roughly 90% of the AI processors used within China by 2026, marking near self-sufficiency in high-end AI hardware and a major shift away from Nvidia and AMD. This shift would significantly erode Nvidia and AMD's footprint in one of the world's largest AI chip markets, accelerating the US-China tech decoupling and reshaping the global AI supply chain. It also signals that export controls on advanced GPUs may be pushing China toward an indigenous AI hardware stack that rivals Western offerings. Cambricon, a partially state-owned Beijing-listed chip designer specializing in neural processing units (NPUs) and GPGPUs, and Huawei with its Ascend AI accelerator line (including variants like the Ascend 950PR for inference workloads) are expected to be the primary beneficiaries. Despite HBM memory and fab capacity remaining bottlenecks, analysts see domestic supply reaching the 90% threshold within roughly a year.
 
-rss · TechPowerUp News · Aug 17, 12:46
+rss · Tom's Hardware · Aug 18, 11:20
 
-**Background**: AVX-512 is a 512-bit-wide SIMD instruction set extension introduced by Intel in 2013 (first shipped on Xeon Phi Knights Landing in 2016) that doubles the floating-point operations per clock compared to 256-bit AVX2, making it valuable for HPC, cryptography, and ML workloads. Intel APX (Advanced Performance Extensions) doubles the number of general-purpose registers from 16 to 32 and adds other features to enhance general-purpose CPU performance without significantly increasing silicon area or power consumption. Intel originally disabled AVX-512 on its 12th-gen Alder Lake hybrid CPUs due to the complexity of running 512-bit instructions on heterogeneous core types, effectively pushing desktop users needing AVX-512 toward Xeon or HEDT platforms.
+**Background**: AI accelerators are specialized processors (GPUs, NPUs, or custom ASICs) designed to train and run large AI models efficiently. Nvidia currently dominates this market with its H100 and B-series GPUs, while AMD offers competing accelerators. Huawei's Ascend and Cambricon's MLU chips are China's leading domestic alternatives. US export controls have restricted China's access to cutting-edge Nvidia chips, pushing Chinese cloud providers and AI firms to adopt local alternatives. The claim that 90% domestic supply is achievable reflects both rapid progress in Chinese chip design and the effectiveness of US sanctions in redirecting demand toward homegrown silicon.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://builders.intel.com/docs/networkbuilders/intel-avx-512-instruction-set-for-packet-processing-technology-guide-1645717553.pdf">Intel ® AVX - 512 - Instruction Set for Packet Processing Technology...</a></li>
-<li><a href="https://www.phoronix.com/news/Intel-APX">Intel Details APX - Advanced Performance Extensions - Phoronix</a></li>
-<li><a href="https://www.igorslab.de/en/intel-nova-lake-s-when-mainstream-suddenly-smells-like-hedt/">Intel Nova Lake - S : When mainstream suddenly smells like... | igor´sLAB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cambricon_Technologies">Cambricon Technologies - Wikipedia</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-chip-champions-ramp-up-production-of-ai-accelerators-at-domestic-fabs-but-hbm-and-fab-production-capacity-are-towering-bottlenecks">China's chip champions ramp up production of AI accelerators at...</a></li>
+<li><a href="https://www.supercomputing.news/entity/huawei-ascend-950pr">Huawei Ascend 950PR — Supercomputing News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#intel`, `#cpu-architecture`, `#avx-512`, `#nova-lake`, `#hardware`
+**Tags**: `#AI hardware`, `#China tech`, `#Huawei`, `#Cambricon`, `#semiconductors`
 
 ---
 
 <a id="item-5"></a>
-## [Geekom ships malware-laced drivers in AMD mini PCs, then removes them](https://www.tomshardware.com/tech-industry/cyber-security/geekom-admits-to-shipping-malware-laced-network-drivers-for-amd-mini-pcs-company-responds-with-guidance-removes-malicious-package) ⭐️ 7.5/10
+## [AirTag Exposes Amazon Facility Destroying Books for AI Training](https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does) ⭐️ 7.5/10
 
-Geekom has confirmed that network drivers hosted on its website for its AMD-based A7, A8, AE7, AX7 Pro, and AX8 Pro mini PCs were flagged by Windows Security as trojans capable of executing attacker commands, and the company has since removed the affected legacy LAN driver download page entirely. In an official statement, Geekom attributed the issue to an outdated resource on an older page that was publicly accessible but no longer linked from the main product page. This is a textbook supply chain security incident: a hardware vendor shipped software containing malware from an official download channel, directly undermining trust in out-of-the-box devices. It highlights the importance of consumers verifying driver downloads via multiple scanning tools and reinforces calls for greater transparency from hardware vendors regarding software bill of materials. The malicious file was verified as malware by multiple independent scanning services, including VirusTotal (which uses over 70 antivirus engines), FileScan, and OPSWAT's MetaDefender. Geekom stated the issue is confined to the now-removed legacy drivers and issued an apology, though the company reportedly also requested a takedown of reporting on the incident, raising concerns about transparency.
+404 Media placed an Apple AirTag inside a shipment of 1,000 books and tracked it to an Amazon processing facility in Las Vegas, where the books were systematically destroyed by having their spines cut off and pages scanned, allegedly solely to generate training data for AI models. This investigation reveals the industrial-scale destruction of physical books to feed AI training pipelines, raising serious ethical, copyright, and environmental concerns about how AI companies source their data. It exposes practices that affect publishers, authors, and the broader ecosystem of knowledge production. The Las Vegas facility reportedly spends all day cutting spines and scanning pages, destroying the books in the process. The AirTag, a small Apple IoT tracker that uses the crowdsourced Find My network, allowed reporters to follow the shipment's chain of custody and uncover the facility's sole purpose.
 
-rss · Tom's Hardware · Aug 17, 17:18
+rss · Tom's Hardware · Aug 18, 10:30
 
-**Background**: Supply chain security refers to the practice of securing every link in the software and hardware delivery chain, from development through to the end user, since attackers often exploit trusted vendor channels to distribute malware. When a hardware vendor ships infected drivers, customers who install them believing them to be legitimate can unknowingly grant attackers remote command execution on their systems. Multi-engine malware scanning platforms like VirusTotal and MetaDefender allow users and researchers to independently verify suspicious files by submitting them to dozens of antivirus engines and sandbox environments at once.
+**Background**: An Apple AirTag is a quarter-sized tracking device that uses Apple's crowdsourced Find My network to locate lost or stolen items. Many AI companies have turned to digitizing physical books — including rare and out-of-print titles — to create training datasets, as much of the world's knowledge still resides in printed volumes. Anthropic's 'Project Panama' is a notable example of large-scale physical-to-digital book scanning for AI training. The practice of destroying books by cutting spines to scan individual pages raises questions about copyright law (first-sale doctrine, fair use), data provenance, and environmental waste.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/VirusTotal">VirusTotal - Wikipedia</a></li>
-<li><a href="https://www.opswat.com/products/metadefender">Advanced Threat Prevention - MetaDefender - OPSWAT</a></li>
-<li><a href="https://www.linkedin.com/posts/tekkeez_smbsecurity-supplychain-cybersecurity-activity-7415105351567507456-PMRi">Protect Your Supply Chain from Cyber Risks | TekkEez... | LinkedIn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AirTag">AirTag - Wikipedia</a></li>
+<li><a href="https://www.e-arc.com/ai-data-capture/">AI Training Document Digitization | AI Document Scanning | ARC</a></li>
+<li><a href="https://www.wisdomai.com/insights/The+Vergecast/project-panama-anthropic-books-ai-training-data-d99975cc">Millions of Books, One Copy Each: H... (2026) | The Vergecast ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussion on Reddit's r/MiniPCs raised alarms about the malware, with users sharing verification results from VirusTotal, FileScan, and MetaDefender to confirm the threat. Sentiment was strongly negative toward Geekom, with frustration compounded by reports that the company attempted to suppress the original reporting via a takedown request rather than addressing the issue transparently first.
-
-**Tags**: `#cybersecurity`, `#supply-chain-security`, `#malware`, `#hardware`, `#consumer-electronics`
+**Tags**: `#AI ethics`, `#training data`, `#copyright`, `#investigative journalism`, `#Amazon`
 
 ---
 
 <a id="item-6"></a>
-## [DDR5 Memory Prices Surge 500% in 12 Months, Hitting 10x Historical Lows](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399) ⭐️ 7.5/10
+## [Nvidia crypto mining GPUs hacked to restore locked-away VRAM — software mod unlocks 64GB of VRAM on $250 CMP 170HX](https://www.tomshardware.com/pc-components/gpus/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram-in-order-to-feed-ai-boom-software-mod-unlocks-64gb-of-vram-on-usd250-cmp-170hx) ⭐️ 7.5/10
 
-Tom's Hardware reports that DDR5 memory prices have climbed approximately 500% over the past 12 months and now reach up to 10x the lowest prices ever tracked, with a 128GB DDR5 kit now priced at $3,399. This unprecedented memory price surge affects PC builders, gamers, data centers, and AI infrastructure projects, potentially slowing hardware upgrades and increasing the total cost of computing systems across the industry. The price increases are primarily driven by surging AI server demand, which is consuming memory supply; similar trends are affecting SSDs and other storage products as the broader memory market faces tight capacity allocation.
+Software mod unlocks disabled VRAM on Nvidia's CMP 170HX crypto mining GPU, exposing 64GB of usable memory on a $250 card for AI workloads.
 
-rss · Tom's Hardware · Aug 17, 13:52
+rss · Tom's Hardware · Aug 18, 09:30
 
-**Background**: DDR5 is the latest generation of Double Data Rate Synchronous DRAM, succeeding DDR4 with higher bandwidth, lower power consumption, and greater density per module. The current memory crisis, sometimes dubbed the 'RAMpocalypse,' is largely attributed to AI companies building massive data centers that require enormous quantities of both system memory (DRAM) and storage (NAND/SSD). Memory manufacturers are prioritizing high-capacity server-grade products over consumer DIMMs, creating a supply squeeze that has pushed retail prices to record highs across the consumer market.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.pcgamer.com/hardware/memory/ram-and-storage-is-ridiculously-expensive-right-now-because-of-drumroll-ai-of-course-and-theres-little-reason-to-think-prices-will-drop-any-time-soon/">Explainer: The RAMpocalypse is making memory , SSDs... | PC Gamer</a></li>
-<li><a href="https://en.hwlibre.com/DDR5-memory-price-crisis:-why-have-prices-skyrocketed-and-when-might-they-come-down/">DDR5 memory price crisis : why prices have skyrocketed and when...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DDR_SDRAM">DDR SDRAM - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#memory`, `#DDR5`, `#hardware`, `#pricing`, `#PC-components`
+**Tags**: `#gpu`, `#nvidia`, `#ai-infrastructure`, `#hardware-hacking`, `#cryptocurrency-mining`
 
 ---
 
 <a id="item-7"></a>
-## [America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs](https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power) ⭐️ 7.5/10
+## [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399) ⭐️ 7.5/10
 
-PJM Interconnection proposes federal rules to prioritize power shutoffs to new large data centers (50MW+) during shortages unless they provide their own on-site generation.
+DRAM prices have surged up to 500% in 12 months due to the ongoing memory crisis, with 128GB DDR5 kits now reaching $3,399.
 
-rss · Tom's Hardware · Aug 17, 13:11
+rss · Tom's Hardware · Aug 17, 13:52
 
-**Tags**: `#data-centers`, `#energy-policy`, `#ai-infrastructure`, `#grid-management`, `#regulation`
+**Tags**: `#hardware`, `#memory`, `#DDR5`, `#market-trends`, `#PC-components`
 
 ---
 
 <a id="item-8"></a>
-## [美国一原告在法庭文件中植入针对 LLM 的提示词](https://www.solidot.org/story?sid=85109) ⭐️ 7.3/10
+## [Intel Xeon 658X Review: Granite Rapids Enters Workstations](https://www.servethehome.com/intel-xeon-658x-review-granite-rapids-for-workstations/) ⭐️ 7.5/10
 
-A digest covering the first known case of LLM prompt injection embedded in US court filings, an investigation into Amazon's mass book-scanning-and-destruction operation for AI training data, and Qwen surpassing 3 billion downloads on Hugging Face.
+ServeTheHome has published a hands-on review of Intel's Xeon 658X, a 24-core member of the new Xeon 600 workstation family, which brings the Granite Rapids server architecture to professional workstation platforms. The review highlights the chip's strong memory bandwidth as a key factor driving its performance for workstation workloads. This marks Intel's first Granite Rapids–based offering targeted at the workstation segment, giving professionals in 3D rendering, simulation, and complex data analysis access to the same P-core architecture that has powered Intel's top-end server chips. The Xeon 600 line competes directly with AMD's Ryzen Threadripper and EPYC workstation platforms, where memory bandwidth and core count are decisive for many professional workflows. The reviewed Xeon 658X is a 24-core part within the wider Xeon 600 family, which scales up to 86 P-cores and offers 128 lanes of PCIe 5.0 connectivity paired with the W890 chipset on the GNR-W platform. Granite Rapids is built on the Intel 3 process node and uses the Redwood Cove architecture, originally designed for high-performance computing and latency-sensitive workloads.
 
-rss · Solidot · Aug 17, 07:16
+rss · ServeTheHome · Aug 17, 18:00
 
-**Tags**: `#prompt-injection`, `#AI-security`, `#legal-tech`, `#AI-training-data`, `#Qwen`
+**Background**: Granite Rapids is the codename for Intel's 6th-generation Xeon Scalable server processors, originally launched on September 24, 2024, with configurations scaling up to 128 P-cores for data center use. The Xeon 600 workstation family, announced in February 2026, adapts this same core architecture to single-socket and multi-socket workstation boards, bringing enterprise-class memory bandwidth and PCIe 5.0 I/O to professional desktops. Workstation buyers typically care about a balance of core count, memory channels, and platform stability for sustained professional workloads such as CAD, rendering, and simulation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://newsroom.intel.com/intel-products/intel-launches-new-intel-xeon-600-processors-for-workstation">Intel Launches new Intel® Xeon® 600 Processors for Workstation</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/products/details/processors/xeon/workstations.html">Intel Xeon 600 Processors for Workstations</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Granite_Rapids">Granite Rapids - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel Xeon`, `#Granite Rapids`, `#Workstations`, `#CPU Review`, `#Memory Bandwidth`
 
 ---
 
 <a id="item-9"></a>
-## [AI;DR Movement: Readers Push Back Against LLM-Generated Content](https://www.rickmanelius.com/p/aidr-ai-didnt-read) ⭐️ 7.0/10
+## [Alibaba's Qwen Surpasses 3 Billion Downloads, Leading Global Open-Weight AI](https://www.solidot.org/story?sid=85118) ⭐️ 7.3/10
 
-A concept coined 'AI;DR' (AI; Didn't Read) — a declaration that the reader skipped a piece because it appeared to be AI-generated — went viral on Hacker News with 562 upvotes and 353 comments, reflecting growing cultural resistance to LLM-generated text across online writing, codebases, and workplace communication. This signals a maturing cultural pushback against uncritical AI adoption: readers are beginning to curate their attention by rejecting machine-generated prose, which could reshape content strategy, developer documentation practices, and how teams use LLMs in collaborative workflows. The workplace anecdotes shared in the discussion suggest the backlash is not merely aesthetic but operational, with codebases becoming 'post-readable' due to verbose AI documentation. The Hacker News discussion surfaced specific pain points: developers report drowning in AI-generated PR documentation with 'performative' comments about variable names, and some commenters argue that sharing the original prompt is more valuable than sharing the AI output. The movement treats AI-generated text as a signal of 'intellectual laziness' rather than genuine expertise transfer.
+According to a Hugging Face report, Alibaba's Qwen open-weight models surpassed 3 billion global downloads in the past six months, making it the largest community foundation model with 151,448 derivative models. Google and Meta's open-weight models trailed significantly at 418 million and 227 million downloads respectively. This data highlights the growing dominance of Chinese AI labs in the open-weight ecosystem, with Chinese labs consistently releasing models with parameters ranging from 754 billion to 2.78 trillion—far exceeding US counterparts that typically stay below 130 billion. The shift signals a significant redistribution of influence in global AI development, with downstream applications, derivatives, and commercial ecosystems increasingly anchored to Chinese-origin models. Among 178 Chinese models with over 20 billion parameters, 55% use the Apache 2.0 license and 22% use MIT, though most carry non-commercial use restrictions. The recently released Kimi K3 and Qwen3.8 large models add revenue-sharing requirements on top of non-commercial clauses. Notably, Thinking Machines' 952B-parameter Inkling model is built upon a Chinese base model, illustrating how the Chinese open-weight ecosystem underpins even Western AI efforts.
 
-hackernews · mooreds · Aug 17, 19:47 · [Discussion](https://news.ycombinator.com/item?id=49336573)
+rss · Solidot · Aug 17, 15:44
 
-**Background**: Since the public release of ChatGPT in late 2022, LLM-generated text has proliferated across the internet, from blog posts and product descriptions to code comments and corporate documentation. Detectors using stylometry — statistical analysis of writing style — and machine learning classifiers have been developed to identify AI-generated text, but they often struggle with generalization across domains and can be evaded by light editing. Meanwhile, a cultural backlash has grown alongside adoption, with readers and professionals increasingly vocal about the verbosity, jargon-heavy phrasing, and lack of personal voice they associate with LLM output. The 'AI;DR' label is part of this broader skepticism, functioning as a social signal that mirrors earlier 'TL;DR' shorthand but weaponizes it against machine authorship.
+**Background**: Open-weight models release trained model parameters for public download and use, but differ from fully open-source AI by not necessarily disclosing training code, data, or architecture. Hugging Face is the leading platform for hosting and distributing these models, making its ecosystem data a key indicator of AI development trends. The parameter count of a model roughly indicates its capacity to handle complex tasks, with larger models generally capable of more sophisticated reasoning but requiring more computational resources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.thealgorithmicbridge.com/p/its-ai-so-i-didnt-read">It’s AI , so I Didn ’ t Read - by Alberto Romero</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49336573">AI ; DR ( AI ; Didn ' t Read ) | Hacker News</a></li>
-<li><a href="https://aman.ai/primers/ai/AIDetect/">Aman's AI Journal • NLP • AI Text Detection Techniques</a></li>
+<li><a href="https://www.fierce-network.com/content/open-weight-ai-vs-open-source-ai-whats-difference">Open weight AI vs open - source AI : what’s the difference?</a></li>
+<li><a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our Open-Weights Model - Thinking Machines Lab</a></li>
+<li><a href="https://thinkingmachines.ai/inkling/">Inkling - Thinking Machines Lab</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News thread shows broad consensus that unsolicited AI-generated content is unwelcome. Commenters described workplace frustration with AI documentation bloating codebases and degrading readability, criticized AI prose as verbose and lacking nuance, and some made the provocative suggestion that sharing the prompt would be more useful than sharing the AI output. A recurring theme is that AI text signals intellectual laziness and erodes authentic human communication, though a minority pushed back, arguing that only a small fraction of AI-generated writing is actually worth reading and that the 'AI;DR' label itself is performative.
-
-**Tags**: `#ai-generated-content`, `#culture`, `#llm`, `#developer-experience`, `#content-quality`
+**Tags**: `#open-source-ai`, `#qwen`, `#alibaba`, `#hugging-face`, `#ai-ecosystem`
 
 ---
 
 <a id="item-10"></a>
-## [Liquid Cooling Set to Reach 53% Penetration in High-End AI Servers by 2026](https://www.dramexchange.com/WeeklyResearch/Post/2/12801.html) ⭐️ 7.0/10
+## [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) ⭐️ 7.0/10
 
-TrendForce's latest AI server research indicates that liquid cooling adoption in high-end AI server infrastructure is projected to reach 53% penetration by 2026, driven by escalating thermal demands from advanced AI workloads such as large language model training and inference. This shift signals a fundamental change in data center architecture, as traditional air cooling struggles to handle the thermal output of next-generation AI accelerators. Hyperscalers, colocation providers, and server OEMs will need to redesign facility layouts, supply chains, and maintenance workflows to accommodate liquid cooling at scale. Liquid cooling is more energy-efficient than air cooling because it reduces the energy needed for thermal management, enabling higher server density and lower overall data center operating costs. However, the article content was truncated, so specific breakdowns by cooling type (direct-to-chip vs. immersion) or vendor-level data were not available in the source.
+Analysis of Linux kernel 7.3 improvements for VRAM overcommit handling, addressing GPU memory management when applications exceed available VRAM.
 
-rss · DRAMeXchange (TrendForce) · Aug 17, 03:59
+hackernews · flaburgan · Aug 18, 07:51 · [Discussion](https://news.ycombinator.com/item?id=49342719)
 
-**Background**: Liquid cooling is a thermal management approach that uses liquid—typically water or a dielectric fluid—to transfer heat away from server components, as opposed to traditional air cooling with fans and HVAC systems. TrendForce is a Taiwan-based market intelligence firm widely cited in the semiconductor, display, and data center industries for forecasts on technology adoption and pricing. AI workloads, particularly training large neural networks on GPU clusters, generate significantly more heat per rack than conventional computing tasks, pushing cooling systems to their limits and motivating the industry shift toward liquid-based solutions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trendforce.com/">Global Market Intelligence & Consulting | TrendForce</a></li>
-<li><a href="https://www.linkedin.com/pulse/untapped-potential-liquid-cooling-modern-data-centres-tony-lock-eew5e">The Untapped Potential of Liquid Cooling in Modern Data Centres</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#liquid cooling`, `#TrendForce`, `#server hardware`
+**Tags**: `#linux-kernel`, `#gpu-computing`, `#memory-management`, `#vram`, `#performance-optimization`
 
 ---
 
 <a id="item-11"></a>
-## [Security Gaps in Brain-Inspired Neuromorphic Chips for Embedded Devices](https://www.electronicsweekly.com/news/design/eda-and-ip/security-challenges-of-neuromorphic-intelligence-on-embedded-systems-2026-08/) ⭐️ 7.0/10
+## [Google buys Spirit Airlines' bankruptcy data for $10M for AI training](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) ⭐️ 7.0/10
 
-Electronics Weekly has published an analysis by Venus Kohli highlighting that while brain-inspired neuromorphic chips offer impressive processing efficiency for embedded devices, their security maturity still lags behind that of conventional von Neumann processors. As neuromorphic processors increasingly power edge AI and IoT applications, unresolved security vulnerabilities could expose sensitive data and critical functions in resource-constrained devices. Closing this gap is essential before these chips can be safely deployed at scale in automotive, industrial, and consumer embedded systems. The article contrasts the neuromorphic approach—which integrates memory and processing on-chip for brain-like computation—against the well-established security ecosystems built around decades of von Neumann CPU development. The published excerpt is brief and does not enumerate specific attack vectors, but signals that security tooling, formal verification, and threat modeling for neuromorphic hardware are still immature areas.
+Google won a U.S. bankruptcy court auction for Spirit Airlines' corporate data, paying $10 million for a trove that includes 100 million emails, 500 million Microsoft Teams messages, 17 million OneDrive files, 20.5 million SharePoint items, over 30 million recorded customer service calls, and more than 15 million customer service chat records. This sets a potential precedent for how corporate data accumulated by bankrupt companies is valued, turning previously discarded information into a monetizable asset that AI labs are willing to pay premium prices for. It raises significant data privacy questions about whether customer information is being adequately de-identified before transfer, and may prompt future bankruptcy trustees to specifically market corporate data assets to AI companies. The dataset also includes 600,000 ServiceNow tickets, 13.7 million active email addresses from Oracle's Responsys marketing application, and details of 11 million in-flight Wi-Fi service sales, with community members expressing strong skepticism that all of this information was properly de-identified. The sale was conducted as a standard Section 363 asset sale in bankruptcy proceedings.
 
-rss · Electronics Weekly · Aug 17, 11:46
+hackernews · pseudolus · Aug 18, 10:13 · [Discussion](https://news.ycombinator.com/item?id=49343559)
 
-**Background**: Neuromorphic computing is a radical departure from the traditional von Neumann architecture, where processing and memory are physically separated. Neuromorphic chips instead use in-memory computing and spiking neural networks (SNNs) to mimic how biological neurons operate, yielding high energy efficiency especially for event-driven and sensory AI tasks. Because this paradigm is relatively new, the security infrastructure—hardware root-of-trust, side-channel mitigations, encrypted memory buses, and established verification flows—that has been refined over decades for CPUs and GPUs does not yet exist at the same level for neuromorphic accelerators.
+**Background**: When companies file for bankruptcy, their assets—including data—are typically liquidated through court-supervised auctions under Section 363 of the U.S. Bankruptcy Code to repay creditors. AI labs have increasingly sought high-quality, real-world human interaction data for training large language models, having largely exhausted publicly available internet data. Bobby Samuels, CEO of data company Protege, noted that AI labs have 'scraped the entire Internet' and now need authentic human-to-human conversations, making corporate communication archives from bankruptcies particularly valuable.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://research.ibm.com/blog/what-is-neuromorphic-or-brain-inspired-computing">How neuromorphic computing takes inspiration from our brains</a></li>
-<li><a href="https://fiveable.me/advanced-computer-architecture/unit-16/neuromorphic-computing-architectures/study-guide/MH0tY1CQkuItJgKO">Neuromorphic Computing Architectures | Advanced... | Fiveable</a></li>
-<li><a href="https://www.researchgate.net/publication/378891450_NEUROSEC_FPGA-Based_Neuromorphic_Audio_Security">(PDF) NEUROSEC: FPGA-Based Neuromorphic Audio Security</a></li>
+<li><a href="https://www.troutman.com/insights/bankruptcy-asset-sales-a-primer/">Bankruptcy Asset Sales: A Primer - Troutman Pepper Locke</a></li>
+<li><a href="https://eu.36kr.com/en/p/3943281519983746">AI Begins "Feeding On" Chat Records of Bankrupt Companies : What...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#neuromorphic-computing`, `#embedded-systems`, `#hardware-security`, `#AI-hardware`, `#edge-AI`
+**Discussion**: Community members were divided between those fascinated by the precedent-setting nature of the sale and those concerned about privacy implications. Commenter 'dgrin91' questioned whether this was the first major case of corporate data being sold at bankruptcy and speculated that bankruptcy managers everywhere might now see this as a new revenue stream. 'ronbenton' raised concerns about whether the data, including 13.7 million marketing email addresses and detailed service records, was properly de-identified, while 'estetlinus' noted the broader trend of accumulated corporate data being auctioned like any other asset.
+
+**Tags**: `#AI-training-data`, `#data-privacy`, `#bankruptcy`, `#Google`, `#corporate-data`
 
 ---
 
 <a id="item-12"></a>
-## [Nvidia Books TSMC 1.6nm A16 Capacity for Feynman GPU](https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/) ⭐️ 7.0/10
+## [Israel accused of creating fake think tank to manipulate AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/) ⭐️ 7.0/10
 
-Nvidia has reportedly booked TSMC's A16 (1.6nm) process capacity for its 'Feynman' GPU architecture, which succeeds the Rubin generation and is targeted for production in the second half of 2028. This booking confirms Nvidia's multi-year GPU roadmap beyond the Rubin generation and validates TSMC's 1.6nm A16 node as a viable platform for the most demanding AI accelerators, signaling sustained demand for cutting-edge process technology across the HPC and AI chip ecosystem. The A16 node is TSMC's first 'angstrom-class' process, succeeding the 2nm N2 node and incorporating both GAA (gate-all-around) transistors and backside power delivery network (BSPDN), offering roughly 10% performance gains or 20% power reduction compared to N2, with mass production originally slated for late 2026.
+A report from Responsible Statecraft reveals that Israel allegedly created a fake think tank website specifically designed to influence AI chatbot responses, representing a new and concerning vector for AI manipulation through strategically crafted web content. The site was engineered to be ingested by AI training pipelines or retrieved during chatbot queries, shaping model outputs on geopolitical topics. This incident exposes a real vulnerability in how AI chatbots consume and trust web content, showing that state actors can exploit training data ingestion and retrieval-augmented generation (RAG) systems to shape AI outputs at scale. It raises urgent questions about content provenance, source verification, and the integrity of AI-mediated information ecosystems. The tactic exploits both the training data collection phase (where crawlers index web content) and the live retrieval phase used by RAG-based chatbots, making it effective against both static model knowledge and real-time search-augmented responses. Unlike direct prompt injection, this approach is indirect and difficult to detect because the malicious content appears as a legitimate, well-structured source.
 
-rss · Electronics Weekly · Aug 17, 05:17
+hackernews · DeepLogin · Aug 17, 20:46 · [Discussion](https://news.ycombinator.com/item?id=49337392)
 
-**Background**: TSMC's process nodes have progressed from traditional nanometer-scale naming (e.g., 5nm, 3nm, 2nm) into the 'angstrom era,' where A16 (1.6nm) represents the next generation of chip manufacturing. The A16 node introduces gate-all-around (GAA) transistors, in which the gate wraps entirely around the channel for superior electrostatic control, replacing the FinFET design used in earlier nodes. Additionally, backside power delivery (BSPDN) relocates power routing to the back of the wafer, reducing IR drop and freeing up front-side routing resources. Nvidia's GPU lineup has historically followed an architecture cadence (Hopper, Blackwell, Rubin), with 'Feynman' continuing this tradition as the post-Rubin successor aimed at AI and HPC workloads.
+**Background**: Data poisoning is a type of cyberattack where threat actors manipulate or corrupt the training data used to develop AI and machine learning models, potentially embedding biases, backdoors, or false narratives into the model's outputs. Retrieval-augmented generation (RAG) is a technique that enables large language models to retrieve and incorporate new information from external data sources at query time, meaning that any content published on the web can potentially influence a chatbot's response. Together, these two mechanisms mean that creating convincing-looking web content — such as a fake think tank with polished articles — can manipulate AI systems either at training time or at inference time.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/tsmc-a16-node-promises-speed-boost-power-cut-over-2nm-backside-power-production-q4-2026/">TSMC 's A 16 ' 1 . 6 nm ' Node Promises 10% Speed Boost or 20% Power...</a></li>
-<li><a href="https://www.kad8.com/hardware/tsmc-a16-node-explained-backside-power-and-angstrom-era/">TSMC A16 Node Explained: Backside Power and Angstrom Era · KAD</a></li>
-<li><a href="https://semiengineering.com/what-designers-need-to-know-about-gaa/">What Designers Need To Know About GAA | Semiconductor Engineering</a></li>
+<li><a href="https://www.ibm.com/think/topics/data-poisoning">What is data poisoning? - IBM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#nvidia`, `#tsmc`, `#process-technology`, `#gpu-architecture`
+**Discussion**: The top comment by 2001zhaozhao raises a prescient technical concern that fake organizations and AI-generated narratives will flood the internet within a year, making it nearly impossible to distinguish genuine sources from manufactured ones without external verification mechanisms. Other commenters, including karim79 and watutalkinbout, focus on Israel's broader geopolitical conduct, arguing that influence operations are redundant given public statements and visible military actions, while techteach00 identifies the Foundation for Defense of Democracies as another allegedly foreign-aligned think tank posing as American. The discussion splits between forward-looking AI security concerns and direct political critique.
+
+**Tags**: `#ai-security`, `#disinformation`, `#llm-vulnerabilities`, `#information-warfare`, `#ai-ethics`
 
 ---
 
 <a id="item-13"></a>
-## [XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1](https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/) ⭐️ 7.0/10
+## [Top Five NAND Flash Brands' Revenue Soars 77% QoQ in Q2 2026; Micron Climbs to Third](https://www.dramexchange.com/WeeklyResearch/Post/2/12803.html) ⭐️ 7.0/10
 
-Dell'Oro reports datacenter XPU-to-CPU ratios are shifting from 10:1 to 1:1 as the rise of inference workloads introduces networking requirements distinct from training.
+TrendForce reports that the combined revenue of the top five publicly listed NAND Flash brands rose 77% QoQ to US$68.87 billion in Q2 2026, driven by steady AI server demand for enterprise SSDs that created a supply shortage and enabled suppliers to significantly raise ASPs through contract negotiations. Micron also moved up to third place in the market share ranking. This 77% QoQ revenue surge underscores how AI infrastructure spending is reshaping the memory market, with NAND Flash suppliers benefiting from sustained enterprise SSD demand even as consumer device markets such as smartphones and PCs weaken. Micron's rise to third place signals intensifying competition in a supply-constrained environment increasingly driven by AI workloads. Looking ahead to Q3 2026, TrendForce expects smartphone and PC demand to remain weak as higher BOM costs push up device prices, while AI server enterprise SSD demand stays strong. Suppliers are generally prioritizing capital expenditure on DRAM and HBM, limiting new NAND Flash capacity expansion and supporting continued ASP-driven revenue growth.
 
-rss · Electronics Weekly · Aug 17, 05:09
+rss · DRAMeXchange (TrendForce) · Aug 18, 15:19
 
-**Tags**: `#datacenter`, `#AI infrastructure`, `#inference`, `#hardware trends`, `#networking`
+**Background**: NAND Flash is a type of non-volatile storage memory widely used in SSDs, smartphones, and other devices, with cell types ranging from SLC (1 bit/cell) to QLC (4 bits/cell), with TLC being the most prevalent in server and consumer SSDs. Enterprise SSDs built on high-capacity NAND are critical for AI workloads that require fast access to massive training datasets. HBM (High Bandwidth Memory) is a 3D-stacked DRAM technology used primarily in AI accelerators such as GPUs, and competes with NAND Flash for limited semiconductor manufacturing capacity and supplier capex budgets.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://intuitionlabs.ai/articles/hbm-vs-ddr-memory-comparison">HBM vs. DDR: Key Differences in Memory Technology Explained</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NAND-flash`, `#semiconductor-industry`, `#memory-market`, `#AI-servers`, `#TrendForce`
 
 ---
 
 <a id="item-14"></a>
-## [ASUS GPU Tweak III Adds Auto-Shutdown to Prevent 12V-2×6 Meltdowns](https://www.techpowerup.com/351662/asus-gpu-tweak-iii-adds-auto-shutdown-to-prevent-12v-2x6-meltdowns) ⭐️ 6.5/10
+## [Roblox In Hot Water Again for "Priotitizing Revenue" Over Child Safety](https://www.techpowerup.com/351669/roblox-in-hot-water-again-for-priotitizing-revenue-over-child-safety) ⭐️ 6.5/10
 
-ASUS has released GPU Tweak III V2.1.8.0, which adds auto-shutdown protection for GPUs equipped with Power Detector+ hardware. The system will power off automatically when persistently high current is detected through the 12V-2×6 power connector. This update addresses a well-documented safety issue where 12V-2×6 power connectors on high-end NVIDIA GPUs have melted, destroying expensive graphics cards. It represents another incremental software-level mitigation in an ongoing industry-wide effort to protect GPUs while hardware-level fixes remain elusive. The auto-shutdown feature only works on ASUS GPUs with built-in Power Detector+ sensors, which include shunt resistors to monitor per-pin current: the ROG Astral RTX 5090, ROG Astral LC RTX 5090, ROG Astral RTX 5080, and ROG Matrix RTX 4090. ASUS has not disclosed the exact current thresholds or duration parameters that trigger the shutdown.
+Roblox faces a new US Senate investigation over prioritizing revenue over child safety, following previous concerns about predatory behavior on the platform.
 
-rss · TechPowerUp News · Aug 17, 18:48
+rss · TechPowerUp News · Aug 17, 22:23
 
-**Background**: The 12V-2×6 (also known as 12VHPWR) connector is a 16-pin standard designed to deliver up to 600W to high-end GPUs, introduced with NVIDIA's RTX 4000 series and continued with the RTX 5000 series. It replaced bulky multiple 8-pin connectors but has suffered from widely reported melting incidents, often caused by improper insertion, uneven current distribution across pins, or manufacturing defects in cables and connectors. Power Detector+ is ASUS's hardware-level monitoring solution using sensors and shunt resistors to detect abnormal current draw on individual pins of the power connector.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12 VHPWR - Wikipedia</a></li>
-<li><a href="https://www.guru3d.com/story/asus-power-feature-how-it-prevents-overheating-in-rog-astral-gpus/">ASUS Power Detector+ Feature : How It Prevents Overheating in...</a></li>
-<li><a href="https://rog.asus.com/me-en/articles/guides/how-gpu-tweaks-power-detector-alerts-you-to-abnormal-current-on-your-rog-astral-graphics-card/">How GPU Tweak's Power Detector+ alerts you to abnormal current on...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#ASUS`, `#GPU`, `#hardware-safety`, `#12V-2x6`, `#NVIDIA`
+**Tags**: `#Roblox`, `#child-safety`, `#tech-regulation`, `#US-Senate`, `#platform-policy`
 
 ---
 
 <a id="item-15"></a>
-## [CXMT Breaks 9,000 MT/s DDR5 Barrier on AMD Platform](https://www.techpowerup.com/351649/cxmt-breaks-9-000-mt-s-barrier-with-ddr5) ⭐️ 6.5/10
+## [ASUS GPU Tweak III Adds Auto-Shutdown to Prevent 12V-2×6 Meltdowns](https://www.techpowerup.com/351662/asus-gpu-tweak-iii-adds-auto-shutdown-to-prevent-12v-2x6-meltdowns) ⭐️ 6.5/10
 
-Chinese DRAM manufacturer CXMT has surpassed the 9,000 MT/s threshold on an AMD platform, achieving 9,014 MT/s (4,507 MHz) with a 48 GB iGame Shadow II 24G×2 kit on a Colorful iGame X870E VULCAN W OC motherboard. The company is also testing ultra-low latency configurations at CL30 and even CL28 at 6,000 MT/s, signaling performance parity with leading global DRAM makers. This milestone demonstrates that CXMT, China's largest DRAM producer, is achieving competitive performance with established giants like Samsung, SK hynix, and Micron, which has significant implications for global memory market competition and China's semiconductor self-sufficiency. The combination of high transfer rates and tight latencies (CL28-30) makes CXMT memory viable for high-end consumer and enthusiast applications rather than just budget segments. The 9,014 MT/s figure derives from double data rate technology, where 4,507 MHz effectively doubles to exceed 9,000 MT/s. CXMT reached 8,000 MT/s only late last year, making this nearly 13% speed improvement in months; latency tests at CL28 on AMD and Intel platforms suggest the company is closing the gap not just in bandwidth but in real-world responsiveness measured by First Word Latency.
+ASUS has updated its GPU Tweak III software to version V2.1.8.0, adding an auto-shutdown feature for GPUs equipped with Power Detector+ that will power off the system when persistently high current is detected on the 12V-2×6 power connector. The feature is currently limited to four ASUS graphics cards: the ROG Astral GeForce RTX 5090, ROG Astral LC GeForce RTX 5090, ROG Astral GeForce RTX 5080, and ROG Matrix GeForce RTX 4090. The 12V-2×6 connector melting issue has destroyed numerous high-end NVIDIA GPUs, causing both financial loss and potential safety hazards. This software-based safeguard represents a meaningful mitigation layer, complementing hardware-side efforts by PSU and cable manufacturers, and could prevent catastrophic failures for users of compatible ASUS cards. ASUS has not disclosed the specific current thresholds or duration required to trigger the shutdown, and the feature requires both Power Detector+ hardware on the GPU and the latest GPU Tweak III software to function. This is an incremental industry response, following similar protective measures previously introduced by ASRock with its L-shaped 12V-2×6 cable design.
 
-rss · TechPowerUp News · Aug 17, 13:28
+rss · TechPowerUp News · Aug 17, 18:48
 
-**Background**: DDR5 is the latest generation of system memory, succeeding DDR4, and offers higher bandwidth and density required by modern CPUs, GPUs, and AI workloads. MT/s (MegaTransfers per second) measures how many data transfers occur per second, which for DDR memory is double the clock frequency in MHz due to double data rate signaling. CAS Latency (CL) measures the number of clock cycles between a memory request and the data being available; when combined with speed, it determines real-world latency. CXMT (ChangXin Memory Technologies) was founded in 2016 and is China's flagship domestic DRAM producer, critical to the country's efforts to reduce reliance on foreign memory suppliers.
+**Background**: The 16-pin 12V-2×6 connector is a power standard introduced by NVIDIA in 2022 to replace older 6-pin and 8-pin GPU power connectors, capable of delivering up to 600W (or 660W in its updated form) to high-end graphics cards. It evolved from the earlier 12VHPWR connector, which was notorious for melting incidents, especially on GeForce RTX 4090 and RTX 5090 cards. Power Detector+ is an ASUS-specific hardware feature that monitors current flowing through individual pins on compatible ROG Astral graphics cards, originally designed to alert users to abnormal current draw before the latest update added the auto-shutdown capability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.msn.com/en-us/news/technology/explainer-what-is-cxmt-and-how-did-it-become-chinas-dram-champion/ar-AA28L4vy">Explainer - what is CXMT and how did it become China's DRAM ...</a></li>
-<li><a href="https://www.electronicshub.org/mhz-vs-mt-s/">MHz vs MT / s RAM: Decoded! (Understanding RAM Speed)</a></li>
-<li><a href="https://zombrax.com/ddr5-speeds-and-timings/">DDR 5 Memory Speeds and Timings: What Moves the Needle</a></li>
+<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12 VHPWR - Wikipedia</a></li>
+<li><a href="https://rog.asus.com/articles/guides/how-gpu-tweaks-power-detector-alerts-you-to-abnormal-current-on-your-rog-astral-graphics-card/">How GPU Tweak's Power Detector+ alerts you to abnormal ... - ROG</a></li>
+<li><a href="https://overclock3d.net/news/gpu-displays/asus-adds-automatic-shutdown-support-to-power-detector-gpus-with-gpu-tweak-iii/">ASUS adds automatic shutdown support to Power Detector+ GPUs ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DDR5`, `#memory`, `#CXMT`, `#overclocking`, `#hardware`
+**Tags**: `#hardware`, `#GPU`, `#NVIDIA`, `#safety`, `#ASUS`
 
 ---
 
 <a id="item-16"></a>
-## [Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'](https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout) ⭐️ 6.5/10
+## [Federal Court Upholds Judicial Immunity Despite Alleged AI Reliance](https://www.tomshardware.com/tech-industry/artificial-intelligence/judges-who-use-ai-to-make-decisions-still-protected-by-judicial-immunity-court-ruling-protects-outcomes-regardless-of-ai-usage) ⭐️ 6.5/10
 
-Alibaba is selling its gaming studio Lingxi Games for at least $1.5 billion to fund AI infrastructure buildout, reflecting the broader industry trend of prioritizing AI investments.
+A U.S. federal court ruled that a judge accused of relying entirely on AI for a judicial decision can retain immunity from civil lawsuits. The decision did not determine whether using AI that way was legally or ethically permissible. 该裁定可能限制当事人通过民事诉讼质疑由人工智能深度影响的司法决定，同时没有解决人工智能治理中的关键问题。它凸显了区分司法豁免与透明度、准确性及独立人类判断等实质义务的必要性。 The court did not establish that AI actually produced the ruling; complete AI reliance was alleged in the dispute. The decision addressed civil-suit immunity rather than validating AI-generated judicial decisions or creating new standards for judicial AI use.
 
-rss · Tom's Hardware · Aug 17, 15:39
+rss · Tom's Hardware · Aug 18, 11:00
 
-**Tags**: `#AI infrastructure`, `#Alibaba`, `#industry trends`, `#M&A`, `#investment`
+**Background**: Judicial immunity limits certain civil claims against judges for conduct connected to their judicial role. That protection is separate from substantive questions about whether the conduct is lawful or ethical. Generative AI in judicial decision-making raises distinct concerns about transparency, accuracy, and preserving human judgment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://151farmers.org/wp-content/uploads/2018/07/Immunity-of-Federal-and-State-Judges-from-Civil-Suit-Time-for-a.pdf">Immunity of Federal and State Judges from Civil Suit - Time for...</a></li>
+<li><a href="https://www.ncsc.org/resources-courts/ai-courts-judicial-and-legal-ethics-issues">AI & the courts: Judicial and legal ethics issues</a></li>
+<li><a href="https://www.cambridge.org/core/journals/data-and-policy/article/artificial-intelligence-at-the-bench-legal-and-ethical-challenges-of-informingor-misinformingjudicial-decisionmaking-through-generative-ai/D1989AC5C81FB67A5FABB552D3831E46">Artificial intelligence at the bench: Legal and ethical ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#ai-governance`, `#judicial-ai`, `#legal-tech`, `#ai-ethics`, `#ai-policy`
 
 ---
 
 <a id="item-17"></a>
-## [Cherokee Nation bans hyperscale data centers on tribal lands](https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands) ⭐️ 6.5/10
+## [China Orders State Agencies to Uninstall Government-Customized Windows 10](https://www.tomshardware.com/software/operating-systems/china-reportedly-orders-state-agencies-to-uninstall-its-government-only-edition-of-windows-10) ⭐️ 6.5/10
 
-The Cherokee Nation, the largest tribe in the US with over 475,000 citizens, has officially banned hyperscale data center development on its tribally owned and trust lands. The tribe cited concerns including energy and water consumption, air quality, noise, and cultural resource protection, and stated it will not support any data center projects without prior consultation. This decision represents a significant pushback against the current AI infrastructure boom, as hyperscale data centers are primarily built by tech giants like Amazon, Google, Microsoft, and Meta to support cloud computing and AI workloads. It highlights growing tensions between rapid tech industry expansion and local community concerns about environmental impact and resource consumption, and could set a precedent for other tribal nations facing similar development pressures. "Hyperscale" refers to massive facilities typically housing tens of thousands of servers, operated by a handful of major cloud providers and requiring enormous capital investment and significant energy and water for cooling. The ban specifically covers tribally owned land and trust land—areas where the federal government holds legal title but the tribe retains beneficial use and jurisdiction.
+China's Ministry of State Security has ordered some state-linked organizations to uninstall a customized version of Windows 10 from their machines, citing data security concerns. The directive, reported by Bloomberg, accelerates the planned retirement of the government-only edition. This move signals China's accelerating push for technological sovereignty and reducing reliance on foreign operating systems in government infrastructure. It reflects broader geopolitical tensions around supply chain security and could accelerate the adoption of domestic operating systems like Kylin or openKylin in China's public sector. The customized edition was originally created by Microsoft in partnership with Chinese authorities and included government-approved anti-virus solutions. With Windows 10 mainstream support having ended on October 14, 2025, organizations can only continue receiving critical security patches through Microsoft's paid Extended Security Updates (ESU) program.
 
-rss · Tom's Hardware · Aug 17, 11:27
+rss · Tom's Hardware · Aug 18, 10:11
 
-**Background**: Hyperscale data centers are enormous facilities designed to efficiently support the massive workloads of cloud computing and AI, typically housing enormous server arrays connected by hundreds of miles of fiber optic cable. They require massive capital investments and are primarily operated by companies like Amazon, Google, Microsoft, Meta, Apple, and IBM. Tribal lands in the US include both reservation land and trust land—trust land is held in legal title by the federal government but used beneficially by the tribe, while reservation boundaries define the outer limits of a tribe's historical jurisdiction. The Cherokee Nation, headquartered in Oklahoma, is the largest federally recognized tribe in the United States.
+**Background**: Windows 10 has multiple editions tailored for different use cases, including a special Chinese government edition developed by Microsoft to comply with local regulations and address piracy concerns. This version included pre-installed government-approved security software. As Windows 10 approaches its end-of-support date, organizations worldwide must either migrate to Windows 11 or enroll in the ESU program for continued security updates. China's push to remove foreign operating systems aligns with its longstanding 'Secure and Controllable' (安全可控) technology policy, which aims to replace Western software and hardware in sensitive government environments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.datacenterdynamics.com/en/analysis/what-is-a-hyperscale-data-center/">What is a hyperscale data center ? - DCD</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Indian_reservation">Indian reservation - Wikipedia</a></li>
-<li><a href="https://filtron.co/why-your-map-of-united-states-indian-reservations-is-probably-wrong-2dx">Why Your Map of United States Indian Reservations is... - Filtron</a></li>
+<li><a href="https://www.tomshardware.com/software/operating-systems/china-reportedly-orders-state-agencies-to-uninstall-its-government-only-edition-of-windows-10">China reportedly orders state agencies to uninstall... | Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Windows_10_editions">Windows 10 editions - Wikipedia</a></li>
+<li><a href="https://hothardware.com/news/microsoft-cuts-through-piracy-fog-by-offering-chinese-government-customized-version-of-windows-10">Microsoft Cuts Through Piracy Fog By Offering Chinese Government ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#data-centers`, `#infrastructure`, `#policy`, `#environmental-impact`, `#AI-infrastructure`
+**Tags**: `#operating-systems`, `#china`, `#cybersecurity`, `#windows`, `#geopolitics`
 
 ---
 
 <a id="item-18"></a>
-## [AI Data Center Optical Interconnect Market to Reach $144 Billion by 2030](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics) ⭐️ 6.5/10
+## [Indian Startup Othisis Test-Fires 3D-Printed Cryogenic Reusable Rocket Engine](https://www.tomshardware.com/3d-printing/othisis-test-fires-3d-printed-fully-cryogenic-reusable-rocket-engine-indian-startup-leverages-slm-printing-to-create-its-first-working-prototype) ⭐️ 6.5/10
 
-CIC forecasts that the data center optical interconnect market will grow from $13.7 billion in 2024 to $144.4 billion by 2030, a more than tenfold increase. Silicon photonics is projected to capture 63.7% of that revenue, driven largely by the adoption of co-packaged optics (CPO). This massive projected growth underscores how AI workloads are reshaping data center infrastructure, with interconnect bandwidth and energy efficiency becoming critical bottlenecks. The projected dominance of silicon photonics and CPO signals a fundamental shift in how chips and switches are physically integrated, affecting hyperscalers, semiconductor companies, and the broader supply chain. The forecast attributes silicon photonics' dominance to co-packaged optics, which integrates optical engines directly with switch ASICs via ultra-short electrical connections, reducing power consumption and latency versus traditional pluggable optics. However, CPO remains a rapidly growing but still relatively small segment this decade, with pluggable modules still widely deployed in existing AI data center designs.
+Othisis, an Indian aerospace startup founded just two years ago, has successfully test-fired a fully 3D-printed, reusable rocket engine operating on cryogenic propellants, marking the company's first working prototype. This milestone demonstrates that additive manufacturing can be applied not just to conventional rocket components but to entire cryogenic engines, potentially lowering production costs, shortening lead times, and enabling faster iteration for reusable launch vehicles in the growing commercial space sector. The engine was produced using Selective Laser Melting (SLM), a metal additive manufacturing process that uses a high-power fiber laser to fully melt fine metal powder layer by layer into dense solid parts from digital CAD models. Because SLM can produce near-net-shape geometries, it is well suited to the complex internal channels—such as regenerative cooling passages—required in cryogenic engines.
 
-rss · Tom's Hardware · Aug 17, 11:20
+rss · Tom's Hardware · Aug 18, 10:00
 
-**Background**: Silicon photonics is a technology that integrates photonic (light-based) components onto silicon chips, enabling faster, more efficient data transmission with lower power consumption than traditional electrical signaling. Co-packaged optics (CPO) is an architecture where optical engines are placed directly on the same package as the switch ASIC, using ultra-short electrical traces instead of the longer connections used by pluggable transceiver modules. As AI GPU and CPU processing speeds surge, the existing I/O infrastructure struggles to keep pace, causing processing units to frequently wait for data — a bottleneck that optical and co-packaged solutions are designed to address.
+**Background**: Selective Laser Melting (SLM), also called Direct Metal Laser Melting (DMLM), is a form of metal additive manufacturing that uses a high-power fiber laser to fully melt metal powder into 100% dense solid parts layer by layer. Cryogenic rocket engines are propulsion systems powered by ultra-cold liquefied gases—most commonly liquid hydrogen as fuel and liquid oxygen as oxidizer—stored at very low temperatures. They typically include a combustion chamber, fuel injector, turbopumps, cryogenic valves, fuel tanks, and a nozzle, and often use regenerative cooling, where cryogenic fuel is circulated around the nozzle before being pumped into the combustion chamber. Cryogenic engines offer high efficiency and thrust-to-weight ratios, which is why they are favored for modern space missions, but their extreme operating temperatures make them difficult and expensive to manufacture traditionally.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.link-pp.com/resources/strategy/cpo-vs-pluggable-800g-architecture/">Co - Packaged Optics (CPO) vs Pluggable : 800G+ Scaling Limits</a></li>
-<li><a href="https://www.avnet.com/integrated/resources/article/pluggable-vs-co-packaged-optics-in-ai-data-centers-power-scale-and-design-trade-offs/">Pluggable vs . co - packaged optics in AI data centers : Power, scale...</a></li>
-<li><a href="https://www.ansys.com/blog/what-is-co-packaged-optics">What is Co - packaged Optics ?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cryogenic_rocket_engine">Cryogenic rocket engine - Wikipedia Cryogenic fuel - Wikipedia Understanding Cryogenic Rocket Engine Propulsion in Modern ... What Makes a Cryogenic Rocket Engine Work? - Students for ... Cryogenic rocket engine explained Foundations of Cryogenic Rocket Propulsion: Unlocking the ... Get to know everything about the highly efficient cryogenic ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cryogenic_fuel">Cryogenic fuel - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ai-infrastructure`, `#data-centers`, `#silicon-photonics`, `#market-forecast`, `#co-packaged-optics`
+**Tags**: `#3D printing`, `#additive manufacturing`, `#rocket propulsion`, `#cryogenic engines`, `#space technology`
 
 ---
 
 <a id="item-19"></a>
-## [PC Partner Warns of H2 2026 GPU Price Hikes and Budget Card Shortages](https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs) ⭐️ 6.5/10
+## [Alibaba Sells Lingxi Games for $2B+ to Fund AI Infrastructure](https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout) ⭐️ 6.5/10
 
-PC Partner Group, the company behind ZOTAC, Inno3D, and Manli, has warned that GPU prices will rise further in the second half of 2026 due to climbing memory costs and tightening supplies, with entry-level cards expected to face the most severe shortages. Analyst Jon Peddie suggested that manufacturers are raising prices beyond what memory cost increases alone would justify. This news directly affects PC builders and gamers, particularly those relying on affordable entry-level graphics cards, as rising prices and shortages could make budget builds significantly more expensive. It also signals broader component cost pressures across the PC hardware ecosystem, extending to monitors from brands like KTC and AOC. PC Partner's graphics card unit sales dropped 18.4% in H1 2026 due to component shortages, while revenue fell 9.2% year-over-year to HK$4.46 billion — yet average selling prices still rose 10.7%, indicating price hikes were implemented despite lower volumes. KTC and AOC have also notified distributors of upcoming monitor price increases, citing higher panel, power component, and manufacturing costs.
+Alibaba has agreed to sell its game development unit Lingxi Games — the studio behind the mobile hit 'Three Kingdoms: Strategy Edition' — to Asian private equity firm Trustar Capital for more than $2 billion, according to reports from Bloomberg and Reuters. This deal represents a massive capital reallocation by one of China's largest tech companies away from gaming and toward AI infrastructure, signaling the enormous financial demands of the AI buildout race and reflecting a broader trend of major tech firms divesting non-core businesses to fund AI ambitions. Lingxi Games, formerly known as Alibaba Games, will operate independently under Trustar Capital while retaining its existing teams and product lineup. Trustar Capital is a Hong Kong-based private equity affiliate of CITIC Capital Holdings, with offices in Beijing, Shanghai, Tokyo, and New York.
 
-rss · Tom's Hardware · Aug 17, 11:00
+rss · Tom's Hardware · Aug 17, 15:39
 
-**Background**: PC Partner Group is a Hong Kong-based manufacturer that designs and produces graphics cards sold under its own brands — ZOTAC, Inno3D, and Manli — as well as on an OEM basis for other companies. Jon Peddie is a well-known industry analyst and president of Jon Peddie Research (JPR), a firm that has tracked the GPU market for over 35 years. The current supply tightness stems from constraints in graphics memory (such as GDDR6/GDDR7) production, which is shared with the broader DRAM industry facing high demand from AI and data center applications.
+**Background**: Lingxi Games is a major Chinese mobile game developer best known for 'Three Kingdoms: Strategy Edition,' a strategy game based on the classic historical period. The gaming industry in China is highly competitive and heavily regulated, with periodic licensing freezes historically impacting publishers. Meanwhile, the AI industry — particularly large language models and generative AI — requires enormous capital expenditure on data centers, GPUs, and cloud infrastructure, which has driven many tech giants to liquidate or divest non-core assets. Trustar Capital's acquisition of Lingxi Games mirrors similar strategic pivots, such as Micron's exit from its consumer memory business, as companies refocus on AI-adjacent opportunities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/entry-level-gpus-were-gamers-last-hope-but-pc-partner-says-severe-shortages-arrive-in-second-half-of-2026/">Entry-level GPUs Were Gamers' Last Hope, But PC Partner Says...</a></li>
-<li><a href="https://www.jonpeddie.com/">Jon Peddie Research – The latest statistics, trends, and reports on...</a></li>
-<li><a href="https://www.eetimes.com/whats-the-story-with-gpus/">Addressing the Global GPU Supply Landscape - EE Times</a></li>
+<li><a href="https://www.reuters.com/legal/transactional/alibaba-sell-lingxi-games-more-than-2-billion-deal-source-says-2026-08-17/">Alibaba to sell Lingxi Games in more than $2 billion deal ...</a></li>
+<li><a href="https://fortune.com/2026/08/18/alibaba-lingxi-china-ai-us/">Alibaba's $2 billion gaming exit signals where Beijing wants ...</a></li>
+<li><a href="https://beijingtimes.com/business/companies/2026/08/18/alibaba-sells-lingxi-games-trustar-capital-ai-focus/">Alibaba Sells Lingxi Games to Trustar Capital in $2B Deal</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GPU`, `#hardware`, `#pricing`, `#PC-building`, `#industry-analysis`
+**Tags**: `#AI`, `#Alibaba`, `#industry-news`, `#investment`, `#cloud-infrastructure`
 
 ---
 
 <a id="item-20"></a>
-## [Japanese Shop Offers $25/GB GPU VRAM Upgrades for Budget AI](https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse) ⭐️ 6.5/10
+## [Quake Shareware CD-ROM: A Technical Deep-Dive into 90s Game Distribution](https://fabiensanglard.net/quake_shareware_cd/index.html) ⭐️ 6.0/10
 
-A Japanese repair shop is now commercially offering GDDR6 VRAM upgrades for GPUs at $25 per gigabyte, with an RTX 2080 Ti upgraded from 11GB to 22GB costing just $282 total. This service turns an older consumer GPU into a budget-friendly AI workstation during the ongoing memory pricing crisis. This matters because the global memory price crisis has made new GPUs and AI hardware extremely expensive, and this aftermarket service offers a way to repurpose existing hardware for AI workloads at a fraction of the cost. Budget AI researchers, hobbyists, and small studios who cannot afford current-generation GPUs with large VRAM (such as RTX 3090s or datacenter cards) now have a practical path to running larger models locally. The upgrade requires advanced BGA soldering skills, proper rework equipment, and knowledge of GPU BIOS and strap configurations — it is not a beginner-friendly modification and carries risk of permanently damaging the card. The pricing of $25 per GB is set against the backdrop of skyrocketing GDDR6 prices driven by the AI-driven memory supply crunch.
+Fabien Sanglard published a detailed technical analysis examining how id Software packed Quake's game assets onto its shareware CD-ROM and navigated the economics of shareware distribution in the mid-1990s. The article traces the engineering decisions behind squeezing the shareware episode onto a medium whose capacity far exceeded what the game alone required. This piece offers a rare, technically grounded look at how pioneering 90s studios solved the unusual problem of CD-ROM overkill in an era of floppy-based distribution. It also illuminates the shareware business model's role in bootstrapping iconic studios like id Software, Apogee, and Epic MegaGames into industry giants. The Quake shareware CD was announced on July 3, 1996, and released on August 30, 1996, with hacker group GNOMON cracking it just 39 days later. The disc notably included the Nine Inch Nails (NIN) soundtrack—making it the only CD release of that music—though listeners are advised to skip track 1.
 
-rss · Tom's Hardware · Aug 17, 10:30
+hackernews · shdon · Aug 17, 22:06 · [Discussion](https://news.ycombinator.com/item?id=49338328)
 
-**Background**: VRAM (Video RAM) is the dedicated memory on a graphics card used to store textures, frame buffers, and increasingly, AI model weights and activations. Unlike desktop system RAM, which can be easily swapped, VRAM is soldered directly onto the GPU PCB using BGA (Ball Grid Array) chips, making upgrades far more difficult. The RTX 2080 Ti originally launched with 11GB of GDDR6 on a 352-bit bus; doubling it to 22GB requires replacing all memory chips and modifying the GPU's BIOS/strap settings to recognize the new capacity. Larger VRAM is crucial for AI inference and training because large language models and diffusion models often exceed the 8-12GB available on typical consumer cards.
+**Background**: Shareware was a dominant distribution model in the early 1990s, particularly for DOS games, where developers released a portion of the game for free and charged for the full version. Studios like id Software, Apogee Software (later 3D Realms), and Epic MegaGames (now Epic Games) built their early businesses on this approach. CD-ROMs of that era offered roughly 650 MB of capacity—far more than the typical game's assets—leading to either 'shovelware' compilations or, in id Software's case, bundling high-quality bonus content like full soundtracks to fill the disc.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://maketecheasier.com/what-vram-is-and-increase-vram/">What Is VRAM , How to Check It, and Can You... - Make Tech Easier</a></li>
-<li><a href="https://www.youtube.com/watch?v=nJ97nUr1G-g">Can Any GPU Get a VRAM Upgrade ? | RTX 2080 Ti 11GB... - YouTube</a></li>
-<li><a href="https://voltground.com/hardware/gddr6x-memory-temperature-guide/">GDDR 6 X Memory Temperature: Why 110 Degrees Is... — VoltGround</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shareware">Shareware - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quake_(video_game)">Quake (video game) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shovelware">Shovelware - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GPU`, `#VRAM-upgrade`, `#hardware-mod`, `#AI-hardware`, `#budget-AI`
+**Discussion**: The comments are overwhelmingly nostalgic, with users reminiscing about copying files from the shareware disc as teenagers and still carrying Quake's ID1 directory across computers decades later. Several commenters highlight the NIN soundtrack as the disc's main draw, while others recall how cracks appeared on newsgroups like a.b.m.a almost as fast as software was posted—one user speculates that id Software intentionally made the shareware easily crackable as a grassroots marketing strategy.
+
+**Tags**: `#game-development`, `#retro-computing`, `#reverse-engineering`, `#cd-rom`, `#quake`
 
 ---
