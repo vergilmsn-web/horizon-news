@@ -5,380 +5,431 @@ date: 2026-08-19
 lang: zh
 ---
 
-> 从 66 条内容中筛选出 19 条重要资讯。
+> 从 82 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [DDR5 内存价格一年内暴涨高达 485%](#item-1) ⭐️ 7.5/10
-2. [中国国产 AI 芯片预计到 2026 年占据国内 90%市场份额](#item-2) ⭐️ 7.5/10
-3. [谷歌仅斥资 1000 万美元收购 Spirit Airlines 数据用于 AI 训练——所购数据涵盖数亿封电子邮件、Microsoft Teams 聊天记录、数十亿条航班定价记录及匿名乘客档案](#item-3) ⭐️ 7.5/10
-4. [联邦法院裁定：即使法官完全依赖 AI 裁判仍享司法豁免](#item-4) ⭐️ 7.5/10
-5. [藏在珍本中的秘密追踪装置最终出现在亚马逊处理中心——摧毁书籍以训练 AI 模型是这家拉斯维加斯仓库"全部"的工作](#item-5) ⭐️ 7.5/10
-6. [印度初创公司 Othisis 成功试车 3D 打印低温火箭发动机](#item-6) ⭐️ 7.5/10
-7. [Nvidia CMP 170HX 矿卡被破解，64GB VRAM 解锁](#item-7) ⭐️ 7.5/10
-8. [修复变砖的 Framework 笔记本电脑](#item-8) ⭐️ 7.0/10
-9. [Intel "Razor Lake"将采用台积电 N2X 工艺，笔记本 SKU 引入 bLLC](#item-9) ⭐️ 6.5/10
-10. [中国要求国家机构卸载政府定制版 Windows 10](#item-10) ⭐️ 6.5/10
-11. [将铁路网络用作平板扫描仪](#item-11) ⭐️ 6.0/10
-12. [冰岛超市的管理咨询灾难案例重新引发热议](#item-12) ⭐️ 6.0/10
-13. [应用材料提出超越摩尔定律的系统到材料协同优化方案](#item-13) ⭐️ 6.0/10
-14. [Marvell 瞄准 AI 瓶颈，发布内存解耦产品组合](#item-14) ⭐️ 6.0/10
-15. [DXVK 新增帧缓冲压缩，提升 Intel Arc GPU 在 Linux 上的性能](#item-15) ⭐️ 5.5/10
-16. [2026 年第二季度前五大 NAND 闪存厂商营收环比增长 77%](#item-16) ⭐️ 5.5/10
-17. [AMD 声称 2026 机架级 AI 方案能效较 2024 平台提升 4 倍](#item-17) ⭐️ 5.5/10
-18. [Hydra 超频工具为 RTX 50 系列显卡新增显存与功耗限制控制](#item-18) ⭐️ 5.5/10
-19. [高通在 ModCon 2026 上开源 Modular 软件](#item-19) ⭐️ 5.5/10
+1. [DRAM 内存价格同比涨幅高达 485%，创历史新高](#item-1) ⭐️ 7.5/10
+2. [味之素据报将对中国 ABF 芯片封装薄膜供应削减 30%](#item-2) ⭐️ 7.5/10
+3. [microSD 卡耐久性测试：三年内对 351 张卡写入 133PB 数据直至损坏——测试结果显示 SanDisk 表现异常，7 张受测卡中有 6 张损坏](#item-3) ⭐️ 7.5/10
+4. [英伟达 H200 首批芯片运抵中国，字节跳动和腾讯收货](#item-4) ⭐️ 7.5/10
+5. [数字信号处理先驱刘必治去世，享年 91 岁](#item-5) ⭐️ 7.3/10
+6. [GrapheneOS 将于 2027 年正式支持高端摩托罗拉手机](#item-6) ⭐️ 7.0/10
+7. [Cerebras CS-4](#item-7) ⭐️ 7.0/10
+8. [陶哲轩推出 Palomar：面向 Lean 形式化数学证明的注册库](#item-8) ⭐️ 7.0/10
+9. [由 FlyWire 连接组驱动的 macOS 桌面开源 3D 果蝇](#item-9) ⭐️ 7.0/10
+10. [Mojo 编程语言在 Qualcomm 旗下完全开源](#item-10) ⭐️ 7.0/10
+11. [超越摩尔：AI 从系统到材料的协同优化](#item-11) ⭐️ 7.0/10
+12. [Marvell 推出内存解耦产品组合以应对 AI 瓶颈](#item-12) ⭐️ 7.0/10
+13. [Intel Core Ultra 9 4590K 曝光，Nova Lake-S 或回归四位数命名](#item-13) ⭐️ 6.5/10
+14. [（新闻稿）LG Display 发布 FLiPP——下一代 OLED 技术](#item-14) ⭐️ 6.5/10
+15. [Windows 11 新增按应用控制摄像头、麦克风和位置权限](#item-15) ⭐️ 6.5/10
+16. [帧缓冲压缩通过 Mesa 26.3 与 DXVK 加入 Intel Arc Linux 驱动](#item-16) ⭐️ 6.5/10
+17. [Comcast 将 Xfinity 路由器变为家庭运动传感器，推出 Wi-Fi 感知功能](#item-17) ⭐️ 6.5/10
+18. [三星晶圆厂路线图与特斯拉 165 亿美元订单背后的良率挑战](#item-18) ⭐️ 6.5/10
+19. [玩家用 44.5 万个原版 Minecraft 命令方块构建可运行 AI 聊天机器人](#item-19) ⭐️ 6.5/10
+20. [白宫更新关键技术清单：移除数据中心、电池和 AR](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [DDR5 内存价格一年内暴涨高达 485%](https://www.techpowerup.com/351689/memory-prices-break-a-record-with-nearly-500-surge-in-the-last-12-months) ⭐️ 7.5/10
+## [DRAM 内存价格同比涨幅高达 485%，创历史新高](https://www.techpowerup.com/351689/memory-prices-break-a-record-with-nearly-500-surge-in-the-last-12-months) ⭐️ 7.5/10
 
-根据 PCPartPicker 的数据，DDR5 内存价格在过去一年内同比上涨了 372% 至 485%，其中一套 64GB DDR5-6000 内存从 222 美元涨至 1,272 美元。DDR4 套装的涨幅虽然较小，但也达到了 120% 至 177%。 这一前所未有的价格上涨影响了消费者、PC 装机用户和希望升级或组装系统的游戏玩家，可能减缓硬件更新换代的节奏。同时也推高了依赖大容量 DRAM 的 AI 和数据中心基础设施的成本，可能进一步向整个计算行业传导成本压力。 不同速度和容量的内存涨幅差异明显：2x32GB 5,600 MT/s 套装涨幅最大，达到 485%；而 2x16GB 4,800 MT/s 套装上涨了 372%。来自德国 ComputerBase 的欧元区数据表明，8 月份同比涨幅高达 345%，说明这一趋势是全球性的，并可能继续攀升。MT/s（兆传输/秒）是衡量 DDR 内存速度的技术上更准确的单位。
+据 TechPowerUp 引用 PCPartPicker 的数据，DDR5 内存套装的同比价格涨幅在 372%到 485%之间，DDR4 套装的涨幅则为 120%到 177%。一套 6,000 MT/s 的 64 GB DDR5 套装此前售价为 222 美元，现已飙升至 1,272 美元。德国追踪网站 ComputerBase 报告欧元区同比涨幅高达 345%，且目前没有任何价格回落的迹象。 这次史无前例的涨价直接冲击 DIY 装机玩家、游戏玩家和升级硬件的消费者，使得组装新机的成本大幅攀升。同时，这也暴露出 DRAM 市场存在严重的供应端瓶颈，主要是由于 AI 和数据中心需求占用了大量原本用于消费级产品的产能。 PCPartPicker 仅追踪美国市场价格，因此这些数字可能低估了全球趋势；欧元区的数据则显示涨幅更为陡峭。文中的 4,800 MT/s、5,600 MT/s 和 6,000 MT/s 指的是每秒百万次传输（megatransfers per second），即每秒的数据传输操作次数，而高速 DDR5 套装的涨幅最为剧烈，暗示高端颗粒的供应尤为紧张。
 
 rss · TechPowerUp News · 8月18日 16:16
 
-**背景**: DDR5 是第五代 Double Data Rate SDRAM，由 JEDEC 制定标准，于 2021 年第四季度正式商用，相比前代提供更高的带宽、更大的容量和更低的电压（1.1V，而 DDR4 为 1.2V）。MT/s（兆传输/秒）是衡量 DDR 内存速度的技术上更准确的单位，因为它反映的是实际的数据传输速率而非时钟频率。DDR5 内存目前已成为现代桌面和笔记本平台的标准配置，其价格与几乎所有新 PC 装机直接相关。
+**背景**: DRAM（动态随机存取内存）是计算机中主要使用的易失性存储器，每个存储单元由一个晶体管和一个电容器组成，必须周期性刷新才能保持数据。DDR5 是当前一代的桌面内存标准，相比前代 DDR4 提供更高的频率（最高可达 9.6 GT/s）和更低的电压（1.1V，DDR4 则为 1.2V）。内存速度以 MT/s（每秒百万次传输）为单位，表示每秒的数据传输操作次数，实际可用速度取决于 CPU 和主板的兼容性。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/DDR5_SDRAM">DDR5 SDRAM - Wikipedia</a></li>
-<li><a href="https://www.kingston.com/en/blog/pc-performance/ddr5-overview">DDR5 Memory Standard: An introduction to the next generation ...</a></li>
-<li><a href="https://www.integralmemory.com/articles/mhz-v-mt-s-how-should-we-be-measuring-ram-speed/">MHz vs MT / s : How Should We Be Measuring RAM Speed ?</a></li>
+<li><a href="https://www.tomshardware.com/features/ddr5-vs-ddr4-is-it-time-to-upgrade-your-ram">DDR5 vs DDR4 in 2025: Is It Time To Upgrade Your RAM? | Tom's Hardware</a></li>
+<li><a href="https://www.kingston.com/en/blog/pc-performance/what-is-computer-memory">What is computer memory ? - Kingston Technology</a></li>
 
 </ul>
 </details>
 
-**标签**: `#DRAM`, `#hardware`, `#memory-pricing`, `#DDR5`, `#market-trends`
+**标签**: `#DRAM`, `#memory-pricing`, `#hardware`, `#PC-building`, `#market-trends`
 
 ---
 
 <a id="item-2"></a>
-## [中国国产 AI 芯片预计到 2026 年占据国内 90%市场份额](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd) ⭐️ 7.5/10
+## [味之素据报将对中国 ABF 芯片封装薄膜供应削减 30%](https://www.tomshardware.com/tech-industry/semiconductors/ajinomoto-reportedly-cuts-abf-chip-packaging-film-supply-to-china-by-30-percent) ⭐️ 7.5/10
 
-分析师预计，到 2026 年，以华为和寒武纪为首的中国独立硬件供应商（IHV）将供应中国国内约 90%的 AI 芯片使用量，标志着中国市场的 AI 芯片从英伟达和 AMD 转向近乎完全的国产替代。 这一预期的转变将对英伟达和 AMD 在全球最大 AI 市场之一的存在构成重大打击，并标志着在美国持续出口管制背景下，中国加速推进半导体自主可控的战略。 该预测专门针对高端 AI 加速器而非所有处理器，并且国内代工厂如中芯国际仍落后台积电数个工艺世代，这意味着国产芯片在原始性能上可能仍无法匹敌英伟达最先进的產品。
+据报道，日本化工企业味之素已通知其中国大陆客户，将把用于先进芯片封装的关键电介质材料 ABF（味之素积层膜）的供应削减 30%。此次削减据称是对中国稀土出口限制的回应，并加速了中国国产替代材料的认证进程。 味之素控制了全球约 95%的 ABF 市场，使其成为先进芯片封装近乎垄断的关键瓶颈。此次供应削减威胁到在中国组装或封装的高性能 CPU、GPU 和 AI 加速器的生产，同时表明半导体贸易争端正从光刻设备扩展到特种化工材料领域。 ABF 是一种含有无机填料的环氧基电介质树脂薄膜，用于构建 FCBGA（倒装芯片球栅阵列）封装中的多层基板。在先进封装中认证替代电介质材料通常需要与基板制造商和芯片设计公司进行 12 至 18 个月的验证，这意味着任何中断都会产生持久的连锁影响。
 
-rss · Tom's Hardware · 8月18日 11:20
+rss · Tom's Hardware · 8月19日 11:40
 
-**背景**: AI 加速器是专门针对人工智能工作负载（如神经网络训练和推理）进行优化的芯片，与最初为图形渲染设计的通用 GPU 有所不同。寒武纪科技被称为"中国的英伟达"，总部位于北京，部分为国有企业，其早期 IP 曾于 2017 年被整合进华为麒麟 970 芯片。美国对华先进 AI 芯片的出口管制不断加码，既给中国科技企业开发国产替代方案带来了压力，也同时推高了市场对国产芯片的需求。
+**背景**: ABF（味之素积层膜）是味之素精细技术公司开发的专有电介质材料，能够实现现代高密度半导体封装所需的超精细电路图案。由 ABF 构建的 FCBGA 基板用于将 Intel、AMD 和 NVIDIA 等公司的 CPU、GPU 和 AI 加速器芯片连接到主板。味之素在该材料上的近乎垄断地位意味着任何中断都可能波及整个先进封装供应链。当前的冲突是更广泛贸易争端的一部分，中国此前限制了对某些稀土元素及加工技术的出口，而这些材料正是日本高科技产业所严重依赖的。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cambricon_Technologies">Cambricon Technologies - Wikipedia</a></li>
-<li><a href="https://techwireasia.com/2025/08/cambricon-technologies-record-profit-china-ai-chip-revolution/">Cambricon Technologies: How China's Nvidia rival turned ...</a></li>
+<li><a href="https://www.digitimes.com/news/a20260818VL208/ai-chip-materials-packaging-chips.html?chid=12">Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip....</a></li>
+<li><a href="https://pcbmake.com/what-is-abf-substrate/">What is ABF Substrate? Key to Semiconductor Advancements</a></li>
+<li><a href="https://inquivixtech.com/abf-semiconductor/">ABF Film and Substrate Innovations in Semiconductors | Inquivix Tech</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI hardware`, `#China tech`, `#Huawei`, `#Cambricon`, `#semiconductor industry`
+**标签**: `#semiconductors`, `#supply-chain`, `#ABF-film`, `#geopolitics`, `#chip-packaging`
 
 ---
 
 <a id="item-3"></a>
-## [谷歌仅斥资 1000 万美元收购 Spirit Airlines 数据用于 AI 训练——所购数据涵盖数亿封电子邮件、Microsoft Teams 聊天记录、数十亿条航班定价记录及匿名乘客档案](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records) ⭐️ 7.5/10
+## [microSD 卡耐久性测试：三年内对 351 张卡写入 133PB 数据直至损坏——测试结果显示 SanDisk 表现异常，7 张受测卡中有 6 张损坏](https://www.tomshardware.com/pc-components/microsd-cards/microsd-card-testing-database-celebrates-third-anniversary-with-133-petabytes-of-data-written-across-4-6-million-cycles-hundreds-of-cards-tested-to-failure-reveal-sandisk-as-the-outlier-with-6-failures-of-the-7-tested) ⭐️ 7.5/10
 
-谷歌以 1000 万美元的价格拍下 Spirit Airlines 破产拍卖的数据，获得数亿封电子邮件、Teams 聊天记录、航班定价记录及匿名乘客档案，用于人工智能训练。
+一项历时三年的 microSD 卡耐久性测试涉及 351 张卡片，结果显示 SanDisk 品牌的可靠性表现意外失常，7 张受测卡中有 6 张损坏，而其他品牌的实际表现则优于预期。
 
-rss · Tom's Hardware · 8月18日 11:02
+rss · Tom's Hardware · 8月19日 11:20
 
-**标签**: `#AI`, `#data-privacy`, `#google`, `#training-data`, `#data-acquisition`
+**标签**: `#microSD`, `#hardware-reliability`, `#stress-testing`, `#storage`, `#SanDisk`
 
 ---
 
 <a id="item-4"></a>
-## [联邦法院裁定：即使法官完全依赖 AI 裁判仍享司法豁免](https://www.tomshardware.com/tech-industry/artificial-intelligence/judges-who-use-ai-to-make-decisions-still-protected-by-judicial-immunity-court-ruling-protects-outcomes-regardless-of-ai-usage) ⭐️ 7.5/10
+## [英伟达 H200 首批芯片运抵中国，字节跳动和腾讯收货](https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block) ⭐️ 7.5/10
 
-美国一家联邦法院裁定，被指控完全依赖 AI 作出司法裁决的法官，仍可保留免受民事诉讼的司法豁免权。该裁决并未就法官使用 AI 是否合法或合乎道德作出认定。 该裁决在 AI 与司法体系的交叉领域开创了重要先例，可能使法官免于为 AI 驱动的、可能影响公民权利与自由的裁决承担责任。它引发了关于当 AI 系统影响或产出高风险司法裁决时，谁应承担责任的根本性问题。 该裁决仅狭义地处理了司法豁免问题，明确未就法官依赖 AI 进行裁决的合法性与道德性表态。该案普遍预计将面临上诉，其对在高风险决策场景中部署 AI 的长期影响仍不确定。
+北京放宽进口限制后，英伟达 H200 GPU 已开始向中国科技公司字节跳动和腾讯发货，每家公司获许可的额度最高达 10 万颗芯片。然而，北京要求大部分获得许可的芯片留在香港而非进入中国大陆，因为香港缺乏大规模运行这些芯片所需的电力基础设施。 这标志着美中 AI 芯片出口管制的一次重大放松，使中国最大的科技公司得以获得训练大语言模型和运行生成式 AI 工作负载所必需的顶尖 AI 硬件。该决定也反映了美国更广泛的策略，即以许可销售（上限为此前美国采购量的 50%，并加征 25%关税）作为外交筹码，但香港方面的瓶颈限制了实际部署，并可能推动中国加速发展本土替代方案。 H200 是英伟达首款搭载 HBM3E 内存的 GPU，提供更大和更快的内存带宽，专为生成式 AI 和高性能计算工作负载优化。美国的许可框架要求逐案审批，并将芯片数量上限设定为各实体此前为美国使用所采购量的 50%，同时中方一侧征收 25%的进口关税。
 
-rss · Tom's Hardware · 8月18日 11:00
+rss · Tom's Hardware · 8月19日 10:37
 
-**背景**: 司法豁免是美国一项长期存在的法律原则，在 Bradley v. Fisher 等案件中得到巩固，保护法官不因在司法职权范围内的行为被民事起诉，以保障司法独立。随着生成式 AI 工具日益普及，法院越来越多地面对这些传统保护与 AI 在司法领域问责要求之间的冲突。两者交叉尤为复杂——AI 系统不具备司法裁决传统上所要求的透明度、推理过程和可解释性，且 AI 辅助裁决中的错误可能直接影响宪法权利。
+**背景**: H200 属于英伟达的 Hopper 架构，是 H100 的继任旗舰数据中心加速器，其 HBM3E 内存能够更快地处理大语言模型和科学计算工作负载。自 2022 年以来，美国对华先进 AI 芯片出口管制不断演变，在早期政府任期内收紧，在新政策框架下又有所放松，将经批准的芯片销售视为贸易和外交工具。包括 DeepSeek 首席执行官在内的出口管制批评人士认为，虽然限制措施可能在短期内延缓中国 AI 发展，但最终会在多年时间跨度内加速中国本土芯片的自主化进程。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Judicial_immunity">Judicial immunity - Wikipedia</a></li>
-<li><a href="https://justicespeakersinstitute.com/ai-in-judicial-decision-making-transparency-ethics/">AI in the Courts: Judicial Decision-Making – Transparency, Accountability, and the Judicial Role</a></li>
-<li><a href="https://www.cambridge.org/core/journals/data-and-policy/article/artificial-intelligence-at-the-bench-legal-and-ethical-challenges-of-informingor-misinformingjudicial-decisionmaking-through-generative-ai/D1989AC5C81FB67A5FABB552D3831E46">Artificial intelligence at the bench: Legal and ethical challenges of informing—or misinforming—judicial decision-making through generative AI | Data & Policy | Cambridge Core</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H200 GPU | NVIDIA</a></li>
+<li><a href="https://www.linkedin.com/posts/janet-egan-a8a066127_trump-is-implementing-his-promise-to-sell-activity-7417995609409818625-5Si9">US sells H200 AI chips to China in exchange for 25... | LinkedIn</a></li>
+<li><a href="https://www.transformernews.ai/p/deepseek-ceo-liang-wenfeng-export-controls-china">DeepSeek CEO's leaked comments make the case for export controls</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI ethics`, `#judicial system`, `#legal precedent`, `#AI governance`, `#judicial immunity`
+**标签**: `#nvidia`, `#h200`, `#gpu`, `#china-tech`, `#export-controls`
 
 ---
 
 <a id="item-5"></a>
-## [藏在珍本中的秘密追踪装置最终出现在亚马逊处理中心——摧毁书籍以训练 AI 模型是这家拉斯维加斯仓库"全部"的工作](https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does) ⭐️ 7.5/10
+## [数字信号处理先驱刘必治去世，享年 91 岁](https://www.solidot.org/story?sid=85136) ⭐️ 7.3/10
 
-一个被偷偷放入一批书籍中的 AirTag 追踪到了位于拉斯维加斯的亚马逊处理设施，该设施通过切割书脊并扫描页面来销毁书籍，以此为 AI 模型生成训练数据。
+IEEE Spectrum 发表文章纪念数字信号处理（DSP）领域的奠基人之一刘必治，他于 2025 年 5 月去世，享年 91 岁。刘必治于 1962 年加入普林斯顿大学，并于 1976 年与其前研究生 Abe Peled 合著了具有深远影响的教科书《Digital Signal Processing: Theory, Design, and Implementation》，该书成为工程师的标准参考书，并定义了 DSP 这一专业。 刘必治在 1970 至 1980 年代的研究为低功耗数字信号处理器奠定了技术基础，而这些处理器正是现代手机通话、流媒体视频和互联网通信的核心技术，每天被数十亿人使用。尽管他在工程界之外鲜为人知，但他的贡献支撑着定义当代生活的大部分数字媒体基础设施。 (see key_details_en above; this field supersedes in the final JSON output)
 
-rss · Tom's Hardware · 8月18日 10:30
+rss · Solidot · 8月19日 08:58
 
-**标签**: `#AI`, `#copyright`, `#data-collection`, `#investigative-journalism`, `#ethics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Digital_signal_processing">Digital signal processing - Wikipedia</a></li>
+<li><a href="https://www.analog.com/en/lp/001/beginners-guide-to-dsp.html">A Beginner's Guide to Digital Signal Processing (DSP) - Analog</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 该新闻条目未提供社区讨论评论。
+
+**标签**: `#digital-signal-processing`, `#quantum-networking`, `#obituary`, `#neuroscience`, `#quantum-entanglement`
 
 ---
 
 <a id="item-6"></a>
-## [印度初创公司 Othisis 成功试车 3D 打印低温火箭发动机](https://www.tomshardware.com/3d-printing/othisis-test-fires-3d-printed-fully-cryogenic-reusable-rocket-engine-indian-startup-leverages-slm-printing-to-create-its-first-working-prototype) ⭐️ 7.5/10
+## [GrapheneOS 将于 2027 年正式支持高端摩托罗拉手机](https://grapheneos.social/@GrapheneOS/117078064184215730) ⭐️ 7.0/10
 
-成立仅两年的印度初创公司 Othisis 成功试车了一台完全采用选区激光熔化（SLM）技术 3D 打印的可重复使用低温火箭发动机，这也是该型号的首个工作原型。此次试车验证了通过增材制造技术整体制造低温推进系统的可行性，而非仅打印单个零部件。 这一里程碑表明，增材制造技术不仅能打印简单金属零件，还能制造整个复杂的、高性能低温推进系统，有望大幅缩短火箭发动机的制造周期并降低成本。它也将印度置于不断增长的私营航天初创公司行列，使其在政府机构之外也能展示尖端的推进能力。 该发动机采用选区激光熔化（SLM）技术制造，这是一种金属增材制造工艺，使用高功率激光逐层完全熔化并融合金属粉末，每层切片通常为 20 到 100 微米厚。低温火箭发动机通常燃烧液氢（LH2）和液氧（LOX）等推进剂，几乎全部采用泵压式输送，并需要复杂的内部冷却通道——这些特点使增材制造技术变得尤其具有吸引力。
+GrapheneOS 宣布将在大约 12 个月内（即 2027 年）正式支持高端摩托罗拉手机，包括 2027 款的 Signature、Razr fold 和 Razr flip，前提是这些设备满足 GrapheneOS 的硬件安全要求。摩托罗拉目前正在将其设备移植 GrapheneOS，这是该系统首次在 Google Pixel 之外进行重大扩展。 这对 GrapheneOS 来说是一次重大扩展，该系统此前一直仅限于 Pixel 设备，这将为注重隐私的用户提供更多硬件选择，并可能加速那些偏好摩托罗拉折叠屏等形态的非技术用户的采用。它也表明主流厂商越来越愿意支持除原生 Android 之外的替代操作系统。 GrapheneOS 对硬件安全有严格要求，设备必须满足这些要求才能获得官方支持，这也是为什么选择了 2027 年的摩托罗拉产品线——当前的 Signature 型号尚不符合要求。社区指出，像 ThinkPhone 23（骁龙 8，2023 年款）等较旧的摩托罗拉手机已经支持 Mobian/PostmarketOS 等替代系统，并已收到 Android 16 的更新，这表明摩托罗拉可能一直在为此次合作做准备。
 
-rss · Tom's Hardware · 8月18日 10:00
+hackernews · exceptione · 8月19日 11:46 · [社区讨论](https://news.ycombinator.com/item?id=49360242)
 
-**背景**: 选区激光熔化（SLM）是一种金属 3D 打印技术，使用高功率激光根据数字 CAD 模型选择性熔化金属粉末层，逐层构建固体金属零件，每层切片通常为 20 到 100 微米厚。低温火箭发动机使用极低温储存的推进剂，最常见的是液氢和液氧，几乎全部采用泵压式将推进剂输送至燃烧室。这些发动机通常需要复杂的内部冷却通道来应对极端温度，因此非常适合采用增材制造技术。可重复使用火箭发动机由 SpaceX 等公司推广普及，旨在多次飞行、加注燃料和重新点火循环，从而大幅降低进入太空的成本。
+**背景**: GrapheneOS 是一个基于 Android 的安全与隐私优先的移动操作系统，旨在消除 Google 的追踪和数据收集，同时保持与 Android 应用程序的兼容性。与原生 Android 不同，GrapheneOS 引入了强化的安全功能，例如增强的沙箱机制、强化的内存分配器以及更严格的权限控制。历史上，GrapheneOS 仅官方支持 Google Pixel 手机，因为 Pixel 设备满足其严格的硬件安全要求，包括验证启动和硬件级密钥认证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Selective_laser_melting">Selective laser melting - Wikipedia</a></li>
-<li><a href="https://www.raise3d.com/blog/slm-3d-printing/">What is Selective Laser Melting (SLM) 3D Printing: Process ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cryogenic_rocket_engine">Cryogenic rocket engine - Wikipedia</a></li>
+<li><a href="https://grapheneos.org/">GrapheneOS : the private and secure mobile OS</a></li>
+<li><a href="https://www.howtogeek.com/790266/what-is-grapheneos-and-how-does-it-make-android-more-private/">What Is GrapheneOS , and How Does It Make Android More Private ?</a></li>
+<li><a href="https://www.cape.co/blog/grapheneos-privacy-and-security-features?g=cg">GrapheneOS Privacy and Security Features Broken Down - Cape</a></li>
 
 </ul>
 </details>
 
-**标签**: `#additive manufacturing`, `#rocket propulsion`, `#cryogenic engines`, `#reusable spacecraft`, `#aerospace engineering`
+**社区讨论**: 社区情绪总体积极，用户欢迎此次扩展，但争论项目应该追求类 Android 的替代方案还是基于主流 Linux 的移动操作系统（如 NixOS 或 Mobian/PostmarketOS）。一些用户批评 Google 通过 Google Drive 压缩包分发 Android 源代码的做法不够专业，而其他用户则注意到较旧的摩托罗拉手机已经开始收到意外的更新，推测这是在为 GrapheneOS 合作做准备。
+
+**标签**: `#GrapheneOS`, `#mobile-os`, `#privacy`, `#Motorola`, `#Android-alternatives`
 
 ---
 
 <a id="item-7"></a>
-## [Nvidia CMP 170HX 矿卡被破解，64GB VRAM 解锁](https://www.tomshardware.com/pc-components/gpus/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram-in-order-to-feed-ai-boom-software-mod-unlocks-64gb-of-vram-on-usd250-cmp-170hx) ⭐️ 7.5/10
+## [Cerebras CS-4](https://www.cerebras.ai/cs4) ⭐️ 7.0/10
 
-一款名为 CMP Unlocker 的开源软件 mod 恢复了 Nvidia 五年前推出的 CMP 170HX 加密货币矿卡中被固件锁定的 VRAM，将原本仅配备 8GB 或 10GB 的显卡暴露出高达 64–80GB 的 HBM2e 显存。CMP 170HX 基于与 Nvidia 数据中心加速器相同的 A100 芯片，其显存和算力此前仅是通过固件进行了限制。 随着 AI 工作负载对显存的需求不断增长，而 Nvidia 数据中心显卡价格令许多研究者望而却步，将一张 250 美元的矿卡余货变成 64GB 显存的加速卡，有可能显著降低运行大模型推理和微调的门槛。这一进展同时体现了 GPU 短缺和价格套利如何持续重塑二手硬件市场——CMP 170HX 在解锁消息传开后，据报道价格已飙升至 1000 美元以上。 该解锁仅通过软件/固件修改实现，无需任何硬件改动。除了显存之外，该 mod 据称还解除了固件对算力和 PCIe 接口带宽的限制，使该卡更接近完整的 A100 性能——尽管仍存在固件层面的限制，并未达到真正 A100 的水平。该卡使用的是 HBM2e 显存，而非消费级 GeForce 显卡上常见的 GDDR 显存。
+Cerebras 发布 CS-4 晶圆级 AI 加速器，作为其新系列中的过渡产品，讨论重点在于该产品与 NVIDIA 的竞争定位，以及面向 WSE-4 的技术路线图。
 
-rss · Tom's Hardware · 8月18日 09:30
+hackernews · sunils34 · 8月19日 00:28 · [社区讨论](https://news.ycombinator.com/item?id=49354949)
 
-**背景**: Nvidia 的 CMP（Cryptocurrency Mining Processor，加密货币挖矿处理器）产品线于 2021 年推出，是专为挖矿设计的独立 GPU 系列，移除了显示输出，并被刻意与游戏级 GeForce 和数据中心级 A100 产品线区分开，以避免冲击这些市场。CMP 170HX 采用与 A100 数据中心加速器相同的 GA100 Ampere 架构芯片，但其大部分 HBM2e 显存、Tensor 算力和 PCIe 通道均在固件中被禁用。2022 年加密货币崩盘后，数千张此类显卡以极低价格涌入二手市场；新的解锁工具实际上让这些滞留库存重新服务于当前的 AI 算力热潮。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram-in-order-to-feed-ai-boom-software-mod-unlocks-64gb-of-vram-on-usd250-cmp-170hx">Nvidia crypto mining GPUs hacked to restore locked-away VRAM ...</a></li>
-<li><a href="https://wccftech.com/nvidia-cmp-170hx-8-10-gb-prices-explode-over-1000-usd-as-tool-unlocks-hidden-64-80gb-vram/">NVIDIA CMP 170HX 8/10 GB Prices Explode From $100 to Over ...</a></li>
-<li><a href="https://korben.info/en/nvidia-cmp-170hx-vram-unlocked-firmware.html">Nvidia CMP 170HX - The VRAM was there all along, locked by ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#GPU`, `#Nvidia`, `#VRAM`, `#AI hardware`, `#cryptocurrency mining`, `#hardware modding`
+**标签**: `#AI hardware`, `#Cerebras`, `#wafer-scale computing`, `#NVIDIA competition`, `#datacenter infrastructure`
 
 ---
 
 <a id="item-8"></a>
-## [修复变砖的 Framework 笔记本电脑](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) ⭐️ 7.0/10
+## [陶哲轩推出 Palomar：面向 Lean 形式化数学证明的注册库](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) ⭐️ 7.0/10
 
-一篇技术指南，介绍如何使用价值 20 美元的 SPI 编程器恢复变砖的 AMD Framework 13 笔记本电脑，并引发了关于制造商对有缺陷固件更新责任的讨论。
+陶哲轩宣布推出 Palomar，这是一个新的注册库，专门收录那些包含符合当前最佳实践标准的 Lean 代码的 GitHub 仓库快照。Palomar 以天文观测台命名，定位为 Lean 形式化数学证明的预印本服务器（preprint server）替代品，其提交流程严谨但可操作，陶哲轩本人已用自己最近的形式化工作完成了测试提交。 作为当今最具影响力的数学家之一所推动的基础设施建设，Palomar 通过为 Lean 证明提供集中且经过策展的可发现层，有望显著加速形式化证明验证在主流数学界的采纳。通过让已验证的证明更易于检索和引用，Palomar 填补了形式化验证生态系统的关键空白，并可能鼓励更多数学家将其成果形式化。 Palomar 存储的是精确的 GitHub commit 引用而非完整仓库，这在保证可复现性的同时避免了数据重复。提交要求遵循当前的 Lean 形式化最佳实践，系统将身份验证和垃圾信息管理外包给 GitHub——这虽然降低了运营摩擦，但也引入了对单一平台的依赖。
 
-hackernews · jp_sc · 8月18日 13:18 · [社区讨论](https://news.ycombinator.com/item?id=49345220)
+hackernews · matt_d · 8月19日 02:41 · [社区讨论](https://news.ycombinator.com/item?id=49355968)
 
-**标签**: `#framework-laptop`, `#hardware-recovery`, `#firmware-bios`, `#spi-flashing`, `#manufacturer-liability`
+**背景**: Lean 是一款基于归纳构造演算（calculus of inductive constructions）的开源交互式定理证明器和函数式编程语言，目前由非营利组织 Lean Focused Research Organization (FRO) 支持开发。形式化验证允许数学家以机器可检查的代码表达证明，从而消除某些类型错误的可能性，但相比传统的纸笔证明需要付出大量额外工作。此前已有类似的证明库先例，例如 Isabelle 的形式化证明档案库（Archive of Formal Proofs, AFP）已为该生态系统服务数十年，以及面向 Metamath 社区的 Metamath 证明数据库。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Lean_theorem_prover">Lean theorem prover</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean (proof assistant) - Wikipedia</a></li>
+<li><a href="https://lean-lang.org/">Lean Programming Language</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反响总体积极，但也存在一些值得关注的不同意见。多位评论者批评对 GitHub 的硬性依赖构成单点故障，并质疑 Lean 社区为何要重新发明 Isabelle AFP 多年前就已具备的基础设施。还有人提出了基于区块链的去中心化证明注册库构想。鉴于陶哲轩作为当今最多产的数学家之一的地位，他选择用自己的形式化工作亲自测试提交流程，这一举动被评论者带着幽默感地提及。
+
+**标签**: `#formal-verification`, `#lean-theorem-prover`, `#mathematics`, `#proof-assistants`, `#open-science`
 
 ---
 
 <a id="item-9"></a>
-## [Intel "Razor Lake"将采用台积电 N2X 工艺，笔记本 SKU 引入 bLLC](https://www.techpowerup.com/351684/intel-razor-lake-to-use-tsmcs-n2x-node-brings-bllc-to-laptop-skus) ⭐️ 6.5/10
+## [由 FlyWire 连接组驱动的 macOS 桌面开源 3D 果蝇](https://github.com/DenisSergeevitch/desktop-fly) ⭐️ 7.0/10
 
-Intel 下一代"Razor Lake"处理器计划于 2027 年初 Nova Lake 之后推出，将部分采用台积电增强版 2nm N2X 工艺制造，并首次将大末级缓存（bLLC）引入笔记本 SKU。 这表明 Intel 继续依赖台积电的领先工艺节点来打造高性能产品，并战略性地对标 AMD 的 3D V-Cache 缓存技术，可能在 2027 年前重塑桌面与笔记本 CPU 的竞争格局。 台积电 N2X 是 2nm 家族的增强版本，相比标准 N2 以牺牲部分功耗效率为代价来追求更高的时钟频率和电流，非常适合提升单核性能；Intel 也可能根据自家代工厂的良率，使用 18A/18A-P 节点双重采购计算模块，沿用 Nova Lake 的模式。
+开发者 DenisSergeevitch 在 GitHub 上发布了名为 desktop-fly 的开源项目，在 macOS 桌面上渲染一只 3D 果蝇，其行为与 FlyWire 连接组数据集中的神经元活动相连接。该项目提供了透明的源代码，而非同类商业初创公司的夸张宣传。 该项目提供了一种易于上手的方式，探索真实的昆虫连接组如何转化为可观察的行为，架起了连接组学研究与日常计算之间的桥梁。它凸显了利用连接组数据实现真正行为控制的前景与当前局限，引发了关于公开演示中科学准确性的重要讨论。 该项目是 GitHub 上的开源项目，运行在 macOS 上，使用 FlyWire 连接组作为其神经底座。社区评论者指出，脚本化的行为似乎是由连接组触发的，而非真正由模拟的神经活动驱动，引发了关于演示与真实连接组驱动模拟之间界限的质疑。
 
-rss · TechPowerUp News · 8月18日 12:50
+hackernews · phoenix120 · 8月18日 21:50 · [社区讨论](https://news.ycombinator.com/item?id=49353221)
 
-**背景**: Intel 的"Razor Lake"是"Nova Lake"的后继产品，后者计划于 2027 年初作为 Core Ultra 400 系列推出。"大末级缓存"（bLLC）是 Intel 对 AMD 3D V-Cache 技术的回应，通过堆叠额外的 L3 缓存来提升游戏和工作负载性能，据报道 Nova Lake 的 L3 缓存最高可达 144MB。N2X 节点是台积电 2nm 家族的增强版本，以牺牲部分功耗效率为代价来追求更高的时钟频率。Intel 一直采用双重采购策略——部分计算模块由 Intel 代工生产，其余外包给台积电——以管理风险并利用最佳的工艺技术。
+**背景**: 连接组是大脑中神经连接的完整映射图，FlyWire 项目最近完成了首个成年果蝇大脑及其腹神经索的完整接线图。连接组学是一个新兴的神经科学领域，利用电子显微镜成像和机器学习重建这些神经回路，以理解它们如何产生行为。NeuroMechFly 是一个相关的开源模拟器，结合了果蝇的生物力学和神经模型，社区成员建议将其作为模拟果蝇身体动力学的更严谨替代方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/351684/intel-razor-lake-to-use-tsmcs-n2x-node-brings-bllc-to-laptop-skus">Intel "Razor Lake" to Use TSMC's N2X Node, Brings... | TechPowerU...</a></li>
-<li><a href="https://wccftech.com/intel-razor-lake-cpus-to-utilize-tsmc-n2x-process-bring-bllc-to-laptops/">Intel Razor Lake CPUs to Utilize TSMC N 2 X Process & Bring bLLC to...</a></li>
-<li><a href="https://www.indiekings.com/2025/07/intel-nova-lake-with-bllc-complete.html">Intel Nova Lake with bLLC : The Complete Guide to Intel 's AMD...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Drosophila_connectome">Drosophila connectome - Wikipedia</a></li>
+<li><a href="https://www.nih.gov/news-events/nih-research-matters/complete-wiring-map-adult-fruit-fly-brain">Complete wiring map of an adult fruit fly brain | National Institutes of...</a></li>
+<li><a href="https://scitechdaily.com/scientists-mapped-every-neuron-in-a-fruit-fly-and-the-brain-wasnt-running-the-show/">Scientists Mapped Every Neuron in a Fruit Fly and the Brain ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Intel`, `#TSMC`, `#Razor Lake`, `#semiconductor`, `#process-node`
+**社区讨论**: 社区普遍称赞该项目相比初创公司的演示具有更好的开源透明度，但也提出了尖锐的问题：'causal'认为连接组只是触发预脚本化的行为，并非真正在控制果蝇，并暗示用 YouTube 视频替代动画也能达到同样效果。'DaiPlusPlus'询问了模拟神经组织的伦理问题，'aperrien'则指出 NeuroMechFly 是更严谨的模拟平台。'a1o'请求添加人工撰写的 README，以澄清哪些是被建模的、哪些是被测量的。
+
+**标签**: `#computational-neuroscience`, `#connectomics`, `#open-source`, `#3D-simulation`, `#fruit-fly`
 
 ---
 
 <a id="item-10"></a>
-## [中国要求国家机构卸载政府定制版 Windows 10](https://www.tomshardware.com/software/operating-systems/china-reportedly-orders-state-agencies-to-uninstall-its-government-only-edition-of-windows-10) ⭐️ 6.5/10
+## [Mojo 编程语言在 Qualcomm 旗下完全开源](https://www.modular.com/blog/modcon-announcements) ⭐️ 7.0/10
 
-中国国家安全部已下令各国家关联机构移除由微软与国有中国电子科技集团的合资公司中电信息科技(CMIT)开发的政府定制版 Windows 10，将原定于 2027 年 2 月的退役计划大幅提前。 这一举措凸显了北京在敏感政府基础设施中彻底清除西方技术的决心，可能加速麒麟、统信 UOS 等国产操作系统的推广，同时也对微软在中国的企业市场地位造成重大打击。 该政府版基于 Windows 10 企业版，移除或禁用了面向消费者的功能，激活和更新均在国内完成，并内置支持中国加密标准。CMIT 成立于 2016 年，由中方持有多数股权。
+Modular 的 Mojo 编程语言在被 Qualcomm 收购后已完全开源。该语言融合了类似 Python 的语法与系统级性能，基于 MLIR 编译器基础设施构建。 对于 AI 和系统编程社区而言，这是一个重大举措，因为 Mojo 旨在弥合 Python 易用性与 C++/Rust 级性能之间的差距，特别面向 AI/ML 工作负载。完全开源消除了采用方面的一个主要障碍，并表明 Qualcomm 致力于围绕 AI 编程工具构建生态系统的决心。 Mojo 此前仅部分开源；Modular 的其他项目（如大规模 LLM 服务平台 MAX，据说在多种模型上性能优于 vLLM 和 Dynamo）已更早开源。Swift 和 LLVM 的创造者 Chris Lattner 曾表示，延迟完全开源是为了先敲定核心设计决策。
 
-rss · Tom's Hardware · 8月18日 10:11
+hackernews · flaburgan · 8月19日 07:47 · [社区讨论](https://news.ycombinator.com/item?id=49358327)
 
-**背景**: CMIT 由微软与中国电子科技集团于 2016 年合资成立，专门用于提供符合北京安全与合规要求的 Windows 10 版本。Windows 10 企业版是一种批量授权版本，为大型组织提供集中管理功能。多年来，中国一直在开发麒麟和统信 UOS 等国产操作系统，作为更广泛技术自主战略的一部分，而 CMIT 版 Windows 10 的提前退役正是这一战略推进中的重要一步。
+**背景**: Mojo 是一门系统编程语言，采用类似 Python 的语法，同时借鉴了 Rust 的概念，如静态类型和借用检查器。它基于 MLIR（Multi-Level Intermediate Representation，多级中间表示）构建，MLIR 是一个最初作为 LLVM 子项目开发的可扩展编译器基础设施。MLIR 允许将编译器优化表达为库或方言（dialect），而非硬编码到编译器本身，从而实现可扩展和可复用的编译器设计。Mojo 由 Chris Lattner 领导，他此前创建了 Swift 编程语言和 LLVM 编译器基础设施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.businesstimes.com.sg/startups-tech/technology/china-axing-microsoft-windows-state-agencies-ahead-schedule">China axing Microsoft Windows from state agencies ahead of schedule</a></li>
-<li><a href="https://www.techpowerup.com/351687/microsoft-and-chinas-joint-windows-10-faces-early-retirement">Microsoft and China 's Joint Windows 10 Faces Early... | TechPowerUp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MLIR_(software)">MLIR (software) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo ( programming language ) - Wikipedia</a></li>
+<li><a href="https://mlir.llvm.org/">Multi - Level IR Compiler Framework</a></li>
 
 </ul>
 </details>
 
-**标签**: `#windows`, `#china`, `#operating-systems`, `#cybersecurity`, `#geopolitics`
+**社区讨论**: 社区情绪褒贬不一但讨论热烈。支持者强调 Mojo 以 C++ 启发的语义包裹在 Python 语法中，并称赞其 MLIR 基础能够在库层面实现编译器优化。怀疑者质疑其实际影响力和采用情况，指出它很少出现在主流技术讨论中。一些评论者还指出标题具有误导性，因为 Mojo 此前已部分开源，并指出 Qualcomm 的收购可能是看重 Modular 有价值的 GPU 内核和 LLM 服务技术。
+
+**标签**: `#programming-languages`, `#mojo`, `#open-source`, `#mlir`, `#systems-programming`
 
 ---
 
 <a id="item-11"></a>
-## [将铁路网络用作平板扫描仪](https://philo.gay/linecam/) ⭐️ 6.0/10
+## [超越摩尔：AI 从系统到材料的协同优化](https://semiwiki.com/semiconductor-manufacturers/372192-beyond-moore-co-optimizing-ai-from-systems-to-materials/) ⭐️ 7.0/10
 
-一个创意项目，将面向铁路轨道的摄像头用于捕捉经过列车的狭缝扫描"平板扫描仪"图像，通过累积垂直切片产生视觉效果有趣的成果。
+应用材料公司在 OCP APAC 峰会的主题演讲中，将 AI 定位为半导体行业最大的变革拐点。随着行业从摩尔定律迈向万亿美元年营收规模，AI 正驱动从系统到材料的协同优化。
 
-hackernews · otherayden · 8月18日 12:43 · [社区讨论](https://news.ycombinator.com/item?id=49344825)
+rss · SemiWiki · 8月18日 17:00
 
-**标签**: `#photography`, `#computational-imaging`, `#slit-scan`, `#creative-coding`, `#hardware-project`
+**标签**: `#semiconductors`, `#AI`, `#Moore's Law`, `#Applied Materials`, `#OCP`
 
 ---
 
 <a id="item-12"></a>
-## [冰岛超市的管理咨询灾难案例重新引发热议](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) ⭐️ 6.0/10
+## [Marvell 推出内存解耦产品组合以应对 AI 瓶颈](https://www.eetimes.com/marvell-targets-ai-bottlenecks-with-memory-disaggregation-portfolio/) ⭐️ 7.0/10
 
-一篇名为《警惕管理咨询师》的回顾性案例分析在 Hacker News 上重新流传，该文章讲述了冰岛超市的管理咨询与 IT 项目失败案例，获得了 429 个点赞和 121 条评论。文章刻意采用了糟糕的用户体验设计作为修辞手法。 这个故事是一个关于大型管理咨询项目和 IT 现代化项目失败的高知名度警示案例，而这类项目一直是企业失败的常见来源。社区讨论内容多元——包括为咨询师辩护的观点、质疑投资回报率的批评，以及业内人士的自我反思——为任何参与企业技术决策的人提供了有价值的参考。 该文章采用了故意设计的糟糕用户体验（滑动面板、隐藏文本、强制交互），一位评论者讽刺地指出这反而通过阻止略读来提高了阅读深度。其底层案例涉及冰岛食品（Iceland Foods），这是一家英国冷冻食品零售商，其雄心勃勃的基于 SAP 的 IT 改造项目成为英国最常被引用的企业 IT 灾难之一。
+Marvell 推出了一套内存解耦产品组合，将 SSD、CXL 和光子互连技术结合起来，通过将数据拉近计算资源来解决 AI 内存瓶颈问题。该方案瞄准了日益制约大模型 AI 性能的内存瓶颈。 随着 AI 模型规模不断增大、算力需求日益密集，内存墙已成为制约性能、可扩展性和能效的关键瓶颈。Marvell 横跨存储、相干互连和光学互连的整合方案有望重塑面向超大规模 AI 部署的数据中心架构，影响云服务商、GPU 厂商以及运行大模型的企业。 该产品组合覆盖三个独立的技术层级：SSD 提供大容量本地存储，CXL 实现相干内存扩展与池化，光子互连用于芯片到芯片的光学连接，可显著降低数据搬移的每比特功耗。内存解耦借助 CXL 和 RDMA 等高速互连实现跨节点内存资源的弹性共享，打破了计算与 DRAM 之间传统的紧耦合关系。
 
-hackernews · KolmogorovComp · 8月18日 19:29 · [社区讨论](https://news.ycombinator.com/item?id=49351324)
+rss · EE Times · 8月18日 14:39
 
-**背景**: 冰岛食品（Iceland Foods）是英国一家专注于冷冻食品的超市连锁店。大约在 2010 年代中期，该公司启动了一项重大的 IT 转型项目，被英国商业媒体广泛报道，成为雄心勃勃的企业软件部署如何出错的典型案例。管理咨询——即聘请外部公司来提供战略、流程和大型 IT 项目建议——是一个价值数十亿英镑的行业，冰岛等高知名度的失败案例经常被批评者引用，他们认为咨询师对最终结果缺乏问责机制。德国企业软件巨头 SAP 的 ERP 系统经常出现在这类警示故事中。
-
-**社区讨论**: Hacker News 的讨论反映出社区意见的分歧：一些评论者为管理咨询师辩护，认为他们为大型多供应商项目提供了必要的协调和领域专业知识，而另一些人则认为真正的问题在于客户组织内部缺乏问责机制。一位前四大咨询师分享说，他的角色通常是保护客户免受糟糕设计和供应商管理不善的影响。另一位评论者诙谐地评论说，文章故意设计的糟糕用户体验反而通过强迫仔细阅读而非略读，提高了读者的参与度。
-
-**标签**: `#management-consulting`, `#case-study`, `#IT-projects`, `#business-failures`, `#Hacker-News`
-
----
-
-<a id="item-13"></a>
-## [应用材料提出超越摩尔定律的系统到材料协同优化方案](https://semiwiki.com/semiconductor-manufacturers/372192-beyond-moore-co-optimizing-ai-from-systems-to-materials/) ⭐️ 6.0/10
-
-在 2026 年 8 月 11 日至 12 日于台湾举办的 OCP APAC Summit 上，应用材料的 Subi Kengeri 发表了主题演讲，将 AI 定位为半导体行业最大的拐点，并提出从系统到材料的协同优化作为超越摩尔定律的路径，AI 需求预计将推动该行业迈向每年一万亿美元的营收规模。 这一主题演讲标志着半导体行业在 AI 时代如何创新以维持性能扩展的战略转变，因为仅靠传统的晶体管微缩已无法满足超大规模 AI 工作负载所需的效率提升。协同优化方案之所以重要，在于它涉及从数据中心架构到新材料的每一层技术栈，将影响芯片设计商、设备制造商以及 AI 基础设施提供商。 该理念建立在系统技术协同优化（STCO）之上，这是一种同时优化计算系统多层架构以实现性能、功耗、面积和成本（PPAC）综合最佳的设计方法论。应用材料进一步扩展了这一思路，将材料科学（包括 Thintronics 等新兴企业）提升为一等设计变量，而不再是背景考量因素。
-
-rss · SemiWiki · 8月18日 17:00
-
-**背景**: 摩尔定律是自 1960 年代以来驱动半导体进步的古老规律，即晶体管密度大约每两年翻一番，但由于先进制程节点面临物理和经济极限，这一规律正在放缓。"超越摩尔"指的是一系列策略——包括 3D 堆叠、芯粒（chiplet）、先进封装、新型晶体管架构（如全环绕栅极 GAA 和 CFET）以及新材料——以继续实现性能提升。OCP（开放计算项目）APAC Summit 聚焦于数据中心基础设施挑战，因此成为应用材料将材料创新与 AI 算力需求对接的理想场合。
+**背景**: 内存解耦是一种将计算和内存资源分离的架构方法，允许它们在数据中心节点间进行池化和弹性共享。CXL（Compute Express Link）是一种基于 PCIe 构建的开放行业标准，可实现 CPU、GPU 和 AI 加速器之间的缓存一致性内存共享，使内存扩展突破传统 DIMM 插槽的限制。光子互连技术（例如 Celestial AI 的技术）利用光信号进行芯片到芯片的互连，相比电路走线有望将数据搬移功耗降低超过 80%。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://chipxpert.in/system-technology-co-optimization-stco-redefining-semiconductor-innovation-beyond-moores-law/">System Technology Co-Optimization (STCO): Redefining ...</a></li>
-<li><a href="https://www.opencompute.org/summit/2026-ocp-apac-summit">2026 OCP APAC Summit » Open Compute Project</a></li>
+<li><a href="https://computeexpresslink.org/about-cxl/">About CXL® - Compute Express Link</a></li>
+<li><a href="https://www.emergentmind.com/topics/memory-disaggregation">Memory Disaggregation in Data Centers</a></li>
+<li><a href="https://www.accio.com/blog/marvells-5-5b-photonic-fabric-deal-transforms-ai-infrastructure">Marvell’s $5.5B Photonic Fabric Deal Transforms AI Infrastructure</a></li>
 
 </ul>
 </details>
-
-**标签**: `#semiconductors`, `#AI infrastructure`, `#beyond-moore`, `#Applied Materials`, `#OCP`
-
----
-
-<a id="item-14"></a>
-## [Marvell 瞄准 AI 瓶颈，发布内存解耦产品组合](https://www.eetimes.com/marvell-targets-ai-bottlenecks-with-memory-disaggregation-portfolio/) ⭐️ 6.0/10
-
-Marvell 通过整合 SSD、CXL 和光子互连技术的内存解耦产品组合，将数据更靠近计算单元，以应对 AI 内存瓶颈问题。
-
-rss · EE Times · 8月18日 14:39
 
 **标签**: `#AI infrastructure`, `#memory disaggregation`, `#CXL`, `#Marvell`, `#data center`
 
 ---
 
-<a id="item-15"></a>
-## [DXVK 新增帧缓冲压缩，提升 Intel Arc GPU 在 Linux 上的性能](https://www.techpowerup.com/351694/frame-buffer-compression-promises-performance-boost-for-intel-gpus-on-linux) ⭐️ 5.5/10
+<a id="item-13"></a>
+## [Intel Core Ultra 9 4590K 曝光，Nova Lake-S 或回归四位数命名](https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s) ⭐️ 6.5/10
 
-即将合入 Mesa 26.3-devel 的一项补丁为 DXVK 翻译层增加了帧缓冲压缩（FBC）支持，使得在 Linux 上通过 Intel Arc GPU 运行 Direct3D 8/9/10/11 游戏的玩家也能享受到此前仅 DX12 游戏经由 VKD3D 才能获得的内存带宽节省。 这一更新进一步缩小了 Intel Arc GPU 在 Linux 和 Windows 上的性能差距，为大量 DirectX 8–11 游戏带来更好的内存带宽利用率和能效。对 Linux 玩家（尤其是使用 Proton/Steam 的玩家）而言，这意味着在 Intel 独显上无需驱动层变通方案即可获得更流畅、更高效的游戏体验。 根据相关合并请求的测试结果，性能提升幅度因游戏和工作负载而异，从较为温和的 0.53% 到略高于 5% 不等。该功能目前已可在 Mesa 26.3-devel 分支的 Git 仓库中使用，预计将在 11 月随 Mesa 稳定版一同发布。
+一份泄露的 CPU-Z 提交记录曝光了 Intel Core Ultra 9 4590K，这是一款 28 核心的 Nova Lake-S 台式机芯片，包含 8 个 Coyote Cove 性能核、16 个 Arctic Wolf 效率核和 4 个 LPE 低功耗核，在 Z990 平台上单核跑分超过 1000 分、多核跑分超过 20000 分。四位数的型号命名表明 Intel 可能放弃当前 Arrow Lake 所采用的三位数命名方案。 这条泄露对 PC 发烧友和 Intel 产品路线图关注者非常重要，因为它提供了 Nova Lake-S 性能水平的具体证据，看起来超越了当前所有消费级台式机 CPU。潜在的四位数型号命名转变也对 Intel 如何组织与营销日益扩大的 SKU 阵容具有影响。 Nova Lake-S 平台使用支持超频的 Z990 主板，Intel 仍在评估多种 SKU 配置——认证样品尚未开始向制造商出货。此次泄露的 28 核配置属于中端定位，更高端的 Nova Lake-S SKU 预计将扩展到 16P+32E+4LPE、共 52 核的顶级配置。
 
-rss · TechPowerUp News · 8月18日 20:11
+rss · TechPowerUp News · 8月19日 12:21
 
-**背景**: DXVK 是一个开源翻译层，可以将 Direct3D 8/9/10/11 的 API 调用转换为 Vulkan，从而让 Windows 游戏通过 Wine 以及 Valve 的 Proton/Steam 在 Linux 上运行。Mesa 是 Linux 上常用的开源图形驱动栈，支持 Intel、AMD 等多家 GPU 厂商。帧缓冲压缩是一项成熟的 GPU 技术，通过在内存中对帧缓冲进行压缩来减少读写的数据量，从而节省带宽并降低功耗。Intel 独显 Arc 系列自发布以来一直在持续优化其 Linux 驱动，以缩小与 Windows 平台的历史性能差距。
+**背景**: Nova Lake-S 是 Intel 的下一代台式机 CPU 家族，接替当前的 Arrow Lake 系列，并引入了两种新的核心架构：Coyote Cove 用于性能核（P-cores），Arctic Wolf 用于效率核（E-cores），这两者均已通过 Intel 的 ISA 扩展参考文档得到确认。Intel 在 Nova Lake-S 上大幅增加了核心数量，最高配置每插槽可达 52 核。CPU-Z 是由 CPUID 开发的广泛使用的免费基准测试与系统信息工具，能够读取处理器识别数据并运行简单的单线程和多线程性能测试，因此泄露的 CPU-Z 验证记录成为早期硬件情报的常见来源。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/351694/frame-buffer-compression-promises-performance-boost-for-intel-gpus-on-linux">Frame Buffer Compression Promises Performance Boost for Intel ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DXVK">DXVK - Wikipedia</a></li>
-<li><a href="https://github.com/doitsujin/dxvk">GitHub - doitsujin/ dxvk : Vulkan -based implementation of D 3 D 8, 9, 10...</a></li>
+<li><a href="https://www.techpowerup.com/339224/intel-nova-lake-s-core-ultra-3-ultra-5-ultra-7-and-ultra-9-core-configurations-surface">Intel "Nova Lake-S" Core Ultra 3, Ultra 5, Ultra 7, and Ultra ...</a></li>
+<li><a href="https://www.igorslab.de/en/intel-bestaetigt-neue-cpu-kerne-coyote-cove-arctic-wolf-und-panther-cove/">Intel confirms new CPU cores : Coyote Cove , Arctic Wolf ... | igor´sLAB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CPU-Z">CPU-Z - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Intel GPUs`, `#Linux`, `#Mesa`, `#DXVK`, `#GPU Drivers`
+**标签**: `#Intel`, `#Nova Lake-S`, `#CPU leak`, `#hardware`, `#desktop processors`
+
+---
+
+<a id="item-14"></a>
+## [（新闻稿）LG Display 发布 FLiPP——下一代 OLED 技术](https://www.techpowerup.com/351713/lg-display-unveils-flipp-next-generation-oled-technology) ⭐️ 6.5/10
+
+LG Display 推出 FLiPP，这是一种无需使用精细金属掩膜（FMM）的 OLED 像素图案化新技术，有望带来更亮、更高效的显示屏，并具备更高的制造灵活性，该技术将在 2026 年 IMID 展会上首次亮相。
+
+rss · TechPowerUp News · 8月19日 11:53
+
+**标签**: `#OLED`, `#display technology`, `#LG Display`, `#hardware`, `#manufacturing`
+
+---
+
+<a id="item-15"></a>
+## [Windows 11 新增按应用控制摄像头、麦克风和位置权限](https://www.techpowerup.com/351708/windows-11-adds-per-app-control-for-microphone-location-and-camera-access) ⭐️ 6.5/10
+
+微软在 Windows 11 实验性 Insider 预览版 v26340.9212 中为 Win32 应用引入了摄像头、麦克风和位置访问的按应用权限控制，取代了之前只能全局开关的设置。此次更新还新增了运行时权限弹窗，用户可在首次使用时选择允许或拒绝访问，并在设置中随时撤销授权。 这是一项重要的隐私改进，用户可以按应用精细控制硬件访问权限——例如在 Zoom 中保留麦克风权限的同时阻止浏览器使用，从而降低被数字间谍软件侵扰的风险。它使 Windows 11 与多年以来一直提供细粒度按应用权限管理的 macOS、iOS 和 Android 保持一致。 该功能最早由 X 用户 Jakub 发现，并由 Windows Latest 独立复现；它专门针对传统的 Win32 桌面应用，而非 UWP 或打包应用。由于此更改随实验性 (26H1) Insider 渠道一同发布，普通 Windows 11 用户正式用上该功能可能还需要几个月的时间。
+
+rss · TechPowerUp News · 8月19日 09:07
+
+**背景**: Win32 应用是 Windows 平台上运行了几十年的传统 32 位（以及现在的 64 位）桌面程序，与之相对的是已经支持细粒度权限管理的现代通用 Windows 平台 (UWP) 或打包 MSIX 应用。Windows Insider 计划使用多个渠道（Dev、Beta、Release Preview、Canary 以及较新的实验性 26H1 渠道）让志愿者在功能正式发布前进行测试。过去只能全局开关硬件访问权限，意味着用户为保护隐私关闭麦克风时，合法的视频会议工具也会一并被禁用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://windowsforum.com/windows-news.4/windows-11-insider-experimental-26h1-feature-flags-new-channels-canary-split.416280/">Win11 Insider 26H1: Feature Flags, New Channels , Canary Split</a></li>
+<li><a href="https://blogs.windows.com/windows-insider/2026/08/17/announcing-new-builds-for-17-august-2026/">Announcing new builds for 17 August 2026 | Windows Insider Blog</a></li>
+
+</ul>
+</details>
+
+**标签**: `#windows-11`, `#privacy`, `#microsoft`, `#security`, `#operating-systems`
 
 ---
 
 <a id="item-16"></a>
-## [2026 年第二季度前五大 NAND 闪存厂商营收环比增长 77%](https://www.techpowerup.com/351676/combined-revenue-of-top-five-nand-flash-brands-rises-77-qoq-in-2q26-micron-moves-up-to-third-place) ⭐️ 5.5/10
+## [帧缓冲压缩通过 Mesa 26.3 与 DXVK 加入 Intel Arc Linux 驱动](https://www.techpowerup.com/351694/frame-buffer-compression-promises-performance-boost-for-intel-gpus-on-linux) ⭐️ 6.5/10
 
-根据 TrendForce 的数据，2026 年第二季度前五大上市 NAND 闪存厂商的合计营收环比增长 77%，达到 688.7 亿美元，主要得益于 AI 服务器对企业级 SSD 的强劲需求引发全市场供应短缺，使供应商能够通过合同谈判大幅提高平均售价。美光(Micron)在排名中上升至第三位。 这一营收的剧烈跃升表明 AI 基础设施建设正在重塑存储半导体行业，NAND 闪存现在与广为人知的 DRAM 和 HBM 一起受益。供应短缺和 ASP 上涨表明存储厂商拥有持续的定价能力，但这同时也推高了下游智能手机和 PC 厂商的物料成本。 供应商正在将资本支出优先分配给 DRAM 和 HBM，而非新增 NAND 闪存产能，这可能会使供应紧张态势延续到 2026 年第三季度。虽然 AI 服务器对企业级 SSD 的需求依然强劲，但由于零部件成本上升推高终端设备价格，智能手机和 PC 的消费需求预计仍将疲软。
+Intel Arc GPU 的 Linux 驱动正通过 Mesa 26.3-devel 中的一项新补丁获得帧缓冲压缩（FBC）支持，该补丁在 DXVK 转换层中针对 Direct3D 8、9、10 和 11 游戏启用了全局 FBC。该功能预计将于 2025 年 11 月进入 Mesa 稳定版，带来与 VKD3D-proton 已为 Direct3D 12 提供的带宽节省优化类似的改进。 此事意义重大，因为 Intel Arc GPU 在 Linux 游戏性能上历来落后于 AMD 和 NVIDIA，而像 FBC 这样的渐进式驱动优化可以通过减轻带宽受限的 Arc 硬件上的显存带宽压力来缩小这一差距。对于通过 Proton/Wine 运行仅限 Windows 的 Direct3D 8-11 游戏的 Linux 玩家来说，这些改进是透明的，无需用户配置即可生效。 合并请求中的性能提升范围从约 0.53% 到略高于 5% 不等，具体取决于游戏和场景复杂度。该补丁目前位于 Mesa 的 Git 开发分支中，将在 11 月并入稳定的 Mesa 26.3 版本；FBC 本身是 Intel 显卡硬件的一项内核级特性，通过压缩帧缓冲来降低显存带宽和功耗。
 
-rss · TechPowerUp News · 8月18日 09:07
+rss · TechPowerUp News · 8月18日 20:11
 
-**背景**: NAND 闪存是一种非易失性闪存，以块为单位存储数据，由于相比 NOR 闪存具有更低成本和更高密度，广泛应用于 SSD、智能手机等存储设备。ASP（平均售价）是行业重要指标，由总收入除以销售量计算得出，ASP 上涨通常意味着供应受限或需求强劲。HBM（高带宽内存）是一种与 GPU 等 AI 加速器共同封装的三维堆叠内存技术，能够以足够快的速度向数千条计算通道输送数据，已成为 AI 训练和推理工作负载的主要内存瓶颈。
+**背景**: DXVK 是一个开源的转换层（由开发者 Philip Rebohle，代号 'doitsujin' 维护），用于将 Direct3D 8/9/10/11 API 调用转换为 Vulkan，使 Windows 游戏能够通过 Wine 和 Valve 的 Steam Play（Proton）在 Linux 上运行。其姊妹项目 VKD3D-proton 则为 Direct3D 12 游戏执行相同的转换。Mesa 是 Linux 上广泛使用的经典开源图形驱动栈，支持 Intel、AMD 以及部分 Nouveau 硬件。帧缓冲压缩（FBC）是 Intel GPU 中的一项显示端硬件特性，可对扫描输出数据进行就地压缩，从而节省原本用于将未压缩帧内容复制到显示器的内存带宽。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Flash_memory">Flash memory - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://corporatefinanceinstitute.com/resources/accounting/average-selling-price-asp/">Average Selling Price (ASP) - Calculate, Formula, Uses</a></li>
+<li><a href="https://docs.kernel.org/gpu/intel-display/fbc.html">Frame Buffer Compression (FBC) — The Linux Kernel documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DXVK">DXVK - Wikipedia</a></li>
+<li><a href="https://github.com/HansKristian-Work/vkd3d-proton">GitHub - HansKristian-Work/vkd3d-proton: Fork of VKD3D ... HansKristian-Work/vkd3d-proton | DeepWiki Releases: HansKristian-Work/vkd3d-proton - GitHub VKD3D-Proton 3.0 Released: AMD FSR 4 & Anti-Lag Land in ... vkd3d — Packages — GNU Guix</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NAND flash`, `#semiconductor industry`, `#AI servers`, `#market analysis`, `#TrendForce`
+**标签**: `#Intel Arc`, `#Linux`, `#Mesa`, `#DXVK`, `#GPU Drivers`
 
 ---
 
 <a id="item-17"></a>
-## [AMD 声称 2026 机架级 AI 方案能效较 2024 平台提升 4 倍](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform-company-says-its-pacing-ahead-of-20x-efficiency-by-2030) ⭐️ 5.5/10
+## [Comcast 将 Xfinity 路由器变为家庭运动传感器，推出 Wi-Fi 感知功能](https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required) ⭐️ 6.5/10
 
-AMD 声称其 2026 年机架级 AI 系统相比 2024 年 AI 平台实现了 4 倍的能效提升，并表示有望在 2030 年达到 20 倍的能效目标。然而，AMD 并未提供任何实际的基准测试数据来支撑这些说法。 随着 AI 模型规模呈指数级增长，能效已成为 AI 数据中心的核心关切。如果 AMD 能兑现这些承诺，将为数据中心运营商带来显著的成本节约，有助于降低 AI 基础设施的环境足迹，同时也将加剧与 NVIDIA 机架级方案的竞争。 该声明本质上是一项缺乏工作负载类型、功耗测量方法或对比基线细节的市场宣传，没有任何独立基准测试验证。该路线图目标是在大约六年内实现 20 倍的累积能效提升，这一目标极其激进且完全未经证实。
+Comcast 推出了 Wi-Fi Motion（Wi-Fi 运动感知）功能，这是一项在 Xfinity 网关上运行的默认关闭的 opt-in（用户主动开启）功能，通过检测射频干扰来感知家中的运动，无需摄像头或额外硬件。用户可通过 Xfinity 应用配置此功能，切换追踪开关、调整运动和宠物灵敏度，并选择哪些联网设备参与感知。 此次部署将 Wi-Fi 感知技术同时带给了数百万 Comcast 用户，使运动感知成为 ISP（互联网服务提供商）提供设备内置的功能，而无需专用硬件。这标志着行业更广泛地转向利用现有无线基础设施实现智能家居和安全应用，同时也引发了关于 ISP 可以从其设备中已有的信号中收集多少行为数据的持续质疑。 该功能依赖于分析来自路由器和联网设备的无线电波如何被运动所干扰，通过解读射频干扰模式的变化来推断存在和运动。用户可通过 Xfinity 应用保持精细控制，包括逐设备选择和灵敏度调整，不过专家指出，opt-in 状态并不能消除所有隐私顾虑，因为底层信号数据已由 ISP 设备处理。
 
-rss · Tom's Hardware · 8月18日 14:00
+rss · Tom's Hardware · 8月19日 12:20
 
-**背景**: 机架级架构将整个机架（包括计算、网络、内存和存储）整合为统一的计算平台，而非将每台服务器视为独立单元，从而为需要大规模并行计算的 AI 工作负载优化资源分配。AMD 目前的旗舰 AI 加速器 Instinct MI300X 基于 CDNA 3 架构，配备 128 GB HBM3 显存，专为生成式 AI 和大语言模型训练而设计。AI 基础设施的能效已成为头等大事，因为训练大模型可能消耗兆瓦级电力，能效提升可直接转化为运营成本和可持续性方面的收益。
+**背景**: Wi-Fi 感知的工作原理是检测来自无线设备的电磁波在人或物体穿过信号路径时如何被反射、衍射或阻挡。由于 Wi-Fi 信号可以穿透墙壁、地板和天花板，少量战略性放置的节点（例如路由器和联网设备）就可以覆盖约 1500 平方英尺的整个住宅。IEEE 在 2025 年正式确定的 802.11bf 标准中纳入了这一用例，这是一项聚焦感知功能的 Wi-Fi 修正案，正日益被视为下一代无线硬件的标准能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.datacenterknowledge.com/servers/what-is-rack-scale-computing-and-why-is-it-relevant-again-">What Is Rack-Scale Computing? - datacenterknowledge.com</a></li>
-<li><a href="https://rocm.blogs.amd.com/artificial-intelligence/mlperf-training-v5.0/README.html">AMD ’s MLPerf Training Debut: Optimizing LLM... — ROCm Blogs</a></li>
+<li><a href="https://www.slashgear.com/1915477/wifi-router-motion-detection-technology-explained/">Yes, Wi - Fi Routers Can Detect Movement In Your House - Here's How</a></li>
+<li><a href="https://cleanpacket.com/can-wifi-see-through-walls-wifi-sensing">Can WiFi See Through Walls ? RF-Pose & WiFi Sensing Guide</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#AI infrastructure`, `#energy efficiency`, `#rack-scale computing`, `#data center`
+**标签**: `#wifi-sensing`, `#networking`, `#privacy`, `#comcast`, `#smart-home`
 
 ---
 
 <a id="item-18"></a>
-## [Hydra 超频工具为 RTX 50 系列显卡新增显存与功耗限制控制](https://www.tomshardware.com/pc-components/gpus/famed-overclocker-1usmus-updates-hydra-overclocking-tool-with-up-to-3000-mhz-memory-offset-new-update-gives-vram-and-power-limit-controls-to-rtx-50-series-gpus) ⭐️ 5.5/10
+## [三星晶圆厂路线图与特斯拉 165 亿美元订单背后的良率挑战](https://www.tomshardware.com/tech-industry/samsungs-fab-roadmap-examined) ⭐️ 6.5/10
 
-超频玩家 1usmus 发布了 Hydra 2.3B 版本,为 NVIDIA RTX 50 系列显卡新增显存与功耗限制控制功能,支持最高 +3000 MHz 的显存偏移,以及固定 125% 的功耗上限调整,且不区分具体的 RTX 50 系列型号。 此次更新解锁了 NVIDIA 在官方工具中未开放的调节参数,使极限超频玩家能够将 RTX 50 系列的 GDDR7 显存频率远超频至超过出厂规格,并维持更高的功耗以冲击基准测试成绩和超频竞赛。 该新功能突破了当前标准 GPU 调节工具所暴露的软件限制,据报道可将 GDDR7 显存速率推至最高 36 Gbps;125% 的功耗上限为固定值,在整个 RTX 50 系列中统一适用,且用户在应用这些偏移时应预期会有更高的散热输出。
+Tom's Hardware 审视了三星横跨韩国（平泽、华城、器兴）和美国（泰勒市）四座晶圆厂的半导体制造路线图，调查了持续存在的良率问题据称如何促成了三星拿下特斯拉价值 165 亿美元的芯片订单。 此事意义重大，因为三星能否满足特斯拉的芯片需求反映了其在代工市场相对于台积电的更广泛竞争力问题，而其美国泰勒工厂的成败将预示三星能否竞争前沿汽车和 AI 芯片合同。 三星的晶圆厂网络分布在两个国家的四个基地，泰勒工厂代表了其在美国的重大扩张。良率（每个晶圆上功能完好的芯片百分比）是直接影响芯片成本和竞争力的关键指标。
 
-rss · Tom's Hardware · 8月18日 11:40
+rss · Tom's Hardware · 8月19日 12:00
 
-**背景**: Hydra 是由超频圈内知名人物 1usmus 开发的第三方超频工具,最初创建的目的就是绕过 NVIDIA 对其显卡施加的软件锁定限制。RTX 50 系列基于 NVIDIA 的 Blackwell 架构,采用新一代 GDDR7 显存,相比上一代 RTX 40 系列所使用的 GDDR6X 具有显著更高的带宽余量。像 MSI Afterburner 这类标准工具通常仅开放有限的显存偏移和封顶的功耗限制,这正是为什么追求极致性能、冲击超频纪录的发烧友玩家青睐 Hydra 这类工具的原因。
+**背景**: 半导体制造工厂（晶圆厂）是制造集成电路的工厂。良率是指从一个晶圆上生产出功能正常的芯片占最大可能芯片数量的百分比，提高良率对降低制造成本至关重要。三星是全球最大的半导体制造商之一，在代工业务上与台积电竞争。据报道，特斯拉的订单涉及用于自动驾驶的下一代 AI 芯片，因此先进制程节点的制造良率成为三星竞争力的关键决定因素。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/famed-overclocker-1usmus-updates-hydra-overclocking-tool-with-up-to-3000-mhz-memory-offset-new-update-gives-vram-and-power-limit-controls-to-rtx-50-series-gpus">Overclocker updates Hydra overclocking tool with VRAM and ...</a></li>
-<li><a href="https://wccftech.com/hydra-tool-cracks-open-nvidia-rtx-50-vram-pushing-gddr7-to-36-gbps-power-limits-unlock/">HYDRA Tool Cracks Open NVIDIA’s RTX 50 VRAM ... - Wccftech</a></li>
-<li><a href="https://videocardz.com/newz/hydra-adds-unlocked-vram-and-power-limit-controls-for-geforce-rtx-50-series">HYDRA adds unlocked VRAM and Power Limit controls for GeForce ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant">Semiconductor fabrication plant - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yield_(metric)">Yield (metric) - Wikipedia</a></li>
+<li><a href="https://semiconductor.samsung.com/support/tools-resources/dictionary/semiconductor-glossary-yield/">Yield - Samsung Semiconductor Global</a></li>
 
 </ul>
 </details>
 
-**标签**: `#overclocking`, `#GPU`, `#RTX 50-series`, `#Nvidia`, `#hardware`
+**标签**: `#semiconductors`, `#Samsung`, `#chip-manufacturing`, `#Tesla`, `#tech-industry`
 
 ---
 
 <a id="item-19"></a>
-## [高通在 ModCon 2026 上开源 Modular 软件](https://www.servethehome.com/qualcomm-modular-amd-open-sourced-at-modcon-2026/) ⭐️ 5.5/10
+## [玩家用 44.5 万个原版 Minecraft 命令方块构建可运行 AI 聊天机器人](https://www.tomshardware.com/video-games/minecraft-creator-works-around-in-game-math-limitations-to-implement-an-llm-using-445k-command-blocks-clever-approach-shrank-initial-block-count-from-over-1-million-requires-no-mods-plugins-or-datapacks-to-work) ⭐️ 6.5/10
 
-高通在旧金山举办的 ModCon 2026 上宣布将其 Modular 软件平台开源，AMD 作为意外嘉宾出现在活动上。 鉴于高通斥资约 39 亿美元收购 Modular 以加强其 AI 软件生态，此次开源承诺标志着向社区驱动开发的重大转变。AMD 的意外亮相暗示了在 AI 基础设施领域潜在的跨厂商合作。 Modular 包含 Mojo 编程语言和 MAX AI 平台，均面向 AI 工作负载。计划在 2026 年秋季进行开源测试，考虑到收购金额之高，开发者正在关注供应商中立的保证。
+一位 Minecraft 创作者使用 445,782 个原版命令方块构建了一个可运行的 AI 聊天机器人，巧妙地绕过了命令方块的数学运算限制，在不使用任何模组、插件或数据包的情况下实现了大语言模型（LLM）。最初实现需要超过 100 万个命令方块，但创作者通过巧妙的解决方法将设计优化减少至 445,782 个。 这一成就展示了非凡的基于约束的创造性工程能力，证明了即使在 Minecraft 原版的严格限制下也能实现惊人的功能。它突显了红石计算社区突破边界的能力，并作为一个令人印象深刻的教育演示，展示了 LLM 在计算层面上的基本运作方式，尽管它对 AI 研究本身的实际影响有限。 与典型的基于红石的神经网络构建不同，本项目专门针对各个命令方块有限的数学运算能力，这正是创作者克服的关键技术难关。从超过 100 万个方块减少到 445,782 个方块代表着重大工程优化，使该构建在实际放置和运行中更加可行。
 
-rss · ServeTheHome · 8月18日 21:45
+rss · Tom's Hardware · 8月19日 09:30
 
-**背景**: Modular 是一家 AI 软件基础设施公司，高通以约 39 亿美元收购该公司以扩展其 AI 软件平台能力。Modular 开发了 Mojo（一种为 AI 和高性能计算工作负载设计的编程语言）以及 MAX（AI 模型部署平台）。ModCon 是 Modular 的年度开发者大会，2026 年版本于 8 月 18 日在旧金山举行。此次开源公告是在高通巨额收购投资的背景下发布的，引发了人们关于公司如何在专有利益与社区开放之间取得平衡的疑问。
+**背景**: Minecraft 命令方块是游戏中可以自动执行命令的特殊方块，主要用于创造模式世界、自定义地图和多人服务器。Minecraft 中的红石充当电路的模拟，能够表示二进制状态，使建造者能够在游戏中构建逻辑门、加法器甚至完整的计算机。用红石构建神经网络和 AI 系统是 Minecraft 社区中已知的挑战，但专门使用每个数学功能有限的命令方块增加了独特的难度层级。该构建不需要任何模组、插件或数据包，意味着它完全在原版游戏机制内运行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.servethehome.com/qualcomm-modular-amd-open-sourced-at-modcon-2026/">Qualcomm Modular Open -Sourced at ModCon 2026 - ServeTheHome</a></li>
-<li><a href="https://byteiota.com/qualcomm-modular-mojo-max-developer-impact/">Qualcomm ’s $3.9B Modular Deal: What Happens to Mojo... | byteiota</a></li>
-<li><a href="https://www.modular.com/modcon">ModCon 2026 : Compute Unlocked</a></li>
+<li><a href="https://learn.microsoft.com/en-us/minecraft/creator/documents/commandblocks?view=minecraft-bedrock-stable">Getting Started with Command Blocks | Microsoft Learn</a></li>
+<li><a href="https://wiki.bedrock.dev/commands/intro-to-command-blocks">Intro to Command Blocks | Bedrock Wiki</a></li>
+<li><a href="https://minecraft.fandom.com/wiki/Tutorials/Redstone_computers">Tutorials/ Redstone computers – Minecraft Wiki</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Qualcomm`, `#open-source`, `#ModCon`, `#AMD`, `#hardware`
+**标签**: `#minecraft`, `#creative-engineering`, `#command-blocks`, `#redstone-computing`, `#LLM-implementation`
+
+---
+
+<a id="item-20"></a>
+## [白宫更新关键技术清单：移除数据中心、电池和 AR](https://www.tomshardware.com/tech-industry/white-house-cuts-data-centers-batteries-and-ar-from-the-us-critical-technology-list) ⭐️ 6.5/10
+
+白宫在最新 24 页的文件中更新了关键和新兴技术清单，移除了数据中心、电池和增强现实（AR），同时新增了后量子密码学、集成光子学和高熵合金。这是自 2024 年 2 月以来该清单的首次修订。 该清单指导美国联邦研究资金、出口管制和国家安全优先事项，标志着政府认为哪些领域存在战略技术竞争。新增项目反映了对量子威胁网络安全和先进材料科学的前瞻性重视，而移除项目则表明它们现在被视为成熟的商业领域，而非新兴优先事项。 修订后的清单作为 24 页联邦文件的附录 A 发布，是正式的政策修订，而非简单的指南更新。新增后量子密码学与 NIST 最近对 PQC 算法的标准化工作相一致，表明联邦政府在跨机构的量子安全基础设施方面进行了协调。
+
+rss · Tom's Hardware · 8月19日 09:24
+
+**背景**: 后量子密码学（PQC）是指设计用于抵抗未来量子计算机攻击的密码算法，量子计算机可能会破解当前 RSA 和椭圆曲线密码等公钥加密方法。NIST 一直在主导 PQC 算法的标准化工作，并于 2024 年发布了首批标准。集成光子学涉及构建利用光（光子）而非电子进行计算和通信的微芯片，可实现更快的数据传输和更低的功耗。高熵合金是由多种主要元素以大致相等比例组成的金属材料，具有出色的强度和耐极端条件（如高温高压）的能力，在航空航天和能源应用中具有重要价值。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Post-quantum_cryptography">Post-quantum cryptography - Wikipedia</a></li>
+<li><a href="https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography">What Is Post-Quantum Cryptography? | NIST</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Photonic_integrated_circuit">Photonic integrated circuit - Wikipedia</a></li>
+<li><a href="https://www.sciencedirect.com/topics/physics-and-astronomy/high-entropy-alloys">sciencedirect.com/topics/physics-and-astronomy/ high - entropy - alloys</a></li>
+
+</ul>
+</details>
+
+**标签**: `#policy`, `#post-quantum-cryptography`, `#photonics`, `#critical-technologies`, `#us-government`
 
 ---
