@@ -5,444 +5,425 @@ date: 2026-08-20
 lang: zh
 ---
 
-> 从 86 条内容中筛选出 20 条重要资讯。
+> 从 80 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [Go 1.27 发布：泛型方法、标准 UUID 包与后量子加密](#item-1) ⭐️ 9.0/10
-2. [味之素据报道将中国 ABF 芯片封装薄膜供应削减 30%](#item-2) ⭐️ 8.5/10
-3. [MicroSD 卡三年极端测试：351 张卡累计写入 133PB 数据——闪迪成异常值，7 张测试卡中有 6 张损坏](#item-3) ⭐️ 8.5/10
-4. [Stripe 以超 70 亿美元收购 LLM 路由平台 OpenRouter](#item-4) ⭐️ 8.0/10
-5. [Linux Kernel 7.3 调度器改进显著提升低功耗 PC 游戏帧率](#item-5) ⭐️ 7.5/10
-6. [LG Display 发布 FLiPP：无 FMM 的 OLED 像素图案化技术](#item-6) ⭐️ 7.5/10
-7. [三星晶圆厂路线图：泰勒、平泽项目及 165 亿美元特斯拉交易背后的良率困境](#item-7) ⭐️ 7.5/10
-8. [英伟达 H200 芯片抵达中国，但香港电力限制阻碍使用](#item-8) ⭐️ 7.5/10
-9. [Cerebras 发布 WSE-3 Turbo 处理器及 CS-4 机柜级系统](#item-9) ⭐️ 7.5/10
-10. [谷歌用 Google Forms/网盘取代 Git 标签分发安卓源码](#item-10) ⭐️ 7.0/10
-11. [一次玩笑般的域名购买，竟演变成地缘政治博弈](#item-11) ⭐️ 7.0/10
-12. [使用几何学与 CUDA 编程定位一张随机岛屿照片的地理位置](#item-12) ⭐️ 7.0/10
-13. [陶哲轩论人工智能与数学的未来](#item-13) ⭐️ 7.0/10
-14. [Ornith-1.5 发布 9B 与 MoE 35B-A3B 模型，采用自改进训练方法](#item-14) ⭐️ 7.0/10
-15. [IBM 将量子低温系统模块化，但扩展难题依然存在](#item-15) ⭐️ 7.0/10
-16. [三星因 AI 需求将 4nm/5nm/8nm 代工价格上调最高 15%](#item-16) ⭐️ 6.5/10
-17. [华为腾讯在贵州农村建设 AI 数据中心，推进'东数西算'战略](#item-17) ⭐️ 6.5/10
-18. [台湾将向每位居民发放 314 美元 AI 出口红利](#item-18) ⭐️ 6.5/10
-19. [开发者利用 Claude AI 为仅支持 Windows 的打印机编写原生 macOS 驱动](#item-19) ⭐️ 6.5/10
-20. [Minecraft 玩家用 44.5 万命令方块构建可运行的 LLM 聊天机器人](#item-20) ⭐️ 6.5/10
+1. [Stripe 以超 70 亿美元收购 AI 路由平台 OpenRouter](#item-1) ⭐️ 8.0/10
+2. [Go 1.27 发布：新增 UUID 标准库、后量子加密和新浮点解析算法](#item-2) ⭐️ 8.0/10
+3. [Linux 7.3 调度器显著提升低功耗硬件游戏帧率](#item-3) ⭐️ 7.5/10
+4. [Synopsys 在 5nm 工艺上验证首个 64 GT/s 3D PCIe 6.0 PHY](#item-4) ⭐️ 7.5/10
+5. [中芯国际营收创新高 30 亿美元，制裁红利下提价](#item-5) ⭐️ 7.5/10
+6. [Cerebras 发布 WSE-3 Turbo 处理器及首个机架级 CS-4 系统](#item-6) ⭐️ 7.5/10
+7. [AliExpress 使用静默 WebAudio 指纹追踪，干扰蓝牙多点连接](#item-7) ⭐️ 7.0/10
+8. [Google 停止向 AOSP 推送 Pixel 内核与驱动代码的 Git 标签](#item-8) ⭐️ 7.0/10
+9. [IBM 模块化量子低温架构，扩展难题仍待破解](#item-9) ⭐️ 7.0/10
+10. [英国初创公司 Callosum 融资 1 亿美元](#item-10) ⭐️ 7.0/10
+11. [拥有 250 个数据中心的弗吉尼亚州县开始限制建设——劳登县 250 多个数据中心使其成为美国最富有的县之一，但居民正在强烈反对](#item-11) ⭐️ 6.5/10
+12. [传统超级计算机排名在 AI 时代失去意义](#item-12) ⭐️ 6.5/10
+13. [Pine64 因内存短缺暂停 Linux 设备生产至 2027 年中](#item-13) ⭐️ 6.5/10
+14. [三星因 AI 需求将先进制程代工价格上调最高 15%](#item-14) ⭐️ 6.5/10
+15. [中国将大规模 AI 数据中心集群迁至内陆省份以利用富余能源——"东数西算"战略推动华为、腾讯等中国科技巨头在贵州建设 AI 基础设施](#item-15) ⭐️ 6.5/10
+16. [人类爱宠物，猴子也是](#item-16) ⭐️ 6.3/10
+17. [Windows XP「红月沙漠」壁纸：一场罗夏墨迹测验式的争议（2003）](#item-17) ⭐️ 6.0/10
+18. [文章论述圈数在计算中优于弧度制](#item-18) ⭐️ 6.0/10
+19. [Unsloth 发布 Dynamic 3.0 GGUFs，提升本地 LLM 推理量化方案](#item-19) ⭐️ 6.0/10
+20. [解锁被锁定/停用的电子垃圾 Cricut Maker](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Go 1.27 发布：泛型方法、标准 UUID 包与后量子加密](https://go.dev/blog/go1.27) ⭐️ 9.0/10
+## [Stripe 以超 70 亿美元收购 AI 路由平台 OpenRouter](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) ⭐️ 8.0/10
 
-Go 1.27 引入了泛型方法，新增了标准库 UUID 包，通过 MLDSA 算法集成了后量子加密支持，并使用 Russ Cox 的 uscale 算法提升了浮点数解析与格式化的性能。 此次发布通过支持参数化方法，弥补了 Go 类型系统自 1.18 引入泛型以来长期存在的短板。标准 UUID 包与 MLDSA 的集成减少了对第三方依赖的需求，并为整个生态系统迈入后量子时代做好了准备。 泛型方法现在允许在接收者上使用类型参数，泛型函数也可以在不显式标注类型参数的情况下被调用。新增的 crypto/mldsa 包实现了 FIPS 204（即原 CRYSTALS-Dilithium），而 uscale 算法则以更简洁、更快速的设计替代了此前的浮点解析方案。
+Stripe 宣布收购广受欢迎的 AI 模型路由与代理服务 OpenRouter，据报道交易估值超过 70 亿美元。此次收购将关键的人工智能路由基础设施整合到这家最大的金融科技公司旗下。 OpenRouter 是连接 AI 应用与众多大语言模型提供商的关键中间件层，抽象了各提供商特定的 API，并为数十万开发者提供了成本优化、故障转移和供应商中立性。此次收购标志着 AI 基础设施栈的重大整合，可能重塑开发者访问、路由和支付大模型服务的方式。 OpenRouter 在两个独立的路由层上运行 —— 模型路由（由哪个模型回答）和提供商路由（由哪个提供商服务该模型）——并提供 Auto Router 功能，利用过去 7 天滚动窗口的聚合市场支出数据来按任务类型选择最优模型。虽然默认路由选择最便宜的提供商（并不总是性能最优的），但高级用户可以配置诸如带性能下限的最便宜提供商等策略，该平台还提供可在 100 多个提供商间工作的 OpenAI 兼容端点。
 
-hackernews · database64128 · 8月19日 18:33 · [社区讨论](https://news.ycombinator.com/item?id=49365405)
+hackernews · rvz · 8月19日 17:32 · [社区讨论](https://news.ycombinator.com/item?id=49364559)
 
-**背景**: Go 是一门由 Google 开发的静态类型编译型语言，以简洁性、强大的并发支持以及快速的编译速度著称。泛型在 Go 1.18（2022 年 3 月）中被引入，但当时并未覆盖方法，开发者不得不借助自由函数等变通方案。MLDSA 是一种基于格的数字签名算法，于 2024 年 8 月被 NIST 标准化为 FIPS 204，旨在抵御未来量子计算机的攻击。UUID 在 Go 中此前主要通过流行的第三方库 github.com/google/uuid 使用，而浮点数解析性能一直是 Go 标准库持续优化的重点方向。
+**背景**: 大模型路由服务（也称为 LLM 网关或代理）是应用程序与众多大语言模型提供商（如 OpenAI、Anthropic、Google 等）之间的中介，负责在不同 API 之间进行调用转换，处理提供商宕机时的故障转移，并优化成本或性能。OpenRouter 通过提供一个可在 100 多个提供商之间工作的统一 OpenAI 兼容端点，已成为此类服务中最受欢迎的服务之一，使开发者能够避免供应商锁定。Stripe 主要作为支付处理平台为人所知，但一直扩展其在 AI 基础设施中的角色，并越来越多地将自身定位为 AI 业务的关键金融层。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.encryptionconsulting.com/education-center/ml-dsa-fips-204/">ML-DSA (FIPS 204) Explained</a></li>
-<li><a href="https://research.swtch.com/fp">research!rsc: Floating-Point Printing and Parsing Can Be Simple And Fast (Floating Point Formatting, Part 3)</a></li>
-<li><a href="https://www.theregister.com/2026/03/02/generic_methods_go/">Generic methods approved for Go , devs miss other features</a></li>
+<li><a href="https://openrouter.ai/blog/insights/model-routing/">How OpenRouter Model Routing Works: Providers, Fallbacks & Auto Router — OpenRouter Blog</a></li>
+<li><a href="https://openrouter.ai/docs/guides/routing/routers/auto-router">Auto Router - Intelligent Model Selection</a></li>
+<li><a href="https://medium.com/@milesk_33/a-practical-guide-to-openrouter-unified-llm-apis-model-routing-and-real-world-use-d3c4c07ed170">A practical guide to OpenRouter: Unified LLM APIs, model routing, and real-world use | by Miles K. | Medium</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区情绪非常积极，开发者们强调泛型方法对数据库工具包和 HTTP 处理器等项目的实际价值。多位评论者预计将会出现大量将 google/uuid 替换为新标准包的 Pull Request，Kubernetes 很可能是首个迁移的大型项目。社区还赞扬了由 Filippo Valsorda 领导的 Go 加密团队在后量子安全方面的前瞻性，以及 Russ Cox 的 uscale 算法在浮点解析性能上的改进。
+**社区讨论**: 社区对 OpenRouter 产品总体表达了积极态度，长期用户赞扬了诸如带性能下限的最便宜提供商等高级路由功能。评论员的一个重要见解解释了为何代理服务能拥有 80 亿美元估值：通过聚合需求，OpenRouter 创造了一个竞争性市场，既惠及用户（无供应商锁定），也惠及提供商（以最低获客成本获取收入和数据）。部分用户批评了"Open"品牌名称具有误导性，并推荐了 Cortecs.ai 等欧洲替代服务。
 
-**标签**: `#go`, `#programming-languages`, `#release-notes`, `#generics`, `#cryptography`
+**标签**: `#AI infrastructure`, `#acquisitions`, `#Stripe`, `#OpenRouter`, `#LLM routing`
 
 ---
 
 <a id="item-2"></a>
-## [味之素据报道将中国 ABF 芯片封装薄膜供应削减 30%](https://www.tomshardware.com/tech-industry/semiconductors/ajinomoto-reportedly-cuts-abf-chip-packaging-film-supply-to-china-by-30-percent) ⭐️ 8.5/10
+## [Go 1.27 发布：新增 UUID 标准库、后量子加密和新浮点解析算法](https://go.dev/blog/go1.27) ⭐️ 8.0/10
 
-这一 30%的供应削减标志着中美技术与材料战从稀土领域升级到先进半导体封装基板领域。由于味之素在 ABF 市场上几乎处于垄断地位，即使部分减供也会威胁到中国对依赖倒装 BGA 和高密度互连（HDI）基板设计的高性能 CPU、GPU、FPGA 和 ASIC 的生产。 ABF 是由有机环氧树脂、硬化剂和无机微粒填料组成的介质薄膜，具有超低热膨胀系数（CTE）、高耐热性和优异的电气绝缘性能——这些特性对先进 IC 封装至关重要。认证一家新的 ABF 供应商通常需要漫长的客户端验证流程，可能耗时数月甚至数年，这意味着减供的影响可能在国产替代品就绪之前就已充分显现。
+Go 1.27 已正式发布，引入了新的标准库 `uuid` 包、通过 `crypto/mldsa` 提供后量子密码学支持、结构体字面量改进、泛型方法支持，以及 Russ Cox 提出的用于浮点数解析与格式化的新 `uscale` 算法。 作为最广泛使用的系统编程语言之一的重要版本，Go 1.27 影响数百万后端、云原生和基础设施项目。标准库 `uuid` 包的加入将引发整个生态系统的迁移（例如 Kubernetes 弃用 `google/uuid`），而前瞻性的后量子加密支持则让 Go 应用在量子攻击变得可行之前就为后量子时代做好准备。 按大小特化的内存分配使小对象分配成本降低最多 30%，SIMD 支持也得到了改进。Russ Cox 的 `uscale` 算法简化和加速了浮点数与字符串之间的相互转换，取代了之前的实现。结构体字面量改进有一个注意事项：当嵌入结构体包含与外层结构体同名字段时，初始化行为可能与开发者的预期不符。
 
-rss · Tom's Hardware · 8月19日 11:40
+hackernews · database64128 · 8月19日 18:33 · [社区讨论](https://news.ycombinator.com/item?id=49365405)
 
-**背景**: ABF（味之素增层膜）是味之素集团利用其在精细化工领域的专业知识开发的专用薄膜介质材料。它是倒装 BGA 基板和高密度互连（HDI）PCB 中铜布线层之间的行业标准绝缘层，用于封装处理器、GPU、FPGA 和 ASIC。味之素长期以来是该材料的主导供应商——在许多先进等级中是唯一的供应商——使其成为先进半导体封装供应链中的关键瓶颈，其地位类似于 ASML 在光刻领域或台积电在先进代工领域。
+**背景**: Go 是 Google 设计的静态类型编译语言，以简洁性、并发性和快速编译著称，广泛应用于云基础设施领域（Docker、Kubernetes、Terraform）。UUID（通用唯一标识符）是一种 128 位标识符，用于在分布式系统中唯一标识记录；在 Go 1.27 之前，社区一直依赖第三方包 `github.com/google/uuid`。后量子密码学（PQC）是指据信能抵抗未来量子计算机攻击的密码学算法，NIST 已标准化了多种此类算法，包括 ML-DSA（前称 CRYSTALS-Dilithium）。浮点数的解析与格式化是计算机科学中一个公认的棘手领域，正确性和性能常常难以兼得。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://resources.pcb.cadence.com/blog/why-ajinomoto-build-up-film-abf-is-used-in-ic-packaging">Why Ajinomoto Build-Up Film (ABF) is Used in IC Packaging</a></li>
-<li><a href="https://www.ajinomoto.com/innovation/our_innovation/buildupfilm">Ajinomoto Build-up Film (ABF) | Innovation Story | Innovation | The Ajinomoto Group Global Website - Eat Well, Live Well.</a></li>
-<li><a href="https://pcbmake.com/abf-substrate/">ABF Substrate: Key to Advanced Semiconductor Packaging</a></li>
+<li><a href="https://research.swtch.com/fp">research!rsc: Floating-Point Printing and Parsing Can Be Simple And Fast (Floating Point Formatting, Part 3)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Post-quantum_cryptography">Post-quantum cryptography - Wikipedia</a></li>
+<li><a href="https://www.phoronix.com/news/Go-1.27">Go Language 1 . 27 Adds Generic Methods, Struct Improvement ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#supply-chain`, `#geopolitics`, `#ABF`, `#chip-packaging`
+**社区讨论**: 社区情绪总体积极。评论者重点赞扬了 Filippo Valsorda 在后量子加密方面的前瞻性工作，以及 Russ Cox 的 `uscale` 算法。社区预期将出现一波将 `google/uuid` 替换为新标准库的迁移拉取请求，Kubernetes 被预测为首个迁移的主要项目。开发者欢迎泛型方法和支持类型推导的泛型函数，同时也提醒结构体字面量改进在嵌入结构体场景下，当外层和内层字段重名时可能引入隐蔽的 bug。
+
+**标签**: `#go`, `#programming-languages`, `#release-notes`, `#post-quantum-cryptography`, `#software-engineering`
 
 ---
 
 <a id="item-3"></a>
-## [MicroSD 卡三年极端测试：351 张卡累计写入 133PB 数据——闪迪成异常值，7 张测试卡中有 6 张损坏](https://www.tomshardware.com/pc-components/microsd-cards/microsd-card-testing-database-celebrates-third-anniversary-with-133-petabytes-of-data-written-across-4-6-million-cycles-hundreds-of-cards-tested-to-failure-reveal-sandisk-as-the-outlier-with-6-failures-of-the-7-tested) ⭐️ 8.5/10
+## [Linux 7.3 调度器显著提升低功耗硬件游戏帧率](https://www.techpowerup.com/351727/linux-7-3-scheduler-boosts-fps-for-low-power-hardware) ⭐️ 7.5/10
 
-对 351 张 MicroSD 卡进行的三年极端测试揭示了令人惊讶的可靠性排名：闪迪意外地有 7 张测试卡中的 6 张损坏，而一些不太知名的品牌反而更加耐用。
+Linux Kernel 7.3 引入了多项调度器改进，包括提升效率、降低延迟，并新增对非对称 CPU 架构（如 Intel 混合 P 核/E 核设计）的支持。在使用 Intel Core i7-2600K 搭配 AMD Radeon RX 580，通过 GOG 平台及 GE-Proton 10-34 运行《Shadows Awakening》的基准测试中，最低帧率从 4.0 跃升至 29.0（提升 7.25 倍），平均帧率提升 25%，平均帧时间改善 50%。 这些调度器改进显著提升了 Linux 在低功耗和老旧硬件上的游戏体验，通过更好的帧时间一致性和减少卡顿让游戏运行更加流畅。随着 Intel 混合 P 核/E 核设计在桌面和笔记本市场日益普及，对非对称架构的支持也变得愈发重要，有助于 Linux 在任务调度方面更好地与 Windows 竞争。 基准测试使用的是已有十余年历史的 Sandy Bridge 时代 Intel Core i7-2600K，表明即使是老旧低功耗系统也能从这些调度器变更中获得巨大收益。GE-Proton 10-34 是 Valve 官方 Proton 兼容层的社区维护分支，添加了额外的补丁以在 Linux 上运行 Windows 游戏，通常能带来官方 Proton 尚未提供的更佳性能。
 
-rss · Tom's Hardware · 8月19日 11:20
+rss · TechPowerUp News · 8月19日 18:12
 
-**标签**: `#microSD`, `#hardware-testing`, `#storage-reliability`, `#flash-memory`, `#long-term-study`
+**背景**: Linux 内核调度器负责决定哪些任务在何时运行在哪些 CPU 核心上。在 Intel 第 12 代及更新一代处理器这类非对称架构上——即将面向高负载单线程任务的性能核（P-core）与面向多线程后台任务的能效核（E-core）整合在同一芯片上——调度器必须智能地分配负载，而 Linux 在这方面历史上一直处理得不如 Windows 优雅。GE-Proton 由开发者 GloriousEggroll 维护，是 Proton 的流行自定义构建版本，包含额外的补丁以便通过 Steam 在 Linux 上运行 Windows 游戏。1% Low 和 0.1% Low 帧率指标分别衡量游戏过程中 1% 和 0.1% 时间段内出现的最低帧率，是衡量卡顿与感知流畅度的关键指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.intel.com/content/www/us/en/support/articles/000091896/processors.html">What Is Performance Hybrid Architecture?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proton_(software)">Proton (software) - Wikipedia</a></li>
+<li><a href="https://www.technewstoday.com/why-1-lows-matters-in-gaming/">Why 1 % Lows Matters in Gaming ? - Tech News Today</a></li>
+
+</ul>
+</details>
+
+**标签**: `#linux`, `#kernel`, `#scheduler`, `#gaming-performance`, `#intel`
 
 ---
 
 <a id="item-4"></a>
-## [Stripe 以超 70 亿美元收购 LLM 路由平台 OpenRouter](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) ⭐️ 8.0/10
+## [Synopsys 在 5nm 工艺上验证首个 64 GT/s 3D PCIe 6.0 PHY](https://www.tomshardware.com/tech-industry/semiconductors/synopsys-validates-a-pcie-6-phy-inside-a-face-to-face-3d-stack) ⭐️ 7.5/10
 
-Stripe 宣布收购广受欢迎的 LLM 路由与代理平台 OpenRouter，交易据报道估值超过 70 亿美元。OpenRouter 提供统一 API 跨多个大语言模型提供商路由请求，此次收购完成后它将成为 Stripe 支付与金融基础设施栈的一部分。 此次收购标志着 AI 基础设施领域的重要整合，凸显了位于应用与 LLM 提供商之间路由/中间件层的战略价值。它也使 Stripe 能够通过集成用量计费、成本归因以及为 AI Agent 和应用计量来从 AI 驱动的商业中获益。 OpenRouter 的价值远不止简单的模型路由：它提供可配置的路由策略（例如设定性能下限下选择最便宜的提供商）、透明的提供商定价以及跨众多模型厂商的单一 API。社区讨论也提出了对中间件与开放协议的担忧，并将其与开放银行（Open Banking）标准进行了类比。
+Synopsys 公布了业界首款采用 3D 面贴面（face-to-face）堆叠封装的 PCIe 6.0 PHY 测试芯片的硅片验证结果，该芯片采用 5nm 工艺，数据速率达 64 GT/s。这一成果是通过将现有的 2D 测试芯片拆分为多个晶圆层，再进行面贴面堆叠实现的。 这一里程碑证明 PCIe 6.0 信号传输可以在先进的 3D 封装内可靠工作，这对于 AI 加速器、数据中心和高性能计算等基于 chiplet 的设计至关重要——在这些场景中，带宽密度和短距芯片间互连日益重要。在 3D 堆叠中验证 PCIe 6.0 PHY，也为 I/O 芯片与计算芯片的更紧密集成铺平了道路。 5nm 工艺节点和面贴面堆叠方式表明芯片之间采用了混合键合或细间距微凸点互连，从而可以在不使用长距离封装外走线的情况下实现高密度垂直信号传输。PCIe 6.0 使用 PAM-4 信号调制，在 3D 堆叠内以 64 GT/s 速率运行，对电源完整性、热管理和信号完整性提出了严苛要求，本次演示正是针对这些挑战进行的验证。
 
-hackernews · rvz · 8月19日 17:32 · [社区讨论](https://news.ycombinator.com/item?id=49364559)
+rss · Tom's Hardware · 8月20日 13:32
 
-**背景**: LLM 代理或路由层充当中介，将来自应用的请求转发到一个或多个语言模型提供商，并在过程中应用路由规则、成本优化和策略控制。这类似于传统的网络代理，但应用于 AI 推理流量。OpenRouter 通过提供跨数十家提供商的单一统一 API 成为此类平台中使用最广泛的之一，使开发者能够避免供应商锁定，并自动从提供商之间的价格和性能竞争中受益。
+**背景**: PCIe 6.0 是 PCI Express 标准的最新一代，通过采用 PAM-4 信号调制和基于 FLITS 的帧结构，将单通道数据速率从 PCIe 5.0 的 32 GT/s 翻倍至 64 GT/s。PHY（物理层）负责设备间实际的电信号传输。面贴面 3D 堆叠是一种先进的封装技术，将两块（或多块）晶圆的有源面相对键合，使用硅通孔（TSV）或混合键合实现短距离、高带宽的垂直互连。通过将 2D 测试芯片解聚为多个层再进行堆叠，工程师展示了传统的平面 IP 模块可以被重新架构以适配 3D 集成方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openrouter.ai/">OpenRouter</a></li>
-<li><a href="https://www.merge.dev/blog/what-is-openrouter">What is OpenRouter ? Here's what you need to know</a></li>
-<li><a href="https://www.truefoundry.com/blog/llm-proxy">What Is LLM Proxy?</a></li>
+<li><a href="https://www.synopsys.com/articles/pcie-6-designs.html">Optimizing PCIe 6.0 Designs at 64GT/s | Synopsys IP</a></li>
+<li><a href="https://www.synopsys.com/dw/ipdir.php?ds=dwc_pcie6_phy">PHY IP for PCI Express 6.x | Synopsys</a></li>
+<li><a href="https://en.sunshinepcb.com/news/Industry/PCB_knowledge_Base/96.html">PCIe 6.0 Technical Features and PCB Material</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区对 OpenRouter 产品本身持较为积极的态度，用户称赞其开发体验以及聚合提供商和用户的网络效应。然而，也有评论者对中间件而非开放协议表示保留意见，更倾向于采用基于开放银行（Open Banking）标准的「开放路由」模式。其他评论者则强调 OpenRouter 提供的功能远不止模型选择——包括细粒度的路由策略、计量和成本控制——并推测 Stripe 的兴趣反映了 AI 原生记账、计费及对自主 Agent 进行对账基础设施的即将到来的需求。
-
-**标签**: `#acquisition`, `#AI-infrastructure`, `#Stripe`, `#OpenRouter`, `#LLM-routing`
+**标签**: `#PCIe 6.0`, `#semiconductors`, `#3D stacking`, `#advanced packaging`, `#Synopsys`
 
 ---
 
 <a id="item-5"></a>
-## [Linux Kernel 7.3 调度器改进显著提升低功耗 PC 游戏帧率](https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware) ⭐️ 7.5/10
+## [中芯国际营收创新高 30 亿美元，制裁红利下提价](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand) ⭐️ 7.5/10
 
-Linux Kernel 7.3 引入了调度器改进，为低功耗 PC 硬件带来显著的游戏性能提升，并新增了对非对称 CPU 架构（如 Intel 混合 P 核/E 核设计）的支持。在搭载 Intel Core i7-2600K 和 AMD Radeon RX 580 的平台上运行《Shadows Awakening》基准测试，平均帧率提升了 25%，平均帧时间改善了 50%，最低帧率从 4.0 跃升至 29.0——提升幅度达 7.25 倍。 这些改动对 Linux 游戏社区意义重大，因为它们能让现有的低功耗和老旧硬件在游戏体验上明显更加流畅，有可能延长这些旧系统在游戏场景中的可用寿命。同时，新增的非对称 CPU 调度支持也让使用现代 Intel 混合架构的用户受益——此前不合理的任务分配常常导致调度效率低下。 改进覆盖了平均帧率、1% 低帧、0.1% 低帧以及帧时间一致性，让整体游戏体验更加流畅。调度器的改动同时针对效率和延迟，并新增了对非对称 CPU 拓扑的一级支持——此前在该场景下，调度器常出现让高性能核心闲置、而任务却堆积在低速核心上的问题。
+中芯国际公布了首个 30 亿美元的季度营收，同比增长 36.1%，净利润增长近三倍至 4.792 亿美元。由于供应短缺，中芯国际正在提高晶圆价格，充分利用美国制裁将中国国内 AI 芯片需求从外国代工厂隔离出来的局面。 这表明美国出口管制正在无意中为中国最大的代工厂创造一个受保护的国内市场，中芯国际承接了本应流向台积电、三星或其他先进代工厂的需求。这一结果加剧了美国盟友与中国半导体生态系统之间的技术分化，重塑全球供应链格局。 中芯国际占据全球代工市场约 5-6%的份额，是中国领先的芯片制造商，在硅晶圆上为其他公司设计的集成电路进行制造。公司能够提价表明需求已超过其现有产能，这很可能是制裁导致中国 AI 芯片设计者无法在台积电获取先进制程的结果。
 
-rss · TechPowerUp News · 8月19日 18:12
+rss · Tom's Hardware · 8月20日 11:20
 
-**背景**: Linux 内核调度器负责决定在任何时刻由哪个 CPU 核心运行哪个任务。自 Intel 第 12 代 Alder Lake 起，桌面和移动 CPU 采用了混合架构，将注重性能的性能核（P 核）与注重能效的能效核（E 核）结合在一起。在这些非对称核心之间合理调度任务是一个挑战，在此前的内核工作中，调度器曾出现让高性能核心闲置的问题。GE-Proton（前身为 Proton-GE）是由社区维护的 Valve Proton 兼容层分支，可帮助仅支持 Windows 的游戏通过 Steam 在 Linux 上运行，通常比官方版本提供更好的游戏兼容性。
+**背景**: 半导体代工厂是为其他公司设计的芯片进行制造的工厂。中芯国际是中国最大的代工厂，在全球代工厂中名列前茅，尽管在工艺技术上仍落后于全球领导者台积电。美国已逐步收紧对华先进半导体设备和芯片的出口管制，限制中国获取尖端制程（通常为 7nm 及以下）和 EUV 光刻技术。这些制裁最初旨在减缓中国的 AI 和军事能力发展，但意外地将国内芯片需求集中到了中芯国际等中国代工厂，使其现在能够收取溢价。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://eagleeyet.net/blog/cpu-architecture/intel-p-cores-vs-e-cores-what-they-are-and-why-they-matter-in-modern-cpus/">Intel P - Cores vs E - Cores : Hybrid Architecture Insights</a></li>
-<li><a href="https://lwn.net/Articles/880367/">Fixing a corner case in asymmetric CPU packing [LWN.net]</a></li>
-<li><a href="https://www.gamingonlinux.com/guides/view/how-to-install-ge-proton-on-steam-deck-steamos-linux/">How to install GE-Proton on Steam Deck, SteamOS, Linux | GamingOnLinux</a></li>
+<li><a href="https://fullforms.com/SMIC">Full Form of SMIC in Semiconductor Companies | FullForms</a></li>
+<li><a href="https://www.dw.com/en/will-the-us-succeed-in-starving-china-of-semiconductors/a-65764109">Will the US succeed in starving China of semiconductors ?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wafer_(electronics)">Wafer (electronics) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Linux`, `#Kernel`, `#Scheduler`, `#Gaming`, `#Performance`
+**标签**: `#semiconductors`, `#SMIC`, `#US-sanctions`, `#AI-chips`, `#supply-chain`
 
 ---
 
 <a id="item-6"></a>
-## [LG Display 发布 FLiPP：无 FMM 的 OLED 像素图案化技术](https://www.techpowerup.com/351713/lg-display-unveils-flipp-next-generation-oled-technology) ⭐️ 7.5/10
+## [Cerebras 发布 WSE-3 Turbo 处理器及首个机架级 CS-4 系统](https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/) ⭐️ 7.5/10
 
-LG Display 正式发布 FLiPP（FMM-Less innovative Pixel Patterning，FMM 无需创新像素图案化）技术，这是一种专有的 OLED 制造工艺，摆脱了用于 RGB 子像素图案化的传统精细金属掩膜（FMM）流程。据 LG Display 称，FLiPP 可实现最高 1.6 倍的亮度提升、2.4 倍的使用寿命延长，以及约 13% 的功耗下降。 在 OLED 制造领域，去除 FMM 工序一直是长期未能攻克的难题，因为金属掩膜成本高昂、在大尺寸下容易变形，且限制了分辨率和面板尺寸。如果 FLiPP 能够实现量产，有望降低 OLED 制造成本、突破更大尺寸和更高分辨率的面板瓶颈，并加剧与三星显示 QD-OLED 以及新兴 MicroLED 技术的竞争。 FLiPP 将于 2026 年在釜山举办的国际信息显示会议（IMID）上首次公开展示，LG Display 将从 8 月 19 日起设立为期三天的专属展区。该技术面向 OLED 显示器和电视市场，但 LG Display 尚未披露良率、合作的制造设备厂商以及商用面板的具体量产时间表。
+Cerebras 推出了 WSE-3 晶圆级处理器的升级版本 WSE-3 Turbo，并发布了公司首个机架级 AI 推理系统 CS-4，每个系统搭载三颗 WSE-3 Turbo 芯片。这标志着 Cerebras 从单芯片系统（CS-3）向机架级架构的转变，主要面向大规模 AI 推理工作负载。 这使得 Cerebras 在与 NVIDIA 的机架级产品（如 GB300 NVL72）以及 AMD Helios 的竞争中更具优势，为 AI 基础设施市场提供了一种差异化的替代架构。机架级形态对于超大规模部署至关重要，而 Cerebras 的晶圆级方案通过最小化芯片间通信瓶颈，有望实现更低延迟的推理。 CS-4 每个系统搭载三颗 WSE-3 Turbo 芯片，据称推理速度比 GPU 快多达 30 倍。WSE-3 采用台积电 5nm 工艺制造，包含 90 万个 AI 核心、44GB SRAM 以及约 4 万亿晶体管，面积约为 NVIDIA H100 GPU 的 56-57 倍。
 
-rss · TechPowerUp News · 8月19日 11:53
+rss · ServeTheHome · 8月19日 14:35
 
-**背景**: 精细金属掩膜（FMM）是一种薄金属板，在真空蒸镀过程中用于将红、绿、蓝有机发光材料精确地沉积到 OLED 基板上对应的像素位置。制造高分辨率 FMM 一直是实现超高清 AMOLED 显示屏的最大障碍之一，因为掩膜在自身重量下会在大尺寸面板时发生形变，而且对加工精度要求极高。多年来，整个行业一直在探索无 FMM 方案，因为它有望降低成本、可扩展至更大尺寸和更柔性的面板，并实现更精细的像素间距。
+**背景**: 晶圆级集成是指在整片硅晶圆上构建一个完整的处理器，而不是将晶圆切割成单个芯片。这种方法自 1980 年代起就有人尝试，但直到最近才实现商业化，目标是消除小芯片间通信带来的性能瓶颈。Cerebras 的 WSE-3 是有史以来制造的最大的芯片，采用这种方法提供海量的片上内存带宽（21 PB/s）。机架级系统将多个处理器集成在单一机箱中——类似于 NVIDIA 的 NVL72——为 AI 训练和推理提供超大规模计算能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="http://www.prnewswire.com/news-releases/lg-display-unveils-flipp-achieving-dream-next-generation-oled-302854625.html">LG Display unveils FLiPP, achieving dream next-generation OLED technology</a></li>
-<li><a href="https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan">LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com</a></li>
-<li><a href="https://global.samsungdisplay.com/30929">[Learn Display] 69. Fine Metal Mask ( FMM )</a></li>
+<li><a href="https://www.cerebras.ai/cs4">Product - System - Cerebras</a></li>
+<li><a href="https://awesomeagents.ai/hardware/cerebras-wse-3/">Cerebras WSE - 3 - The Wafer-Scale AI Engine | Awesome Agents</a></li>
+<li><a href="https://www.servethehome.com/cerebras-wse-3-ai-chip-launched-56x-larger-than-nvidia-h100-vertiv-supermicro-hpe-qualcomm/">Cerebras WSE - 3 AI Chip Launched 56x Larger than NVIDIA H100</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OLED`, `#display-technology`, `#LG-Display`, `#manufacturing`, `#hardware-innovation`
+**标签**: `#AI-hardware`, `#Cerebras`, `#AI-infrastructure`, `#inference-systems`, `#wafer-scale`
 
 ---
 
 <a id="item-7"></a>
-## [三星晶圆厂路线图：泰勒、平泽项目及 165 亿美元特斯拉交易背后的良率困境](https://www.tomshardware.com/tech-industry/samsungs-fab-roadmap-examined) ⭐️ 7.5/10
+## [AliExpress 使用静默 WebAudio 指纹追踪，干扰蓝牙多点连接](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) ⭐️ 7.0/10
 
-Tom's Hardware 详细分析了三星横跨韩国和美国的四大半导体晶圆厂路线图，并将近期宣布的 165 亿美元特斯拉交易置于三星在多个工艺节点面临的良率挑战背景下进行解读。 这一分析至关重要，因为三星在泰勒及韩国各厂区的量产能力直接影响其在代工市场与台积电和英特尔竞争的实力。165 亿美元的特斯拉交易标志着重要客户的争取成功，但先进制程上持续存在的良率问题将决定三星能否兑现此类承诺并保持市场份额。 三星的晶圆厂网络包括韩国的平泽、华城和器兴，以及位于美国德克萨斯州的新建泰勒工厂。三星 3nm GAA 工艺是首个采用全栅场效应晶体管（GAA FET）的节点，而 2nm 制程设定了雄心勃勃的良率目标，但该公司历来在先进节点的良率爬坡上遇到挑战。
+一位安全研究员揭露，AliExpress 网站使用了静默 WebAudio 指纹追踪技术——通过浏览器的 Web Audio API 生成人耳听不到的音频信号来唯一识别和追踪用户——而这些信号还会泄漏到蓝牙音频栈中，破坏蓝牙多点连接功能。 这一发现揭示了一种具有实际硬件副作用的侵犯隐私的追踪行为，多位评论者独立证实了其他应用（包括 Wolt）也存在类似的蓝牙干扰问题，表明这一问题可能在整个移动和 Web 生态系统中普遍存在，而非仅限于某一家厂商。 该指纹追踪技术通过让 AudioBufferSourceNode 或 OscillatorNode 以特定频率输出振荡信号实现，这些频率人耳无法听到，但足以被蓝牙音频设备捕捉到；支持多点连接的耳机和助听器似乎特别容易受到影响，因为它们在已配对的设备之间始终保持活跃的监听状态。
 
-rss · Tom's Hardware · 8月19日 12:00
+hackernews · emctech · 8月20日 10:08 · [社区讨论](https://news.ycombinator.com/item?id=49372583)
 
-**背景**: 半导体晶圆厂是用于在硅晶圆上制造集成电路的高端生产基地，晶圆良率（每片晶圆上可用芯片的百分比）是决定盈利能力的关键指标。工艺节点指的是芯片制造的技术世代，3nm、2nm 等更小的节点可以在芯片上集成更多晶体管并提升性能，但对制造工艺的要求也高得多。三星是首家使用全栅（GAA）FET 晶体管架构量产 3nm 芯片的代工厂，该设计可改善对沟道的静电控制。历史上，先进节点在量产爬坡阶段常常面临良率挑战，因为光刻过程中即使纳米级的振动也可能导致对准误差。
+**背景**: WebAudio 指纹追踪是一种浏览器指纹追踪技术，它利用 Web Audio API 生成基于设备和软件差异的独特信号处理特征，从而创建一个唯一的标识符。蓝牙多点连接是一项允许单个耳机或耳塞同时与两个或多个源设备配对，并智能路由来自活动设备音频的功能。当网站在用户不知情的情况下发出音频信号时，这些信号可能会通过设备的音频输出传输，并干扰附近正在监听音频输入或控制信号的蓝牙外设。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.icdirectory.com/b/blog/what-is-the-yield-rate-for-wafers-after-testing.html">What is the yield rate for wafers after testing? | icDirectory Limited</a></li>
-<li><a href="https://tech4gamers.com/process-nodes/">What Are Semiconductor Process Nodes ? [Definitive... - Tech4Gamers</a></li>
-<li><a href="https://www.eejournal.com/article/samsung-announces-3nm-process-node-the-first-with-gate-all-around-fets/">Samsung Announces 3nm Process Node , the First with...</a></li>
+<li><a href="https://web-tracking.allenchou.cc/docs/browser-fingerprinting/techniques/audio-fingerprinting/">WebAudio Fingerprinting | Web Tracking 筆記</a></li>
+<li><a href="https://www.engadget.com/2226189/heres-why-dont-buy-headphones-bluetooth-multipoint/">Here's Why You Shouldn't Buy New Headphones Without Bluetooth ...</a></li>
+<li><a href="https://factually.co/fact-checks/technology/hard-to-block-browser-fingerprinting-techniques-2025-canvas-audio-webgl-fonts-memory-3895a6">What fingerprinting techniques (canvas, audio, WebGL, .</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#samsung`, `#tesla`, `#fab-manufacturing`, `#industry-analysis`
+**社区讨论**: 评论者们通过亲身经历有力地验证了这些发现：一位用户报告说打开 AliExpress iOS 应用会导致车载音频将信号误识别为语音命令，另一位用户将 Wolt 上出现的 Voice Over 爆音问题与同样的技术联系起来，还有一位助听器用户描述了访问网站时环境噪音放大的变化。整体情绪既对破碎的 Web 安全模型感到沮丧，也对苹果应用商店审核声称保护用户免受恶意应用侵害的说法表示怀疑。
+
+**标签**: `#privacy`, `#fingerprinting`, `#web-security`, `#webaudio`, `#bluetooth`
 
 ---
 
 <a id="item-8"></a>
-## [英伟达 H200 芯片抵达中国，但香港电力限制阻碍使用](https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block) ⭐️ 7.5/10
+## [Google 停止向 AOSP 推送 Pixel 内核与驱动代码的 Git 标签](https://grapheneos.social/@GrapheneOS/117057099753905023) ⭐️ 7.0/10
 
-随着北京放宽对美方授权芯片的进口限制，英伟达 H200 AI 加速器已开始向中国科技巨头字节跳动和腾讯发货。然而，北京要求每家公司的大部分配额（据报每家最多 10 万颗）留在香港，不得运往大陆。 这标志着美中半导体出口管制格局的重大转变，使中国 AI 企业在 H100 及更早芯片受限多年后，终于获得顶级英伟达硬件。香港的限制造成了一个不寻常的瓶颈，可能会限制中国企业部署这些芯片来训练前沿 AI 模型的速度。 H200 配备 141GB HBM3e 显存，带宽达 4.8 TB/s，拥有多达 14,592 个 CUDA 核心，单卡功耗约 600W——据报道香港的数据中心无法为大规模 AI 训练集群提供足够的电力支持。
+Google 已停止向 AOSP 推送 Pixel 内核和用户空间驱动代码仓库的 Git 标签,同时也停止推送专门针对 Pixel 的 AOSP 发布版本。目前 AOSP 仅接收年度发布版、QPR2 发布版以及针对这两者的月度安全补丁,而 Pixel 专有的源代码更新不再通过公开 Git 标签发布。 这一政策变化给 GrapheneOS 以及其他依赖 Pixel 专有源代码来构建系统镜像的隐私导向型或定制 Android 发行版带来了重大挑战。此举引发了人们对 Google 践行开源承诺以及依赖及时获取 Pixel 驱动和内核源代码的社区驱动型 Android 分支项目可持续性的担忧。 不再被打标签的 Pixel 专有 AOSP 发布版本包括对在 Pixel 硬件上运行 Android 至关重要的内核构建和用户空间驱动仓库。其他 OEM 仍继续使用年度和 QPR2 版 AOSP 发布,这些版本仍会获得月度安全补丁,但使用 GrapheneOS 等定制 ROM 的 Pixel 用户无法再依赖易于追踪的 Git 标签来监控上游变更。
 
-rss · Tom's Hardware · 8月19日 10:37
+hackernews · Animux · 8月19日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=49364745)
 
-**背景**: 英伟达 H200 是基于 Hopper 架构的旗舰数据中心 GPU，专为生成式 AI 和大语言模型的训练与推理而设计。美国政府已实施多轮出口管制，限制 H100 和 H200 等先进 AI 芯片对华销售。香港虽然在许多方面技术上属于中国关税领土，但历史上遵循不同的规则，并受到美国出口许可要求的约束，因此成为敏感技术的受控渠道。
+**背景**: Git 标签是仓库中指向特定提交的不可变引用,通常用于标记软件开发中的发布节点和里程碑。Android 开源项目（AOSP）是构成 Android 基础的开放源代码仓库集合,但它并不包含运行成品设备所需的全部专有组件。GrapheneOS 是一个基于 AOSP 构建的注重安全与隐私的移动操作系统,主要运行在 Google Pixel 设备上,其前身 CopperheadOS 成立于 2014 年,后更名为 GrapheneOS。由于 Pixel 硬件需要专有的内核和驱动代码,像 GrapheneOS 这样的项目依赖 Google 通过 AOSP 正确发布这些源代码并附带 Git 标签,以跟踪变更并集成更新。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H 200 GPU | NVIDIA</a></li>
-<li><a href="https://wisp.net.au/nvidia-h200-nvl-tensor-core-gpu-141gb-hbm3e.html">NVIDIA H 200 NVL| NVIDIA H 200 NVL Tensor Core GPU 141GB...</a></li>
+<li><a href="https://www.hatica.io/blog/git-tags/">What Are Git Tags : Types, How to Use and Best Practices - Hatica</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS - Wikipedia</a></li>
+<li><a href="https://www.androidauthority.com/aosp-explained-1093505/">AOSP explained: Everything you need to know about Google's OS...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#nvidia`, `#h200`, `#semiconductor-export-controls`, `#china-ai`, `#gpu-supply-chain`
+**社区讨论**: 社区情绪普遍对 Google 持批评态度,有猜测认为 GrapheneOS 日益增长的人气可能是促使这一变化的动机。技术评论者提出了 Google 是否可以直接将 Pixel 驱动重新授权为专有软件的问题,另一些人则强调无论意图如何,这一变化都带来了实际困难,因为 GrapheneOS 所需的 Pixel 专有源代码在任何可访问的 Git 仓库中都找不到。一些评论者呼吁更广泛的系统性变革,要求监管机构介入以确保 Android 应用兼容性,避免用户被迫依赖 Google 服务。
+
+**标签**: `#android`, `#grapheneos`, `#google`, `#open-source`, `#aosp`
 
 ---
 
 <a id="item-9"></a>
-## [Cerebras 发布 WSE-3 Turbo 处理器及 CS-4 机柜级系统](https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/) ⭐️ 7.5/10
+## [IBM 模块化量子低温架构，扩展难题仍待破解](https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/) ⭐️ 7.0/10
 
-Cerebras 发布了 WSE-3 Turbo 处理器，通过将时钟频率翻倍使性能较原版 WSE-3 提升一倍，并推出了其首个机柜级 AI 推理系统 CS-4，该系统通过全新的 Nexus 平台架构集成了三颗 WSE-3 Turbo 处理器。 CS-4 是 Cerebras 首次进军机柜级部署的产品，在大规模 AI 推理工作负载方面挑战由 Nvidia 主导的 GPU 集群，使该公司成为超大规模 AI 基础设施的有力替代方案。 CS-4 提供 750 PFLOPS 的 AI 算力、129.6 PB/s 的聚合内存带宽以及 160.5 PB/s 的计算互联带宽，Cerebras 声称其推理速度比传统 GPU 系统快高达 30 倍。
+IBM 开发了一种用于量子计算的模块化低温架构，解决了通往容错量子系统的一个关键扩展障碍，但同时暴露出在布线密度、控制电子设备、互连以及系统整体可靠性方面仍存在重大挑战。 这一进展意义重大，因为容错量子计算是行业的长期目标，需要解决一系列工程难题而非单一突破；IBM 对剩余障碍的坦诚阐述，让更广泛的硬件社区能够更现实地看清当前 NISQ 时代机器与大规模容错量子计算之间究竟还有多远。 该模块化方案将低温冷却基础设施与量子处理器本身解耦，是在易维护性和可扩展性方面迈出的结构性一步，但架构仍需应对来自数千根控制线进入毫开尔文温区所带来的热负荷，以及超导量子比特在热噪声和电磁噪声下的脆弱性问题。
 
-rss · ServeTheHome · 8月19日 14:35
+rss · EE Times · 8月19日 13:55
 
-**背景**: 晶圆级芯片是一种非常规设计，利用整片硅晶圆构建单一「超级芯片」，而不是将晶圆切割成众多独立的小芯片。Cerebras 是该方案最知名的商业倡导者，通过容错核心容忍制造缺陷来解决良率问题。机柜级 AI 系统将多个加速器、内存和互联网络集成到单一机箱中，以提供超过单个设备所能提供的计算密度和带宽，概念上类似于 Nvidia 的 NVL72 平台。
+**背景**: 量子低温学指的是让超导量子比特保持基态、免受热噪声干扰所需的超低温基础设施——通常是工作在接近 15 毫开尔文的稀释制冷机。容错量子计算（FTQC）是长期目标，即由量子纠错码（如表面码）保护的逻辑量子比特实现任意低的逻辑错误率；目前提出的 FTQC 系统通常需要数百个逻辑量子比特，对应着数千乃至数百万个物理量子比特。当今的 NISQ（中等规模含噪量子）处理器在量子比特数量和纠错开销上都还不足以进入这一阶段，因此布线、控制和制冷等工程问题成为关键瓶颈。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/">Cerebras Intros Faster WSE - 3 Turbo Processor and First Rack- Scale ...</a></li>
-<li><a href="https://convergedigest.com/cerebras-cs-4-wafer-scale-ai-inference/">Cerebras CS-4 Pushes Wafer - Scale AI Inference to... - Converge Digest</a></li>
-<li><a href="https://www.cerebras.ai/cs4">Product - System - Cerebras</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fault_tolerant_quantum_computing">Fault tolerant quantum computing</a></li>
+<li><a href="https://www.spinquanta.com/news-detail/what-is-cryogenic-quantum-computing-and-why-it-matters">What Is Cryogenic Quantum Computing and Why It Matters | SpinQ</a></li>
+<li><a href="https://www.quera.com/glossary/quantum-cryogenics">What Is Quantum Cryogenics ? Methods & Why It's Better</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI hardware`, `#Cerebras`, `#inference systems`, `#data center`, `#WSE-3`
+**标签**: `#quantum computing`, `#IBM`, `#cryogenics`, `#hardware engineering`, `#fault-tolerant computing`
 
 ---
 
 <a id="item-10"></a>
-## [谷歌用 Google Forms/网盘取代 Git 标签分发安卓源码](https://grapheneos.social/@GrapheneOS/117057099753905023) ⭐️ 7.0/10
+## [英国初创公司 Callosum 融资 1 亿美元](https://www.electronicsweekly.com/news/business/uk-startup-callosum-raises-100m-2026-08/) ⭐️ 7.0/10
 
-谷歌已将获取部分安卓源代码的方式从直接通过 Git 标签访问改为手动流程：开发者需要填写 Google Form 表单，然后通过 Google Drive 接收源代码。GrapheneOS 指出这一变更可能违反 GPLv2 协议，且请求处理速度据称非常缓慢。 这一变更之所以重要，是因为 GPLv2 协议要求获得二进制文件的用户能够便捷地获取对应的源代码，而新流程人为增加了障碍，可能违反该许可证义务。这一举措也标志着谷歌对安卓生态系统的控制日益收紧，与 2027 年即将生效的强制开发者身份验证要求等更广泛的趋势相吻合。 Git 标签是版本控制系统中的标准标记，用于标识特定的提交（通常是发布版本），让开发者能够检出与给定二进制构建对应的精确源代码树。将这种自动化机制替换为手动表单加网盘的工作流程，破坏了 GPLv2 第 3(a) 条等著佐权（copyleft）许可证所依赖的无障碍源代码可用性惯例。
+总部位于英国的 Callosum 完成了 1 亿美元的种子轮融资，这是欧洲规模最大的种子轮之一。该轮融资由 Atomico 领投，DCVC 和 UK Sovereign AI 参投，业务可能涉及人工智能领域。
 
-hackernews · Animux · 8月19日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=49364745)
+rss · Electronics Weekly · 8月20日 06:29
 
-**背景**: 安卓操作系统包含根据 GNU 通用公共许可证第二版（GPLv2）授权的组件，该许可证要求任何获得软件二进制版本的用户必须也能便捷地获取对应的完整源代码。GPLv2 第 3(a) 条明确允许分发者随二进制文件一并提供源代码，这是最常见的合规方式。Git 标签是仓库中指向特定提交的轻量级或带注释的指针，通常用于标记发布版本，以便开发者能够引用生成特定二进制版本的确切源代码树。GrapheneOS 是一个注重隐私和安全的安卓衍生操作系统，紧密跟踪安卓代码库，一直是谷歌生态系统决策的直言批评者。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag">Git Tagging : From Creation to Checkout | Atlassian Git Tutorial</a></li>
-<li><a href="https://next.copyleft.org/archive/comprehensive-gpl-guide.pdf">Copyleft and the GNU General Public License : A Comprehensive...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区对谷歌此举普遍持批评态度。一位评论者向困惑的读者解释了具体变更，另一位则补充了谷歌即将在 2027 年实施的开发者身份验证要求作为相关背景。也有持怀疑态度的评论者认为称其为"GPL 违规"有些牵强，指出安卓一直以来更像是"源代码开放"而非真正的"开源"，主要贡献大多来自谷歌和三星。其他评论者以讽刺的方式表达不满，其中一位开玩笑说最终谷歌只会通过打印并邮寄源代码来提供源码。讨论中贯穿的核心担忧是谷歌对安卓生态系统的控制正在持续收紧。
-
-**标签**: `#Android`, `#Google`, `#GPL`, `#open-source`, `#software-licensing`
+**标签**: `#funding`, `#AI`, `#startup`, `#Europe`, `#seed-round`
 
 ---
 
 <a id="item-11"></a>
-## [一次玩笑般的域名购买，竟演变成地缘政治博弈](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) ⭐️ 7.0/10
+## [拥有 250 个数据中心的弗吉尼亚州县开始限制建设——劳登县 250 多个数据中心使其成为美国最富有的县之一，但居民正在强烈反对](https://www.tomshardware.com/tech-industry/data-centers/virginia-county-with-250-data-centers-begins-to-rein-in-building-loudouns-more-than-250-data-centers-made-it-one-of-the-richest-counties-in-the-us-but-residents-are-pushing-back) ⭐️ 6.5/10
 
-本文为作者的亲身经历：他原本只是出于爱好，通过一个随手买下的域名来追踪探空气球数据，却意外卷入地缘政治纠葛，甚至收到了来自军方相关方带有战略意图的联络。
+弗吉尼亚州劳登县拥有 250 多个数据中心，已彻底改革其分区政策，要求获得居民和当地政府的批准，从而结束了 25 年多来简化审批的做法。
 
-hackernews · kareiva · 8月19日 11:21 · [社区讨论](https://news.ycombinator.com/item?id=49360015)
+rss · Tom's Hardware · 8月20日 13:19
 
-**标签**: `#geopolitics`, `#weather-balloons`, `#open-data`, `#domain-names`, `#hobby-projects`
+**标签**: `#data-centers`, `#infrastructure`, `#policy`, `#AI-infrastructure`, `#zoning`
 
 ---
 
 <a id="item-12"></a>
-## [使用几何学与 CUDA 编程定位一张随机岛屿照片的地理位置](https://yassa9.github.io/osint/gralhix-004/) ⭐️ 7.0/10
+## [传统超级计算机排名在 AI 时代失去意义](https://www.tomshardware.com/tech-industry/supercomputers/the-supercomputer-race-no-longer-means-what-it-used-to-as-rankings-lose-relevance-in-the-ai-era-as-privately-held-compute-clusters-are-built-running-hpl-becomes-a-distraction) ⭐️ 6.5/10
 
-一篇详细的文章，介绍如何利用几何学和 CUDA 加速计算，从单张照片中对一个随机岛屿进行地理定位，综合运用了计算机视觉、GPU 编程和开源情报（OSINT）技术。
+Tom's Hardware 发布分析文章，通过采访 GWDG 高性能计算部门副主任等专家认为，基于 HPL（高性能 Linpack）基准的传统超级计算机排名正在变得无关紧要，因为私有化的 AI 计算集群正成为高性能计算的新主导形态。 这一转变意义重大，因为全球最强大的计算资源——越来越多地用于 AI 模型训练——如今隐藏在运行大语言模型的私营公司内部，这意味着公开基准测试已无法反映真正的尖端计算能力所在。它标志着我们衡量和认知计算基础设施技术优势方式的根本性变化。 HPL 基准自 1993 年以来一直是 TOP500 榜单的基础，但更新的变体如 HPL-AI 已被开发出来，以更好地衡量更适合 AI 工作负载的混合精度能力。文章强调，在私有化集群（如 AI 实验室内部使用的集群）上运行 HPL 基准测试，作为衡量竞争优势的指标，实际上已变得毫无意义。
 
-hackernews · yassa9 · 8月19日 12:19 · [社区讨论](https://news.ycombinator.com/item?id=49360545)
+rss · Tom's Hardware · 8月20日 11:40
 
-**标签**: `#cuda`, `#osint`, `#computer-vision`, `#geometry`, `#geolocation`
+**背景**: TOP500 项目于 1993 年启动，使用 LINPACK/HPL 基准（衡量浮点计算速度）每年两次对全球 500 台最强大的公开计算机系统进行排名。HPL 测试系统使用并行处理求解密集线性方程的速度，适合天气预测和核模拟等传统科学工作负载。然而，随着 AI 训练的兴起（高度依赖矩阵乘法，非常适合 GPU 和混合精度运算），HPL 对实际 AI 工作负载的相关性受到质疑。私营公司现在运营用于 AI 训练的大规模 GPU 集群，在实际能力上远超公开声明的超级计算机，但这些集群很少被提交至 TOP500。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/TOP500">TOP 500 - Wikipedia</a></li>
+<li><a href="https://arxiv.org/pdf/1108.3268">Microsoft Word - Ontheperformance-cluster.doc</a></li>
+<li><a href="https://xtendedview.com/supercomputer-statistics/">Supercomputer Statistics 2026: Key Trends, Growth, and Power...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#supercomputing`, `#HPC`, `#AI infrastructure`, `#benchmarks`, `#Top500`
 
 ---
 
 <a id="item-13"></a>
-## [陶哲轩论人工智能与数学的未来](https://arxiv.org/abs/2608.16753) ⭐️ 7.0/10
+## [Pine64 因内存短缺暂停 Linux 设备生产至 2027 年中](https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites) ⭐️ 6.5/10
 
-被广泛誉为当今世界最杰出的数学家陶哲轩发表了一篇论文，探讨人工智能如何改变数学领域，特别强调在人工智能生成的数学结果中，保持人类可理解的证明和可解释性的重要性。 这篇论文意义重大，因为陶哲轩的观点将影响数学界如何整合人工智能，而他提出的关于证明验证、可解释性和发表标准的问题，可能会影响学术界规范以及形式化推理领域的人工智能研究方向。 陶哲轩提出的经验法则是：如果作者无法令人信服地就其成果给出清晰、专家级的讲解，那么该成果就不应被发表——即使已经过形式化验证。他还观察到，人工智能生成的证明"常常在琐碎细节上冗长论述，而对论证中最有趣、最具新意的部分一笔带过——甚至刻意模糊处理"。
+Pine64 宣布暂停所有基于 Linux 的硬件（包括单板计算机、平板电脑和手机）的生产，暂停期至少持续到 2027 年年中，原因是持续的内存短缺。该公司基于微控制器的产品（如 PineTime 智能手表、PineVoice 智能音箱和 Pinecil 烙铁）不受此次停产影响。 作为最具影响力的开源 Linux 硬件制造商之一，Pine64 长达数年的停产将直接影响依赖其单板计算机和 Linux 手机的发烧友、开发者以及小型工业用户。该决定也表明，由 AI 数据中心需求激增驱动的 DRAM 短缺正如何波及硬件生态系统中更小众的领域。 此次停产专门针对需要大量 DRAM 和闪存的产品，而内存需求极少的微控制器设备则不在范围内。行业预测显示，内存供应紧张可能至少持续到 2028 年，这意味着 Pine64 设定的 2027 年中时间表可能偏于乐观，具体取决于 AI 驱动的需求如何演变。
 
-hackernews · jonbaer · 8月19日 15:14 · [社区讨论](https://news.ycombinator.com/item?id=49362728)
+rss · Tom's Hardware · 8月20日 10:30
 
-**背景**: 陶哲轩是菲尔兹奖获得者、加州大学洛杉矶分校教授，常被誉为当今最伟大的在世数学家。这篇论文涉及形式化验证——即使用计算证明助手（如 Lean）来机械地检验数学证明的正确性。陶哲轩此前曾撰写过关于人工智能与数学的论述，包括《迈向自主数学研究》（arXiv:2602.10177），该文主张即使人工智能贡献重大，论文仍应由人类独立署名。当前人工智能浪潮具有重要意义，因为大语言模型正在越来越多地解决此前被认为难以处理的数学问题。
+**背景**: 单板计算机（SBC）是将 CPU、RAM、存储和 I/O 集成在一块电路板上的完整计算机。Pine64 以其面向社区的流行 Linux 单板计算机（如 Pinebook Pro 笔记本和 ROCKPro64）以及 PinePhone Pro 等 Linux 智能手机而闻名，是开源硬件社区的重要供应商。与此同时，更广泛的 DRAM 市场正经历结构性紧张，因为 AI 数据中心消耗大量高带宽内存，超过了产能增长速度，从而挤压了消费级和嵌入式硬件制造商的供应。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2602.10177">Towards Autonomous Mathematics Research</a></li>
-<li><a href="https://www.newscientist.com/article/2583307-why-mathematician-terence-tao-thinks-ai-must-spark-a-rapid-revolution/">Why mathematician Terence Tao thinks AI must spark... | New Scientist</a></li>
-<li><a href="https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/">Formal Reasoning Meets LLMs: Toward AI for Mathematics and ...</a></li>
+<li><a href="https://www.electromaker.io/blog/article/most-powerful-single-board-computer">Most Powerful Single Board Computer</a></li>
+<li><a href="https://www.linkedin.com/posts/marklong2007_supplychain-memory-electroniccomponents-activity-7419733821971021825-yDZR">Memory & DRAM Shortage Forecast Through 2028 | LinkedIn</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论存在分歧。一些评论者强烈赞同陶哲轩对人类可理解证明的强调，并担忧当激励机制促使数学家走人工智能辅助的捷径时，其价值主张会变得"太诱人而难以放弃"。另一些人则反驳说，要求人类理解每一个证明是不必要的——正如我们不需要猫理解路由算法就能享受更便宜的快递服务。一个反复出现的担忧是，人工智能生成的证明可能会模糊新颖的推理过程，同时堆砌琐碎步骤，使专家审查变得更加困难。
-
-**标签**: `#AI`, `#mathematics`, `#Terence Tao`, `#formal verification`, `#research philosophy`
+**标签**: `#Pine64`, `#open-source-hardware`, `#supply-chain`, `#DRAM-shortage`, `#Linux-devices`
 
 ---
 
 <a id="item-14"></a>
-## [Ornith-1.5 发布 9B 与 MoE 35B-A3B 模型，采用自改进训练方法](https://ornith.ai/ornith_1_5.html) ⭐️ 7.0/10
+## [三星因 AI 需求将先进制程代工价格上调最高 15%](https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines) ⭐️ 6.5/10
 
-Ornith-1.5 提出了一种从自搭建到自改进的训练方法，并发布了两个新的开源模型——9B 稠密模型和 MoE 架构的 35B-A3B 模型——均针对本地消费级硬件进行了优化。 这一发布意义重大，因为它展示了一种新颖的训练范式——模型自主生成任务、脚手架、解题过程和奖励进行迭代改进；此外，MoE 变体（总共 350 亿参数，每次推理仅激活 30 亿）使得在消费级 GPU 上运行接近前沿质量的推理成为可能，解决了本地大模型部署的关键瓶颈。 自改进循环利用了自动生成的任务、脚手架、解题过程、奖励信号以及 GRPO（Group Relative Policy Optimization，分组相对策略优化）更新。35B-A3B 中的 A3B 表示总参数量为 350 亿，而每个 token 仅激活约 30 亿参数，意味着每次推理只有少量专家网络被调用，与 350 亿参数的稠密模型相比，显著降低了计算和显存需求。
+三星于 7 月将其 4nm（SF4）、5nm（SF5）和 8nm（SF8）代工制程的新订单价格上调，其中中国客户涨幅最大达 10–15%，美国客户在 4nm 制程上也面临 10–15%的涨价，台湾客户涨幅相对温和为 5–10%。即使是较旧的 8nm 制程也涨价 10%，部分原因是 NVIDIA 在该制程上下单了 GeForce RTX 3060 芯片。 这一价格调整表明，由 AI 驱动的需求已将先进制程代工产能转变为卖方市场，使三星能够收取溢价并优先服务其最具战略意义的客户。中国无晶圆厂设计公司接受了最大幅度的涨价，凸显了美国出口管制正迫使它们为在中国境外获取有限的先进制程产能支付高昂溢价。 较新的 SF2 和 SF3 等制程据报并未涨价，这表明三星预期到需求旺盛，已将这些制程定价在较高水平。客户产能分配优先级为：三星自研芯片需求优先，美国客户其次，中国设计公司排在第三，这意味着中国企业支付了最高价格，产能优先级却最低。
 
-hackernews · CommonGuy · 8月19日 14:48 · [社区讨论](https://news.ycombinator.com/item?id=49362401)
+rss · Tom's Hardware · 8月19日 16:15
 
-**背景**: 大模型中的自改进指的是模型通过自主生成并评估训练数据来提升自身能力，通常无需大量人工标注的数据。GRPO 是一种强化学习技术，它使用分组相对优势估计来优化策略更新，而非依赖学习的价值函数。混合专家（MoE）是一种架构，模型内部包含许多专门的子网络（专家），但每次推理时仅激活其中少数几个，从而在保持庞大总参数量的同时降低每个 token 的计算成本。在「35B-A3B」的命名约定中，第一个数字代表总参数量，「A」表示激活参数，该数字决定了推理时的显存占用和速度。
+**背景**: 半导体代工厂（foundry）是为其他公司（称为无晶圆厂设计公司，如 NVIDIA、AMD 和苹果）制造集成电路的合同制造商。4nm、5nm 和 8nm 等制程节点指的是逐代演进的生产工艺，数字越小通常意味着工艺越先进、能效越高且成本越贵。三星代工和台积电是两家能够在最先进制程上生产芯片的领军企业，两家公司都受益于 AI 加速器和高性能计算驱动的需求激增。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ornith.ai/ornith_1_5.html">Ornith-1.5: From Self - Scaffolding to Self - Improvement | Ornith Blog</a></li>
-<li><a href="https://vettedconsumer.com/mixture-of-experts-moe-explained-why-active-parameters-decide-what-runs-on-your-machine/">Mixture - of - Experts ( MoE ), Explained: Why “ Active Parameters ”...</a></li>
-<li><a href="https://llmcheck.net/blog/moe-vs-dense-llm-explained/">MoE vs Dense LLMs Explained: Why It Matters for Your... — LLM Check</a></li>
+<li><a href="https://www.mexc.com/learn/article/what-is-a-foundry-how-tsmc-fits-into-the-ai-semiconductor-supply-chain/1">What Is a Foundry ? How TSMC Fits Into the AI Semiconductor ...</a></li>
+<li><a href="https://www.arenasolutions.com/resources/glossary/foundry/">What Is a Semiconductor Foundry ? Manufacturing, Benefits & PLM</a></li>
+<li><a href="https://www.techspecs.info/blog/what-is-6nm-process-node/">6 nm Process Node Explained: How It Affects Your Smartphone</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区情绪持谨慎乐观态度。用户尤其对 MoE 35B-A3B 在本地推理中的表现感到兴奋，实际测试者反馈该模型在更高速度和更高量化精度（q4 对比 q8）下与 Qwen 3.8 27B 质量相当。部分用户对 Qwen 不在 3.8 系列中发布 35B-A3B 表达了失望，并要求将 Ornith-1.5 与更新的 Qwen 3.8 27B 进行对比基准测试，而非仅与 3.6 27B 对比。
-
-**标签**: `#open-source-llm`, `#self-improvement`, `#local-models`, `#model-release`, `#moe-architecture`
+**标签**: `#semiconductors`, `#Samsung`, `#foundry`, `#AI-demand`, `#chip-pricing`
 
 ---
 
 <a id="item-15"></a>
-## [IBM 将量子低温系统模块化，但扩展难题依然存在](https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/) ⭐️ 7.0/10
+## [中国将大规模 AI 数据中心集群迁至内陆省份以利用富余能源——"东数西算"战略推动华为、腾讯等中国科技巨头在贵州建设 AI 基础设施](https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou) ⭐️ 6.5/10
 
-IBM 已开发并连接了首批模块化低温系统，这是量子计算领域的重要里程碑，旨在为其计划于 2029 年交付的容错系统 IBM Quantum Starling 提供基础架构。这一新架构解决了扩展过程中的一项难题，同时也暴露了在布线、控制、互连和可靠性方面仍存在的重大挑战。 模块化低温系统是将量子硬件扩展到数百量子比特以上的前提，因为整体式稀释制冷机无法无限容纳不断增长的布线和控制基础设施。如果 IBM 的方案被证明可行，它可能会重塑容错量子计算的工程路线图，并加速行业向商业化实用机器迈进的进程。 该模块化架构与 IBM 路线图中的另一关键元素——由 L-coupler 实现的模块化量子处理紧密相关，L-coupler 用于连接独立的低温模块。仍存在的瓶颈包括每个量子比特所需的大量布线、经典控制电子设备的集成、模块间的互连瓶颈，以及低温与超导组件的长期可靠性。
+中国科技巨头华为和腾讯正根据"东数西算"战略，在贵州等内陆省份建设大型 AI 数据中心，以利用当地富余的土地和能源资源。
 
-rss · EE Times · 8月19日 13:55
+rss · Tom's Hardware · 8月19日 15:49
 
-**背景**: 量子计算机需要在接近绝对零度（约 15 毫开尔文）的温度下运行，使用稀释制冷机来保持超导量子比特的稳定。容错量子计算依赖量子纠错码，需要数千到数百万个物理量子比特来编码更少量的逻辑量子比特，这大幅增加了硬件占用。模块化低温架构试图将这一硬件负担分散到多个制冷单元中，但也带来了跨模块互连量子比特以及管理控制和读出所需的大量布线密度等新的工程难题。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/why-modular-cryogenics-matter-path-fault-tolerant-quantum-gambetta-dmt9e">Why Modular Cryogenics Matter on the Path to Fault-Tolerant...</a></li>
-<li><a href="https://cryptobriefing.com/ibm-modular-cryogenic-quantum-computing/">IBM connects first modular cryogenic systems for quantum computing</a></li>
-<li><a href="https://finviz.com/news/383559/ibm-connects-cryogenic-quantum-modules-in-push-towards-2029-fault-tolerant-system">IBM Connects Cryogenic Quantum Modules in Push Towards 2029...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#quantum-computing`, `#IBM`, `#cryogenics`, `#hardware-engineering`, `#fault-tolerance`
+**标签**: `#AI-infrastructure`, `#data-centers`, `#China-tech`, `#Huawei`, `#energy-strategy`
 
 ---
 
 <a id="item-16"></a>
-## [三星因 AI 需求将 4nm/5nm/8nm 代工价格上调最高 15%](https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines) ⭐️ 6.5/10
+## [人类爱宠物，猴子也是](https://www.solidot.org/story?sid=85139) ⭐️ 6.3/10
 
-三星于 7 月份对其 4nm、5nm 和 8nm 代工工艺的新订单提价，其中中国客户的涨幅最高达 15%，原因是 AI 需求激增导致其产线满载。 此次涨价表明 AI 热潮对先进制程代工产能造成了巨大的需求压力，可能推高芯片设计成本并波及整个半导体供应链。中国客户承受最高涨幅，凸显了在美国出口管制背景下中国无晶圆厂企业可选择的代工供应商极为有限。 涨价适用于 7 月份下达的订单，覆盖 4nm、5nm 和 8nm 三个成熟的先进制程节点，其中中国客户涨幅最高——这很可能反映出由于地缘政治限制，他们获得台积电等替代代工厂的机会极为有限。
+本期综述涵盖：一项对 427 起灵长类动物跨物种互动的研究表明饲养宠物具有进化根源；一款 AI 医疗记录员编造患者的用药史；GitHub 长达 8 小时的宕机事件引发用户对平台迁移的讨论。
 
-rss · Tom's Hardware · 8月19日 16:15
+rss · Solidot · 8月19日 15:05
 
-**背景**: 半导体代工厂在硅晶圆上为无晶圆厂公司制造芯片，采用先进工艺；4nm、5nm、8nm 等制程节点代表晶体管小型化的逐代演进，能在每块芯片上集成更多的晶体管。更小的制程节点由于尖端制造所需的高昂设备、洁净室基础设施和研发投入，生产成本显著更高。三星与台积电并列为全球领先的代工厂，服务于那些需要先进制造能力但自身不拥有晶圆厂的无晶圆厂芯片设计公司。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://dev.to/techytcm/ai-is-making-chips-more-expensive-3ej9">AI Is Making Chips More Expensive - DEV Community</a></li>
-<li><a href="https://www.semiconproduct.com/wafer-foundry-solutions-gennex/">Wafer Foundry Solutions | Gennex - Semicon Product</a></li>
-<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#samsung`, `#foundry`, `#AI-demand`, `#chip-pricing`
+**标签**: `#evolutionary-biology`, `#AI-safety`, `#healthcare-AI`, `#GitHub`, `#LLM-hallucination`
 
 ---
 
 <a id="item-17"></a>
-## [华为腾讯在贵州农村建设 AI 数据中心，推进'东数西算'战略](https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou) ⭐️ 6.5/10
+## [Windows XP「红月沙漠」壁纸：一场罗夏墨迹测验式的争议（2003）](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) ⭐️ 6.0/10
 
-中国科技巨头华为和腾讯正在根据国家'东数西算'战略，在贵州等内陆农村省份建设大型 AI 数据中心集群，利用内陆地区丰富的土地资源和充足的能源来支撑不断增长的 AI 算力需求。 该战略通过将高能耗的数据基础设施迁移至能源富集地区，重塑了中国 AI 算力的地理布局，有望降低运营成本并缓解东部沿海城市的能源压力。同时，这也体现了中国对算力资源进行国家级统筹的思路，可能进一步增强中国在全球 AI 基础设施竞赛中的竞争力。 贵州以其喀斯特地貌闻名，被誉为'中国大数据之都'，是中国首个国家级大数据综合试验区。其内陆农村地区提供了廉价的富余能源和土地，便于大规模数据中心建设，而在人口稠密的东部城市这类项目则很难获批；不过一些专家质疑这些设施究竟能给当地带来多少经济发展。
+Raymond Chen 在 2003 年于「The Old New Thing」博客上发表了一篇经典文章，回顾了 Windows XP 最初壁纸「Red Moon Desert」（红月沙漠）的故事——由于用户投诉该风景图像看起来像一对臀部，微软最终将其更换为绿草蓝天经典壁纸「Bliss」。 这篇文章是微软技术轶事中的经典之作，它揭示了大规模产品中的设计决策如何被主观感知所颠覆，至今仍是在讨论软件设计、用户反馈以及向数百万用户发布产品时意外后果时频繁引用的案例。 Raymond Chen 参与 Windows 开发已超过 30 年，并于 2003 年创办了「The Old New Thing」博客；最终取代「红月沙漠」的「Bliss」壁纸（原名「Bucolic Green Hills」）由摄影师 Charles O'Rear 拍摄，是历史上被观看次数最多的照片之一，而「红月沙漠」则因公众的空想性错视投诉而被替换。
 
-rss · Tom's Hardware · 8月19日 15:49
+hackernews · luu · 8月20日 06:16 · [社区讨论](https://news.ycombinator.com/item?id=49371006)
 
-**背景**: '东数西算'工程于 2022 年初启动，是一项国家级战略计划，旨在将数据处理负载从能源紧张的东部沿海地区转移至西部内陆省份。它为中国算力网络提供了顶层设计，旨在通过将算力密集型工作负载与西部富余的能源产能相匹配，消除中国整体算力布局中的冗余和低效问题。长期以来，贵州一直将大数据产业作为推动高质量经济社会发展的支柱产业。
+**背景**: Windows XP 于 2001 年发布，开发代号为「Whistler」，是微软第一款面向消费者的基于 Windows NT 内核的操作系统。Raymond Chen 是一位资历深厚的微软工程师，以其博客「The Old New Thing」闻名，该博客分享 Windows 开发史上的内部故事。空想性错视（pareidolia）是一种众所周知的心理现象，指人在模糊或随机图案中感知到熟悉形状（如人脸或身体部位）的倾向，当设计素材被数以百万计的用户审视时，这种效应经常会被放大。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://dcpulse.com/article/china-cloud-edwc-eastern-data-western-computing">China ’s Cloud Revolution: Inside the Eastern Data , Western ...</a></li>
-<li><a href="https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-china-will-dominate-global">How China Will Dominate the Global Competition Over Data</a></li>
-<li><a href="https://www.eguizhou.gov.cn/whyguizhou.html">Why Guizhou</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bliss_(photograph)">Bliss (photograph) - Wikipedia</a></li>
+<li><a href="https://devblogs.microsoft.com/oldnewthing/20101224-00/?p=11923">That mysterious 01 - The Old New Thing</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI infrastructure`, `#data centers`, `#China tech`, `#Huawei`, `#energy strategy`
+**社区讨论**: Hacker News 社区以温暖的怀旧感和幽默感回应了这一文章。评论者分享了其他 Raymond Chen 的轶事（包括一个著名的最终上报到比尔·盖茨的 Flight Simulator 错误报告）、讲述了自己父亲因 Ubuntu「Intrepid Ibex」的骷髅壁纸而感到不安的类似亲身经历、提供了「Red Moon Desert」壁纸的实际链接以及文章中提到的一张穿衣全息照片链接，并打趣说「这看起来像屁股」并不一定字面意思指臀部。
+
+**标签**: `#tech-history`, `#windows`, `#raymond-chen`, `#microsoft`, `#nostalgia`
 
 ---
 
 <a id="item-18"></a>
-## [台湾将向每位居民发放 314 美元 AI 出口红利](https://www.tomshardware.com/tech-industry/taiwan-to-pay-every-resident-314-from-its-ai-boom-windfall) ⭐️ 6.5/10
+## [文章论述圈数在计算中优于弧度制](https://www.computerenhance.com/p/turns-are-better-than-radians) ⭐️ 6.0/10
 
-台湾中央政府已在 2027 年预算中划拨 74 亿美元，用于向每位居民发放约 314 美元，资金来源于由 AI 相关出口推动的 11% GDP 增长，出口总额达 9030 亿美元。赖清德总统表示，该发放政策确保了台湾 AI 经济红利能够"由全民共享"。 这是 AI 驱动的经济增长收益首次被大规模直接分配给公民的案例之一，可能为其他国家提供政策参考。台湾在全球半导体供应链中的主导地位——特别是通过台积电——使其成为 AI 服务器繁荣的主要受益者，富士康等公司如今从 AI 服务器获得的收入已超过消费电子业务。 该红利是 2027 年中央政府预算的一部分，专门与 AI 相关出口带来的盈余收入挂钩，而非来自一般税收。富士康 2025 年第二季度的数据说明了这一转变的规模：AI 服务器和云/网络收入占其业务的 41%，而消费电子占 35%。
+程序员 Casey Muratori 在 2022 年发表的一篇文章中主张，在软件中表示角度时，圈数（即完整旋转）优于弧度，因为四分之一圈和其他常见的圈数分数可以在浮点运算中精确表示，而弧度则需要对 π 的有理倍数进行有损近似。 角度单位的选择会影响图形学、物理仿真和游戏引擎中的数值精度、开发效率和性能。如果被广泛采用，「圈数」约定可以简化底层数学库，并减少动画和旋转代码中累积的舍入误差。 其核心优势在于，0.25、0.5、0.125 和 0.375 等分数（即四分之一圈、半圈、八分之一圈和八分之三圈）在二进制浮点中可以精确表示，而对应的弧度值则涉及无理数 π 的倍数。然而批评者指出，弧度保留了 e^(ix) = cos x + i sin x 这一优雅恒等式，并使导数 d/dx sin(x) = cos(x) 保持简洁形式；若使用圈数，导数将变为 d/dx sin(2πx) = 2π cos(2πx)。
 
-rss · Tom's Hardware · 8月19日 11:00
+hackernews · mayoff · 8月20日 01:29 · [社区讨论](https://news.ycombinator.com/item?id=49369408)
 
-**背景**: 台湾已成为全球最重要的 AI 硬件制造中心，台积电等公司生产着为全球 AI 服务器提供算力的先进芯片。在构建大语言模型和 AI 基础设施的公司需求激增推动下，AI 服务器繁荣已显著改变了台湾的出口结构——对于富士康等制造商而言，AI 服务器的重要性已超过 iPhone 等传统产品。由资源收入资助的全民基本分红或一次性发放（有时称为"社会分红"）已在全球范围内被讨论为分享经济繁荣的方式，但台湾的计划因明确将该分配与 AI 产业增长挂钩而备受关注。
+**背景**: 弧度是角度的标准数学单位，定义为整圆等于 2π 弧度。这种定义使三角函数的导数形式简洁，并通过欧拉公式将角度与指数函数联系起来。度和圈数（其中 1 整圈 = 1 turn）是替代单位：度在日常和导航场景中广泛使用，而圈数则常见于机器人和旋转机械等工程领域。在计算领域，大多数数学库默认使用弧度，但在一些图形和动画代码库中，将角度存储为圈数的分数也是一种已有的做法。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/TSMC">TSMC - Wikipedia</a></li>
-<li><a href="https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025/">Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025</a></li>
-<li><a href="https://www.digitimes.com/news/a20250703PD216.html">Taiwan seeks irreplaceable role in global chip supply chain amid AI ...</a></li>
+<li><a href="https://www.chaos.org.uk/~eddy/physics/angle.xhtml">On the Dimension of Angles</a></li>
+<li><a href="https://emacs.stackexchange.com/questions/62918/sin-of-pi-radians">math - sin of pi radians - Emacs Stack Exchange</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI economics`, `#Taiwan`, `#government policy`, `#semiconductors`, `#AI industry impact`
+**社区讨论**: Hacker News 上的讨论（271 个赞，140 条评论）总体上持欣赏态度但存在分歧。mayoff 等支持者确认他们在个人代码中已将角度存储为圈数，并引用了 Spivak 的《微积分》来论证单位选择是函数本身的属性。以 kazinator 为代表的反对者则强调，弧度在数学上是特殊的，能保留欧拉公式和 e^x 的自导数性质；traes 警告说圈数会通过引入 2π 因子使变化率计算变得更复杂。binarymax 等人则指出文章缺少具体的代码示例来支撑其论点。
+
+**标签**: `#mathematics`, `#trigonometry`, `#computer-science`, `#programming`, `#angle-units`
 
 ---
 
 <a id="item-19"></a>
-## [开发者利用 Claude AI 为仅支持 Windows 的打印机编写原生 macOS 驱动](https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-uses-claude-ai-to-create-native-macos-driver-for-obscure-windows-only-printer-linux-container-hack-enables-system-wide-cmd-p-printing-driver-now-available-on-github) ⭐️ 6.5/10
+## [Unsloth 发布 Dynamic 3.0 GGUFs，提升本地 LLM 推理量化方案](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) ⭐️ 6.0/10
 
-一位开发者公开表示，他们使用 Anthropic 的 Claude Code 为仅支持 Windows 系统的 HP Laser 1008a 激光打印机创建了原生 macOS 驱动程序。该方案通过 Linux 容器作为兼容性桥梁，实现了 macOS 系统级的 Cmd-P 打印功能，驱动程序已在 GitHub 上开源。 此案例展示了 AI 编程助手如何应对编写设备驱动这类传统上极为专业的底层系统编程任务。它也凸显了一种解决 macOS 上仅支持 Windows 的外设这一普遍问题的创造性方案，尽管目前其影响仅限于一款小众打印机型号。 该方案依赖一个 Linux 容器在 macOS 主机与打印机面向 Windows 的协议栈之间进行中介转换，而非完全对驱动程序进行逆向工程。Anthropic 的智能体编程工具 Claude Code 被用于生成驱动代码和集成逻辑。GitHub 仓库使得同一型号打印机的其他用户可以复现这一解决方案。
+Unsloth 发布了 Dynamic 3.0 GGUFs，这是其动态量化格式的更新版本，用于通过 llama.cpp 在本地运行大语言模型。新格式据称实现了更好的空间效率，但值得注意的是，从量化模型中移除了多 token 预测（MTP）支持。 Unsloth 的 GGUFs 被本地 LLM 社区广泛认为是首选的量化发布版本，因此格式的任何更改都会直接影响数千名在消费级硬件上运行模型的用户。在极低量化下以更小的文件体积为代价移除 MTP，体现了模型能力与部署效率之间持续存在的权衡。 Dynamic 3.0 基于 Unsloth 先前的 Dynamic 2.0 和 4-bit 动态量化方法，通过选择性地将部分权重保留在更高精度。然而，移除 MTP 意味着此前依赖多 token 预测来获得可用速度的极低比特量化（如 IQ2_XXS）可能会出现性能下降，而这些受限硬件配置恰恰最需要 MTP。此外，文件命名规范也未更新以包含版本标识符，导致新旧 GGUFs 共存于本地磁盘时容易混淆。
 
-rss · Tom's Hardware · 8月19日 10:00
+hackernews · jonesy827 · 8月19日 18:36 · [社区讨论](https://news.ycombinator.com/item?id=49365443)
 
-**背景**: 硬件驱动程序是允许操作系统与打印机等物理设备通信的软件组件；编写驱动程序需要对操作系统内核和设备通信协议都有深入了解。HP Laser 1008a 是一款低成本激光打印机，与许多廉价外设一样，仅提供 Windows 驱动。Linux 容器是一种轻量级隔离运行时环境，可以在非 Linux 主机上运行 Linux 软件（包括驱动程序）。Claude Code 是 Anthropic 的智能体 AI 编程助手，可以直接在终端中读取代码库、编辑文件并执行命令，帮助开发者构建软件。
+**背景**: GGUF（GGML Universal File）是 llama.cpp 原生的二进制容器格式，llama.cpp 是使在消费级硬件上运行 LLM 成为可能的开源 C/C++ 推理引擎；它将模型权重、分词器数据和元数据捆绑到单个文件中。量化通过降低模型精度（例如从 FP16 降至 Q4_K_M 或 IQ2_XXS）来缩小文件体积和内存占用，代价是一定程度的模型质量损失。多 token 预测（MTP）由 Meta 的研究提出，通过辅助输出头同时预测多个未来 token，从而提升训练效率和推理速度——在速度本就受限的极低量化场景下尤为有价值。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
-<li><a href="https://www.docker.com/">Docker: Accelerated Container Application Development</a></li>
-<li><a href="https://apidog.com/blog/claude-code/">Claude Code : The AI -Powered Coding Assistant Developers Need</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Llama.cpp">llama.cpp - Wikipedia</a></li>
+<li><a href="https://arxiv.org/pdf/2404.19737">Better & Faster Large Language Models via Multi - token Prediction</a></li>
+<li><a href="https://unsloth.ai/blog/dynamic-4bit">Unsloth - Dynamic 4-bit Quantization</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ai-assisted-development`, `#claude`, `#macos`, `#printer-drivers`, `#hardware-compatibility`
+**社区讨论**: 社区情绪总体偏向正面但存在分歧。用户普遍称赞 Unsloth 的 GGUFs 是首选下载来源，但也提出了具体问题：版本号与文件命名缺失导致同名新旧文件难以区分；移除 MTP 对最需要速度的低比特量化造成了影响；以及呼吁提供针对真实编程任务的基准测试，而非仅依赖 KL 散度。部分用户还讨论了出于隐私考虑的本地推理工作流，例如用本地模型处理敏感数据，同时将日常编码工作交给 Claude 等云端模型。
+
+**标签**: `#llm`, `#quantization`, `#gguf`, `#local-inference`, `#unsloth`
 
 ---
 
 <a id="item-20"></a>
-## [Minecraft 玩家用 44.5 万命令方块构建可运行的 LLM 聊天机器人](https://www.tomshardware.com/video-games/minecraft-creator-works-around-in-game-math-limitations-to-implement-an-llm-using-445k-command-blocks-clever-approach-shrank-initial-block-count-from-over-1-million-requires-no-mods-plugins-or-datapacks-to-work) ⭐️ 6.5/10
+## [解锁被锁定/停用的电子垃圾 Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) ⭐️ 6.0/10
 
-一位 Minecraft 创作者在原版 Minecraft 中使用 445,782 个命令方块实现了一个可运行的 LLM 驱动聊天机器人，巧妙地绕过了游戏中数学运算的限制，将初始实现从超过 100 万个方块缩减至一半以下。该构建无需任何模组、插件或数据包即可运行。 这一成就展示了非凡的创意工程能力——在沙盒游戏的严格计算限制内实现复杂的 AI 系统，体现了复杂算法如何通过游戏机制来表达。它突显了 Minecraft 社区对红石和命令方块计算的持续热情，并可能激发更多关于游戏内计算极限的探索。 创作者通过巧妙的优化克服了 Minecraft 命令方块有限的数学运算能力，将方块数量从超过 100 万削减至 445,782，减少了超过 50%。该实现完全基于原版游戏机制，仅使用内置游戏功能而无需外部修改，但此类构建通常仅限于创造模式或启用了作弊的多人服务器。
+一篇硬件破解指南，展示了如何解锁被制造商强制变砖的 Cricut Maker，并引发了关于维修权（right-to-repair）以及反消费者硬件锁定行为的讨论。
 
-rss · Tom's Hardware · 8月19日 09:30
+hackernews · 1e1a · 8月19日 19:06 · [社区讨论](https://news.ycombinator.com/item?id=49365841)
 
-**背景**: 命令方块是 Minecraft 中的特殊方块，在被红石（游戏的电力等价物）激活时可以自动执行控制台命令。由于它们无法在生存模式下通过非作弊方式获取，因此主要用于创造模式、多人服务器和自定义地图。红石电路模仿现实世界的逻辑和工程原理，长期以来被玩家用于构建从简单的门到功能完备的计算机等各种装置。大语言模型（LLM）是处理大量文本数据以理解和生成人类语言的 AI 系统，依赖矩阵乘法等数学运算——这在 Minecraft 受限的命令方块数学函数中是一个巨大的挑战。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://minecraft.fandom.com/wiki/Command_Block">Command Block – Minecraft Wiki</a></li>
-<li><a href="https://minecraft.fandom.com/wiki/Redstone_circuits">Redstone circuits – Minecraft Wiki</a></li>
-<li><a href="https://www.ibm.com/think/topics/large-language-models">What Are Large Language Models (LLMs)? | IBM</a></li>
-
-</ul>
-</details>
-
-**标签**: `#minecraft`, `#LLM`, `#creative-engineering`, `#redstone`, `#constraint-computing`
+**标签**: `#right-to-repair`, `#hardware-hacking`, `#e-waste`, `#DRM`, `#consumer-electronics`
 
 ---
