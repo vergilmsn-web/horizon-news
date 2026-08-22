@@ -5,71 +5,57 @@ date: 2026-08-22
 lang: zh
 ---
 
-> 从 70 条内容中筛选出 20 条重要资讯。
+> 从 47 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [研究员意外通过被遗忘的 ENUM DNS 记录了数十万通军事基地电话](#item-1) ⭐️ 8.0/10
-2. [台积电打造硅光子代工平台，瞄准 AI 时代光互连](#item-2) ⭐️ 8.0/10
-3. [英特尔酝酿内存市场回归，AI 重塑芯片经济逻辑](#item-3) ⭐️ 8.0/10
-4. [Rapidus 计划到 2030 年在 600 毫米先进封装面板上实现 8 光罩尺寸中介层](#item-4) ⭐️ 7.5/10
-5. [World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’](#item-5) ⭐️ 7.5/10
-6. [LG 进军芯片封装领域，推出激光直接成像设备](#item-6) ⭐️ 7.5/10
-7. [LG Display 推出 FLiPP 光刻技术，取代金属掩膜用于 OLED 沉积](#item-7) ⭐️ 7.5/10
-8. [超微因 25 亿美元对华 AI 芯片走私案解雇多名员工](#item-8) ⭐️ 7.5/10
-9. [美光投资 100 亿美元在美国建设新研究实验室——博伊西中心将聚焦后 DRAM 和 NAND 技术及封装](#item-9) ⭐️ 7.5/10
-10. [斯洛伐克在 279 台欧盟资助的交通摄像头中发现俄罗斯后门](#item-10) ⭐️ 7.5/10
-11. [企业级 SSD 价格飙至 HDD 的 18.6 倍，30TB 硬盘售价达 22,600 美元](#item-11) ⭐️ 7.5/10
-12. [混合型 T 细胞在超级百岁老人血液中显著增加](#item-12) ⭐️ 7.3/10
-13. [重罪法庭](#item-13) ⭐️ 7.0/10
-14. [美国边境：公民删除手机数据遭重罪指控](#item-14) ⭐️ 7.0/10
-15. [DeepSeek 为 V4-Flash 模型添加原生视觉能力，采用基于 Token 的图像处理](#item-15) ⭐️ 7.0/10
-16. [Nari Labs 将 Qwen3-TTS 延迟降至 34ms p95 TTFA](#item-16) ⭐️ 7.0/10
-17. [我正在变成 AI 盲](#item-17) ⭐️ 7.0/10
-18. [CPU-Z 自 2001 年以来最大更新 V3 版本发布——新增 100+ 项健康检查、内置压力测试以及 XOC 有效时钟追踪功能](#item-18) ⭐️ 6.5/10
-19. [Nvidia H200 GPU 获批有限出口中国，但国产芯片已主导市场](#item-19) ⭐️ 6.5/10
-20. [Bosgame M5 评测：平价的 128GB Strix Halo AI 迷你桌面电脑](#item-20) ⭐️ 6.5/10
+1. [Rust Glancer：内存占用减少 100 倍的 Rust 语言服务器](#item-1) ⭐️ 8.0/10
+2. [台积电 COUPE 平台：用硅光子技术连接 AI 时代](#item-2) ⭐️ 8.0/10
+3. [Rapidus 目标 2030 年在 600mm 面板上实现 8 倍光罩尺寸中介层](#item-3) ⭐️ 7.5/10
+4. [Anna's Archive 呼吁志愿者扫描书籍以防被 AI 公司销毁](#item-4) ⭐️ 7.5/10
+5. [LG 进军芯片封装领域，推出无掩模激光直接成像设备](#item-5) ⭐️ 7.5/10
+6. [中国要求政府部门提前弃用 Windows 10 政府版转向国产 Linux](#item-6) ⭐️ 7.3/10
+7. [Cobalt 为 Kobo 电子阅读器带来开源应用平台](#item-7) ⭐️ 7.0/10
+8. [软件没有理由再变慢了](#item-8) ⭐️ 7.0/10
+9. [OpenTelemetry 在实际落地中遭遇严峻挑战](#item-9) ⭐️ 7.0/10
+10. [Android XR SDK 核心库进入 Beta 阶段](#item-10) ⭐️ 7.0/10
+11. [桌面 CPU 出货量下降 20%，AMD 市场份额创新高](#item-11) ⭐️ 6.5/10
+12. [加拿大暂停与美国的贸易谈判，并以同等金额加征关税进行反击](#item-12) ⭐️ 6.0/10
+13. [重罪记录](#item-13) ⭐️ 6.0/10
+14. [Kagi 新增过滤付费墙链接的搜索设置](#item-14) ⭐️ 6.0/10
+15. [Zig 的 io.threaded 相当精巧](#item-15) ⭐️ 6.0/10
+16. [成熟的三个教训：激励、自省与道德复杂性](#item-16) ⭐️ 6.0/10
+17. [科学家发布迄今最大的宇宙二维地图](#item-17) ⭐️ 6.0/10
+18. [中国 NAND 闪存厂商长江存储（YMTC）IPO 进程加速](#item-18) ⭐️ 6.0/10
+19. [Bazzite 44 正式发布掌上设备版，切换至 InputPlumber](#item-19) ⭐️ 5.5/10
+20. [Intel Nova Lake-S 28 核 bLLC 型号 PL2 功耗将达 296W](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [研究员意外通过被遗忘的 ENUM DNS 记录了数十万通军事基地电话](https://lina.sh/blog/hijacking-e164-arpa) ⭐️ 8.0/10
+## [Rust Glancer：内存占用减少 100 倍的 Rust 语言服务器](https://rust-glancer.github.io/blog/hello-world/) ⭐️ 8.0/10
 
-一位研究员意外发现，被忽视的 e164.arpa ENUM DNS 基础设施一直在静默地路由并记录数十万通打往军事基地的电话，揭示了传统电话协议如何在多年间悄悄积累敏感数据。 这一发现表明，长期被遗弃或维护不善的互联网基础设施可能成为高度敏感通信（包括军事通话）的意外数据汇聚点，对遗留协议的安全性以及预留 DNS 区域的管理提出了严峻问题。 ENUM 通过使用预留的 e164.arpa 区域将 E.164 电话号码映射为 SIP URI 等互联网资源；该研究员很可能运行了权威或递归域名服务器，捕获了本应发送给已废弃 ENUM 端点的查询，导致通话终止在其基础设施上而非到达预期的军事接收方。
+Matklad 宣布推出 Rust Glancer，这是一个全新的 Rust 语言服务器（LSP）实现，通过牺牲磁盘缓存来换取内存效率，内存占用比 rust-analyzer 减少约 100 倍。
 
-hackernews · gavide · 8月21日 13:11 · [社区讨论](https://news.ycombinator.com/item?id=49387570)
+hackernews · matklad · 8月21日 19:51 · [社区讨论](https://news.ycombinator.com/item?id=49393052)
 
-**背景**: ENUM（E.164 电话号码映射）是由 IETF 标准化的协议，用于将国际电话号码映射为 SIP URI 等互联网资源，实现传统电话网与 VoIP 的融合。e164.arpa 域是在 .arpa 基础设施区域内专门为该电话号码查询功能预留的，类似于 in-addr.arpa 处理 IPv4 反向 DNS 的方式。尽管 ENUM 最初被设想为统一 PSTN 和基于互联网通信的手段，但它从未获得广泛的公众采用，并逐渐被弃用，导致这些号码的权威 DNS 基础设施基本处于无人维护状态。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Telephone_number_mapping">Telephone number mapping - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/E164.arpa">E.164 - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/.arpa">.arpa - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 具有 ENUM、SIP 和电话专业知识的社区评论者提供了技术背景：一位指出 ENUM 服务仍然以 VPN 上的号码携带查询形式私有存在；另一位对作者因截获流量而免于法律后果表示惊讶；多人强调遗留基础设施漏洞可以多年间无人察觉。另有人提到了用于 IP 上电话路由的相关 TRIP 协议，并有几位评论者指出该漏洞很可能在军方介入之前一直被忽视。
-
-**标签**: `#security`, `#telephony`, `#infrastructure`, `#DNS`, `#military`
+**标签**: `#rust`, `#lsp`, `#developer-tools`, `#memory-optimization`, `#language-server`
 
 ---
 
 <a id="item-2"></a>
-## [台积电打造硅光子代工平台，瞄准 AI 时代光互连](https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/) ⭐️ 8.0/10
+## [台积电 COUPE 平台：用硅光子技术连接 AI 时代](https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/) ⭐️ 8.0/10
 
-台积电正在开发硅光子代工平台，以及名为 TSMC-COUPE（紧凑通用光子引擎，Compact Universal Photonic Engine）的封装架构，将光输入/输出直接集成到先进逻辑芯片中，而非销售独立的光收发器产品。该平台利用先进的 3D 封装技术，将电子集成电路和光子集成电路堆叠在一起，使电信号能够通过硅光子技术进行传输。 这使台积电成为下一代 AI 基础设施的基础供应商，因为传统的铜基电互连正面临带宽和功耗瓶颈。通过将光 I/O 作为代工和封装平台提供，台积电有望占据 AI 硬件堆栈中的战略层，就像 CoWoS 成为 GPU chiplet 集成不可或缺的技术一样。 COUPE 被设计为一个 EIC-PIC（电子集成电路–光子集成电路）异构集成平台，其电气接口经过专门工程设计以最小化两者之间的耦合，将不同的光子需求统一整合到单一标准化平台上。该方案专门针对 AI 带宽需求，而非与电信市场中的商用光收发器产品竞争。
+台积电正在开发一套硅光子代工平台，并配套推出名为 TSMC-COUPE（紧凑通用光子引擎）的封装架构，旨在将光输入/输出直接集成到先进逻辑工艺中，而非作为独立的光收发器产品出售。 随着 AI 工作负载将铜互连的带宽和能耗推向极限，光芯片间互连正成为数据中心系统扩展的关键。台积电将光子技术垂直整合到代工流程中，有望使其成为 AI 时代互连技术的主导供应商，正如 CoWoS 在先进 2.5D/3D 封装领域所做的那样。 COUPE 最早于 2021 年台积电在 Hot Chips 大会上发布的 3D 封装技术路线图中亮相，旨在作为一种通用的光子引擎结构，将单片式、2D、2.5D 和 3D 硅光子集成方案统一到同一可量产架构中，兼顾光传输与逻辑芯片的紧耦合集成。
 
 rss · SemiWiki · 8月21日 17:00
 
-**背景**: 硅光子技术是一种利用以亚微米精度加工的硅来引导和操控红外光（通常使用电信领域的 1.55 微米波长）进行高速数据传输的技术，可复用主流芯片制造所使用的 CMOS 兼容工艺。光 I/O 用基于光信号的传输取代芯片间传统的电信号传输，在长距离传输中提供更高的带宽密度和更低的功耗——随着 AI 模型规模不断增大、GPU 集群需要更快的芯片间和芯片到网络的链路，这一点变得至关重要。英特尔于 2025 年 1 月展示了与 CPU 共同封装的全集成光 I/O chiplet，表明所有主要代工厂和芯片厂商目前都在竞相将共封装光学技术商业化，以应用于 AI 基础设施。
+**背景**: 硅光子技术利用标准 CMOS 工艺在硅片上构建波导、调制器、探测器等光学组件，使数据能够以光脉冲的形式在芯片内部及封装之间传输。当前的 AI 加速器越来越受限于芯片间电气（铜）互连的速度和功耗，将光学直接集成到先进封装中，可以以更低的单位比特能耗实现更高的带宽。台积电的 CoWoS（Chip-on-Wafer-on-Substrate）为 AI GPU 开创了 2.5D/3D 逻辑+存储集成方案，而 COUPE 则代表台积电在该路线之上叠加光学层的尝试。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.atlaspeakresearch.com/report/66ebb8">TSMC COUPE : The Underappreciated Platform Layer for AI Photonic ...</a></li>
-<li><a href="https://research.tsmc.com/page/on-chip-interconnect/14.html">Heterogeneous Integration of a Compact Universal Photonic Engine ...</a></li>
 <li><a href="https://english.cw.com.tw/article/article.action?id=4951">COUPE : TSMC 's Game Changer After CoWoS｜Industry｜2026-08-18...</a></li>
+<li><a href="https://www.atlaspeakresearch.com/report/66ebb8">TSMC COUPE : The Underappreciated Platform Layer for AI Photonic ...</a></li>
 
 </ul>
 </details>
@@ -79,301 +65,353 @@ rss · SemiWiki · 8月21日 17:00
 ---
 
 <a id="item-3"></a>
-## [英特尔酝酿内存市场回归，AI 重塑芯片经济逻辑](https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/) ⭐️ 8.0/10
+## [Rapidus 目标 2030 年在 600mm 面板上实现 8 倍光罩尺寸中介层](https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030) ⭐️ 7.5/10
 
-英特尔正考虑在退出 DRAM 和 NAND 业务数十年后重返内存领域，CEO 陈立武认为 AI 正将内存从大宗商品转变为具有战略价值的高价值组件。
+在 2026 年 OCP APAC 峰会上，Rapidus 首席技术官 Rozalia Beica 公布了先进封装路线图，目标在 2030 年前于 600×600mm 面板级基板上实现八倍光罩尺寸（6,640 mm²）的中介层，并分阶段推进四倍（3,320 mm²）和六倍（4,980 mm²）光罩尺寸节点。该公司正与 Lam Research 合作，利用其 Kallisto 电镀系统在 600mm 玻璃载板上开发 2.xD 封装及重布线层，计划于 2028 年进入量产。 该路线图使 Rapidus 成为台积电在先进封装领域的直接挑战者，而先进封装对需要大规模芯粒集成的人工智能和高性能计算芯片至关重要。面板级方案可显著提升产出效率——600mm 面板每片可产出 49 个中介层，而标准 300mm 晶圆仅产出 4 个——有可能颠覆当前业界主流的晶圆级扩展模式。 Rapidus 在 600×600mm 面板上可获得 49 个八倍光罩尺寸中介层，远超 300mm 晶圆的 4 个；台积电的 CoWoS 路线图基于晶圆级扩展，计划在 2028 年达到 14 倍光罩尺寸。600mm 面板格式正借助 Lam Research 的 Kallisto 电镀设备开发，该公司已使用 EUV 工具流片了密度达 237 MTr/mm²的 2nm GAA 测试芯片，其芯粒解决方案试产线计划在 2026 财年全面投运。
 
-rss · SemiWiki · 8月21日 13:00
+rss · TechPowerUp News · 8月21日 18:59
 
-**标签**: `#Intel`, `#semiconductors`, `#AI infrastructure`, `#memory technology`, `#HBM`
+**背景**: 中介层（Interposer）是一种中间的电气布线层，用于在同一封装内连接多个芯粒或裸片，充当 IC 与底层基板或 PCB 之间的桥梁。光罩（Reticle，也称光掩模）是光刻过程中使用的图案化石英模板，用于将电路设计曝光到晶圆上；标准 EUV 光罩将单次曝光的最大芯片面积限制在大约 26mm×26mm，因此多芯片封装必须在中介层上拼接多个光罩区域。面板级封装（PLP）使用大型方形或矩形面板代替圆形晶圆来完成封装工艺，能显著提高产出和面积利用率，但需要从传统晶圆级设备重新改造产线。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Interposer">Interposer - Wikipedia</a></li>
+<li><a href="https://semiengineering.com/are-larger-reticle-sizes-on-the-horizon/">Are Larger Reticle Sizes On The Horizon?</a></li>
+<li><a href="https://www.pcb-technologies.com/article/panel-level-packaging-vs-wafer-level-packaging/">Panel-Level Packaging vs. Wafer-Level Packaging</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#advanced-packaging`, `#Rapidus`, `#chip-manufacturing`, `#AI-infrastructure`
 
 ---
 
 <a id="item-4"></a>
-## [Rapidus 计划到 2030 年在 600 毫米先进封装面板上实现 8 光罩尺寸中介层](https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030) ⭐️ 7.5/10
+## [Anna's Archive 呼吁志愿者扫描书籍以防被 AI 公司销毁](https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers) ⭐️ 7.5/10
 
-Rapidus 公布了先进封装路线图，目标到 2030 年在 600 毫米面板上实现 8 光罩尺寸中介层。与传统的 300 毫米晶圆相比，面板级加工具有显著的良率优势。
+全球最大的开放影子图书馆 Anna's Archive 的一名志愿者公开发出呼吁，号召志愿者扫描并上传实体书籍，以便将其保存为公共可访问资源。这一呼吁是对 AI 公司购买、扫描并物理销毁书籍以提取 AI 训练数据行为的回应。Anna's Archive 警告说，这种做法可能导致知识被永久垄断在私人服务器上。 这一呼吁凸显了 AI 对训练数据的巨大需求与开放公共知识保护之间日益加剧的紧张关系。如果实体书籍被少数 AI 公司大量购买并销毁，公众获取和保存人类文字记录的能力可能会被永久削弱，从而将知识的控制权集中到私人手中。 Anna's Archive 认为，AI 公司发现以破坏性方式扫描实体书籍比使用现有数字副本更快捷，因为旧版实体书籍能提供更干净的训练数据，且涉及数字抓取的法律责任问题更少。Anna's Archive 本身于 2022 年由化名 Anna 的匿名人士在执法部门关闭 Z-Library 后不久创建，聚合了来自 Z-Library、Sci-Hub 和 Library Genesis（LibGen）的资源记录。
 
-rss · TechPowerUp News · 8月21日 18:59
+rss · Tom's Hardware · 8月21日 14:33
 
-**标签**: `#semiconductors`, `#advanced-packaging`, `#rapidus`, `#chiplets`, `#manufacturing`
+**背景**: 影子图书馆是一种在线资源库，免费提供通常受付费墙保护的版权作品，如书籍、学术论文和教科书。Anna's Archive 是一个于 2022 年上线的非营利性元搜索引擎，由匿名档案管理员运营，聚合了多个影子图书馆的内容。与此同时，AI 公司越来越多地转向购买实体书籍——通常是较旧的绝版书籍——因为数字抓取涉及版权风险，而实体书籍能为训练大语言模型提供更高质量的文本数据。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anna's_Archive">Anna's Archive - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shadow_library">Shadow library - Wikipedia</a></li>
+<li><a href="https://www.techspot.com/news/113277-ai-firms-quietly-buying-destroying-millions-printed-books.html">AI firms are quietly buying and destroying millions of ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI ethics`, `#copyright`, `#open knowledge`, `#shadow libraries`, `#data preservation`
 
 ---
 
 <a id="item-5"></a>
-## [World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’](https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers) ⭐️ 7.5/10
+## [LG 进军芯片封装领域，推出无掩模激光直接成像设备](https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput) ⭐️ 7.5/10
 
-Anna's Archive, the world's largest open library, is calling for volunteers to scan and preserve physical books as AI companies reportedly buy, scan, and destroy them for training data, risking permanent monopolization of knowledge on private servers.
+LG 推出了一款无掩模激光直接成像（LDI）光刻设备，正式进军半导体封装设备市场，用于先进封装中精细金属互连的图案化，其中最高分辨率版本可实现 1.5 微米线宽。该产品推出的时机正值台积电 CoWoS 先进封装产能持续紧张，并已影响到 AI 芯片的生产。 这代表着一家传统上专注于消费电子的公司向半导体制造设备领域的重要多元化拓展，可能给由既有光刻设备厂商主导的市场带来新的选择。在 CoWoS 产能已成为 AI 芯片生产公认瓶颈的情况下，以吞吐量换取分辨率的替代封装方案有望帮助缓解供应紧张。 LG 的 LDI 系统采用无掩模设计，省去了光刻掩膜版的制造成本并可加快封装设计的迭代速度，但其 1.5 微米的分辨率上限决定了它更适合用于先进封装中的重布线层（RDL）互连图案化，而非在最关键层与步进式光刻竞争。
 
-rss · Tom's Hardware · 8月21日 14:33
+rss · Tom's Hardware · 8月21日 13:35
 
-**标签**: `#AI ethics`, `#digital preservation`, `#copyright`, `#open knowledge`, `#AI training data`
+**背景**: 激光直接成像（LDI）是一种利用激光束直接在基板上进行图案化的无掩模光刻技术，广泛应用于高密度 PCB，并越来越多地被探索用于半导体封装。台积电的 CoWoS（片上晶圆上基板封装）是一项领先的 2.5D 先进封装技术，通过硅中介层将多颗芯片和 HBM 内存堆叠集成在一起，对于高性能 AI 加速器至关重要。CoWoS 工艺依赖光刻步骤来形成精细的重布线层（RDL）互连，这正是 LDI 等替代光刻方案可以切入的供应链环节。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput">LG enters chip packaging arena with Laser Direct Imaging machine...</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Maskless_lithography">Maskless lithography - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#chip-packaging`, `#lithography`, `#advanced-manufacturing`, `#supply-chain`
 
 ---
 
 <a id="item-6"></a>
-## [LG 进军芯片封装领域，推出激光直接成像设备](https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput) ⭐️ 7.5/10
+## [中国要求政府部门提前弃用 Windows 10 政府版转向国产 Linux](https://www.solidot.org/story?sid=85161) ⭐️ 7.3/10
 
-LG 推出了一台无掩模激光直接成像（LDI）光刻设备，瞄准芯片封装和高密度 PCB 制造市场，正式进入封装设备领域——此时正值 TSMC 的 CoWoS 产能因 AI 需求激增而严重受限之际。 此举标志着先进封装设备供应商有可能向传统厂商之外的多元化方向发展，有助于缓解一直制约 NVIDIA 和 AMD AI 加速器供应的封装瓶颈。同时也表明，非传统半导体公司正试图解决先进封装中吞吐量与分辨率之间的权衡难题。 LDI 以牺牲极限分辨率为代价，换取了大幅提升的吞吐量和大面积加工能力；当前一代设备仅能用于 RDL 中介层的图形化，无法满足 CoWoS-S 或 CoWoS-L/EMIB 等先进技术所需的分辨率要求。由于图案是数字化生成而无需光掩模，LDI 系统可以实时创建和校准电路图案。
+中国已下令部分政府机构提前停止使用 Windows 10 中国政府版，将原定 2027 年 2 月的支持截止日期提前至 2025 年下半年，并迁移到麒麟操作系统和统信 UOS 等国产 Linux 发行版。微软回应彭博社称，未发现影响该 Windows 系统的安全事件。 该指令加速了中国政府 IT 基础设施与美国软件的脱钩，反映出中国在数字主权方面日益深化的承诺。这给微软在其最大的政府市场之一带来重大市场风险，同时也验证并推动了麒麟、UOS 等国产 Linux 生态系统的采用。 Windows 10 中国政府版由微软与中国电子科技集团旗下合资公司神州网信技术有限公司联合开发，基于 Windows 10 企业版定制，增加了安全性和可管理性功能。统信 UOS 桌面版源自 Deepin，而 Deepin 本身基于 Debian Linux；麒麟操作系统则起源于 FreeBSD，后发展为独立的操作系统产品线。
 
-rss · Tom's Hardware · 8月21日 13:35
+rss · Solidot · 8月22日 11:00
 
-**背景**: 激光直接成像（LDI）是一种无掩模光刻技术，利用调制激光直接在基板上绘制图案，广泛应用于 PCB 制造，并越来越多地用于晶圆级封装。Chip-on-Wafer-on-Substrate（CoWoS，芯片-晶圆-基板）是 TSMC 的 2.5D 先进封装架构，通过硅中介层将逻辑芯片与 HBM 内存堆栈集成在一起，是几乎所有主流 AI 加速器的核心技术，包括 NVIDIA 的 H100、B200 以及 AMD 的 MI300 系列。CoWoS 产能一直是 AI 供应链中的关键瓶颈，促使业界对替代或补充封装技术产生浓厚兴趣。
+**背景**: 数字主权是指一个国家在数字基础设施和数据方面不依赖外国技术提供商的能力。Windows 10 中国政府版于 2017 年推出，专门面向中国政府部门和关键基础设施领域，并进行了本地化定制以满足中国监管要求。中国推动国产操作系统发展已有数十年历史，麒麟可追溯至 2006 年，统信 UOS 则源自 2019 年开始的政府部门替换外国软件的倡议。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput">LG enters chip packaging arena with Laser Direct Imaging machine, as TSMC's CoWoS remains constrained — maskless machine is designed to pattern fine interconnects, trading resolution for higher throughput | Tom's Hardware</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Maskless_lithography">Maskless lithography - Wikipedia</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/cowos">CoWoS® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Unity_Operating_System">Unity Operating System - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kylin_(operating_system)">Kylin (operating system) - Wikipedia</a></li>
+<li><a href="https://www.cmgos.com/web/product_en/overview_en/">Products – 神州网信技术有限公司</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#chip-packaging`, `#CoWoS`, `#lithography`, `#supply-chain`
+**标签**: `#China`, `#digital-sovereignty`, `#Linux`, `#Microsoft`, `#tech-policy`
 
 ---
 
 <a id="item-7"></a>
-## [LG Display 推出 FLiPP 光刻技术，取代金属掩膜用于 OLED 沉积](https://www.tomshardware.com/monitors/lg-display-introduces-new-oled-deposition-technique-that-uses-lithography-instead-of-metal-masks-flipp-photolithography-delivers-1-6x-brightness-and-2-4x-longer-lifespan) ⭐️ 7.5/10
+## [Cobalt 为 Kobo 电子阅读器带来开源应用平台](https://bandarlabs.github.io/Cobalt/) ⭐️ 7.0/10
 
-LG Display 推出了一种名为 FLiPP 的新型 OLED 沉积技术，使用光刻工艺（依赖光掩膜和光刻胶层来定义 RGB 子像素），取代传统的精细金属掩膜（FMM）。据公司报告，与传统基于掩膜的蒸镀工艺相比，该工艺可实现 1.6 倍亮度提升和 2.4 倍寿命延长，同时减少材料浪费并降低制造成本。 精细金属掩膜长期以来一直是 OLED 制造中的瓶颈：浪费有机材料、生产成本高，并且在自身重量下发生下垂变形，限制了面板尺寸和良率。通过用已在半导体晶圆厂得到验证的光刻工艺取代 FMM，LG Display 有望降低生产成本、实现更大尺寸或更高分辨率的 OLED 面板，并使 OLED 在价格上更有竞争力地与 LCD 抗衡。 FLiPP 工艺依赖光掩膜和光刻胶层，而不是通过金属板进行物理遮挡沉积，这意味着有机发光材料可以更均匀地沉积，不会被遮挡或浪费。LG Display 将 FLiPP 定位为其 RGB OLED 叠层的补充，并将其与最近获得 IMID“年度显示器”奖的 Hyper Double Scanning（HDS）面板驱动技术搭配使用。
+BandarLabs 发布了 Cobalt，一个面向 Kobo 电子阅读器的开源应用平台，包含启动器、签名版应用商店、基于 Rust 的 SDK 以及具有能力隔离的运行时，应用程序在非特权进程中运行。完成一次性 USB 安装后，用户即可通过 Wi-Fi 安装、更新和移除签名应用。 Cobalt 极大地扩展了用户在 Kobo 设备上能做的事情，打破了该设备长期局限于乐天阅读生态的格局。它将一款小众电子阅读器转变为更具通用计算能力的设备，同时保留了受管制的应用分发模式，有望激发其他电子阅读器上类似的探索。 目前 Cobalt 仅支持 Kobo Clara BW（型号 N365），其他型号在安装时会被拒绝。运行时使用能力隔离机制对应用进行沙箱化处理，并附带一个 Clara BW 模拟器用于开发和测试。
 
-rss · Tom's Hardware · 8月21日 12:40
+hackernews · thepoet · 8月21日 16:25 · [社区讨论](https://news.ycombinator.com/item?id=49390427)
 
-**背景**: OLED 显示器通常通过精细金属掩膜（FMM）将红色、绿色和蓝色有机化合物蒸镀到基板上——FMM 是一片带有精密蚀刻孔洞的薄金属板，用于定义每个子像素的落点。由于掩膜是物理实体，未穿过孔洞的材料会被浪费，制造和对准成本高昂，并且在大面积下容易下垂，这也是 OLED 难以扩展到超大尺寸电视面板的原因之一。相比之下，光刻是半导体制造中的主流图形化技术：通过光掩膜将光线投射到光敏光刻胶层上，然后进行显影，在不接触沉积区域的物理掩膜的情况下形成精确图案。
+**背景**: Kobo 电子阅读器由乐天生产，其基于 Linux 的固件使其长期拥有一个活跃的改装社区。现有的替代方案包括 NickelMenu（一个与 Kobo 原生阅读软件 Nickel 集成的轻量级启动器插件）和 KOReader（一款开源替代阅读器）。更高级的用户可以刷入 PostmarketOS（一个完整的 Linux 发行版）来彻底替换原生系统。Cobalt 则走中间路线：它不替换 Kobo 的固件，而是在现有系统之上叠加一个受管制的应用平台。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/computing/articles/lg-display-introduces-oled-deposition-124000490.html">LG Display introduces new OLED deposition technique that uses ...</a></li>
-<li><a href="https://news.lgdisplay.com/en/2026/08/lg-display-unveils-flipp-achieving-dream-next-generation-oled/">LG Display unveils FLiPP, achieving dream next-generation ...</a></li>
-<li><a href="https://news.lgdisplay.com/en/2024/02/display-101-30-fmm/">[DISPLAY 101 #30] FMM - LG Display Newsroom</a></li>
+<li><a href="https://github.com/BandarLabs/Cobalt">GitHub - BandarLabs/Cobalt: An SDK for building real apps for ...</a></li>
+<li><a href="https://elsolitario.org/en/2026/08/21/cobalt-app-store-sdk-kobo-ereaders/">Cobalt: App Store and Rust SDK for Kobo E-Readers</a></li>
+<li><a href="https://aitoolly.com/ai-news/article/2026-08-22-cobalt-open-source-platform-brings-apps-and-sdk-to-kobo-e-readers-via-new-app-store">Cobalt Platform: Run Apps and SDK on Kobo E-Readers</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OLED`, `#display-technology`, `#manufacturing`, `#LG-Display`, `#hardware`
+**社区讨论**: 社区反应褒贬不一但讨论热烈。多位评论者提到了已有的解决方案如 NickelMenu 和 PostmarketOS，指出这些工具已存在多年。一位用户分享了自己基于 PostmarketOS 为 Kobo Clara 开发的 UI「air」，可运行 Firefox 和 Syncthing。另一些用户则表达了哲学层面的反对意见，认为电子阅读器应当保持无干扰的纯粹阅读体验。硬件限制也被指出，有人建议避免购买单核 Kobo 机型，因为性能会非常迟缓。
+
+**标签**: `#Kobo`, `#e-readers`, `#open-source`, `#Linux`, `#app-platforms`
 
 ---
 
 <a id="item-8"></a>
-## [超微因 25 亿美元对华 AI 芯片走私案解雇多名员工](https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions) ⭐️ 7.5/10
+## [软件没有理由再变慢了](https://danluu.com/perf-opt/) ⭐️ 7.0/10
 
-超微（Supermicro）在独立调查揭露约 25 亿美元受限 AI 芯片被走私至中国后，解雇了销售、技术支持和业务发展部门的数名员工。调查同时认定高级管理层无违规行为，并确认公司财务报表依然可靠。 此案凸显了美国对华 AI 芯片出口管制执行中的重大漏洞，并引发了对大型服务器制造商合规体系的质疑。据估计，到 2025 年底走私的芯片规模约为 30 万个英伟达 H100 等效产品，这一事件表明即使高级管理层未参与，普通员工仍可绕过管制，从而使整个行业面临更严格的监管审查。 被解雇的员工分别来自销售、技术支持和业务发展岗位，这表明走私活动是通过面向客户和技术对接的渠道协调完成的。超微选择聘请独立调查而非内部审查，显示了对指控严重性的重视，也意在当前监管和法律风险背景下恢复投资者信心。
+Dan Luu 的分析认为现代软件不应再运行缓慢，可能涵盖 AI/智能体驱动的性能优化技术，并重新探讨如何借助大语言模型实现超级优化。
 
-rss · Tom's Hardware · 8月21日 12:20
+hackernews · Jach · 8月22日 01:06 · [社区讨论](https://news.ycombinator.com/item?id=49395628)
 
-**背景**: 自 2022 年以来，美国工业与安全局（BIS）逐步收紧对华先进 AI 芯片的出口管制，涵盖英伟达 A100、H100、H200 等高性能数据中心 GPU 以及 RTX 4090 等消费级芯片。这些规则旨在阻止中国获取可用于军事 AI 的先进算力，但走私网络已通过空壳公司、虚假合规审计和产品转售等手段规避管制。此前已有针对类似走私计划的起诉，研究估计通过非法渠道流入中国的 H100 等效芯片数量可能接近 30 万个。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://epoch.ai/publications/chip-smuggling">Diversion and resale: estimating compute smuggling to China</a></li>
-<li><a href="https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls">AI Chip Smuggling: The Limits of US Export Controls</a></li>
-<li><a href="https://www.fenwick.com/insights/publications/bis-significantly-restricts-chinese-access-to-advanced-computing-and-semiconductor-manufacturing-items">BIS Significantly Restricts Chinese Access to Advanced ... | Fenwick</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI chips`, `#export controls`, `#Supermicro`, `#China sanctions`, `#hardware smuggling`
+**标签**: `#performance-optimization`, `#software-engineering`, `#superoptimization`, `#AI-agents`, `#dan-luu`
 
 ---
 
 <a id="item-9"></a>
-## [美光投资 100 亿美元在美国建设新研究实验室——博伊西中心将聚焦后 DRAM 和 NAND 技术及封装](https://www.tomshardware.com/tech-industry/micron-commits-usd10-billion-to-new-us-based-research-labs-boise-hub-to-target-post-dram-and-nand-technologies-and-packaging) ⭐️ 7.5/10
+## [OpenTelemetry 在实际落地中遭遇严峻挑战](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/) ⭐️ 7.0/10
 
-美光投资 100 亿美元在博伊西建立新的研究实验室中心，聚焦后 DRAM 和 NAND 存储技术、先进封装，并通过产学研政合作开展竞争前知识产权开发。
+Mat Duggan 发表了一篇详细的技术批评文章，系统梳理了 OpenTelemetry 的实际痛点：受 Java 风格影响的 SDK 复杂度、对不透明自动插桩（auto-instrumentation）的过度依赖，以及架构层面的碎片化设计，他还整理了一份社区痛点电子表格加以佐证。 OpenTelemetry 已成为供应商中立的可观测性事实标准，如果其 SDK 和数据模型对持久化执行引擎等现代工作负载过于笨拙，整个可观测性生态将面临工具供应商与开发者之间的摩擦，进而拖慢故障排查与事件响应效率。 该批评指出，OpenTelemetry 的 trace、metric 与 log 三类数据是独立设计的，缺乏统一的语义层；其自动插桩机制依赖于 monkey-patching、字节码改写等技术，导致行为不透明，在长时间运行、重试频繁的分布式工作流中尤为脆弱。
 
-rss · Tom's Hardware · 8月21日 12:00
+hackernews · hn_acker · 8月21日 17:45 · [社区讨论](https://news.ycombinator.com/item?id=49391553)
 
-**标签**: `#semiconductors`, `#memory-technology`, `#R&D`, `#Micron`, `#hardware-investment`
+**背景**: OpenTelemetry（OTel）是一个开源、供应商中立的可观测性框架，由 OpenTracing 与 OpenCensus 合并而成，提供 SDK、API 和工具，用于将 trace、metric、log 数据上报到后端系统。它支持 .NET、Java、Node.js、Python 与 Go 等语言的自动插桩，底层通常通过字节码注入、monkey-patching 或 AST 修改实现，开发者无需手动修改代码即可为应用添加观测能力。尽管采用率非常广泛，该框架的设计假设仍是相对传统的微服务拓扑结构。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://opentelemetry.io/docs/what-is-opentelemetry/">What is OpenTelemetry? | OpenTelemetry</a></li>
+<li><a href="https://opentelemetry.io/blog/2025/demystifying-auto-instrumentation/">Demystifying Automatic Instrumentation: How the Magic ...</a></li>
+<li><a href="https://signoz.io/blog/opentelemetry-auto-instrumentation/">How OpenTelemetry Auto-instrumentation Works | SigNoz</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认同该批评。osener 直言 SDK 是「噩梦」，并指出 OTel 在持久化执行引擎和长时间运行的工作流中会失效。EdSchouten 呼吁建立统一的标注模型，让 trace、metric、log 可以在运行时动态决定。brikym 则提出相反观点，认为手动围绕业务事件插桩更有价值；rcleveng 把 OTel 类比成 Kubernetes——更适合作为底层基础而非成品框架使用。
+
+**标签**: `#opentelemetry`, `#observability`, `#distributed-tracing`, `#developer-experience`, `#monitoring`
 
 ---
 
 <a id="item-10"></a>
-## [斯洛伐克在 279 台欧盟资助的交通摄像头中发现俄罗斯后门](https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units) ⭐️ 7.5/10
+## [Android XR SDK 核心库进入 Beta 阶段](https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/) ⭐️ 7.0/10
 
-斯洛伐克国家安全局在 279 台新采购的测速和交通摄像头中发现了与俄罗斯有关联的后门,这些摄像头是欧盟资助的现代化项目的一部分。漏洞包括可通过短信触发获取 shell 访问权限实现远程命令执行,以及无需密码即可访问的实时视频流。 这一事件凸显了欧盟资助的关键基础设施采购中严重的供应链安全风险——被植入后门的硬件可能为外国情报机构提供隐蔽的监控和远程控制能力。它引发了人们对欧洲各地部署于公共安全和交通系统中的物联网设备审查程序的更广泛担忧。 据报道,这些后门可通过短信触发,意味着攻击者只需发送一条特制的短信即可获取摄像头系统的 shell 级访问权限。此外,实时视频流可以在没有任何密码认证的情况下被访问,使得任何知晓网络地址的人都可以轻易利用这些摄像头。斯洛伐克国家安全局已停用涉事设备,等待进一步调查。
+Google 正式将 Jetpack SceneCore、ARCore for Jetpack XR 和 XR Runtime 三个库升级为 Beta 状态，Jetpack Compose for XR 也将很快跟进。 这一 Beta 里程碑标志着 Google Android XR 开发者生态日趋成熟，为开发者提供了更稳定的工具来构建面向头显和智能眼镜的空间计算应用。它也增强了 Android XR 在快速增长的空间计算市场中与其他平台竞争的能力。 Jetpack SceneCore 提供了用于构建和操作 Android XR 三维场景图的高层 API，而 ARCore for Jetpack XR 则负责处理将数字内容融入现实世界的感知功能。这些库此前处于 Alpha 阶段，此次升级为 Beta 意味着接口已趋于稳定，但在正式发布前仍可能变动。
 
-rss · Tom's Hardware · 8月21日 11:00
+rss · Electronics Weekly · 8月21日 14:39
 
-**背景**: 网络安全中的后门是指绕过正常认证以获取系统远程访问权限的隐蔽手段,通常允许攻击者执行命令或窃取数据。短信触发的 shell 访问尤其令人担忧,因为它使得通过简单的短信即可实现远程控制,无需传统的网络渗透。这类案例属于供应链攻击——恶意功能在硬件或软件到达最终用户之前就被植入其中,是一种日益增长的物联网设备威胁载体。由于物联网设备因硬件限制通常内置安全防护有限,这一风险尤为突出。欧盟资金的介入增加了地缘政治层面复杂性,引发了关于欧盟成员国如何验证使用欧洲公共资金采购设备完整性的质疑。
+**背景**: Android XR 是 Google 专为 VR 头显和 AI 智能眼镜等扩展现实设备打造的操作系统，于 2025 年末与三星和高通合作，作为 Project Aura 项目的一部分推出。Jetpack XR 是配套的 SDK 套件，为 XR 开发提供各类库，其中 Jetpack Compose for XR 允许开发者使用熟悉的 Compose 概念（如空间面板和 orbiters）以声明式方式构建空间 UI。Beta 状态是 Android 开发中的标准里程碑，意味着 API 接近正式可用，但仍可能继续调整。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units">Slovakia discovers Russian backdoors in 279 new traffic ...</a></li>
-<li><a href="https://www.imperva.com/learn/application-security/backdoor-shell-attack/">What is a Backdoor Attack | Shell & Trojan Removal | Imperva SMS and SST-2 Datasets | zhangrui4041/Instruction_Backdoor ... Backdoor:Win64/MeterpreterReverseShell.A!sms threat ... Ukraine Says Russian Intelligence Used Fake Support Texts to ... SMS Attacks and Mobile Malware Threats - Kaspersky Kaspersky SOC analyzes an incident involving a web shell used ...</a></li>
-<li><a href="https://futureiot.tech/tokyo-university-investigates-hardware-trojans-in-iot-devices/">Tokyo University Investigates Hardware Trojans In IoT Devices</a></li>
+<li><a href="https://developer.android.com/develop/xr/jetpack-xr-sdk">Develop with the Jetpack XR SDK | Android XR for Jetpack XR SDK</a></li>
+<li><a href="https://developer.android.google.cn/jetpack/androidx/releases/xr-scenecore?hl=en&authuser=0">XR SceneCore | Jetpack | Android Developers</a></li>
+<li><a href="https://virtualverse.studio/blogs/what-is-android-xr">What Is Android XR ? Google's Platform Explained (2026)</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#supply-chain-security`, `#critical-infrastructure`, `#national-security`, `#eu-security`
+**标签**: `#Android`, `#XR`, `#Google`, `#SDK`, `#AR/VR`
 
 ---
 
 <a id="item-11"></a>
-## [企业级 SSD 价格飙至 HDD 的 18.6 倍，30TB 硬盘售价达 22,600 美元](https://www.tomshardware.com/pc-components/ssds/enterprise-ssds-now-cost-18-times-more-than-hard-drives-per-terabyte) ⭐️ 7.5/10
+## [桌面 CPU 出货量下降 20%，AMD 市场份额创新高](https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records) ⭐️ 6.5/10
 
-一款 30TB TLC 企业级 SSD 目前售价高达 22,600 美元，约为去年同期 3,460 美元的 6.5 倍。与此同时，HDD 供应据报道已售罄至 2027 年，进一步加剧了数据中心运营商面临的存储成本压力。 企业级 SSD 与 HDD 之间每 TB 高达 18.6 倍的成本差距是一个极端的行业信号，可能重塑数据中心和云基础设施的采购策略。由于 HDD 供应至 2027 年前都已售罄，采购方可能不得不承受高昂的 SSD 价格，或完全推迟容量扩展计划。 此次价格上涨影响的是基于 TLC（Triple-Level Cell，三层单元）NAND 的企业级硬盘，每个单元存储 3 个比特位，在性能、耐久性和成本之间取得了中间平衡。企业级 SSD 与消费级产品的区别在于更高的耐久性评级、持续工作负载下更稳定的性能，以及专为数据中心使用设计的掉电保护等功能。
+市场分析显示，受零部件成本高企影响，桌面 CPU 出货量下降 20%。尽管 Intel 提高了数据中心和笔记本 CPU 的产量，AMD 的增长仍超过 Intel，并创下市场份额纪录。 这一分化表明，即使整体市场萎缩，AMD 仍能通过夺取竞争对手的份额实现增长，而非单纯依赖市场扩容。同时，这也凸显了零部件成本和产能分配正在重塑桌面、笔记本及数据中心处理器市场的竞争格局。 20% 这一数字反映的是桌面处理器的出货量，而市场份额衡量的是 AMD 相对于整体市场所占的份额。Intel 在笔记本和数据中心领域增加产量，意味着双方的竞争并不只体现在桌面处理器出货量上。
 
-rss · Tom's Hardware · 8月21日 10:30
+rss · Tom's Hardware · 8月22日 12:30
 
-**背景**: SSD 使用 NAND 闪存以电子方式存储数据，而 HDD 依赖旋转的磁性盘片，因此 HDD 每 TB 成本远低但速度也慢得多。TLC 是 NAND 类型之一（与 SLC、MLC 和 QLC 并列），牺牲部分速度和耐久性以换取更高密度和更低成本。从历史上看，SSD 一直相对 HDD 存在溢价，但当前 18.6 倍的差距远高于长期常态，标志着严重的供需失衡，很可能与 AI 驱动的存储需求激增有关。
+**背景**: CPU 负责执行指令并协调计算机内部的工作。桌面处理器服务于个人电脑，而 Intel Xeon 和 AMD EPYC 等数据中心处理器更强调可靠性、可扩展性及多线程能力，用于处理并发任务；笔记本处理器则面向移动设备。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand">2D vs 3D NAND: Differences Between SLC, MLC, TLC and QLC ...</a></li>
-<li><a href="https://hddhunt.com/ssd-vs-hdd-price-comparison/">SSD vs HDD Price Comparison, Cost per TB (2026) | HDDHunt</a></li>
-<li><a href="https://www.crucial.com/articles/for-businesses/consumer-ssds-vs-enterprise-ssds">Consumer vs. Enterprise SSDs: What’s the Difference</a></li>
+<li><a href="https://www.ibm.com/think/topics/central-processing-unit">What is a Central Processing Unit ( CPU )? | IBM</a></li>
+<li><a href="https://scsishop.co.uk/blogs/uncategorized/what-is-the-most-powerful-cpu-used-in-data-centers">What Is The Most Powerful CPU Used In Data Centers ? – SCSI Shop</a></li>
 
 </ul>
 </details>
 
-**标签**: `#enterprise-storage`, `#SSD`, `#HDD`, `#data-center`, `#market-trends`
+**标签**: `#CPUs`, `#AMD`, `#Intel`, `#market-analysis`, `#hardware-industry`
 
 ---
 
 <a id="item-12"></a>
-## [混合型 T 细胞在超级百岁老人血液中显著增加](https://www.solidot.org/story?sid=85157) ⭐️ 7.3/10
+## [加拿大暂停与美国的贸易谈判，并以同等金额加征关税进行反击](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations) ⭐️ 6.0/10
 
-大阪大学研究人员发现，一种罕见的混合型 T 细胞（CD4 CTL）能在超级百岁老人体内显著扩增，约占其 T 细胞的 20%。这种细胞兼具识别与杀伤威胁的能力，可能解释了超级百岁老人非凡的抗癌能力和极端的长寿现象。
+加拿大暂停与美国的贸易谈判，并宣布将针对美国的贸易行为实施对等金额的报复性关税。
 
-rss · Solidot · 8月21日 08:26
+hackernews · backlit4034 · 8月22日 10:26 · [社区讨论](https://news.ycombinator.com/item?id=49398304)
 
-**标签**: `#immunology`, `#aging research`, `#longevity`, `#cancer research`, `#cell biology`
+**标签**: `#trade-policy`, `#geopolitics`, `#tariffs`, `#canada-usa`, `#international-trade`
 
 ---
 
 <a id="item-13"></a>
-## [重罪法庭](https://www.felonybench.com/) ⭐️ 7.0/10
+## [重罪记录](https://www.felonybench.com/) ⭐️ 6.0/10
 
-一个追踪目录，记录 AI 智能体无意中犯下重罪的实例，引发了关于 AI 智能体行为的法律责任、意图及企业问责制的深入讨论。
+一个追踪记录，整理 AI 智能体无意中看似违反法律的事件实例，引发了关于智能体 AI 系统中法律责任分配的重要讨论。
 
 hackernews · colinprince · 8月21日 15:17 · [社区讨论](https://news.ycombinator.com/item?id=49389430)
 
-**标签**: `#AI Safety`, `#AI Agents`, `#Legal Liability`, `#AI Ethics`, `#AI Governance`
+**标签**: `#ai-agents`, `#legal-liability`, `#alignment`, `#ai-safety`, `#agentic-systems`
 
 ---
 
 <a id="item-14"></a>
-## [美国边境：公民删除手机数据遭重罪指控](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) ⭐️ 7.0/10
+## [Kagi 新增过滤付费墙链接的搜索设置](https://kagi.com/changelog#11296) ⭐️ 6.0/10
 
-一名美国公民因在过境时删除手机数据而面临重罪指控，引发了人们对数字隐私权及边境搜查同意权的重大担忧。
+付费且无广告的搜索引擎 Kagi 推出了一项新设置，允许订阅用户在搜索结果中过滤掉带有付费墙的链接。该功能作为最近的更新日志的一部分上线。 对用户而言，这一功能通过只展示可以实际阅读的内容来提升搜索效率。然而，它也重新引发了关于网络新闻业可持续性的更广泛讨论，因为付费墙网站流量的减少可能进一步加剧出版商的收入压力。 该过滤器需要用户主动选择启用，即默认情况下仍会显示付费墙结果。社区用户建议将功能扩展为自动将付费墙链接跳转到网页存档版本，但目前尚未包含此能力。
 
-hackernews · floathub · 8月21日 12:10 · [社区讨论](https://news.ycombinator.com/item?id=49386895)
+hackernews · speckx · 8月21日 13:56 · [社区讨论](https://news.ycombinator.com/item?id=49388154)
 
-**标签**: `#civil-liberties`, `#digital-privacy`, `#border-security`, `#legal-precedent`, `#smartphone-security`
+**背景**: Kagi 是一家总部位于加州帕罗奥图的付费搜索引擎，与 Google 和 Bing 的不同之处在于它提供无广告、注重隐私的体验，并支持广泛的用户自定义功能，包括按类别过滤结果的"镜片（lenses）"功能。付费墙是出版商（尤其是新闻媒体）用来将内容限制在付费订阅之后才能访问的机制，包括硬付费墙、计量访问和免费增值等多种形式。用户希望免费获取信息与出版商需要收入来支撑新闻业之间的矛盾，是网络生态中长期存在的问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kagi">Kagi - Wikipedia</a></li>
+<li><a href="https://fingerprint.com/blog/how-paywalls-work-paywall-protection-tutorial/">How to Implement a Paywall to Prevent Content Bypass</a></li>
+<li><a href="https://crawlora.net/blog/how-paywalls-work">How Paywalls Actually Work : The Engineering Behind Them - Crawlora</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反应不一。几位评论者是热情的 Kagi 订阅用户，对该平台赞不绝口，但有人指出 Kagi 博客文章下的热门评论往往只是推广性的好评，而非实质性的讨论。其他人则强调了对网络新闻业不健康经济模式的担忧，并建议增加自动将付费墙链接替换为网页存档链接等补充功能。
+
+**标签**: `#search-engine`, `#Kagi`, `#paywalls`, `#online-journalism`, `#product-feature`
 
 ---
 
 <a id="item-15"></a>
-## [DeepSeek 为 V4-Flash 模型添加原生视觉能力，采用基于 Token 的图像处理](https://api-docs.deepseek.com/guides/vision/) ⭐️ 7.0/10
+## [Zig 的 io.threaded 相当精巧](https://matklad.github.io/2026/08/06/neat-io-threaded.html) ⭐️ 6.0/10
 
-DeepSeek 推出了 deepseek-v4-flash-vision-exp，这是一款实验性多模态视觉理解模型，已于 2026 年 8 月 21 日在其 API 平台上架。该模型在现有 V4-Flash 架构（总参数量 284B，激活 13B MoE）的基础上增加了原生视觉能力，使其能够直接处理图像，而不再依赖基于文本的变通方案。 此次更新弥补了 DeepSeek Flash 模型家族长期存在的短板，因为早前的 0731 版本以会在收到截图时产生视觉能力幻觉、试图发明基于文本的图像分析工具而闻名。需要视觉支持（尤其是 Playwright 等工作流自动化工具）的开发者现在可以依赖 DeepSeek 高效的 Flash 模型层，而无需切换到 Sonnet 等竞品。 图像根据其尺寸被转换为 token，并与文本 token 一起计费。小于约 384×384 的图像在保持宽高比的前提下被放大，而更大的图像在保持宽高比的前提下被缩放至约 800×800 像素。早期测试者反馈，该模型在简单的读时钟任务上失败，而竞品 Qwen3.8 27B 能成功完成；此外 800×800 的分辨率上限可能不足以对完整 A4/Letter 页面进行 OCR 识别。
+对 Zig 的 io.threaded 功能处理并发 I/O 的技术探讨，社区将其与 Java 的可中断通道以及 Windows 重叠 I/O 方式进行对比讨论。
 
-hackernews · dares2573 · 8月21日 10:33 · [社区讨论](https://news.ycombinator.com/item?id=49386163)
+hackernews · chilipepperhott · 8月21日 14:28 · [社区讨论](https://news.ycombinator.com/item?id=49388694)
 
-**背景**: 多模态大语言模型通过接受图像作为输入扩展了纯文本模型的能力，可执行视觉问答、OCR、截图解读和 UI 自动化等任务。DeepSeek-V4-Flash 是一种混合专家（MoE）模型，每次查询仅激活 284B 总参数量中的 13B，使其在高吞吐量 API 工作负载中具备成本效率。GPT-4o 和 Claude Sonnet 等具备视觉能力的大语言模型已通过原生图像处理树立了行业标杆，而 DeepSeek 的 Flash 层此前缺乏该能力，迫使用户切换模型或为任何图像相关任务实现脆弱的变通方案。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://zenmux.ai/deepseek/deepseek-v4-flash-vision-exp">deepseek / deepseek -v4- flash -vision-exp - ZenMux</a></li>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash">deepseek -ai/ DeepSeek -V4- Flash · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区情绪持谨慎乐观态度。开发者对此次新增功能表示欢迎，尤其是那些希望从 Sonnet 迁移过来以处理 Playwright 截图工作流的用户，但测试者也指出了准确性问题：一位用户展示该模型错误读取了时钟（回答 5:10 而不是正确时间），而 Qwen3.8 27B 几乎回答正确。另有人指出 0731 曾声称具备视觉能力后幻觉出虚假的图像分析工具，因此这次更新是一次重要的可靠性升级。
-
-**标签**: `#deepseek`, `#vision-models`, `#multimodal-ai`, `#llm-updates`, `#api-changes`
+**标签**: `#zig`, `#systems-programming`, `#io`, `#concurrency`, `#threading`
 
 ---
 
 <a id="item-16"></a>
-## [Nari Labs 将 Qwen3-TTS 延迟降至 34ms p95 TTFA](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/) ⭐️ 7.0/10
+## [成熟的三个教训：激励、自省与道德复杂性](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) ⭐️ 6.0/10
 
-Nari Labs 对开源的 Qwen3-TTS 模型进行了优化，在单块 NVIDIA H100 GPU 上以 10 RPS 的吞吐量实现了 34 ms 的 p95 首音频时间（TTFA），并在 GitHub 上开源了完整的实现和基准测试代码。 低于 50ms 的 TTFA 对人耳来说几乎无法察觉，消除了自然实时对话式语音助手中最大的瓶颈之一。通过在单卡 GPU 上开源可直接用于生产环境的方案，这项工作让前沿级别的低延迟 TTS 能够被更广泛的开发者和产品所使用。 该基准报告的是 p95（第 95 百分位尾部）延迟而非平均值，着重体现 10 RPS 负载下的最差响应表现。文章指出 vLLM-Omni 和 SGLang-Omni 等现有开源全栈方案在生产级实时播放场景中往往过慢，因此本次工作是一项针对性的工程优化，而非重新训练模型。
+安全研究员 Thomas Dullien（网名 Halvar Flake）发表了一篇个人随笔，总结了三条成熟的教训：理解自身的激励结构、认识到自己的想法和记忆可能并不可靠，以及接受看似简单的道德判断在仔细审视下往往会变得极为复杂。 这篇随笔意义重大，因为作者是漏洞研究与逆向工程领域的知名人物，他提出的主题——激励意识、认知谦逊与伦理审慎——与安全研究人员在披露漏洞、评估风险以及处理具有道德模糊性的攻击性安全研究工作时每天面对的困境高度契合。 第三条教训通过经典的 0day 困境加以说明——将漏洞用于抓捕恐怖分子与用于实施酷刑之间的区别——凸显出只要审视二阶后果，功利主义的简单计算就会崩塌。全文并未给出具体解决方案，而是将其框定为需要长期刻意培养的思维习惯。
 
-hackernews · toebee · 8月21日 15:51 · [社区讨论](https://news.ycombinator.com/item?id=49389952)
+hackernews · tdullien · 8月21日 22:29 · [社区讨论](https://news.ycombinator.com/item?id=49394496)
 
-**背景**: 首音频时间（TTFA）衡量的是从向 TTS 系统发送文本请求到收到第一个可播放音频片段之间的延迟，是语音助手感知延迟的主要组成部分。p95 指标表示 95% 的请求比报告值更快完成，是生产系统中衡量尾部延迟的标准方式。Qwen3-TTS 是阿里 Qwen 团队推出的开源文本转语音模型，采用语言模型架构，配合自定义的 12Hz 语音分词器来编解码听起来自然流畅的语音。
+**背景**: Thomas Dullien（广为人知的网名是 Halvar Flake）是安全社区的知名人物，以逆向工程、二进制分析与漏洞研究方面的工作著称，并联合创立了 zynamics 以及 Google Project Zero 的前身团队。“激励结构”这一概念呼应了经济学与行为科学中的观点——人们表达的偏好与实际表现的偏好会根据所获得的回报而产生分歧。“记忆不信任”是心理学中已被认可的现象，指个体开始怀疑自身回忆的准确性，这在临床心理学与司法取证研究中都有涉及。0day 道德困境则源自正义战争理论与功利主义伦理中长期存在的辩论：当后果具有概率性、因果链条不可预测地延伸时，目的能否证明手段正当。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/QwenLM/Qwen3-TTS">GitHub - QwenLM/ Qwen 3 - TTS : Qwen 3 - TTS is an open-source series...</a></li>
-<li><a href="https://replicate.com/qwen/qwen3-tts">Qwen 3 TTS | Text to Speech API</a></li>
-<li><a href="https://audixa.ai/guides/reliability-observability/p50-p95-p99-tts-latency/">How to implement p50 p95 p99 TTS latency - Audixa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Memory_distrust_syndrome">Memory distrust syndrome - Wikipedia</a></li>
+<li><a href="https://plato.stanford.edu/entries/moral-decision-uncertainty/">Moral Decision-Making Under Uncertainty (Stanford ...</a></li>
+<li><a href="https://www.ethicsandinternationalaffairs.org/online-exclusives/ethics-in-a-complex-world-why-moral-clarity-is-not-simple">Ethics in a Complex World: Why Moral Clarity Is Not</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 作者 toebee 将 TTFA 定位为关键的生产瓶颈，并以现有较慢的方案为参照说明优化动机。有语音助手实战经验的从业者（armcat、nowittyusername）对这项工作表示欢迎，但强调质量与延迟之间的权衡，并希望未来能在手机等低成本终端设备上运行，而不是依赖 H100 服务器。还有用户询问是否能在 Cloudflare AI Workers 上部署，也有评论者指出 OpenAI 的 GPT-Realtime-2 经常显得过于急切，同样需要类似的延迟工程优化。
+**社区讨论**: 评论涵盖了从务实的生活建议（优先关注医疗、心理治疗、运动，并原谅过去的自己）到更深入的哲学延伸。评论者 roenxi 认为，认识到自身心智的不可靠性会迫使人们进一步追问自己是否选择了“失败安全”还是“灾难性失败”的策略。Bambax 将 0day/KSM 的例子置于经典的“目的能否证明手段正当”辩论之中，而 bitexploder 则指出，大多数人在理解自身心智运作机制上投入的时间远远不够。
 
-**标签**: `#text-to-speech`, `#latency-optimization`, `#real-time-ai`, `#open-source`, `#voice-assistants`
+**标签**: `#Personal Growth`, `#Cognitive Bias`, `#Incentives`, `#Decision-Making`, `#Ethical Reasoning`
 
 ---
 
 <a id="item-17"></a>
-## [我正在变成 AI 盲](https://cymerys.com/w/im-becoming-ai-blind) ⭐️ 7.0/10
+## [科学家发布迄今最大的宇宙二维地图](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) ⭐️ 6.0/10
 
-这是一篇反思文章，讲述作者逐渐失去阅读 AI 生成文本的能力，并引发关于 AI 内容饱和所带来的心理和现实影响的讨论。
+DESI Legacy Imaging Surveys 团队发布了迄今最完整的宇宙二维地图，覆盖约 31,000 平方度的河外天空，包含光学和红外波段数据，编目了数万亿个天体。一个交互式 Web 查看器已在 viewer.legacysurvey.org 公开上线，任何人都可以浏览这些数据。 这张地图是天文学和宇宙学的里程碑式数据集，使全球研究者能够研究星系形成、大尺度结构以及暗能量的本质。作为 DESI 光谱巡天的基础数据，它推动了我们对宇宙加速膨胀的理解，并将 PB 级的天文数据开放给科学界和公众。 这套遗留巡天数据在光学和红外波段覆盖约 31,000 平方度天空，为 DESI 利用重子声波振荡进行的第四阶段暗能量观测提供了基础目录和推理模型。交互式查看器在上线初期出现了间歇性的 502 Bad Gateway 错误，反映了面向公众的基础设施所承受的巨大访问压力。
 
-hackernews · rcymerys · 8月21日 11:48 · [社区讨论](https://news.ycombinator.com/item?id=49386699)
+hackernews · NKosmatos · 8月21日 18:36 · [社区讨论](https://news.ycombinator.com/item?id=49392200)
 
-**标签**: `#AI`, `#cognitive-science`, `#content-fatigue`, `#human-AI-interaction`, `#psychology`
+**背景**: 暗能量光谱仪（DESI）是由美国能源部科学办公室支持的第四阶段暗能量实验，旨在利用重子声波振荡和其他光谱学技术测量宇宙的加速膨胀。暗能量和暗物质合计占据了宇宙物质-能量总量的绝大部分，但其本质仍是物理学中最深刻的未解之谜之一。在 DESI 对数百万星系进行光谱测量之前，它需要一张精确的成像星图来识别观测目标——这正是 DESI Legacy Imaging Surveys 所提供的数据。
+
+**社区讨论**: Commenters expressed awe at the cosmic vastness revealed by the map, with some describing it as a humbling experience to browse. There were practical concerns, including a 502 Bad Gateway error when accessing the viewer and skepticism about whether further large-scale astronomy projects will receive funding given current economic and strategic priorities. The thread also featured humor (a 'brick wall' joke referencing a zoomed-in patch) and a musical recommendation of Ligeti's Atmosphères as suitable accompaniment for exploring the canvas.
+
+**标签**: `#astronomy`, `#data-visualization`, `#scientific-computing`, `#mapping`, `#open-data`
 
 ---
 
 <a id="item-18"></a>
-## [CPU-Z 自 2001 年以来最大更新 V3 版本发布——新增 100+ 项健康检查、内置压力测试以及 XOC 有效时钟追踪功能](https://www.tomshardware.com/software/applications/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-in-stress-testing-and-xoc-effective-clock-tracking) ⭐️ 6.5/10
+## [中国 NAND 闪存厂商长江存储（YMTC）IPO 进程加速](https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/) ⭐️ 6.0/10
 
-CPU-Z V3 是该工具自 2001 年以来最大的一次更新，引入了 100 多项健康检查、内置压力测试以及 XOC 有效时钟追踪功能，提供全面的 PC 诊断体验。
+中国领先的本土 NAND 闪存制造商长江存储（YMTC）正在加快推进首次公开募股（IPO）进程以筹集资金。公司希望借助 AI 驱动的存储需求激增的东风，同时应对国内外市场的复杂局面。 YMTC 的 IPO 将是我国推动半导体自给自足进程中的一个重要里程碑，尤其是在目前由三星、SK 海力士和美光主导的存储芯片领域。此次融资不仅对扩大 NAND 产能以满足 AI 算力需求至关重要，也是在美国不断收紧针对中国芯片厂商出口管制背景下维持研发投入的关键举措。 YMTC 是一家垂直整合的 IDM（集成器件制造商），业务涵盖 3D NAND 闪存晶圆的设计与制造、封装芯片以及嵌入式存储解决方案。公司面临双重挑战：一方面需要扩大产能以与全球现有龙头竞争，另一方面还需在美国实体清单限制下应对先进芯片制造设备获取受限的局面。
 
-rss · Tom's Hardware · 8月21日 12:20
+rss · EE Times · 8月21日 18:00
 
-**标签**: `#cpu-z`, `#hardware-diagnostics`, `#overclocking`, `#system-tools`
+**背景**: YMTC 于 2016 年 7 月在武汉成立，得到了政府的大规模投资，其明确目标是减少中国对国外存储芯片厂商的依赖。NAND 闪存是一种非易失性存储技术，无需供电即可保留数据，广泛应用于固态硬盘（SSD）、U 盘、智能手机和数据中心。作为 NAND 领域的 IDM，YMTC 覆盖从芯片设计到晶圆制造的全产业链，这一模式与三星和美光类似。全球 NAND 市场历来由少数厂商主导，因此 YMTC 的崛起及其 IPO 进程对中国半导体产业具有重要的战略意义。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/nand-flash">What is NAND flash memory? - IBM</a></li>
+<li><a href="https://www.ymtc.com/en/aboutus.html">Company Profile-YMTC</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#NAND flash`, `#YMTC`, `#China tech`, `#IPO`
 
 ---
 
 <a id="item-19"></a>
-## [Nvidia H200 GPU 获批有限出口中国，但国产芯片已主导市场](https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses) ⭐️ 6.5/10
+## [Bazzite 44 正式发布掌上设备版，切换至 InputPlumber](https://www.techpowerup.com/351814/bazzite-44-gets-official-handheld-launch-with-slew-of-updates) ⭐️ 5.5/10
 
-中国已批准逐案发放进口许可，允许 Nvidia H200 GPU 进入字节跳动和腾讯等特定中国企业，据了解每家公司最多可获得 10 万颗配额。然而，这些经美方许可的芯片大部分必须留在大陆以外，实际影响非常有限。 这一进展凸显了中国 AI 基础设施市场格局的变化，美国出口管制加速了国产芯片的发展，使得 Nvidia 此时的进入在很大程度上仅为象征意义。该政策也反映了持续的中美半导体紧张局势，以及贸易限制如何重塑全球 AI 供应链。 Nvidia H200 配备 141GB HBM3e 显存，相比 H100 在生成式 AI 工作负载方面有显著提升。尽管获得批准，华为昇腾 910C 以及壁仞科技、摩尔线程、百度等中国厂商的替代产品已经在国内数据中心站稳脚跟。
+Bazzite 团队正式发布了 Bazzite 44 的稳定掌上设备版本，支持联想、华硕、微星和 Ayaneo 等厂商的设备。此次发布将 Handheld Daemon（HHD）替换为 InputPlumber 来处理控制器支持、模拟和重映射功能，而 TDP 控制则改由 SteamOS-Manager 或 PowerStation 接管。 Bazzite 是面向 Steam Deck 及其 Windows 竞品等掌上游戏设备的主要不可变 Linux 游戏发行版之一。从 HHD 迁移到 InputPlumber 是一次重要的架构变更，将影响日益壮大的掌上游戏硬件生态中的输入处理、TDP 管理和设备特定功能。 已知的问题包括 Legion Go 暂时失去陀螺仪支持（需等待修复补丁）、部分设备在桌面模式下无法控制 TDP，以及部分华硕和 Ayn 设备失去 RGB 灯效控制和风扇控制功能——这些问题的修复补丁正在开发中。Game Mode 现在集成了 Bazzite 更新功能，并且新增了一个桌面模式 GUI 用于管理更新和 Bazzite Portal。
 
-rss · Tom's Hardware · 8月21日 11:40
+rss · TechPowerUp News · 8月21日 22:32
 
-**背景**: Nvidia H200 是一款面向生成式 AI 和高性能计算的数据中心 GPU，是广泛部署的 H100 的继任者，搭载增强版 HBM3e 显存。近年来美国实施的出口管制限制了 Nvidia 最先进的芯片直接销往中国，促使华为、壁仞科技、摩尔线程等中国企业和初创公司加速国产 AI 加速器的研发。与此同时，Nvidia 更新的 Blackwell B200 等产品已在其他市场推出，因此 H200 进入中国时已不再是 Nvidia 产品线中最先进的型号。
+**背景**: Bazzite 是一个基于 Fedora Silverblue（属于 Fedora Atomic Desktop 系列）构建的不可变、专注于游戏的 Linux 发行版，使用 Universal Blue 工具链为玩家提供开箱即用的完整体验。Handheld Daemon（HHD）是一个第三方工具，为运行 Linux 的 Windows 掌上设备提供硬件支持，包括风扇曲线、TDP 控制、控制器模拟（包括陀螺仪）以及 RGB 重映射功能——本质上是替代 Armoury Crate 等厂商软件的 Linux 方案。InputPlumber 是一个开源的输入路由守护进程，可以合并多个输入设备并将其转换为多种虚拟设备格式，为 Linux 上的控制器处理提供更模块化的方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H 200 GPU | NVIDIA</a></li>
-<li><a href="https://wccftech.com/china-unveils-alternatives-to-nvidia-ai-gpus-huawei-tencent-baidu-birentech-moore-threads/">China Unveils Its Alternatives For NVIDIA 's AI Chips : Huawei ...</a></li>
-<li><a href="https://www.unite.ai/huaweis-ascend-910c-a-bold-challenge-to-nvidia-in-the-ai-chip-market/">Huawei ’s Ascend 910C: A Bold Challenge to NVIDIA in the AI Chip ...</a></li>
+<li><a href="https://github.com/ShadowBlip/InputPlumber">GitHub - ShadowBlip/InputPlumber: Open source input router ...</a></li>
+<li><a href="https://github.com/hhd-dev/hhd">GitHub - hhd-dev/hhd: Handheld Daemon, a tool for configuring ...</a></li>
+<li><a href="https://bazzite.gg/">Bazzite – The operating system for the next generation of gamers</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#Nvidia`, `#China`, `#AI infrastructure`, `#export-controls`
+**标签**: `#linux`, `#gaming`, `#handheld`, `#fedora`, `#bazzite`
 
 ---
 
 <a id="item-20"></a>
-## [Bosgame M5 评测：平价的 128GB Strix Halo AI 迷你桌面电脑](https://www.servethehome.com/bosgame-m5-amd-ryzen-ai-max-395-128gb-ai-desktop-review/) ⭐️ 6.5/10
+## [Intel Nova Lake-S 28 核 bLLC 型号 PL2 功耗将达 296W](https://www.techpowerup.com/351804/intel-nova-lake-s-28-core-sku-with-bllc-to-draw-nearly-300-w-at-pl2) ⭐️ 5.5/10
 
-ServeTheHome 评测了 Bosgame M5，这是一款搭载 AMD Ryzen AI Max+ 395（Strix Halo）处理器并配备 128GB LPDDR5X 统一内存的迷你桌面电脑，被定位为目前市场上最便宜的 128GB 本地 AI 推理系统之一。 高性价比的大内存系统对于在本地运行更大的大语言模型而不依赖云端 API 至关重要，这使得基于 Strix Halo 的迷你电脑成为昂贵独立 GPU 工作站的一个有吸引力的替代方案。Bosgame M5 有助于为这一新兴的统一内存 AI 桌面产品类别建立价格基准。 Ryzen AI Max+ 395 采用 4nm 工艺，拥有 16 个 Zen 5 CPU 核心，TDP 为 55W，并配备四通道 LPDDR5X 内存接口，使集成 Radeon GPU 能够访问全部 128GB 内存池来处理 AI 工作负载。这种统一内存方案与同样提供 128GB 内存但价格高得多的 NVIDIA DGX Spark 等独立 GPU 系统形成鲜明对比。
+根据微博上的爆料，Intel 即将推出的 Nova Lake-S 28 核桌面 CPU（配备大容量末级缓存 bLLC）在 PL2 功耗等级下最高功耗将达到 296W。相比当前 Arrow Lake-S 旗舰 Core Ultra 9 285K 的 250W PL2，这一数字增加了 18.4%，原因是新增了四颗 LPE 低功耗能效核。 这一爆料表明 Intel 下一代桌面平台的功耗将显著提升，令发烧友和 OEM 厂商对散热需求、能源成本以及平台稳定性产生担忧。结合此前泄露的 52 核双计算模块 SKU PL2 功耗高达 474W 的数据，Nova Lake-S 堪称 Intel 消费级桌面平台上一次前所未有的架构跃进。 296W 的功耗数据仅适用于单计算模块 SKU；双计算模块 52 核超频型号据传 PL2 功耗高达 474W。bLLC 技术是 Intel 对 AMD 3D V-Cache 的回应，预计将额外提供高达 144MB 的 L3 缓存，但据称仅限解锁的 K 系列桌面型号搭载。
 
-rss · ServeTheHome · 8月21日 16:28
+rss · TechPowerUp News · 8月21日 16:21
 
-**背景**: AMD 的 Strix Halo（Ryzen AI Max）平台专为 AI PC 和工作站设计，采用统一的 LPDDR5X 内存，可在 CPU 核心、集成 Radeon 显卡和 XDNA NPU 之间共享。这种架构特别适合本地大语言模型推理，因为推理过程需要大量高速内存来容纳模型权重。竞争平台包括采用统一内存的 Apple Silicon Mac，以及基于 Blackwell 架构、配备 128GB 统一内存的 NVIDIA DGX Spark 桌面 AI 超算。
+**背景**: PL2（Power Level 2）是指根据 Intel 功耗规范，CPU 在短时睿频加速期间所允许的最大功耗。大容量末级缓存（bLLC）是放置在封装上的额外 L3 缓存堆叠，功能类似于 AMD 的 3D V-Cache 技术，后者历来能显著提升游戏性能。Nova Lake-S 还将引入基于 Arctic Wolf 架构的 LPE 低功耗能效核，集成在 SoC 模块中以处理轻量级后台任务，从而为性能核保留更多能源。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html">AMD Ryzen ™ AI Max+ 395 | The ultimate next gen AI PCs</a></li>
-<li><a href="https://www.techpowerup.com/cpu-specs/ryzen-ai-max-395.c3994">AMD Ryzen AI Max+ 395 Specs | TechPowerUp CPU Database</a></li>
-<li><a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">Personal AI Supercomputer Powered by Blackwell | NVIDIA DGX Spark</a></li>
+<li><a href="https://www.techpowerup.com/351804/intel-nova-lake-s-28-core-sku-with-bllc-to-draw-nearly-300-w-at-pl2">Intel "Nova Lake-S" 28-Core SKU With bLLC to Draw... | TechPowerUp</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-series-3-cpus-could-finally-answer-amds-v-cache-nova-lake-could-boast-massive-144mb-l3">Intel Core Ultra Series 3 CPUs could finally answer AMD's V ...</a></li>
+<li><a href="https://www.techpowerup.com/343285/intel-nova-lake-could-get-144-mb-cache-boost-from-bllc">Intel "Nova Lake" Could Get 144 MB Cache Boost from bLLC</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#Ryzen AI Max`, `#local LLM`, `#hardware review`, `#AI workstation`
+**标签**: `#intel`, `#nova-lake-s`, `#cpu`, `#hardware-leaks`, `#power-consumption`
 
 ---

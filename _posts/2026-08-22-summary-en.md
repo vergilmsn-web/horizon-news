@@ -5,71 +5,57 @@ date: 2026-08-22
 lang: en
 ---
 
-> From 70 items, 20 important content pieces were selected
+> From 47 items, 20 important content pieces were selected
 
 ---
 
-1. [Researcher accidentally logs hundreds of thousands of calls to military bases via neglected ENUM DNS](#item-1) ⭐️ 8.0/10
-2. [TSMC Builds Silicon Photonics Foundry Platform for AI-Era Optical I/O](#item-2) ⭐️ 8.0/10
-3. [Intel Eyes a Memory Comeback as AI Rewrites Chip Economics](#item-3) ⭐️ 8.0/10
-4. [Rapidus Targets 8-Reticle Interposers on 600 mm Advanced Packaging Panels by 2030](#item-4) ⭐️ 7.5/10
-5. [World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’](#item-5) ⭐️ 7.5/10
-6. [LG Enters Chip Packaging with Laser Direct Imaging Machine](#item-6) ⭐️ 7.5/10
-7. [LG Display's FLiPP Photolithography Replaces Metal Masks for OLED Deposition](#item-7) ⭐️ 7.5/10
-8. [Supermicro fires employees over $2.5 billion China AI chip smuggling case](#item-8) ⭐️ 7.5/10
-9. [Micron commits $10 billion to new US-based Research Labs — Boise hub to target post-DRAM and NAND technologies and packaging](#item-9) ⭐️ 7.5/10
-10. [Slovakia finds Russian backdoors in 279 EU-funded traffic cameras](#item-10) ⭐️ 7.5/10
-11. [Enterprise SSDs now 18.6x pricier than HDDs as 30TB drives hit $22,600](#item-11) ⭐️ 7.5/10
-12. [混合型 T 细胞在超级百岁老人血液中显著增加](#item-12) ⭐️ 7.3/10
-13. [Felony Bench](#item-13) ⭐️ 7.0/10
-14. [Felony charges for citizen deleting phone data at US Border](#item-14) ⭐️ 7.0/10
-15. [DeepSeek Adds Native Vision to V4-Flash Model with Token-Based Image Processing](#item-15) ⭐️ 7.0/10
-16. [Nari Labs Cuts Qwen3-TTS Latency to 34ms p95 TTFA](#item-16) ⭐️ 7.0/10
-17. [I'm becoming AI-blind](#item-17) ⭐️ 7.0/10
-18. [CPU-Z gets biggest update since 2001 with V3 — 100+ health checks, built-in stress testing, and XOC effective clock tracking](#item-18) ⭐️ 6.5/10
-19. [Nvidia H200 GPUs approved for limited China export, but domestic chips dominate](#item-19) ⭐️ 6.5/10
-20. [Bosgame M5 Review: Affordable 128GB Strix Halo AI Mini Desktop](#item-20) ⭐️ 6.5/10
+1. [Rust Glancer: Rust LSP using 100x less RAM](#item-1) ⭐️ 8.0/10
+2. [TSMC's COUPE Platform: Wiring the AI Era with Silicon Photonics](#item-2) ⭐️ 8.0/10
+3. [Rapidus Targets 8-Reticle Interposers on 600mm Panels by 2030](#item-3) ⭐️ 7.5/10
+4. [Anna's Archive Urges Volunteers to Scan Books Before AI Firms Destroy Them](#item-4) ⭐️ 7.5/10
+5. [LG Enters Chip Packaging with Maskless LDI Lithography Machine](#item-5) ⭐️ 7.5/10
+6. [China Orders Early Switch from Windows 10 Government Edition to Domestic Linux](#item-6) ⭐️ 7.3/10
+7. [Cobalt Brings Open-Source App Platform to Kobo E-Readers](#item-7) ⭐️ 7.0/10
+8. [There's no reason for software to be slow anymore](#item-8) ⭐️ 7.0/10
+9. [OpenTelemetry Faces Real-World Adoption Challenges](#item-9) ⭐️ 7.0/10
+10. [Android XR SDK Core Libraries Reach Beta](#item-10) ⭐️ 7.0/10
+11. [Desktop CPU Shipments Fall 20% as AMD Gains Record Share](#item-11) ⭐️ 6.5/10
+12. [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](#item-12) ⭐️ 6.0/10
+13. [Felony Bench](#item-13) ⭐️ 6.0/10
+14. [Kagi Adds Setting to Filter Out Paywalled Links from Search Results](#item-14) ⭐️ 6.0/10
+15. [Zig’s io.threaded is neat](#item-15) ⭐️ 6.0/10
+16. [Three Lessons in Maturation: Incentives, Distrust, and Moral Complexity](#item-16) ⭐️ 6.0/10
+17. [Scientists Release Largest 2D Map of the Universe](#item-17) ⭐️ 6.0/10
+18. [China's NAND Specialist YMTC Moves Closer to IPO](#item-18) ⭐️ 6.0/10
+19. [Bazzite 44 Officially Launches for Handhelds with InputPlumber Switch](#item-19) ⭐️ 5.5/10
+20. [Intel Nova Lake-S 28-Core bLLC SKU to Draw 296W at PL2](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Researcher accidentally logs hundreds of thousands of calls to military bases via neglected ENUM DNS](https://lina.sh/blog/hijacking-e164-arpa) ⭐️ 8.0/10
+## [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) ⭐️ 8.0/10
 
-A researcher inadvertently discovered that the neglected e164.arpa ENUM DNS infrastructure was silently routing and logging hundreds of thousands of phone calls to military bases, exposing how legacy telephony protocols can quietly accumulate sensitive data for years. This discovery highlights how long-abandoned or poorly maintained internet infrastructure can become an unintended data sink for highly sensitive communications, including military calls, raising serious questions about the security of legacy protocols and the governance of reserved DNS zones. ENUM maps E.164 telephone numbers to internet resources such as SIP URIs via DNS using the reserved e164.arpa zone; the researcher likely operated an authoritative or recursive nameserver that captured queries intended for abandoned ENUM endpoints, causing calls to terminate at their infrastructure instead of reaching their intended military recipients.
+Matklad announces Rust Glancer, a new Rust LSP implementation designed to use ~100x less memory than rust-analyzer by trading disk caching for memory efficiency.
 
-hackernews · gavide · Aug 21, 13:11 · [Discussion](https://news.ycombinator.com/item?id=49387570)
+hackernews · matklad · Aug 21, 19:51 · [Discussion](https://news.ycombinator.com/item?id=49393052)
 
-**Background**: ENUM (E.164 Number Mapping) is a protocol standardized by the IETF that maps international telephone numbers to internet-based resources like SIP URIs, enabling convergence between traditional telephony and VoIP. The e164.arpa domain was reserved within the .arpa infrastructure zone specifically for this telephone number lookup function, similar to how in-addr.arpa handles reverse DNS for IPv4 addresses. Although ENUM was envisioned as a way to unify PSTN and internet-based communications, it never achieved widespread public adoption and gradually fell into disuse, leaving the authoritative DNS infrastructure for these numbers largely neglected.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Telephone_number_mapping">Telephone number mapping - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/E164.arpa">E.164 - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/.arpa">.arpa - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community commenters with direct expertise in ENUM, SIP, and telephony offered technical context: one noted that ENUM services still exist privately for number porting lookups over VPN, another expressed surprise that the author avoided legal consequences for capturing the traffic, and several highlighted how legacy infrastructure vulnerabilities can persist unnoticed for years. One commenter also pointed to the related TRIP protocol for telephony routing over IP, while multiple people noted that the vulnerability was likely ignored until military involvement was discovered.
-
-**Tags**: `#security`, `#telephony`, `#infrastructure`, `#DNS`, `#military`
+**Tags**: `#rust`, `#lsp`, `#developer-tools`, `#memory-optimization`, `#language-server`
 
 ---
 
 <a id="item-2"></a>
-## [TSMC Builds Silicon Photonics Foundry Platform for AI-Era Optical I/O](https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/) ⭐️ 8.0/10
+## [TSMC's COUPE Platform: Wiring the AI Era with Silicon Photonics](https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/) ⭐️ 8.0/10
 
-TSMC is developing a silicon photonics foundry platform alongside a packaging architecture called TSMC-COUPE (Compact Universal Photonic Engine) that integrates optical input/output directly with advanced logic chips, rather than selling standalone optical transceivers. The platform uses advanced 3D packaging to stack electronic and photonic integrated circuits together, enabling electrical signals to be transmitted through silicon photonics. This positions TSMC as a foundational supplier for next-generation AI infrastructure, where traditional copper-based electrical interconnects are hitting bandwidth and power walls. By offering optical I/O as a foundry-and-packaging platform, TSMC could capture a strategic layer of the AI hardware stack similar to how CoWoS became indispensable for GPU chiplet integration. COUPE is designed as an EIC-PIC (Electronic Integrated Circuit – Photonic Integrated Circuit) heterogeneous integration platform with an electrical interface engineered to minimize the coupling between the two, consolidating diverse photonic requirements onto a single standardized platform. The approach targets AI bandwidth demands specifically, rather than competing with merchant optical transceiver products in telecom markets.
+TSMC is developing a silicon photonics foundry platform alongside a packaging architecture called TSMC-COUPE (Compact Universal Photonic Engine), designed to integrate optical input/output directly with advanced logic processes rather than offering standalone optical transceivers. As AI workloads push copper interconnect bandwidth and energy limits to their breaking point, optical chip-to-chip links are becoming essential for scaling data-center systems. TSMC's vertical integration of photonics into its foundry flow could make it the dominant supplier of AI-era interconnect technology, much as CoWoS did for advanced 2.5D/3D packaging. First unveiled in TSMC's 2021 Hot Chips 3D packaging roadmap, COUPE is intended as a common photonic-engine structure that unifies monolithic, 2D, 2.5D, and 3D silicon photonics integration schemes into a single manufacturable architecture, targeting both optical transmission and tighter integration with logic dies.
 
 rss · SemiWiki · Aug 21, 17:00
 
-**Background**: Silicon photonics is a technology that uses silicon—patterned at sub-micrometre precision—to guide and manipulate infrared light (typically at the 1.55 micrometre telecom wavelength) for high-speed data transmission, leveraging the same CMOS-compatible fabrication processes used in mainstream chip manufacturing. Optical I/O replaces traditional electrical signaling between chips with light-based signaling, offering much higher bandwidth density and lower power consumption at long distances, which is critical as AI model sizes grow and GPU clusters require ever-faster chip-to-chip and chip-to-network links. Intel demonstrated a competing fully integrated optical I/O chiplet co-packaged with a CPU in January 2025, indicating that all major foundries and chipmakers are now racing to commercialize co-packaged optics for AI infrastructure.
+**Background**: Silicon photonics uses standard CMOS manufacturing to build optical components (waveguides, modulators, detectors) on silicon, enabling data to travel as light pulses through chips and between packages. Today's AI accelerators are increasingly bound by the speed and power consumption of electrical (copper) connections between chips, so integrating optics directly into advanced packaging allows far higher bandwidth at lower energy per bit. TSMC's CoWoS (Chip-on-Wafer-on-Substrate) pioneered 2.5D/3D logic+memory integration for AI GPUs, and COUPE represents the company's attempt to add an optical layer on top of that playbook.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.atlaspeakresearch.com/report/66ebb8">TSMC COUPE : The Underappreciated Platform Layer for AI Photonic ...</a></li>
-<li><a href="https://research.tsmc.com/page/on-chip-interconnect/14.html">Heterogeneous Integration of a Compact Universal Photonic Engine ...</a></li>
 <li><a href="https://english.cw.com.tw/article/article.action?id=4951">COUPE : TSMC 's Game Changer After CoWoS｜Industry｜2026-08-18...</a></li>
+<li><a href="https://www.atlaspeakresearch.com/report/66ebb8">TSMC COUPE : The Underappreciated Platform Layer for AI Photonic ...</a></li>
 
 </ul>
 </details>
@@ -79,301 +65,353 @@ rss · SemiWiki · Aug 21, 17:00
 ---
 
 <a id="item-3"></a>
-## [Intel Eyes a Memory Comeback as AI Rewrites Chip Economics](https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/) ⭐️ 8.0/10
+## [Rapidus Targets 8-Reticle Interposers on 600mm Panels by 2030](https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030) ⭐️ 7.5/10
 
-Intel is contemplating a return to memory technology decades after exiting DRAM/NAND, with CEO Lip-Bu Tan arguing AI is transforming memory from a commodity into a strategic, high-value component.
+At the 2026 OCP APAC Summit, Rapidus CTO Rozalia Beica outlined an advanced packaging roadmap targeting eight-reticle-size interposers (6,640 mm²) on 600×600 mm panel-level substrates by around 2030, with incremental steps at four reticles (3,320 mm²) and six reticles (4,980 mm²). The company is developing 2.xD packaging with redistribution layers on 600 mm glass carriers in partnership with Lam Research's Kallisto electroplating system, and plans to enter mass production in 2028. This roadmap positions Rapidus as a direct challenger to TSMC in advanced packaging, which is critical for AI and HPC chips that require large-scale chiplet integration. The panel-level approach offers dramatically higher throughput—49 interposer units per 600mm panel versus just 4 on a standard 300mm wafer—potentially disrupting the wafer-based scaling model that dominates the industry. Rapidus's panel-based yield of 49 units on a 600×600 mm panel dwarfs the 4 units achievable on a 300 mm wafer for the same 8-reticle interposer; TSMC's competing CoWoS roadmap reaches 14 reticles by 2028 using wafer-based scaling. The 600 mm panel format is being developed with Lam Research's Kallisto electroplating tool, and the company already taped out a 2 nm GAA test chip (237 MTr/mm²) with EUV tools, with its Chiplet Solutions pilot line scheduled for full operation in FY2026.
 
-rss · SemiWiki · Aug 21, 13:00
+rss · TechPowerUp News · Aug 21, 18:59
 
-**Tags**: `#Intel`, `#semiconductors`, `#AI infrastructure`, `#memory technology`, `#HBM`
+**Background**: An interposer is an intermediate electrical routing layer that connects multiple chiplets or dies within a single package, serving as a bridge between the IC and the underlying substrate or PCB. A reticle (or photomask) is the patterned quartz template used in photolithography to expose circuit designs onto a wafer; standard EUV reticles limit the maximum die area to roughly 26mm×26mm, so multi-chip packages must stitch together multiple reticles on an interposer. Panel-level packaging (PLP) uses large square or rectangular panels instead of round wafers to process packaging steps, offering significantly higher throughput and better area utilization, though it requires retooling from conventional wafer-based equipment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Interposer">Interposer - Wikipedia</a></li>
+<li><a href="https://semiengineering.com/are-larger-reticle-sizes-on-the-horizon/">Are Larger Reticle Sizes On The Horizon?</a></li>
+<li><a href="https://www.pcb-technologies.com/article/panel-level-packaging-vs-wafer-level-packaging/">Panel-Level Packaging vs. Wafer-Level Packaging</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#advanced-packaging`, `#Rapidus`, `#chip-manufacturing`, `#AI-infrastructure`
 
 ---
 
 <a id="item-4"></a>
-## [Rapidus Targets 8-Reticle Interposers on 600 mm Advanced Packaging Panels by 2030](https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030) ⭐️ 7.5/10
+## [Anna's Archive Urges Volunteers to Scan Books Before AI Firms Destroy Them](https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers) ⭐️ 7.5/10
 
-Rapidus outlines advanced packaging roadmap targeting 8-reticle interposers on 600mm panels by 2030, with panel-level processing offering substantial yield advantages over traditional 300mm wafers.
+A volunteer from Anna's Archive, the world's largest open shadow library, has issued a public call for volunteers to scan and upload physical books to preserve them for public access. The appeal comes in response to AI companies purchasing, scanning, and physically destroying books to extract training data for their AI models, a process Anna's Archive warns could permanently monopolize knowledge on private servers. This call highlights a growing tension between AI's insatiable demand for training data and the preservation of open public knowledge. If physical books are bought up and destroyed by a handful of AI companies, the public's ability to access and preserve humanity's written record could be permanently diminished, concentrating control of knowledge in private hands. Anna's Archive argues that AI companies find it easier and faster to scan physical books destructively than to use existing digital copies, because older physical books offer cleaner training data with fewer legal liability issues related to digital scraping. Anna's Archive itself was launched in 2022 by a pseudonymous figure named Anna shortly after law enforcement shut down Z-Library, and it aggregates records from Z-Library, Sci-Hub, and Library Genesis (LibGen).
 
-rss · TechPowerUp News · Aug 21, 18:59
+rss · Tom's Hardware · Aug 21, 14:33
 
-**Tags**: `#semiconductors`, `#advanced-packaging`, `#rapidus`, `#chiplets`, `#manufacturing`
+**Background**: A shadow library is an online repository that provides free access to copyrighted works such as books, academic papers, and textbooks that are normally behind paywalls. Anna's Archive is a nonprofit metasearch engine launched in 2022 that aggregates content from multiple shadow libraries, operating through anonymous archivists. Meanwhile, AI companies have increasingly turned to purchasing physical books—often older, out-of-print editions—because digital scraping carries copyright liability, and physical books offer higher-quality text data for training large language models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anna's_Archive">Anna's Archive - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shadow_library">Shadow library - Wikipedia</a></li>
+<li><a href="https://www.techspot.com/news/113277-ai-firms-quietly-buying-destroying-millions-printed-books.html">AI firms are quietly buying and destroying millions of ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI ethics`, `#copyright`, `#open knowledge`, `#shadow libraries`, `#data preservation`
 
 ---
 
 <a id="item-5"></a>
-## [World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’](https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers) ⭐️ 7.5/10
+## [LG Enters Chip Packaging with Maskless LDI Lithography Machine](https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput) ⭐️ 7.5/10
 
-Anna's Archive, the world's largest open library, is calling for volunteers to scan and preserve physical books as AI companies reportedly buy, scan, and destroy them for training data, risking permanent monopolization of knowledge on private servers.
+LG has entered the semiconductor packaging equipment market with a maskless Laser Direct Imaging (LDI) lithography machine designed to pattern fine metal interconnects for advanced packaging, with its highest-resolution version capable of producing 1.5-µm features. The rollout comes as TSMC's CoWoS advanced packaging capacity remains constrained, affecting AI chip production. This represents a significant diversification for a traditionally consumer-electronics-focused company into semiconductor manufacturing equipment, potentially adding new options to a market dominated by established lithography vendors. With CoWoS capacity being a well-documented bottleneck for AI chip production, alternative packaging approaches that trade resolution for higher throughput could help ease supply constraints. LG's LDI system is maskless, eliminating photomask fabrication costs and enabling faster iteration on packaging designs, but its 1.5-µm resolution ceiling means it is positioned for redistribution layer (RDL) interconnect patterning in advanced packaging rather than competing with front-end stepper lithography at the most critical layers.
 
-rss · Tom's Hardware · Aug 21, 14:33
+rss · Tom's Hardware · Aug 21, 13:35
 
-**Tags**: `#AI ethics`, `#digital preservation`, `#copyright`, `#open knowledge`, `#AI training data`
+**Background**: Laser Direct Imaging (LDI) is a maskless lithography technique that uses laser beams to directly pattern substrates, commonly used for high-density PCBs and increasingly explored for semiconductor packaging. TSMC's CoWoS (Chip-on-Wafer-on-Substrate) is a leading 2.5D advanced packaging technology that integrates multiple chips and HBM memory stacks on a silicon interposer, and it is critical for high-performance AI accelerators. The CoWoS process relies on photolithography steps to pattern fine redistribution layer (RDL) interconnects, which is precisely the area where alternative lithography approaches like LDI could enter the supply chain.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput">LG enters chip packaging arena with Laser Direct Imaging machine...</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Maskless_lithography">Maskless lithography - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#chip-packaging`, `#lithography`, `#advanced-manufacturing`, `#supply-chain`
 
 ---
 
 <a id="item-6"></a>
-## [LG Enters Chip Packaging with Laser Direct Imaging Machine](https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput) ⭐️ 7.5/10
+## [China Orders Early Switch from Windows 10 Government Edition to Domestic Linux](https://www.solidot.org/story?sid=85161) ⭐️ 7.3/10
 
-LG has introduced a maskless Laser Direct Imaging (LDI) lithography machine designed for chip packaging and high-density PCB production, entering the packaging equipment market at a time when TSMC's CoWoS capacity remains heavily constrained by surging AI demand. This move signals potential diversification of advanced packaging equipment suppliers beyond established players, which could help ease the packaging bottleneck that has constrained the supply of AI accelerators from NVIDIA and AMD. It also highlights how non-traditional semiconductor companies are seeking to address the throughput-versus-resolution trade-off in advanced packaging. LDI trades ultimate resolution for vastly higher throughput and large-area processing, and current-generation machines can only pattern RDL interposers — they cannot meet the resolution requirements needed for CoWoS-S or CoWoS-L/EMIB-like technologies. Because patterns are generated digitally without photomasks, LDI systems can create and calibrate circuit patterns in real time.
+China has ordered some government agencies to stop using Windows 10 Government Edition ahead of its planned February 2027 end-of-support date, moving the deadline to the second half of 2025, and to migrate to domestic Linux distributions such as Kylin OS and Tongxin UOS. Microsoft told Bloomberg it is unaware of any security incidents affecting the affected Windows system. The directive accelerates China's decoupling of government IT infrastructure from American software, reflecting a deepening commitment to digital sovereignty. It poses a significant market risk to Microsoft in one of its largest government markets while simultaneously validating and boosting adoption of homegrown Linux ecosystems such as Kylin and UOS. Windows 10 Government Edition was co-developed by Microsoft and China Electronics Technology Group's subsidiary China Standard Information Security Technology (CMIT, 神州网信), based on Windows 10 Enterprise with added security and management features. Tongxin UOS desktop is derived from Deepin, which itself is based on Debian Linux, while Kylin has historical roots in FreeBSD before evolving into an independent operating system line.
 
-rss · Tom's Hardware · Aug 21, 13:35
+rss · Solidot · Aug 22, 11:00
 
-**Background**: Laser Direct Imaging (LDI) is a maskless lithography technique that uses modulated lasers to directly pattern substrates, commonly used in PCB manufacturing and increasingly in wafer-level packaging. Chip-on-Wafer-on-Substrate (CoWoS) is TSMC's 2.5D advanced packaging architecture that integrates logic chips with HBM memory stacks using a silicon interposer, and it is the backbone technology for virtually every leading AI accelerator, including NVIDIA's H100, B200, and AMD's MI300 series. CoWoS capacity has been a critical bottleneck in the AI supply chain, driving intense industry interest in alternative or supplemental packaging technologies.
+**Background**: Digital sovereignty refers to a nation's ability to control its own digital infrastructure and data without dependence on foreign technology providers. The Windows 10 Government Edition was introduced in 2017 specifically for Chinese government departments and critical infrastructure, incorporating local modifications to meet Chinese regulatory requirements. China has pursued domestic operating system development for decades, with Kylin tracing back to 2006 and UOS emerging from a 2019 government initiative to replace foreign software in public sector systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput">LG enters chip packaging arena with Laser Direct Imaging machine, as TSMC's CoWoS remains constrained — maskless machine is designed to pattern fine interconnects, trading resolution for higher throughput | Tom's Hardware</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Maskless_lithography">Maskless lithography - Wikipedia</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/cowos">CoWoS® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Unity_Operating_System">Unity Operating System - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kylin_(operating_system)">Kylin (operating system) - Wikipedia</a></li>
+<li><a href="https://www.cmgos.com/web/product_en/overview_en/">Products – 神州网信技术有限公司</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#chip-packaging`, `#CoWoS`, `#lithography`, `#supply-chain`
+**Tags**: `#China`, `#digital-sovereignty`, `#Linux`, `#Microsoft`, `#tech-policy`
 
 ---
 
 <a id="item-7"></a>
-## [LG Display's FLiPP Photolithography Replaces Metal Masks for OLED Deposition](https://www.tomshardware.com/monitors/lg-display-introduces-new-oled-deposition-technique-that-uses-lithography-instead-of-metal-masks-flipp-photolithography-delivers-1-6x-brightness-and-2-4x-longer-lifespan) ⭐️ 7.5/10
+## [Cobalt Brings Open-Source App Platform to Kobo E-Readers](https://bandarlabs.github.io/Cobalt/) ⭐️ 7.0/10
 
-LG Display unveiled a new OLED deposition technique called FLiPP that uses photolithography—relying on photomasks and photoresist layers to pattern RGB subpixels—in place of the traditional Fine Metal Mask (FMM). The company reports the process delivers 1.6x brightness and 2.4x longer lifespan compared to conventional mask-based evaporation, while reducing material waste and manufacturing costs. Fine Metal Masks have been a long-standing bottleneck in OLED manufacturing: they waste organic material, are expensive to produce, and physically sag under their own weight, limiting panel size and yield. By replacing FMM with photolithography—a process already proven in semiconductor fabs—LG Display could lower production costs, enable larger or higher-resolution OLED panels, and push OLED into price points where it competes more directly with LCD. The FLiPP process relies on photomasks and photoresist layers rather than physically shadowing deposition through a metal plate, which means organic emitter material can be deposited more uniformly without being blocked or wasted. LG Display positions FLiPP as a complement to its RGB OLED stack and pairs it with its Hyper Double Scanning (HDS) panel driving technology, which recently won the IMID 'Display of the Year' award.
+BandarLabs has released Cobalt, an open-source application platform for Kobo e-readers that includes a launcher, a signed App Store, a Rust-based SDK, and a runtime with capability isolation where apps operate in unprivileged processes. After a one-time USB installation, users can install, update, and remove signed apps over Wi-Fi. Cobalt significantly expands what users can do with a Kobo device, which has historically been locked into Rakuten's reading-focused ecosystem. It transforms a niche e-reader into a more general-purpose computing device while preserving a managed app-distribution model, potentially inspiring similar efforts on other e-readers. As of now, Cobalt only supports the Kobo Clara BW (model N365); other models are rejected during installation. The runtime uses capability isolation to keep apps sandboxed, and a bundled Clara BW simulator is included for development and testing.
 
-rss · Tom's Hardware · Aug 21, 12:40
+hackernews · thepoet · Aug 21, 16:25 · [Discussion](https://news.ycombinator.com/item?id=49390427)
 
-**Background**: OLED displays are typically built by evaporating red, green, and blue organic compounds onto a substrate through a Fine Metal Mask (FMM)—a thin metal sheet with precision-etched holes that defines where each subpixel lands. Because the mask is a physical object, it wastes material that misses the holes, costs significant money to fabricate and align, and tends to sag over large areas, which is one reason why scaling OLED to very large TV panels has been difficult. Photolithography, by contrast, is the dominant patterning technique in semiconductor manufacturing: light is projected through a photomask onto a light-sensitive photoresist layer, which is then developed to create precise patterns without any physical mask touching the deposition area.
+**Background**: Kobo e-readers, made by Rakuten, have long had an active modding community thanks to their Linux-based firmware. Existing alternatives include NickelMenu, a lightweight launcher add-on that integrates with Kobo's native reading software called Nickel, and KOReader, an open-source alternative reader. More advanced users can flash PostmarketOS, a full Linux distribution, to replace the stock OS entirely. Cobalt occupies a middle ground: rather than replacing Kobo's firmware, it layers a managed app platform on top of the existing system.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/computing/articles/lg-display-introduces-oled-deposition-124000490.html">LG Display introduces new OLED deposition technique that uses ...</a></li>
-<li><a href="https://news.lgdisplay.com/en/2026/08/lg-display-unveils-flipp-achieving-dream-next-generation-oled/">LG Display unveils FLiPP, achieving dream next-generation ...</a></li>
-<li><a href="https://news.lgdisplay.com/en/2024/02/display-101-30-fmm/">[DISPLAY 101 #30] FMM - LG Display Newsroom</a></li>
+<li><a href="https://github.com/BandarLabs/Cobalt">GitHub - BandarLabs/Cobalt: An SDK for building real apps for ...</a></li>
+<li><a href="https://elsolitario.org/en/2026/08/21/cobalt-app-store-sdk-kobo-ereaders/">Cobalt: App Store and Rust SDK for Kobo E-Readers</a></li>
+<li><a href="https://aitoolly.com/ai-news/article/2026-08-22-cobalt-open-source-platform-brings-apps-and-sdk-to-kobo-e-readers-via-new-app-store">Cobalt Platform: Run Apps and SDK on Kobo E-Readers</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OLED`, `#display-technology`, `#manufacturing`, `#LG-Display`, `#hardware`
+**Discussion**: The community response is mixed but engaged. Several commenters pointed to existing solutions like NickelMenu and PostmarketOS, noting that these have been around for years. One user shared their own PostmarketOS-based UI called 'air' that runs Firefox and Syncthing on a Kobo Clara. Others expressed philosophical opposition, arguing that an e-reader should remain a distraction-free reading device. Hardware limitations were also highlighted, with a recommendation to avoid single-core Kobo models due to sluggish performance.
+
+**Tags**: `#Kobo`, `#e-readers`, `#open-source`, `#Linux`, `#app-platforms`
 
 ---
 
 <a id="item-8"></a>
-## [Supermicro fires employees over $2.5 billion China AI chip smuggling case](https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions) ⭐️ 7.5/10
+## [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) ⭐️ 7.0/10
 
-Supermicro fired several employees from its sales, technical support, and business development departments after an independent investigation uncovered approximately $2.5 billion worth of restricted AI chips being smuggled to China. The investigation also cleared senior management of wrongdoing and confirmed that the company's financial statements remained reliable. This case highlights significant vulnerabilities in the enforcement of US AI chip export controls to China and raises questions about corporate compliance at major server manufacturers. With smuggling estimated at roughly 300,000 Nvidia H100-equivalents by end of 2025, the incident underscores how individual employees can circumvent restrictions even when senior leadership is uninvolved, putting the entire industry under increased regulatory scrutiny. The terminated employees came specifically from sales, technical support, and business development roles, suggesting the smuggling operation was coordinated through customer-facing and technical channels. Supermicro's use of an independent investigation rather than an internal review signals the gravity of the allegations and is likely intended to restore investor confidence amid ongoing regulatory and legal exposure.
+Dan Luu's analysis arguing that modern software should no longer be slow, likely covering AI/agent-driven performance optimization techniques and revisiting superoptimization with LLMs.
 
-rss · Tom's Hardware · Aug 21, 12:20
+hackernews · Jach · Aug 22, 01:06 · [Discussion](https://news.ycombinator.com/item?id=49395628)
 
-**Background**: The US Bureau of Industry and Security (BIS) has progressively tightened export controls on advanced AI chips to China since 2022, targeting high-performance Nvidia data center GPUs such as the A100, H100, and H200, as well as consumer chips like the RTX 4090. These rules aim to prevent China from acquiring advanced compute for military AI applications, but smuggling networks have emerged using shell companies, fake compliance audits, and product diversion to circumvent restrictions. Earlier indictments have charged individuals with similar schemes, and research estimates suggest nearly 300,000 H100-equivalents may have been diverted to China through illegal channels.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://epoch.ai/publications/chip-smuggling">Diversion and resale: estimating compute smuggling to China</a></li>
-<li><a href="https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls">AI Chip Smuggling: The Limits of US Export Controls</a></li>
-<li><a href="https://www.fenwick.com/insights/publications/bis-significantly-restricts-chinese-access-to-advanced-computing-and-semiconductor-manufacturing-items">BIS Significantly Restricts Chinese Access to Advanced ... | Fenwick</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI chips`, `#export controls`, `#Supermicro`, `#China sanctions`, `#hardware smuggling`
+**Tags**: `#performance-optimization`, `#software-engineering`, `#superoptimization`, `#AI-agents`, `#dan-luu`
 
 ---
 
 <a id="item-9"></a>
-## [Micron commits $10 billion to new US-based Research Labs — Boise hub to target post-DRAM and NAND technologies and packaging](https://www.tomshardware.com/tech-industry/micron-commits-usd10-billion-to-new-us-based-research-labs-boise-hub-to-target-post-dram-and-nand-technologies-and-packaging) ⭐️ 7.5/10
+## [OpenTelemetry Faces Real-World Adoption Challenges](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/) ⭐️ 7.0/10
 
-Micron commits $10 billion to a new Boise-based Research Labs hub targeting post-DRAM and NAND memory technologies, advanced packaging, and pre-competitive IP development through industry-academia-government collaboration.
+A detailed blog critique by Mat Duggan catalogs OpenTelemetry's practical shortcomings, including SDK complexity rooted in 'Java-isms', over-reliance on opaque automatic instrumentation, and architectural fragmentation, all validated by a community spreadsheet of pain points. OpenTelemetry is the de facto standard for vendor-neutral observability, and if its SDKs and data models are too cumbersome for modern workloads like durable execution engines, the entire observability ecosystem risks friction between tool vendors and practitioners, slowing debugging and incident response. The critique highlights that OTel's traces, metrics, and logs are designed independently with no shared semantic layer, and its automatic instrumentation relies on techniques like monkey-patching and bytecode rewriting that obscure behavior and break down on long-running, retry-heavy distributed workflows.
 
-rss · Tom's Hardware · Aug 21, 12:00
+hackernews · hn_acker · Aug 21, 17:45 · [Discussion](https://news.ycombinator.com/item?id=49391553)
 
-**Tags**: `#semiconductors`, `#memory-technology`, `#R&D`, `#Micron`, `#hardware-investment`
+**Background**: OpenTelemetry (OTel) is an open-source, vendor-neutral observability framework formed from the merger of OpenTracing and OpenCensus, providing SDKs, APIs, and tools for emitting traces, metrics, and logs to backend systems. It supports auto-instrumentation across .NET, Java, Node.js, Python, and Go—commonly implemented via bytecode injection, monkey-patching, or AST modification—so that applications can be observed without manual code changes. While adoption has been broad, the framework's design assumes relatively conventional microservice topologies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://opentelemetry.io/docs/what-is-opentelemetry/">What is OpenTelemetry? | OpenTelemetry</a></li>
+<li><a href="https://opentelemetry.io/blog/2025/demystifying-auto-instrumentation/">Demystifying Automatic Instrumentation: How the Magic ...</a></li>
+<li><a href="https://signoz.io/blog/opentelemetry-auto-instrumentation/">How OpenTelemetry Auto-instrumentation Works | SigNoz</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters broadly agreed with the critique. osener called the SDKs a 'nightmare' and noted OTel breaks down on durable execution engines and long-running workflows. EdSchouten pushed for a unified annotation model where traces, metrics, and logs could be decided dynamically at runtime. brikym offered a contrarian view that manual business-event instrumentation delivers more value, while rcleveng compared OTel to Kubernetes—useful as a foundation rather than a finished product.
+
+**Tags**: `#opentelemetry`, `#observability`, `#distributed-tracing`, `#developer-experience`, `#monitoring`
 
 ---
 
 <a id="item-10"></a>
-## [Slovakia finds Russian backdoors in 279 EU-funded traffic cameras](https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units) ⭐️ 7.5/10
+## [Android XR SDK Core Libraries Reach Beta](https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/) ⭐️ 7.0/10
 
-Slovakia's national security service discovered Russian-linked backdoors in 279 newly acquired speed and traffic cameras that were part of an EU-funded modernization rollout. The vulnerabilities include SMS-triggered shell access allowing remote command execution and passwordless live feeds that expose camera streams without authentication. This incident highlights severe supply chain security risks in EU-funded critical infrastructure procurement, where compromised hardware can provide foreign intelligence services with covert surveillance and remote control capabilities. It raises broader concerns about vetting procedures for IoT devices deployed in public safety and transportation systems across Europe. The backdoors were reportedly SMS-triggered, meaning an attacker could send a specially crafted text message to gain shell-level access to the camera system. Additionally, live feeds were accessible without any password authentication, making the cameras trivially exploitable by anyone who knew the network address. The Slovak national security service has deactivated the offending units pending further investigation.
+Google has officially moved its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries to beta status, with Jetpack Compose for XR expected to follow soon. This beta milestone signals the maturation of Google's Android XR developer ecosystem, giving developers more stable tooling to build spatial computing applications for headsets and smart glasses. It strengthens Android XR's position alongside competing platforms in the rapidly growing XR/spatial computing market. Jetpack SceneCore provides a high-level API for building and manipulating the Android XR scene graph with 3D content, while ARCore for Jetpack XR handles perception features that blend digital content into the real world. These libraries were in alpha before this promotion to beta, indicating API interfaces are now considered more stable though still subject to change before full release.
 
-rss · Tom's Hardware · Aug 21, 11:00
+rss · Electronics Weekly · Aug 21, 14:39
 
-**Background**: A backdoor in cybersecurity refers to a hidden method of bypassing normal authentication to gain remote access to a system, often allowing attackers to execute commands or exfiltrate data. SMS-triggered shell access is particularly concerning because it enables remote control via simple text messages, removing the need for traditional network-based exploitation. This case also represents a supply chain attack, where malicious functionality is embedded in hardware or software before it reaches the end user — a growing threat vector for IoT devices, which often have limited built-in security due to hardware constraints. The involvement of EU funding adds a geopolitical dimension, raising questions about how EU member states verify the integrity of equipment procured with European public money.
+**Background**: Android XR is Google's operating system for extended reality devices including VR headsets and AI smart glasses, launched in late 2025 in partnership with Samsung and Qualcomm under the Project Aura initiative. Jetpack XR is the corresponding SDK suite providing libraries for XR development, with Jetpack Compose for XR allowing developers to declaratively build spatial UIs using familiar Compose concepts such as spatial panels and orbiters. Beta status is a standard Android development milestone indicating that APIs are approaching general availability but may still undergo changes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units">Slovakia discovers Russian backdoors in 279 new traffic ...</a></li>
-<li><a href="https://www.imperva.com/learn/application-security/backdoor-shell-attack/">What is a Backdoor Attack | Shell & Trojan Removal | Imperva SMS and SST-2 Datasets | zhangrui4041/Instruction_Backdoor ... Backdoor:Win64/MeterpreterReverseShell.A!sms threat ... Ukraine Says Russian Intelligence Used Fake Support Texts to ... SMS Attacks and Mobile Malware Threats - Kaspersky Kaspersky SOC analyzes an incident involving a web shell used ...</a></li>
-<li><a href="https://futureiot.tech/tokyo-university-investigates-hardware-trojans-in-iot-devices/">Tokyo University Investigates Hardware Trojans In IoT Devices</a></li>
+<li><a href="https://developer.android.com/develop/xr/jetpack-xr-sdk">Develop with the Jetpack XR SDK | Android XR for Jetpack XR SDK</a></li>
+<li><a href="https://developer.android.google.cn/jetpack/androidx/releases/xr-scenecore?hl=en&authuser=0">XR SceneCore | Jetpack | Android Developers</a></li>
+<li><a href="https://virtualverse.studio/blogs/what-is-android-xr">What Is Android XR ? Google's Platform Explained (2026)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#supply-chain-security`, `#critical-infrastructure`, `#national-security`, `#eu-security`
+**Tags**: `#Android`, `#XR`, `#Google`, `#SDK`, `#AR/VR`
 
 ---
 
 <a id="item-11"></a>
-## [Enterprise SSDs now 18.6x pricier than HDDs as 30TB drives hit $22,600](https://www.tomshardware.com/pc-components/ssds/enterprise-ssds-now-cost-18-times-more-than-hard-drives-per-terabyte) ⭐️ 7.5/10
+## [Desktop CPU Shipments Fall 20% as AMD Gains Record Share](https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records) ⭐️ 6.5/10
 
-A 30TB TLC enterprise SSD now costs $22,600, roughly 6.5 times the $3,460 price tag it carried around the same time last year. Meanwhile, HDD supply is reportedly sold out through 2027, amplifying the storage cost squeeze on data center operators. The 18.6x cost-per-terabyte gap between enterprise SSDs and HDDs is an extreme industry signal that could reshape data center and cloud infrastructure procurement strategies. With HDDs sold out through 2027, buyers may be forced to absorb punishing SSD prices or delay capacity expansions entirely. The price spike affects TLC (Triple-Level Cell) NAND-based enterprise drives, which store three bits per cell as a middle-ground balance between performance, endurance, and cost. Enterprise SSDs differ from consumer models by offering higher endurance ratings, more consistent performance under sustained workloads, and features like power-loss protection tailored for data center use.
+A market analysis reports that desktop CPU shipments fell 20% amid high component costs. Intel increased data-center and notebook CPU output, yet AMD reportedly outgrew Intel and captured a record share of the market. The divergence shows that AMD can gain share in a contracting segment rather than relying on overall market growth. It also highlights how component costs and supply allocation are reshaping competition across desktop, notebook, and data-center processor markets. The 20% figure measures desktop shipment volume, while market share measures AMD's portion relative to the overall market. Intel's stronger notebook and data-center output means the companies were not competing solely through desktop shipment volumes.
 
-rss · Tom's Hardware · Aug 21, 10:30
+rss · Tom's Hardware · Aug 22, 12:30
 
-**Background**: SSDs use NAND flash memory to store data electronically, while HDDs rely on spinning magnetic platters, making HDDs far cheaper per terabyte but much slower. TLC is one of several NAND types (alongside SLC, MLC, and QLC), trading some speed and endurance for higher density and lower cost. Historically, SSDs have commanded a premium over HDDs, but the current 18.6x gap is far above the long-term norm and signals acute supply-demand imbalance, likely tied to surging AI-driven storage demand.
+**Background**: A CPU processes instructions and coordinates work inside a computer. Desktop processors serve personal computers, while data-center processors such as Intel Xeon and AMD EPYC emphasize reliability, scalability, and multithreading for concurrent workloads; notebook CPUs target mobile systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand">2D vs 3D NAND: Differences Between SLC, MLC, TLC and QLC ...</a></li>
-<li><a href="https://hddhunt.com/ssd-vs-hdd-price-comparison/">SSD vs HDD Price Comparison, Cost per TB (2026) | HDDHunt</a></li>
-<li><a href="https://www.crucial.com/articles/for-businesses/consumer-ssds-vs-enterprise-ssds">Consumer vs. Enterprise SSDs: What’s the Difference</a></li>
+<li><a href="https://www.ibm.com/think/topics/central-processing-unit">What is a Central Processing Unit ( CPU )? | IBM</a></li>
+<li><a href="https://scsishop.co.uk/blogs/uncategorized/what-is-the-most-powerful-cpu-used-in-data-centers">What Is The Most Powerful CPU Used In Data Centers ? – SCSI Shop</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#enterprise-storage`, `#SSD`, `#HDD`, `#data-center`, `#market-trends`
+**Tags**: `#CPUs`, `#AMD`, `#Intel`, `#market-analysis`, `#hardware-industry`
 
 ---
 
 <a id="item-12"></a>
-## [混合型 T 细胞在超级百岁老人血液中显著增加](https://www.solidot.org/story?sid=85157) ⭐️ 7.3/10
+## [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations) ⭐️ 6.0/10
 
-Osaka University researchers found that a rare hybrid T-cell type (CD4 CTL) that can both recognize and kill threats expands dramatically in supercentenarians (~20% of T cells), potentially explaining their exceptional cancer resistance and extreme longevity.
+Canada suspends trade negotiations with the US and announces dollar-for-dollar retaliatory tariffs in response to US trade actions.
 
-rss · Solidot · Aug 21, 08:26
+hackernews · backlit4034 · Aug 22, 10:26 · [Discussion](https://news.ycombinator.com/item?id=49398304)
 
-**Tags**: `#immunology`, `#aging research`, `#longevity`, `#cancer research`, `#cell biology`
+**Tags**: `#trade-policy`, `#geopolitics`, `#tariffs`, `#canada-usa`, `#international-trade`
 
 ---
 
 <a id="item-13"></a>
-## [Felony Bench](https://www.felonybench.com/) ⭐️ 7.0/10
+## [Felony Bench](https://www.felonybench.com/) ⭐️ 6.0/10
 
-A tracker cataloging instances of AI agents inadvertently committing felonies, sparking substantive discussion about legal liability, intent, and corporate accountability for AI agent behavior.
+A tracker cataloging instances where AI agents inadvertently commit apparent legal violations, sparking important discussion about legal liability allocation in agentic AI systems.
 
 hackernews · colinprince · Aug 21, 15:17 · [Discussion](https://news.ycombinator.com/item?id=49389430)
 
-**Tags**: `#AI Safety`, `#AI Agents`, `#Legal Liability`, `#AI Ethics`, `#AI Governance`
+**Tags**: `#ai-agents`, `#legal-liability`, `#alignment`, `#ai-safety`, `#agentic-systems`
 
 ---
 
 <a id="item-14"></a>
-## [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) ⭐️ 7.0/10
+## [Kagi Adds Setting to Filter Out Paywalled Links from Search Results](https://kagi.com/changelog#11296) ⭐️ 6.0/10
 
-A US citizen faces felony charges for deleting phone data during a border crossing, raising significant concerns about digital privacy rights and search consent at US borders.
+Kagi, the paid ad-free search engine, introduced a new user-facing setting that allows subscribers to filter paywalled links out of their search results. The feature was rolled out as part of a recent changelog update. For users, the feature improves search efficiency by surfacing only content they can actually read. However, it also reignites a broader debate about the sustainability of online journalism, as reduced traffic to paywalled sites could further strain publisher revenue models. The filter is opt-in, meaning users must actively choose to hide paywalled results. Community members have suggested extending the feature to auto-redirect paywalled links to archive versions, though that capability is not currently included.
 
-hackernews · floathub · Aug 21, 12:10 · [Discussion](https://news.ycombinator.com/item?id=49386895)
+hackernews · speckx · Aug 21, 13:56 · [Discussion](https://news.ycombinator.com/item?id=49388154)
 
-**Tags**: `#civil-liberties`, `#digital-privacy`, `#border-security`, `#legal-precedent`, `#smartphone-security`
+**Background**: Kagi is a subscription-based search engine based in Palo Alto, California, that differentiates itself from Google and Bing by offering an ad-free, privacy-focused experience with extensive user customization, including 'lenses' that filter results by category. Paywalls are mechanisms used by publishers—particularly news outlets—to restrict access to content behind a paid subscription, and they come in several forms including hard paywalls, metered access, and freemium models. The tension between users wanting free access to information and publishers needing revenue to fund journalism is a long-standing issue in the web ecosystem.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kagi">Kagi - Wikipedia</a></li>
+<li><a href="https://fingerprint.com/blog/how-paywalls-work-paywall-protection-tutorial/">How to Implement a Paywall to Prevent Content Bypass</a></li>
+<li><a href="https://crawlora.net/blog/how-paywalls-work">How Paywalls Actually Work : The Engineering Behind Them - Crawlora</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is mixed. Several commenters are enthusiastic Kagi subscribers praising the platform, though one noted that top comments on Kagi blog posts are frequently just promotional testimonials rather than substantive discussion. Others highlighted deeper concerns about the broken economics of online journalism and suggested complementary features like auto-swapping paywalled links for archive URLs.
+
+**Tags**: `#search-engine`, `#Kagi`, `#paywalls`, `#online-journalism`, `#product-feature`
 
 ---
 
 <a id="item-15"></a>
-## [DeepSeek Adds Native Vision to V4-Flash Model with Token-Based Image Processing](https://api-docs.deepseek.com/guides/vision/) ⭐️ 7.0/10
+## [Zig’s io.threaded is neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html) ⭐️ 6.0/10
 
-DeepSeek has launched deepseek-v4-flash-vision-exp, an experimental multimodal visual understanding model available on its API platform as of August 21, 2026. The model adds native vision capabilities to the existing V4-Flash architecture (284B total parameters, 13B activated MoE), allowing it to process images directly rather than relying on text-based workarounds. This update closes a long-standing gap in DeepSeek's Flash model family, as earlier versions like 0731 were known to hallucinate vision capabilities and try to invent text-based image analysis tools when users sent screenshots. Developers who need vision support — particularly for workflow automation tools like Playwright — can now rely on DeepSeek's efficient Flash model tier instead of switching to competitors like Sonnet. Images are converted into tokens based on their dimensions and billed together with text tokens. Images smaller than roughly 384×384 are scaled up while preserving aspect ratio, while larger images are scaled down to approximately 800×800 pixels. Early testers report that the model fails simple clock-reading tasks where competitor Qwen3.8 27B succeeds, and the 800×800 resolution ceiling may be insufficient for OCR on full A4/Letter pages.
+A technical exploration of Zig's io.threaded feature for handling concurrent I/O, with community discussion comparing it to Java's interruptible channels and Windows overlapped I/O approaches.
 
-hackernews · dares2573 · Aug 21, 10:33 · [Discussion](https://news.ycombinator.com/item?id=49386163)
+hackernews · chilipepperhott · Aug 21, 14:28 · [Discussion](https://news.ycombinator.com/item?id=49388694)
 
-**Background**: Multimodal LLMs extend pure text models by accepting images as input, enabling tasks like visual question answering, OCR, screenshot interpretation, and UI automation. DeepSeek-V4-Flash is a Mixture-of-Experts (MoE) model where only 13B of 284B total parameters are activated per query, making it cost-efficient for high-throughput API workloads. Vision-capable LLMs like GPT-4o and Claude Sonnet have set expectations by natively processing images, while DeepSeek's flash tier previously lacked this capability, forcing users to switch models or implement brittle workarounds for any image-related tasks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zenmux.ai/deepseek/deepseek-v4-flash-vision-exp">deepseek / deepseek -v4- flash -vision-exp - ZenMux</a></li>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash">deepseek -ai/ DeepSeek -V4- Flash · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment is cautiously optimistic. Developers welcome the addition, especially those migrating from Sonnet for Playwright screenshot workflows, but testers flagged accuracy concerns: one user showed the model misreading a clock (answering 5:10 instead of the correct time) while Qwen3.8 27B nearly got it right. Another pointed out that 0731 used to claim vision capabilities and then hallucinate fake image-analysis tools, making this an important reliability upgrade.
-
-**Tags**: `#deepseek`, `#vision-models`, `#multimodal-ai`, `#llm-updates`, `#api-changes`
+**Tags**: `#zig`, `#systems-programming`, `#io`, `#concurrency`, `#threading`
 
 ---
 
 <a id="item-16"></a>
-## [Nari Labs Cuts Qwen3-TTS Latency to 34ms p95 TTFA](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/) ⭐️ 7.0/10
+## [Three Lessons in Maturation: Incentives, Distrust, and Moral Complexity](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) ⭐️ 6.0/10
 
-Nari Labs optimized the open-source Qwen3-TTS model to achieve a p95 time-to-first-audio (TTFA) of 34 ms while sustaining 10 requests per second on a single NVIDIA H100 GPU, and released the full implementation and benchmarking code on GitHub. Sub-50ms TTFA is essentially imperceptible to human ears and removes one of the largest remaining bottlenecks for natural, real-time conversational voice agents. By open-sourcing a production-grade recipe on commodity single-GPU hardware, this work makes frontier-tier responsive TTS accessible to a much broader range of developers and products. The benchmark reports p95 (95th-percentile tail) latency rather than mean, highlighting worst-case responsiveness under 10 RPS load. Existing open-source omni stacks like vLLM-Omni and SGLang-Omni are noted as often too slow for production real-time playback, framing this as a targeted engineering improvement rather than a model retraining effort.
+Security researcher Thomas Dullien (Halvar Flake) published a personal essay outlining three maturation lessons: understanding one's own incentive structure, recognizing that one's thoughts and memories may be unreliable, and accepting that seemingly simple moral judgments often become far more complex under closer scrutiny. The essay is significant because it comes from a prominent figure in the vulnerability research and reverse-engineering community, and its themes — incentive awareness, epistemic humility, and ethical nuance — resonate with the daily dilemmas security researchers face when disclosing exploits, assessing risk, and navigating morally ambiguous offensive security work. The third lesson is illustrated with the canonical 0day dilemma — using a vulnerability to capture a terrorist versus to enable torture — highlighting how utilitarian calculus collapses once second-order consequences are examined. The essay does not propose solutions but frames these as habits of mind that require deliberate cultivation over time.
 
-hackernews · toebee · Aug 21, 15:51 · [Discussion](https://news.ycombinator.com/item?id=49389952)
+hackernews · tdullien · Aug 21, 22:29 · [Discussion](https://news.ycombinator.com/item?id=49394496)
 
-**Background**: Time-to-First-Audio (TTFA) measures the delay between sending a text request to a TTS system and receiving the first playable audio chunk; it is the dominant component of perceived latency in voice agents. The p95 metric means 95% of requests complete faster than the reported value, making it a standard measure of tail latency in production systems. Qwen3-TTS is an open-source text-to-speech model from Alibaba's Qwen team that uses a language-model architecture paired with a custom 12Hz speech tokenizer to encode and decode natural-sounding speech.
+**Background**: Thomas Dullien, widely known as Halvar Flake, is a well-known figure in the security community, recognized for his work on reverse engineering, binary analysis, and vulnerability research, and for co-founding companies such as zynamics and Google Project Zero's predecessor teams. The 'incentive structure' concept echoes ideas from economics and behavioral science — particularly the recognition that people's stated and revealed preferences diverge depending on what they are rewarded for. 'Memory distrust' is a recognized psychological phenomenon in which individuals come to doubt the accuracy of their recollections, a topic studied in clinical psychology and forensic contexts. The 0day moral dilemma draws on long-standing debates in just-war theory and utilitarian ethics about whether ends can justify means when consequences are probabilistic and chains of causation extend unpredictably.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/QwenLM/Qwen3-TTS">GitHub - QwenLM/ Qwen 3 - TTS : Qwen 3 - TTS is an open-source series...</a></li>
-<li><a href="https://replicate.com/qwen/qwen3-tts">Qwen 3 TTS | Text to Speech API</a></li>
-<li><a href="https://audixa.ai/guides/reliability-observability/p50-p95-p99-tts-latency/">How to implement p50 p95 p99 TTS latency - Audixa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Memory_distrust_syndrome">Memory distrust syndrome - Wikipedia</a></li>
+<li><a href="https://plato.stanford.edu/entries/moral-decision-uncertainty/">Moral Decision-Making Under Uncertainty (Stanford ...</a></li>
+<li><a href="https://www.ethicsandinternationalaffairs.org/online-exclusives/ethics-in-a-complex-world-why-moral-clarity-is-not-simple">Ethics in a Complex World: Why Moral Clarity Is Not</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The author (toebee) frames TTFA as the critical production bottleneck and motivates the work against slower existing stacks. Practitioners with hands-on voice-agent experience (armcat, nowittyusername) welcomed the effort but emphasized the quality-versus-latency tradeoff and pushed for inexpensive on-device (phone-level) deployment rather than H100 server hardware. A user also asked about Cloudflare AI Workers availability, and a commenter noted that OpenAI's GPT-Realtime-2 often feels overeager and could benefit from similar latency engineering.
+**Discussion**: The discussion spans practical life advice (prioritizing medical care, therapy, exercise, and forgiving one's past self) to deeper philosophical extensions. Commenter roenxi argues that recognizing the unreliability of one's mind forces a meta-question about whether one has chosen a fail-safe or fail-disastrously strategy. Bambax situates the 0day/KSM example within the classical 'does the end justify the means' debate, while bitexploder notes that most people under-invest in understanding the machinery of their own mind.
 
-**Tags**: `#text-to-speech`, `#latency-optimization`, `#real-time-ai`, `#open-source`, `#voice-assistants`
+**Tags**: `#Personal Growth`, `#Cognitive Bias`, `#Incentives`, `#Decision-Making`, `#Ethical Reasoning`
 
 ---
 
 <a id="item-17"></a>
-## [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind) ⭐️ 7.0/10
+## [Scientists Release Largest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) ⭐️ 6.0/10
 
-A reflection on developing an inability to read AI-generated text, sparking discussion about the psychological and practical implications of AI content saturation.
+The DESI Legacy Imaging Surveys team has released the most comprehensive 2D map of the universe to date, covering approximately 31,000 square degrees of the extragalactic sky in optical and infrared bands and cataloging trillions of celestial objects. An interactive web viewer is now publicly available at viewer.legacysurvey.org for anyone to explore the data. This map represents a landmark dataset for cosmology and astronomy, enabling researchers worldwide to study galaxy formation, large-scale structure, and the nature of dark energy. As the foundation data for DESI's spectroscopic survey, it advances our understanding of the universe's accelerating expansion and makes petabyte-scale astronomical data accessible to both scientists and the public. The legacy imaging data was produced in optical and infrared bands across ~31,000 square degrees, serving as the inference and source catalog layer for DESI's Stage IV dark energy measurements using baryon acoustic oscillations. The interactive viewer experienced intermittent 502 Bad Gateway errors shortly after launch, reflecting the demand placed on the public-facing infrastructure.
 
-hackernews · rcymerys · Aug 21, 11:48 · [Discussion](https://news.ycombinator.com/item?id=49386699)
+hackernews · NKosmatos · Aug 21, 18:36 · [Discussion](https://news.ycombinator.com/item?id=49392200)
 
-**Tags**: `#AI`, `#cognitive-science`, `#content-fatigue`, `#human-AI-interaction`, `#psychology`
+**Background**: The Dark Energy Spectroscopic Instrument (DESI) is a Department of Energy–supported Stage IV dark energy experiment designed to measure the universe's accelerating expansion using baryon acoustic oscillations and other spectroscopic techniques. Dark energy and dark matter together make up the vast majority of the universe's mass-energy content, yet their nature remains one of the deepest unsolved problems in physics. Before DESI can measure spectra of millions of galaxies, it needs a precise imaging map of the sky to identify targets—which is exactly what the DESI Legacy Imaging Surveys provide.
+
+**Discussion**: Commenters expressed awe at the cosmic vastness revealed by the map, with some describing it as a humbling experience to browse. There were practical concerns, including a 502 Bad Gateway error when accessing the viewer and skepticism about whether further large-scale astronomy projects will receive funding given current economic and strategic priorities. The thread also featured humor (a 'brick wall' joke referencing a zoomed-in patch) and a musical recommendation of Ligeti's Atmosphères as suitable accompaniment for exploring the canvas.
+
+**Tags**: `#astronomy`, `#data-visualization`, `#scientific-computing`, `#mapping`, `#open-data`
 
 ---
 
 <a id="item-18"></a>
-## [CPU-Z gets biggest update since 2001 with V3 — 100+ health checks, built-in stress testing, and XOC effective clock tracking](https://www.tomshardware.com/software/applications/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-in-stress-testing-and-xoc-effective-clock-tracking) ⭐️ 6.5/10
+## [China's NAND Specialist YMTC Moves Closer to IPO](https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/) ⭐️ 6.0/10
 
-CPU-Z V3 marks the tool's largest update since 2001, introducing 100+ health checks, built-in stress testing, and XOC effective clock tracking for comprehensive PC diagnostics.
+Yangtze Memory Technologies Corp. (YMTC), China's leading domestic NAND flash memory manufacturer, is moving closer to an initial public offering (IPO) to raise capital. The company aims to capitalize on surging demand for AI-driven memory while navigating the complexities of both domestic and overseas markets. YMTC's IPO would represent a major milestone in China's push toward semiconductor self-sufficiency, particularly in the memory chip sector currently dominated by Samsung, SK Hynix, and Micron. The fundraising is critical not only for expanding NAND production capacity to meet AI workload demands but also for sustaining R&D investment amid tightening U.S. export controls targeting Chinese chipmakers. YMTC operates as a fully integrated device manufacturer (IDM), handling both the design and fabrication of 3D NAND flash wafers, packaged chips, and embedded memory solutions. The company faces the dual challenge of scaling production to compete with established global leaders while operating under U.S. entity list restrictions that limit access to advanced chipmaking equipment.
 
-rss · Tom's Hardware · Aug 21, 12:20
+rss · EE Times · Aug 21, 18:00
 
-**Tags**: `#cpu-z`, `#hardware-diagnostics`, `#overclocking`, `#system-tools`
+**Background**: YMTC was founded in Wuhan, China, in July 2016 with significant government investment, with an explicit goal of reducing China's dependence on foreign memory chip manufacturers. NAND flash memory is a type of non-volatile storage that retains data without power and is widely used in solid-state drives (SSDs), USB flash drives, smartphones, and data centers. As a NAND IDM, YMTC handles the entire production chain from chip design to wafer fabrication, a model similar to that of Samsung and Micron. The global NAND market has historically been dominated by a handful of players, making YMTC's emergence and IPO ambitions a strategically significant development for China's semiconductor industry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/nand-flash">What is NAND flash memory? - IBM</a></li>
+<li><a href="https://www.ymtc.com/en/aboutus.html">Company Profile-YMTC</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#NAND flash`, `#YMTC`, `#China tech`, `#IPO`
 
 ---
 
 <a id="item-19"></a>
-## [Nvidia H200 GPUs approved for limited China export, but domestic chips dominate](https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses) ⭐️ 6.5/10
+## [Bazzite 44 Officially Launches for Handhelds with InputPlumber Switch](https://www.techpowerup.com/351814/bazzite-44-gets-official-handheld-launch-with-slew-of-updates) ⭐️ 5.5/10
 
-China has granted case-by-case import licenses allowing Nvidia H200 GPUs to reach select Chinese companies such as ByteDance and Tencent, with each firm understood to be allocated up to 100,000 units. However, the majority of these U.S.-licensed units must remain outside mainland China, significantly limiting their practical impact. This development highlights the shifting balance of power in China's AI infrastructure market, where U.S. export controls have accelerated domestic chip development, making Nvidia's late entry largely symbolic. The policy also reflects ongoing U.S.-China semiconductor tensions and how trade restrictions are reshaping global AI supply chains. The Nvidia H200 features 141GB of HBM3e memory, offering significant improvements over the H100 for generative AI workloads. Despite the approval, Chinese alternatives such as Huawei's Ascend 910C, plus offerings from Biren Technology, Moore Threads, and Baidu, have already established strong footholds in domestic data centers.
+The Bazzite team has officially launched the stable handheld version of Bazzite 44, supporting devices from Lenovo, ASUS, MSI, and Ayaneo. The release replaces Handheld Daemon (HHD) with InputPlumber for controller support, emulation, and remapping, while TDP control is now handled by SteamOS-Manager or PowerStation. Bazzite is one of the leading immutable Linux gaming distributions targeting handheld PCs like the Steam Deck and its Windows-based competitors. The shift from HHD to InputPlumber represents a significant architectural change that affects input handling, TDP management, and device-specific features across a growing ecosystem of handheld gaming hardware. Known regressions include the Legion Go losing gyro support until a fix ships, no TDP control in desktop mode for certain devices, and some ASUS and Ayn devices losing RGB controls and fan control—patches for these are already in development. Game Mode now integrates Bazzite updates, and a new desktop mode GUI manages updates and the Bazzite Portal.
 
-rss · Tom's Hardware · Aug 21, 11:40
+rss · TechPowerUp News · Aug 21, 22:32
 
-**Background**: The Nvidia H200 is a data-center GPU designed for generative AI and high-performance computing, succeeding the widely deployed H100 with enhanced HBM3e memory capacity. U.S. export controls implemented in recent years have restricted Nvidia's most advanced chips from being sold directly to China, prompting Chinese firms and startups like Huawei, Biren Technology, and Moore Threads to accelerate development of domestic AI accelerators. Meanwhile, newer Nvidia products such as the Blackwell B200 have already launched elsewhere, meaning the H200 arriving in China represents a generation that is no longer at the cutting edge of Nvidia's lineup.
+**Background**: Bazzite is an immutable, gaming-focused Linux distribution built on Fedora Silverblue (part of Fedora's Atomic Desktop family), using Universal Blue tooling to provide a polished out-of-the-box experience for gamers. Handheld Daemon (HHD) is a third-party tool that provides hardware enablement for Windows-based handhelds running Linux, offering fan curves, TDP controls, controller emulation (including gyro), and RGB remapping—essentially a Linux replacement for vendor software like Armoury Crate. InputPlumber is an open-source input routing daemon that can combine multiple input devices and translate them into various virtual device formats, offering a more modular approach to controller handling on Linux.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H 200 GPU | NVIDIA</a></li>
-<li><a href="https://wccftech.com/china-unveils-alternatives-to-nvidia-ai-gpus-huawei-tencent-baidu-birentech-moore-threads/">China Unveils Its Alternatives For NVIDIA 's AI Chips : Huawei ...</a></li>
-<li><a href="https://www.unite.ai/huaweis-ascend-910c-a-bold-challenge-to-nvidia-in-the-ai-chip-market/">Huawei ’s Ascend 910C: A Bold Challenge to NVIDIA in the AI Chip ...</a></li>
+<li><a href="https://github.com/ShadowBlip/InputPlumber">GitHub - ShadowBlip/InputPlumber: Open source input router ...</a></li>
+<li><a href="https://github.com/hhd-dev/hhd">GitHub - hhd-dev/hhd: Handheld Daemon, a tool for configuring ...</a></li>
+<li><a href="https://bazzite.gg/">Bazzite – The operating system for the next generation of gamers</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#Nvidia`, `#China`, `#AI infrastructure`, `#export-controls`
+**Tags**: `#linux`, `#gaming`, `#handheld`, `#fedora`, `#bazzite`
 
 ---
 
 <a id="item-20"></a>
-## [Bosgame M5 Review: Affordable 128GB Strix Halo AI Mini Desktop](https://www.servethehome.com/bosgame-m5-amd-ryzen-ai-max-395-128gb-ai-desktop-review/) ⭐️ 6.5/10
+## [Intel Nova Lake-S 28-Core bLLC SKU to Draw 296W at PL2](https://www.techpowerup.com/351804/intel-nova-lake-s-28-core-sku-with-bllc-to-draw-nearly-300-w-at-pl2) ⭐️ 5.5/10
 
-ServeTheHome reviewed the Bosgame M5, a mini desktop powered by the AMD Ryzen AI Max+ 395 (Strix Halo) with 128GB of LPDDR5X unified memory, positioning it as one of the most affordable 128GB local AI inference systems currently available on the market. Affordable high-memory systems are critical for running larger local LLMs without relying on cloud APIs, making Strix Halo-based mini PCs a compelling alternative to expensive discrete GPU workstations. The Bosgame M5 helps establish price benchmarks for this emerging category of unified-memory AI desktops. The Ryzen AI Max+ 395 features 16 Zen 5 CPU cores on a 4nm process with a 55W TDP and a quad-channel LPDDR5X memory interface, allowing the integrated Radeon GPU to access the full 128GB memory pool for AI workloads. This unified-memory approach contrasts with discrete GPU systems like the NVIDIA DGX Spark, which also offers 128GB but at a much higher price point.
+According to a Weibo leak, Intel's upcoming Nova Lake-S 28-core desktop CPU featuring a big last-level cache (bLLC) will draw up to 296 W at the PL2 power level. This represents an 18.4% increase over the current Arrow Lake-S flagship Core Ultra 9 285K, which is rated at 250 W PL2, and is attributed to the addition of four LPE-Cores. This leak signals that Intel's next-generation desktop platform will push power consumption significantly higher, raising concerns about cooling requirements, energy costs, and platform robustness for enthusiasts and OEMs. It also contextualizes Nova Lake-S as a major architectural leap, with the 52-core dual-die SKU reportedly reaching 474 W PL2, an unprecedented figure for Intel's consumer desktop segment. The 296 W figure applies only to single compute-die SKUs; the dual-die 52-core overclocking SKU is rumored to hit 474 W PL2. The bLLC technology is Intel's response to AMD's 3D V-Cache and is expected to bring up to 144 MB of additional L3 cache, though it will reportedly be reserved for unlocked K-series desktop parts.
 
-rss · ServeTheHome · Aug 21, 16:28
+rss · TechPowerUp News · Aug 21, 16:21
 
-**Background**: ServeTheHome 在评论中没有提供社区讨论或用户反馈。
+**Background**: PL2 (Power Level 2) refers to the maximum power a CPU is allowed to draw during short bursts of turbo boost operation, as defined by Intel's power specifications. Big Last-Level Cache (bLLC) is a stack of additional L3 cache placed on the package, functioning similarly to AMD's 3D V-Cache technology that has historically boosted gaming performance. Nova Lake-S will also introduce LPE-Cores (Low Power Efficient cores), based on the Arctic Wolf architecture, integrated into the SoC tile to handle lightweight background tasks while preserving energy for performance cores.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html">AMD Ryzen ™ AI Max+ 395 | The ultimate next gen AI PCs</a></li>
-<li><a href="https://www.techpowerup.com/cpu-specs/ryzen-ai-max-395.c3994">AMD Ryzen AI Max+ 395 Specs | TechPowerUp CPU Database</a></li>
-<li><a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">Personal AI Supercomputer Powered by Blackwell | NVIDIA DGX Spark</a></li>
+<li><a href="https://www.techpowerup.com/351804/intel-nova-lake-s-28-core-sku-with-bllc-to-draw-nearly-300-w-at-pl2">Intel "Nova Lake-S" 28-Core SKU With bLLC to Draw... | TechPowerUp</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-series-3-cpus-could-finally-answer-amds-v-cache-nova-lake-could-boast-massive-144mb-l3">Intel Core Ultra Series 3 CPUs could finally answer AMD's V ...</a></li>
+<li><a href="https://www.techpowerup.com/343285/intel-nova-lake-could-get-144-mb-cache-boost-from-bllc">Intel "Nova Lake" Could Get 144 MB Cache Boost from bLLC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#Ryzen AI Max`, `#local LLM`, `#hardware review`, `#AI workstation`
+**Tags**: `#intel`, `#nova-lake-s`, `#cpu`, `#hardware-leaks`, `#power-consumption`
 
 ---
