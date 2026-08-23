@@ -5,224 +5,310 @@ date: 2026-08-23
 lang: en
 ---
 
-> From 34 items, 10 important content pieces were selected
+> From 49 items, 15 important content pieces were selected
 
 ---
 
-1. [US Agencies Warn Hackers Are Targeting Siemens S7 PLCs with AI-Generated Exploit Scripts](#item-1) ⭐️ 7.5/10
-2. [US Citizen Charged for Using GrapheneOS Duress Password at Border](#item-2) ⭐️ 7.3/10
-3. [Walk Through a 3D ASCII Cyberpunk City in a Tiny Rust WebAssembly Engine](#item-3) ⭐️ 6.5/10
-4. [Desktop CPU Shipments Drop 20%, AMD Gains Record Market Share](#item-4) ⭐️ 6.5/10
-5. [Why Your Local LLM Feels Dumber Than It Actually Is](#item-5) ⭐️ 6.0/10
-6. [Apple Deprecates hdiutil in macOS 27 Golden Gate](#item-6) ⭐️ 6.0/10
-7. [Munder Difflin – Agent harness to run an office of your clones](#item-7) ⭐️ 6.0/10
-8. [Microsoft: RGB Peripheral Drivers Crash Windows 11 via Anti-Cheat Conflicts](#item-8) ⭐️ 5.5/10
-9. [Gigabyte RTX 3070 Owner Finds Factory Film on VRM Pads, Drops Temps 30°C](#item-9) ⭐️ 5.5/10
-10. [ASRock Steel Legend SL-1200P Review: Platinum Efficiency Meets Standout Design](#item-10) ⭐️ 5.5/10
+1. [US May Push Netherlands to Halt ASML DUV Tool Exports to China](#item-1) ⭐️ 7.5/10
+2. [Nvidia Warns Top Customers of 15% AI Server Price Hikes Amid Memory Cost Surge](#item-2) ⭐️ 7.5/10
+3. [Officials Face Death Threats Over AI Data Centers as 500+ Towns Push Back](#item-3) ⭐️ 7.5/10
+4. [US Warns: Hackers Target Siemens S7 PLCs with AI-Generated Exploit Scripts](#item-4) ⭐️ 7.5/10
+5. [JIT Compilation in 5 Microseconds via Copy-and-Patch](#item-5) ⭐️ 7.0/10
+6. [New MCP Roadmap](#item-6) ⭐️ 7.0/10
+7. [Prime Intellect Benchmarks 18 AI Models on Autonomous nanoGPT Optimization](#item-7) ⭐️ 7.0/10
+8. [Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked — Agency closes foreign UAS loophole on 230g HoverAir Versa](#item-8) ⭐️ 6.5/10
+9. [Humanoid robots beat Usain Bolt's 100m record at Beijing Games](#item-9) ⭐️ 6.5/10
+10. [Walkable ASCII Cyberpunk City Runs on 283KB Rust WebAssembly Engine](#item-10) ⭐️ 6.5/10
+11. [Why your local LLM feels dumber than it is](#item-11) ⭐️ 6.0/10
+12. [Microsoft Blames RGB Peripherals for Windows 11 Game Crashes](#item-12) ⭐️ 5.5/10
+13. [KDE Plasma 6.8 Previews Performance and UI Improvements Before September Beta](#item-13) ⭐️ 5.5/10
+14. [US Army Tests Autonomous Ford F-250 with Shotgun Counter-Drone Turret](#item-14) ⭐️ 5.5/10
+15. [Nvidia's GB300 DGX Station Now Available for ~$100,000](#item-15) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [US Agencies Warn Hackers Are Targeting Siemens S7 PLCs with AI-Generated Exploit Scripts](https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts) ⭐️ 7.5/10
+## [US May Push Netherlands to Halt ASML DUV Tool Exports to China](https://www.techpowerup.com/351847/united-states-government-may-restrict-asmls-duv-tool-exports-to-china) ⭐️ 7.5/10
 
-US cybersecurity agencies have issued an advisory warning that hackers are actively targeting Siemens S7 programmable logic controllers (PLCs) used in critical infrastructure sectors such as water treatment and energy distribution. The agencies note that threat actors are reportedly using AI tools to generate exploitation scripts, and they are urging operators to apply system updates and isolate these controllers from the internet. Siemens S7 PLCs are widely deployed across critical infrastructure including water treatment plants and energy systems, meaning successful exploitation could disrupt essential public services and potentially trigger safety incidents, equipment damage, or operational downtime. The reported use of AI tools to generate exploit scripts lowers the technical barrier for attackers and could accelerate the pace and scale of cyber threats against industrial control systems. The advisory emphasizes two primary mitigations: keeping Siemens S7 systems updated with the latest patches and ensuring they are not exposed to the public internet. The emergence of AI-assisted exploit generation against operational technology (OT) represents a notable escalation, as it can democratize access to functional attack code for less-skilled threat actors targeting ICS/SCADA environments.
+The United States government is pressuring the Netherlands to compel ASML to halt nearly all chip-making equipment exports to China, potentially extending restrictions from advanced EUV tools to older DUV scanners. A new bipartisan bill called the MATCH Act is before Congress to tighten export controls further and force allied countries to implement a technological ban on even older DUV machines. This development could substantially affect Chinese fabs producing mature-node chips, as DUV tools are widely used across the semiconductor industry. ASML is the world's sole producer of EUV lithography systems and a dominant supplier of DUV systems, so expanded restrictions would deepen the existing US-China tech war and reshape global semiconductor supply chains. ASML has never shipped a single EUV scanner to China, as the Dutch government blocked exports in 2019 under US pressure. DUV lithography uses 248nm KrF or 193nm ArF light and remains a major workhorse technology in fabs, capable of producing nodes down to 7nm through multi-patterning techniques.
 
-rss · Tom's Hardware · Aug 22, 13:57
+rss · TechPowerUp News · Aug 23, 08:48
 
-**Background**: Siemens S7 PLCs (including the S7-1200, S7-1500, S7-300, and S7-400 series) are programmable logic controllers used to automate industrial processes across manufacturing, water treatment, and energy distribution. ICS/SCADA systems are specialized computer systems that monitor and control physical infrastructure processes, historically kept isolated from the internet for security reasons. The growing connectivity of these systems to enterprise and public networks has steadily expanded their attack surface, making advisories about active targeting particularly urgent for operators of critical infrastructure.
+**Background**: Lithography is a critical step in semiconductor manufacturing, where patterns are projected onto substrates using light. ASML is the dominant global supplier of both EUV and DUV lithography systems, with no competitors producing EUV tools as of 2025. While EUV uses 13.5nm extreme ultraviolet light for the most advanced chips, DUV lithography uses longer wavelengths (193nm or 248nm) and is essential for both advanced and mature-node chip production across CPUs, GPUs, and AI processors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SIMATIC">Simatic - Wikipedia</a></li>
-<li><a href="https://publicsafety.ieee.org/topics/cybersecurity-of-critical-infrastructure-with-ics-scada-systems/">Cybersecurity of Critical Infrastructure with ICS/SCADA Systems – IEEE Public Safety Technology</a></li>
-<li><a href="https://www.fortinet.com/resources/cyberglossary/ics-scada">ICS SCADA: Strengthening OT Security | Fortinet</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/pulse/duv-lithography-workhorse-modern-semiconductor-patterning-fedif">DUV Lithography : The Workhorse of Modern Semiconductor ...</a></li>
+<li><a href="https://www.stockduediligence.com/p/the-asml-report">Can ASML maintain its lithography monopoly ?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#critical-infrastructure`, `#ics-scada`, `#siemens`, `#ai-security`
+**Tags**: `#semiconductors`, `#ASML`, `#export-controls`, `#US-China-tech-war`, `#lithography`
 
 ---
 
 <a id="item-2"></a>
-## [US Citizen Charged for Using GrapheneOS Duress Password at Border](https://www.solidot.org/story?sid=85162) ⭐️ 7.3/10
+## [Nvidia Warns Top Customers of 15% AI Server Price Hikes Amid Memory Cost Surge](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers) ⭐️ 7.5/10
 
-Samuel Tunick, a US citizen returning from the Dominican Republic in January 2025, was charged with a felony for obstructing federal law enforcement after entering a duress password that wiped data on his GrapheneOS-running Pixel phone when CBP officers demanded access at Atlanta's Hartsfield-Jackson International Airport. He faces up to five years in prison in what is the first known prosecution of its kind. This landmark case raises fundamental questions about the legal status of built-in security features designed to protect user data from coerced access, potentially chilling the use of privacy tools by anyone crossing US borders. The prosecution could set a precedent affecting millions of privacy-conscious users of secure operating systems and reshape the legal boundary between legitimate data protection and obstruction of justice. GrapheneOS's duress PIN/password feature silently and irreversibly triggers a factory reset that wipes the device (including any installed eSIMs) when entered, designed specifically to protect data under coercion. US Attorney Theodore Hertzberg for the Northern District of Georgia stated that anyone who destroys property, including data, to impede a lawful search should expect prosecution and punishment.
+Nvidia is reportedly notifying its largest customers of a 15% price increase on its AI server systems, including Grace Blackwell and Vera Rubin platforms, with the new pricing taking effect on units shipping in early next year. The hikes are attributed to soaring memory costs that have continued to rise in recent quarters. This pricing change directly affects hyperscalers, cloud providers, and enterprises that are the primary buyers of Nvidia's top-tier AI infrastructure, potentially reshaping AI deployment economics at a time when memory-intensive workloads like large language models dominate demand. The move also signals that supply chain tightness in HBM and DRAM is now being passed through by Nvidia, which has historically absorbed cost increases to maintain its pricing commitments. The 15% increase applies specifically to Grace Blackwell systems (built on B100/B200 accelerators, including the NVL72 rack-scale platform with 72 GPUs) and the next-generation Vera Rubin platform, which is expected to feature HBM4 memory stacks. The systems are critical for training and running large-scale AI models, and the price hike reflects broader trends in the memory market rather than changes to Nvidia's GPU silicon costs.
 
-rss · Solidot · Aug 22, 13:22
+rss · Tom's Hardware · Aug 23, 13:15
 
-**Background**: GrapheneOS is a privacy and security-focused mobile operating system built on the Android Open Source Project (AOSP), widely praised for unmatched security features including a duress PIN that allows users to set an alternate password which irreversibly wipes the device when entered. US Customs and Border Protection (CBP) has broad authority to search electronic devices at ports of entry under Department of Homeland Security policies, and officers may examine and copy data from phones without a warrant. This case marks a collision between legitimate user-controlled privacy mechanisms and federal obstruction statutes that punish interference with official searches.
+**Background**: Nvidia's Grace Blackwell platform combines ARM-based Grace CPUs with Blackwell GPUs (B100/B200) to deliver rack-scale AI computing, exemplified by the NVL72 system that links 72 GPUs into a single compute domain. The upcoming Vera Rubin platform, unveiled at CES 2026, is the successor generation and is expected to utilize HBM4 high-bandwidth memory, which is currently in tight supply due to surging demand from AI applications. High-bandwidth memory (HBM) is a specialized stacked DRAM technology essential for feeding data to AI accelerators at the speeds required for training and inference of large models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS - Wikipedia</a></li>
-<li><a href="https://www.androidauthority.com/grapheneos-duress-pin-3584795/">I use a duress PIN to protect my data — here’s how it works</a></li>
-<li><a href="https://grapheneos.org/features">Features overview | GrapheneOS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
+<li><a href="https://videocardz.com/newz/nvidia-unveils-vera-rubin-as-next-gen-gpu-architecture-patron-rubin-ultra-to-sport-12-hbm4-stacks">videocardz.com/newz/ nvidia -unveils- vera - rubin -as- next -gen-gpu...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#digital-rights`, `#border-search`, `#GrapheneOS`, `#law-enforcement`
+**Tags**: `#nvidia`, `#ai-infrastructure`, `#gpu-pricing`, `#memory-shortage`, `#datacenter`
 
 ---
 
 <a id="item-3"></a>
-## [Walk Through a 3D ASCII Cyberpunk City in a Tiny Rust WebAssembly Engine](https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders) ⭐️ 6.5/10
+## [Officials Face Death Threats Over AI Data Centers as 500+ Towns Push Back](https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment) ⭐️ 7.5/10
 
-Solo developer Grow Now! Games has released a playable browser build of a walkable 3D cyberpunk city rendered entirely with ASCII characters. Its Rust WebAssembly engine is reported at 283KB, with WebGL shaders handling the browser-side rendering. 这个项目把 Rust WebAssembly 的计算能力与浏览器端 WebGL 渲染结合起来，并用字符呈现立体城市，展示了网页图形技术的创意组合。它更像技术展示而非行业级突破：283KB 的引擎体积和不寻常的 ASCII 画面值得注意，但报道没有证明它带来普遍的性能或生产流程改进。 The 283KB figure describes the Rust WebAssembly engine, not necessarily the total size of the browser build, its assets, shaders, or downloaded files. The project is described as playable and walkable, but the supplied material gives no performance benchmarks, browser compatibility list, source-code details, or evidence of large-scale use.
+According to the Soufan Center's July IntelBrief, officials overseeing AI data center projects received hundreds of threat-language posts between July 2025 and July 2026, with threat volumes surging starting in April. Over 500 towns have restricted or halted data center builds, and many local councils have canceled public comment periods. This signals a serious escalation of community opposition to AI infrastructure that could slow the buildout pace critical to the AI industry's continued growth. The closure of public comment periods raises significant concerns about democratic governance and transparency in how data center sites are approved. The Soufan Center's research spans a full year (July 2025–July 2026) and documents a distinct escalation in threat volume beginning in April, suggesting organized or rapidly coordinated backlash rather than isolated incidents. The trend of local governments shuttering public comment periods indicates that officials are prioritizing the speed of approvals over community engagement amid mounting pressure.
 
-rss · Tom's Hardware · Aug 22, 14:37
+rss · Tom's Hardware · Aug 23, 10:30
 
-**Background**: ASCII art uses text characters as its visual vocabulary, allowing a 3D scene to be presented in a deliberately text-like style. Rust can be used to write the engine, and the resulting WebAssembly can run in a browser, while WebGL provides the browser graphics interface for rendering the result. The demo therefore places computation in a compact Rust WebAssembly layer and presentation in the browser’s graphics pipeline.
+**Background**: AI data centers are massive facilities housing GPUs and specialized hardware for training and running artificial intelligence models. Unlike traditional data centers, they consume far more electricity and water for cooling, making them controversial in communities concerned about resource strain, noise, and environmental impact. The explosive growth of generative AI since 2022 has triggered a global race to build these facilities, often pitting tech companies against local residents who bear the environmental and infrastructure costs but see few direct benefits. The Soufan Center is a nonprofit research organization that publishes regular IntelBrief analyses on global security issues.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.logrocket.com/implement-webassembly-webgl-viewer-using-rust/">Implement a WebAssembly WebGL viewer using Rust - LogRocket Blog</a></li>
-<li><a href="https://tianyaschool.medium.com/combining-webassembly-with-webgl-high-performance-graphics-processing-387f7a633b5c">Combining WebAssembly with WebGL High-Performance Graphics Processing | by Kevin | Medium</a></li>
+<li><a href="https://thesoufancenter.org/intelbrief/">INTELBRIEF - The Soufan Center</a></li>
+<li><a href="https://tradingtomorrownavigatingtrendsincapitalmarkets.buzzsprout.com/2243477/episodes/17104712-the-power-behind-ai-off-grid-zero-water-data-centers-are-here">The Power Behind AI : Off-Grid, Zero-Water Data Centers Are Here</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#rust`, `#webassembly`, `#webgl`, `#game-development`, `#ascii-art`
+**Tags**: `#AI infrastructure`, `#data centers`, `#community opposition`, `#tech policy`, `#social impact`
 
 ---
 
 <a id="item-4"></a>
-## [Desktop CPU Shipments Drop 20%, AMD Gains Record Market Share](https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records) ⭐️ 6.5/10
+## [US Warns: Hackers Target Siemens S7 PLCs with AI-Generated Exploit Scripts](https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts) ⭐️ 7.5/10
 
-Desktop CPU shipments fell 20% amid elevated component costs, yet AMD captured an all-time record share of the market despite the downturn. Meanwhile, Intel shifted its production focus toward laptops and data centers, flooding the notebook segment with millions of CPUs while continuing to lose ground to AMD. This data highlights the divergent strategies of the two CPU giants: Intel is leveraging its manufacturing scale to push volume in mobile and server segments, while AMD is steadily eroding Intel's long-held dominance in desktop. The 20% shipment decline also signals broader weakness in the PC market driven by macroeconomic pressures and rising BOM costs. The 20% drop in desktop CPU shipments is attributed to high component costs rather than weakened demand alone, suggesting pricing pressure across the supply chain. Intel's aggressive notebook push allowed it to move millions of laptop CPUs, yet AMD's record share gain indicates its Zen-based desktop processors continue to win designs and consumer preference.
+US agencies have warned that threat actors are using AI assistance to generate exploitation scripts targeting Siemens S7 Series PLCs deployed in critical infrastructure, with objectives including initial access, credential access, and denial of service. The advisory urges operators to keep systems updated and isolate them from the internet where possible. Siemens S7 PLCs are widely used across critical infrastructure sectors such as water, energy, and manufacturing, so successful exploitation could trigger process disruption, safety incidents, downtime, or equipment damage. The emergence of AI-assisted exploit development lowers the technical barrier for attackers and represents a notable escalation in the OT/ICS threat landscape. The agencies note that the AI-generated scripts appear to be built from publicly available information about the S7 series, and that adversaries have used them for initial access, credential access, denial of service, and other objectives. Recommended mitigations include applying patches, network segmentation, and air-gapping PLCs from public networks.
 
-rss · Tom's Hardware · Aug 22, 12:30
+rss · Tom's Hardware · Aug 22, 13:57
 
-**Background**: AMD and Intel are the two dominant players in the x86 CPU market. In recent years, AMD's Zen architecture (starting from Zen in 2017 and continuing through Zen 4/5) has allowed it to gain significant market share against Intel, which faced manufacturing delays and competitive product gaps. Desktop CPU shipments are tracked quarterly by analysts like Mercury Research, who measure the revenue and unit share split between the two companies. The 'client' CPU market includes desktops, laptops, and workstations, while 'server/data center' is a separate high-margin segment. Component costs—such as DRAM, SSDs, and power delivery—directly affect the total bill of materials (BOM) for a PC, influencing both consumer purchasing decisions and OEM build plans.
+**Background**: Siemens S7 PLCs are industrial automation controllers belonging to the Simatic family—introduced after the Simatic S5 launched in 1979 and programmed using tools like STEP 5 and later TIA Portal. Common variants such as the S7-300, S7-400, and S7-1500 are used to automate complex processes and often connect to SCADA systems for monitoring. Critical infrastructure environments in the US have increasingly been targeted by sophisticated cyber actors, and the use of generative AI to craft bespoke exploitation tooling represents a new dimension of that threat.
 
-**Tags**: `#CPU`, `#AMD`, `#Intel`, `#market-analysis`, `#semiconductors`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html">AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Simatic">Simatic - Wikipedia</a></li>
+<li><a href="https://www.siemens.com/en-us/products/simatic/s7-1500/">SIMATIC S7-1500 PLC – High-Performance Controller | Siemens</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#critical-infrastructure`, `#ICS-security`, `#Siemens`, `#AI-threats`
 
 ---
 
 <a id="item-5"></a>
-## [Why Your Local LLM Feels Dumber Than It Actually Is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ⭐️ 6.0/10
+## [JIT Compilation in 5 Microseconds via Copy-and-Patch](https://malisper.me/jit-compiling-code-in-5-us/) ⭐️ 7.0/10
 
-A Level1Techs forum discussion reveals that local LLMs often appear underperforming due to suboptimal configuration rather than inherent model limitations. Practitioners report that Qwen3 27B models, when properly quantized (avoiding aggressive KV cache quantization and using Q8 or better weights) and run on capable hardware like the RTX 5090 or Apple Silicon with MLX, can approach the quality of hosted models like Gemini 3 Flash while delivering hundreds of tokens per second. This matters because thousands of users run local LLMs with default or aggressive quantization settings, mistakenly concluding that open-weight models are far inferior to hosted frontier systems. The discussion highlights that the gap between local and hosted models is often narrower than assumed when configuration best practices are followed, which has significant implications for privacy-conscious users, offline deployments, and reducing dependence on API providers. One user achieved ~800 TPS at batch size 8 and ~140 TPS single-stream on an RTX 5090 using ninfer, while a MacBook Pro running Qwen3 27B via MLX produced notably strong results. The recommended best practice is to avoid quantizing the KV cache and to use no worse than the best available Q8 GGUF (e.g., from Unsloth) for weight quantization, rather than aggressive Q4_K_P variants. Conflicting reports note that some hosted models like Codex refuse certain tasks (e.g., CTF challenges) outright, where local uncensored variants succeed.
+A technical exploration demonstrates achieving sub-10μs JIT compilation using the copy-and-patch compilation technique, where pre-generated assembly templates are pattern-matched and stitched together at runtime instead of invoking a full compiler like LLVM. Ultra-low-latency JIT compilation enables language runtimes and database engines (such as PostgreSQL) to aggressively compile hot code paths without paying prohibitive warm-up costs, potentially improving query and program execution performance across database systems and interpreters. The technique works by copying pre-assembled instruction sequences for each AST or bytecode node and patching in runtime values, bypassing the heavy optimization passes of LLVM; a critical limitation noted by commenters is that it lacks the deep optimizations LLVM performs, making it more akin to templated code emission than a traditional optimizing compiler.
 
-hackernews · felineflock · Aug 22, 18:14 · [Discussion](https://news.ycombinator.com/item?id=49402232)
+hackernews · zX41ZdbW · Aug 23, 06:04 · [Discussion](https://news.ycombinator.com/item?id=49406387)
 
-**Background**: Quantization is a technique that reduces the numerical precision of model weights (e.g., from 16-bit to 4-bit) to shrink model size and speed up inference, but it can degrade output quality if applied too aggressively. The KV (key-value) cache stores intermediate attention computations during text generation, enabling faster token-by-token output; however, quantizing this cache is known to cause significant quality degradation. Qwen is Alibaba's family of open-weight large language models ranging from 0.5B to 72B+ parameters, with Qwen3 27B being a mid-sized model that balances capability and local hardware requirements. GGUF is a file format used by llama.cpp to distribute quantized models, and MLX is Apple's machine learning framework optimized for Apple Silicon chips.
+**Background**: Just-in-time (JIT) compilation converts intermediate representations or bytecode into native machine code at runtime to improve execution speed. Traditional JIT frameworks like LLVM provide powerful optimizations but incur significant compilation latency, which PostgreSQL exposes when accelerating SQL expression evaluation. Copy-and-patch compilation is a lightweight alternative that avoids full compiler infrastructure by using pre-generated code templates, trading off optimization depth for dramatic gains in compilation speed—as recently adopted in Python 3.13's experimental JIT.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2603.20397v1">KV Cache Optimization Strategies for Scalable and Efficient ...</a></li>
-<li><a href="https://localllm.in/blog/quantization-explained">The Complete Guide to LLM Quantization - localllm.in</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Copy-and-patch">Copy - and - patch - Wikipedia</a></li>
+<li><a href="https://tonybaloney.github.io/posts/python-gets-a-jit.html">Python 3.13 gets a JIT</a></li>
+<li><a href="https://www.postgresql.org/docs/current/jit-reason.html">PostgreSQL: Documentation: 18: 30.1. What Is JIT compilation?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is divided but substantive. Enthusiasts like jonplackett and a11r report surprisingly strong results from local Qwen3 27B deployments, with a11r claiming 4-bit quant quality is indistinguishable from Gemini 3.7 Flash in internal tests. Skeptics like nineteen999 push back strongly, arguing that consumer hardware can never match frontier models running on thousands of CPUs and GPUs. walrus01 provides practical guidance advocating for Q8 weights and no KV cache quantization, while InvertedRhodium shares a concrete use case where a local Qwen3 uncensored model successfully tackled CTF challenges that hosted Codex refused to attempt.
+**Discussion**: The community discussion features substantive technical debate: one commenter draws parallels to a 2024 blog post about rewriting PostgreSQL's LLVM-based JIT, while another criticizes the approach as merely assembly templating with substitutions rather than true JIT compilation since it omits LLVM's optimization passes. Other contributors recommend Russ Cox's regex engine articles as relevant prior art, and mention Common Lisp's mature model where programmers explicitly control what gets compiled, highlighting the diversity of JIT design philosophies.
 
-**Tags**: `#local-llm`, `#quantization`, `#llm-optimization`, `#qwen`, `#hardware`
+**Tags**: `#jit-compilation`, `#compilers`, `#performance`, `#language-runtimes`, `#systems-engineering`
 
 ---
 
 <a id="item-6"></a>
-## [Apple Deprecates hdiutil in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) ⭐️ 6.0/10
+## [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) ⭐️ 7.0/10
 
-Wait, let me redo this carefully.
+The MCP roadmap outlines upcoming changes to standardize agent identities, simplify authorization for cloud-based agents, and converge remote MCP servers with standard HTTP workloads by mid-2026.
 
+hackernews · pentagrama · Aug 22, 13:31 · [Discussion](https://news.ycombinator.com/item?id=49399591)
 
-{"title_en": "Apple Deprecates hdiutil in macOS 27 Golden Gate", "title_zh": "Apple 在 macOS 27 Golden Gate 中弃用 hdiutil", "whats_new_en": "Apple has officially deprecated hdiutil, the long-standing macOS command-line disk image utility, in the upcoming macOS 27 'Golden Gate' release. The deprecation affects workflows including disk image creation, mounting, conversion, and notably RAM disk creation which historically relied on hdiutil.", "whats_new_zh": "Apple 已在即将发布的 macOS 27\"Golden Gate\"中正式弃用了长期存在的命令行磁盘映像工具 hdiutil。此次弃用影响磁盘映像的创建、挂载、转换等工作流程，以及历来依赖 hdiutil 创建的内存磁盘（RAM disk）。", "why_it_matters_en": "This deprecation matters because hdiutil has been a core utility for developers, sysadmins, and power users for managing disk images and creating RAM disks — a feature with no straightforward replacement on macOS. While Apple's track record suggests deprecated tools often remain functional indefinitely, the lack of a clear replacement raises concerns about long-term workflow stability.", "why_it_matters_zh": "此次弃用之所以重要，是因为 hdiutil 一直是开发者、系统管理员和高级用户管理磁盘映像以及创建内存磁盘的核心工具，而后者在 macOS 上并没有直接的替代方案。虽然 Apple 以往的记录表明被弃用的工具通常会无限期保留，但缺乏明确的替代方案仍引发了人们对工作流长期稳定性的担忧。", "key_details_en": "hdiutil previously handled creating, converting, compressing, mounting, and verifying disk image formats including .dmg, .iso, and .cdr. On macOS, it was effectively the only native command-line method for creating RAM disks, which serve as high-speed volatile storage in system memory for tasks like temporary file workspaces and performance optimization.", "key_details_zh": "hdiutil 此前负责处理 .dmg、.iso 和 .cdr 等磁盘映像格式的创建、转换、压缩、挂载和验证。在 macOS 上，它实际上是创建内存磁盘的唯一原生命令行方法，内存磁盘是在系统内存中构建的高速易失性存储，可用于临时文件工作区、性能优化等任务。", "background_en": "hdiutil is a built-in macOS command-line utility that has shipped with the operating system for years, enabling users to manage disk image files in formats like DMG, ISO, and CDR. It is widely used for software distribution, system backup, and creating bootable images. RAM disks, which hdiutil also enabled on macOS, are virtual disks stored in system memory that offer extremely fast read/write speeds, useful for temporary workloads, reducing SSD wear, and speeding up compilation or caching tasks. macOS 27 Golden Gate, announced at WWDC 2026 and expected in late 2026, marks the end of Intel Mac support and is exclusively for Apple Silicon devices.", "background_zh": "hdiutil 是 macOS 内置的命令行工具，已随系统发布多年，使用户能够管理 DMG、ISO、CDR 等格式的磁盘映像文件。它广泛用于软件分发、系统备份和创建可启动映像。而 hdiutil 同样支持的内存磁盘是存储在系统内存中的虚拟磁盘，读写速度极快，可用于临时工作负载、减少固态硬盘损耗以及加速编译或缓存任务。macOS 27 Golden Gate 于 2026 年 WWDC 上发布，预计于 2026 年底正式推出，标志着 Intel Mac 支持的终结，仅支持 Apple Silicon 设备。", "community_discussion_en": "Community sentiment is mixed but generally critical of Apple's priorities, with commenters noting the company's massive market capitalization while failing to maintain long-standing tools. Several users pointed to the xip utility as historical precedent — it has been deprecated for years yet remains in active use because Xcode is distributed in that format. Skeptics questioned whether deprecation truly implies removal given Apple's pattern of keeping deprecated tools functional. Practical concerns were raised about RAM disk creation, with one user noting hdiutil was effectively the only way to create them on macOS.", "community_discussion_zh": "社区情绪复杂但普遍对 Apple 的优先级提出批评，有评论者指出 Apple 市值巨大却未能维护长期使用的工具。多位用户以 xip 工具作为历史先例——它已被弃用多年，但由于 Xcode 以该格式分发，因此仍在被实际使用。怀疑者质疑弃用是否真正意味着移除，因为 Apple 历来会无限期保留已弃用工具。也有人对内存磁盘创建表达了实际担忧，一位用户指出 hdiutil 在 macOS 上实际上是创建内存磁盘的唯一方法。", "sources": ["https://iboysoft.com/wiki/hdiutil.html", "https://en.wikipedia.org/wiki/RAM_drive", "https://en.wikipedia.org/wiki/macOS_Golden_Gate"]} This deprecation matters because hdiutil has been a core utility for developers, sysadmins, and power users for managing disk images and creating RAM disks — a feature with no straightforward replacement on macOS. While Apple's track record suggests deprecated tools often remain functional indefinitely, the lack of a clear replacement raises concerns about long-term workflow stability. hdiutil previously handled creating, converting, compressing, mounting, and verifying disk image formats including .dmg, .iso, and .cdr. On macOS, it was effectively the only native command-line method for creating RAM disks, which serve as high-speed volatile storage in system memory for tasks like temporary file workspaces and performance optimization.
-
-hackernews · zdw · Aug 22, 19:04 · [Discussion](https://news.ycombinator.com/item?id=49402741)
-
-**Background**: hdiutil is a built-in macOS command-line utility that has shipped with the operating system for years, enabling users to manage disk image files in formats like DMG, ISO, and CDR. It is widely used for software distribution, system backup, and creating bootable images. RAM disks, which hdiutil also enabled on macOS, are virtual disks stored in system memory that offer extremely fast read/write speeds, useful for temporary workloads, reducing SSD wear, and speeding up compilation or caching tasks. macOS 27 Golden Gate, announced at WWDC 2026 and expected in late 2026, marks the end of Intel Mac support and is exclusively for Apple Silicon devices.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://iboysoft.com/wiki/hdiutil.html">What is hdiutil & How to Use It to Convert DMG to ISO</a></li>
-<li><a href="https://en.wikipedia.org/wiki/RAM_drive">RAM drive - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment is mixed but generally critical of Apple's priorities, with commenters noting the company's massive market capitalization while failing to maintain long-standing tools. Several users pointed to the xip utility as historical precedent — it has been deprecated for years yet remains in active use because Xcode is distributed in that format. Skeptics questioned whether deprecation truly implies removal given Apple's pattern of keeping deprecated tools functional. Practical concerns were raised about RAM disk creation, with one user noting hdiutil was effectively the only way to create them on macOS.
-
-**Tags**: `#macos`, `#apple`, `#deprecation`, `#command-line`, `#developer-tools`
+**Tags**: `#MCP`, `#AI-agents`, `#protocol-design`, `#model-context-protocol`, `#developer-tools`
 
 ---
 
 <a id="item-7"></a>
-## [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) ⭐️ 6.0/10
+## [Prime Intellect Benchmarks 18 AI Models on Autonomous nanoGPT Optimization](https://www.primeintellect.ai/research/nanogpt-speedrun) ⭐️ 7.0/10
 
-An Office-themed local multi-agent harness that wraps around existing coding agent subscriptions (Claude Code, Codex) to run deterministic simulations of agent 'employees' without consuming additional tokens.
+Prime Intellect conducted 153 autonomous experiments across 18 frontier AI models to optimize nanoGPT training, systematically benchmarking how well leading AI systems can perform autonomous machine learning research. The study uses the nanoGPT speedrun benchmark, a well-known challenge originally popularized by Andrej Karpathy, as a controlled testbed for measuring end-to-end autonomous research capability. As AI models increasingly claim the ability to accelerate their own research and development, rigorous empirical benchmarks of autonomous research capability are essential for distinguishing genuine progress from hype. This study provides one of the broadest cross-model comparisons to date, offering signal about which frontier systems can most effectively iterate, debug, and optimize ML code without human intervention. The benchmark specifically targets ML code optimization, a domain where model capability translates directly into real-world R&D productivity. Community observers noted that the speedrun primarily measures time-to-target rather than cost, and that different inference infrastructures (e.g., systolic chips, batching strategies) can confound time-based comparisons, suggesting a dollar-cost axis would be a useful complement.
 
-hackernews · simonpure · Aug 22, 09:49 · [Discussion](https://news.ycombinator.com/item?id=49398152)
+hackernews · stared · Aug 22, 22:14 · [Discussion](https://news.ycombinator.com/item?id=49404380)
 
-**Tags**: `#multi-agent-systems`, `#developer-tools`, `#llm-agents`, `#creative-projects`, `#harness`
+**Tags**: `#ai-benchmarks`, `#frontier-models`, `#machine-learning`, `#nanoGPT`, `#autonomous-research`
 
 ---
 
 <a id="item-8"></a>
-## [Microsoft: RGB Peripheral Drivers Crash Windows 11 via Anti-Cheat Conflicts](https://www.tomshardware.com/software/windows/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-is-causing-blue-screens-crashes-and-game-freezes) ⭐️ 5.5/10
+## [Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked — Agency closes foreign UAS loophole on 230g HoverAir Versa](https://www.tomshardware.com/tech-industry/drones/fcc-pulls-hoverair-versa-certification-three-days-after-launch) ⭐️ 6.5/10
 
-Microsoft has officially identified RGB peripheral software drivers as the cause of blue screens, system crashes, and game freezes on Windows 11, linking the issue to conflicts with anti-cheat software. As of now, there is no official fix, and the only available workaround is to disable the problematic driver. This issue affects a large population of PC gamers who use RGB-lit peripherals from brands like Razer, Corsair, and Logitech, potentially impacting millions of users who may face sudden crashes during gameplay. It also highlights a broader tension between peripheral manufacturers' use of kernel-mode drivers and the gaming industry's reliance on kernel-level anti-cheat systems. 冲突可能源于RGB软件的内核模式驱动（Ring 0）与Easy Anti-Cheat、BattlEye或Vanguard等同样运行在Ring 0的反作弊系统共享同一特权空间。微软并未详细说明确切机制，但用户空间中两个内核级组件的冲突似乎是根本原因。
+FCC retroactively revoked certification for the 230g HoverAir Versa pocket gimbal drone just three days after launch, closing a foreign UAS regulatory loophole.
 
-rss · Tom's Hardware · Aug 22, 16:21
+rss · Tom's Hardware · Aug 23, 12:30
 
-**Background**: RGB peripherals—such as keyboards, mice, and headsets—use manufacturer-supplied software to control lighting effects, and these apps rely on low-level drivers that interface directly with hardware controllers. These drivers typically operate in kernel space (Ring 0 on x86 architecture), the most privileged layer of an operating system where critical functions execute. Kernel-level anti-cheat systems also run at Ring 0 to monitor game processes and detect tampering, meaning that when two kernel-mode components from different vendors interact, instability, crashes, or blue screens can result.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/software/windows/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-is-causing-blue-screens-crashes-and-game-freezes">Microsoft blames RGB peripherals for crashing... | Tom's Hardware</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Kernel-level_anti-cheat">Kernel-level anti-cheat - Wikipedia</a></li>
-<li><a href="https://blog.acer.com/en/discussion/3259/how-microsoft-s-kernel-changes-may-impact-anti-cheat-software">How Microsoft’s Kernel Changes May Impact Anti-Cheat Software</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#windows-11`, `#rgb-peripherals`, `#driver-issues`, `#anti-cheat`, `#microsoft`
+**Tags**: `#drones`, `#FCC regulation`, `#consumer electronics`, `#HoverAir`, `#UAS policy`
 
 ---
 
 <a id="item-9"></a>
-## [Gigabyte RTX 3070 Owner Finds Factory Film on VRM Pads, Drops Temps 30°C](https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c) ⭐️ 5.5/10
+## [Humanoid robots beat Usain Bolt's 100m record at Beijing Games](https://www.tomshardware.com/tech-industry/robotics/humanoid-robots-shatter-usain-bolts-100m-record-hits-23-8-mph-before-crashing-into-foam-pads-video-shows-tiangong-ultra-logging-9-39-second-sprint-before-colliding-with-padded-wall) ⭐️ 6.5/10
 
-A Gigabyte RTX 3070 owner discovered that protective plastic films had been left on the VRM (voltage regulator module) thermal pads at the factory, even after nearly five years of use. After removing the film and reapplying thermal paste, GPU hotspot temperatures dropped by approximately 30°C, and the card reportedly stopped experiencing frequent black screens. This incident highlights a real-world manufacturing quality control issue that can severely impact GPU longevity and performance. It serves as a useful reminder for PC enthusiasts to inspect thermal interface materials when troubleshooting persistent overheating or stability issues, and it raises questions about factory QA processes at GPU board partners. The factory protective film acts as a thermal insulator, preventing the thermal pad from making proper contact with the VRM components and heatsink. A 30°C hotspot temperature reduction is dramatic and indicates the VRMs were essentially running without effective passive cooling for the card's entire service life. The issue is likely limited to specific production runs and is not a widespread Gigabyte problem.
+At the 2026 World Humanoid Robot Games in Beijing, the Tiangong Ultra humanoid robot sprinted 100 meters in 9.39 seconds and the Honor Lightning in 9.47 seconds, both surpassing Usain Bolt's human world record of 9.58 seconds set in 2009. Tiangong Ultra reached a peak speed of roughly 23.8 mph before crashing into foam padding at the end of the run. The result marks a striking demonstration of progress in bipedal locomotion for humanoid robots, showing they can sustain sprint-class speeds over a full 100m distance in a competitive setting. It also highlights China's accelerating push into embodied AI and humanoid robotics, with both Tiangong Ultra (built by UBTech and the Beijing Humanoid Robot Innovation Center) and Honor Lightning representing major domestic players. The comparison with Usain Bolt is imperfect: the robots did not perform a full deceleration phase — Tiangong Ultra simply ran into padded foam rather than stopping under control — and the 100m was on a straight indoor track rather than a fully regulation athletics surface. Tiangong Ultra was previously known for completing the world's first humanoid robot half-marathon in roughly 2 hours 40 minutes, so the leap from endurance jogging to sub-10s sprinting illustrates rapid gains in actuator power and balance control.
 
-rss · Tom's Hardware · Aug 22, 11:30
+rss · Tom's Hardware · Aug 23, 11:45
 
-**Background**: A VRM (voltage regulator module) is a circuit that converts and stabilizes voltage delivered to a GPU, and it generates significant heat under load. Thermal pads are soft, heat-conductive materials placed between VRM components and the heatsink to transfer heat away. Hotspot temperature refers to the highest temperature reading anywhere on the GPU die, which is typically higher than the average GPU core temperature due to uneven heat distribution across the silicon. Leaving protective films on thermal pads is a known but rare factory oversight in electronics manufacturing.
+**Background**: The World Humanoid Robot Games is an international multi-event competition for humanoid robots, first held in Beijing in August 2025 with 280 teams and over 500 robots across 26 events including boxing, football, and medicine sorting. The 2026 edition, held August 22–26, expanded to 666 teams and 2,056 robots from 16 countries competing in 51 events such as track and field, soccer, long jump, and combat. Usain Bolt's 9.58-second 100m world record, set at the 2009 World Championships in Berlin, has stood as the human benchmark for over 15 years and is the reference point being used to dramatize robot sprint progress.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/reviews/vrm-voltage-regulator-module-definition,5771.html">What Is a VRM? A Basic Definition - Tom's Hardware</a></li>
-<li><a href="https://www.darkflash.com/us/article/gpu-junction+temperature-explained">GPU Core Temp vs Hotspot: What the Difference Means in 2026 - Hardware Tips - darkFlash USA</a></li>
-<li><a href="https://linustechtips.com/topic/1596006-gpu-temp-vs-hot-spot-temp/">GPU Temp vs Hot Spot Temp? - Graphics Cards - Linus Tech Tips</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_Humanoid_Robot_Games">World Humanoid Robot Games - Wikipedia</a></li>
+<li><a href="https://www.bastillepost.com/global/article/6100076-2026-world-humanoid-robot-games-opens-in-beijing">2026 World Humanoid Robot Games opens in Beijing</a></li>
+<li><a href="https://humanoid.press/database/www-humanoid-press-tiangong-ultra/">Tiangong Ultra | China’s Marathon-Running Humanoid Robot ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GPU`, `#hardware`, `#cooling`, `#thermal-management`, `#consumer-electronics`
+**Tags**: `#humanoid-robots`, `#robotics`, `#bipedal-locomotion`, `#sports-tech`, `#Beijing`
 
 ---
 
 <a id="item-10"></a>
-## [ASRock Steel Legend SL-1200P Review: Platinum Efficiency Meets Standout Design](https://www.tomshardware.com/pc-components/power-supplies/asrock-steel-legend-sl-1200p-power-supply-review) ⭐️ 5.5/10
+## [Walkable ASCII Cyberpunk City Runs on 283KB Rust WebAssembly Engine](https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders) ⭐️ 6.5/10
 
-Tom's Hardware has published a review of the ASRock Steel Legend SL-1200P, a 1200W power supply unit featuring genuine 80 Plus Platinum efficiency certification, dual 12V-2x6 connectors, and a distinctive design with thoughtful engineering touches. This PSU matters to high-end PC builders who need reliable, efficient power delivery for demanding systems, particularly those running power-hungry GPUs like NVIDIA's RTX 40/50 series that utilize the 12V-2x6 connector standard. The unit delivers 1200W with Platinum efficiency (at least 89% energy conversion), features dual 12V-2x6 outputs each capable of delivering up to 600W to modern GPUs, and is visually distinguished by its Steel Legend aesthetic design language.
+Solo developer Grow Now! Games has released a playable browser build of a walkable ASCII cyberpunk city, powered by an impressively small 283KB Rust WebAssembly engine with WebGL shader-based rendering. This demo showcases extreme optimization in both binary size and rendering, illustrating how Rust + WebAssembly can deliver rich, interactive browser experiences with a minimal footprint — a valuable reference for game developers and the broader WASM ecosystem. 整个引擎编译为 WebAssembly 后仅有 283KB；ASCII 字符并非通过传统文本渲染绘制，而是通过 WebGL 着色器输出，借助 GPU 加速，仅凭文本字形就实现了电影级的赛博朋克美学。
 
-rss · Tom's Hardware · Aug 22, 11:05
+rss · Tom's Hardware · Aug 22, 14:37
 
-**Background**: The 80 Plus certification program, launched in 2004, rates PSU efficiency in tiers from Bronze to Titanium; Platinum-rated PSUs must achieve at least 89% energy conversion efficiency. The 12V-2x6 connector is an updated standard introduced by PCI-SIG, succeeding the 12VHPWR connector used with RTX 40-series GPUs. The 12V-2x6 maintains the same external appearance as 12VHPWR but features internal redesigns for improved durability, safer current delivery, and easier installation. It supports up to 600W power delivery to a single GPU.
+**Background**: WebAssembly (Wasm) is a binary instruction format that allows languages like Rust, C++, and C to run at near-native speed in the browser, complementing JavaScript. Rust has become a popular Wasm target thanks to its small binary output, memory safety guarantees, and zero-cost abstractions. WebGL is a JavaScript API that uses the GPU's shader-based pipeline — vertex and fragment shaders — to render 2D and 3D graphics in the browser without plugins. ASCII rendering is a stylized technique that composes scenes from text characters (densities, letters) instead of pixels, used here for aesthetic effect; recent examples include the animated 3D scene on Cognition's landing page. Combining these technologies lets a developer ship a compact, GPU-accelerated, text-aesthetic interactive experience running entirely client-side.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/80_Plus">80 Plus - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12VHPWR - Wikipedia</a></li>
-<li><a href="https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/evolving-standards-12vhpwr-and-12v-2x6/">12VHPWR and 12V-2x6 Compared | CORSAIR</a></li>
+<li><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/WebAssembly">WebAssembly | MDN</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL : 2D and 3D graphics for the web - Web APIs | MDN</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#hardware-review`, `#power-supply`, `#ASRock`, `#PC-building`, `#Tom's-Hardware`
+**Tags**: `#rust`, `#webassembly`, `#webgl`, `#game-development`, `#ascii-rendering`
+
+---
+
+<a id="item-11"></a>
+## [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ⭐️ 6.0/10
+
+Community discussion exploring why local LLMs often underperform expectations, with comments revealing practical issues like parser bugs, sampling misconfigurations, and deployment friction alongside performance benchmarks.
+
+hackernews · felineflock · Aug 22, 18:14 · [Discussion](https://news.ycombinator.com/item?id=49402232)
+
+**Tags**: `#local-llm`, `#llama-cpp`, `#qwen`, `#inference-optimization`, `#hardware`
+
+---
+
+<a id="item-12"></a>
+## [Microsoft Blames RGB Peripherals for Windows 11 Game Crashes](https://www.techpowerup.com/351843/microsoft-blames-rgb-peripherals-for-game-breaking-windows-11-update-still-no-real-fix) ⭐️ 5.5/10
+
+Microsoft has concluded its investigation into the Windows 11 August update that was causing game crashes, freezes, errors, and forced restarts, identifying RGB peripheral drivers—specifically components with file names similar to inpoutx64—as the root cause. However, no official fix has been released; affected users are advised to disable the conflicting driver as a workaround. This issue affects a broad base of Windows 11 gaming PC users who own RGB-equipped peripherals such as keyboards, mice, and internal components, potentially impacting millions of gaming setups. The fact that a kernel-level driver conflict can also interfere with anti-cheat systems like Riot Vanguard raises serious concerns about system stability and online gaming integrity. The culprit, inpoutx64.sys, is a low-level kernel driver commonly used by OpenRGB, RGB lighting control software, fan controllers, and mouse configuration tools. Its low-level access means it can trigger system-level failures including BSODs, and it is frequently flagged by anti-cheat software as a potential threat vector.
+
+rss · TechPowerUp News · Aug 23, 05:33
+
+**Background**: RGB peripherals are popular among PC gaming enthusiasts who use software like OpenRGB or vendor-specific tools (Razer Synapse, Corsair iCUE, etc.) to customize lighting effects. These tools often install kernel-level drivers to directly access hardware for low-latency control. inpoutx64.sys is one such driver that interfaces with I/O ports at a deep system level. Anti-cheat software like Riot Vanguard operates at the kernel level as well, which is why conflicts between these RGB drivers and anti-cheat systems can cause game crashes or complete system failures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://linustechtips.com/topic/1641862-kb5121003-and-incompatible-driver-inpoutx64sys-makes-some-games-crash/">KB5121003 and incompatible driver inpoutx 64 .sys... - Linus Tech Tips</a></li>
+<li><a href="https://90network.net/rgb-software-crashing-windows-11/">RGB Software Crashing Windows 11 Fixes</a></li>
+<li><a href="https://time.news/windows-11-update-causes-game-crashes-due-to-rgb-peripheral-drivers/">Windows 11 Update Causes Game Crashes Due to RGB Peripheral ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Windows 11`, `#Microsoft`, `#RGB peripherals`, `#gaming`, `#OS bugs`
+
+---
+
+<a id="item-13"></a>
+## [KDE Plasma 6.8 Previews Performance and UI Improvements Before September Beta](https://www.techpowerup.com/351841/kde-plasma-6-8-gets-performance-and-ui-updates-ahead-of-september-beta) ⭐️ 5.5/10
+
+KDE has detailed the changes heading into Plasma 6.8 Beta 1, including a redesigned lock screen with selectable authentication types and better button alignment, an adaptive auto-brightness feature that learns from manual adjustments, and several performance optimizations such as reduced RAM usage in the Discover background notifier, faster login, and smoother screen recording on high-refresh displays. These refinements target everyday pain points — login friction, background resource consumption, and display responsiveness — making Plasma more competitive against other Linux desktops and polished enough to attract users coming from proprietary platforms. The performance work specifically targets the Discover background notifier to cut RAM usage, while KWin screenshot and screen-recording pipelines are tuned for efficiency, with the latter especially benefiting high-refresh-rate (e.g., 120Hz+) monitors.
+
+rss · TechPowerUp News · Aug 23, 05:05
+
+**Background**: KDE Plasma is one of the most widely used open-source Linux desktop environments and ships as the default UI on distributions such as KDE neon, Kubuntu, and the Steam Deck. Discover is Plasma's graphical package manager, handling installs from distribution repos, Flatpak, Snap, and AppImage sources. Auto-brightness via ambient light sensors was first introduced natively in Plasma 6.6, leveraging hardware like the Framework Laptop 13's built-in sensor. KWin is Plasma's compositor and window manager, responsible for rendering, input, and effects including screenshots and screen recording.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://apps.kde.org/discover/">Discover - KDE Applications</a></li>
+<li><a href="https://www.tokenburn.fyi/article/automatic-brightness-in-plasma">Automatic brightness in Plasma | TokenBurn</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#KDE`, `#Linux`, `#Desktop Environment`, `#Open Source`, `#Plasma 6.8`
+
+---
+
+<a id="item-14"></a>
+## [US Army Tests Autonomous Ford F-250 with Shotgun Counter-Drone Turret](https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range) ⭐️ 5.5/10
+
+On August 18, the US Army conducted a live-fire exercise at Fort Bragg featuring an autonomous Ford F-250 breaching vehicle equipped with a shotgun-based counter-UAS turret designed to engage fast-moving drones at ranges of 10 to 100 meters. The system combines self-driving vehicle technology with a weaponized anti-drone payload on a standard pickup truck chassis. This demonstration reflects the growing military emphasis on countering the proliferation of small commercial and military drones on the modern battlefield, where UAS threats have become pervasive in conflicts from Ukraine to the Middle East. By mounting counter-UAS capabilities on autonomous platforms, the Army is exploring ways to extend force protection without putting soldiers directly in harm's way during high-risk breaching and convoy operations. The turret uses a shotgun-based effector rather than higher-cost interceptors like missiles or directed-energy weapons, offering a cost-effective solution against small drones at close range. The 10–100 meter engagement window suggests the system is optimized for short-range defensive scenarios such as protecting maneuvering formations or breach sites, where longer-range counter-UAS systems would be impractical or overkill.
+
+rss · Tom's Hardware · Aug 23, 13:19
+
+**Background**: Counter-UAS (C-UAS) systems are technologies designed to detect, track, and neutralize unauthorized or hostile unmanned aircraft, and they are increasingly being integrated into both military operations and routine security infrastructure worldwide. Military breaching vehicles are specialized engineering platforms built or modified to clear obstacles such as minefields and fortifications, allowing follow-on forces to advance. Examples include the US Army's Grizzly minefield breaching vehicle and Germany's Keiler NG armoured breacher, which pair obstacle-clearing missions with limited self-defense armament. Combining autonomous driving with a dedicated counter-drone weapon on a light tactical vehicle like the Ford F-250 represents a relatively new convergence of mobility, robotics, and air-defense roles previously handled by separate systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.financialexpress.com/business/defence/drone-defence-on-wheels-how-the-indrajaal-ranger-is-redefining-indias-homeland-security/4320521/">Drone defence on wheels: How the 'Indrajaal... | The Financial Express</a></li>
+<li><a href="https://www.wikiwand.com/en/Military_engineering_vehicle">Military engineering vehicle - Wikiwand</a></li>
+<li><a href="https://web.archive.org/web/20221005094315if_/http://www.military-today.com/engineering/grizzly.htm">Grizzly Minefield Breaching Vehicle | Military -Today.com</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#defense-tech`, `#autonomous-vehicles`, `#counter-UAS`, `#military-robotics`, `#drones`
+
+---
+
+<a id="item-15"></a>
+## [Nvidia's GB300 DGX Station Now Available for ~$100,000](https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash) ⭐️ 5.5/10
+
+Nvidia's GB300-powered DGX Station desktop AI workstation is now listed for purchase online, starting at approximately $94,930 and configurable up to $108,350. The system pairs a 72-core Nvidia Grace Arm CPU with a Blackwell Ultra GPU and offers 748GB of unified memory shared across both processors. This brings data-center-class AI compute into a desktop tower form factor, making it accessible to well-funded researchers, startups, and enterprises without rack-scale infrastructure. The 748GB unified memory pool is large enough to host frontier-sized models locally, which could reshape on-premises AI development workflows. The Blackwell Ultra GPU uses a dual-reticle design with 208 billion transistors and 160 Streaming Multiprocessors across two dies connected via NVIDIA High-Bandwidth Interface (NV-HBI), delivering up to 20 petaFLOPS of FP4 sparse inference. Nvidia began adopting liquid cooling with the previous GB200 generation, and the GB300 carries forward similar thermal demands given its power envelope.
+
+rss · Tom's Hardware · Aug 23, 13:00
+
+**Background**: The Nvidia Grace CPU is an Arm-based processor designed for accelerated computing, tightly coupled with GPUs via a high-bandwidth coherent fabric to minimize data movement. The Blackwell Ultra GPU is the successor generation to the original Blackwell architecture, optimized for AI inference and reasoning workloads. A DGX Station is Nvidia's desktop-class equivalent of its rack-mounted DGX servers, packaging superchip-level compute into a tower chassis suitable for an office or lab environment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theregister.com/special-features/2025/03/18/nvidia-wants-to-put-a-grace-blackwell-ultra-on-your-desk/1324747">Nvidia wants to put a Grace-Blackwell Ultra on your desk</a></li>
+<li><a href="https://developer.nvidia.com/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era/">Inside NVIDIA Blackwell Ultra : The Chip Powering the AI Factory Era</a></li>
+<li><a href="https://www.nvidia.com/en-eu/data-center/grace-cpu/">NVIDIA Grace CPU and Arm Architecture | NVIDIA</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#nvidia`, `#ai-hardware`, `#dgx-station`, `#blackwell`, `#workstation`
 
 ---

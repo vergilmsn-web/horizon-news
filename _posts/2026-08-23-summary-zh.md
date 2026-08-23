@@ -5,221 +5,312 @@ date: 2026-08-23
 lang: zh
 ---
 
-> 从 34 条内容中筛选出 10 条重要资讯。
+> 从 49 条内容中筛选出 15 条重要资讯。
 
 ---
 
-1. [美国机构警告：黑客正利用 AI 生成的攻击脚本瞄准西门子 S7 PLC](#item-1) ⭐️ 7.5/10
-2. [美国公民因在边境使用 GrapheneOS 胁迫密码删除数据被重罪起诉](#item-2) ⭐️ 7.3/10
-3. [探索仅用 ASCII 字符构建的 3D 赛博朋克城市](#item-3) ⭐️ 6.5/10
-4. [桌面 CPU 出货量骤降 20%，AMD 创纪录市场份额](#item-4) ⭐️ 6.5/10
-5. [为什么你的本地大语言模型表现比实际更差](#item-5) ⭐️ 6.0/10
-6. [Apple 在 macOS 27 Golden Gate 中弃用 hdiutil](#item-6) ⭐️ 6.0/10
-7. [Munder Difflin – 用于运行你克隆人办公室的代理框架](#item-7) ⭐️ 6.0/10
-8. [微软：RGB 外设驱动通过反作弊冲突导致 Windows 11 崩溃](#item-8) ⭐️ 5.5/10
-9. [技嘉 RTX 3070 用户发现 VRM 导热垫残留工厂保护膜，温度骤降 30°C](#item-9) ⭐️ 5.5/10
-10. [华擎 Steel Legend SL-1200P 电源评测：白金效率与出色设计兼得](#item-10) ⭐️ 5.5/10
+1. [美国可能施压荷兰停止向中国出口 ASML DUV 光刻设备](#item-1) ⭐️ 7.5/10
+2. [内存成本飙升，英伟达警告大客户 AI 服务器涨价 15%](#item-2) ⭐️ 7.5/10
+3. [AI 数据中心项目遭死亡威胁，500 多个城镇抵制建设](#item-3) ⭐️ 7.5/10
+4. [美国警告：黑客利用 AI 生成漏洞脚本攻击西门子 S7 PLC](#item-4) ⭐️ 7.5/10
+5. [通过 Copy-and-Patch 技术实现 5 微秒级 JIT 编译](#item-5) ⭐️ 7.0/10
+6. [新版 MCP 路线图](#item-6) ⭐️ 7.0/10
+7. [Prime Intellect 对 18 个 AI 模型进行自主 nanoGPT 优化基准测试](#item-7) ⭐️ 7.0/10
+8. [模块化口袋云台相机可变形为自飞无人机，遭 FCC 追溯性禁用并撤销认证——机构关闭 230 克 HoverAir Versa 外国 UAS 监管漏洞](#item-8) ⭐️ 6.5/10
+9. [人形机器人在北京运动会上打破博尔特百米纪录](#item-9) ⭐️ 6.5/10
+10. [基于 283KB Rust WebAssembly 引擎的可漫游 ASCII 赛博朋克城市](#item-10) ⭐️ 6.5/10
+11. [为什么你的本地大语言模型感觉比实际更笨](#item-11) ⭐️ 6.0/10
+12. [微软称 RGB 外设导致 Windows 11 游戏崩溃](#item-12) ⭐️ 5.5/10
+13. [KDE Plasma 6.8 在 9 月测试版前预览性能与界面改进](#item-13) ⭐️ 5.5/10
+14. [美军测试搭载霰弹枪反无人机炮塔的自动驾驶 F-250 卡车](#item-14) ⭐️ 5.5/10
+15. [英伟达 GB300 DGX Station 工作站上架，售价约 10 万美元](#item-15) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [美国机构警告：黑客正利用 AI 生成的攻击脚本瞄准西门子 S7 PLC](https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts) ⭐️ 7.5/10
+## [美国可能施压荷兰停止向中国出口 ASML DUV 光刻设备](https://www.techpowerup.com/351847/united-states-government-may-restrict-asmls-duv-tool-exports-to-china) ⭐️ 7.5/10
 
-美国网络安全机构发布警告称，黑客正主动攻击用于水利处理和能源分配等关键基础设施领域的西门子 S7 可编程逻辑控制器（PLC）。机构指出，据报告威胁行为者正利用 AI 工具生成漏洞利用脚本，并敦促运营方及时更新系统并将这些控制器与互联网隔离。 西门子 S7 PLC 广泛应用于水利处理厂和能源系统等关键基础设施，一旦被成功利用，可能中断重要的公共服务，并可能导致安全事故、设备损坏或运行中断。据报告，利用 AI 工具生成漏洞利用脚本降低了攻击者的技术门槛，可能加速针对工业控制系统的网络威胁的速度和规模。 该警告强调了两项关键的缓解措施：及时为西门子 S7 系统安装最新安全补丁，并确保其不暴露在公共互联网上。针对运营技术（OT）的 AI 辅助漏洞利用生成的出现标志着威胁的显著升级，因为它可以使技术水平较低的威胁行为者更容易获得针对 ICS/SCADA 环境的功能性攻击代码。
+美国政府正施压荷兰，要求 ASML 几乎停止向中国出口所有芯片制造设备，可能将限制范围从先进的 EUV 光刻机扩展到较旧的 DUV 光刻机。一项名为 MATCH 法案的两党法案已提交国会，旨在进一步收紧出口管制，迫使盟国对较旧的 DUV 设备实施技术禁令。 此举可能大幅影响中国生产成熟制程芯片的晶圆厂，因为 DUV 设备在整个半导体行业中被广泛使用。ASML 是全球唯一的 EUV 光刻系统生产商，也是 DUV 系统的主要供应商，因此扩大限制将进一步加剧美中科技战，并重塑全球半导体供应链。 ASML 从未向中国出口过任何一台 EUV 光刻机，原因是荷兰政府在 2019 年在美国施压下阻止了出口。DUV 光刻使用 248nm KrF 或 193nm ArF 光源，仍是晶圆厂的主要主力技术，通过多重曝光工艺能够制造低至 7nm 的制程节点。
 
-rss · Tom's Hardware · 8月22日 13:57
+rss · TechPowerUp News · 8月23日 08:48
 
-**背景**: 西门子 S7 PLC（包括 S7-1200、S7-1500、S7-300 和 S7-400 系列）是用于自动化制造、水处理和能源分配等工业流程的可编程逻辑控制器。ICS/SCADA 系统是用于监控和控制物理基础设施流程的专用计算机系统，出于安全考虑传统上与互联网隔离。这些系统与企业网络和公共网络的连接性不断增强，稳步扩大了其攻击面，使得关于主动攻击的警告对关键基础设施的运营方尤为紧迫。
+**背景**: 光刻是半导体制造中的关键步骤，通过光将图案投射到基板上。ASML 是 EUV 和 DUV 光刻系统的全球主导供应商，截至 2025 年尚无竞争对手生产 EUV 设备。EUV 使用 13.5nm 的极紫外光用于最先进的芯片制造，而 DUV 光刻使用较长的波长（193nm 或 248nm），对于 CPU、GPU 和 AI 处理器等先进和成熟制程芯片的生产都至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SIMATIC">Simatic - Wikipedia</a></li>
-<li><a href="https://publicsafety.ieee.org/topics/cybersecurity-of-critical-infrastructure-with-ics-scada-systems/">Cybersecurity of Critical Infrastructure with ICS/SCADA Systems – IEEE Public Safety Technology</a></li>
-<li><a href="https://www.fortinet.com/resources/cyberglossary/ics-scada">ICS SCADA: Strengthening OT Security | Fortinet</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/pulse/duv-lithography-workhorse-modern-semiconductor-patterning-fedif">DUV Lithography : The Workhorse of Modern Semiconductor ...</a></li>
+<li><a href="https://www.stockduediligence.com/p/the-asml-report">Can ASML maintain its lithography monopoly ?</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#critical-infrastructure`, `#ics-scada`, `#siemens`, `#ai-security`
+**标签**: `#semiconductors`, `#ASML`, `#export-controls`, `#US-China-tech-war`, `#lithography`
 
 ---
 
 <a id="item-2"></a>
-## [美国公民因在边境使用 GrapheneOS 胁迫密码删除数据被重罪起诉](https://www.solidot.org/story?sid=85162) ⭐️ 7.3/10
+## [内存成本飙升，英伟达警告大客户 AI 服务器涨价 15%](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers) ⭐️ 7.5/10
 
-2025 年 1 月，美国公民 Samuel Tunick 从多米尼加共和国返程时，在亚特兰大 Hartsfield-Jackson 国际机场被美国海关与边境保护局（CBP）官员要求查验手机，输入 GrapheneOS 的胁迫密码后删除了手机数据，因此被以妨碍联邦执法的重罪起诉，最高面临五年监禁。这是已知首例因输入特定密码删除设备数据而被起诉的案件。 此案作为标志性判例，对内置安全功能（旨在保护用户数据免受胁迫访问）的法律地位提出了根本性质疑，可能令任何跨境进入美国的人都不敢使用隐私工具。这一起诉可能开创先例，影响数百万安全操作系统用户，并重新划定合法数据保护与妨碍司法之间的法律边界。 GrapheneOS 的胁迫密码/PIN 功能在输入时会静默且不可逆地触发恢复出厂设置，擦除设备上所有数据（包括所有已安装的 eSIM），专门用于在受胁迫情况下保护数据安全。佐治亚州北区联邦检察官 Theodore Hertzberg 发表声明称，任何销毁财产（包括数据）以阻碍合法搜查的人都应预料到会因其行为受到起诉和惩罚。
+据报道，英伟达正通知其最大客户，Grace Blackwell 和 Vera Rubin AI 服务器系统将涨价 15%，新价格将适用于明年初发货的产品。此轮涨价归因于近期持续飙升的内存成本。 此次调价直接影响超大规模云厂商、云服务商以及企业级用户——这些正是英伟达顶级 AI 基础设施的主要买家，可能在大语言模型等高内存需求工作负载主导市场之际重塑 AI 部署的经济模型。这一举措也表明，HBM 和 DRAM 的供应链紧张已开始由英伟达向客户传导，而英伟达此前通常会自行消化成本上涨以维持定价承诺。 15% 的涨幅具体适用于 Grace Blackwell 系统（基于 B100/B200 加速器，包括搭载 72 颗 GPU 的 NVL72 机柜级平台）以及下一代 Vera Rubin 平台，后者预计将搭载 HBM4 内存堆栈。这些系统对训练和运行大规模 AI 模型至关重要，本次涨价反映的是更广泛的内存市场趋势，而非英伟达 GPU 芯片自身成本的变动。
 
-rss · Solidot · 8月22日 13:22
+rss · Tom's Hardware · 8月23日 13:15
 
-**背景**: GrapheneOS 是基于 Android 开源项目（AOSP）构建的注重隐私与安全的移动操作系统，因其无与伦比的安全功能而广受赞誉，其中包括允许用户设置备用胁迫密码的功能——一旦输入将不可逆地擦除设备。 美国海关与边境保护局（CBP）根据国土安全部政策拥有在入境口岸搜查电子设备的广泛权力，官员无需搜查令即可检查和复制手机中的数据。本案标志着用户可控的合法隐私保护机制与惩罚干预官方搜查的联邦妨碍执法法律之间的直接冲突。
+**背景**: 英伟达的 Grace Blackwell 平台将基于 ARM 架构的 Grace CPU 与 Blackwell GPU（B100/B200）相结合，提供机柜级 AI 算力，其中 NVL72 系统将 72 颗 GPU 互联为单一计算域。下一代 Vera Rubin 平台于 CES 2026 推出，是 Blackwell 的继任者，预计将搭载目前因 AI 需求激增而供应紧张的 HBM4 高带宽内存。高带宽内存（HBM）是一种专用的堆栈式 DRAM 技术，对于以训练和推理大模型所需的速度向 AI 加速器供给数据至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS - Wikipedia</a></li>
-<li><a href="https://www.androidauthority.com/grapheneos-duress-pin-3584795/">I use a duress PIN to protect my data — here’s how it works</a></li>
-<li><a href="https://grapheneos.org/features">Features overview | GrapheneOS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
+<li><a href="https://videocardz.com/newz/nvidia-unveils-vera-rubin-as-next-gen-gpu-architecture-patron-rubin-ultra-to-sport-12-hbm4-stacks">videocardz.com/newz/ nvidia -unveils- vera - rubin -as- next -gen-gpu...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#privacy`, `#digital-rights`, `#border-search`, `#GrapheneOS`, `#law-enforcement`
+**标签**: `#nvidia`, `#ai-infrastructure`, `#gpu-pricing`, `#memory-shortage`, `#datacenter`
 
 ---
 
 <a id="item-3"></a>
-## [探索仅用 ASCII 字符构建的 3D 赛博朋克城市](https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders) ⭐️ 6.5/10
+## [AI 数据中心项目遭死亡威胁，500 多个城镇抵制建设](https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment) ⭐️ 7.5/10
 
-独立开发者 Grow Now! Games 发布了一个可玩的浏览器版本，玩家可以步行探索一个完全由 ASCII 字符渲染的 3D 赛博朋克城市。该项目使用体积为 283KB 的 Rust WebAssembly 引擎，并通过 WebGL 着色器完成浏览器端渲染。 283KB 指 Rust WebAssembly 引擎的大小，不一定包括浏览器构建的资产、页面文件、着色器或其他下载内容。现有材料只说明该版本可玩且可步行探索，没有提供性能基准、浏览器兼容性、源代码细节或大规模应用证据。
+根据 Soufan Center 7 月发布的 IntelBrief 报告，在 2025 年 7 月至 2026 年 7 月期间，负责 AI 数据中心项目的官员收到了数百条带有威胁性语言的帖子，威胁数量从 4 月开始激增。超过 500 个城镇已限制或暂停数据中心建设，许多地方议会已取消公众评论环节。 这标志着社区对 AI 基础设施的反对情绪严重升级，可能减缓 AI 行业持续增长所必需的建设速度。公众评论环节的关闭引发了人们对数据中心选址审批中民主治理和透明度的重要担忧。 Soufan Center 的研究涵盖了一整年（2025 年 7 月至 2026 年 7 月），记录了从 4 月份开始威胁数量的明显升级，表明这是有组织或快速协调的抵制活动，而非孤立事件。地方政府关闭公众评论环节的趋势表明，在压力日益加剧的情况下，官员们正优先考虑审批速度而非社区参与。
 
-rss · Tom's Hardware · 8月22日 14:37
+rss · Tom's Hardware · 8月23日 10:30
 
-**背景**: ASCII 艺术把文本字符当作视觉元素，因此可以用字符呈现具有立体感的场景。Rust 可用于编写引擎，生成的 WebAssembly 可以在浏览器中运行，而 WebGL 则提供浏览器图形渲染接口。这个项目把计算放在 Rust WebAssembly 引擎中，再由 WebGL 在浏览器中显示结果。
+**背景**: AI 数据中心是容纳 GPU 和专用硬件的大规模设施，用于训练和运行人工智能模型。与传统数据中心不同，它们消耗的电力和冷却用水要多得多，因此在担心资源紧张、噪音和环境影响的社区中引发争议。自 2022 年以来生成式 AI 的爆炸式增长引发了全球建设这些设施的竞赛，科技公司与当地居民之间经常产生矛盾——居民承担了环境和基础设施成本，却几乎看不到直接收益。Soufan Center 是一个非营利研究组织，定期发布关于全球安全问题的 IntelBrief 分析报告。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blog.logrocket.com/implement-webassembly-webgl-viewer-using-rust/">Implement a WebAssembly WebGL viewer using Rust - LogRocket Blog</a></li>
-<li><a href="https://tianyaschool.medium.com/combining-webassembly-with-webgl-high-performance-graphics-processing-387f7a633b5c">Combining WebAssembly with WebGL High-Performance Graphics Processing | by Kevin | Medium</a></li>
+<li><a href="https://thesoufancenter.org/intelbrief/">INTELBRIEF - The Soufan Center</a></li>
+<li><a href="https://tradingtomorrownavigatingtrendsincapitalmarkets.buzzsprout.com/2243477/episodes/17104712-the-power-behind-ai-off-grid-zero-water-data-centers-are-here">The Power Behind AI : Off-Grid, Zero-Water Data Centers Are Here</a></li>
 
 </ul>
 </details>
 
-**标签**: `#rust`, `#webassembly`, `#webgl`, `#game-development`, `#ascii-art`
+**标签**: `#AI infrastructure`, `#data centers`, `#community opposition`, `#tech policy`, `#social impact`
 
 ---
 
 <a id="item-4"></a>
-## [桌面 CPU 出货量骤降 20%，AMD 创纪录市场份额](https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records) ⭐️ 6.5/10
+## [美国警告：黑客利用 AI 生成漏洞脚本攻击西门子 S7 PLC](https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts) ⭐️ 7.5/10
 
-在零部件成本高企的背景下，桌面 CPU 出货量骤降 20%，但 AMD 仍在该市场实现了有史以来最高的份额纪录。与此同时，英特尔将产能重心转向笔记本和数据中心，向笔电市场大量出货了数百万颗 CPU，但市场份额仍持续被 AMD 蚕食。 这一数据凸显了两大 CPU 巨头的不同战略：英特尔凭借其制造规模在移动和服务器领域推高出货量，而 AMD 则在不断侵蚀英特尔长期主导的桌面市场。20%的出货量下滑也表明，由于宏观经济压力和物料成本上升，整个 PC 市场正面临更广泛的疲软态势。 桌面 CPU 出货量 20%的下滑被归因于高昂的零部件成本，而非单纯需求疲软，这表明整个供应链都面临定价压力。英特尔在笔记本市场的激进策略使其出货了数百万颗笔电 CPU，但 AMD 创纪录的份额增长说明其基于 Zen 架构的桌面处理器仍在持续赢得设计和消费者青睐。
+美国多个机构发布警告，称威胁行为者正利用 AI 辅助生成针对西门子 S7 系列 PLC 的漏洞利用脚本，攻击目标包括初始访问、凭据获取和拒绝服务等。相关建议要求运营方及时更新系统，并在条件允许时将其与互联网隔离。 西门子 S7 PLC 广泛应用于水务、能源和制造等关键基础设施行业，一旦被成功利用，可能导致工艺中断、安全事故、停机甚至设备损坏。AI 辅助漏洞开发的出现降低了攻击者的技术门槛，标志着针对 OT/ICS 的威胁出现了显著的升级。 相关机构指出，AI 生成的脚本似乎基于 S7 系列的公开资料构建，攻击者已将其用于初始访问、凭据获取、拒绝服务及其他目的。建议的缓解措施包括及时打补丁、进行网络分段，以及将 PLC 与公网进行物理隔离（air-gap）。
 
-rss · Tom's Hardware · 8月22日 12:30
+rss · Tom's Hardware · 8月22日 13:57
 
-**背景**: AMD 和英特尔是 x86 CPU 市场的两大主导厂商。近年来，AMD 的 Zen 架构（从 2017 年的 Zen 一路发展到 Zen 4/5）使其在市场份额上对英特尔形成了显著追赶，而英特尔则遭遇了制造工艺延迟和产品竞争力不足的问题。桌面 CPU 出货量由 Mercury Research 等分析机构按季度追踪，统计两家公司之间的营收和出货量份额。'客户端'CPU 市场涵盖桌面、笔记本和工作站，而'服务器/数据中心'是另一个高利润细分市场。零部件成本（如 DRAM、SSD 和供电元件）直接影响 PC 的整体物料清单（BOM）成本，进而影响消费者的购买决策和 OEM 的组装计划。
+**背景**: 西门子 S7 PLC 是 Simatic 产品系列中的工业自动化控制器，Simatic S5 于 1979 年推出，使用 STEP 5 等工具编程，后续被 TIA Portal 取代。常见的 S7-300、S7-400 和 S7-1500 型号用于自动化复杂工艺，通常与 SCADA 系统相连以实现监控。美国关键基础设施环境日益成为高级网络行为者的攻击目标，而生成式 AI 被用于制作定制化漏洞工具，则为该威胁增添了新的维度。
 
-**标签**: `#CPU`, `#AMD`, `#Intel`, `#market-analysis`, `#semiconductors`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html">AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Simatic">Simatic - Wikipedia</a></li>
+<li><a href="https://www.siemens.com/en-us/products/simatic/s7-1500/">SIMATIC S7-1500 PLC – High-Performance Controller | Siemens</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cybersecurity`, `#critical-infrastructure`, `#ICS-security`, `#Siemens`, `#AI-threats`
 
 ---
 
 <a id="item-5"></a>
-## [为什么你的本地大语言模型表现比实际更差](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ⭐️ 6.0/10
+## [通过 Copy-and-Patch 技术实现 5 微秒级 JIT 编译](https://malisper.me/jit-compiling-code-in-5-us/) ⭐️ 7.0/10
 
-Level1Techs 论坛的一篇讨论揭示，本地大语言模型表现不佳往往源于配置不当，而非模型本身的局限。多位实践者报告，Qwen3 27B 模型在正确量化设置下（避免对 KV Cache 进行激进量化、使用 Q8 或更高精度的权重），搭配 RTX 5090 或 Apple Silicon MLX 等硬件运行，其输出质量可接近 Gemini 3 Flash 等托管模型，同时仍能实现每秒数百个 token 的生成速度。 这个问题值得关注，因为大量用户在使用本地大语言模型时采用了默认或过于激进的量化设置，错误地认为开源权重模型远不如托管的前沿系统。该讨论指出，当遵循配置最佳实践时，本地模型与托管模型之间的差距实际上比许多人想象的要小，这对注重隐私的用户、离线部署场景以及降低对 API 提供商依赖具有重要意义。 一位用户在 RTX 5090 上使用 ninfer 实现了批量大小为 8 时约 800 TPS、单流约 140 TPS 的生成速度；在 MacBook Pro 上通过 MLX 运行 Qwen3 27B 也取得了令人印象深刻的输出质量。推荐的最佳实践是不对 KV Cache 进行量化，权重至少使用最好的 Q8 GGUF 版本（如 Unsloth 提供的），而非激进的 Q4_K_P 变体。有用户还提到，某些托管模型（如 Codex）会直接拒绝处理某些任务（例如 CTF 挑战），而本地的去审查版本则能顺利完成。
+一篇技术文章展示了使用 copy-and-patch 编译技术在不到 10 微秒的时间内完成 JIT 编译，该方法在运行时将预先生成的汇编模板进行模式匹配并拼接，而不是调用 LLVM 等完整编译器。 超低延迟的 JIT 编译使语言运行时和数据库引擎（如 PostgreSQL）能够更激进地编译热点代码路径，而无需承担高昂的预热成本，有望提升数据库系统和解释器的查询与程序执行性能。 该技术的核心是为每个 AST 或字节码节点复制预先生成的汇编指令序列，并填入运行时值，从而绕过 LLVM 繁重的优化过程；评论者指出其关键局限在于缺乏 LLVM 所做的深度优化，因此更接近于模板化代码生成，而非传统的优化编译器。
 
-hackernews · felineflock · 8月22日 18:14 · [社区讨论](https://news.ycombinator.com/item?id=49402232)
+hackernews · zX41ZdbW · 8月23日 06:04 · [社区讨论](https://news.ycombinator.com/item?id=49406387)
 
-**背景**: 量化是一种将模型权重精度降低（例如从 16 位降至 4 位）以缩减模型体积并加速推理的技术，但如果过度激进地应用，会导致输出质量下降。KV（键值）缓存在文本生成过程中存储中间注意力计算结果，从而加速逐 token 输出；但对 KV Cache 进行量化已被证明会显著降低输出质量。Qwen 是阿里巴巴的开源权重大语言模型家族，参数量从 0.5B 到 72B+ 不等，其中 Qwen3 27B 是一款在能力与本地硬件需求之间取得平衡的中等规模模型。GGUF 是 llama.cpp 用于分发量化模型的文件格式，MLX 则是苹果公司针对 Apple Silicon 芯片优化的机器学习框架。
+**背景**: 即时（JIT）编译在运行时将中间表示或字节码转换为本地机器码以提升执行速度。LLVM 等传统 JIT 框架提供了强大的优化能力，但编译延迟较高，这在 PostgreSQL 加速 SQL 表达式求值时尤为明显。Copy-and-patch 编译是一种轻量级替代方案，通过使用预先生成的代码模板避免了完整的编译器基础设施，以优化深度为代价换取编译速度的大幅提升——该方法最近已被 Python 3.13 的实验性 JIT 所采用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2603.20397v1">KV Cache Optimization Strategies for Scalable and Efficient ...</a></li>
-<li><a href="https://localllm.in/blog/quantization-explained">The Complete Guide to LLM Quantization - localllm.in</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Copy-and-patch">Copy - and - patch - Wikipedia</a></li>
+<li><a href="https://tonybaloney.github.io/posts/python-gets-a-jit.html">Python 3.13 gets a JIT</a></li>
+<li><a href="https://www.postgresql.org/docs/current/jit-reason.html">PostgreSQL: Documentation: 18: 30.1. What Is JIT compilation?</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区观点存在分歧但讨论深入。jonplackett 和 a11r 等支持者报告了本地部署 Qwen3 27B 的出色表现，a11r 称其内部测试中 4 位量化版本的质量与 Gemini 3.7 Flash 难以区分。而 nineteen999 等怀疑者则强烈反驳，认为消费级硬件永远无法匹敌运行在数千个 CPU 和 GPU 上的前沿模型。walrus01 提出了实用建议，倡导使用 Q8 权重且不对 KV Cache 量化；InvertedRhodium 则分享了一个具体用例：本地 Qwen3 去审查版本成功完成了托管版 Codex 拒绝尝试的 CTF 挑战任务。
+**社区讨论**: 社区讨论中出现了富有深度的技术辩论：一位评论者将其与 2024 年一篇关于重写 PostgreSQL 基于 LLVM 的 JIT 的博客文章相类比；另一位评论者则批评该方法只是带替换操作的汇编模板生成，并非真正的 JIT 编译，因为它省略了 LLVM 的优化过程。其他贡献者推荐了 Russ Cox 的正则表达式引擎系列文章作为相关参考，并提到了 Common Lisp 成熟的模型——程序员可以显式控制哪些代码需要编译，展现了 JIT 设计理念的多样性。
 
-**标签**: `#local-llm`, `#quantization`, `#llm-optimization`, `#qwen`, `#hardware`
+**标签**: `#jit-compilation`, `#compilers`, `#performance`, `#language-runtimes`, `#systems-engineering`
 
 ---
 
 <a id="item-6"></a>
-## [Apple 在 macOS 27 Golden Gate 中弃用 hdiutil](https://lapcatsoftware.com/articles/2026/8/7.html) ⭐️ 6.0/10
+## [新版 MCP 路线图](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) ⭐️ 7.0/10
 
-Apple 已在即将发布的 macOS 27"Golden Gate"中正式弃用了长期存在的命令行磁盘映像工具 hdiutil。此次弃用影响磁盘映像的创建、挂载、转换等工作流程，以及历来依赖 hdiutil 创建的内存磁盘（RAM disk）。 此次弃用之所以重要，是因为 hdiutil 一直是开发者、系统管理员和高级用户管理磁盘映像以及创建内存磁盘的核心工具，而后者在 macOS 上并没有直接的替代方案。虽然 Apple 以往的记录表明被弃用的工具通常会无限期保留，但缺乏明确的替代方案仍引发了人们对工作流长期稳定性的担忧。 hdiutil 此前负责处理 .dmg、.iso 和 .cdr 等磁盘映像格式的创建、转换、压缩、挂载和验证。在 macOS 上，它实际上是创建内存磁盘的唯一原生命令行方法，内存磁盘是在系统内存中构建的高速易失性存储，可用于临时文件工作区、性能优化等任务。
+MCP 路线图概述了即将到来的改进，包括标准化智能体身份、简化云端智能体的授权流程，并计划在 2026 年中期之前将远程 MCP 服务器与标准 HTTP 工作负载进行统一。
 
-hackernews · zdw · 8月22日 19:04 · [社区讨论](https://news.ycombinator.com/item?id=49402741)
+hackernews · pentagrama · 8月22日 13:31 · [社区讨论](https://news.ycombinator.com/item?id=49399591)
 
-**背景**: hdiutil 是 macOS 内置的命令行工具，已随系统发布多年，使用户能够管理 DMG、ISO、CDR 等格式的磁盘映像文件。它广泛用于软件分发、系统备份和创建可启动映像。而 hdiutil 同样支持的内存磁盘是存储在系统内存中的虚拟磁盘，读写速度极快，可用于临时工作负载、减少固态硬盘损耗以及加速编译或缓存任务。macOS 27 Golden Gate 于 2026 年 WWDC 上发布，预计于 2026 年底正式推出，标志着 Intel Mac 支持的终结，仅支持 Apple Silicon 设备。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://iboysoft.com/wiki/hdiutil.html">What is hdiutil & How to Use It to Convert DMG to ISO</a></li>
-<li><a href="https://en.wikipedia.org/wiki/RAM_drive">RAM drive - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区情绪复杂但普遍对 Apple 的优先级提出批评，有评论者指出 Apple 市值巨大却未能维护长期使用的工具。多位用户以 xip 工具作为历史先例——它已被弃用多年，但由于 Xcode 以该格式分发，因此仍在被实际使用。怀疑者质疑弃用是否真正意味着移除，因为 Apple 历来会无限期保留已弃用工具。也有人对内存磁盘创建表达了实际担忧，一位用户指出 hdiutil 在 macOS 上实际上是创建内存磁盘的唯一方法。
-
-**标签**: `#macos`, `#apple`, `#deprecation`, `#command-line`, `#developer-tools`
+**标签**: `#MCP`, `#AI-agents`, `#protocol-design`, `#model-context-protocol`, `#developer-tools`
 
 ---
 
 <a id="item-7"></a>
-## [Munder Difflin – 用于运行你克隆人办公室的代理框架](https://munderdiffl.in/) ⭐️ 6.0/10
+## [Prime Intellect 对 18 个 AI 模型进行自主 nanoGPT 优化基准测试](https://www.primeintellect.ai/research/nanogpt-speedrun) ⭐️ 7.0/10
 
-一个以《办公室》为主题的本地多代理框架,可包装现有的编程代理订阅服务(如 Claude Code、Codex),以运行确定性的代理"员工"模拟,而无需消耗额外的 token。
+Prime Intellect 进行了 153 次自主实验，涵盖了 18 个前沿 AI 模型，旨在优化 nanoGPT 训练过程，系统性地评估了领先 AI 系统执行自主机器学习研究的能力。该研究使用 nanoGPT speedrun 基准（最初由 Andrej Karpathy 推广的知名挑战）作为衡量端到端自主研究能力的受控测试平台。 随着 AI 模型越来越声称能够加速自身的研究与开发，对自主研究能力进行严格的实证基准测试对于区分真正的进展与炒作至关重要。这项研究提供了迄今为止最广泛的跨模型对比之一，为哪些前沿系统能够在无人干预的情况下最有效地迭代、调试和优化 ML 代码提供了有价值的信号。 该基准专门针对 ML 代码优化，这是一个模型能力可直接转化为实际研发生产力的领域。社区观察者指出，speedrun 主要衡量的是达到目标所需的时间而非成本，并且不同的推理基础设施（如 systolic 芯片、批处理策略）可能会混淆基于时间的比较，这表明增加一个美元成本维度将是有益的补充。
 
-hackernews · simonpure · 8月22日 09:49 · [社区讨论](https://news.ycombinator.com/item?id=49398152)
+hackernews · stared · 8月22日 22:14 · [社区讨论](https://news.ycombinator.com/item?id=49404380)
 
-**标签**: `#multi-agent-systems`, `#developer-tools`, `#llm-agents`, `#creative-projects`, `#harness`
+**背景**: nanoGPT 是由 Andrej Karpathy 创建的极简 GPT 训练仓库，旨在用约 300 行紧凑且易读的代码在 OpenWebText 上复现 GPT-2 (124M) 的训练。'nanoGPT speedrun' 是社区发起的一项挑战，目标是在固定算力预算下尽可能快地训练模型，因此成为有吸引力的基准，因为其改进是可衡量、可复现且受限的。Prime Intellect 是一个开放 AI 研究实验室，既作为全栈训练平台运营，也作为一个专注于让前沿 AI 训练民主化并研究智能体研究系统的研究团队。
+
+**标签**: `#ai-benchmarks`, `#frontier-models`, `#machine-learning`, `#nanoGPT`, `#autonomous-research`
 
 ---
 
 <a id="item-8"></a>
-## [微软：RGB 外设驱动通过反作弊冲突导致 Windows 11 崩溃](https://www.tomshardware.com/software/windows/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-is-causing-blue-screens-crashes-and-game-freezes) ⭐️ 5.5/10
+## [模块化口袋云台相机可变形为自飞无人机，遭 FCC 追溯性禁用并撤销认证——机构关闭 230 克 HoverAir Versa 外国 UAS 监管漏洞](https://www.tomshardware.com/tech-industry/drones/fcc-pulls-hoverair-versa-certification-three-days-after-launch) ⭐️ 6.5/10
 
-微软已正式确认 RGB 外设软件驱动是导致 Windows 11 出现蓝屏、系统崩溃和游戏卡死的根源，并将问题归因于与反作弊软件的冲突。截至目前尚无官方修复方案，唯一可行的临时解决办法是禁用相关驱动。 这一问题影响大量使用 Razer、Corsair、Logitech 等品牌 RGB 外设的 PC 游戏玩家，可能波及数百万用户在游戏过程中遭遇突然崩溃的用户。同时，它也凸显了外设厂商使用内核模式驱动与游戏行业依赖内核级反作弊系统之间的更广泛矛盾。 冲突的根源可能是 RGB 软件的内核模式驱动（Ring 0）与反作弊系统（如 Easy Anti-Cheat、BattlEye 或 Vanguard）都运行在 Ring 0 特权级，它们试图同时访问同一内核空间。微软未详细解释具体机制，但用户空间中两个内核级组件发生碰撞似乎是问题的核心。
+FCC 在 HoverAir Versa 口袋云台无人机上市仅三天后追溯性撤销其认证，堵住了外国无人机系统的监管漏洞。
 
-rss · Tom's Hardware · 8月22日 16:21
+rss · Tom's Hardware · 8月23日 12:30
 
-**背景**: RGB 外设（如键盘、鼠标和耳机）依赖厂商提供的软件来控制灯效，这些应用程序通过底层驱动与硬件控制器通信。这些驱动通常运行在内核空间（x86 架构中的 Ring 0），即操作系统中权限最高的层级，关键功能在此执行。内核级反作弊系统同样运行在 Ring 0，用于监控游戏进程和检测篡改行为，因此当来自不同厂商的两个内核模式组件发生交互时，就可能导致系统不稳定、崩溃或蓝屏。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/software/windows/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-is-causing-blue-screens-crashes-and-game-freezes">Microsoft blames RGB peripherals for crashing... | Tom's Hardware</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Kernel-level_anti-cheat">Kernel-level anti-cheat - Wikipedia</a></li>
-<li><a href="https://blog.acer.com/en/discussion/3259/how-microsoft-s-kernel-changes-may-impact-anti-cheat-software">How Microsoft’s Kernel Changes May Impact Anti-Cheat Software</a></li>
-
-</ul>
-</details>
-
-**标签**: `#windows-11`, `#rgb-peripherals`, `#driver-issues`, `#anti-cheat`, `#microsoft`
+**标签**: `#drones`, `#FCC regulation`, `#consumer electronics`, `#HoverAir`, `#UAS policy`
 
 ---
 
 <a id="item-9"></a>
-## [技嘉 RTX 3070 用户发现 VRM 导热垫残留工厂保护膜，温度骤降 30°C](https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c) ⭐️ 5.5/10
+## [人形机器人在北京运动会上打破博尔特百米纪录](https://www.tomshardware.com/tech-industry/robotics/humanoid-robots-shatter-usain-bolts-100m-record-hits-23-8-mph-before-crashing-into-foam-pads-video-shows-tiangong-ultra-logging-9-39-second-sprint-before-colliding-with-padded-wall) ⭐️ 6.5/10
 
-一位技嘉 RTX 3070 用户发现，工厂出厂时 VRM（电压调节模块）导热垫上残留了保护塑料膜，使用近五年一直未移除。在撕掉保护膜并重新涂抹导热硅脂后，GPU 热点温度下降了约 30°C，黑屏问题也随之消失。 这一事件凸显了一个可能严重影响 GPU 寿命与性能的制造质量控制问题。它提醒 PC 爱好者在排查持续过热或稳定性问题时，应检查散热界面材料，同时也引发了人们对显卡品牌商工厂质检流程的质疑。 工厂保护膜相当于一层隔热层，阻碍了导热垫与 VRM 元件及散热器的有效接触。热点温度下降 30°C 幅度极大，说明该显卡在整个使用周期内 VRM 基本没有获得有效的被动散热。此问题可能仅限于特定批次，并非技嘉产品的普遍缺陷。
+在 2026 年北京世界人形机器人运动会上，天工 Ultra 人形机器人以 9.39 秒跑完 100 米，荣耀闪电以 9.47 秒完赛，两者的成绩均超过了博尔特 2009 年创下的 9.58 秒人类世界纪录。天工 Ultra 在跑完全程后撞上泡沫护垫，峰值速度约为 23.8 英里/小时。 这一成绩标志着人形机器人双足运动能力的显著进步，证明它们能够在比赛环境下以短跑级速度完成完整的 100 米距离。同时，这也凸显了中国在具身智能和人形机器人领域的加速布局，天工 Ultra（由优必选和北京人形机器人创新中心打造）与荣耀闪电均代表了国内主要厂商。 与博尔特的对比并不完全公平：这些机器人没有完成完整的减速过程，天工 Ultra 是直接撞上泡沫护垫而非受控停步，而且 100 米赛道是室内直道而非完全符合田径标准的场地。天工 Ultra 此前曾以约 2 小时 40 分钟完成全球首个人形机器人半程马拉松，从耐力慢跑到跑进 10 秒以内的短跑，体现出执行器动力与平衡控制方面的快速进步。
 
-rss · Tom's Hardware · 8月22日 11:30
+rss · Tom's Hardware · 8月23日 11:45
 
-**背景**: VRM（电压调节模块）是将电压转换并稳定后输送给 GPU 的电路，在高负载下会产生大量热量。导热垫是一种柔软的导热材料，放置在 VRM 元件与散热器之间，用于将热量传导出去。热点温度是指 GPU 核心上任意位置的最高温度读数，由于硅片上热量分布不均，通常高于 GPU 平均核心温度。导热垫上残留保护膜是电子产品制造中已知但罕见的工厂疏漏。
+**背景**: 世界人形机器人运动会是一项面向人形机器人的国际综合赛事，首届于 2025 年 8 月在北京举办，共有 280 支队伍、超过 500 台机器人参与 26 个项目，包括拳击、足球和药品分拣等。2026 届赛事于 8 月 22 日至 26 日举行，扩容至来自 16 个国家的 666 支队伍、2056 台机器人，参与 51 个项目，如田径、足球、跳远和格斗等。博尔特 2009 年在柏林世锦赛上创造的 9.58 秒百米世界纪录，作为人类基准已保持超过 15 年，常被用来直观展示机器人短跑能力的进步。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/reviews/vrm-voltage-regulator-module-definition,5771.html">What Is a VRM? A Basic Definition - Tom's Hardware</a></li>
-<li><a href="https://www.darkflash.com/us/article/gpu-junction+temperature-explained">GPU Core Temp vs Hotspot: What the Difference Means in 2026 - Hardware Tips - darkFlash USA</a></li>
-<li><a href="https://linustechtips.com/topic/1596006-gpu-temp-vs-hot-spot-temp/">GPU Temp vs Hot Spot Temp? - Graphics Cards - Linus Tech Tips</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_Humanoid_Robot_Games">World Humanoid Robot Games - Wikipedia</a></li>
+<li><a href="https://www.bastillepost.com/global/article/6100076-2026-world-humanoid-robot-games-opens-in-beijing">2026 World Humanoid Robot Games opens in Beijing</a></li>
+<li><a href="https://humanoid.press/database/www-humanoid-press-tiangong-ultra/">Tiangong Ultra | China’s Marathon-Running Humanoid Robot ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GPU`, `#hardware`, `#cooling`, `#thermal-management`, `#consumer-electronics`
+**标签**: `#humanoid-robots`, `#robotics`, `#bipedal-locomotion`, `#sports-tech`, `#Beijing`
 
 ---
 
 <a id="item-10"></a>
-## [华擎 Steel Legend SL-1200P 电源评测：白金效率与出色设计兼得](https://www.tomshardware.com/pc-components/power-supplies/asrock-steel-legend-sl-1200p-power-supply-review) ⭐️ 5.5/10
+## [基于 283KB Rust WebAssembly 引擎的可漫游 ASCII 赛博朋克城市](https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders) ⭐️ 6.5/10
 
-Tom's Hardware 发布了对华擎 Steel Legend SL-1200P 电源的评测，这是一款 1200W 电源，具备真正的 80 Plus 白金效率认证、双 12V-2x6 接口，并采用独特的外观设计和贴心的工程细节。 这款电源对于需要可靠、高效供电的高端 PC 装机用户来说很有意义，尤其是那些搭载 NVIDIA RTX 40/50 系列等高功耗显卡、并使用 12V-2x6 接口标准的系统。 该电源提供 1200W 功率和白金级效率（至少 89% 的能量转换率），配备双 12V-2x6 输出接口，每个接口可为现代显卡提供高达 600W 的功率，并以其 Steel Legend 美学设计语言在外观上脱颖而出。
+独立开发者 Grow Now! Games 发布了一款可在浏览器中游玩的可漫游 ASCII 赛博朋克城市，由仅 283KB 的 Rust WebAssembly 引擎驱动，并通过 WebGL 着色器进行渲染。 这款原型在二进制体积和渲染两方面都展现了极致优化，证明了 Rust + WebAssembly 能够在极小占用的条件下提供丰富的浏览器交互体验，对游戏开发者和更广泛的 WASM 生态系统具有参考价值。
 
-rss · Tom's Hardware · 8月22日 11:05
+rss · Tom's Hardware · 8月22日 14:37
 
-**背景**: 80 Plus 认证计划于 2004 年推出，按效率等级将电源分为铜牌至钛金牌等多个级别；白金级电源必须达到至少 89% 的能量转换效率。12V-2x6 接口是 PCI-SIG 推出的更新标准，取代了 RTX 40 系列显卡使用的 12VHPWR 接口。12V-2x6 保持了与 12VHPWR 相同的外观，但内部经过重新设计，具有更好的耐用性、更安全的电流传输和更便捷的安装体验，支持向单个显卡提供高达 600W 的功率。
+**背景**: WebAssembly（Wasm）是一种二进制指令格式，允许 Rust、C++、C 等语言编译后在浏览器中以接近原生的速度执行，与 JavaScript 互补。Rust 因其较小的二进制输出、内存安全保证和零成本抽象而成为 Wasm 的热门选择。WebGL 是一个 JavaScript API，利用 GPU 的着色器管线（顶点着色器和片段着色器）在浏览器中无插件地渲染 2D 和 3D 图形。ASCII 渲染是一种风格化技术，使用文本字符（密度字符、字母）而非像素来构成场景，此处用于美学效果——最近的例子包括 Cognition 着陆页上的 3D 动画场景。将这些技术结合，开发者能够交付一个紧凑、由 GPU 加速、采用文本美学的纯客户端交互体验。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/80_Plus">80 Plus - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12VHPWR - Wikipedia</a></li>
-<li><a href="https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/evolving-standards-12vhpwr-and-12v-2x6/">12VHPWR and 12V-2x6 Compared | CORSAIR</a></li>
+<li><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/WebAssembly">WebAssembly | MDN</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL : 2D and 3D graphics for the web - Web APIs | MDN</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware-review`, `#power-supply`, `#ASRock`, `#PC-building`, `#Tom's-Hardware`
+**标签**: `#rust`, `#webassembly`, `#webgl`, `#game-development`, `#ascii-rendering`
+
+---
+
+<a id="item-11"></a>
+## [为什么你的本地大语言模型感觉比实际更笨](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ⭐️ 6.0/10
+
+社区讨论探讨了本地大语言模型表现常低于预期的原因，评论揭示了解析器错误、采样配置不当和部署障碍等实际问题，并附有性能基准测试。
+
+hackernews · felineflock · 8月22日 18:14 · [社区讨论](https://news.ycombinator.com/item?id=49402232)
+
+**标签**: `#local-llm`, `#llama-cpp`, `#qwen`, `#inference-optimization`, `#hardware`
+
+---
+
+<a id="item-12"></a>
+## [微软称 RGB 外设导致 Windows 11 游戏崩溃](https://www.techpowerup.com/351843/microsoft-blames-rgb-peripherals-for-game-breaking-windows-11-update-still-no-real-fix) ⭐️ 5.5/10
+
+微软已完成对 Windows 11 八月更新导致游戏崩溃、卡死、报错和强制重启问题的调查，认定 RGB 外设驱动（特别是文件名类似于 inpoutx64 的组件）是根本原因。然而，官方尚未发布修复补丁，受影响用户被建议禁用冲突驱动作为临时解决方案。 这一问题影响了大量拥有 RGB 键盘、鼠标及内部组件的 Windows 11 游戏 PC 用户，波及范围可能达数百万台游戏设备。内核级驱动冲突还可能干扰 Riot Vanguard 等反作弊系统，对系统稳定性和在线游戏公平性构成了严重隐患。 罪魁祸首 inpoutx64.sys 是一个底层内核驱动，常被 OpenRGB、RGB 灯光控制软件、风扇控制器和鼠标配置工具使用。由于其底层访问权限，它可能触发包括蓝屏（BSOD）在内的系统级故障，并经常被反作弊软件标记为潜在威胁源。
+
+rss · TechPowerUp News · 8月23日 05:33
+
+**背景**: RGB 外设在 PC 游戏玩家中非常流行，他们使用 OpenRGB 或厂商专属软件（如 Razer Synapse、Corsair iCUE 等）来自定义灯光效果。这些工具通常会安装内核级驱动，以便低延迟地直接访问硬件。inpoutx64.sys 就是这样一个在深层系统层面与 I/O 端口交互的驱动。而 Riot Vanguard 等反作弊软件同样运行在内核级别，因此 RGB 驱动与反作弊系统之间的冲突会导致游戏崩溃甚至整个系统故障。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://linustechtips.com/topic/1641862-kb5121003-and-incompatible-driver-inpoutx64sys-makes-some-games-crash/">KB5121003 and incompatible driver inpoutx 64 .sys... - Linus Tech Tips</a></li>
+<li><a href="https://90network.net/rgb-software-crashing-windows-11/">RGB Software Crashing Windows 11 Fixes</a></li>
+<li><a href="https://time.news/windows-11-update-causes-game-crashes-due-to-rgb-peripheral-drivers/">Windows 11 Update Causes Game Crashes Due to RGB Peripheral ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Windows 11`, `#Microsoft`, `#RGB peripherals`, `#gaming`, `#OS bugs`
+
+---
+
+<a id="item-13"></a>
+## [KDE Plasma 6.8 在 9 月测试版前预览性能与界面改进](https://www.techpowerup.com/351841/kde-plasma-6-8-gets-performance-and-ui-updates-ahead-of-september-beta) ⭐️ 5.5/10
+
+KDE 公布了 Plasma 6.8 Beta 1 之前的变更详情，包括重新设计的锁屏（支持可选认证方式和更佳按钮对齐）、可根据用户手动调节学习的自适应自动亮度功能，以及多项性能优化，例如 Discover 后台通知进程内存占用降低、登录速度更快、高刷新率显示器上录屏更流畅。 这些改进针对日常使用中的痛点——登录体验、后台资源占用和显示响应速度——让 Plasma 在与其他 Linux 桌面的竞争中更具优势，也足以吸引来自专有平台的用户。 性能优化专门针对 Discover 后台通知进程以降低内存占用，同时对 KWin 截图和录屏管线进行了效率调优，后者对高刷新率（如 120Hz 及以上）显示器尤为受益。
+
+rss · TechPowerUp News · 8月23日 05:05
+
+**背景**: KDE Plasma 是最广泛使用的开源 Linux 桌面环境之一，是 KDE neon、Kubuntu 以及 Steam Deck 等发行版的默认界面。Discover 是 Plasma 的图形化包管理器，支持从系统仓库、Flatpak、Snap 和 AppImage 等来源安装软件。基于环境光传感器的自动亮度功能最初在 Plasma 6.6 中原生引入，借助 Framework Laptop 13 等设备内置的传感器实现。KWin 是 Plasma 的 compositor（合成器）和窗口管理器，负责渲染、输入以及包括截图和录屏在内的特效。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://apps.kde.org/discover/">Discover - KDE Applications</a></li>
+<li><a href="https://www.tokenburn.fyi/article/automatic-brightness-in-plasma">Automatic brightness in Plasma | TokenBurn</a></li>
+
+</ul>
+</details>
+
+**标签**: `#KDE`, `#Linux`, `#Desktop Environment`, `#Open Source`, `#Plasma 6.8`
+
+---
+
+<a id="item-14"></a>
+## [美军测试搭载霰弹枪反无人机炮塔的自动驾驶 F-250 卡车](https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range) ⭐️ 5.5/10
+
+8 月 18 日，美军在布拉格堡进行了一场实弹演习，测试了一辆搭载霰弹枪反无人机炮塔的自动驾驶 F-250 破障车，该系统设计用于在 10 至 100 米距离上打击快速移动的无人机。该系统将自动驾驶技术与安装在标准皮卡底盘上的武器化反无人机载荷相结合。 此次演示反映出军方日益重视应对小型商用和军用无人机在现代战场的扩散，从乌克兰到中东的冲突中，无人机威胁已无处不在。通过将反无人机能力部署在自主平台上，美军正在探索在执行高风险破障和护送任务时无需让士兵直接暴露于危险之中的方式。 该炮塔采用霰弹枪式效应器而非导弹或定向能武器等成本更高的拦截手段，为近距离打击小型无人机提供了一种经济高效的解决方案。10 至 100 米的交战窗口表明该系统针对短程防御场景进行了优化，例如保护机动编队或破障现场，在这些场景中使用远程反无人机系统既不切实际又属于过度杀伤。
+
+rss · Tom's Hardware · 8月23日 13:19
+
+**背景**: 反无人机系统（Counter-UAS, C-UAS）是用于探测、追踪和压制未经授权或敌对无人机的技术，目前正越来越多地融入全球军事行动和常规安全基础设施中。军用破障车是专门建造或改装的工程平台，用于清除雷场和防御工事等障碍物，使后续部队能够推进。典型例子包括美军的 Grizzly 雷场破障车和德国的 Keiler NG 装甲破障车，这些车辆将清障任务与有限的自我防御武器相结合。将自动驾驶与轻型战术车辆（如福特 F-250）上的专用反无人机武器相结合，代表了一种相对较新的融合趋势，将移动性、机器人技术与以往由独立系统执行的防空角色合而为一。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.financialexpress.com/business/defence/drone-defence-on-wheels-how-the-indrajaal-ranger-is-redefining-indias-homeland-security/4320521/">Drone defence on wheels: How the 'Indrajaal... | The Financial Express</a></li>
+<li><a href="https://www.wikiwand.com/en/Military_engineering_vehicle">Military engineering vehicle - Wikiwand</a></li>
+<li><a href="https://web.archive.org/web/20221005094315if_/http://www.military-today.com/engineering/grizzly.htm">Grizzly Minefield Breaching Vehicle | Military -Today.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#defense-tech`, `#autonomous-vehicles`, `#counter-UAS`, `#military-robotics`, `#drones`
+
+---
+
+<a id="item-15"></a>
+## [英伟达 GB300 DGX Station 工作站上架，售价约 10 万美元](https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash) ⭐️ 5.5/10
+
+搭载 GB300 的英伟达 DGX Station 桌面 AI 工作站已正式在线开售，起售价约 94,930 美元，最高配置可达 108,350 美元。该系统将一颗 72 核的英伟达 Grace Arm CPU 与 Blackwell Ultra GPU 相结合，并提供 748GB 在两颗处理器间共享的统一内存。 这将数据中心级别的 AI 算力浓缩到一台桌面塔式机箱中，使资金充裕的研究人员、创业公司和企业无需机架级基础设施即可使用。748GB 的统一内存容量足以在本地运行前沿规模的大模型，有望改变本地化 AI 开发的既有流程。 Blackwell Ultra GPU 采用双 reticle 设计，集成 2080 亿个晶体管，拥有 160 个流式多处理器（SM），分布在通过英伟达高带宽互连（NV-HBI）相连的两颗裸片上，FP4 稀疏推理性能最高可达 20 petaFLOPS。英伟达从上一代 GB200 开始采用液冷方案，GB300 鉴于其功耗水平也延续了类似的散热需求。
+
+rss · Tom's Hardware · 8月23日 13:00
+
+**背景**: 英伟达 Grace CPU 是一款基于 Arm 架构的处理器，通过高带宽一致性互联与 GPU 紧耦合，以最大限度减少数据搬运。Blackwell Ultra GPU 是原始 Blackwell 架构的下一代产品，针对 AI 推理与推理类工作负载进行了优化。DGX Station 是英伟达机架式 DGX 服务器的桌面级版本，将超级芯片级别的算力封装到可在办公室或实验室环境中使用的塔式机箱中。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theregister.com/special-features/2025/03/18/nvidia-wants-to-put-a-grace-blackwell-ultra-on-your-desk/1324747">Nvidia wants to put a Grace-Blackwell Ultra on your desk</a></li>
+<li><a href="https://developer.nvidia.com/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era/">Inside NVIDIA Blackwell Ultra : The Chip Powering the AI Factory Era</a></li>
+<li><a href="https://www.nvidia.com/en-eu/data-center/grace-cpu/">NVIDIA Grace CPU and Arm Architecture | NVIDIA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#nvidia`, `#ai-hardware`, `#dgx-station`, `#blackwell`, `#workstation`
 
 ---
