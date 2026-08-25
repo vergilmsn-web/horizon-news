@@ -5,428 +5,423 @@ date: 2026-08-25
 lang: zh
 ---
 
-> 从 95 条内容中筛选出 20 条重要资讯。
+> 从 92 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [英特尔 Diamond Rapids Xeon 7：256 个 P 核、1.28 GB LLC、UCIe-S](#item-1) ⭐️ 8.5/10
-2. [SK hynix 将混合键合推迟至 HBM5，775 微米堆叠厚度天花板逼近](#item-2) ⭐️ 8.5/10
-3. [IBM 推出 2nm 11 核双指令集大型机处理器](#item-3) ⭐️ 8.5/10
-4. [京都大学展示 600°C 碳化硅晶体管，采用标准离子注入工艺](#item-4) ⭐️ 8.5/10
-5. [微软画图和照片应用秘密嵌入无法关闭的 GUID 水印](#item-5) ⭐️ 8.0/10
-6. [AMD x86 市场份额创纪录达 30.7%，Intel 跌至 1995 年以来最低](#item-6) ⭐️ 7.5/10
-7. [英特尔详解 Crescent Island 数据中心 GPU：32 个 Xe3P 核心、最高 480GB LPDDR5X 显存](#item-7) ⭐️ 7.5/10
-8. [mVolt+ v0.36 无需硬件改装即可突破 RTX 50 系列功耗限制](#item-8) ⭐️ 7.5/10
-9. [三星确认 HBM4E 内存速率达 16 Gbps 每引脚](#item-9) ⭐️ 7.5/10
-10. [台湾起诉九人涉嫌走私英伟达 B300 GPU 至中国](#item-10) ⭐️ 7.5/10
-11. [AMD 在 Hot Chips 2026 大会揭晓 MI400 GPU 架构](#item-11) ⭐️ 7.5/10
-12. [Arm 在 Hot Chips 2026 发布首款完整数据中心 CPU——AGI](#item-12) ⭐️ 7.5/10
-13. [富士通基于 Arm 架构的 Monaka 数据中心 CPU 亮相 Hot Chips 2026](#item-13) ⭐️ 7.5/10
-14. [皮尤研究：ChatGPT 发布后逾三分之一英文网页带有 AI 痕迹](#item-14) ⭐️ 7.3/10
-15. [整个旧金山市被重建为可交互的 3D 电子游戏](#item-15) ⭐️ 7.0/10
-16. [RISC-V 十六年：从模块化 ISA 到 Hot Chips 2026 上的标准化平台](#item-16) ⭐️ 7.0/10
-17. [Hot Chips 大会聚焦面向 AI 的演进型内存架构](#item-17) ⭐️ 7.0/10
-18. [天工 Ultra 人形机器人百米赛跑超越最快人类](#item-18) ⭐️ 7.0/10
-19. [Quintessent 开始提供单芯片 DWDM 梳状激光器样片](#item-19) ⭐️ 7.0/10
-20. [LG 原生 1,000Hz 1080p 电竞显示器售价高达 1000 美元——25 英寸 UltraGear 25G590B 开启预售](#item-20) ⭐️ 6.5/10
+1. [IBM 发布首款原生同时执行 ARM 和 z/Architecture 的双 ISA 核心，2nm 工艺下主频达 5.7 GHz](#item-1) ⭐️ 9.5/10
+2. [法医团队称，由英伟达 Jetson Orin 引导的俄罗斯人工智能无人机在乌克兰造成三名平民死亡——这是首例有记录在案的俄罗斯无人机使用完全自主目标锁定导致平民死亡的案件](#item-2) ⭐️ 8.5/10
+3. [美光警告：HBM 每代硅晶圆成本差距持续扩大](#item-3) ⭐️ 8.5/10
+4. [英伟达在 Hot Chips 2026 详解 88 核 Vera CPU 与空间多线程技术](#item-4) ⭐️ 8.5/10
+5. [AliExpress 据称通过隐藏的 Web Audio API 代码对电脑进行指纹识别](#item-5) ⭐️ 8.5/10
+6. [英特尔发布 Diamond Rapids Xeon 7：256 个 P 核、1.28 GB LLC、18A-P 工艺、UCIe-S 互联](#item-6) ⭐️ 8.5/10
+7. [SK 海力士：HBM 遭遇 775 微米厚度上限，混合键合推迟至 HBM5](#item-7) ⭐️ 8.5/10
+8. [微软画图和照片应用静默嵌入无法移除的 GUID 水印到本地图片](#item-8) ⭐️ 8.0/10
+9. [Hot Chips：面向人工智能的演进型内存架构](#item-9) ⭐️ 8.0/10
+10. [英伟达与 SpaceXAI 将地面数据中心基础设施改造应用于太空](#item-10) ⭐️ 8.0/10
+11. [IBM 与 Arm 联合开发双架构处理器，瞄准主机平台](#item-11) ⭐️ 8.0/10
+12. [SK 海力士下一代 HBM 内存将采用英特尔 EMIB-T 封装技术](#item-12) ⭐️ 7.5/10
+13. [AMD 创下 30.7% x86 市场份额新高，英特尔跌至 31 年低点](#item-13) ⭐️ 7.5/10
+14. [英特尔详解 Crescent Island GPU：32 个 Xe3P 核心，最高 480GB LPDDR5X](#item-14) ⭐️ 7.5/10
+15. [英特尔在 HOT CHIPS 大会详解 Xeon 7'Diamond Rapids'封装设计](#item-15) ⭐️ 7.5/10
+16. [IBM 发布业界首款同时支持 IBM Z 与 Arm 的双架构大型机处理器](#item-16) ⭐️ 7.5/10
+17. [苹果发布 M6 与 M5 Ultra 芯片，搭载于新款 Mac Mini 与 Mac Studio](#item-17) ⭐️ 7.5/10
+18. [中国放缓对台关键材料出口，威胁芯片、光学与机器人供应链](#item-18) ⭐️ 7.5/10
+19. [美国上诉法院驳回 Xinuos 上诉，结束长达数十年的 Linux 所有权之争](#item-19) ⭐️ 7.5/10
+20. [台湾起诉九人涉嫌非法向中国出口英伟达 B300 GPU——细节揭露其利用和逃避海关管制的五点策略](#item-20) ⭐️ 7.5/10
 
 ---
 
 <a id="item-1"></a>
-## [英特尔 Diamond Rapids Xeon 7：256 个 P 核、1.28 GB LLC、UCIe-S](https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib) ⭐️ 8.5/10
+## [IBM 发布首款原生同时执行 ARM 和 z/Architecture 的双 ISA 核心，2nm 工艺下主频达 5.7 GHz](https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores) ⭐️ 9.5/10
 
-在 Hot Chips 2026 大会上，英特尔公布了其下一代 Xeon 7「Diamond Rapids」服务器处理器，每个插槽最多配备 256 个「Panter Cove」P 核和 1.28 GB 末级缓存（LLC），采用英特尔 18A-P 工艺节点制造。该芯片以 UCIe-S 小芯片互连取代了英特尔传统的 EMIB，并新增 AVX 10.2 指令集与 PCI-Express Gen 6 I/O，面向企业级智能体（agentic AI）工作负载，计划于 2027 年正式发布。 Diamond Rapids 标志着英特尔多年来最激进的服务器 CPU 重新设计，直接挑战 AMD EPYC 和基于 ARM 的服务器芯片在多核数据中心市场的地位。256 核、1.28 GB LLC 与 PCI-Express Gen 6 的组合，使该产品定位于 AI 推理和智能体 AI 工作负载——在这些场景中，内存带宽和缓存容量是关键瓶颈。 该 MCM 封装包含 16 个核心 chiplet，组成 4 个基础 tile（每个 tile 64 核），通过 2 个 Fabric Hub Tile 和一个集中式服务器 I/O 晶圆（sIOD）互连，与 AMD 的 CCD/sIOD 分解设计理念非常接近。从英特尔专有的 EMIB 硅桥转向开放的 UCIe-S 标准，表明英特尔正与行业级 chiplet 互操作性对齐，而非继续维持封闭的互连技术。
+IBM 在 Hot Chips 2026 大会上展示了其首款双 ISA CPU 核心，可在同一核心内原生执行 ARM（AArch64）和 z/Architecture 指令。该处理器采用 2nm 工艺节点，集成了 11 个 IBM Z 核心，主频高达 5.7 GHz，标志着 IBM 大型机和 LinuxONE 系统软件支持范围的一次重大扩展。 这款双 ISA 设计将 IBM 拥有数十年历史的大型机生态与更广泛的 ARM 软件生态连接起来，使企业能够在同一颗芯片上同时运行主流 AI 和云原生工作负载以及传统 z/Architecture 应用。这标志着 IBM 在战略上转向使大型机成为现代 AI 和容器化工作负载的可行平台，有望重塑混合云和企业计算战略。 每个核心配备 36 MB 私有 L2 缓存以及虚拟 L3 和 L4 缓存，其容量超过了上一代 Telum II（虚拟 L3 为 432 MB，虚拟 L4 为 3.5 GB）。全部 11 个核心在 2nm 工艺下统一运行在 5.7 GHz 的高基础频率上，对于集成度如此之高的大型机级芯片而言，这一频率令人印象深刻。
 
-rss · Tom's Hardware · 8月24日 21:07
+rss · Tom's Hardware · 8月24日 17:42
 
-**背景**: UCIe（Universal Chiplet Interconnect Express，通用小芯片互连快车）是一项开放的行业标准，最初于 2022 年 3 月发布，并于 2025 年 8 月更新到 3.0 版本，定义了标准化的裸片间（die-to-die）互连，允许不同厂商的 chiplet 在同一封装中混合使用。英特尔的 EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多裸片互连桥）是一项专有的 2.5D 硅桥技术，于 2018 年首次出现，曾用于 Kaby Lake-G 和早期 Xeon tile 等产品。AVX 10.2 是英特尔高级矢量扩展指令集（AVX）的最新演进，新增了转换指令、饱和运算指令以及浮点比较指令，可加速 AI、科学计算和密码学工作负载。「P 核」（Performance core）指英特尔的性能核，针对单线程吞吐量优化，区别于更注重能效的 E 核（Efficient core）。
+**背景**: z/Architecture 是 IBM 自 2000 年底推出 z900 系统以来在大型机中使用的 64 位复杂指令集（CISC）架构，其技术渊源可追溯到 1964 年的 IBM System/360。ARM（AArch64）是目前在移动、云端以及越来越多服务器和 AI 工作负载中占主导地位的 RISC 架构。历史上，大型机软件一直是一个相对封闭的生态，因此增加对 ARM 指令的原生执行能力使 IBM Z 客户能够直接利用庞大的 ARM/Linux 软件生态——包括各种 AI 框架——而无需通过速度过慢、无法满足生产需求的模拟方式运行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/UCIe">UCIe - Wikipedia</a></li>
-<li><a href="https://semiwiki.com/semiconductor-manufacturers/intel/298674-intels-emib-packaging-technology-a-deep-dive/">Intel ’s EMIB Packaging Technology – A Deep Dive - SemiWiki</a></li>
-<li><a href="https://hugeonotation.github.io/pblog/2024/11/03/avx10_2_new_instructions.html">AVX-10.2's New Instructions</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores">IBM's first dual - ISA core natively executes ARM and z/ Architecture in...</a></li>
+<li><a href="https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/">IBM Z and LinuxONE Dual - ISA Processor and AI... - ServeTheHome</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Z/Architecture">z / Architecture - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Intel`, `#Xeon`, `#data-center`, `#HotChips2026`, `#server-CPUs`
+**标签**: `#IBM`, `#dual-ISA`, `#ARM`, `#mainframe`, `#2nm`, `#Hot Chips`, `#AI processor`, `#z/Architecture`
 
 ---
 
 <a id="item-2"></a>
-## [SK hynix 将混合键合推迟至 HBM5，775 微米堆叠厚度天花板逼近](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling) ⭐️ 8.5/10
+## [法医团队称，由英伟达 Jetson Orin 引导的俄罗斯人工智能无人机在乌克兰造成三名平民死亡——这是首例有记录在案的俄罗斯无人机使用完全自主目标锁定导致平民死亡的案件](https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say) ⭐️ 8.5/10
 
-在 Hot Chips 2026 大会上，SK hynix 披露 HBM 立方体堆叠的总厚度已达到 775 微米的硬性上限——即 300mm 逻辑晶圆的标准厚度——这迫使公司将混合键合技术从 HBM4e 推迟到 HBM5，同时在 Nvidia Rubin 代际产品中继续采用 MR-MUF 封装工艺。 这是 AI 内存供应链的一个关键转折点：775 微米的上限直接限制了未来 HBM 堆叠的高度增长空间，意味着每一代产品必须在相同的垂直空间内塞入更大容量，而混合键合的推迟意味着热-机械瓶颈将在又一个产品周期内持续存在，影响每一家 AI 加速器供应商。 775 微米的限制并非随意设定，而是由 300mm 标准晶圆厚度决定——这定义了薄化晶圆在不发生破裂的情况下能承受的翘曲极限；MR-MUF（大规模回流模塑底填）通过焊料回流加上保护性模塑底填实现芯片互连并改善散热，而混合键合则通过金属与绝缘体直接键合实现更高的 I/O 密度和更低的热阻，但在量产中仍面临良率和吞吐量的挑战。
+一架搭载英伟达 Jetson Orin AI 模块的俄罗斯 Molniya 无人机在乌克兰自主锁定目标并造成三名平民死亡，这是首例有记录的由完全自主无人机目标锁定导致平民死亡的案件。
 
-rss · Tom's Hardware · 8月24日 17:55
+rss · Tom's Hardware · 8月25日 12:40
 
-**背景**: 高带宽内存（HBM）是驱动现代 AI GPU 和加速器的堆叠式 DRAM，通过硅通孔（TSV）垂直堆叠多颗 DRAM 芯片，提供远超传统 GDDR 的带宽。MR-MUF 是 SK hynix 专有的大规模回流-模塑底填工艺，被广泛认为是 HBM 堆叠领域的业界最佳方案，因为它相比传统热压键合能显著改善散热和堆叠刚性。混合键合是下一代演进方向，通过铜-铜或金属-电介质直接键合（无需焊料凸点）实现更精细的间距互连和更低的热阻，但其所需的极端表面平整度和洁净室精度迄今限制了其在 HBM 大规模量产中的应用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://news.skhynix.com/rulebreaker-revolutions-mr-muf-unlocks-hbm-heat-control/">Rulebreakers' Revolutions: MR - MUF Unlocks HBM Heat Control</a></li>
-<li><a href="https://www.mdpi.com/2079-9292/14/13/2682">Thermal Issues Related to Hybrid Bonding of 3D-Stacked High ...</a></li>
-<li><a href="https://chiplet-marketplace.com/library/wiki/mr-muf-mass-reflow-molded-underfill">MR - MUF ( Mass Reflow Molded Underfill ) - Chiplet Marketplace Wiki</a></li>
-
-</ul>
-</details>
-
-**标签**: `#HBM`, `#SK-hynix`, `#hybrid-bonding`, `#semiconductors`, `#AI-infrastructure`
+**标签**: `#AI ethics`, `#autonomous weapons`, `#Nvidia Jetson`, `#drones`, `#military AI`
 
 ---
 
 <a id="item-3"></a>
-## [IBM 推出 2nm 11 核双指令集大型机处理器](https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores) ⭐️ 8.5/10
+## [美光警告：HBM 每代硅晶圆成本差距持续扩大](https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation) ⭐️ 8.5/10
 
-IBM 在 Hot Chips 2026 上公布了这款 11 核处理器，其核心可在同一核心中原生执行 z/Architecture 与 AArch64 指令，芯片采用 2nm 工艺，所有核心的基础频率为 5.7GHz。该处理器面向未来的 IBM Z 和 LinuxONE 系统，是 IBM 于 2026 年 4 月与 Arm 建立合作后推出的首个处理器里程碑。 该设计可让 Arm 原生 Linux 环境与 z/OS 及 IBM Z 上的 Linux 同时运行，从而把面向云原生和 AI 的软件生态带到擅长交易处理及数据密集型工作负载的平台。企业因此有机会在同一企业级平台上运行更多工作负载，同时沿用 IBM 所强调的硬件级故障检测与恢复、加密、安全密钥管理及 AI 加速能力。 该芯片的关键实现是让每个物理核心原生执行 z/Architecture 和 AArch64，而不是为两套指令集分别配置不同类型的核心。IBM 仍将这款处理器描述为正在开发中，并计划用于未来的 IBM Z 和 LinuxONE；公告未给出上市时间、实测性能、定价或软件迁移承诺。
+在 Hot Chips 2026 大会上，美光研究员 Raghu Sreeramaneni 警告称，HBM 相对于 DDR5 的硅晶圆成本差距每一代都在扩大，HBM 每比特所消耗的硅面积约为 DDR5 的三倍。 这一不断扩大的效率差距意味着 AI 基础设施成本将持续攀升，因为 HBM 是为 NVIDIA Blackwell 等 GPU 及 AMD 等厂商加速器供给数据的关键。这表明内存墙——即计算与内存性能之间日益扩大的不匹配——非但没有解决反而在恶化，对 AI 扩展的经济性具有深远影响。 这一差距源于结构本身：HBM 通过 DRAM 芯片的 3D 堆叠和宽 I/O 接口获得带宽优势，这两种方式每比特所消耗的硅面积都远大于平面型的 DDR5。美光将这一趋势描述为持续恶化而非固定成本，意味着 HBM4 及未来世代的硅效率将比当前的 HBM3E 更低。
 
-rss · Tom's Hardware · 8月24日 17:42
+rss · Tom's Hardware · 8月25日 12:19
 
-**背景**: z/Architecture 是 IBM 大型机处理器采用的 64 位 CISC 指令集架构。AArch64 是 Arm 的 64 位指令集架构，可支持 Linux 以及广泛的云端、边缘和 AI 软件。IBM Z 平台主要承担交易处理和数据密集型工作负载，并可同时运行 z/OS 与 Linux；IBM 和 Arm 于 2026 年 4 月建立了此次合作。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/">IBM Z and LinuxONE Dual - ISA Processor and AI... - ServeTheHome</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores">IBM's first dual - ISA core natively executes ARM and z/ Architecture in...</a></li>
-<li><a href="https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf">IBM z/Architecture Reference Summary</a></li>
-
-</ul>
-</details>
-
-**标签**: `#IBM`, `#mainframe`, `#ARM`, `#z/Architecture`, `#Hot Chips 2026`
-
----
-
-<a id="item-4"></a>
-## [京都大学展示 600°C 碳化硅晶体管，采用标准离子注入工艺](https://www.tomshardware.com/tech-industry/kyoto-university-demonstrates-a-sic-transistor-that-runs-at-600c-using-standard-ion-implantation) ⭐️ 8.5/10
-
-京都大学的研究人员制造出一款能在 600°C（873 K）下稳定工作的碳化硅（SiC）晶体管，采用标准离子注入工艺和底栅 JFET 设计，在 400°C 时阈值电压漂移控制在 0.1 V 以内。该方案解决了长期以来阻碍 SiC 晶体管采用传统半导体工艺制造的漏电和电压漂移问题。 这一突破使得航空航天、太空、油气井下等恶劣环境所需的高温电子器件，能够利用现有商业晶圆厂中已有的离子注入设备进行生产，而无需依赖特殊的专用工艺。SiC 高温晶体管实现与现有产线兼容，将大幅降低在硅基器件无法承受的极端环境中量产电子产品的门槛。 该器件是基于碳化硅的底栅结型场效应晶体管（JFET），利用 SiC 的宽禁带特性实现热稳定性，同时采用离子注入——一种低温且广泛使用的掺杂技术——来形成有源区。底栅架构专门用于抑制栅极漏电并稳定极高温下的阈值电压，这两种失效模式通常是采用传统方法制造的 SiC 晶体管的主要问题。
-
-rss · Tom's Hardware · 8月24日 10:30
-
-**背景**: 碳化硅是一种宽禁带半导体材料，这意味着激发电子进入导带所需的能量远高于硅，因而具备出色的耐高温、耐高压和高频特性。离子注入是一种标准的低温掺杂工艺，通过将加速离子注入半导体来改变其电学特性，几乎是所有现代 CMOS 晶圆厂的核心工艺。底栅晶体管将栅电极置于半导体沟道下方（而非上方），在该设计中这有助于控制漏电流和阈值电压稳定性。将这些要素结合，京都大学团队让 SiC 固有的耐高温能力与主流晶圆厂可执行的工艺流程得以兼容。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/kyoto-university-demonstrates-a-sic-transistor-that-runs-at-600c-using-standard-ion-implantation">Kyoto University builds transistor that survives... | Tom's Hardware</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ion_implantation">Ion implantation - Wikipedia</a></li>
-<li><a href="https://ece.engin.umich.edu/stories/u-m-awarded-up-to-7-5m-to-bring-heat-tolerant-semiconductors-from-lab-to-fab">U-M awarded up to $7.5M to bring heat-tolerant semiconductors from...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#silicon-carbide`, `#high-temperature-electronics`, `#research-breakthrough`, `#hardware`
-
----
-
-<a id="item-5"></a>
-## [微软画图和照片应用秘密嵌入无法关闭的 GUID 水印](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
-
-逆向工程发现，微软画图（MS Paint）和微软照片（Photos）会在图像中嵌入包含 GUID 的不可见且无法关闭的水印，即使是通过本地 AI 模型生成或编辑的图像也不例外。该隐形水印无法关闭，用户也不会收到任何相关通知。 这对数以亿计的 Windows 用户提出了严重的隐私和匿名性担忧，因为嵌入的水印有可能通过向微软发出版权传票来识别用户身份。它也打破了用户在使用本地 AI 模型时所期望的隐私保护——用户选择本地部署通常正是为了避免向外部服务器发送数据。 可见水印可以被用户手动关闭，但隐形水印在后台静默嵌入，用户完全无法察觉，也无法通过任何设置禁用。即使使用 Stable Diffusion 等本地 AI 模型生成图像时也会被嵌入水印，这暗示在表面上离线的处理过程中仍然存在遥测或网络请求。
-
-hackernews · ComputerGuru · 8月24日 15:28 · [社区讨论](https://news.ycombinator.com/item?id=49421158)
-
-**背景**: GUID（全局唯一标识符）是一个 128 位的数字，用于在计算机系统中唯一标识信息，在微软软件中被广泛用于标记数据。数字水印是一种隐写术技术，将隐藏数据嵌入到图像等数字媒体中，通常用于版权保护、身份验证或取证追踪。本地 AI 图像生成指的是直接在用户自己的硬件上运行 Stable Diffusion 等模型，无需将数据发送到云服务器——用户选择本地部署通常正是出于隐私考虑和规避内容审查。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Universally_unique_identifier">Universally unique identifier - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Digital_watermarking">Digital watermarking - Wikipedia</a></li>
-<li><a href="https://techtactician.com/beginners-guide-to-local-ai-image-generation-software/">Beginner's Guide To Local AI Image Generation Software - How ...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区讨论主要集中在隐私和匿名性问题上。评论者强调，真正的危险不在于 AI 功能本身，而在于每张图像中嵌入的唯一标识符——这可以通过版权传票被滥用，从而实现用户去匿名化，与年龄验证系统的风险类似。一些用户对 MS Paint 已从简单绘图工具演变为复杂软件表示惊讶，另一些人则认为这是互联网匿名性被侵蚀和企业监控扩张的更广泛趋势的一部分。
-
-**标签**: `#privacy`, `#security`, `#reverse-engineering`, `#microsoft`, `#watermarking`
-
----
-
-<a id="item-6"></a>
-## [AMD x86 市场份额创纪录达 30.7%，Intel 跌至 1995 年以来最低](https://www.techpowerup.com/351908/amd-gains-ground-as-intel-x86-market-share-goes-back-to-1995-levels) ⭐️ 7.5/10
-
-根据 Mercury Research 的数据，Intel 的 x86 CPU 市场份额在 2026 年第二季度跌至 69.3%，这是自 1995 年以来首次跌破 70%，同比下滑 6.5 个百分点；与此同时 AMD 攀升至创纪录的 30.7%。如果将半定制、嵌入式和物联网产品计算在内，Intel 的份额进一步降至 65.9%，AMD 则达到 34.1%，后者得益于超出预期的主机 SoC 出货量。 这是三十年来 Intel 在 x86 生态中长期主导地位最显著的削弱，反映了 AMD Zen 架构在桌面、笔记本和服务器领域成功的累积效应。这一转变标志着 PC 和数据中心竞争格局的变化，将对全行业的定价、供货决策和平台投资产生影响。 按细分市场来看，AMD 的桌面 CPU 份额达到 34.9%（同比增长 2.7 个百分点），服务器份额达到 34.5%（同比增长 7.3 个百分点），笔记本份额跃升至 28.9%（同比增长 8.4 个百分点），后者是涨幅最大的领域。AMD 已推出基于 Zen 6 架构的第六代 EPYC "Venice" 服务器处理器，而 Intel 最近在 Hot Chips 大会上公布了即将发布的 Xeon 7 "Diamond Rapids" CPU 以及面向数据中心的 "Crescent Island" GPU。
-
-rss · TechPowerUp News · 8月24日 23:50
-
-**背景**: x86 是 Intel 于 1978 年以 8086 处理器为基础开发的 CISC 指令集架构，此后逐渐成为 PC 和服务器市场的主导 ISA。Intel 和 AMD 是仅有的两家主要 x86 CPU 供应商；在过去二十多年中，Intel 一直占据压倒性的份额领先优势，仅在 2000 年代初期以及 2017 年之后 AMD 曾两次短暂突破 25% 的份额。Mercury Research 是按细分市场追踪 x86 CPU 出货份额的领先分析机构，其季度报告被广泛视为行业标准。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053">AMD grabs more CPU share while pricier PCs punish desktop demand</a></li>
-<li><a href="https://ms.codes/en-ca/blogs/computer-hardware/mercury-research-cpu-market-share">Mercury Research CPU Market Share</a></li>
-<li><a href="https://en.wikipedia.org/wiki/X86">x86 - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#CPU`, `#AMD`, `#Intel`, `#x86`, `#market-share`
-
----
-
-<a id="item-7"></a>
-## [英特尔详解 Crescent Island 数据中心 GPU：32 个 Xe3P 核心、最高 480GB LPDDR5X 显存](https://www.techpowerup.com/351901/intel-details-crescent-island-graphics-32-xe3p-cores-up-to-480-gb-lpddr5x-memory) ⭐️ 7.5/10
-
-在 2026 年 Hot Chips 大会上，英特尔详细介绍了基于 Xe3P 架构的"Crescent Island"数据中心 GPU：配备 32 个 Xe3P 核心、256 个 XMX 引擎、最高 480GB LPDDR5X 显存（ODM 配置），采用 350W 风冷 PCIe 形态，专为 AI 推理工作负载设计。 该产品使英特尔在目前由 NVIDIA 主导的 AI 推理加速器市场中成为一个有力的竞争者，其大容量 LPDDR5X 显存仅需数张卡即可在本地运行前沿开源模型。彻底移除所有图形硬件的决策表明，英特尔正战略性地选择在 AI 基础设施领域开辟利基市场，而非在传统 GPU 市场正面竞争。 XMX 引擎从原来的 4 深度脉动阵列重新设计为 16 深度处理流水线，并新增对 FP4 数据格式的支持（同时支持 FP8）。每个 Xe3P 核心包含 8 个 Vector 引擎和 8 个 XMX 引擎（总计各 256 个），还配有 1MB 寄存器文件和 512KB L1 缓存，全芯片配备 32MB 统一 L2 缓存——且完全没有任何图形输出硬件，专门面向长上下文和 Agent 类 AI 推理任务。
-
-rss · TechPowerUp News · 8月24日 19:49
-
-**背景**: Intel Xe 架构是一系列 GPU 设计，涵盖从集成显卡到数据中心加速器，其中 Xe3P 是针对 AI/ML 工作负载优化的变体。XMX（Xe 矩阵扩展）引擎是英特尔版本的 NVIDIA Tensor Cores——专用脉动阵列硬件，用于执行神经网络推理的核心运算矩阵乘法。LPDDR5X 是 DDR5 的低功耗版本，最初面向移动设备设计；将其用于数据中心 GPU 较为少见，因为大多数 AI 加速器（NVIDIA H100、AMD MI300）均采用 HBM（高带宽内存），不过 LPDDR5X 可以以更低的成本提供更高的容量。Hot Chips 是半导体公司发布详细芯片架构的知名年度研讨会。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://videocardz.com/newz/intel-details-xe3p-gpu-architecture-crescent-island-gets-up-to-480gb-memory-and-350w-pcie-variant">Intel details Xe3P GPU architecture, Crescent Island gets up to 480GB memory and 350W PCIe variant - VideoCardz.com</a></li>
-<li><a href="https://www.intel.com/content/www/us/en/docs/oneapi/optimization-guide-gpu/2024-1/xmx.html">Boost Matrix Multiplication Performance with Intel® Xe Matrix Extensions</a></li>
-<li><a href="https://hardwaretimes.com/lpddr-vs-ddr5-vs-gddr7-what-is-the-difference/">DDR4 vs DDR5 vs LPDDR4 vs LPDDR5 vs GDDR6 vs GDDR7: What is the Difference? | Hardware Times</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Intel`, `#GPU`, `#datacenter`, `#AI infrastructure`, `#hardware`
-
----
-
-<a id="item-8"></a>
-## [mVolt+ v0.36 无需硬件改装即可突破 RTX 50 系列功耗限制](https://www.techpowerup.com/351867/nvidia-power-limit-bypass-rtx-5090-oc-hits-700-w-rtx-5080-up-to-680-w-no-shunt-mod-needed) ⭐️ 7.5/10
-
-据报道，mVolt+ v0.36 更新可在无需分流电阻改装或刷新 vBIOS 的情况下，通过软件方式突破 NVIDIA RTX 50 系列显卡的功耗限制。一位 Reddit 用户在 RTX 5090 上实现了 700 W 的功耗（高于默认 575 W TDP），核心频率达到 3,127 MHz，并在 3DMark Steel Nomad 中跑出 16,523 分；另一位用户则将华硕 ROG Astral RTX 5080 OC 推至 680 W（高于默认 400 W TDP）。 这标志着极限显卡超频方法论的重大转变——此前要达到如此功耗水平，通常需要进行侵入式的硬件改装（分流电阻改造）或刷新 vBIOS，二者都会使保修失效并带来永久性风险。如果该方法得到验证，这种纯软件途径有望让更多 RTX 50 系列用户体验极限超频，同时也为 NVIDIA 在功耗限制执行和驱动层面的保护机制提出了新问题。 mVolt+ v0.36 暴露了 Blackwell 架构隐藏的电压与功耗控制选项，包括 GPU 核心与显存的独立功耗通道限制，以及 Core、XBAR、SYS 和 Video 各域的电压调节功能——这些都是 MSI Afterburner 等常规超频工具所不具备的。报道中 RTX 5090 的 3,127 MHz 频率比参考设计的 2,407 MHz 加速频率高出约 720 MHz，而 RTX 5080 的 680 W 功耗甚至超过了通过 NVIDIA 官方工具可达到的 450 W 上限。
-
-rss · TechPowerUp News · 8月24日 12:00
-
-**背景**: GPU 的功耗限制由 vBIOS 和驱动固件强制执行，目的是让显卡工作在其标称热设计与电气设计参数之内。分流电阻改装（shunt mod）是一种硬件改造方式，通过更换或绕过 PCB 上的电流采样电阻（分流器），使 GPU 能够从监控电路读取范围之外汲取更多功率。刷入定制版 vBIOS 也能通过软件方式达到类似效果，但同样会绕过出厂安全限制。mVolt+ 是一款第三方工具，可在底层与 NVIDIA GPU 的电压调节硬件进行交互，其 v0.36 版本专门针对 RTX 50 系列所采用的新 Blackwell 架构，解锁了此前无法访问的控制选项。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://vgtimes.com/tech-and-hardware/165162-mvolt-v0.36-lets-geforce-rtx-50-gpus-push-past-vbios-power-limits.html">mVolt+ v0.36 Lets GeForce RTX 50 GPUs Push Past VBIOS Power...</a></li>
-<li><a href="https://www.pcworld.com/article/2854038/this-nvidia-rtx-laptop-mod-unlocks-amazing-performance-dont-do-it.html">This Nvidia RTX laptop mod unlocks amazing performance. | PCWorld</a></li>
-<li><a href="https://www.overclock.net/threads/tutorial-power-target-limit-hardware-mod-shunt-mod-for-titan-x-and-many-other-nvidia-gpus.1608437/">overclock .net/threads/tutorial-power-target-limit- hardware - mod - shunt ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#GPU Overclocking`, `#mVolt+`, `#RTX 5090`, `#RTX 5080`
-
----
-
-<a id="item-9"></a>
-## [三星确认 HBM4E 内存速率达 16 Gbps 每引脚](https://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin) ⭐️ 7.5/10
-
-三星在 Hot Chips 2026 会议上确认，公司正准备出货每引脚 16 Gbps 速率的 HBM4E 内存，较今年 5 月底开始出货的 14 Gbps 版本有所升级。在 2048 个引脚下，单颗 HBM4E 堆栈的最高带宽可达 4 TB/s，高于此前的 3.6 TB/s。 HBM 是下一代 AI 加速器和 GPU 的关键组件，内存带宽是训练大模型和运行推理负载的核心瓶颈。按每个加速器通常配备十余颗 HBM 堆栈计算，此次速率提升将显著增加 AI 芯片可获得的总带宽。 三星目前提供 12 层堆叠、容量 48 GB 的 HBM4E 配置，并计划根据客户需求推出 8 层 32 GB 和 16 层 64 GB 的版本。三星现有的 HBM4 出货速率为 11.7 Gbps，因此跃升至 16 Gbps 的 HBM4E 尤为引人注目。
-
-rss · TechPowerUp News · 8月24日 05:30
-
-**背景**: 高带宽内存（HBM）是一种堆叠式 DRAM，通过硅通孔（TSV）将多层存储裸片垂直互连，提供远超传统 GDDR 内存的带宽。HBM 对于 NVIDIA、AMD 及定制 ASIC 厂商的 AI 加速器至关重要，因为 AI 工作负载需要在计算单元与内存之间进行海量数据传输。该市场由三星、SK 海力士和美光三家主导，每一代（HBM2、HBM3、HBM3E、HBM4、HBM4E）都在每引脚速率、堆栈容量和能效方面持续提升。
+**背景**: 高带宽内存（HBM）是一种 3D 堆叠的 DRAM 技术，最初由三星、AMD 和 SK 海力士共同开发，通过将多个存储芯片垂直堆叠并通过宽接口经由硅中介层互联，实现远超标准 DDR5 的带宽。它是 AI 加速器的首选内存，因为向 GPU 张量核心供给海量数据需要极高的带宽。"内存墙"是计算机体系结构中的一个长期概念，描述的是处理器算力与内存访问速度之间不断扩大的差距；在 AI 时代，随着模型规模和上下文窗口急剧膨胀，这堵墙已成为核心瓶颈。Hot Chips 是每年在斯坦福大学举办的顶级研讨会，展示业界领军企业的前沿处理器和芯片设计。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://hotchips.org/">Hot Chips</a></li>
-<li><a href="https://www.advisorpedia.com/active/the-memory-shortage-wall-street-isnt-seeing/">The Memory Shortage Wall Street Isn’t Seeing | Advisorpedia</a></li>
+<li><a href="https://www.hotchips.org/about/">About - Hot Chips</a></li>
+<li><a href="https://medium.com/@patan4ik/the-memory-wall-never-went-away-ai-just-made-it-impossible-to-ignore-2bfe3092f501">The Memory Wall Never Went Away. AI Just Made It... | Medium</a></li>
 
 </ul>
 </details>
 
-**标签**: `#HBM4E`, `#Samsung`, `#high-bandwidth-memory`, `#AI-hardware`, `#semiconductors`
+**标签**: `#HBM`, `#memory-wall`, `#semiconductors`, `#AI-infrastructure`, `#Micron`
+
+---
+
+<a id="item-4"></a>
+## [英伟达在 Hot Chips 2026 详解 88 核 Vera CPU 与空间多线程技术](https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more) ⭐️ 8.5/10
+
+英伟达在 Hot Chips 2026 大会上详细介绍了其 88 核 Vera CPU，展示了通过分区核心资源实现空间多线程技术、从 88 个核心创建 176 个线程，并搭配带宽达 1.2 TB/s 的 SOCAMM2 LPDDR5X 内存子系统，专为智能体（agentic）AI 数据中心工作负载而设计。 Vera CPU 标志着英伟达从 GPU 扩展到专为 AI 基础设施定制的硅芯片领域，直接挑战英特尔和 AMD 等传统 CPU 厂商在面向智能体 AI 优化的数据中心市场中的地位，在这类场景中海量内存带宽和可预测的多线程吞吐量至关重要。 空间多线程技术与传统的时间分片 SMT 不同，它通过将核心资源在多个线程间进行物理分区，以在大规模场景下实现更可预测的吞吐量；而 SOCAMM2 LPDDR5X 内存在大约传统 CPU 内存系统一半的功耗下提供约两倍的带宽。
+
+rss · Tom's Hardware · 8月25日 11:53
+
+**背景**: Hot Chips 是一年一度的知名半导体会议，各公司会在会上展示即将推出的处理器和加速器的深度技术细节。智能体 AI（agentic AI）指的是能够自主规划、调用工具并执行多步骤任务的 AI 系统，而不仅仅是对单一提示做出响应，这对 CPU 的响应速度和内存带宽提出了新的要求。SOCAMM2 是 JEDEC 标准化的新型紧凑型 LPDDR5X 服务器内存模块形态，相比传统 DDR RDIMM 提供更高密度和显著更低的功耗。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
+<li><a href="https://www.thinkers360.com/tl/blog/members/the-architect-of-agency-nvidias-vera-cpu-and-the-dawn-of-the-ai-super-factory">The Architect of Agency: NVIDIA’s Vera CPU and the Dawn of the AI Super-Factory</a></li>
+
+</ul>
+</details>
+
+**标签**: `#nvidia`, `#vera-cpu`, `#hot-chips`, `#data-center`, `#spatial-multithreading`, `#ai-infrastructure`
+
+---
+
+<a id="item-5"></a>
+## [AliExpress 据称通过隐藏的 Web Audio API 代码对电脑进行指纹识别](https://www.tomshardware.com/tech-industry/cyber-security/aliexpress-allegedly-uses-your-browsers-audio-system-to-fingerprint-your-pc-hidden-code-runs-even-when-no-sound-is-playing) ⭐️ 8.5/10
+
+一位开发者在调查蓝牙耳机问题时发现，AliExpress 运行隐藏的 Web Audio API 处理代码，即使没有播放任何音频，也会对浏览器进行指纹识别并收集详细的设备信息。 这一发现揭示了全球主要电商平台上一种隐蔽且具有侵入性的追踪行为，引发了人们对网络隐私、浏览器安全策略以及用户对设备级信号如何在无用户同意或无声音反馈的情况下被利用的严重担忧。 该技术利用 Web Audio API 在软件中生成声音，读取浏览器处理该声音后产生的数值，并将其哈希为唯一签名——所有操作都在后台静默执行，没有任何可听输出，使用户难以察觉。
+
+rss · Tom's Hardware · 8月25日 09:44
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mangoproxy.com/blog/audio-fingerprinting-explained/">Audio Fingerprinting Explained: How Websites Use... - MangoProxy</a></li>
+<li><a href="https://www.capsolver.com/glossary/audiocontext-fingerprinting">Audiocontext Fingerprinting</a></li>
+<li><a href="https://ppc.land/audio-fingerprinting/">Explaining audio fingerprinting</a></li>
+
+</ul>
+</details>
+
+**标签**: `#privacy`, `#security`, `#fingerprinting`, `#web-security`, `#aliexpress`
+
+---
+
+<a id="item-6"></a>
+## [英特尔发布 Diamond Rapids Xeon 7：256 个 P 核、1.28 GB LLC、18A-P 工艺、UCIe-S 互联](https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib) ⭐️ 8.5/10
+
+在 Hot Chips 2026 大会上，英特尔公布了其下一代 Diamond Rapids Xeon 7 服务器 CPU，最高配备 256 个 P 核、1.28 GB 末级缓存，支持 AVX 10.2 指令集，并将芯片间互联从 EMIB 转向行业标准的 UCIe-S。该芯片采用英特尔的 18A-P 工艺节点制造。 这一发布标志着英特尔对 AMD EPYC 最为强势的数据中心反击，可能重塑高端服务器 CPU 市场格局，尤其对受益于大量核心数和超大缓存的 HPC 与 AI 工作负载而言。从自有的 EMIB 转向开放标准 UCIe-S，是英特尔旗舰至强产品线在架构和生态系统上的重要转变。 Diamond Rapids 采用英特尔 18A 工艺的性能优化版本 18A-P，在 RibbonFET 环栅晶体管和 PowerVia 背面供电的基础上增加了性能优化的设计规则。将 EMIB 替换为 UCIe-S，使英特尔的旗舰服务器产品线与更广泛的 Chiplet 生态系统接轨，有望改善多供应商 Chiplet 采购以及 HBM 级别内存的集成。
+
+rss · Tom's Hardware · 8月24日 21:07
+
+**背景**: EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多芯片互连桥接）是英特尔自有的 2.5D 封装技术，通过嵌入基板中的小型硅桥连接 Chiplet，曾用于 Sapphire Rapids 等前代至强处理器。UCIe（Universal Chiplet Interconnect Express，通用 Chiplet 互连标准）是英特尔于 2022 年共同创建的开放式芯片间互连行业标准，可实现不同厂商 Chiplet 之间的互操作。AVX 10.2 是英特尔的向量指令集架构，将大部分 AVX-512 扩展统一为一个规范，可通过 oneDNN 等库服务于 HPC、AI 推理和深度学习工作负载。18A 是英特尔首个在量产中同时采用 RibbonFET（环栅晶体管）和 PowerVia（背面供电）技术的工艺节点。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2025-03/foundry-18a-platform-brief.pdf">1 White Paper Industry / Solution Focus Area Contents Intel 18A 1 Intel 18A‑P 3</a></li>
+<li><a href="https://www.verilogpro.com/how-chiplets-assemble-into-the-most-advanced-socs/">How Chiplets Assemble Into the Most Advanced SoCs - Verilog Pro</a></li>
+<li><a href="https://www.phoronix.com/news/oneDNN-3.13">UXL's oneDNN 3.13 Preps For Intel Nova Lake With AVX 10 . 2 , More...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Intel`, `#Xeon`, `#Diamond Rapids`, `#Hot Chips 2026`, `#data center CPUs`, `#18A-P`, `#chiplet`
+
+---
+
+<a id="item-7"></a>
+## [SK 海力士：HBM 遭遇 775 微米厚度上限，混合键合推迟至 HBM5](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling) ⭐️ 8.5/10
+
+在 Hot Chips 2026 大会上，SK 海力士披露 HBM 堆叠芯片已经触及 775 微米的厚度上限（相当于 300 毫米逻辑晶圆的标准厚度），混合键合技术无法在 HBM4e 上就绪，将推迟到 HBM5 实现。同时，SK 海力士将继续在其面向 Nvidia Rubin 平台的产品中使用 MR-MUF（大规模回流模塑底部填充）封装技术。 这一路线图调整重塑了整个 AI 内存生态的封装节奏，因为 SK 海力士是 Nvidia 及其他 AI 加速器厂商高端 HBM 的主要供应商。775 微米的厚度上限表明，基于传统凸点互连的渐进式堆叠方式已接近极限，这迫使业界加速向混合键合等更具颠覆性的互连技术转型，以维持 AI 算力所需的内存带宽增长。 混合键合通过在堆叠芯片之间直接建立铜-铜与介质-介质的连接，省去了凸点结构，从而可实现更细的间距、更低的功耗和更薄的堆叠高度，但其良率与产能尚未成熟到能支持 HBM4e。相比之下，MR-MUF 采用大规模回流焊配合模塑底部填充工艺，是 SK 海力士自 HBM3 以来的主力封装技术，在散热和产能方面具有优势，并将延续至 Rubin 一代。
+
+rss · Tom's Hardware · 8月24日 17:55
+
+**背景**: 高带宽内存（HBM）是一种三维堆叠的 DRAM 形式，通过硅通孔（TSV）将多层 DRAM 芯片垂直互连，提供远超传统 GDDR 的内存带宽，是当前 AI GPU 的事实标准内存。SK 海力士、三星和美光是 HBM 的三大主要供应商，SK 海力士凭借其独有的 MR-MUF 堆叠工艺长期保持领先，并因此在 Nvidia 的 HBM3 及 HBM3E 供货中占据绝大部分份额。混合键合被普遍视为下一代封装拐点——其影响力可与 EUV 光刻技术相媲美——因为它消除了凸点间距对堆叠密度的限制，能实现更高、更致密的堆叠结构。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://newsletter.semianalysis.com/p/hybrid-bonding-process-flow-advanced">Hybrid Bonding Process Flow - Advanced Packaging Part 5</a></li>
+<li><a href="https://www.eetimes.com/sk-hynixs-mr-muf-innovations-tackle-heat-generation-to-secure-hbm-leadership/">MR - MUF Innovations Tackle Heat Generation - EE Times</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#HBM`, `#semiconductors`, `#AI-hardware`, `#SK-hynix`, `#advanced-packaging`
+
+---
+
+<a id="item-8"></a>
+## [微软画图和照片应用静默嵌入无法移除的 GUID 水印到本地图片](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
+
+安全研究员 Xu Sheng 发现，微软画图（MS Paint）和微软照片（Microsoft Photos）会自动向本地处理的图片中嵌入基于 GUID 的不可见水印，包括使用本地 AI 模型（如背景移除）生成或修改的图片。该不可见水印在后台静默嵌入，用户无任何提示，且无法通过任何设置关闭。 这一发现引发了严重的隐私担忧，因为嵌入的 GUID 可以通过版权传票等法律手段追溯到用户的微软账户，从而实现对任何图片创作者的去匿名化。这代表了微软在未经用户知情同意的情况下，静默向用户本地生成的内容中嵌入身份元数据的模式，对活动人士、记者、表情包创作者以及任何重视匿名性的用户都有重大影响。 该不可见水印使用隐写术（steganographic）技术将唯一的 GUID 直接嵌入图片像素数据中，肉眼不可察觉但可被机器读取。虽然可见的 AI 生成水印可以在设置中关闭，但不可见的 GUID 水印没有任何关闭选项，且即使 AI 功能完全在本地硬件（而非云端服务）上运行时，该行为仍然生效。
+
+hackernews · ComputerGuru · 8月24日 15:28 · [社区讨论](https://news.ycombinator.com/item?id=49421158)
+
+**背景**: 隐写术（Steganography）是在非秘密载体中隐藏信息的做法，例如将数据嵌入图片像素中，使人类观察者看到的图片表面毫无变化。数字水印是一种相关技术，将识别信息嵌入媒体文件中，常被版权方用于追踪所有权，或被 AI 公司用于标记 AI 生成内容。GUID（全局唯一标识符）是一个 128 位数字，用于唯一标识对象或实体，在本场景中它似乎用于将每张带水印的图片链接到特定的微软用户账户。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Steganography">Steganography - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Digital_watermarking">Digital watermarking - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区情绪强烈负面，用户称这是巨大的隐私越权行为，并批评微软以敌对方式对待付费客户。多位评论者指出，AI 角度只是幌子，核心问题是微软秘密向所有用户图片中嵌入唯一标识符，这使得通过版权传票实现去匿名化成为可能。一位用户提到此前微软曾错误地为所有 Azure DevOps 提交添加 Copilot 水印（无论是否实际涉及 LLM），表明微软存在粗暴、过度干预的实施模式。
+
+**标签**: `#privacy`, `#microsoft`, `#watermarking`, `#steganography`, `#security`
+
+---
+
+<a id="item-9"></a>
+## [Hot Chips：面向人工智能的演进型内存架构](https://semiwiki.com/semiconductor-manufacturers/372632-hot-chips-evolving-memory-architectures-for-artificial-intelligence/) ⭐️ 8.0/10
+
+Hot Chips 会议报道，讨论了演进型内存架构对于解决现代 AI 加速器中内存带宽瓶颈的必要性。
+
+rss · SemiWiki · 8月24日 17:00
+
+**标签**: `#AI hardware`, `#memory architecture`, `#Hot Chips`, `#AI accelerators`, `#semiconductors`
 
 ---
 
 <a id="item-10"></a>
-## [台湾起诉九人涉嫌走私英伟达 B300 GPU 至中国](https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls) ⭐️ 7.5/10
+## [英伟达与 SpaceXAI 将地面数据中心基础设施改造应用于太空](https://www.electronicsweekly.com/news/business/nvidia-and-spacexai-adapting-terrestrial-datacentre-infrastructure-for-space-2026-08/) ⭐️ 8.0/10
 
-台湾已对九名涉嫌非法走私英伟达 B300 AI 服务器至中国大陆的人员提起诉讼，据报道他们采用了五点策略来规避海关管控。 此案凸显了围绕 AI 芯片出口管制的执法力度不断升级，也展示了走私者为规避管制所采用的精密手段，反映出先进 AI 硬件对中国的地缘政治重要性。 英伟达 B300（Blackwell Ultra）是英伟达目前最强的单颗 GPU，配备 288GB HBM3e 显存、8TB/s 带宽和每芯片 15 petaFLOPS 的 FP4 密集算力，因此成为出口管制的重点目标。此次起诉与此前涉及英伟达高级经理与 Supermicro 的另一起走私案存在关联。
+SpaceXAI 计划中的 Starmind 数据中心卫星将采用英伟达的 Vera Rubin NVL72 机架级系统，标志着向天基人工智能计算基础设施迈出了实质性的一步。
 
-rss · Tom's Hardware · 8月24日 15:09
+rss · Electronics Weekly · 8月25日 05:15
 
-**背景**: 美国已对中国实施越来越严格的先进 AI 芯片出口管制，主要由工业与安全局（BIS）执行，旨在限制中国获取用于军事和 AI 应用的尖端半导体技术。英伟达 B300 属于 2026 年 1 月开始出货的 Blackwell Ultra 一代，是受这些管制约束的最新一代 AI 加速器。台湾作为 AI 服务器组装的主要枢纽和硬件运输的关键中转地，已成为打击走私行动的重要司法管辖区。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.spheron.network/blog/nvidia-b300-blackwell-ultra-guide/">NVIDIA B300 (Blackwell Ultra): 288GB Specs, Pricing & Benchmarks (2026) | Spheron Blog</a></li>
-<li><a href="https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors">United States export controls on AI chips and semiconductors</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/">Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China - Ars Technica</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Nvidia`, `#export-controls`, `#B300`, `#AI-hardware`, `#Taiwan-China`
+**标签**: `#space-computing`, `#nvidia`, `#datacenter`, `#ai-infrastructure`, `#spacex`
 
 ---
 
 <a id="item-11"></a>
-## [AMD 在 Hot Chips 2026 大会揭晓 MI400 GPU 架构](https://www.servethehome.com/amd-mi400-gpu-at-hot-chips-2026/) ⭐️ 7.5/10
+## [IBM 与 Arm 联合开发双架构处理器，瞄准主机平台](https://www.electronicsweekly.com/news/business/ibm-and-arm-designing-dual-architecture-processor-2026-08/) ⭐️ 8.0/10
 
-AMD 在 Hot Chips 2026 大会上展示了其 MI400 GPU 架构，公布了这款专为 Helios 机架级系统打造的巨型 AI 加速器的设计细节。此次展示详细说明了该芯片如何与 EPYC Venice CPU 和 Pensando Vulcano AI NIC 协同工作，为 AMD 的全栈 AI 平台提供算力。 MI400 是 AMD 迄今为止在数据中心 AI 加速器领域挑战 NVIDIA 主导地位的最激进尝试，Helios 机架级平台旨在与 NVIDIA 的 GB200/NVLink 系统正面竞争。如果 MI400 这一代产品取得成功，将可能改变超大规模云厂商和企业在前沿 AI 训练与推理方面的经济模型。 MI400 采用 AMD CDNA 5 架构和台积电 2nm 工艺制造，据报道集成 3200 亿个晶体管，配备 432 GB HBM4 显存，单 GPU 可提供高达 40 PFLOPS 的 FP4 算力。Helios 机架每个整合 72 颗 MI400 GPU（MI455X 型号）搭配 EPYC Venice CPU，将整个机架作为单一协同加速器呈现。
+IBM 与 Arm 正在联合设计一款双架构处理器，其中每个核心都能同时原生执行 IBM Z（或 LinuxONE）和 Arm 指令集，而非将 Arm 作为芯片上的独立子系统。该芯片采用 2nm 工艺制造，预计 2028 年前后推出。 这代表了企业计算领域的一项重要架构进步，因为它使单一芯片能够无缝运行传统主机工作负载和现代基于 Arm 的 Linux 应用程序，无需独立处理域的额外开销。这表明 IBM 正致力于将其主机平台现代化，以适应混合云和 AI 驱动的工作负载，同时保留企业客户所依赖的向后兼容性。 该处理器采用 2nm 工艺节点制造，其裸片设计允许单个核心在同一核心内部原生解码并执行 Arm 和 IBM Z 指令，而非采用异构多芯片或协处理器方案。IBM 尚未为该处理器命名，也未公布将搭载该处理器的具体系统型号。
 
-rss · ServeTheHome · 8月25日 00:30
+rss · Electronics Weekly · 8月25日 05:14
 
-**背景**: Hot Chips 是自 1989 年以来在斯坦福大学举办的知名年度研讨会，是各大半导体公司发布高性能芯片深度架构细节的传统舞台。AMD 的 Instinct 产品线是其面向 AI 和 HPC 负载的数据中心 GPU 系列，直接对标 NVIDIA 的 H100/B100/B200 系列以及即将推出的 Rubin 产品。像 Helios 这样的机架级系统代表了从单个 GPU 向集成计算架构的转变，CPU、GPU 和高速网络经过共同设计，作为一个大型加速器协同工作。
+**背景**: IBM Z 是 IBM 当前的主机服务器产品线，以极高的可靠性、安全性和跨越数十年的向后兼容性著称。LinuxONE 是 IBM 的纯 Linux 主机服务器系列，经过认证可运行 Red Hat Enterprise Linux、SUSE Linux Enterprise Server 和 Ubuntu 等发行版。最新一代（包括 z16 和 LinuxONE 5）采用 IBM 的 Telum 和 Telum II 处理器，具备芯片级集成 AI 推理引擎。历史上，IBM 在添加辅助处理能力时，通常以独立子系统或协处理器的形式实现；而这次的新设计则直接在核心层面统一了两种指令集架构。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.servethehome.com/amd-helios-mi400-system-architecture-at-hot-chips-2026/">AMD Helios MI400 System Architecture at Hot Chips 2026</a></li>
-<li><a href="https://www.amd.com/en/products/accelerators/instinct/mi400.html">AMD Instinct™ MI400 Series GPUs</a></li>
-<li><a href="https://hotchips.org/">Hot Chips</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/ibm-mainframe-chip-to-run-arm-and-z-workloads-on-the-same-cores/">IBM mainframe chip to run Arm and Z workloads on the same cores</a></li>
+<li><a href="https://www.storagereview.com/news/ibms-2nm-dual-architecture-mainframe-processor-runs-arm-and-ibm-z-instructions-in-the-same-cores">IBM ’s 2nm Dual - Architecture Mainframe Processor Runs Arm and...</a></li>
+<li><a href="https://www.techspot.com/news/113600-ibm-building-dual-architecture-mainframe-chip-run-arm.html">IBM is building a dual - architecture mainframe chip that will run Arm ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#MI400`, `#GPU`, `#HotChips`, `#AI-Hardware`
+**标签**: `#IBM`, `#Arm`, `#mainframe`, `#processor-architecture`, `#enterprise-computing`
 
 ---
 
 <a id="item-12"></a>
-## [Arm 在 Hot Chips 2026 发布首款完整数据中心 CPU——AGI](https://www.servethehome.com/arms-agi-data-center-cpu-at-hot-chips-2026/) ⭐️ 7.5/10
+## [SK 海力士下一代 HBM 内存将采用英特尔 EMIB-T 封装技术](https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging) ⭐️ 7.5/10
 
-在 Hot Chips 2026 大会上，Arm 发布了其首款完整商用 CPU 设计——AGI，基于 Neoverse V3 核心打造，面向下一代智能体 AI 服务器。这标志着 Arm 从纯粹的 IP 授权商转向提供完整芯片设计，进入数据中心市场。 这对 Arm 而言是一次重大的战略转变——从仅授权单个 CPU 核心 IP 转向交付完整的数据中心芯片设计，更直接地参与服务器 CPU 市场的竞争。明确聚焦智能体 AI 工作负载，使 Arm 能够抓住对自主 AI 系统快速增长的需求，这类系统需要大量通用计算来协调加速器并执行推理循环。 根据技术披露，AGI CPU 采用双 chiplet 设计，约包含 1000 亿个晶体管和 136 个 Neoverse V3 核心，每个核心是 10 宽乱序执行设计，具备第三代预取和分支预测功能，并配有紧邻核心的高速 L2 缓存。然而，AGI 基于现有的 Neoverse V3 IP 而非全新的微架构，其差异化主要体现在系统级集成、chiplet 封装和面向特定工作负载的调优上，而非核心层面的创新。
+在 Hot Chips 2026 大会上，SK 海力士透露正在与英特尔代工合作，将其下一代 HBM 内存集成采用英特尔的 EMIB 先进封装，特别是带有 TSV 的 EMIB-T 变体，同时也在与台积电就 CoWoS-L、CoWoS-S 和 CoWoS-R 展开合作。HBM4 的引脚数正从约 1,024 个扩展到 2,048 个，TSV 数量不断增加，需要采用 2.5D 封装、混合键合和 3D DRAM 集成技术。 这一合作验证了英特尔的 EMIB-T 先进封装技术获得了领先内存厂商的认可，并反映了业界在 HBM 集成方面努力寻求台积电 CoWoS 之外替代方案的潮流。由于 HBM 是 AI 芯片供应的关键瓶颈，多元化的封装路径降低了对单一供应商的依赖，可能重塑先进封装领域的竞争格局。 EMIB-T 在英特尔的硅桥接上增加了硅通孔（TSV），可实现跨堆叠芯片的垂直供电——直接支持 SK 海力士在封装层级实现 3D 内存模块垂直供电的概念。EMIB 系列还包括 EMIB-M（在桥接中集成 MIM 电容）以及基础版 EMIB，后者可在不使用完整硅中介层的情况下连接小芯片，在某些应用场景中比 CoWoS 更具成本效益。
 
-rss · ServeTheHome · 8月24日 19:00
+rss · TechPowerUp News · 8月25日 08:23
 
-**背景**: Arm Neoverse 是 Arm 专为数据中心、边缘计算和高性能计算设计的 64 位处理器核心系列，传统上授权给 AWS（Graviton）、Ampere 和 Microsoft（Cobalt）等合作伙伴。智能体 AI（Agentic AI）是指能够独立规划、使用工具并自适应完成任务的半自主或完全自主 AI 系统——与传统聊天机器人不同，它们会在环境中主动执行操作，通常每次任务会调用多次模型推理和工具交互。Hot Chips 是每年在斯坦福大学举办的享有盛誉的研讨会，领先的半导体公司会在会上详细披露其最新高性能处理器和加速器的技术细节。
+**背景**: HBM（高带宽内存）是一种堆叠式 DRAM，可提供极高的数据吞吐量，对于 NVIDIA H100 和 B200 等 AI 加速器至关重要。CoWoS（芯片上晶圆上基板，Chip-on-Wafer-on-Substrate）是台积电占主导地位的 2.5D 先进封装技术，通过硅中介层将 HBM 堆栈与逻辑芯片相连，一直是 AI 芯片生产的主要瓶颈。英特尔的 EMIB（嵌入式多芯片互连桥接）是一种替代的 2.5D 方案，在封装基板中嵌入小型硅桥接来连接小芯片，无需使用大型中介层。混合键合是一项新兴的互连技术，可实现无需微凸点的直接铜对铜连接，随着 HBM 引脚数向 2,048 甚至更多扩展，这一技术变得至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wccftech.com/arm-dissects-agi-cpu-tailor-made-for-ai-dual-chiplets-100b-transistors-136-neoverse-v3-cores/">Arm Dissects Its AGI CPU Which Is Tailor-Made For AI: Dual Chiplets...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/ARM_Neoverse">ARM Neoverse - Wikipedia</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">Agentic AI, explained - MIT Sloan</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/foundry/packaging.html">Advanced Packaging Innovations | Chip Packages - Intel</a></li>
+<li><a href="https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2025-07/emib-product-brief.pdf">Intel Foundry EMIB Technology Brief</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS ® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Arm`, `#data-center`, `#CPU`, `#Hot Chips 2026`, `#agentic AI`
+**标签**: `#semiconductors`, `#HBM`, `#Intel`, `#advanced-packaging`, `#AI-hardware`
 
 ---
 
 <a id="item-13"></a>
-## [富士通基于 Arm 架构的 Monaka 数据中心 CPU 亮相 Hot Chips 2026](https://www.servethehome.com/fujitsus-arm-based-monaka-data-center-cpu-at-hot-chips-2026/) ⭐️ 7.5/10
+## [AMD 创下 30.7% x86 市场份额新高，英特尔跌至 31 年低点](https://www.techpowerup.com/351908/amd-gains-ground-as-intel-x86-market-share-goes-back-to-1995-levels) ⭐️ 7.5/10
 
-富士通基于 Arm 架构的 Monaka 数据中心 CPU 在 Hot Chips 2026 大会上亮相。
+根据 Mercury Research 的数据，2026 年第二季度英特尔的 x86 CPU 市场份额跌至 69.3%，为 1995 年以来首次跌破 70%；与此同时 AMD 攀升至创纪录的 30.7%，同比增长 6.5 个百分点。这一变化覆盖所有细分市场，AMD 的笔记本份额增长 8.4 个百分点至 28.9%，桌面端达到 34.9%，服务器端达到 34.5%。 这标志着延续三十年的 x86 双寡头格局发生了历史性的再平衡，表明 AMD 的 Zen 架构和 EPYC 服务器战略正在转化为持续的市场份额增长，而非暂时性的飙升。同时也给英特尔带来竞争压力，因为英特尔正准备推出下一代 Xeon 7 "Diamond Rapids"和"Crescent Island"加速器，以捍卫其在数据中心的地位。 若纳入半定制、嵌入式和物联网产品，AMD 的份额将升至 34.1%，英特尔为 65.9%，这得益于游戏主机 SoC 的出货（英特尔在该领域不直接竞争，仅推出了面向掌机的 Arc G3 CPU，自 2026 年 6 月起陆续上市）。AMD 已交付基于 Zen 6 微架构的第六代 EPYC "Venice"服务器处理器，而英特尔的反击则集中在 Xeon 7 "Diamond Rapids"以及配备最多 32 个 Xe3P 核心和 480 GB LPDDR5X 内存的"Crescent Island" GPU 上。
 
-rss · ServeTheHome · 8月24日 18:30
+rss · TechPowerUp News · 8月24日 23:50
 
-**标签**: `#ARM`, `#Fujitsu`, `#data-center`, `#Hot-Chips-2026`, `#CPU-architecture`
+**背景**: Mercury Research 是追踪桌面、移动和服务器渠道 x86 CPU 出货量的主要第三方分析机构，其季度数据是衡量 AMD 与英特尔竞争态势的行业基准。"x86"指令集为两家公司共同采用，自 1990 年代以来一直主导 PC 和服务器市场，因此英特尔跌破 70%的份额是一个具有象征意义的里程碑。AMD 近年来的复兴通常归功于 2017 年推出的 Zen 架构以及后续的 Zen 4、Zen 5 等版本，它们缩小了与英特尔在性能和能效方面的长期差距，同时 EPYC 激进的定价策略也削弱了 Xeon 在数据中心的统治地位。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053">AMD grabs more CPU share while pricier PCs punish desktop demand</a></li>
+<li><a href="https://www.tomshardware.com/news/amd-and-intel-cpu-market-share-report-recovery-looms-on-the-horizon">AMD and Intel CPU Market Share Report: Recovery... | Tom's Hardware</a></li>
+<li><a href="https://ms.codes/en-ca/blogs/computer-hardware/mercury-research-cpu-market-share">Mercury Research CPU Market Share</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AMD`, `#Intel`, `#CPU market share`, `#x86`, `#semiconductor industry`
 
 ---
 
 <a id="item-14"></a>
-## [皮尤研究：ChatGPT 发布后逾三分之一英文网页带有 AI 痕迹](https://www.solidot.org/story?sid=85172) ⭐️ 7.3/10
+## [英特尔详解 Crescent Island GPU：32 个 Xe3P 核心，最高 480GB LPDDR5X](https://www.techpowerup.com/351901/intel-details-crescent-island-graphics-32-xe3p-cores-up-to-480-gb-lpddr5x-memory) ⭐️ 7.5/10
 
-皮尤研究中心的数据科学家使用 AI 检测工具分析了 50 万个过去五年的英文网页，发现 2022 年底 ChatGPT 发布之后创建的网页中，超过三分之一带有明显的 AI 创作痕迹。研究还识别出具体语言学标记：破折号使用频率翻倍、牛津逗号使用频率增加 63%，以及"delve""interplay""testament"等词汇使用频率翻倍以上。 这是首次大规模实证量化 AI 对开放网络影响的研究，对信息真实性、内容审核和在线信息源的信任度提出了紧迫的质疑。各顶级域名间分布不均——.com 网页的 AI 痕迹大约是 .edu 或 .gov 网页的十倍——表明商业内容被 AI 渗透的程度远高于教育或政府内容。 在 2026 年的样本中，10% 的 .com 域名显示出 AI 创作痕迹，相比之下 .org 为 4.6%，.edu 或 .gov 仅为 1%——尽管在 ChatGPT 刚发布时四种域名的 AI 模式出现频率大致相当。对比式修辞句型"it's not just X, it's Y"的使用频率几乎翻了三倍，进一步说明 LLM 倾向于使用公式化的结构化句式，而不仅仅是统计性的词汇选择。
+在 2026 年 Hot Chips 大会上，英特尔披露了其基于 Xe3P 架构的数据中心 GPU“Crescent Island”的详细规格，包含 32 个 Xe3P 核心、256 个重新设计的 XMX 引擎、32MB 统一 L2 缓存，以及在 350W 风冷 PCIe 卡上最高 480GB 的 LPDDR5X 内存。XMX 引擎从标准 Xe3 的 4 深度脉动阵列重新设计为 Xe3P 上的 16 深度脉动阵列，并新增了 FP4 数据格式支持，与 FP8 并存。 Crescent Island 凭借最高 480GB 的大容量内存，使其能够在本地运行前沿开源模型而无需昂贵的 HBM，这让英特尔在数据中心 AI 加速器市场中成为对抗 NVIDIA 和 AMD 的更具可信度的竞争者。其纯 AI 推理定位（无图形输出）和低成本 LPDDR5X 设计，表明英特尔的战略是瞄准成本高效、长上下文和智能体（agentic）AI 工作负载，而非在高端训练市场正面对决。 该卡使用 LPDDR5X 内存（英特尔品牌型号为 160GB，通过 ODM 可达 480GB）而非 HBM，将功耗保持在 350W 的同时降低成本。每个 Xe3P 核心包含 8 个 XMX 引擎（共计 256 个）、1MB 寄存器文件和 512KB L1 缓存，共享 32MB L2 缓存；芯片不含图形输出路径，使其成为专用于长上下文和智能体任务的推理加速器。
 
-rss · Solidot · 8月24日 07:06
+rss · TechPowerUp News · 8月24日 19:49
 
-**背景**: 皮尤研究中心是美国一家无党派智库，专门提供关于社会、政治和技术趋势的实证数据。AI 检测工具通过分析大语言模型输出特有的统计模式（如异常的词频分布和标点习惯）来识别文本。"delve""interplay""testament"等词因在 LLM 生成文本中出现频率远高于人类自然写作，已成为臭名昭著的"AI 标记词"。牛津逗号是列表中"and"或"or"之前可选的最后一个逗号（如"red, white, and blue"），而破折号是用于标示插入语或强调从句的长横线——这两种标点风格都被指出在 AI 写作中被不成比例地偏爱。
+**背景**: 英特尔的 Xe 架构是该公司用于消费级 Arc 显卡和数据中心产品的 GPU IP。Xe3P 是第三代 Xe3 架构的变体，其中 Xe3 用于 PC 端的 Panther Lake（Core Ultra 300 系列），而 Xe3P 则面向数据中心 AI 加速器。XMX（Xe Matrix Extensions）引擎是英特尔对标 NVIDIA Tensor Core 的方案，通过 DPAS（点积累脉动）指令在脉动阵列上执行矩阵乘法——脉动阵列是一种针对神经网络推理中常见的重复并行算术操作而优化的硬件结构。从 4 深度到 16 深度脉动阵列的转变意味着每个周期可实现更高的数据复用，从而提升矩阵工作负载的吞吐量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-hans/牛津逗號">牛 津 逗 号 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://wordvice.cn/blog/the-great-comma-debate/">英 语 标点符 号 - 牛 津 逗 号 ( oxford comma )... - Wordvice Blog</a></li>
+<li><a href="https://videocardz.com/newz/intel-details-xe3p-gpu-architecture-crescent-island-gets-up-to-480gb-memory-and-350w-pcie-variant">Intel details Xe3P GPU architecture, Crescent Island gets up ...</a></li>
+<li><a href="https://wccftech.com/intel-crescent-island-gpus-32-xe3p-cores-for-agentic-ai-low-cost-lpddr5x-up-to-480-gb/">Intel Crescent Island GPUs Pack Up To 32 Xe 3 P Cores, Optimized For...</a></li>
+<li><a href="https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/">Intel Crescent Island 160GB to 480GB LPDDR5X AI... - ServeTheHome</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI content detection`, `#Pew Research`, `#Microsoft data loss`, `#non-profit organizations`, `#web trends`
+**标签**: `#intel`, `#gpu`, `#data-center`, `#ai-hardware`, `#xe3p-architecture`
 
 ---
 
 <a id="item-15"></a>
-## [整个旧金山市被重建为可交互的 3D 电子游戏](https://sf.thijs.gg/) ⭐️ 7.0/10
+## [英特尔在 HOT CHIPS 大会详解 Xeon 7'Diamond Rapids'封装设计](https://www.techpowerup.com/351893/intel-details-xeon-7-diamond-rapids-package-design-at-hot-chips) ⭐️ 7.5/10
 
-开发者 Thijs（cdngdev）在 sf.thijs.gg 上发布了整个旧金山市的交互式 3D 重建作品，该作品基于地图数据构建，允许用户像玩电子游戏一样在城市中驾驶和探索，并可拾取金币。该项目于 2025 年 12 月 9 日在 Twitter/X 上分享，迅速获得 326 个点赞和 115 条评论。 该项目展示了一条将真实世界地理空间数据（地图、高程、街景图像）转换为完全可探索的游戏引擎环境的创新流水线，暗示了公民自建开放世界游戏、城市数字孪生以及新型基于位置的交互体验的潜力。它也说明易用的工具和开放数据源能让独立开发者完成曾经只有大工作室才能做到的项目。 该重建作品似乎使用了 Apple Maps 数据并桥接到游戏引擎中，具备驾驶机制和可拾取的金币玩法。项目基于网页运行，部署在 sf.thijs.gg；用户指出，加入 DLSS 超采样、多人模式、街道名称标注以及地址传送等功能将显著提升体验。
+英特尔在 HOT CHIPS 大会上详细介绍了其下一代 Xeon 7'Diamond Rapids'服务器处理器，公布了基于小芯片（chiplet）的设计方案：每插槽最多 256 个'Panther Cove' P 核、最高 1.28 GB 末级缓存、PCIe Gen 6 I/O，并采用 Intel 18A-P 制程节点制造。整个 MCM 由两个 Fabric Hub Tile、四个 Base Tile 和 16 个核心小芯片（各含 16 个核心）组成。 Diamond Rapids 代表了英特尔在高核心数服务器市场最激进的布局，也是其最明确地效仿 AMD 小芯片分解架构的举措，直接瞄准需要海量串行计算能力的企业级智能体（agentic）AI 工作负载。选择自家 18A-P 制程也预示着英特尔代工战略能否为其旗舰数据中心产品提供具备竞争力的制程技术。 1.28 GB 的末级缓存容量相当可观，体现了英特尔一贯坚持的大容量缓存策略，以满足数据密集型 AI 推理和智能体工作负载的供数需求。尽管核心数量追平了 AMD 顶级 EPYC 产品，但 Diamond Rapids 的竞争力将取决于每核 IPC、内存带宽、平台成熟度，以及英特尔能否真正实现 18A-P 硅片的规模化量产。
 
-hackernews · centrosphere · 8月24日 17:05 · [社区讨论](https://news.ycombinator.com/item?id=49422784)
+rss · TechPowerUp News · 8月24日 15:55
 
-**背景**: GIS (Geographic Information Systems) data, such as OpenStreetMap shapefiles, building footprints, digital elevation models (DEMs), and streetview imagery, can be converted into 3D environments using tools like BlenderGIS or GIS 2BLEND add-ons. These workflows typically extrude 2D building footprints into 3D meshes, apply terrain from elevation data, and texture surfaces from photographic sources. Bridging this GIS pipeline into real-time game engines like Unity or Unreal allows for interactive exploration of real-world locations, a technique increasingly used for urban planning visualization, digital twins, and game prototyping.
+**背景**: 基于小芯片的设计已成为现代服务器 CPU 的主流方案：制造商不再构建单一的单片芯片，而是将处理器拆分为较小的计算芯片和一个独立的 I/O 芯片，从而提升良率并实现每插槽更多核心。AMD 率先在其基于 Zen 架构的 EPYC 处理器上采用 CCD 加中心化 I/O 芯片的方式。英特尔历来更倾向于单片设计，但如今在 Diamond Rapids 上也转向了类似的分解式架构。Intel 18A 是英特尔的领先制程节点，集成 RibbonFET 全环栅晶体管和 PowerVia 背面供电技术，'-P'版本则面向追求性能的大型服务器芯片。智能体 AI（agentic AI）指的是能够自主规划和执行多步骤任务的 AI 系统，对 CPU 提出了大规模并发串行处理能力的要求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/domlysz/BlenderGIS">GitHub - domlysz/BlenderGIS: Blender addons to make the bridge...</a></li>
-<li><a href="https://osmbuildings.org/">OSM Buildings 3 D city models and viewers</a></li>
-<li><a href="https://superhivemarket.com/products/gis2blend/docs">GIS 2BLEND - Documentation - Superhive (formerly Blender Market)</a></li>
+<li><a href="https://www.techpowerup.com/351893/intel-details-xeon-7-diamond-rapids-package-design-at-hot-chips">Intel Details Xeon 7 "Diamond Rapids" Package Design at HOT CHIPS</a></li>
+<li><a href="https://wccftech.com/intel-diamond-rapids-xeon-7-cpus-256-p-cores-1-28-gb-of-cache-12800-mtps-memory/">Intel Diamond Rapids "Xeon 7" CPUs Feature 256 P -Cores, The Same...</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-enterprise">What is an agentic enterprise? - IBM</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应极为热烈且技术性强。开发者们详细讨论了 GIS 到游戏引擎的流水线，其中 jvogt 描述了一种理想工作流，即结合高程、建筑、地图和街景数据，并利用图像到图像模型进行纹理增强。像 frankhorrigan 这样的前旧金山居民表示，重新走访熟悉的街区让他们产生了情感共鸣。用户提出了许多实用改进建议，包括 DLSS 超采样、多人模式支持、街道名称标注和地址传送功能，甚至有人请求改善日本城人行天桥下方的碰撞几何。
-
-**标签**: `#3d-rendering`, `#game-engine`, `#open-world`, `#creative-coding`, `#gis-movie`
+**标签**: `#Intel`, `#Xeon`, `#server processors`, `#chip architecture`, `#HOT CHIPS`
 
 ---
 
 <a id="item-16"></a>
-## [RISC-V 十六年：从模块化 ISA 到 Hot Chips 2026 上的标准化平台](https://semiwiki.com/ip/sifive/372639-risc-v-at-sixteen-from-modular-isa-to-standardized-platforms-at-hot-chips-2026/) ⭐️ 7.0/10
+## [IBM 发布业界首款同时支持 IBM Z 与 Arm 的双架构大型机处理器](https://www.techpowerup.com/351885/ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone) ⭐️ 7.5/10
 
-回顾 RISC-V 从伯克利研究项目发展成为全球标准化 ISA 的 16 年历程，并预览 Hot Chips 2026 上关于模块化与平台标准化的讨论。
+在 Hot Chips 大会上，IBM 发布了业界首款双架构大型机处理器，旨在让未来的 IBM Z 和 LinuxONE 系统能够同时运行 IBM Z 和 Arm 两个计算平台上的操作系统和应用程序。这是 IBM 与 Arm 于 2026 年 4 月建立合作以来的首个重大里程碑。 这一突破将 IBM 的企业级大型机生态系统（承载全球 68%的交易）与拥有 2200 万开发者的 Arm 软件生态连接起来，使企业能够在同一硬件上同时运行云原生和 AI 工作负载以及关键事务处理负载。它实际上向更广泛的 Arm 开发者社区开放了大型机市场，同时让 Arm 工作负载能够利用 IBM 的企业级安全性和可靠性。 该处理器采用 2nm 工艺节点制造，支持 z/OS、Linux on IBM Z 和 Arm 原生 Linux 环境的并行执行。在该平台上运行的 Arm 工作负载将获得 IBM 的硬件级故障检测与恢复、高级加密、安全密钥管理以及片上 AI 加速等能力。
 
-rss · SemiWiki · 8月24日 19:00
+rss · TechPowerUp News · 8月24日 14:26
 
-**标签**: `#RISC-V`, `#ISA`, `#Hot Chips 2026`, `#SiFive`, `#hardware`
+**背景**: IBM Z 大型机是关键任务企业计算的支柱，承载全球 68%的交易，以无与伦比的可靠性、安全性和垂直整合而著称。LinuxONE 是 IBM 的企业服务器产品线，将相同的 Z 硬件架构引入纯 Linux 环境，面向那些希望获得大型机级可靠性但又不想使用专有 z/OS 的机构。而 Arm 已成为全球应用最广泛的处理器架构，从移动设备到云服务器无所不在，拥有超过 2200 万开发者的庞大生态支持。迄今为止，Arm 和 IBM Z 基本处于各自独立的世界；这款双架构处理器是 IBM 首次尝试将二者统一在同一颗芯片上。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IBM_Z">IBM Z - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/products/linuxone-4">IBM LinuxONE 4</a></li>
+<li><a href="https://interestingengineering.com/innovation/ibm-2nm-dual-architecture-arm-mainframe-processor">IBM unveils 2nm processor built for dual - architecture computing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IBM`, `#Arm`, `#mainframe`, `#enterprise-computing`, `#hardware`
 
 ---
 
 <a id="item-17"></a>
-## [Hot Chips 大会聚焦面向 AI 的演进型内存架构](https://semiwiki.com/semiconductor-manufacturers/372632-hot-chips-evolving-memory-architectures-for-artificial-intelligence/) ⭐️ 7.0/10
+## [苹果发布 M6 与 M5 Ultra 芯片，搭载于新款 Mac Mini 与 Mac Studio](https://www.tomshardware.com/pc-components/cpus/apple-launches-new-m6-and-m5-ultra-apple-silicon-chips-debuting-in-new-mac-mini-and-mac-studio) ⭐️ 7.5/10
 
-SemiWiki 对 Hot Chips 大会演讲的报道探讨了新一代内存架构如何被设计来解决限制 AI 加速器扩展的内存带宽瓶颈。文章指出，现代 AI 性能越来越受内存而非算力限制，当处理器无法足够快地获取操作数时，参数、训练数据和算力三者协同增长的扩展定律便会失效。 随着 AI 模型规模持续扩展至数千亿乃至万亿参数，算力吞吐量与内存带宽之间的差距已成为性能和效率的主要瓶颈。内存架构的创新——例如 HBM 堆叠、片上 SRAM 以及新型互连结构——直接决定了 AI 硬件的扩展潜力，对芯片设计、超大规模数据中心运营商以及前沿模型训练的经济性都有深远影响。 文章公开可见的部分强调，当代加速器已受到内存限制，意味着原始 FLOPs 已不再是主要瓶颈。完整的技术细节——包括具体的公司发布、芯片堆叠方案和基准测试结果——位于付费墙/阅读全文链接之后，此处无法评估。
+苹果于 2026 年 8 月 25 日发布了两款新 Apple Silicon 芯片：M6（苹果首款 2 纳米制程芯片）以及 M5 Ultra（苹果迄今最强大的芯片，也是首款采用四芯片模块架构的产品）。M6 首发搭载于新款 Mac Mini，M5 Ultra 则搭载于全新 Mac Studio。 M6 标志着苹果迈入 2 纳米工艺时代，这是芯片设计领域的重要里程碑，有望带来更高的每瓦性能与更强的端侧 AI 算力。同时，M5 Ultra 的四芯片模块架构表明苹果正持续向工作站级性能市场渗透，进一步加剧与 Intel、AMD 高端 x86 平台的竞争。 M6 配备 12 核 CPU、12 核 GPU 以及双 16 核 Neural Engine。M5 Ultra 则采用 UltraFusion 高速互联技术，将两颗双芯片模块的 M5 Max 连接在一起，构成苹果首款四芯片模块架构。
 
-rss · SemiWiki · 8月24日 17:00
+rss · Tom's Hardware · 8月25日 13:26
 
-**背景**: Hot Chips 是一年一度在斯坦福大学举办、聚焦高性能微处理器及相关集成电路的顶级研讨会，自 1989 年延续至今。在现代 AI 工作负载中，GPU 和定制加速器（如 TPU）使用脉动阵列和大型片上内存等技术，来最小化 DRAM 与计算单元之间昂贵的数据搬运。高带宽内存（HBM）通过垂直堆叠 DRAM 芯片并采用宽接口，已成为业界应对内存带宽瓶颈的主流方案，并被 NVIDIA、AMD 等公司的 AI 加速器广泛采用。
+**背景**: Apple Silicon 是苹果自 2020 年推出 M1 以来基于 ARM 架构自研的处理器系列，已逐步取代 Mac 中的 Intel 芯片。苹果的「Ultra」级别芯片历来通过 UltraFusion 高速互联将两颗「Max」芯片模块合二为一，实现性能翻倍。从 3 纳米向 2 纳米制程的跨越意味着晶体管密度的显著提升，从而在相同功耗下实现更多核心、更高能效以及更强的 AI 与 Neural Engine 性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hotchips.org/">Hot Chips</a></li>
-<li><a href="https://medium.com/b8125-fall2025/the-memory-wall-ais-silent-bottleneck-and-the-path-to-unlocking-true-intelligence-525245193c16">The Memory Wall: AI ’s Silent Bottleneck and the Path to... | Medium</a></li>
-<li><a href="https://blog.kistacklab.com/en/article/hbm-memory-explained/">HBM Explained: Why High Bandwidth Memory Became... | Kistack Blog</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">Apple introduces M 6 and M5 Ultra for a big leap in performance and...</a></li>
+<li><a href="https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/">Apple Mac Mini M6 and Mac Studio M 5 Ultra : Specs , Price... | WIRED</a></li>
+<li><a href="https://9to5mac.com/2026/08/25/apple-launches-next-gen-apple-silicon-chips-m6-and-m5-ultra/">Apple launches next-gen Apple Silicon chips : M 6 and... - 9to5Mac</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI hardware`, `#memory architecture`, `#Hot Chips`, `#semiconductors`, `#accelerators`
+**标签**: `#Apple`, `#Apple Silicon`, `#M6`, `#Mac Mini`, `#Mac Studio`
 
 ---
 
 <a id="item-18"></a>
-## [天工 Ultra 人形机器人百米赛跑超越最快人类](https://www.electronicsweekly.com/blogs/gadget-master/robot/picture-of-the-day-humanoid-4-0-human-2026-08/) ⭐️ 7.0/10
+## [中国放缓对台关键材料出口，威胁芯片、光学与机器人供应链](https://www.tomshardware.com/tech-industry/china-strategically-slows-exports-of-critical-materials-used-in-semiconductor-fabrication-to-taiwan-germanium-and-quartz-exports-to-the-region-also-threaten-optical-and-robotics-supply-chain) ⭐️ 7.5/10
 
-在北京国家体育场举办的世界人形机器人运动会上，天工 Ultra 人形机器人在百米短跑中超越了人类最快纪录。该报道将这一成绩定位为多项目人形机器人赛事中"人形机器人 3 比 0 战胜人类"的象征性里程碑。 这代表了机器人领域一个引人注目的象征性里程碑，表明人形机器人已不再是单纯的实验室原型，而是能够完成超越人类能力的运动表现。这标志着双足行走、平衡控制和爆发性速度方面的快速进步，对未来在物流、制造和服务领域的商业部署具有重要意义。 这篇文章本身内容非常简略，仅是一篇"每日图片"短文，没有提供性能参数、确切冲刺成绩，也没有任何对比指标（例如博尔特的 9.58 秒）。天工 Ultra 由北京人形机器人创新中心与优必选（UBTech）合作开发，此前曾以 2 小时 40 分钟完成全球首个人形机器人半程马拉松。
+中国已战略性放缓对台湾地区的锗、石英基材料及稀土磁体出口，此举可能扰乱台湾的半导体制造、光学连接及机器人产业。 台湾拥有全球最先进的半导体代工厂，任何关键输入材料的供应中断都可能波及全球电子、光子及自动化产业，并进一步升级北京与台北之间围绕科技领域的贸易紧张局势。 锗是高速晶体管、光纤及红外系统的关键材料；熔融石英坩埚用于生长硅单晶以制造晶圆；稀土磁体则为工业机器人提供所需的扭矩密度和精度。
 
-rss · Electronics Weekly · 8月24日 15:53
+rss · Tom's Hardware · 8月25日 13:00
 
-**背景**: 人形机器人是模仿人类外形和运动方式的双足机器，应用范围涵盖工业自动化到科学研究。世界人形机器人运动会是北京举办的多项目人形机器人竞赛，比赛项目包括短跑、足球和跳远等。天工 Ultra 是中国的人形机器人旗舰平台之一，由北京人形机器人创新中心与优必选机器人合作开发。该机器人首次引起公众关注是完成了半程马拉松，展示了长时间持续行走的能力——这与百米短跑所需的爆发性加速是完全不同的工程挑战。
+**背景**: 锗是一种金属元素，广泛用于先进半导体、光纤网络及军用红外光学器件，全球年产量仅约 130 吨。熔融石英坩埚是直拉法（Czochralski 法）生长硅单晶时进行超洁净熔炼的黄金标准容器，几乎所有硅晶圆的制备都依赖于此。稀土磁体（尤其是钕铁硼磁体）在高性能电机和人形机器人执行器中不可替代，使其成为先进自动化领域的战略瓶颈。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://humanoid.press/database/database-tiangong-ultra/">Tiangong Ultra | China’s Marathon-Running Humanoid Robot Champion</a></li>
-<li><a href="https://www.aol.com/photos-beijings-world-humanoid-robot-124443007.html">Photos of Beijing 's World Humanoid Robot Games show how... - AOL</a></li>
-<li><a href="https://www.roboatlas.ai/en-US/products/tiangong-ultra">X-Humanoid Tiangong Ultra Humanoid Robots Specs, Price & SDK ...</a></li>
+<li><a href="https://rare-earth-mining.com/top-10-germanium-uses/">Top 10 Germanium Uses : Semiconductors to Defence 2026</a></li>
+<li><a href="https://www.momentivetech.com/products/crucibles/quartz-glass-crucibles">Quartz Crucibles – Momentive Technologies</a></li>
+<li><a href="https://rareearthexchanges.com/industrial-robotics-2/">How Rare Earth Elements Power Industrial Robotics</a></li>
 
 </ul>
 </details>
 
-**标签**: `#humanoid-robots`, `#robotics`, `#Tiangong-Ultra`, `#Beijing-Robot-Games`, `#human-vs-machine`
+**标签**: `#semiconductors`, `#supply-chain`, `#geopolitics`, `#china-taiwan`, `#trade-policy`
 
 ---
 
 <a id="item-19"></a>
-## [Quintessent 开始提供单芯片 DWDM 梳状激光器样片](https://www.electronicsweekly.com/news/products/quintessent-begins-sampling-single-chip-dwdm-comb-laser-2026-08/) ⭐️ 7.0/10
+## [美国上诉法院驳回 Xinuos 上诉，结束长达数十年的 Linux 所有权之争](https://www.tomshardware.com/software/linux/decades-long-linux-ownership-dispute-effectively-dead-after-xinuos-appeal-rejected-us-court-of-appeals-halts-the-legal-wrangling-over-ibms-and-red-hats-use-of-project-monterey-unix-code) ⭐️ 7.5/10
 
-Quintessent 在完成 4000 万美元 A 轮融资后，开始提供基于量子点的单芯片 DWDM 梳状激光器样片，用于光互连应用。
+美国第二巡回上诉法院驳回了 Xinuos 的上诉，基本结束了这场长达数十年的关于 Linux 所有权的法律纠纷。法院驳回了 Xinuos 关于 IBM 和 Red Hat 不当将联合开发的 Project Monterey UNIX 代码贡献给 Linux 的指控。 这一裁决为开源生态系统提供了期待已久的法律澄清，确认了 IBM 和 Red Hat 对 Linux 贡献的合法性，并消除了笼罩在 Linux 开发之上的长期法律阴影。它强化了这样一个原则：在适当协议下向开源项目所做的贡献，不会将底层知识产权的所有权转移给前商业合作伙伴。 上诉法院认同 Xinuos 试图将此案定性为许可纠纷，但实际核心问题是所有权主张，法院认定这些主张毫无根据。Xinuos 表示打算向上诉法院全体法官申请复审，此种申请极为罕见且很少获得批准。
 
-rss · Electronics Weekly · 8月24日 12:42
+rss · Tom's Hardware · 8月25日 10:00
 
-**标签**: `#optical-interconnects`, `#photonics`, `#semiconductors`, `#DWDM`, `#data-center-infrastructure`
+**背景**: Project Monterey 项目是 1990 年代末由 SCO、IBM、Sequent 和 Intel 共同发起的合资项目，旨在打造跨不同架构的统一 UNIX 产品线。IBM 于 1999 年以 8.1 亿美元收购了 Sequent，此交易也加强了 IBM 在 Project Monterey 中的地位。最初的诉讼可追溯到 2000 年代初，当时围绕 UNIX 知识产权以及这些联合开发项目的代码是否不当流入 Linux 内核展开了更广泛的诉讼。从老 SCO Group 收购资产的 Xinuos 多年来一直在追诉这些主张。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnet.com/tech/tech-industry/ibm-buys-sequent-for-810-million/">IBM buys Sequent for $810 million - CNET</a></li>
+<li><a href="https://www.theregister.com/software/2026/08/24/ancient-who-owns-linux-case-now-has-one-foot-very-deep-in-the-grave/5291513">Ancient 'Who owns Linux?' case now has one foot very deep in ...</a></li>
+<li><a href="https://landley.net/history/mirror/unix/unix-history.html">UNIX Chronology</a></li>
+
+</ul>
+</details>
+
+**标签**: `#linux`, `#open-source`, `#legal`, `#ibm`, `#red-hat`
 
 ---
 
 <a id="item-20"></a>
-## [LG 原生 1,000Hz 1080p 电竞显示器售价高达 1000 美元——25 英寸 UltraGear 25G590B 开启预售](https://www.tomshardware.com/monitors/gaming-monitors/lgs-native-1-000-hz-1080p-gaming-monitor-has-a-matching-usd1-000-price-tag-preorders-open-for-the-25-inch-ultragear-25g590b) ⭐️ 6.5/10
+## [台湾起诉九人涉嫌非法向中国出口英伟达 B300 GPU——细节揭露其利用和逃避海关管制的五点策略](https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls) ⭐️ 7.5/10
 
-LG 开启 UltraGear 25G590B 预售，这是一款原生 1000Hz 1080p 电竞显示器，售价 1000 美元。
+台湾起诉九人，指控他们通过五点计划向中国走私英伟达 B300 GPU 服务器以逃避海关管制。
 
-rss · Tom's Hardware · 8月24日 17:21
+rss · Tom's Hardware · 8月24日 15:09
 
-**标签**: `#gaming-monitors`, `#display-technology`, `#hardware`, `#lg-ultragear`, `#product-launch`
+**标签**: `#nvidia`, `#export-controls`, `#ai-hardware`, `#geopolitics`, `#semiconductors`
 
 ---
