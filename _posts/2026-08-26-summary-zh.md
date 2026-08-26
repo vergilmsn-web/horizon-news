@@ -5,439 +5,393 @@ date: 2026-08-26
 lang: zh
 ---
 
-> 从 115 条内容中筛选出 20 条重要资讯。
+> 从 122 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [搭载 Nvidia Jetson Orin 的俄罗斯 AI 无人机在乌克兰致平民死亡](#item-1) ⭐️ 9.5/10
-2. [苹果推出 M6 和 M5 Ultra 芯片](#item-2) ⭐️ 9.0/10
-3. [三星在 Hot Chips 2026 推出业界首款内嵌逻辑单元的 LPDDR5X-PIM](#item-3) ⭐️ 8.5/10
-4. [Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation — AI memory uses 3x more silicon than DDR5, company says memory wall is 'getting worse' as prices rise](#item-4) ⭐️ 8.5/10
-5. [Nvidia 在 Hot Chips 2026 大会详解 88 核 Vera CPU 及空间多线程技术](#item-5) ⭐️ 8.5/10
-6. [OpenAI 在 Hot Chips 2026 大会发布自研 Jalapeño AI 芯片](#item-6) ⭐️ 8.5/10
-7. [Starcloud 完成 2.5 亿美元 A 轮加注融资，建设轨道数据中心](#item-7) ⭐️ 8.0/10
-8. [SpaceXAI 计划明年发射基于 Nvidia Vera Rubin NVL72 的 Starmind 卫星](#item-8) ⭐️ 8.0/10
-9. [SK 海力士下一代 HBM4 内存将采用英特尔 EMIB-T 封装](#item-9) ⭐️ 7.5/10
-10. [英特尔 Wildcat Lake 将 UCIe 芯粒与 18A 工艺引入入门级笔记本](#item-10) ⭐️ 7.5/10
-11. [英特尔在 Hot Chips 2026 大会详解 Crescent Island AI 加速器](#item-11) ⭐️ 7.5/10
-12. [中国放缓对台关键材料出口，冲击科技供应链](#item-12) ⭐️ 7.5/10
-13. [美国上诉法院终结长达数十年的 Linux 所有权之争](#item-13) ⭐️ 7.5/10
-14. [AliExpress 据称利用 Web Audio API 进行浏览器指纹追踪](#item-14) ⭐️ 7.5/10
-15. [Google 在 Hot Chips 2026 推出第八代 TPU 系列](#item-15) ⭐️ 7.5/10
-16. [NVIDIA 将 Groq 3 LPU 集成至 Vera Rubin 集群以降低推理延迟](#item-16) ⭐️ 7.5/10
-17. [FDA 批准首款可监测酮体和血糖水平的可穿戴设备](#item-17) ⭐️ 7.0/10
-18. [注重隐私的 Twitter 前端 Nitter 收到停止侵权通知](#item-18) ⭐️ 7.0/10
-19. [台积电 CoWoS 封装产能瓶颈为英特尔打开代工机会](#item-19) ⭐️ 7.0/10
-20. [XCENA 在 Hot Chips 2026 发布集成近内存计算的 MX1 CXL 内存设备](#item-20) ⭐️ 6.5/10
+1. [d-Matrix Raptor：首款 3D 堆叠 DRAM AI 加速器实现 100 TB/s 带宽](#item-1) ⭐️ 8.5/10
+2. [OpenAI 的 700 瓦 Jalapeño ASIC 超越 1400 瓦英伟达旗舰 GPU——声称每瓦吞吐量提升高达 1.9 倍、延迟降低 3.6 倍，与博通共同开发](#item-2) ⭐️ 8.5/10
+3. [Intel 在 Hot Chips 2026 详解 Crescent Island AI 加速器](#item-3) ⭐️ 8.5/10
+4. [内存价格飙升；2027 年 DRAM 与 NAND 将占 CSP 资本支出的 68%](#item-4) ⭐️ 7.5/10
+5. [（新闻稿）苹果推出搭载 M5 Max 和 M5 Ultra 的新款 Mac Studio](#item-5) ⭐️ 7.5/10
+6. [富士通 Monaka CPU：144 核 Arm 服务器芯片，采用 chiplet 缓存与双 256-bit SVE2](#item-6) ⭐️ 7.5/10
+7. [OXMIQ 在 Hot Chips 2026 上阐述高带宽闪存的有限应用场景](#item-7) ⭐️ 7.5/10
+8. [Arm 在 Hot Chips 展示 AGI 服务器 CPU：136 核、UCIe Chiplet 互联](#item-8) ⭐️ 7.5/10
+9. [EPA 拟取消数据中心空气污染许可证的公众意见征询要求](#item-9) ⭐️ 7.5/10
+10. [三星在 Hot Chips 2026 发布内置逻辑单元的 LPDDR5X-PIM](#item-10) ⭐️ 7.5/10
+11. [英特尔 Wildcat Lake：采用 UCIe 芯粒互连的 18A 入门级芯片](#item-11) ⭐️ 7.5/10
+12. [谷歌在 Hot Chips 2026 大会发布第八代 TPU 芯片家族](#item-12) ⭐️ 7.5/10
+13. [微软将在 Hot Chips 2026 揭秘 Maia 200 AI 加速器](#item-13) ⭐️ 7.5/10
+14. [Cerebras 在 2026 年 Hot Chips 大会上探讨将 WSE 扩展至机架规模](#item-14) ⭐️ 7.5/10
+15. [NVIDIA 将 Groq 3 LPU 集成至 Vera Rubin 实现异构 AI 计算](#item-15) ⭐️ 7.5/10
+16. [全球海洋表面温度受气候变化影响创历史新高](#item-16) ⭐️ 7.3/10
+17. [AWS 收购 DuckDB](#item-17) ⭐️ 7.0/10
+18. [Qwen3.8-Flash-Next：1760 亿参数 MoE，Qwen4 架构预览](#item-18) ⭐️ 7.0/10
+19. [以色列设立并资助虚假美国智库，试图操纵 AI 进行宣传](#item-19) ⭐️ 7.0/10
+20. [XCorp 向 XCancel 和 Nitter 发出停止侵权通知函](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [搭载 Nvidia Jetson Orin 的俄罗斯 AI 无人机在乌克兰致平民死亡](https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say) ⭐️ 9.5/10
+## [d-Matrix Raptor：首款 3D 堆叠 DRAM AI 加速器实现 100 TB/s 带宽](https://www.tomshardware.com/tech-industry/semiconductors/d-matrix-stacks-its-ai-accelerator-directly-on-custom-dram-for-100-tbs-per-card) ⭐️ 8.5/10
 
-法医鉴定团队已确认，上个月一架搭载 Nvidia Jetson Orin 模块的俄罗斯 Molniya 无人机在乌克兰扎波罗热的一个加油站自主锁定并炸死三名平民。这是首例有据可查的、由俄罗斯无人机使用完全自主 AI 瞄准系统造成平民死亡的事件。 此事件是自主武器战争的一个关键转折点，因为它是首例经确认的完全自主 AI 瞄准系统导致平民伤亡的案例。它引发了关于将 Nvidia Jetson Orin 等商用现成硬件用于致命军事应用的紧迫问题，并将可能加剧全球围绕 AI 伦理、AI 芯片出口管制以及自主武器系统国际监管的讨论。 Nvidia Jetson Orin 系列可提供高达 275 TOPS 的 AI 算力，功耗可在 15W 至 60W 之间配置，这使其既能强大到足以执行实时计算机视觉和目标识别，又足够紧凑以集成到无人机中。Molniya 是一种低成本、胶合板结构的俄罗斯攻击无人机，已被大量改装并用于各种战场应用，其集成先进的 AI 瞄准能力标志着该无人机能力的重大升级。
+在 2026 年 Hot Chips 大会上，d-Matrix 发布了 Raptor，这是首款面向生成式推理的 3D DRAM AI 加速器。它采用 36 微米间距的面对面（face-to-face）键合技术，将 TSMC 4nm 计算芯片直接堆叠在定制 DRAM 芯片之上，单卡实现 100 TB/s 的内存带宽。 该架构的带宽比当前基于 HBM 的加速器（如 H100 约 3.35 TB/s、B200 约 8 TB/s）高出一个数量级，直接突破了限制大语言模型推理的内存带宽瓶颈。由于省去了 HBM 和硅中介层（interposer），d-Matrix 声称其每比特能耗仅为 HBM3 的六分之一，有望重塑大规模生成式 AI 服务的成本效率指标。 Raptor 采用 36 微米间距的面对面微凸点（microbump）键合，虽然间距比最前沿的混合键合（sub-10 µm）更宽，但 d-Matrix 称该工艺已成熟且良率高。计算芯片直接位于 DRAM 芯片之上，省去了传统设计中必需的硅中介层、硅通孔（TSV）和 HBM 堆叠步骤。
 
-rss · Tom's Hardware · 8月25日 12:40
+rss · Tom's Hardware · 8月26日 12:00
 
-**背景**: Nvidia Jetson Orin 是一系列紧凑型 AI 计算模块，专为边缘计算、机器人技术和自主机器设计，广泛应用于送货机器人、巡检无人机和工业自动化等商业领域。它运行与 Nvidia 更大 AI 系统相同的基于 CUDA 的软件栈。Molniya 是一种俄罗斯固定翼攻击无人机，以低成本和简单的胶合板结构著称，这使其在战场上可以被大量消耗。完全自主瞄准意味着无人机的机载 AI 在无需人类实时干预的情况下识别、选择并攻击目标，这使其有别于遥控或人在回路系统。
+**背景**: 现代 AI 加速器通常依赖高带宽存储器（HBM），通过硅中介层和硅通孔（TSV）将垂直堆叠的 DRAM 芯片与逻辑芯片相连。3D 面对面堆叠是一种替代性集成方案，将两块芯片的有源面（active surface）相对键合，从而实现更密集、延迟更低、功耗更低的互连。生成式 AI 推理（即运行大语言模型等模型生成文本）具有独特的内存访问模式，高度依赖带宽，因为模型权重必须在每个 token 生成时从内存中流式读取。Hot Chips 是一年一度的顶级半导体会议，各公司在此向技术社区展示前沿芯片架构。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/">Jetson AGX Orin for Next-Gen Robotics | NVIDIA</a></li>
-<li><a href="https://www.pravda.com.ua/eng/articles/2026/01/15/8016293/">Cheap but dangerous: how Russia 's plywood Molniya drone has...</a></li>
-<li><a href="https://oboronka.mezha.ua/en/udarni-droni-molniya-harateristiki-chim-nebezpechni-307515/">Molniya attack drones : characteristics, what makes them dangerous...</a></li>
+<li><a href="https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/">d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026 - ServeTheHome</a></li>
+<li><a href="https://www.techtimes.com/articles/325300/20260824/d-matrix-raptor-delivers-100-tb-s-stacked-dram-fraction-hbm-energy-cost.htm">d-Matrix Raptor Delivers 100 TB/s From Stacked DRAM at Fraction of HBM Energy Cost</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI ethics`, `#autonomous weapons`, `#Nvidia`, `#drones`, `#Ukraine conflict`
+**标签**: `#AI accelerators`, `#3D stacking`, `#DRAM`, `#semiconductors`, `#Hot Chips 2026`
 
 ---
 
 <a id="item-2"></a>
-## [苹果推出 M6 和 M5 Ultra 芯片](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) ⭐️ 9.0/10
+## [OpenAI 的 700 瓦 Jalapeño ASIC 超越 1400 瓦英伟达旗舰 GPU——声称每瓦吞吐量提升高达 1.9 倍、延迟降低 3.6 倍，与博通共同开发](https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks) ⭐️ 8.5/10
 
-苹果发布了 M6 和 M5 Ultra 芯片，重点强调了其在整体性能和 AI 计算能力方面的重大提升。
+OpenAI 首次公布了其 Jalapeño ASIC 的基准测试数据，声称相比英伟达 GB300，每瓦吞吐量提升 1.9 倍、延迟降低 3.6 倍，该芯片与博通共同开发。
 
-hackernews · interpol_p · 8月25日 13:01 · [社区讨论](https://news.ycombinator.com/item?id=49433292)
+rss · Tom's Hardware · 8月25日 18:05
 
-**标签**: `#Apple Silicon`, `#M6`, `#M5 Ultra`, `#AI Compute`, `#Computer Hardware`
+**标签**: `#AI hardware`, `#ASIC`, `#OpenAI`, `#Nvidia`, `#semiconductors`
 
 ---
 
 <a id="item-3"></a>
-## [三星在 Hot Chips 2026 推出业界首款内嵌逻辑单元的 LPDDR5X-PIM](https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth) ⭐️ 8.5/10
+## [Intel 在 Hot Chips 2026 详解 Crescent Island AI 加速器](https://www.tomshardware.com/pc-components/gpus/hot-chips-2026-intel-dives-deep-on-crescent-island-ai-accelerator-larger-caches-and-deeper-xmx-engines-target-maximum-ai-flops-per-watt) ⭐️ 8.5/10
 
-三星在 Hot Chips 2026 大会上详细介绍了业界首款 LPDDR5X-PIM（存内处理）产品，将逻辑单元直接嵌入 DRAM 中以加速数据密集型工作负载。相比标准 LPDDR5X，该芯片在 AI 推理速度上提升 3.01 倍，带宽提升 8 倍。 这标志着内存架构领域的重要里程碑——三星正在以标准 LPDDR5X 形态而非小众研究产品的形式将存内处理技术商业化。该技术有望显著缓解限制边缘设备、智能手机和服务器 AI 推理性能的内存带宽瓶颈。 LPDDR5X-PIM 采用 JEDEC 标准的 561 球封装，每个 rank 由 4 颗芯片组成提供 16GB 容量，面向服务器、移动和客户端应用。该标准化设计意味着它可以在不进行重大架构改动的情况下集成到现有系统设计中。
+在 Hot Chips 2026 大会上，Intel 公布了其 Crescent Island AI 加速器的详细架构，该加速器基于 Xe3P 架构打造，拥有最多 32 个 Xe 核心、更深的 XMX 矩阵引擎、更大的缓存，支持 HBM4 内存，并采用液冷散热，面向数据中心推理工作负载，追求每瓦最高 AI FLOPS 性能。 Crescent Island 标志着 Intel 重新进入由 NVIDIA 和 AMD 主导的竞争激烈的 AI 加速器市场。通过移除图形专用硬件（3D 和光线追踪）并将芯片面积专用于 AI 计算，Intel 释放出一个明确的信号：采取聚焦且效率优先的策略，主攻快速增长的推理市场，尤其是智能体 AI（agentic AI）工作负载。 Crescent Island 的 32 个 Xe 核心各包含 8 个 Vector Engines 和 8 个 XMX Engines，整个 GPU 总计各 256 个；该设计移除了 3D 和光线追踪单元，以释放芯片面积用于 AI 计算。Intel 还公布了 350W 的 PCIe 版本和支持最高 480GB 内存的配置，而 XMX 引擎在二维脉动阵列上执行 DPAS 指令以加速矩阵乘法运算。
 
-rss · Tom's Hardware · 8月25日 18:31
+rss · Tom's Hardware · 8月25日 15:12
 
-**背景**: 存内处理（PIM），也称为存内计算（CIM），是一种直接在内存上执行数据操作而无需将数据传输到 CPU 寄存器的计算架构。这种方法最小化了处理器与内存之间的数据搬移，而数据搬移正是现代 AI 工作负载的主要瓶颈。LPDDR5X 是 DDR5 内存的低功耗版本，常见于笔记本电脑、智能手机和其他功耗受限的设备中，在提供高数据传输速率的同时比标准 DDR5 更节能。
+**背景**: Hot Chips 是每年举办的知名半导体会议，各公司会在会上展示即将推出的芯片的深度架构细节。XMX（Xe Matrix Extensions）是 Intel 专用的 AI 矩阵乘法引擎，类似于 NVIDIA Tensor Core，在二维脉动阵列上执行 DPAS 指令，相比传统 GPU 通路可提供高达 16 倍的 AI 推理算力。HBM4（第四代高带宽内存）是下一代 3D 堆叠 DRAM，可提供显著更高的带宽，对于驱动大型 AI 模型至关重要。Xe3P 是 Intel 第三代 Xe 架构，通过移除仅用于图形的模块，Intel 打造了一个纯粹面向数据中心的变体，专门优化每瓦 AI 吞吐量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/In-memory_processing">In-memory processing - Wikipedia</a></li>
-<li><a href="https://www.techtarget.com/searchbusinessanalytics/definition/processing-in-memory-PIM">What is processing in memory (PIM) and how does it work?</a></li>
-<li><a href="https://www.servethehome.com/samsung-lpddr5x-pim-at-hot-chips-2026/">Samsung LPDDR 5 X-PIM at Hot Chips 2026 - ServeTheHome</a></li>
+<li><a href="https://videocardz.com/newz/intel-details-xe3p-gpu-architecture-crescent-island-gets-up-to-480gb-memory-and-350w-pcie-variant">Intel details Xe3P GPU architecture, Crescent Island gets up to 480GB memory and 350W PCIe variant - VideoCardz.com</a></li>
+<li><a href="https://wccftech.com/intel-crescent-island-gpus-32-xe3p-cores-for-agentic-ai-low-cost-lpddr5x-up-to-480-gb/">Intel Crescent Island GPUs Pack Up To 32 Xe3P Cores, Optimized For Agentic AI With Low-Cost LPDDR5X That Reaches Up To 480 GB Capacity</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/support/articles/000091112/graphics.html">What is Xe Matrix eXtensions (XMX)? - Intel</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware`, `#memory-architecture`, `#processing-in-memory`, `#AI-inference`, `#Samsung`
+**标签**: `#Intel`, `#AI accelerator`, `#Hot Chips 2026`, `#GPU`, `#data center`, `#HBM4`
 
 ---
 
 <a id="item-4"></a>
-## [Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation — AI memory uses 3x more silicon than DDR5, company says memory wall is 'getting worse' as prices rise](https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation) ⭐️ 8.5/10
+## [内存价格飙升；2027 年 DRAM 与 NAND 将占 CSP 资本支出的 68%](https://www.techpowerup.com/351976/memory-prices-soar-dram-and-nand-flash-to-account-for-68-of-major-csp-capex-in-2027) ⭐️ 7.5/10
 
-Micron warns at Hot Chips 2026 that HBM requires 3x more silicon than DDR5 and this penalty is widening each generation, signaling that the AI memory wall is getting worse as costs rise.
+TrendForce 预测，主要云服务提供商（CSP）的总资本支出将在 2026 年同比增长 98%，并在 2027 年再增长 50%，主要受内存价格飙升和 AI 基础设施需求推动。DRAM 与 NAND Flash 合计将占 2026 年 CSP 资本支出的 47%，到 2027 年升至 68%。 这标志着云基础设施经济结构的根本性重塑，内存（而非计算芯片）正成为超大规模云厂商的主导支出项。内存价格的剧烈上涨将影响 AI 部署成本、云服务提供商的利润空间以及整个硬件供应链，可能挤压 GPU 和网络设备的预算。 服务器 DRAM 合约价格在 2025 年下半年已上涨 64%，预计 2026 年再飙升约 270%；企业级 SSD 价格在 2025 年下半年上涨约 35%，预计 2026 年累计涨幅达 235%。这些数字反映的是大批量采购的合约价格，而非现货市场价格。
 
-rss · Tom's Hardware · 8月25日 12:19
+rss · TechPowerUp News · 8月26日 09:21
 
-**标签**: `#HBM`, `#memory-wall`, `#AI-infrastructure`, `#semiconductors`, `#Micron`
+**背景**: DRAM（动态随机存取内存）是 CPU 和 GPU 用于快速数据访问的易失性主内存，而 NAND Flash 是 SSD 和存储卡背后的非易失性存储技术。企业级 SSD 是为数据中心工作负载设计的高耐用性、高性能驱动器，在可靠性和耐用性方面与消费级 SSD 有所不同。云服务提供商（CSP），如 AWS、Microsoft Azure 和 Google Cloud 运营着大规模数据中心，是服务器内存的最大采购方。HBM（高带宽内存）是 DRAM 的一种专用形式，对 AI 加速 GPU 尤为关键，这有助于解释为何随着 AI 训练和推理工作负载的扩展，内存需求会如此急剧上升。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Flash_memory">Flash memory - Wikipedia</a></li>
+<li><a href="https://www.crucial.com/articles/for-businesses/consumer-ssds-vs-enterprise-ssds">Consumer vs. Enterprise SSDs: What’s the Difference</a></li>
+<li><a href="https://medium.com/@junyoungshin0122/the-evolution-toward-high-bandwidth-memory-hbm-601d38ce2917">Why Memory Matters: The Role of DRAM, NAND Flash, and HBM in Modern Computing | by June_0 | Medium</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DRAM`, `#NAND Flash`, `#Cloud Infrastructure`, `#AI Hardware`, `#Memory Market`
 
 ---
 
 <a id="item-5"></a>
-## [Nvidia 在 Hot Chips 2026 大会详解 88 核 Vera CPU 及空间多线程技术](https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more) ⭐️ 8.5/10
+## [（新闻稿）苹果推出搭载 M5 Max 和 M5 Ultra 的新款 Mac Studio](https://www.techpowerup.com/351920/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra) ⭐️ 7.5/10
 
-在 Hot Chips 2026 大会上，Nvidia 详细披露了其 Vera CPU 的技术细节。这是一款基于 Arm 架构的 88 核处理器，采用全新的空间多线程（spatial multithreading）设计，搭配提供 1.2 TB/s 带宽的 SOCAMM2 内存，公司强调其专为数据中心中的智能体（agentic）AI 工作负载而优化。 Vera 标志着 Nvidia 从 GPU 扩展到更广泛的数据中心 CPU 市场，直接挑战现有的服务器 CPU 厂商。它针对智能体工作负载的优化——AI 智能体需要在大量线程之间进行细粒度、低延迟的协调——预示着 AI 基础设施时代硅芯片设计优先级的根本性转变。 该 CPU 采用 88 个基于 Arm 指令集的 Olympus 核心，通过 SOCAMM2 内存模组标准支持 LPDDR5X 内存。SOCAMM2 标准由 Nvidia 与 Micron 合作开发，目前正通过 JEDEC 进行行业标准化。1.2 TB/s 的总带宽是实现空间多线程方案的关键——该方案根据数据局部性而非传统的时间片线程来跨核心分配工作。
+苹果发布搭载 M5 Max 和 M5 Ultra 芯片的新款 Mac Studio，配备高达 512 GB 统一内存，并号称 AI 性能提升 4.3 倍，可在本地设备上运行大型语言模型。
 
-rss · Tom's Hardware · 8月25日 11:53
+rss · TechPowerUp News · 8月25日 13:51
 
-**背景**: Hot Chips 是一年一度的顶级半导体技术会议，领先的芯片公司在会上深度披露其最新处理器和加速器的技术细节。Nvidia 的 Vera CPU 是公司更广泛的 Vera-Rubin 平台的一部分，该平台将这款新型 CPU 与下一代 Rubin GPU 配对，用于 AI 服务器。SOCAMM（Small Outline Compression-Attached Memory Module，小型压缩附加内存模组）是一种紧凑型 LPDDR5/LPDDR5X 内存形态，最初由 Micron 和 Nvidia 共同创建；SOCAMM2 是第二代产品，提供更高速度，目前正通过 JEDEC 标准化向更广泛的行业开放。空间多线程是一个相对较新的概念，与传统的同步多线程（SMT）不同，它侧重于根据数据邻近性将线程分布到物理上独立的核上，以提高缓存效率并降低内存延迟。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.digitalapplied.com/blog/nvidia-vera-cpu-vera-rubin-agent-infrastructure-2026-guide">NVIDIA Vera CPU : How Agents Reshape Server Silicon</a></li>
-<li><a href="https://explainx.ai/blog/nvidia-vera-cpu-whitepaper-marketing-critique-olympus-core-august-2026">NVIDIA Vera CPU Whitepaper Fact-Check (August 2026) | explainx.ai</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/ram/nvidias-homegrown-memory-design-is-nearly-complete-and-standardized-jedec-says-socamm2-will-replace-the-bespoke-socamm1-standard-that-nvidia-created">Nvidia's homegrown memory design is almost standardized and ready for everyone to use — JEDEC says SOCAMM2 compact DRAM module for AI servers boasts higher speeds and broader compatibility | Tom's Hardware</a></li>
-
-</ul>
-</details>
-
-**标签**: `#nvidia`, `#cpu-architecture`, `#hot-chips`, `#data-center`, `#spatial-multithreading`
+**标签**: `#apple`, `#hardware`, `#M5 Ultra`, `#on-device AI`, `#local LLM inference`
 
 ---
 
 <a id="item-6"></a>
-## [OpenAI 在 Hot Chips 2026 大会发布自研 Jalapeño AI 芯片](https://www.servethehome.com/openai-jalapeno-asic-at-hot-chips-2026/) ⭐️ 8.5/10
+## [富士通 Monaka CPU：144 核 Arm 服务器芯片，采用 chiplet 缓存与双 256-bit SVE2](https://www.tomshardware.com/pc-components/cpus/fujitsus-monaka-cpu-stacks-its-entire-cache-on-a-separate-5nm-die-and-narrows-to-256-bit-sve2) ⭐️ 7.5/10
 
-OpenAI 在 2026 年 8 月 23–25 日于斯坦福大学举办的 Hot Chips 2026（HC38）大会上发布了其首款自研 AI 加速器，代号 Jalapeño，并在基准测试中宣称其性能超越了 Nvidia 的 GB300。这款定制 ASIC 开发周期极短，标志着 OpenAI 正式进入此前由 Nvidia 主导的 AI 芯片市场。 这是 AI 行业一次重要的垂直整合里程碑：OpenAI 正在效仿 Google TPU 的策略，自研芯片以减少对 Nvidia 的依赖并针对自身 AI 工作负载进行优化。这表明 AI 加速器市场的竞争正在加剧，并可能重塑定价、供应链动态以及更广泛的 AI 基础设施格局。 据报道，Jalapeño 芯片采用了 FP4 精度，即使按 AI 加速器的标准来看也相当低；其裸片面积与 Nvidia Rubin 相当，但根据大会对比表，其 NVFP4 PFLOPs 算力约为后者的三分之一。OpenAI 将 Jalapeño 定位为通用加速器，而非专为某一模型设计的专用芯片。
+在 2026 年 8 月 24 日的 Hot Chips 大会上，富士通公布了其 144 核 Monaka Arm 服务器 CPU 的详细规格，确认采用双 256-bit SVE2 矢量单元（相比前代 A64FX 的 512-bit SVE 有所收窄），并将全部缓存放在独立的 5nm 芯片上以 chiplet 形式封装，350W 和 500W 型号计划于 2027 年推出。 Monaka 是富士通首款采用 chiplet 设计的产品，标志着其从 A64FX（曾驱动富岳超算）开创的超宽矢量架构转向新方向。256-bit SVE2 的收窄反映了 Arm 生态正从纯 HPC 向 AI 和云计算等更广泛工作负载拓展的趋势。 独立的 5nm 缓存芯片使富士通能够独立优化计算芯片和缓存芯片，有望提升良率与设计灵活性。从 512-bit SVE 缩减到双 256-bit SVE2，使每核峰值矢量性能减半，但换来了更好的能效和更广泛的应用兼容性。
 
-rss · ServeTheHome · 8月26日 00:45
+rss · Tom's Hardware · 8月26日 13:30
 
-**背景**: Hot Chips 是芯片架构师披露下一代处理器（尤其是 AI 加速器）详细技术信息的顶级会议。ASIC（专用集成电路）是针对特定工作负载优化的定制芯片，在效率上优于通用 GPU，但牺牲了灵活性。目前 Nvidia 的 GPU（如 GB300 和即将推出的 Rubin）承担了大部分大规模 AI 训练和推理，而 Google 的 TPU 则是超大规模云厂商自研硅以控制成本和性能的最典型案例。
+**背景**: 富士通的 A64FX 是首款实现 Arm 可扩展矢量扩展（SVE）的处理器，曾驱动日本富岳超算，在 2020 至 2022 年间登顶 TOP500。SVE2 是其继任扩展，新增了机器学习和 DSP 等更广泛的数据处理指令。Chiplet 设计是现代 CPU 越来越常见的方法，将多个小芯片集成在一个封装内，以提高制造良率、降低成本并允许混用不同工艺节点——Monaka 在计算芯片之外使用 5nm 缓存芯片正是这种取舍的典型案例。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hotchips.org/">Hot Chips</a></li>
-<li><a href="https://www.ibm.com/think/topics/ai-accelerator-vs-gpu">What's the difference between AI accelerators and GPUs? - IBM</a></li>
-<li><a href="https://www.nvidia.com/en-us/events/hot-chips-conference/">NVIDIA at Hot Chips 2026 Conference</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fujitsu_A64FX">Fujitsu A64FX - Wikipedia</a></li>
+<li><a href="https://chipsandcheese.com/p/hot-chips-2026-fujitsus-monaka-cpu">Hot Chips 2026: Fujitsu’s Monaka CPU - by Chester Lam</a></li>
+<li><a href="https://anysilicon.com/the-ultimate-guide-to-chiplets/">The Ultimate Guide to Chiplets - AnySilicon</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者将这一时刻比作早期消费级 3D 图形芯片（3dfx、Riva、PowerVR）刚刚兴起的时代，思考专注推理的芯片是否能建立持久的市场，以及最终的赢家会是谁。另一些人则猜测未来将模型权重直接烧入芯片的可能性，指出在每焦耳 token 数方面人类仍然比当前 AI 芯片高效约 22 倍，并争论 FP4 精度究竟是否真正有用，还是只是噱头。部分评论还对围绕万亿美元级 AI 芯片产业的不同分析背后可能的商业动机表示怀疑。
-
-**标签**: `#AI hardware`, `#OpenAI`, `#custom silicon`, `#ASIC`, `#Hot Chips`
+**标签**: `#fujitsu`, `#monaka`, `#hot-chips-2026`, `#arm`, `#server-cpu`, `#chiplet-design`, `#sve2`
 
 ---
 
 <a id="item-7"></a>
-## [Starcloud 完成 2.5 亿美元 A 轮加注融资，建设轨道数据中心](https://www.electronicsweekly.com/news/business/stsrcloud-raises-250m-to-build-space-based-datacentres-2026-08/) ⭐️ 8.0/10
+## [OXMIQ 在 Hot Chips 2026 上阐述高带宽闪存的有限应用场景](https://www.tomshardware.com/pc-components/ssds/hot-chips-2026-high-bandwidth-flash-promises-massive-bandwidth-and-capacity-but-its-usability-is-extremely-limited-new-memory-format-strikes-a-balance-between-hbm-and-nand-flash) ⭐️ 7.5/10
 
-Starcloud 完成了对其 2026 年 3 月 A 轮融资的 2.5 亿美元加注，使 A 轮融资总额达到 4.2 亿美元，公司估值达到 23 亿美元。该笔资金将用于制造和部署能够在轨道上执行 AI 推理的太空数据中心卫星。 本轮融资表明机构投资者对轨道计算基础设施作为 AI 工作负载未来范式的高度信心，尤其考虑到地面数据中心正面临能源和土地资源的日益紧张。Starcloud 声称通过持续太阳能供电可降低 90% 的电力成本，使轨道数据中心有望成为应对地面 AI 算力不可持续增长的对冲方案。 Starcloud 此前的估值达 11 亿美元，成为 Y Combinator 历史上最快的独角兽公司，这一成就仅在完成该项目 17 个月后即达成。公司声称可实现全天候太阳能供电，电费成本比地面设施低 90%，但太空数据中心仍面临重大工程挑战，包括抗辐射设计、真空环境下的热管理以及发射和部署成本。
+在 Hot Chips 2026 大会上，OXMIQ 展示了高带宽闪存（HBF）的应用场景分析。HBF 是一种介于 HBM 和 NAND 闪存之间的新型内存格式，但此次展示显著收窄了 HBF 真正具有实用价值的应用范围。 HBF 代表了内存层次结构中一个潜在的新层级，可能改变 AI 加速器和高性能计算系统的设计方式，尤其是在内存带宽成为关键瓶颈的 AI 推理工作负载中。然而，OXMIQ 对有限应用场景的坦诚评估凸显了将基于 NAND 的存储级内存集成到传统上针对类 DRAM 性能优化的系统中所面临的实际挑战。 HBF 基于 TSV 堆叠的 NAND（最高 16 层堆叠）并通过 UCIe 互连，提供高达 3 TB/s 的带宽和每模块 512 GB 的容量——在容量上远超 HBM，但性能较低且具有非易失性。OXMIQ 的展示重点在于识别 HBF 独特的带宽/容量权衡优于 HBM 或传统 SSD 的窄交集工作负载。
 
-rss · Electronics Weekly · 8月25日 14:01
+rss · Tom's Hardware · 8月26日 13:00
 
-**背景**: 太空数据中心是部署在近地轨道（LEO）的卫星，内部搭载计算硬件（通常是 GPU 或其他加速器），用于在太空而非地面处理数据。核心计算节点与地面硬件本质上相似，但周围的电力、热管理和可靠性系统必须经过特殊工程设计，以承受辐射、极端温度和微重力环境。支持者认为轨道数据中心具有持续太阳能照射、向深空辐射散热免费以及接近某些数据源（如地球观测卫星）等优势，而批评者则指出发射成本高昂、对地面站的带宽有限以及在轨维护困难等挑战。
+**背景**: 现代计算中的内存层次结构从快速、昂贵、易失的 DRAM（包括用于 GPU 和 AI 加速器的 HBM——高带宽内存）一直延伸到较慢、便宜、非易失的 NAND 闪存存储（用于 SSD）。HBM 通过使用硅通孔（TSV）堆叠 DRAM 裸片来提供非常高的带宽，但其容量有限且成本较高；NAND 闪存则可以低成本提供海量容量，但带宽要低得多。由 Sandisk 和 SK hynix 联合开发并于 2026 年 8 月正式发布的高带宽闪存（HBF）试图通过将 HBM 风格的 TSV 堆叠技术应用于 NAND 裸片来弥合这一差距。OXMIQ 是一家通过其 OxCore 平台构建可授权 AI 计算架构的初创公司，于 2026 年 7 月完成了 3500 万美元的 A 轮融资。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Starcloud">Starcloud - Wikipedia</a></li>
-<li><a href="https://www.gao.gov/products/gao-26-109012">U.S. GAO - Science & Tech Spotlight: Data Centers in Space</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/to-boldly-go-the-case-for-space-datacenters">Introduction to Space Datacenters and Orbital Compute</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie">New HBF spec outlines tech that can give GPUs terabytes of ...</a></li>
+<li><a href="https://www.businesswire.com/news/home/20260701241910/en/OXMIQ-Raises-$35-Million-to-Scale-OxCore-Architecture">OXMIQ Raises $35 Million to Scale OxCore™ Architecture</a></li>
 
 </ul>
 </details>
 
-**标签**: `#space-tech`, `#data-centers`, `#funding`, `#infrastructure`, `#startups`
+**标签**: `#memory-systems`, `#hardware-architecture`, `#HotChips`, `#HBM`, `#NAND-flash`
 
 ---
 
 <a id="item-8"></a>
-## [SpaceXAI 计划明年发射基于 Nvidia Vera Rubin NVL72 的 Starmind 卫星](https://www.electronicsweekly.com/news/business/nvidia-and-spacexai-adapting-terrestrial-datacentre-infrastructure-for-space-2026-08/) ⭐️ 8.0/10
+## [Arm 在 Hot Chips 展示 AGI 服务器 CPU：136 核、UCIe Chiplet 互联](https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-arm-details-agi-server-cpu-with-two-70-core-n3p-chiplets-touts-2-tb-s-ucie-fabric-link-and-12-channel-memory-controller) ⭐️ 7.5/10
 
-SpaceXAI 宣布其计划于明年发射的第一代 Starmind 数据中心卫星将基于 Nvidia 的 Vera Rubin NVL72 机架级系统构建，从而将地面 Nvidia 数据中心架构延伸至轨道。 这标志着尖端 AI 算力需求与新兴天基基础设施趋势的显著融合。如果成功实现，它有望开创能在太空运行推理与训练工作负载的轨道 AI 数据中心，重塑 AI 算力与卫星产业。 Vera Rubin NVL72 是 Nvidia 的第二代机架级 Oberon 架构，整合了 Rubin GPU、Vera CPU、NVLink 6 交换机、ConnectX-9 SuperNIC、BlueField-4 DPU 以及 Spectrum-6 网络，每个计算托盘为每个 Rubin GPU 提供 1.6Tb/s 的网络带宽。据报道 Starmind 卫星功率约为 120kW，这引发了关于抗辐射加固、真空环境下仅能依靠辐射散热以及在轨供电等重大未解问题。
+在 Hot Chips 2026 大会上，Arm 披露了其 AGI 服务器 CPU 的更多细节：该处理器集成两个采用台积电 N3P 工艺制造的 70 核 chiplet，总计最高 136 核，通过 2 TB/s 的 UCIe 互连总线连接，并配备 12 通道内存控制器。不过，Arm 并未公布任何性能基准测试数据。 这一发布标志着 Arm 正式进军长期由 Intel 和 AMD 等 x86 厂商主导的 AI/数据中心服务器 CPU 市场，并利用基于 chiplet 的可扩展性和开放式互连标准。大量核心数、海量内存带宽和高带宽 die-to-die 互连的组合，是专门为 AI 训练和推理工作负载而设计的。 该设计依赖 UCIe——一种用于 die-to-die 通信的开放式行业标准，允许来自不同厂商的 chiplet 在同一封装内互操作。台积电 N3P 是其 3nm 级 FinFET 工艺的性能增强版本，已于 2024 年末进入大规模量产，在功耗、性能和面积方面均优于基础 N3 节点。
 
-rss · Electronics Weekly · 8月25日 05:15
+rss · Tom's Hardware · 8月26日 11:00
 
-**背景**: 轨道数据中心是一个新兴概念，即让卫星搭载计算载荷在太空直接处理数据，而非把所有数据传回地面，其背后驱动力是下行带宽瓶颈的加剧以及 AI 算力的爆炸性需求。太空环境带来独特的工程挑战：热量无法像在地面上那样通过对流散出，所有散热必须通过辐射完成，这造成了工程师们所称的"物理税"——计算功率越高，所需的散热器表面积就越大。包括 SpaceX 和 Nvidia 在内的公司目前正在探索现有数据中心技术能否加固后用于轨道环境，抑或必须采用全新架构。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/">Rack-Scale Agentic AI Supercomputer | NVIDIA Vera Rubin NVL72</a></li>
-<li><a href="https://techstartups.com/2026/08/04/nvidia-partners-with-spacex-to-build-starmind-ai-orbital-data-centers-in-space/">Nvidia partners with SpaceX to build Starmind AI orbital data ...</a></li>
-<li><a href="https://spectrum.ieee.org/orbital-data-centers-heat">Why Thermodynamics Rules Future Orbital Data Centers - IEEE ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#space-computing`, `#nvidia`, `#spacex`, `#datacenter-infrastructure`, `#edge-computing`
-
----
-
-<a id="item-9"></a>
-## [SK 海力士下一代 HBM4 内存将采用英特尔 EMIB-T 封装](https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging) ⭐️ 7.5/10
-
-在 Hot Chips 2026 大会上，SK 海力士透露正在与英特尔合作，将其下一代 HBM4 内存整合至英特尔的 EMIB 和 EMIB-T 先进封装中，同时继续与台积电的 CoWoS 系列封装展开合作。HBM4 的引脚数量将从约 1024 个翻倍至 2048 个，并依赖 2.5D 封装、混合键合（hybrid bonding）和 3D DRAM 集成技术。 这一合作标志着英特尔代工（Intel Foundry）在 AI 芯片封装生态系统中日益重要的角色，也代表着先进封装供应摆脱台积电在 CoWoS 上近乎垄断地位、实现多元化的重要一步。对于 AI 加速器设计者而言，拥有多个合格的封装方案（EMIB-T 与 CoWoS-L/S/R 并行）将降低供应链风险，并有望缓解长期困扰业界的 CoWoS 产能瓶颈。 EMIB-T 在英特尔既有的 EMIB 技术基础上增加了硅通孔（TSV），从而实现跨多个堆叠芯片的垂直供电，这一能力与 SK 海力士的 3D 内存模块架构高度契合。封装层面的垂直供电是在堆叠更多 HBM 裸芯的同时保持信号和电源完整性的关键技术。
-
-rss · TechPowerUp News · 8月25日 08:23
-
-**背景**: HBM（高带宽内存）是一种堆叠式 DRAM 技术，可为 GPU 和定制 ASIC 等 AI 加速器提供海量内存带宽。2.5D 和 3D 集成等先进封装技术对于以极高数据速率将 HBM 堆栈连接到逻辑裸芯至关重要。台积电的 CoWoS（Chip-on-Wafer-on-Substrate）一直是 AI 芯片主流的 2.5D 封装方案，包括 CoWoS-S（硅中介层）、CoWoS-R（基于 RDL）和 CoWoS-L（带局部硅互连）三个变体。英特尔的 EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多芯片互连桥接）是一种替代性的 2.5D 方案，在有机基板中嵌入小型硅桥，而 EMIB-T 则增加了 TSV 以实现垂直供电。硅通孔（TSV）是穿过整个硅晶圆或裸芯的垂直电气连接，可实现高密度、低功耗的 3D 堆叠。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-details-new-advanced-packaging-breakthroughs-emib-t-paves-the-way-for-hbm4-and-increased-ucie-bandwidth">Intel details new advanced packaging breakthroughs — EMIB-T ...</a></li>
-<li><a href="https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2025-07/emib-product-brief.pdf">Intel Foundry EMIB Technology Brief</a></li>
-<li><a href="https://www.aminext.blog/en/post/tsmc-cowos-s-r-l-differences">CoWoS-S, R, L Explained – TSMC’s Advanced Packaging Strategies for AI & HPC</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Through-silicon_via">Through - silicon via - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#advanced-packaging`, `#HBM`, `#Intel-Foundry`, `#AI-accelerators`
-
----
-
-<a id="item-10"></a>
-## [英特尔 Wildcat Lake 将 UCIe 芯粒与 18A 工艺引入入门级笔记本](https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-intel-details-cutting-edge-tech-in-entry-level-wildcat-lake-value-focused-18a-chips-necessitated-ucie-integration) ⭐️ 7.5/10
-
-在 Hot Chips 2026 大会上，英特尔详细介绍了面向入门级预算笔记本市场的 Wildcat Lake 处理器，揭示这款主打性价比的芯片集成了 UCIe（通用芯粒互连 Express）芯粒互连技术，并采用英特尔最先进的 18A 制程工艺打造。 这一进展意义重大，因为此前仅用于 Panther Lake 等高端产品的 UCIe 芯粒互连和英特尔最先进的 18A 制程工艺，如今已下沉到预算级笔记本市场，表明基于芯粒的设计正在各价位段成为主流，英特尔的代工路线图也在成功向平价产品规模化扩展。 Wildcat Lake 采用 UCIe 值得关注，因为芯粒互连通常会增加成本和复杂度，将它用于低价位产品是制造与集成成熟度的有力信号；18A 节点是首个同时整合 RibbonFET（全栅极）晶体管和 PowerVia 背面供电技术的节点，这两项技术均可提升性能与能效。
-
-rss · Tom's Hardware · 8月25日 15:45
-
-**背景**: UCIe（通用芯粒互连 Express）是一项开放行业标准，定义了多个芯粒（小型专用硅片）在同一封装内如何通信，与传统单片芯片相比，可实现模块化设计，从而提高良率和设计灵活性。英特尔的 18A 是约 1.8 纳米级别的制造工艺，是该公司首个同时采用 RibbonFET 全栅极晶体管和 PowerVia 背面供电技术的节点，这些技术此前仅在 Core Ultra 第三代 Panther Lake 等高端产品上提供。Hot Chips 是一年一度的半导体技术会议，各公司会在会上向技术社区披露详细的架构信息。
+**背景**: 基于 chiplet 的架构将处理器拆分为多个较小的 die，并集成在同一个封装内，而不是将所有功能都构建在单个大型单片 die 上，从而提高了良率、降低了成本，并实现了更灵活的扩展。UCIe（Universal Chiplet Interconnect Express，通用小芯片互联标准）是定义这些 chiplet 在封装内如何相互通信的开放标准，目前已是 3.0 版本。Arm 的 AGI（这是一个品牌名称，并非指通用人工智能）是面向超大规模和 AI 工作负载的服务器级 CPU 产品系列，旨在与 AMD 的 EPYC 和 Intel 的 Xeon 等产品竞争。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.uciexpress.org/specifications">Specifications | UCIe Consortium</a></li>
-<li><a href="https://www.arteris.com/learn/ucie/">UCIe ( Universal Chiplet Interconnect Express ) - Arteris</a></li>
-<li><a href="https://passhulk.com/blog/intel-panther-lake-vs-apple-m5-benchmark-comparison/">Intel Panther Lake vs Apple M5: The 33% Multi-Core Performance Gap...</a></li>
+<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_3nm">3nm Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
+<li><a href="https://anysilicon.com/the-ultimate-guide-to-chiplets/">The Ultimate Guide to Chiplets - AnySilicon</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Intel`, `#Wildcat Lake`, `#UCIe`, `#18A process node`, `#chiplet architecture`
+**标签**: `#Arm`, `#server CPU`, `#chiplets`, `#UCIe`, `#AI hardware`, `#Hot Chips`
+
+---
+
+<a id="item-9"></a>
+## [EPA 拟取消数据中心空气污染许可证的公众意见征询要求](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them) ⭐️ 7.5/10
+
+美国环保署拟修改法规，取消各州在签发空气污染许可证时必须征询公众意见的要求，这一变化尤其会影响 AI 数据中心及其他大型工业设施的许可审批流程。 这一监管变化可能通过简化许可流程来加速 AI 数据中心的建设，但同时也会削弱社区对这些高能耗设施环境影响的监督能力。随着谷歌和微软等科技巨头的 AI 相关排放持续飙升，降低空气质量许可的透明度引发了人们对 AI 扩张与环境保护之间问责机制的担忧。 此次拟议修改针对的是《清洁空气法》第五章（Title V）运营许可证，该许可证适用于大型工业设施，并提供了一套统一的空气质量法规。值得注意的是，这一监管变化出台之际，数据中心的能源和水资源消耗正因 AI 工作负载而快速增长，而直触芯片冷却和浸没式冷却等新技术正作为降低资源使用的方式出现。
+
+rss · Tom's Hardware · 8月26日 10:00
+
+**背景**: 《清洁空气法》第五章（Title V）建立了一套针对大型空气污染工业源的联邦运营许可制度，将所有适用的空气质量要求整合到一份单一文件中，并要求在签发或修改许可证时进行公示和征求公众意见。AI 数据中心由于训练和推理工作负载需要大量能源用于供电和冷却，属于这些空气质量法规的监管范围，因为其备用发电机和其他现场电力基础设施会产生排放。大型科技公司已报告称，数据中心因 AI 需求而增长的能源消耗直接导致了排放上升，使这些设施的环境许可审批过程成为公众日益关注的领域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.epa.gov/title-v-operating-permits/basic-information-about-operating-permits">Basic Information about Operating Permits - US EPA</a></li>
+<li><a href="https://www.npr.org/2024/07/12/g-s1-9545/ai-brings-soaring-emissions-for-google-and-microsoft-a-major-contributor-to-climate-change">Google and Microsoft report growing emissions as they... : NPR</a></li>
+<li><a href="https://www.eesi.org/articles/view/data-centers-and-water-consumption">Data Centers and Water Consumption | Article | EESI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI infrastructure`, `#data centers`, `#EPA regulation`, `#environmental policy`, `#government policy`
+
+---
+
+<a id="item-10"></a>
+## [三星在 Hot Chips 2026 发布内置逻辑单元的 LPDDR5X-PIM](https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth) ⭐️ 7.5/10
+
+三星在 Hot Chips 2026 大会上发布了业界首款 LPDDR5X-PIM，将处理逻辑直接集成到低功耗内存中，以加速 AI 推理负载。公司声称这款新内存在 AI 推理性能上比标准 LPDDR5X 快 3.01 倍，带宽高达 8 倍。 这标志着三星将存内计算（PIM）技术从高带宽内存（HBM）扩展到广泛用于移动和边缘设备的 LPDDR5X 标准。通过直接解决内存带宽瓶颈，该技术有望让智能手机、笔记本电脑和边缘硬件在不依赖云端连接的情况下，实现更强大的端侧 AI 推理。 LPDDR5X 是智能手机、平板和笔记本电脑常用的低功耗 DRAM 标准，因此 PIM 在这一层级的应用对功耗敏感的 AI 工作负载尤为相关。三星此前已为数据中心应用出货过 HBM-PIM，因此此次发布代表该架构向移动和边缘平台的迁移，但实际的生态系统支持（编译器、运行时、操作系统集成）仍有待观察。
+
+rss · Tom's Hardware · 8月25日 18:31
+
+**背景**: 存内计算（PIM）是一种将计算单元放置在内存阵列附近或内部以降低数据在内存与处理器之间搬运的能耗和延迟的架构方法，这一问题被称为"内存墙"。三星此前已在服务器的 HBM 堆栈中商用化 PIM 技术。LPDDR5X 是低功耗 DDR 内存的最新一代，通常用于电池供电的设备，对能效要求极为严格。将 PIM 引入 LPDDR5X 瞄准的是在手机和边缘设备上本地运行 AI 模型日益增长的需求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth">Hot Chips 2026: Samsung makes LPDDR 5 X smart... | Tom's Hardware</a></li>
+<li><a href="https://www.servethehome.com/samsung-lpddr5x-pim-at-hot-chips-2026/">Samsung LPDDR 5 X- PIM at Hot Chips 2026 - ServeTheHome</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LPDDR">LPDDR - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#memory-architecture`, `#processing-in-memory`, `#samsung`, `#AI-inference`, `#hardware`
 
 ---
 
 <a id="item-11"></a>
-## [英特尔在 Hot Chips 2026 大会详解 Crescent Island AI 加速器](https://www.tomshardware.com/pc-components/gpus/hot-chips-2026-intel-dives-deep-on-crescent-island-ai-accelerator-larger-caches-and-deeper-xmx-engines-target-maximum-ai-flops-per-watt) ⭐️ 7.5/10
+## [英特尔 Wildcat Lake：采用 UCIe 芯粒互连的 18A 入门级芯片](https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-intel-details-cutting-edge-tech-in-entry-level-wildcat-lake-value-focused-18a-chips-necessitated-ucie-integration) ⭐️ 7.5/10
 
-在 Hot Chips 2026 大会上，英特尔披露了其 Crescent Island AI 加速器的更多技术细节，该加速器基于 Xe3P 架构打造，配备更大的缓存、更深的 XMX 矩阵引擎、液冷散热以及 HBM4 内存，主要面向数据中心推理工作负载。 这一发布意义重大，因为 Crescent Island 代表了英特尔在快速增长的数据中心 AI 加速器市场的最新布局，而能效比（FLOPS/瓦特）正成为关键的差异化指标。采用前沿的 HBM4 内存和面向推理优化的架构，表明英特尔试图与 NVIDIA 等以训练为核心的 GPU 产品形成差异化竞争。 Xe3P 架构引入了全速率 FP64 支持，以及 FP8 和 FP4 数据类型支持和 MX 微缩放格式，并将 XMX 单元的脉动阵列深度提升至 16 层——相比早期 XMX 实现有显著加深。据报道，该芯片配备 32 个 Xe3P 核心、最高 480GB 内存，并采用液冷散热以维持持续推理吞吐量。
+在 Hot Chips 2026 大会上，英特尔详细介绍了其 Wildcat Lake（品牌名为 Intel Core Series 3）入门级笔记本 SoC，该芯片源自基于 Panther Lake 的 Core Ultra Series 3 架构，并采用英特尔最先进的 18A 工艺节点结合 UCIe 芯粒互连技术，目标瞄准预算级笔记本市场。 这一举措意义重大，因为它表明英特尔正致力于将其最先进的封装和工艺技术扩展到预算级产品线，而在这一细分市场中，成本限制通常迫使厂商在最先进特性上做出妥协。在入门级芯片中使用 UCIe 标志着基于芯粒的设计正在变得主流化，不再仅限于高端产品，这可能重塑与 AMD 和 高通在价值型笔记本市场的竞争格局。 Wildcat Lake 的设计目标是优先广泛部署当前一代的 CPU、显卡、AI、内存、安全和连接功能，而非追求最高的功能密度。鉴于 18A 是英特尔旨在从台积电手中夺回制造领先地位的成败关键代工技术，将 UCIe 这一标准化芯粒互连集成到预算级芯片中尤为引人注目。
 
-rss · Tom's Hardware · 8月25日 15:12
+rss · Tom's Hardware · 8月25日 15:45
 
-**背景**: Hot Chips 是每年举办的学术与产业研讨会，半导体公司会在此展示即将推出的处理器和加速器的深度架构细节。XMX（Xe Matrix Extensions）是英特尔的硬件矩阵乘法引擎，用于在二维脉动阵列上执行点积累（DPAS）指令，类似于 NVIDIA 的 Tensor Core。HBM4 是最新一代高带宽内存，相比 HBM3e 提供更高带宽。AI 推理——运行已训练模型以产生输出——与训练有不同的优化优先级，通常更看重内存带宽、延迟和能效，而非原始计算吞吐量。
+**背景**: UCIe（通用芯粒互连 express）是一项开放的行业标准，使来自不同厂商的芯粒能够在同一封装内无缝通信，从而促进模块化芯片设计。英特尔的 18A 工艺节点是该公司最先进的制造技术，采用了 RibbonFET 环栅晶体管和 PowerVia 背面供电技术，被广泛视为英特尔夺回与台积电代工竞争力的关键赌注。基于芯粒的架构将单片芯片拆分为更小的专用裸片，这些裸片可以混合搭配，从而提高良率和灵活性并降低成本——这种设计理念正在整个半导体行业中普及。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hothardware.com/news/intel-crescent-island-hot-chips-2026">Intel Crescent Island GPU Flexes 32 Xe 3 P Cores, 480GB...</a></li>
-<li><a href="https://wccftech.com/intel-xe3-graphics-official-50-percent-faster-than-xe2-xe3p-next-gen-arc-family/">Intel Xe 3 Graphics Official: Over 50% Faster Than Xe2, Enhanced RT...</a></li>
-<li><a href="https://www.intel.com/content/www/us/en/docs/oneapi/optimization-guide-gpu/2024-1/xmx.html">Boost Matrix Multiplication Performance with Intel® Xe Matrix...</a></li>
+<li><a href="https://www.uciexpress.org/">Home | UCIe Consortium</a></li>
+<li><a href="https://abhs.in/blog/intel-18a-foundry-tsmc-rival-us-chip-independence-2026">Intel 18 A : The Make-or-Break Foundry Bet That Could End...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Intel`, `#AI hardware`, `#GPU accelerator`, `#Hot Chips 2026`, `#data center inference`
+**标签**: `#Intel`, `#UCIe`, `#18A process node`, `#chiplets`, `#Hot Chips 2026`
 
 ---
 
 <a id="item-12"></a>
-## [中国放缓对台关键材料出口，冲击科技供应链](https://www.tomshardware.com/tech-industry/china-strategically-slows-exports-of-critical-materials-used-in-semiconductor-fabrication-to-taiwan-germanium-and-quartz-exports-to-the-region-also-threaten-optical-and-robotics-supply-chain) ⭐️ 7.5/10
+## [谷歌在 Hot Chips 2026 大会发布第八代 TPU 芯片家族](https://www.servethehome.com/googles-tpuv8s-for-training-and-inference-at-hot-chips-2026/) ⭐️ 7.5/10
 
-消息称，中国正在放缓对台湾的锗、石英材料和磁体出口。该举措可能影响半导体制造、光学连接和机器人供应链。 这些材料位于多个战略重要产业的上游，因此出口延迟可能增加生产风险，并使关键材料成为中国对台关系中的战略杠杆。若替代来源或库存不足，台湾科技制造商以及下游全球客户都可能受到影响。 锗可用于半导体器件，也可作为硅光纤的掺杂剂；高纯度熔融石英坩埚则在单晶硅片生产中用于盛放多晶硅原料。报道未说明出口量、受影响的具体产品类别、时间表，或出口放缓是否只是暂时措施。
+在 Hot Chips 2026 大会上，谷歌公布了其第八代 TPU 芯片家族，其中包括面向训练负载的 TPU 8t 和面向推理负载的 TPU 8i，进一步推进了谷歌的自研 AI 芯片路线图。 谷歌是为数不多仍坚持自研训练芯片的超大规模云服务商之一，因此每一代 TPU 的发布都会对竞争激烈的 AI 硬件市场格局以及谷歌云提供差异化 AI 基础设施的能力产生重要影响。 谷歌在新一代产品中将训练（TPU 8t）和推理（TPU 8i）拆分为独立型号，体现了面向特定工作负载定制加速器的趋势，不过 ServeTheHome 这篇文章仅为预告性质，并未披露制程工艺、HBM 容量或互联带宽等详细规格。
 
-rss · Tom's Hardware · 8月25日 13:00
+rss · ServeTheHome · 8月26日 00:15
 
-**背景**: 半导体制造在多个环节需要专用材料，而光通信和机器人产业也依赖具有特定光学或磁学性能的材料。锗可用于半导体器件，也可作为硅光纤的掺杂剂；高纯度熔融石英坩埚则用于熔化多晶硅并支撑单晶硅片的生长。报道把出口放缓与台湾联系起来，但没有量化台湾对这些投入品的依赖程度、库存规模或替代选择。
+**背景**: TPU（Tensor Processing Unit，張量处理单元）是谷歌自研的 ASIC 芯片，专门优化用于深度学习（如 CNN 和大语言模型）中占主导地位的大规模矩阵乘法运算。Hot Chips 是一年一度的芯片设计研讨会，2026 年于斯坦福大学举办（8 月 23 日至 25 日），芯片设计者在此向技术受众展示架构细节。像谷歌、AWS 和微软 Azure 这样的超大规模云服务商运营着全球规模的数据中心，并且越来越多地自研加速器以减少对英伟达等第三方 GPU 的依赖。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://shop.machinemfg.com/germanium-vs-geranium-whats-the-difference/">Germanium vs. Geranium: What's the Difference? - MFG Shop</a></li>
-<li><a href="https://www.momentivetech.com/products/crucibles/quartz-glass-crucibles">Quartz Crucibles – Momentive Technologies</a></li>
+<li><a href="https://www.hotchips.org/">Hot Chips</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hyperscale_computing">Hyperscale computing - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#supply-chain`, `#China-Taiwan`, `#geopolitics`, `#critical-materials`
+**标签**: `#Google TPU`, `#AI hardware`, `#Hot Chips 2026`, `#machine learning`, `#data center accelerators`
 
 ---
 
 <a id="item-13"></a>
-## [美国上诉法院终结长达数十年的 Linux 所有权之争](https://www.tomshardware.com/software/linux/decades-long-linux-ownership-dispute-effectively-dead-after-xinuos-appeal-rejected-us-court-of-appeals-halts-the-legal-wrangling-over-ibms-and-red-hats-use-of-project-monterey-unix-code) ⭐️ 7.5/10
+## [微软将在 Hot Chips 2026 揭秘 Maia 200 AI 加速器](https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/) ⭐️ 7.5/10
 
-美国第二巡回上诉法院驳回了 Xinuos 的上诉申请，从而基本结束了这场长达数十年的法律纠纷。该诉讼的核心争议是 IBM 和 Red Hat 是否不当地将联合开发的 Project Monterey UNIX 代码贡献给了 Linux。此次裁决阻止了 Xinuos 重新提出的关于 IBM 明知违反其非排他性 UNIX 许可证的主张。 这项裁决消除了围绕 Linux 代码来源（尤其是 IBM 和 Red Hat 所做贡献）长期存在的法律不确定性。它终结了源自最初 SCO 诉讼的那段历史，并确认了被质疑的代码贡献并未侵犯 UNIX 的知识产权，从而巩固了整个 Linux 生态系统的法律基础。 Xinuos 于 2011 年收购了 SCO 的 UNIX 业务和知识产权，于 2021 年与 IBM 以 1425 万美元达成和解，随后又提起新诉讼，指控 IBM 通过向 Linux 贡献 Monterey 代码违反了非排他性许可证。Project Monterey 是 1990 年代末的一项计划，旨在构建一个跨 Intel IA-32、IA-64 和 Power 架构的统一 UNIX 系统。
+微软将在 Hot Chips 2026 大会上深入披露其第二代 Maia 200 AI 推理加速器的架构细节，这是该芯片于 2026 年 1 月发布并部署于 Azure 之后的进一步技术公开。 此次演讲表明微软致力于通过自研 AI 芯片来降低对 NVIDIA 的依赖，而 Hot Chips 是深度微架构细节披露的首选平台，将让竞争对手和客户更清晰地了解微软的硬件路线图。 Maia 200 采用台积电 3nm 工艺制造，配备原生 FP8/FP4 Tensor Core、216GB HBM3e 显存（带宽达 7 TB/s）、272MB 片上 SRAM，FP4 算力约 10 PFLOPS，功耗 750W；微软声称其总拥有成本（TCO）比其机队中其他加速器降低 30%，能耗降低 15%。
 
-rss · Tom's Hardware · 8月25日 10:00
+rss · ServeTheHome · 8月25日 22:45
 
-**背景**: 最初的 SCO 集团在 2000 年代初期提起了一系列备受关注的诉讼，指控 Linux 包含了 SCO 拥有的 UNIX 代码，曾威胁要大规模扰乱开源生态系统。在 SCO 的 UNIX 资产被 Xinuos 收购后，争议转向了与 Project Monterey 相关的主张——这是 IBM、SCO 和其他厂商共同创建的跨平台 UNIX 合作项目。最近的上诉涉及 IBM 根据其 UNIX 许可证向 Linux 贡献代码是否合法。
+**背景**: Maia 200 是微软首款专为推理（即 AI 模型的生产部署阶段）而非训练设计的自研 AI 加速器，是初代 Maia 100 的继任者，体现了微软在 AI 基础设施领域的垂直整合战略。Hot Chips 是每年举办的专注于高性能芯片架构的研讨会，传统上各公司会在此披露包括流水线设计、存储层次结构和互连在内的深度微架构信息。该会议深受硬件工程师、研究人员和行业分析师的欢迎，他们寻求超越市场宣传的深度技术洞察。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://guavy.com/wire/stocks/long-running-linux-ownership-dispute-effectively-ends-1Nrwijud2LqKyD8Btz4Frr">Long-Running Linux Ownership Dispute Effectively Ends | Guavy</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Project_Monterey">Project Monterey - Wikipedia</a></li>
+<li><a href="https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/">Maia 200: The AI accelerator built for inference - The ...</a></li>
+<li><a href="https://www.hotchips.org/">Hot Chips</a></li>
+<li><a href="https://aimagazine.com/news/microsoft-unveils-maia-200-ai-accelerator">Microsoft: How Maia 200 Accelerator Addresses AI Bottlenecks</a></li>
 
 </ul>
 </details>
 
-**标签**: `#linux`, `#open-source`, `#legal`, `#ibm`, `#red-hat`
+**标签**: `#AI-hardware`, `#Microsoft`, `#Hot-Chips`, `#AI-accelerators`, `#custom-silicon`
 
 ---
 
 <a id="item-14"></a>
-## [AliExpress 据称利用 Web Audio API 进行浏览器指纹追踪](https://www.tomshardware.com/tech-industry/cyber-security/aliexpress-allegedly-uses-your-browsers-audio-system-to-fingerprint-your-pc-hidden-code-runs-even-when-no-sound-is-playing) ⭐️ 7.5/10
+## [Cerebras 在 2026 年 Hot Chips 大会上探讨将 WSE 扩展至机架规模](https://www.servethehome.com/cerebras-talks-going-rack-scale-with-their-wses-at-hot-chips-2026/) ⭐️ 7.5/10
 
-一项调查揭示，AliExpress 据称在其网站上运行隐藏的 Web Audio 处理代码，用于对浏览器进行指纹识别并收集详细的设备信息，即使在没有播放任何音频时也是如此。这一发现是由一位开发者在调试蓝牙耳机问题时偶然注意到的可疑音频处理活动。 这一由全球大型电商平台据称实施的行为引发了严重的隐私担忧，因为用户在不知情或未明确同意的情况下被追踪。它凸显了一个日益增长的趋势，即采用超越传统 Cookie 的隐蔽复杂追踪技术，使消费者更难保护其在线隐私。 该技术利用了 Web Audio API，通过生成一个音调并测量浏览器音频堆栈处理信号的方式来生成唯一的设备签名。与基于 Cookie 的追踪不同，音频指纹识别不会在用户设备上留下任何痕迹，也难以通过常规隐私工具进行检测或阻止。
+Cerebras 在 2026 年 Hot Chips 大会上宣布，其下一代晶圆级引擎（WSE）将通过全新的 Nexus 架构实现机架级部署，标志着 AI 加速器规模化部署迈出了重要一步。
 
-rss · Tom's Hardware · 8月25日 09:44
+rss · ServeTheHome · 8月25日 22:15
 
-**背景**: 浏览器指纹识别是一种追踪方法，通过收集用户设备和浏览器的各种数据点（如硬件 ID、操作系统详情、时区以及音频处理特性）来创建一个唯一标识符，从而在不依赖 Cookie 的情况下跨网站追踪用户。音频指纹识别专门利用 Web Audio API，通过生成声音信号、将其通过浏览器音频堆栈进行处理，并测量输出来生成每个设备硬件和软件配置独有的签名。这种技术尤其令人担忧，因为它在后台静默运行，不依赖于任何用户交互，是最具侵入性的现代追踪方法之一。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://shieldlabs.ai/blog/what-is-audio-fingerprinting">What Is Audio Fingerprinting ? Browser Technique</a></li>
-<li><a href="https://www.capsolver.com/glossary/audiocontext-fingerprinting">Audiocontext Fingerprinting</a></li>
-<li><a href="https://www.geeksforgeeks.org/techtips/what-is-browser-fingerprinting/">What is Browser Fingerprinting? - GeeksforGeeks</a></li>
-
-</ul>
-</details>
-
-**标签**: `#privacy`, `#web-security`, `#fingerprinting`, `#aliexpress`, `#browser-security`
+**标签**: `#Cerebras`, `#AI hardware`, `#wafer-scale`, `#Hot Chips 2026`, `#rack-scale architecture`
 
 ---
 
 <a id="item-15"></a>
-## [Google 在 Hot Chips 2026 推出第八代 TPU 系列](https://www.servethehome.com/googles-tpuv8s-for-training-and-inference-at-hot-chips-2026/) ⭐️ 7.5/10
+## [NVIDIA 将 Groq 3 LPU 集成至 Vera Rubin 实现异构 AI 计算](https://www.servethehome.com/nvidias-groq-3-lpu-accelerators-for-heterogeneous-ai-compute-at-hot-chips-2026/) ⭐️ 7.5/10
 
-在 Hot Chips 2026 上，Google 发布了其第八代 TPU 系列，推出了两个变体：专为训练优化的 TPU 8t 和专为推理优化的 TPU 8i，针对两大 AI 工作负载类别提供专用芯片。 作为少数几家从头自主设计训练硬件的超大规模云厂商之一，Google 为定制 AI 加速器树立了竞争标杆。新一代 TPU 直接影响前沿模型训练的经济性和可扩展性，以及在 Google Cloud 规模上提供推理服务的能力。 Google 将这一代芯片拆分为独立的训练（8t）和推理（8i）版本，这种设计理念使每款芯片可以专门优化，而不必在两种工作负载上妥协。具体的工艺节点、HBM 容量和互联拓扑等详细规格在预告中尚未披露。
+在 Hot Chips 2026 大会上，NVIDIA 详细介绍了如何将 Groq 3 LPU 集成到 Vera Rubin 集群中，作为异构计算架构的一部分，专门针对 LLM 推理解码阶段的低延迟需求。该 LPX 系统基于 256 颗互联的 LPU 构建，并与 Vera Rubin NVL72 平台协同设计，被定位为面向智能体 AI 工作负载的机架级推理加速器。 这一声明标志着 NVIDIA 向异构 AI 计算的战略转变，承认 GPU 单独使用无法最优地服务于推理的每个阶段，并且像 LPU 这样的专用加速器是逐 token 解码阶段所必需的。这验证了将 prefill 和 decode 工作负载拆分到不同硅芯片上的行业趋势，可能会重塑超大规模云服务商和企业设计 AI 基础设施的方式。 NVIDIA 声称 Groq 3 LPX 可实现每兆瓦推理吞吐量高达 35 倍的提升，并为万亿参数模型带来 10 倍的收入增长机会。LPU 与 GPU 的不同之处在于将模型权重存储在片上 SRAM 中，并采用确定性执行调度，从而消除 GPU 在 token 生成过程中遇到的内存等待停顿。256 颗 LPU 组成的 LPX 机架与 Vera Rubin GPU 并行工作，而非取代它们。
 
-rss · ServeTheHome · 8月26日 00:15
+rss · ServeTheHome · 8月25日 21:45
 
-**背景**: TPU（Tensor Processing Unit，张量处理单元）是 Google 专为神经网络中大量矩阵乘法运算定制的 ASIC，最初围绕 TensorFlow 框架设计。Hot Chips 是每年在斯坦福大学举办的研讨会，汇聚芯片设计师、系统架构师和分析师，深入展示前沿处理器的技术细节。Google 在云厂商中独树一帜，自主开发训练芯片，之前的代次（TPU v4、v5e、v5p、v6/Trillium）已为 Gemini 训练和搜索排序等业务提供算力支撑。
+**背景**: LLM 推理分为两个不同的阶段：prefill 阶段处理整个输入提示以构建 KV 缓存，属于计算密集型；decode 阶段则逐个生成输出 token，受内存带宽限制。LPU（语言处理单元）是 Groq 设计的推理专用芯片，将模型权重存储在片上 SRAM 中，并采用确定性调度避免内存延迟停顿，因此特别适合 decode 工作负载。LPU 推理引擎通常与基于 GPU 的训练和 prefill 系统并行使用，而非替代它们，这也是结合两种加速器的异构架构日益受到关注的原因。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hotchips.org/">Hot Chips</a></li>
-<li><a href="https://www.nvidia.com/en-us/events/hot-chips-conference/">Hot Chips 2026 Conference | NVIDIA</a></li>
-<li><a href="https://ru.wikipedia.org/wiki/Тензорный_процессор_Google">Тензорный процессор Google — Википедия</a></li>
+<li><a href="https://www.servethehome.com/nvidias-groq-3-lpu-accelerators-for-heterogeneous-ai-compute-at-hot-chips-2026/">NVIDIA’s Groq 3 LPU Accelerators for Heterogeneous AI Compute ...</a></li>
+<li><a href="https://developer.nvidia.com/blog/inside-nvidia-groq-3-lpx-the-low-latency-inference-accelerator-for-the-nvidia-vera-rubin-platform">Inside NVIDIA Groq 3 LPX: The Low-Latency Inference ...</a></li>
+<li><a href="https://groq.com/blog/the-groq-lpu-explained">What is a Language Processing Unit? | Groq is the premier ...</a></li>
+<li><a href="https://redis.io/blog/prefill-vs-decode/">Prefill vs Decode : LLM Inference Phases Explained</a></li>
 
 </ul>
 </details>
 
-**标签**: `#TPU`, `#Google`, `#AI-hardware`, `#HotChips`, `#accelerators`
+**标签**: `#NVIDIA`, `#Groq`, `#LPU`, `#Hot Chips 2026`, `#AI inference`, `#heterogeneous compute`, `#Vera Rubin`
 
 ---
 
 <a id="item-16"></a>
-## [NVIDIA 将 Groq 3 LPU 集成至 Vera Rubin 集群以降低推理延迟](https://www.servethehome.com/nvidias-groq-3-lpu-accelerators-for-heterogeneous-ai-compute-at-hot-chips-2026/) ⭐️ 7.5/10
+## [全球海洋表面温度受气候变化影响创历史新高](https://www.solidot.org/story?sid=85198) ⭐️ 7.3/10
 
-NVIDIA 将在 2026 年 Hot Chips 大会上详细阐述，如何将通过收购 Groq 获得的 Groq 3 LPU 作为专用加速器集成到 Vera Rubin 集群中，以显著降低 AI 推理解码阶段的延迟。 这标志着 NVIDIA 向异构 AI 计算的战略转型，将通用 GPU 与专用 LPU 搭配使用，让每种处理器处理各自最擅长的负载，这可能改变超大规模 LLM 服务基础设施的设计方式。 每个 NVIDIA LPX 机架包含 256 个互连的 LPU 加速器，采用确定性、编译器驱动架构，可实现低于 100 毫秒的首 token 延迟；Groq 声称其 LPU 在 LLM 工作负载上能效比 GPU 高多达 10 倍，而 Vera Rubin GPU 则基于台积电 3nm 工艺打造。
+根据欧洲哥白尼气候变化服务中心的数据，除极地外全球海洋表面平均温度在周六达到了 21.1°C，略高于 2024 年 3 月创下的 21.09°C 的纪录。科学家警告，当前的厄尔尼诺现象尚未达到峰值，可能成为数个世纪以来最强的一次。 海洋温度破纪录会带来广泛影响，包括加剧极端天气、加速海平面上升以及损害海洋生态系统。由于海洋吸收了大气中绝大部分多余热量，这些温度纪录是衡量全球气候变化速度和严重程度的关键指标。 该温度数据基于海面以下 10 米的海水温度测量，综合利用了浮标、船舶和卫星的数据。全球海水平均温度的年度峰值通常出现在 3 月或 4 月，对应南半球夏季结束，因为南半球的海洋面积远大于北半球。
 
-rss · ServeTheHome · 8月25日 21:45
+rss · Solidot · 8月26日 07:45
 
-**背景**: LLM 推理分为两个阶段：预填充阶段并行处理整个输入提示以填充 KV 缓存，而解码阶段则以内存带宽受限的顺序方式逐个生成输出 token。GPU 擅长可并行化的预填充阶段，但在解码阶段效率较低，这正是 Groq LPU 被设计来解决的核心瓶颈。Vera Rubin 平台是 NVIDIA 继 Blackwell 之后的 GPU 架构，搭配定制 ARM 架构的 Vera CPU，专门针对代理 AI 和推理工作负载进行了优化。通过将 LPU 嵌入 Vera Rubin 集群，NVIDIA 正在构建一种异构拓扑，让 GPU 负责预填充和推理，LPU 负责解码，从而降低端到端延迟。
+**背景**: 厄尔尼诺是一种气候现象，其特征是赤道中东太平洋海面温度异常升高，由信风减弱驱动。它通常每 2 到 7 年发生一次，会扰乱全球气候模式，往往导致全球气温飙升。哥白尼气候变化服务中心是欧盟的地球观测项目，利用卫星观测和全球现场测量数据提供权威的气候信息。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/lpx/">Interactive AI Inference Accelerator | NVIDIA Groq 3 LPX</a></li>
-<li><a href="https://groq.com/blog/the-groq-lpu-explained">What is a Language Processing Unit? | Groq is the premier ...</a></li>
-<li><a href="https://medium.com/@maghonei/optimizing-llm-inference-prefill-vs-decode-latency-vs-throughput-80dbf00fc0ba">Optimizing LLM Inference : Prefill vs Decode , Latency vs ... | Medium</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#Groq`, `#LPU`, `#AI Inference`, `#Hot Chips 2026`
+**标签**: `#AI-hardware`, `#OpenAI`, `#Nvidia`, `#climate-science`, `#China-AI`
 
 ---
 
 <a id="item-17"></a>
-## [FDA 批准首款可监测酮体和血糖水平的可穿戴设备](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) ⭐️ 7.0/10
+## [AWS 收购 DuckDB](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) ⭐️ 7.0/10
 
-FDA 批准了首款能够持续监测酮体和葡萄糖水平的可穿戴设备，这是糖尿病管理及预防糖尿病酮症酸中毒（DKA）的重要里程碑。
+AWS 收购了 DuckDB 背后的商业实体 DuckLabs，但开源的 DuckDB 项目仍由非营利组织 DuckDB 基金会管控。
 
-hackernews · sunnynagra · 8月25日 19:07 · [社区讨论](https://news.ycombinator.com/item?id=49439017)
+hackernews · onderkalaci · 8月26日 12:59 · [社区讨论](https://news.ycombinator.com/item?id=49448321)
 
-**标签**: `#healthcare`, `#FDA`, `#diabetes`, `#wearables`, `#medical-devices`
+**标签**: `#aws`, `#duckdb`, `#acquisition`, `#open-source`, `#databases`
 
 ---
 
 <a id="item-18"></a>
-## [注重隐私的 Twitter 前端 Nitter 收到停止侵权通知](https://github.com/zedeus/nitter/issues/1442) ⭐️ 7.0/10
+## [Qwen3.8-Flash-Next：1760 亿参数 MoE，Qwen4 架构预览](https://qwen.ai/blog?id=qwen3.8-flash-next) ⭐️ 7.0/10
 
-Nitter 是一款流行的 Twitter/X 开源替代前端，近日收到了停止侵权通知（cease and desist），其维护者表示在等待法律咨询期间，所有 Nitter 实例预计将在可预见的未来保持下线状态。 此次关停影响了数千名依赖 Nitter 来无广告、无追踪访问 Twitter 公开内容的用户，也标志着开源替代前端——这些通过爬取或代理商业平台提供服务的工具——正面临越来越大的法律压力。同时，此事件也引发了人们对司法管辖权、平台权力以及社区驱动隐私工具可持续性的更广泛思考。 根据 GitHub issue 下方的评论摘要，目前收到的停止侵权通知的细节仍然较少，维护者正在等待法律顾问的建议。此前用户可通过使用经过认证的 session token 自托管 Nitter 实例作为替代方案，但新的法律压力可能也会影响到这种使用方式。
+通义千问发布了 Qwen3.8-Flash-Next，作为 Qwen4 架构的实验性预览版本：这是一款多模态超稀疏 MoE 模型，总参数量达 1760 亿（含 510 亿 N-gram 嵌入表），但每个 token 仅激活 60 亿参数；据官方称其性能超越了此前的 27B 模型，而量化后约 73GB 即可装入 128GB 硬件。 此次发布表明，将超稀疏 MoE 与 GDN + QSA 混合注意力设计相结合，可以用小型模型的算力成本获得千亿级模型的品质，有望重塑自托管 AI 的经济性，让高端推理能够在 Mac Studio 和 AMD Strix Halo 等消费级硬件上普及。 该模型以 FP8 精度发布，开箱即支持 vLLM 和 SGLang，并已集成到 Unsloth Desktop 中。其 60 亿的激活参数量绕过了内存带宽瓶颈——这正是同等消费级 GPU 拖累稠密 27B 级模型的核心原因，从而即使在单台 128GB 主机上，也能以 Q3/Q4 量化进行较长上下文推理。
 
-hackernews · Banditoz · 8月25日 17:08 · [社区讨论](https://news.ycombinator.com/item?id=49437283)
+hackernews · tosh · 8月26日 12:52 · [社区讨论](https://news.ycombinator.com/item?id=49448210)
 
-**背景**: Nitter 是一款免费且开源的 Twitter（现为 X）替代前端，允许用户在无需账号、无需运行 JavaScript、无广告且不被 Twitter 追踪的情况下浏览公开推文。它比官方前端更轻量、更快，加载时间线通常快 2–4 倍，并且可以在个人 VPS 上自托管。Nitter 是众多“替代前端”项目之一（其他类似项目还有针对 YouTube 的 Invidious），这些项目通过代理或爬取大型平台，为用户提供更注重隐私的体验。随着 Twitter 收紧 API 访问权限，Nitter 实例曾多次遭遇中断；此前公共实例已经停止工作，除非运营者获取经过认证的真实账号 session token。
+**背景**: 混合专家（MoE）模型将权重划分为多个「专家」子网络，由可学习的路由器在每个 token 上仅激活其中一小部分专家子网络，从而大幅降低计算量，同时显存占用仍与总参数成正比；此前的稀疏 MoE 设计如 Mixtral 8x7B 已证明此模式能击败更大的稠密模型。本次发布的架构还以门控 DeltaNet（GDN）与 QSA 的混合注意力机制替代纯 softmax 注意力，进一步削减长上下文场景下的显存与算力开销。Qwen 将 Qwen3.8-Flash-Next 定位为支撑下一代 Qwen4 模型族的实验性基石。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nitter">Nitter - Wikipedia</a></li>
-<li><a href="https://github.com/zedeus/nitter">GitHub - zedeus/nitter: Alternative Twitter front-end</a></li>
-<li><a href="https://github.com/mendel5/alternative-front-ends">GitHub - mendel5/ alternative - front - ends : Overview of alternative ...</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8">Qwen/ Qwen 3 .8- Flash -Next-FP8 · Hugging Face</a></li>
+<li><a href="https://recipes.vllm.ai/Qwen/Qwen3.8-Flash-Next">Qwen/ Qwen 3 .8- Flash -Next | vLLM Recipes</a></li>
+<li><a href="https://docs.sglang.io/cookbook/autoregressive/Qwen/Qwen3.8-Flash-Next">Qwen 3 .8- Flash -Next - SGLang Documentation</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论者对失去访问渠道表示担忧（一些本地议会等组织仍在 X 上发布信息），并对依赖单一商业平台感到失望，希望人们能够从 X 迁出。部分用户从地缘政治角度发表了看法，认为中等强国应当为开源项目提供法律避风港，以对抗美国科技公司的影响力。还有一位评论者分享了一个相关故事：他正在开发一个 Hacker News 的克隆项目，并称赞 HN 版主支持社区项目而非发起 ToS 投诉。
+**社区讨论**: 社区反应非常积极，尤其兴奋地关注在 Strix Halo 和 128GB Mac 上的自托管部署，因为 ~73GB 的量化体积对此类硬件完全可行。用户关心它能否匹配更大尺寸 Qwen3.8 变体的推理深度，也有人询问它是否继承了 Qwen3.8-27B 和 GLM 5.2 上已观察到的高冗长度和累计输入 token 成本问题。整体情绪乐观但仍保持谨慎，期待在生产负载上的实测基准验证。
 
-**标签**: `#open-source`, `#privacy`, `#nitter`, `#twitter-x`, `#cease-and-desist`, `#legal`
+**标签**: `#qwen`, `#llm`, `#model-release`, `#cost-efficiency`, `#self-hosting`
 
 ---
 
 <a id="item-19"></a>
-## [台积电 CoWoS 封装产能瓶颈为英特尔打开代工机会](https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/) ⭐️ 7.0/10
+## [以色列设立并资助虚假美国智库，试图操纵 AI 进行宣传](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda) ⭐️ 7.0/10
 
-分析师指出，台积电的 CoWoS（晶圆级芯片封装）先进封装产能受限，尤其是在 HBM 集成方面，正促使 AI 芯片制造商探索英特尔的 EMIB（嵌入式多芯片互连桥接）技术作为替代方案。这可能为英特尔在 AI 芯片封装和代工市场打开突破口。 由于 AI 加速器严重依赖先进封装技术将 HBM 高带宽内存与计算芯片集成，封装产能已成为 AI 供应链中的关键瓶颈。如果英特尔能够凭借具有竞争力的 EMIB 方案抓住台积电的产能受限机会，可能会显著重塑 AI 芯片制造的竞争格局。 英特尔的 EMIB 技术通过嵌入封装基板中的小型硅桥，利用微凸点连接小芯片（chiplets），无需大型中介层晶圆或硅通孔（TSV）。近期行业报告显示 EMIB 的良率已达到近 90%，使其成为台积电 CoWoS 在 HBM 集成方面的潜在可行替代方案。
+OpenAI 的反滥用工作披露，一个由以色列资助的虚假美国智库被用于试图影响 AI 系统，以达到宣传目的。
 
-rss · EE Times · 8月25日 07:00
+hackernews · n1b0m · 8月26日 12:11 · [社区讨论](https://news.ycombinator.com/item?id=49447600)
 
-**背景**: CoWoS（晶圆级芯片封装）是台积电的旗舰 2.5D/3D 先进封装技术，可将多个芯片和 HBM 内存堆栈集成在同一中介层上，这对于 NVIDIA 和 AMD 等公司的 AI 加速器至关重要。英特尔的 EMIB（嵌入式多芯片互连桥接）是一种替代方案，通过嵌入封装基板内的小型硅桥实现高密度芯片间互连，无需大型中介层。AI 芯片需求的激增使 CoWoS 产能成为全球半导体供应链中的主要瓶颈，为竞争性封装技术打开了机会窗口。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
-<li><a href="https://www.gate.com/blog/cowos-technology-explained-why-tsmc-advanced-packaging-has-become-the-ai-chip-capacity-bottleneck">CoWoS Technology Explained: Why TSMC's Advanced Packaging Has ...</a></li>
-<li><a href="https://semiwiki.com/wikis/industry-wikis/intel-emib-embedded-multi-die-interconnect-bridge/">Intel EMIB ( Embedded Multi - die Interconnect Bridge ) - SemiWiki</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#TSMC`, `#Intel`, `#HBM`, `#AI-chips`
+**标签**: `#AI safety`, `#disinformation`, `#state-sponsored-actors`, `#propaganda`, `#AI ethics`
 
 ---
 
 <a id="item-20"></a>
-## [XCENA 在 Hot Chips 2026 发布集成近内存计算的 MX1 CXL 内存设备](https://www.techpowerup.com/351948/xcena-details-mx1-architecture-integrating-memory-expansion-and-near-memory-computing-at-hot-chips-2026) ⭐️ 6.5/10
+## [XCorp 向 XCancel 和 Nitter 发出停止侵权通知函](https://news.ycombinator.com/item?id=49446210) ⭐️ 7.0/10
 
-XCENA 在 Hot Chips 2026 的 Memory 环节上公布了其 MX1 计算型 CXL 内存设备的架构与实测性能。MX1 是一款 CXL Type 3 设备，将大规模内存扩展、SSD 容量支撑和可编程近内存计算集成在单一设备中，旨在应对 AI 基础设施的内存瓶颈。 随着 AI 模型规模不断增大，系统性能越来越受限于内存容量、数据搬运开销以及高带宽内存扩展的经济性，而非单纯的算力。通过将向量搜索、KV-cache 检索、数据预处理等访存密集型操作卸载到内存设备上，MX1 可以让主机端的 CPU、GPU 和 AI 加速器专注于计算密集型的推理任务。 MX1 是一款 CXL Type 3 设备，本质上是基于 Compute Express Link 互联协议的内存扩展设备，并增加了对近内存计算内核的可编程能力。该方案由 XCENA 首席产品官 Harry Kim 宣讲，并经过 Hot Chips 程序委员会的技术评审后入选，具有一定的独立可信度。
+X 公司已向 Nitter 和 XCancel 发出停止侵权通知函，导致这两个支持免登录、保护隐私访问 Twitter/X 内容的替代前端被关闭。
 
-rss · TechPowerUp News · 8月25日 19:20
+hackernews · mobilio · 8月26日 09:34
 
-**背景**: Compute Express Link（CXL）是一种高速互联标准，允许 CPU、GPU 和加速器以一致的方式共享内存和设备；其中 CXL Type 3 设备专门提供内存扩展功能，使主机处理器可以将连接的内存或存储视为自身地址空间的一部分。近内存计算（Near-Memory Computing, NMC）是一种将计算下移到数据所在位置而非将大量数据搬运到处理器的架构思路，从而降低数据搬运的能耗和延迟。在基于 Transformer 的 AI 模型中，KV-cache 用于存储推理过程中的中间 Key 和 Value 向量，其大小随序列长度线性增长，常常成为 GPU 显存的主要占用者，因此是卸载到扩展内存层的理想目标。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot+Chips+2022+CXL3+Fabric+Intro+and+use+cases.pdf">CXL3 Fabric – Introduction and use cases - Hot Chips</a></li>
-<li><a href="https://arxiv.org/pdf/1908.02640">Near-Memory Computing: Past, Present, and Future - arXiv.org</a></li>
-<li><a href="https://josedavidbaena.com/blog/nanochat/kv-caching-memory-efficient-transformer-inference">KV Caching Deep-Dive: Memory -Efficient Transformer Inference</a></li>
-
-</ul>
-</details>
-
-**标签**: `#CXL`, `#near-memory computing`, `#AI infrastructure`, `#Hot Chips 2026`, `#memory expansion`
+**标签**: `#twitter`, `#nitter`, `#open-web`, `#platform-policy`, `#decentralization`
 
 ---
