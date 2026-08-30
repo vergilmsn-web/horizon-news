@@ -5,224 +5,309 @@ date: 2026-08-30
 lang: en
 ---
 
-> From 37 items, 11 important content pieces were selected
+> From 39 items, 16 important content pieces were selected
 
 ---
 
-1. [CXMT Begins Mass Production of LPDDR6 Memory at 12.8 Gbps](#item-1) ⭐️ 7.5/10
-2. [California Passes AB 1856, Exempting Open-Source from Age Verification Law](#item-2) ⭐️ 7.5/10
-3. [US Navy launches missiles from its first drone sailboat — Saildrone Surveyor launches dual JAGM missiles, carrier strike group tests armed USV and electronic warfare](#item-3) ⭐️ 7.5/10
-4. [Hy4 preview](#item-4) ⭐️ 7.0/10
-5. [DHS Uses Obscure Customs Law to Secretly Obtain Records on Journalists and Non-Profits](#item-5) ⭐️ 7.0/10
-6. [Samsung's Processing-in-Memory (PIM)](#item-6) ⭐️ 7.0/10
-7. [Microsoft-backed $19.4B AI data center faces community backlash over unpermitted gas turbines](#item-7) ⭐️ 6.5/10
-8. [Google Pixel 11 Drops Hardware MTE Support, a Security Regression](#item-8) ⭐️ 6.3/10
-9. [Roman Space Telescope Launches with Fully Open 1.4TB/Day Data](#item-9) ⭐️ 6.0/10
-10. [Mara raises $7M pre-seed for backpack-portable drone interceptor Spike](#item-10) ⭐️ 5.5/10
-11. [Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first](#item-11) ⭐️ 5.5/10
+1. [Arbitrary Code Execution in QubesOS via qvm-copy-to-vm Error Reporting](#item-1) ⭐️ 8.0/10
+2. [China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware](#item-2) ⭐️ 7.5/10
+3. [Pixel 11 Drops Hardware MTE Support; Sony & Warner Sue Anthropic](#item-3) ⭐️ 7.3/10
+4. [Omarchy Linux: Any User Process Can Escalate to Root via Docker Group](#item-4) ⭐️ 7.0/10
+5. [Creepy Crawlies](#item-5) ⭐️ 7.0/10
+6. [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](#item-6) ⭐️ 7.0/10
+7. [Bug Blindness](#item-7) ⭐️ 7.0/10
+8. [SpaceX brings turbine blade manufacturing in-house to speed up AI data center power](#item-8) ⭐️ 6.5/10
+9. [DIY Archivists Use Budget Nikons and Neural Networks to Digitize 1,800 Rare Books](#item-9) ⭐️ 6.5/10
+10. [Corsair RM1000e (2026) Review: Temperature-Sensing Cable Prevents GPU Connector Melting](#item-10) ⭐️ 6.5/10
+11. [Leaked DLSS 5 Runs on RTX 30-Series GPUs but Performance Collapses](#item-11) ⭐️ 5.5/10
+12. [SteamOS 3.9.0 Preview Released with KDE 6.7.3 and Linux Kernel 7.2](#item-12) ⭐️ 5.5/10
+13. [Intel Officially Confirms LGA1954 Socket for Nova Lake-S Processors](#item-13) ⭐️ 5.5/10
+14. [Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code](#item-14) ⭐️ 5.5/10
+15. [Modders Solder Cables Directly to RTX 5090 PCB to Bypass Melting Connector](#item-15) ⭐️ 5.5/10
+16. [US military uses high-energy lasers to shoot down three Mexican cartel drones over the southern border — narcos suspected of using UAVs for surveillance and reconnaissance to support illegal activities](#item-16) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [CXMT Begins Mass Production of LPDDR6 Memory at 12.8 Gbps](https://www.techpowerup.com/352114/cxmt-officially-starts-mass-production-of-lpddr6-memory) ⭐️ 7.5/10
+## [Arbitrary Code Execution in QubesOS via qvm-copy-to-vm Error Reporting](https://www.qubes-os.org/news/2026/08/29/qsb-118/) ⭐️ 8.0/10
 
-CXMT has officially started high-volume mass production of LPDDR6 memory chips operating at speeds up to 12.8 Gbps, with Xiaomi confirmed as the first customer and its upcoming Xiaomi 18 Fold foldable smartphone slated to receive shipments before its September launch. This milestone positions CXMT among the first memory makers globally to mass-produce LPDDR6, intensifying competition with South Korean leaders Samsung and SK hynix and signaling that Chinese domestic DRAM is now on the leading edge of mobile memory technology rather than trailing by a generation. CXMT's LPDDR6 chips use a 16 Gb (2 GB) capacity die packaged in a package-on-package (POP) ball grid array with approximately 1,295 pins, and the early transition from risk production to mass production suggests very high wafer yields were achieved.
+A critical arbitrary code execution vulnerability (QSB-118) was disclosed in QubesOS, found in the `qvm-copy-to-vm` tool's error reporting mechanism, which calls `system()` and can be abused as a backchannel from the privileged Dom0 domain. Notably, the VM-side variant of the tool is not affected because its error reporting function does not use `system()`. This vulnerability is significant because QubesOS is a security-focused operating system used by high-value targets such as journalists, activists, and security professionals who rely on its compartmentalization architecture to protect sensitive workflows. Even though QubesOS is designed around minimizing the trusted computing base, a relatively mundane error-handling path using `system()` created a bridge for code execution back into Dom0, undermining core security assumptions. The flaw specifically affects the Dom0-side implementation of `qvm-copy-to-vm`, where error messages are constructed via `system()`, allowing attacker-controlled content to influence command execution. Because Dom0 has full control over all VMs, any code execution within it is catastrophic; QubesOS best practice already recommends not performing routine tasks in Dom0, which significantly limits the practical attack surface.
 
-rss · TechPowerUp News · Aug 29, 16:28
+hackernews · vntok · Aug 30, 08:51 · [Discussion](https://news.ycombinator.com/item?id=49496918)
 
-**Background**: LPDDR (Low Power Double Data Rate) memory is the standard DRAM used in smartphones, tablets, and other mobile devices where energy efficiency is critical. The LPDDR6 standard (JESD209-6) was published by JEDEC in July 2025 and is designed to significantly boost memory speed and efficiency for mobile devices and AI workloads. It succeeds LPDDR5X, which topped out at around 10.7 Gbps under heavy overclocking. CXMT (ChangXin Memory Technologies), founded in Hefei in 2016, is China's largest DRAM manufacturer and the world's fourth-largest producer with roughly 12% global bit shipment share. Risk production is the low-volume manufacturing phase in which full wafers are produced to validate performance and optimize yields before committing to high-volume mass production.
+**Background**: QubesOS is a security-oriented operating system that uses Xen-based virtualization to compartmentalize different activities into isolated virtual machines (qubes). Dom0 is the privileged administrative domain that manages all other VMs and has full access to them, making it the most security-sensitive component of the system. The `qvm-copy-to-vm` tool is commonly used to securely transfer files between qubes, with design features that sanitize content to prevent data leakage between compartments. The use of `system()` to format error messages—a pattern long discouraged by security-conscious projects like OpenBSD—created an unexpected vector for code execution.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.jedec.org/category/technology-focus-area/mobile-memory-lpddr-wide-io-memory-mcp">Low Power Memory: LPDDR - JEDEC</a></li>
-<li><a href="https://aiwiki.ai/wiki/cxmt">CXMT ( ChangXin Memory Technologies ) | AI Wiki</a></li>
-<li><a href="https://grokipedia.com/page/Risk_production_semiconductors">Risk production (semiconductors) — Grokipedia</a></li>
+<li><a href="https://doc.qubes-os.org/en/latest/user/how-to-guides/how-to-copy-from-dom0.html">How to copy from dom0 — Qubes OS Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LPDDR6`, `#CXMT`, `#DRAM`, `#memory`, `#semiconductor`
+**Discussion**: Commenters expressed surprise that even QubesOS, with its minimal attack surface, could harbor such a bug, while also noting that the vulnerability only affects Dom0 usage, which should be rare in normal operation. Several users referenced OpenBSD's Theo DeRaadt as a philosophical parallel on avoiding risky APIs, and others discussed founder Joanna Rutkowska's legacy and practical limitations like the lack of GPU acceleration. Overall sentiment remained positive about QubesOS despite the disclosure, with users reaffirming trust in its design philosophy.
+
+**Tags**: `#security`, `#qubesos`, `#vulnerability`, `#operating-systems`, `#exploit`
 
 ---
 
 <a id="item-2"></a>
-## [California Passes AB 1856, Exempting Open-Source from Age Verification Law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt) ⭐️ 7.5/10
+## [China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware](https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware) ⭐️ 7.5/10
 
-California's legislature unanimously passed Assembly Bill 1856, exempting open-source operating systems and software distributed under the GPL, MIT, BSD, and Apache licenses from the state's Digital Age Assurance Act, which is set to take effect on January 1, 2027. This unanimous passage protects the open-source ecosystem from potentially burdensome age-verification compliance requirements, setting a precedent for how age-verification laws interact with community-driven software distribution. Without this exemption, volunteer-maintained projects like Linux distributions could face impossible compliance burdens, threatening the viability of freely distributed open-source software. The exemption specifically covers open-source operating systems and software licensed under GPL, MIT, BSD, and Apache. The bill passed 69-0 in the Assembly, amending the broader Digital Age Assurance Act (AB-1043) that Governor Gavin Newsom signed into law on October 13, 2025, which would have required operating system providers and app developers to determine users' age brackets.
+CXMT, China's leading DRAM manufacturer, is suing the Pentagon to remove itself from the Chinese military companies blacklist, arguing its chips are standard JEDEC-spec civilian hardware.
 
-rss · Tom's Hardware · Aug 29, 15:57
+rss · Tom's Hardware · Aug 30, 11:30
 
-**Background**: The Digital Age Assurance Act (AB-1043), signed by California Governor Gavin Newsom on October 13, 2025, requires software application providers and operating system providers to implement age-verification mechanisms. The law takes effect January 1, 2027, and California joins Louisiana, Texas, and Utah in passing age-verification requirements for app developers in 2025. Open-source projects like Linux distributions are typically developed by community volunteers and distributed freely, making it practically infeasible for maintainers to embed age-verification systems into the software itself or act as gatekeepers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">California lawmakers unanimously pass Linux exemption from ...</a></li>
-<li><a href="https://www.phoronix.com/news/California-AB-1856-Passes">California Passes AB-1856 For Open-Source Relief Over Age ...</a></li>
-<li><a href="https://www.troutmanprivacy.com/2025/10/analyzing-californias-digital-age-assurance-act/">Analyzing California’s Digital Age Assurance Act</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The Phoronix report frames the passage as 'good news to the months of headaches' caused by concerns over the Digital Age Assurance Act's impact on the Linux and open-source world, indicating significant relief within the open-source community. AI Weekly highlights the lopsided 69-0 vote as evidence that lawmakers understood the practical impossibility of imposing age verification on community-driven open-source software.
-
-**Tags**: `#open-source`, `#legislation`, `#California`, `#Linux`, `#policy`
+**Tags**: `#semiconductors`, `#US-China-tech-war`, `#DRAM`, `#export-controls`, `#geopolitics`
 
 ---
 
 <a id="item-3"></a>
-## [US Navy launches missiles from its first drone sailboat — Saildrone Surveyor launches dual JAGM missiles, carrier strike group tests armed USV and electronic warfare](https://www.tomshardware.com/tech-industry/drones/us-navy-launches-missiles-from-its-first-drone-sailboat-saildrone-surveyor-launches-dual-jagm-missiles-carrier-strike-group-tests-armed-usv-and-electronic-warfare) ⭐️ 7.5/10
+## [Pixel 11 Drops Hardware MTE Support; Sony & Warner Sue Anthropic](https://www.solidot.org/story?sid=85233) ⭐️ 7.3/10
 
-The US Navy successfully tested a sail-powered autonomous drone boat that launched dual JAGM missiles in live-fire exercises in the Pacific.
-
-rss · Tom's Hardware · Aug 29, 10:00
-
-**Tags**: `#autonomous-systems`, `#military-technology`, `#unmanned-surface-vessel`, `#naval-warfare`, `#robotics`
-
----
-
-<a id="item-4"></a>
-## [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) ⭐️ 7.0/10
-
-Tencent releases and open-sources Hy4 preview, a competitive LLM with early-stage recursive self-improvement capabilities and aggressive pricing that has rapidly gained traction on OpenRouter.
-
-hackernews · shenli3514 · Aug 29, 19:33 · [Discussion](https://news.ycombinator.com/item?id=49492632)
-
-**Tags**: `#llm`, `#tencent`, `#open-source`, `#recursive-self-improvement`, `#model-release`
-
----
-
-<a id="item-5"></a>
-## [DHS Uses Obscure Customs Law to Secretly Obtain Records on Journalists and Non-Profits](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits) ⭐️ 7.0/10
-
-The U.S. Department of Homeland Security is increasingly invoking 19 USC §1509, an obscure 1930-era customs law, to issue administrative summonses demanding records on journalists, non-profits, and labor unions without judicial approval. In several cases, DHS has withdrawn the summonses after they were challenged in court, apparently to avoid a judicial ruling that could curtail the practice. This practice has direct implications for technology companies, ISPs, and cloud providers that receive government data requests, as well as for press freedom and civil liberties. It sets a precedent for expansive, judge-free surveillance that could chill investigative journalism and advocacy work, while placing the burden on private companies to decide whether to resist non-judicial demands. A §1509 summons carries no independent legal force—companies are not obligated to comply, and DHS must go to court to enforce one. Responses vary: T-Mobile handed over six months of phone records (over 10,000 calls/texts) for a journalist named Fort without her knowledge, while Google reportedly refused to comply, and the ACLU has filed complaints arguing the summons exceeds §1509's authority.
-
-hackernews · firefax · Aug 29, 18:44 · [Discussion](https://news.ycombinator.com/item?id=49492219)
-
-**Background**: 19 USC §1509 is a provision of the Tariff Act of 1930 originally designed to give customs authorities the power to summon documents related to import transactions and duty enforcement. Administrative subpoenas, unlike judicial subpoenas, allow federal agencies to compel the production of records without prior court approval, and Congress has significantly expanded such authority for agencies including the DEA, IRS, and DHS since the September 11 attacks. Critics argue that repurposing a trade-law provision for domestic surveillance of journalists and activists represents a dangerous mission creep beyond the statute's original intent.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits">Trump’s DHS is using an obscure law to secretly snoop... | The Guardian</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Administrative_subpoena">Administrative subpoena - Wikipedia</a></li>
-<li><a href="https://stateofsurveillance.org/news/dhs-tariff-act-customs-summons-canadian-ice-critic-google-data-2026/">DHS Uses a 96-Year-Old Trade Law to Hunt ICE Critics Online</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters emphasized that §1509 summonses are not self-enforcing and that companies bear significant responsibility when they comply without resistance. One user promoted a self-hosted email tool (tmailplus) for journalists seeking independence from centralized providers, while others noted the contrast between T-Mobile's compliance and Google's refusal. Several expressed alarm about authoritarian overreach, and one highlighted the scale of the DHS budget ($100bn) as evidence of the agency's enormous institutional power.
-
-**Tags**: `#privacy`, `#surveillance`, `#civil-liberties`, `#government-data-requests`, `#journalism-security`
-
----
-
-<a id="item-6"></a>
-## [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing) ⭐️ 7.0/10
-
-Analysis of Samsung's Processing-in-Memory (PIM) technology presented at Hot Chips 2026, discussing its architecture, tradeoffs, and applicability to memory-bound workloads like AI.
-
-hackernews · ingve · Aug 29, 06:06 · [Discussion](https://news.ycombinator.com/item?id=49487341)
-
-**Tags**: `#processing-in-memory`, `#samsung`, `#computer-architecture`, `#hardware`, `#AI-infrastructure`
-
----
-
-<a id="item-7"></a>
-## [Microsoft-backed $19.4B AI data center faces community backlash over unpermitted gas turbines](https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution) ⭐️ 6.5/10
-
-Community members surrounding the DataOne data center in Vineland, New Jersey — a $19.4 billion Microsoft-linked AI facility — have filed multiple complaints alleging the deployment of unpermitted gas turbines, a 1.5-million-gallon LNG tank, illegal construction, noise pollution, and potential water issues. The case highlights the growing regulatory and environmental tensions surrounding the rapid buildout of AI infrastructure, where hyperscale facilities are increasingly turning to on-site gas turbines to bypass grid capacity bottlenecks. It signals that local communities and regulators are beginning to push back against the environmental costs of the AI boom. The facility reportedly includes a 1.5-million-gallon LNG tank and multiple unpermitted gas turbines, with complaints ranging from alleged illegal construction to noise pollution and water concerns. On-site natural gas generation has become a common workaround for data centers unable to wait years for grid upgrades, as modern gas turbines run at approximately 50% efficiency.
-
-rss · Tom's Hardware · Aug 29, 11:00
-
-**Background**: AI data centers consume vastly more power than traditional facilities — a single hyperscale AI site can draw 100MW to 500MW, with some clusters exceeding the total electricity demand of entire mid-sized cities. Because grid interconnects often take years to develop, many operators are deploying on-site gas turbines as interim power solutions, running at roughly 50% efficiency and producing emissions and noise that directly affect surrounding communities.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://uspeglobal.com/articles/ai-data-center-power-requirements/">AI Data Center Power Requirements: Complete Capacity Guide</a></li>
-<li><a href="https://insidetowers.com/mobile-gas-turbines-provide-on-site-power-generation-for-data-centers/">Mobile Gas Turbines Provide On - Site Power Generation for Data ...</a></li>
-<li><a href="https://www.moduledge.com/blog/on-site-power-why-data-centers-are-done-waiting-for-the-grid">On - Site Power for Data Centers : Grid Independence in 2025</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#environmental impact`, `#Microsoft`, `#regulation`
-
----
-
-<a id="item-8"></a>
-## [Google Pixel 11 Drops Hardware MTE Support, a Security Regression](https://www.solidot.org/story?sid=85233) ⭐️ 6.3/10
-
-Google's upcoming Pixel 11 smartphone will drop hardware Memory Tagging Extension (MTE) support, a feature that has been present since the Pixel 8 launched in 2023. The security-focused Android fork GrapheneOS announced it cannot support the Pixel 11 as a result, and is now partnering with Motorola to release future security-focused phones based on the Snapdragon 8 Elite Gen 5 SoC, which does support hardware MTE. This is a notable security regression for a flagship Android phone, especially as Apple has moved in the opposite direction by default-enabling its Memory Integrity Enforcement (MIE) on the iPhone 17. GrapheneOS users and security-conscious Android buyers are directly affected, and Google risks ceding the mobile-security narrative to Apple. MTE is an ARMv8.5-A hardware feature that tags memory allocations with metadata to detect use-after-free and buffer-overflow bugs at runtime, supporting both SYNC (precise diagnostics) and ASYNC (lower overhead) modes. Neither stock Android nor Pixel OS has ever enabled MTE by default, but GrapheneOS auto-enables it for compatible apps and provides a per-app toggle; GrapheneOS explicitly recommends users buy the cheaper Pixel 8, 9, or 10 instead of the Pixel 11.
+GrapheneOS has discovered that Google's Pixel 11 removes hardware MTE (Memory Tagging Extension) support, making it unable to support the device and prompting a recommendation against purchase. Separately, Sony and Warner have sued Anthropic for allegedly using tens of thousands of copyrighted songs to train its Claude models, seeking up to $150,000 per infringed work in a case that could result in billions of dollars in damages. The Pixel 11's removal of MTE is a notable security regression, especially given that Apple's iPhone 17 enables memory integrity protection by default, marking a divergence in security philosophy between the two flagship platforms. The Anthropic lawsuit represents a landmark legal challenge that could reshape how AI companies handle copyrighted training data, with potential ripple effects across the entire generative AI industry. Google first supported hardware MTE starting with the Pixel 8 in 2023, but Android and Pixel OS never enabled it by default—GrapheneOS offered per-app toggles to enable MTE for compatible applications. Meanwhile, the Anthropic lawsuit alleges co-founder Benjamin Mann used BitTorrent to download over 5 million pirated books, and Anthropic employees downloaded over 2 million books from the Pirate Library Mirror, as well as scraped lyrics from licensed services like MusixMatch and LyricFind.
 
 rss · Solidot · Aug 29, 23:44
 
-**Background**: Memory safety bugs in native code (typically C and C++) are among the most common and dangerous software vulnerabilities, enabling exploits like use-after-free and buffer overflows. ARM's Memory Tagging Extension addresses these by associating small metadata tags with memory allocations and checking them on each access, catching bugs that would otherwise silently corrupt memory. Google's Pixel 8 (2023) was among the first Android phones to support MTE at the hardware level, and GrapheneOS is a privacy- and security-hardened open-source mobile OS built on AOSP that has leveraged MTE extensively to protect users from memory corruption attacks.
+**Background**: ARM Memory Tagging Extension (MTE) is a hardware security feature introduced in ARMv8.5-A that assigns tags to memory allocations, enabling the detection of buffer overflows, use-after-free bugs, and other memory safety violations. Apple's equivalent implementation, called Memory Integrity Enforcement (MIE) on iPhone 17, covers the kernel and over 70 userland processes by default. GrapheneOS is an open-source, privacy-focused mobile operating system built on AOSP, originally available only on Google Pixel devices but now expanding to Motorola hardware using Qualcomm's Snapdragon 8 Elite Gen 5 SoC, which supports hardware MTE. The Anthropic lawsuit joins a growing wave of copyright litigation against AI companies, similar to cases brought by authors and the New York Times against OpenAI and Microsoft.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.android.com/ndk/guides/arm-mte">Arm Memory Tagging Extension (MTE) - Android NDK Arm Memory Tagging Extension - Android Open Source Project Armv8.5-A Memory Tagging Extension - Arm Developer Delivering enhanced security through Memory Tagging Extension Introduction to Arm Memory Tagging Extensions :: Thore Göbel</a></li>
-<li><a href="https://grapheneos.org/features">Features overview - GrapheneOS</a></li>
+<li><a href="https://source.android.com/docs/security/test/memory-safety/arm-mte">Arm Memory Tagging Extension | Android Open Source Project</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS - Wikipedia</a></li>
 <li><a href="https://redact.dev/blog/iphone-17-memory-integrity-enforcement-explained">Memory Integrity Enforcement : iPhone 17 ’s Counter-Spyware System</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#android-security`, `#pixel-11`, `#arm-mte`, `#grapheneos`, `#mobile-hardware`
+**Tags**: `#android-security`, `#mte`, `#grapheneos`, `#anthropic`, `#copyright-lawsuit`
+
+---
+
+<a id="item-4"></a>
+## [Omarchy Linux: Any User Process Can Escalate to Root via Docker Group](https://0xcc.io/posts/omarchy-root-creds/) ⭐️ 7.0/10
+
+A security analysis published on 0xcc.io reveals that Omarchy's default configuration grants users membership in the Docker group, allowing any user process to trivially escalate privileges to root by mounting the host filesystem inside a container. The post also references a previously disclosed flaw (commit 9285b19d) in which Omarchy flowed raw USB descriptors directly into the shell, reinforcing concerns about systemic security weaknesses in the distribution. This matters because Omarchy is a high-profile, opinionated Arch-based distribution promoted by DHH (David Heinemeier Hansson) and has attracted significant hype from YouTube creators and developers. The default inclusion of users in the Docker group normalizes a configuration that effectively disables the user/root privilege boundary, undermining the security model that most users expect from a desktop operating system. The Docker group privilege escalation is a long-documented attack vector: a user in the docker group can run `docker run -v /:/mnt` to gain read/write access to the host's `/etc/passwd` and `/etc/shadow`, effectively becoming root. Omarchy's previous USB shell-injection flaw (where untrusted device descriptors were passed straight to shell evaluation) suggests a broader pattern of insufficient input sanitization rather than an isolated misconfiguration.
+
+hackernews · trap0xcc · Aug 30, 15:59 · [Discussion](https://news.ycombinator.com/item?id=49499854)
+
+**Background**: Omarchy is an opinionated Linux distribution built on top of Arch Linux and the Hyprland Wayland compositor, released by DHH on June 26, 2025, and positioned primarily as a developer environment. The broader concept of 'vibe coding' refers to AI-assisted development where code is generated largely through iterative LLM prompts with minimal manual review, and critics apply the term to entire distributions when such practices appear to shape system-level configuration. Membership in the Docker group has been a recognized privilege escalation vector for over a decade, because Docker's architecture inherently requires the daemon to operate with root-level control over the host — alternatives such as rootless Podman exist precisely to mitigate this risk.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Omarchy">Omarchy - Wikipedia</a></li>
+<li><a href="https://github.com/omacom/omarchy">GitHub - omacom/omarchy: Beautiful, Modern & Opinionated Linux · GitHub</a></li>
+<li><a href="https://www.securitum.com/privilege_escalation_through_docker_group_membership_and_sudo_backdoor.html">privilege escalation through Docker group membership</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters broadly agreed that adding users to the docker group is a well-known footgun, but one user (exitb) pushed back against framing it as Omarchy-specific since the misconfiguration is common elsewhere. mike_hearn argued this is largely 'security theatre' because Linux lacks proper desktop sandboxing, meaning a malicious process can still compromise the user regardless of root containment. Others recommended rootless Podman as a modern alternative and warned against adopting hyped, vibecoded distributions, noting that CachyOS faced similar scrutiny earlier. Multiple commenters suggested using vanilla Arch with archinstall rather than relying on opinionated wrapper layers.
+
+**Tags**: `#security`, `#linux`, `#privilege-escalation`, `#omarchy`, `#docker`
+
+---
+
+<a id="item-5"></a>
+## [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) ⭐️ 7.0/10
+
+Article on the escalating battle against AI scrapers through proof-of-work systems like Anubis, with expert community critique arguing that high-powered scrapers are better equipped to handle PoW challenges than legitimate users.
+
+hackernews · zdw · Aug 29, 17:49 · [Discussion](https://news.ycombinator.com/item?id=49491791)
+
+**Tags**: `#bot-detection`, `#proof-of-work`, `#ai-scraping`, `#web-security`, `#anubis`
+
+---
+
+<a id="item-6"></a>
+## [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) ⭐️ 7.0/10
+
+The European Commission's ProtectEU strategy revives efforts to mandate encryption backdoors for law enforcement access, raising concerns about privacy, security, and EU democratic accountability.
+
+hackernews · nickslaughter02 · Aug 30, 15:12 · [Discussion](https://news.ycombinator.com/item?id=49499394)
+
+**Tags**: `#encryption`, `#privacy`, `#EU-policy`, `#law-enforcement`, `#cybersecurity`
+
+---
+
+<a id="item-7"></a>
+## [Bug Blindness](https://danluu.com/bug-blind/) ⭐️ 7.0/10
+
+Dan Luu's analytical essay explores how developers and users can be 'blind' to bugs due to misaligned mental models with the system, illustrated through search, productivity tools, and other software examples.
+
+hackernews · davidmckenna · Aug 30, 00:21 · [Discussion](https://news.ycombinator.com/item?id=49494520)
+
+**Tags**: `#software-engineering`, `#ux`, `#debugging`, `#dan-luu`, `#cognitive-bias`
+
+---
+
+<a id="item-8"></a>
+## [SpaceX brings turbine blade manufacturing in-house to speed up AI data center power](https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months) ⭐️ 6.5/10
+
+SpaceX has begun manufacturing turbine blades and vanes in-house to address critical supply bottlenecks, a move the company says will cut generator delivery delays by up to 18 months for Elon Musk's AI data center power needs. This vertical integration move highlights the severe power supply bottleneck constraining AI infrastructure expansion and illustrates how companies are resorting to unconventional manufacturing strategies to secure energy capacity amid surging demand from AI workloads. A single set of roughly 40 advanced turbine blades can cost over $600,000 and require 60 to 90 weeks to manufacture due to precision machining and advanced materials requirements, which has kept the global gas turbine industry highly concentrated among a few players such as GE Vernova and Siemens Energy.
+
+rss · Tom's Hardware · Aug 30, 14:49
+
+**Background**: Gas turbines are increasingly being deployed as backup or primary power sources for AI data centers because they can be installed quickly and deliver large-scale, reliable electricity. The AI boom has driven unprecedented power demand, creating a multi-billion-dollar windfall for industrial gas turbine manufacturers while simultaneously exposing deep supply chain bottlenecks. Turbine blades and vanes are among the most complex components in a turbine engine, requiring precision casting or additive manufacturing, superalloy materials, and extensive quality assurance. Vertical integration, the practice of bringing previously outsourced production in-house, is a strategy companies use to reduce dependency on external suppliers, shorten lead times, and improve quality control.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.filtercoffee.co/stories/why-is-the-world-suddenly-short-on-gas-turbines">Why is the world suddenly short on gas turbines ? - Filter Coffee</a></li>
+<li><a href="https://www.squaredtech.co/ai-data-centers-are-driving-a-major-gas-turbine-boom">AI Data Centers Powering The Biggest Gas Turbine Boom In Yea</a></li>
+<li><a href="https://www.linkedin.com/pulse/ai-cybersecurity-from-ground-up-part-6-gas-turbines-brendan-cronin-vzvse">AI cybersecurity from the ground up - Part 6 ' Gas Turbines '</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI infrastructure`, `#data centers`, `#manufacturing`, `#SpaceX`, `#power generation`
 
 ---
 
 <a id="item-9"></a>
-## [Roman Space Telescope Launches with Fully Open 1.4TB/Day Data](https://science.nasa.gov/mission/roman-space-telescope/) ⭐️ 6.0/10
+## [DIY Archivists Use Budget Nikons and Neural Networks to Digitize 1,800 Rare Books](https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans) ⭐️ 6.5/10
 
-NASA's Nancy Grace Roman Space Telescope is scheduled to launch on a Falcon Heavy rocket, featuring wide-field infrared survey capabilities and a groundbreaking fully open data policy that makes up to 1.4TB/day of raw compressed data publicly available with no embargo. The mission was completed under budget and ahead of schedule. The mission represents a major infrastructure milestone for astronomy, as its wide-field imaging vastly outperforms Hubble's narrow field of view for large-scale survey tasks. Making all data immediately public democratizes access to cutting-edge astrophysical research in dark energy, exoplanets, and infrared sky surveys. The observatory was originally named WFIRST (Wide-Field Infrared Survey Telescope) and inherits heritage from the Joint Dark Energy Mission (JDEM) between NASA and the Department of Energy. Its design is reportedly adapted from an obsolete reconnaissance satellite, which community members credit for the under-budget, ahead-of-schedule performance. The Wide Field Instrument enables breakthrough science in dark energy cosmology, exoplanet microlensing, and near-infrared sky surveys.
+A team of DIY archivists pushed budget Nikon cameras to 902,000 shutter actuations to scan 1,800 rare books, producing 526,000 scans that were then processed using a neural network trained on human Photoshop edits. This project demonstrates how resourceful DIY approaches combined with custom machine learning can enable cultural heritage preservation at scale, offering a low-cost alternative to expensive institutional digitization efforts. The cameras were pushed to an extreme 902,000 shutter actuations — far beyond typical consumer camera lifespans — while the neural network was specifically trained on Photoshop edits to automate the labor-intensive post-processing of 526,000 scanned pages.
 
-hackernews · JumpCrisscross · Aug 29, 15:48 · [Discussion](https://news.ycombinator.com/item?id=49490870)
+rss · Tom's Hardware · Aug 30, 12:00
 
-**Background**: The Roman Space Telescope was recommended as the top priority for the next decade of astronomy by the 2010 Decadal Survey committee and approved for development in February 2016. Named after NASA's first chief astronomer Nancy Grace Roman, the observatory operates in the infrared spectrum, allowing it to peer through dust and detect cooler objects such as exoplanets and distant galaxies. Wide-field survey telescopes differ from targeted observatories like Hubble by imaging large swaths of the sky at once, making them ideal for statistical studies of cosmic populations rather than detailed close-ups of individual objects.
+**Background**: Shutter actuation count refers to the total number of times a camera's mechanical shutter has fired; consumer-grade cameras are typically rated for 100,000–300,000 actuations before the mechanism may fail, making 902,000 clicks exceptional stress testing. Neural networks are machine learning models that learn patterns from training data — in this case, the team fed the network pairs of raw scans and their human-edited Photoshop counterparts so it could learn to apply corrections automatically. Digitizing rare books is critical for preservation, as physical copies are vulnerable to deterioration, fire, and loss of access.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://science.nasa.gov/mission/roman-space-telescope/">Nancy Grace Roman Space Telescope - NASA Science</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope">Nancy Grace Roman Space Telescope - Wikipedia</a></li>
-<li><a href="https://roman.ipac.caltech.edu/event/roman-at-the-243rd-aas-meeting">Roman</a></li>
+<li><a href="https://countmyshutter.com/?ref">Camera Shutter Counter | Check Your DSLR Shutter Count</a></li>
+<li><a href="https://petapixel.com/camera-shutter-count/">How to Check Your Camera ’s Shutter Count | PetaPixel</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are enthusiastic about the fully open data policy, with several noting that any member of the public could realistically be the first person to see a newly discovered galaxy in the raw data. Discussion highlighted that Roman's wide field of view makes it vastly more productive than Hubble for survey tasks, and the under-budget, ahead-of-schedule completion was attributed to the spacecraft being a retrofit of an obsolete spy satellite. A recurring critique was that NASA should build duplicate copies of expensive flagship telescopes to hedge against single-launch failure, with one commenter noting that doing so would not even double total cost.
-
-**Tags**: `#space`, `#nasa`, `#astronomy`, `#open-data`, `#telescope`
+**Tags**: `#digital-preservation`, `#machine-learning`, `#computer-vision`, `#DIY-tech`, `#cultural-heritage`
 
 ---
 
 <a id="item-10"></a>
-## [Mara raises $7M pre-seed for backpack-portable drone interceptor Spike](https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones) ⭐️ 5.5/10
+## [Corsair RM1000e (2026) Review: Temperature-Sensing Cable Prevents GPU Connector Melting](https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review) ⭐️ 6.5/10
 
-San Francisco-based defense startup Mara has raised $7 million in a pre-seed round to develop Spike, an 8.8-ounce backpack-portable counter-drone interceptor system that the company claims offers a 20x cost advantage over existing interceptors and is priced on a one-for-one basis against attack drones. The proliferation of cheap attack drones on modern battlefields (especially in Ukraine) has made traditional air defense missiles economically untenable for many engagements. A low-cost, soldier-portable interceptor priced to match the threat it defeats could reshape force protection doctrine, though Mara's claims remain unverified and require independent testing. At just 8.8 ounces, Spike is designed to fit inside a standard backpack, prioritizing dismounted soldier use over vehicle-mounted or fixed-site counter-UAS solutions. The $7M pre-seed round is notably modest for a defense hardware company, suggesting the system is still in early development rather than near mass production; the 20x cost-advantage claim is sourced from the company itself rather than independently benchmarked.
+Corsair's 2026 RM1000e power supply delivers Platinum-class efficiency, a 500W fanless operation window, and a ThermalProtect 12V-2x6 cable that can shut down the GPU before the connector overheats. The ThermalProtect cable embeds Over Temperature Protection (OTP) sensing directly into its integrated cable comb as a last-line-of-defense safety mechanism. This addresses the persistent and well-documented problem of melting 12VHPWR/12V-2x6 connectors on high-wattage GPUs, which have caused fires and destroyed thousands of dollars in hardware. By adding an active thermal shutdown to the cable itself rather than relying solely on connector design improvements, Corsair is raising the bar for GPU power safety and may pressure other PSU makers to follow. The ThermalProtect cable has strict orientation requirements—the temperature sensor must face the GPU side of the connection in order to function correctly, which is a notable installation caveat. The cable is also sold separately as a standalone accessory and is compatible with any PSU that provides a native 12V-2x6 connector.
 
-rss · Tom's Hardware · Aug 29, 14:16
+rss · Tom's Hardware · Aug 30, 11:05
 
-**Background**: Counter-UAS (C-UAS) systems detect, track, and neutralize hostile unmanned aerial vehicles through methods ranging from jamming and spoofing to kinetic interception. Interceptor drones are a relatively recent category in this space — unmanned aircraft purpose-built to physically collide with, capture, or otherwise destroy enemy drones. Compared to conventional air defense missiles that can cost tens or hundreds of thousands of dollars per round, interceptor drones offer a far more cost-effective solution, particularly against the small commercial-style drones now common on battlefields. The economics of drone warfare have become a defining feature of recent conflicts, where a $500 quadcopter can threaten multimillion-dollar platforms.
+**Background**: The 12VHPWR (12-Volt High Power) connector is a 16-pin standard designed to deliver up to 600W to graphics cards, replacing older 8-pin PCIe power connectors for high-end GPUs. After widespread reports of connectors melting due to poor contact, uneven insertion, and manufacturing defects, the industry revised the standard to 12V-2x6, which is mechanically more durable and less prone to melting. However, melting incidents have continued to occur, prompting hardware vendors to add active safeguards such as thermal sensors and automatic shutdown circuits.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Interceptor_Drone">Interceptor drone - Wikipedia</a></li>
-<li><a href="https://interestingengineering.com/military/low-cost-drone-interceptor-systems">7 low-cost drone interceptor systems reshaping modern air defense</a></li>
-<li><a href="https://blog.kontekindustries.com/counter-uas-systems-explained">Counter-UAS Systems Explained: A Complete Guide to Drone Defense</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review">Corsair RM1000e (2026) ThermalProtect power... | Tom's Hardware</a></li>
+<li><a href="https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/corsair-thermalprotect-technical-overview/">Technical overview of the CORSAIR ThermalProtect 12V-2x6 cable</a></li>
+<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12 VHPWR - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#defense-tech`, `#drones`, `#startup`, `#counter-uas`, `#funding`
+**Tags**: `#hardware`, `#power-supply`, `#corsair`, `#gpu-safety`, `#pc-components`
 
 ---
 
 <a id="item-11"></a>
-## [Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first](https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first) ⭐️ 5.5/10
+## [Leaked DLSS 5 Runs on RTX 30-Series GPUs but Performance Collapses](https://www.techpowerup.com/352147/leaked-dlss-5-reaches-rtx-30-series-ampere-gpus-but-performance-falls-apart) ⭐️ 5.5/10
 
-Refund4Freedom, a portal by the Italian Linux Society and FSFE, provides legal forms and instructions for users to get up to $175 back for pre-installed Windows 11 licenses they don't want.
+Modders on the RenoDX Discord have ported a leaked build of DLSS 5's Neural Rendering technology onto unsupported RTX 30-series 'Ampere' GPUs, but the results are essentially unusable — an RTX 3070 laptop saw render latency skyrocket from ~29 ms to over 3,300 ms in Kingdom Come: Deliverance II, while an RTX 3080 dropped from ~130 FPS to just 4 FPS in Deep Rock Galactic, and RTX 3050/3060 Ti cards hovered near 1 FPS. This confirms that DLSS 5's Neural Rendering relies heavily on hardware features absent in Ampere, making any official backport to RTX 30-series extremely unlikely, and signaling NVIDIA's intent to lock the technology to newer architectures — it also shows the gap between Blackwell's capable RTX 40-series results and the catastrophic Ampere experience. The root cause is that Ampere lacks native FP8 (8-bit floating point) support, which the leaked DLSS 5 model relies on for its Tensor Core operations, forcing the GPU to emulate or fail at the precision DLSS 5 expects. Official DLSS 5 only supports RTX 50-series 'Blackwell' GPUs, and NVIDIA has not announced plans to add RTX 40-series support, let alone older generations.
 
-rss · Tom's Hardware · Aug 29, 11:39
+rss · TechPowerUp News · Aug 30, 16:43
 
-**Tags**: `#Windows`, `#Linux`, `#FOSS`, `#consumer-rights`, `#OS-bundling`
+**Background**: NVIDIA DLSS (Deep Learning Super Sampling) is a suite of neural rendering technologies powered by dedicated Tensor Cores on RTX GPUs, designed to boost frame rates by using AI to reconstruct higher-resolution images from lower-resolution renders. DLSS 5 is NVIDIA's latest generation, unveiled at GTC 2026, which uses a 'Neural Rendering' model to add photorealistic lighting and material effects in real time — a much heavier workload than previous DLSS upscaling. The RTX 30-series 'Ampere' architecture, launched in 2020, features 3rd-generation Tensor Cores that lack native FP8 throughput, unlike the newer RTX 40-series 'Ada Lovelace' and RTX 50-series 'Blackwell' architectures, which is why DLSS 5's compute demands cannot be met on these older cards.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ampere_(microarchitecture)">Ampere (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/">NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#nvidia`, `#dlss-5`, `#rtx-30-series`, `#gpu`, `#modding`
+
+---
+
+<a id="item-12"></a>
+## [SteamOS 3.9.0 Preview Released with KDE 6.7.3 and Linux Kernel 7.2](https://www.techpowerup.com/352133/steamos-3-9-0-preview-launches-with-kde-6-7-3-and-linux-kernel-7-2) ⭐️ 5.5/10
+
+Valve has released the SteamOS 3.9.0 Preview, upgrading Desktop Mode to KDE Plasma 6.7.3 (from 6.4.3) and updating the Linux kernel to version 7.2. The release follows a recent 3.8.26 beta patch that fixed numerous desktop and gaming mode bugs. This update brings meaningful component upgrades to Steam Deck and SteamOS users, particularly benefiting Intel Arc B390 iGPU performance and introducing USB4 device-to-device file sharing capabilities. It signals Valve's continued investment in refining the SteamOS desktop experience for both handheld and living-room use cases. The KDE 6.7.3 upgrade brings improved KRunner search functionality, clipboard pinning, and better drawing tablet support. Linux Kernel 7.2 reportedly adds a new Intel USB4Stream driver for low-latency device-to-device file sharing over USB4 and delivers notable Intel Arc B390 iGPU performance gains, while Valve has also made configuration changes to improve everyday usability.
+
+rss · TechPowerUp News · Aug 30, 05:14
+
+**Background**: SteamOS is a Linux-based operating system developed by Valve, designed to combine the stability of Linux with a gaming experience optimized for the big screen and handheld devices like the Steam Deck. KDE Plasma is a feature-rich desktop environment built around widgets that allows extensive customization of the user interface. KRunner is a built-in launcher tool in KDE Plasma (accessible via Alt+Space) that enables quick application launching, searching, and command execution, with extensible functionality through plugins called 'runners'.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://itsfoss.com/steamos/">What is SteamOS ? Everything You Need to Know</a></li>
+<li><a href="https://kde.org/plasma-desktop/">Plasma is KDE 's desktop environment . Simple by default, powerful...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#SteamOS`, `#Linux`, `#KDE`, `#Valve`, `#Gaming`
+
+---
+
+<a id="item-13"></a>
+## [Intel Officially Confirms LGA1954 Socket for Nova Lake-S Processors](https://www.techpowerup.com/352121/intel-confirms-lga1954-as-the-socket-for-nova-lake-s-processors-through-internal-tools) ⭐️ 5.5/10
+
+Intel has officially confirmed the LGA1954 socket for its upcoming Nova Lake-S Core Ultra 400 series desktop processors by publishing an internal validation test tool on its website that links LGA1954 to Nova Lake-S. This marks the first time Intel itself has officially associated the Nova Lake-S name with the new socket, replacing the current LGA1851. This confirmation gives PC builders and hardware enthusiasts certainty that Nova Lake-S will require new Intel 900-series motherboards, meaning current LGA1851 motherboards will not be compatible with the next-generation platform. It also signals another socket transition, which impacts upgrade costs and cooler compatibility planning. The LGA1954 socket will feature a 2L-ILM (two-lever independent loading mechanism) design that uses levers on each side of the CPU to ensure better contact flatness and reduce CPU bending. According to leaks, Nova Lake-S flagship SKUs could include up to 52 cores with bLLC cache up to 288 MB, and the platform is expected to use DMI Gen 5 x4 with the Z990 chipset.
+
+rss · TechPowerUp News · Aug 29, 20:46
+
+**Background**: Intel desktop CPUs use LGA (Land Grid Array) sockets, where the pins are located on the motherboard rather than the CPU itself. Each new generation of Intel desktop processors typically requires a new socket, which in turn requires a new motherboard. LGA1851 was introduced with the Arrow Lake / Core Ultra 200S series, and Nova Lake-S represents the next major architectural leap, expected to launch in Q1 2027. The 2L-ILM socket design is a response to past issues with CPU bending and uneven contact pressure seen on LGA1700 platforms.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://wccftech.com/roundup/intel-nova-lake-s/">Intel Nova Lake: Full Specs , Release Date & Lineup (Up to 52 Cores...)</a></li>
+<li><a href="https://www.hwcooling.net/en/nova-lake-to-feature-new-2l-ilm-socket-to-prevent-cpu-bending/">Nova Lake to feature new 2 L - ILM socket to prevent CPU bending</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#Nova Lake-S`, `#LGA1954`, `#CPU`, `#hardware`
+
+---
+
+<a id="item-14"></a>
+## [Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code](https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code) ⭐️ 5.5/10
+
+Veteran developers have created a native C-based PC port of Donkey Kong 64 with ultrawide support and uncapped framerates, notably without using generative AI.
+
+rss · Tom's Hardware · Aug 30, 14:26
+
+**Tags**: `#retro-gaming`, `#reverse-engineering`, `#pc-port`, `#donkey-kong-64`, `#cross-platform`
+
+---
+
+<a id="item-15"></a>
+## [Modders Solder Cables Directly to RTX 5090 PCB to Bypass Melting Connector](https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling) ⭐️ 5.5/10
+
+Brazilian YouTuber TecLab soldered power cables directly to an RTX 5090 PCB on a bare-board Galax HOF (Hall of Fame) card, bypassing the notorious 16-pin 12VHPWR connector entirely, with the card reportedly pulling 600W under chiller cooling. This extreme workaround underscores how severe and persistent NVIDIA's 16-pin connector melting issue remains two generations later, and highlights the community's frustration that the problem still has not been fully resolved even on the new RTX 5090 flagship. The mod creates what may be an even greater fire hazard than the melting connector itself, since hand-soldered wire connections on a high-current 600W load bypass all of the connector's safety and contact-design features. Galax HOF cards are specifically designed for overclocking enthusiasts and record-breaking challenges.
+
+rss · Tom's Hardware · Aug 30, 10:30
+
+**Background**: The 16-pin 12VHPWR connector was introduced with the RTX 4090 to deliver higher power to GPUs through a single cable, but it quickly became infamous for melting incidents often linked to improper insertion or contact issues. RTX 5090 cards continue to use this connector standard, and reports of melting have persisted into the new generation. Galax's Hall of Fame (HOF) line is a premium series built for extreme overclocking, which is why TecLab paired the soldering mod with a chiller cooling setup to sustain the card's 600W power draw.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/news/rtx-4090-16-pin-connector-melted-after-one-year-of-usage">RTX 4090's 16 - Pin Connector Melted After One... | Tom's Hardware</a></li>
+<li><a href="https://galax.com/en/category/graphics-cards/hall-of-fame-series/">Hall of Fame ( HOF ) - GALAX</a></li>
+<li><a href="https://ww-article-cache-1.s3.amazonaws.com/en/16-pin_12VHPWR_connector">ww-article-cache-1.s3.amazonaws.com/en/ 16 - pin _ 12 VHPWR ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#RTX 5090`, `#GPU modding`, `#hardware issues`, `#16-pin connector`, `#PC hardware`
+
+---
+
+<a id="item-16"></a>
+## [US military uses high-energy lasers to shoot down three Mexican cartel drones over the southern border — narcos suspected of using UAVs for surveillance and reconnaissance to support illegal activities](https://www.tomshardware.com/tech-industry/drones/us-military-uses-high-energy-lasers-to-shoot-down-three-mexican-cartel-drones-over-the-southern-border-narcos-suspected-of-using-uavs-for-surveillance-and-reconnaissance-to-support-illegal-activities) ⭐️ 5.5/10
+
+The US military used high-energy laser systems to shoot down three Mexican cartel drones conducting surveillance over the southern border.
+
+rss · Tom's Hardware · Aug 30, 10:00
+
+**Tags**: `#directed-energy-weapons`, `#counter-UAS`, `#defense-technology`, `#drones`, `#military`
 
 ---

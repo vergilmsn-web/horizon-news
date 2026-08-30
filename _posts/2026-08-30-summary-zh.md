@@ -5,224 +5,309 @@ date: 2026-08-30
 lang: zh
 ---
 
-> 从 37 条内容中筛选出 11 条重要资讯。
+> 从 39 条内容中筛选出 16 条重要资讯。
 
 ---
 
-1. [长鑫存储（CXMT）正式启动 LPDDR6 内存量产，速度达 12.8 Gbps](#item-1) ⭐️ 7.5/10
-2. [加州通过 AB 1856 法案，豁免开源软件年龄验证要求](#item-2) ⭐️ 7.5/10
-3. [美国海军首次从无人驾驶帆船发射导弹——Saildrone Surveyor 发射双联装 JAGM 导弹，航母打击群测试武装无人水面艇与电子战能力](#item-3) ⭐️ 7.5/10
-4. [Hy4 预览版](#item-4) ⭐️ 7.0/10
-5. [美国国土安全部利用冷门海关法秘密获取记者和非营利组织记录](#item-5) ⭐️ 7.0/10
-6. [三星存内计算（PIM）技术](#item-6) ⭐️ 7.0/10
-7. [微软支持的 194 亿美元 AI 数据中心因未获许可的燃气轮机遭社区反对](#item-7) ⭐️ 6.5/10
-8. [Google Pixel 11 取消硬件 MTE 支持，安全性出现倒退](#item-8) ⭐️ 6.3/10
-9. [罗曼空间望远镜发射，每天 1.4TB 数据完全公开](#item-9) ⭐️ 6.0/10
-10. [Mara 完成 700 万美元种子前融资，开发背包便携式无人机拦截器 Spike](#item-10) ⭐️ 5.5/10
-11. [预装 Windows 11 许可证可获最高 175 美元退款——新门户提供法律表格，但提醒买家不要先擦除存储](#item-11) ⭐️ 5.5/10
+1. [QubesOS 通过 qvm-copy-to-vm 错误报告机制实现任意代码执行](#item-1) ⭐️ 8.0/10
+2. [China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware](#item-2) ⭐️ 7.5/10
+3. [Pixel 11 取消硬件 MTE 支持；索尼和华纳起诉 Anthropic](#item-3) ⭐️ 7.3/10
+4. [Omarchy Linux：任何用户进程可通过 Docker 组提权至 Root](#item-4) ⭐️ 7.0/10
+5. [爬虫来袭](#item-5) ⭐️ 7.0/10
+6. [欧盟委员会在"保护欧盟"战略中重提加密后门要求](#item-6) ⭐️ 7.0/10
+7. [Bug 盲点](#item-7) ⭐️ 7.0/10
+8. [SpaceX 将涡轮叶片制造转为内部生产，加速 AI 数据中心电力部署](#item-8) ⭐️ 6.5/10
+9. [DIY 档案员用平价尼康相机和神经网络数字化 1800 本珍稀书籍](#item-9) ⭐️ 6.5/10
+10. [海盗船 RM1000e（2026）评测：温感线缆防止 GPU 接口熔毁](#item-10) ⭐️ 6.5/10
+11. [泄露版 DLSS 5 成功运行于 RTX 30 系显卡，但性能严重崩溃](#item-11) ⭐️ 5.5/10
+12. [SteamOS 3.9.0 预览版发布，搭载 KDE 6.7.3 和 Linux 内核 7.2](#item-12) ⭐️ 5.5/10
+13. [Intel 官方确认 Nova Lake-S 处理器将采用 LGA1954 插槽](#item-13) ⭐️ 5.5/10
+14. [《大金刚 64》终于迎来完全原生的 C 语言 PC 移植版 —— DK64 ReKONGpiled 带来超宽屏支持、无帧率上限以及零 AI 代码](#item-14) ⭐️ 5.5/10
+15. [玩家直接将电源线焊接到 RTX 5090 PCB 上以绕过烧毁的 16 针接口](#item-15) ⭐️ 5.5/10
+16. [美国军方在南边境使用高能激光击落三架墨西哥贩毒集团无人机——毒贩涉嫌使用无人机进行监视和侦察以支持非法活动](#item-16) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [长鑫存储（CXMT）正式启动 LPDDR6 内存量产，速度达 12.8 Gbps](https://www.techpowerup.com/352114/cxmt-officially-starts-mass-production-of-lpddr6-memory) ⭐️ 7.5/10
+## [QubesOS 通过 qvm-copy-to-vm 错误报告机制实现任意代码执行](https://www.qubes-os.org/news/2026/08/29/qsb-118/) ⭐️ 8.0/10
 
-长鑫存储（CXMT）已正式启动 LPDDR6 内存芯片的大规模量产，速度最高可达 12.8 Gbps。小米已确认为其首位客户，即将发布的 Xiaomi 18 Fold 折叠屏手机将在 9 月上市前获得首批交付。 这一里程碑使长鑫存储跻身全球首批量产 LPDDR6 的内存厂商之列，加剧了与韩国三星和 SK 海力士的竞争，也表明中国国产 DRAM 已在移动内存技术上进入前沿行列，不再落后一代。 长鑫存储的 LPDDR6 芯片采用单颗 16 Gb（2 GB）容量晶粒，封装在拥有约 1,295 个引脚的球栅阵列（POP）封装中。从风险量产到大规模量产的快速过渡表明其晶圆良率已达到相当高的水平。
+QubesOS 披露了一个严重的任意代码执行漏洞（QSB-118），存在于 `qvm-copy-to-vm` 工具的错误报告机制中，该机制调用了 `system()`，可被利用作为从特权域 Dom0 的反向通道。值得注意的是，VM 端的该工具变体不受影响，因为其错误报告函数未使用 `system()`。 该漏洞意义重大，因为 QubesOS 是一款以安全为核心的操作系统，被记者、活动人士和安全专业人员等高价值目标用户所依赖，他们依靠其隔离架构来保护敏感工作流。尽管 QubesOS 围绕最小化可信计算基进行设计，但一个相对普通的错误处理路径使用 `system()`，为代码执行回流到 Dom0 搭建了桥梁，动摇了核心安全假设。 该漏洞特指影响 `qvm-copy-to-vm` 在 Dom0 端的实现，其错误消息通过 `system()` 构造，允许攻击者控制的内容影响命令执行。由于 Dom0 对所有虚拟机拥有完全控制权，其内部的任何代码执行都是灾难性的；QubesOS 的最佳实践已建议不要在 Dom0 中执行日常操作，这大大限制了实际攻击面。
 
-rss · TechPowerUp News · 8月29日 16:28
+hackernews · vntok · 8月30日 08:51 · [社区讨论](https://news.ycombinator.com/item?id=49496918)
 
-**背景**: LPDDR（低功耗双倍数据速率）内存是智能手机、平板电脑及其他对能效要求严格的移动设备所采用的标准 DRAM。LPDDR6 标准（JESD209-6）由 JEDEC 于 2025 年 7 月正式发布，旨在显著提升面向移动设备和 AI 工作负载的内存速度与能效。它是 LPDDR5X 的继任者，后者在重度超频下速度上限约为 10.7 Gbps。长鑫存储（CXMT）成立于 2016 年，总部位于合肥，是中国最大的 DRAM 制造商，也是全球第四大 DRAM 厂商，约占全球比特出货量的 12%。风险量产是半导体制造中的小批量生产阶段，通过完整晶圆的生产来验证性能并优化良率，随后再进入大规模量产。
+**背景**: QubesOS 是一款以安全为核心的操作系统，它使用基于 Xen 的虚拟化技术将不同活动隔离到独立的虚拟机（称为 qube）中。Dom0 是特权管理域，负责管理所有其他虚拟机并拥有对它们的完全访问权，是整个系统中安全敏感度最高的组件。`qvm-copy-to-vm` 工具通常用于在 qube 之间安全传输文件，其设计特性会对内容进行清理以防止数据跨隔室泄露。使用 `system()` 来格式化错误消息——这一模式早已被 OpenBSD 等注重安全的项目所摒弃——却意外地创造了代码执行的攻击路径。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.jedec.org/category/technology-focus-area/mobile-memory-lpddr-wide-io-memory-mcp">Low Power Memory: LPDDR - JEDEC</a></li>
-<li><a href="https://aiwiki.ai/wiki/cxmt">CXMT ( ChangXin Memory Technologies ) | AI Wiki</a></li>
-<li><a href="https://grokipedia.com/page/Risk_production_semiconductors">Risk production (semiconductors) — Grokipedia</a></li>
+<li><a href="https://doc.qubes-os.org/en/latest/user/how-to-guides/how-to-copy-from-dom0.html">How to copy from dom0 — Qubes OS Documentation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LPDDR6`, `#CXMT`, `#DRAM`, `#memory`, `#semiconductor`
+**社区讨论**: 评论者对即使是攻击面极小的 QubesOS 也会出现此类漏洞表示惊讶，同时也指出该漏洞仅影响 Dom0 使用场景，在正常操作中这种情况应该很少见。多位用户引用了 OpenBSD 的 Theo DeRaadt 作为避免使用危险 API 的哲学先例，另一些用户则讨论了创始人 Joanna Rutkowska 的遗产以及缺乏 GPU 加速等实际局限性。尽管发生了此次披露，整体情绪仍对 QubesOS 保持积极，用户重申对其设计理念的信任。
+
+**标签**: `#security`, `#qubesos`, `#vulnerability`, `#operating-systems`, `#exploit`
 
 ---
 
 <a id="item-2"></a>
-## [加州通过 AB 1856 法案，豁免开源软件年龄验证要求](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt) ⭐️ 7.5/10
+## [China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware](https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware) ⭐️ 7.5/10
 
-加州立法机构全票通过第 1856 号议会法案（AB 1856），将根据 GPL、MIT、BSD 和 Apache 许可证分发的开源操作系统和软件豁免于该州的《数字年龄保障法》（Digital Age Assurance Act），该法律将于 2027 年 1 月 1 日生效。 此次全票通过保护了开源生态系统免受繁重的年龄验证合规要求的困扰，为年龄验证法律与社区驱动的软件分发之间的互动树立了先例。如果没有这项豁免，像 Linux 发行版这样由志愿者维护的项目可能面临不可能完成的合规负担，从而威胁到自由分发的开源软件的生存能力。 该豁免特别涵盖 GPL、MIT、BSD 和 Apache 许可证下的开源操作系统和软件。该法案在众议院以 69 票对 0 票获得通过，是对州长 Gavin Newsom 于 2025 年 10 月 13 日签署的更广泛的《数字年龄保障法》（AB-1043）的修订；原法律要求操作系统提供商和应用程序开发者确定用户的年龄区间。
+CXMT, China's leading DRAM manufacturer, is suing the Pentagon to remove itself from the Chinese military companies blacklist, arguing its chips are standard JEDEC-spec civilian hardware.
 
-rss · Tom's Hardware · 8月29日 15:57
+rss · Tom's Hardware · 8月30日 11:30
 
-**背景**: 由加州州长 Gavin Newsom 于 2025 年 10 月 13 日签署的《数字年龄保障法》（AB-1043）要求软件应用程序提供商和操作系统提供商实施年龄验证机制。该法律将于 2027 年 1 月 1 日生效，加州成为 2025 年继路易斯安那州、德克萨斯州和犹他州之后通过应用程序开发者年龄验证要求的又一个州。像 Linux 发行版这样的开源项目通常由社区志愿者开发并自由分发，这使得维护者在软件中嵌入年龄验证系统实际上不可行，也无法充当守门人。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">California lawmakers unanimously pass Linux exemption from ...</a></li>
-<li><a href="https://www.phoronix.com/news/California-AB-1856-Passes">California Passes AB-1856 For Open-Source Relief Over Age ...</a></li>
-<li><a href="https://www.troutmanprivacy.com/2025/10/analyzing-californias-digital-age-assurance-act/">Analyzing California’s Digital Age Assurance Act</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: Phoronix 的报道将此次通过称为对《数字年龄保障法》对 Linux 和开源世界影响引发"数月头痛"的"好消息"，反映出开源社区的重大宽慰。AI Weekly 强调 69 票对 0 票一边倒的投票结果，表明立法者理解对社区驱动的开源软件施加年龄验证要求的实际不可行性。
-
-**标签**: `#open-source`, `#legislation`, `#California`, `#Linux`, `#policy`
+**标签**: `#semiconductors`, `#US-China-tech-war`, `#DRAM`, `#export-controls`, `#geopolitics`
 
 ---
 
 <a id="item-3"></a>
-## [美国海军首次从无人驾驶帆船发射导弹——Saildrone Surveyor 发射双联装 JAGM 导弹，航母打击群测试武装无人水面艇与电子战能力](https://www.tomshardware.com/tech-industry/drones/us-navy-launches-missiles-from-its-first-drone-sailboat-saildrone-surveyor-launches-dual-jagm-missiles-carrier-strike-group-tests-armed-usv-and-electronic-warfare) ⭐️ 7.5/10
+## [Pixel 11 取消硬件 MTE 支持；索尼和华纳起诉 Anthropic](https://www.solidot.org/story?sid=85233) ⭐️ 7.3/10
 
-美国海军在太平洋实弹演习中成功测试了一艘由风帆驱动的自主无人驾驶帆船，该船发射了双联装 JAGM 导弹。
-
-rss · Tom's Hardware · 8月29日 10:00
-
-**标签**: `#autonomous-systems`, `#military-technology`, `#unmanned-surface-vessel`, `#naval-warfare`, `#robotics`
-
----
-
-<a id="item-4"></a>
-## [Hy4 预览版](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) ⭐️ 7.0/10
-
-腾讯发布并开源了 Hy4 预览版，这是一款具有早期递归自我改进能力且定价激进的大语言模型，在 OpenRouter 上迅速获得关注。
-
-hackernews · shenli3514 · 8月29日 19:33 · [社区讨论](https://news.ycombinator.com/item?id=49492632)
-
-**标签**: `#llm`, `#tencent`, `#open-source`, `#recursive-self-improvement`, `#model-release`
-
----
-
-<a id="item-5"></a>
-## [美国国土安全部利用冷门海关法秘密获取记者和非营利组织记录](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits) ⭐️ 7.0/10
-
-美国国土安全部越来越多地援引一项冷门的 1930 年海关法（19 USC §1509），无需司法批准即可签发行政传票，要求获取记者、非营利组织和工会组织的记录。在多起案件中，国土安全部在被法院质疑后撤回了传票，显然是为了避免法院做出可能限制该做法的裁决。 这一做法对科技公司、互联网服务提供商和收到政府数据请求的云服务提供商，以及新闻自由和公民权利都具有直接影响。它开创了一种无需法官批准即可进行大规模监控的先例，可能压制调查性新闻和倡导工作，同时将抵制非司法要求的责任转嫁给私营企业。 第 1509 条传票本身不具备独立的法律效力——企业没有义务配合，国土安全部必须通过法院才能强制执行。各公司反应不一：T-Mobile 在记者 Fort 不知情的情况下交出了她六个月的通话记录（超过 10,000 条通话和短信），而据报道 Google 拒绝配合，美国公民自由联盟（ACLU）已提起投诉，辩称该传票超出了第 1509 条的授权范围。
-
-hackernews · firefax · 8月29日 18:44 · [社区讨论](https://news.ycombinator.com/item?id=49492219)
-
-**背景**: 《美国法典》第 19 卷第 1509 条是 1930 年《关税法》的一项条款，最初旨在赋予海关当局传唤与进口交易及关税征收相关文件的权力。与司法传票不同，行政传票允许联邦机构无需法院事先批准即可强制获取记录，自 9/11 事件以来，国会已大幅扩大了包括缉毒局、国税局和国土安全部在内的多个机构的此类权力。批评者认为，将贸易法条款重新用于对记者和活动人士的国内监控代表了危险的任务越界，超出了该法规的原始意图。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits">Trump’s DHS is using an obscure law to secretly snoop... | The Guardian</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Administrative_subpoena">Administrative subpoena - Wikipedia</a></li>
-<li><a href="https://stateofsurveillance.org/news/dhs-tariff-act-customs-summons-canadian-ice-critic-google-data-2026/">DHS Uses a 96-Year-Old Trade Law to Hunt ICE Critics Online</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者强调，第 1509 条传票并非自动具有强制力，企业在不加抵抗的情况下配合时应承担重大责任。一位用户推广了一款面向记者的自托管邮件工具（tmailplus），帮助他们摆脱对中心化服务提供商的依赖；其他人则注意到 T-Mobile 的配合与 Google 的拒绝形成了鲜明对比。多名用户对威权主义的越权行为表示警惕，其中一位用户强调国土安全部高达 1000 亿美元的预算规模，体现了该机构巨大的制度权力。
-
-**标签**: `#privacy`, `#surveillance`, `#civil-liberties`, `#government-data-requests`, `#journalism-security`
-
----
-
-<a id="item-6"></a>
-## [三星存内计算（PIM）技术](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing) ⭐️ 7.0/10
-
-对三星在 Hot Chips 2026 上展示的存内计算（PIM）技术的分析，探讨其架构设计、权衡取舍，以及在人工智能等内存受限型工作负载中的适用性。
-
-hackernews · ingve · 8月29日 06:06 · [社区讨论](https://news.ycombinator.com/item?id=49487341)
-
-**标签**: `#processing-in-memory`, `#samsung`, `#computer-architecture`, `#hardware`, `#AI-infrastructure`
-
----
-
-<a id="item-7"></a>
-## [微软支持的 194 亿美元 AI 数据中心因未获许可的燃气轮机遭社区反对](https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution) ⭐️ 6.5/10
-
-新泽西州 Vineland 的 DataOne 数据中心是一个由微软支持的 194 亿美元 AI 设施，周边社区居民提出了多项投诉，指控其部署了未获许可的燃气轮机、一个 150 万加仑的液化天然气储罐、非法施工、噪音污染以及潜在的水资源问题。 此案凸显了在 AI 基础设施快速建设过程中日益加剧的监管和环境矛盾，超大规模数据中心越来越多地转向使用现场燃气轮机以绕过电网容量瓶颈。这表明当地社区和监管机构正开始对 AI 繁荣所带来的环境成本进行抵制。 据报道，该设施包括一个 150 万加仑的液化天然气储罐和多台未获许可的燃气轮机，投诉内容涵盖涉嫌非法施工、噪音污染以及水资源问题。现场天然气发电已成为无法等待多年电网升级的数据中心的常见替代方案，因为现代燃气轮机的效率约为 50%。
-
-rss · Tom's Hardware · 8月29日 11:00
-
-**背景**: AI 数据中心的电力消耗远超传统设施——单个超大规模 AI 站点可消耗 100MW 至 500MW 的电力，某些集群的用电量甚至超过中等城市总需求。由于电网互联设施往往需要数年才能建成，许多运营商正在部署现场燃气轮机作为临时供电方案，其效率约为 50%，但所产生的排放和噪音会直接影响周边社区。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://uspeglobal.com/articles/ai-data-center-power-requirements/">AI Data Center Power Requirements: Complete Capacity Guide</a></li>
-<li><a href="https://insidetowers.com/mobile-gas-turbines-provide-on-site-power-generation-for-data-centers/">Mobile Gas Turbines Provide On - Site Power Generation for Data ...</a></li>
-<li><a href="https://www.moduledge.com/blog/on-site-power-why-data-centers-are-done-waiting-for-the-grid">On - Site Power for Data Centers : Grid Independence in 2025</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI infrastructure`, `#data centers`, `#environmental impact`, `#Microsoft`, `#regulation`
-
----
-
-<a id="item-8"></a>
-## [Google Pixel 11 取消硬件 MTE 支持，安全性出现倒退](https://www.solidot.org/story?sid=85233) ⭐️ 6.3/10
-
-Google 即将推出的 Pixel 11 智能手机将取消硬件内存标记扩展（MTE）支持，而该功能自 2023 年发布的 Pixel 8 起就已搭载。专注于安全的 Android 分支 GrapheneOS 宣布因此无法支持 Pixel 11，并已与摩托罗拉合作，基于支持硬件 MTE 的高通骁龙 8 Elite Gen 5 芯片推出未来的安全导向手机。 对于一款旗舰 Android 手机而言，这是一次显著的安全功能倒退；与此同时，苹果在 iPhone 17 上默认启用了其内存完整性强制（MIE），方向正好相反。GrapheneOS 用户和安全意识较强的 Android 买家将直接受到影响，Google 有可能在移动安全话语权上输给苹果。 MTE 是 ARMv8.5-A 架构的硬件特性，通过为内存分配打标签来在运行时检测 use-after-free 和缓冲区溢出等漏洞，支持 SYNC（精确诊断）和 ASYNC（低开销）两种模式。原生 Android 和 Pixel OS 从未默认启用 MTE，但 GrapheneOS 会自动为兼容的应用启用，并提供逐应用开关；GrapheneOS 明确建议用户购买更便宜的 Pixel 8、9 或 10，而不是 Pixel 11。
+GrapheneOS 发现 Google 的 Pixel 11 取消了对硬件 MTE（内存标记扩展）的支持，导致该项目无法支持该设备并建议用户不要购买。与此同时，索尼和华纳已对 Anthropic 提起诉讼，指控其使用数万首受版权保护的歌曲训练 Claude 模型，每部侵权作品索赔最高 15 万美元，案件最终赔偿可能高达数十亿美元。 Pixel 11 取消 MTE 是一次显著的安全倒退，尤其是在苹果 iPhone 17 默认启用内存完整性保护的情况下，这标志着两大旗舰平台在安全理念上的分歧。Anthropic 诉讼案是一项里程碑式的法律挑战，可能重塑 AI 公司处理受版权保护训练数据的方式，并对整个生成式 AI 行业产生深远影响。 Google 从 2023 年发布的 Pixel 8 起开始支持硬件 MTE，但 Android 和 Pixel OS 从未默认启用——GrapheneOS 为每个应用提供开关以启用 MTE。同时，Anthropic 诉讼指控联合创始人 Benjamin Mann 使用 BitTorrent 下载了超过 500 万本盗版书籍，Anthropic 员工从 Pirate Library Mirror 下载了超过 200 万本书，并从 MusixMatch 和 LyricFind 等授权服务抓取歌词。
 
 rss · Solidot · 8月29日 23:44
 
-**背景**: 原生代码（通常是 C 和 C++）中的内存安全漏洞是最常见且最危险的软件漏洞之一，可被利用来实现 use-after-free 和缓冲区溢出等攻击。ARM 的内存标记扩展通过为内存分配关联小型元数据标签，并在每次访问时进行检查，从而捕获这些会悄无声息破坏内存的缺陷。Google 的 Pixel 8（2023 年）是首批在硬件层面支持 MTE 的 Android 手机之一；GrapheneOS 则是基于 AOSP 构建的、注重隐私与安全加固的开源移动操作系统，已广泛利用 MTE 来保护用户免受内存破坏攻击。
+**背景**: ARM 内存标记扩展（MTE）是 ARMv8.5-A 架构引入的硬件安全特性，通过为内存分配打标签来检测缓冲区溢出、释放后使用和其他内存安全漏洞。苹果在 iPhone 17 上推出的等效实现称为 Memory Integrity Enforcement（MIE），默认覆盖内核和超过 70 个用户态进程。GrapheneOS 是一个基于 AOSP 构建的注重隐私的开源移动操作系统，最初仅支持 Google Pixel 设备，但现在正扩展到使用高通骁龙 8 Elite Gen 5 芯片的摩托罗拉硬件，该芯片支持硬件 MTE。Anthropic 诉讼案是针对 AI 公司版权诉讼浪潮的一部分，类似于作者群体和《纽约时报》对 OpenAI 和微软提起的诉讼。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://developer.android.com/ndk/guides/arm-mte">Arm Memory Tagging Extension (MTE) - Android NDK Arm Memory Tagging Extension - Android Open Source Project Armv8.5-A Memory Tagging Extension - Arm Developer Delivering enhanced security through Memory Tagging Extension Introduction to Arm Memory Tagging Extensions :: Thore Göbel</a></li>
-<li><a href="https://grapheneos.org/features">Features overview - GrapheneOS</a></li>
+<li><a href="https://source.android.com/docs/security/test/memory-safety/arm-mte">Arm Memory Tagging Extension | Android Open Source Project</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS - Wikipedia</a></li>
 <li><a href="https://redact.dev/blog/iphone-17-memory-integrity-enforcement-explained">Memory Integrity Enforcement : iPhone 17 ’s Counter-Spyware System</a></li>
 
 </ul>
 </details>
 
-**标签**: `#android-security`, `#pixel-11`, `#arm-mte`, `#grapheneos`, `#mobile-hardware`
+**标签**: `#android-security`, `#mte`, `#grapheneos`, `#anthropic`, `#copyright-lawsuit`
+
+---
+
+<a id="item-4"></a>
+## [Omarchy Linux：任何用户进程可通过 Docker 组提权至 Root](https://0xcc.io/posts/omarchy-root-creds/) ⭐️ 7.0/10
+
+0xcc.io 发布的安全分析显示，Omarchy 的默认配置将用户加入 Docker 组，导致任何用户进程只需在容器内挂载宿主机文件系统即可轻易提权至 root。该文章还引用了此前披露的一个缺陷（commit 9285b19d），即 Omarchy 将原始 USB 描述符直接传入 shell，进一步加剧了人们对该发行版系统性安全问题的担忧。 此事值得关注，因为 Omarchy 是由 DHH（David Heinemeier Hansson）力推的、备受关注的基于 Arch 的定制发行版，在 YouTube 博主和开发者群体中引发了大量追捧。默认将用户加入 Docker 组的做法使得用户与 root 之间的权限边界形同虚设，破坏了大多数用户对桌面操作系统安全模型的预期。 Docker 组提权是一个长期被记录的经典攻击路径：属于 docker 组的用户只需执行 `docker run -v /:/mnt` 即可对宿主机的 `/etc/passwd` 和 `/etc/shadow` 进行读写操作，等同于获得 root 权限。Omarchy 此前的 USB shell 注入缺陷（将不可信的设备描述符直接传入 shell 执行）表明，问题可能不仅是单一的误配置，而反映出更广泛的输入验证不足问题。
+
+hackernews · trap0xcc · 8月30日 15:59 · [社区讨论](https://news.ycombinator.com/item?id=49499854)
+
+**背景**: Omarchy 是基于 Arch Linux 和 Hyprland Wayland 合成器构建的一款定制 Linux 发行版，由 DHH 于 2025 年 6 月 26 日发布，主要定位为开发者环境。所谓“vibe coding”（氛围编程）是指通过迭代式 LLM 提示词生成代码、而人工审查极少的 AI 辅助开发方式；当这种做法延伸到系统级配置时，批评者便将整个发行版称为“vibecoded”。Docker 组提权作为一个已知的权限提升路径已存在十多年，原因在于 Docker 守护进程本身需要对宿主机拥有 root 级控制能力——无 root 模式下的 Podman 等替代方案正是为了缓解这一风险而出现的。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Omarchy">Omarchy - Wikipedia</a></li>
+<li><a href="https://github.com/omacom/omarchy">GitHub - omacom/omarchy: Beautiful, Modern & Opinionated Linux · GitHub</a></li>
+<li><a href="https://www.securitum.com/privilege_escalation_through_docker_group_membership_and_sudo_backdoor.html">privilege escalation through Docker group membership</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认同将用户加入 docker 组是一个众所周知的危险配置，但用户 exitb 反驳说这并非 Omarchy 独有的问题，该错误配置在其他发行版中同样常见。mike_hearn 认为这在很大程度上只是“做样子的安全”，因为 Linux 缺乏完善的桌面沙箱机制，恶意进程无论是否被限制在 root 之外，仍能攻陷用户账户。其他人则推荐使用无 root 模式的 Podman 作为现代替代方案，并警告不要盲目采用被大肆宣传的“vibecoded”发行版，指出 CachyOS 此前也经历过类似的质疑。多位评论者建议直接使用原生 Arch 加 archinstall 安装，而不是依赖额外的定制化封装层。
+
+**标签**: `#security`, `#linux`, `#privilege-escalation`, `#omarchy`, `#docker`
+
+---
+
+<a id="item-5"></a>
+## [爬虫来袭](https://people.kernel.org/monsieuricon/creepy-crawlies) ⭐️ 7.0/10
+
+本文探讨了通过 Anubis 等工作量证明系统抵御 AI 爬虫的愈演愈烈的攻防战，并援引社区专家的批评观点，指出算力强大的爬虫反而比普通用户更能轻松应对工作量证明挑战。
+
+hackernews · zdw · 8月29日 17:49 · [社区讨论](https://news.ycombinator.com/item?id=49491791)
+
+**标签**: `#bot-detection`, `#proof-of-work`, `#ai-scraping`, `#web-security`, `#anubis`
+
+---
+
+<a id="item-6"></a>
+## [欧盟委员会在"保护欧盟"战略中重提加密后门要求](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) ⭐️ 7.0/10
+
+欧盟委员会的"保护欧盟"战略重提强制要求加密设置后门以供执法部门访问，引发了人们对其在隐私、安全以及欧盟民主问责方面的担忧。
+
+hackernews · nickslaughter02 · 8月30日 15:12 · [社区讨论](https://news.ycombinator.com/item?id=49499394)
+
+**标签**: `#encryption`, `#privacy`, `#EU-policy`, `#law-enforcement`, `#cybersecurity`
+
+---
+
+<a id="item-7"></a>
+## [Bug 盲点](https://danluu.com/bug-blind/) ⭐️ 7.0/10
+
+Dan Luu 的分析文章探讨了开发者和用户如何因与系统的心智模型不匹配而对 Bug "视而不见"，并以搜索引擎、效率工具及其他软件为例加以说明。
+
+hackernews · davidmckenna · 8月30日 00:21 · [社区讨论](https://news.ycombinator.com/item?id=49494520)
+
+**标签**: `#software-engineering`, `#ux`, `#debugging`, `#dan-luu`, `#cognitive-bias`
+
+---
+
+<a id="item-8"></a>
+## [SpaceX 将涡轮叶片制造转为内部生产，加速 AI 数据中心电力部署](https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months) ⭐️ 6.5/10
+
+SpaceX 已开始内部制造涡轮叶片和导叶，以应对关键的供应链瓶颈，据称此举将把其 AI 数据中心电力发电机的交付延迟缩短最多 18 个月。 这一垂直整合举措凸显了制约 AI 基础设施扩张的严峻电力供应瓶颈，也表明在 AI 算力需求激增的背景下，企业正采取非常规的制造策略来确保能源供应能力。 由于精密加工和先进材料要求，一套约 40 片先进涡轮叶片的成本可超过 60 万美元，制造周期长达 60 至 90 周，这也使全球燃气轮机行业高度集中在 GE Vernova 和西门子能源等少数厂商手中。
+
+rss · Tom's Hardware · 8月30日 14:49
+
+**背景**: 燃气轮机因其部署迅速、能够提供大规模可靠电力，正越来越多地被用作 AI 数据中心的备用或主要电源。AI 浪潮带来了前所未有的电力需求，为工业燃气轮机制造商创造了数十亿美元的商业机会，同时也暴露了严重的供应链瓶颈。涡轮叶片和导叶是涡轮发动机中最复杂的部件之一，需要精密铸造或增材制造、高温合金材料以及全面的质量保证。垂直整合是将此前外包的生产业务收回自营的策略，企业借此减少对外部供应商的依赖、缩短交货周期并改善质量控制。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.filtercoffee.co/stories/why-is-the-world-suddenly-short-on-gas-turbines">Why is the world suddenly short on gas turbines ? - Filter Coffee</a></li>
+<li><a href="https://www.squaredtech.co/ai-data-centers-are-driving-a-major-gas-turbine-boom">AI Data Centers Powering The Biggest Gas Turbine Boom In Yea</a></li>
+<li><a href="https://www.linkedin.com/pulse/ai-cybersecurity-from-ground-up-part-6-gas-turbines-brendan-cronin-vzvse">AI cybersecurity from the ground up - Part 6 ' Gas Turbines '</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI infrastructure`, `#data centers`, `#manufacturing`, `#SpaceX`, `#power generation`
 
 ---
 
 <a id="item-9"></a>
-## [罗曼空间望远镜发射，每天 1.4TB 数据完全公开](https://science.nasa.gov/mission/roman-space-telescope/) ⭐️ 6.0/10
+## [DIY 档案员用平价尼康相机和神经网络数字化 1800 本珍稀书籍](https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans) ⭐️ 6.5/10
 
-美国宇航局的南希·格雷斯·罗曼空间望远镜计划由猎鹰重型火箭发射，具备广域红外巡天能力，并采用开创性的完全开放数据政策，每天最多 1.4TB 的原始压缩数据将公开、毫无保密期。该项目在低于预算、提前于计划进度的情况下完成。 该任务是天文学的一项重大基础设施里程碑，其广域成像能力在大范围巡天方面远远超越哈勃望远镜狭小的视场。所有数据的即时公开让前沿天体物理研究（涵盖暗能量、系外行星和红外巡天）的访问更加大众化。 该天文台原名 WFIRST（广域红外巡天望远镜），继承了美国宇航局与能源部联合暗能量任务（JDEM）的设计血统。据报道其设计改造自一颗废弃的侦察卫星，评论者认为这是该项目低于预算并提前完成的原因。其广域仪器可在暗能量宇宙学、系外行星微透镜法和近红外巡天方面取得突破性科学成果。
+一组 DIY 档案员将平价尼康相机的快门次数推至 90.2 万次，扫描了 1800 本珍稀书籍，生成了 52.6 万张扫描图像，随后用基于人工 Photoshop 编辑训练的神经网络进行处理。 该项目展示了将富有创意的 DIY 方法与定制机器学习相结合，如何以低成本实现大规模文化遗产保护，为昂贵机构数字化项目提供了一种替代方案。 相机被推至高达 90.2 万次快门的极限使用，远超普通消费级相机的寿命；神经网络专门针对 Photoshop 编辑进行训练，以自动化处理 52.6 万张扫描页面中繁重的人工后期工作。
 
-hackernews · JumpCrisscross · 8月29日 15:48 · [社区讨论](https://news.ycombinator.com/item?id=49490870)
+rss · Tom's Hardware · 8月30日 12:00
 
-**背景**: 罗曼空间望远镜于 2010 年被十年规划委员会推荐为天文学未来十年的首要任务，并于 2016 年 2 月获批开发。该天文台以美国宇航局首任首席天文学家南希·格雷斯·罗曼的名字命名，工作在红外波段，使其能够穿透尘埃并探测系外行星和遥远星系等较冷天体。广域巡天望远镜与哈勃等定点观测望远镜的不同之处在于：它们一次性对大片天区成像，非常适合对宇宙天体群进行统计学研究，而非对单个天体进行细致特写。
+**背景**: 快门次数是指相机机械快门触发的总次数；消费级相机通常额定寿命为 10 万到 30 万次快门，超过这个数字机械结构就可能失效，因此 90.2 万次快门属于极端压力测试。神经网络是一种从训练数据中学习模式的机器学习模型——在本项目中，团队向网络输入原始扫描图像及其人工 Photoshop 编辑结果的配对，让其学习自动应用校正。数字化珍稀书籍对于保护至关重要，因为实体书籍容易因老化、火灾和访问受限而受损。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://science.nasa.gov/mission/roman-space-telescope/">Nancy Grace Roman Space Telescope - NASA Science</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope">Nancy Grace Roman Space Telescope - Wikipedia</a></li>
-<li><a href="https://roman.ipac.caltech.edu/event/roman-at-the-243rd-aas-meeting">Roman</a></li>
+<li><a href="https://countmyshutter.com/?ref">Camera Shutter Counter | Check Your DSLR Shutter Count</a></li>
+<li><a href="https://petapixel.com/camera-shutter-count/">How to Check Your Camera ’s Shutter Count | PetaPixel</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者们对完全开放的数据政策充满热情，有几人指出任何普通公众都完全有可能成为首批在原始数据中看到新发现星系的人。讨论强调罗曼的广域视场使其在大范围巡天方面比哈勃高效得多，而低于预算、提前完成被归因于飞行器改装自废弃的间谍卫星。一个反复出现的批评意见是：美国宇航局应该建造昂贵旗舰望远镜的复制品以规避单次发射失败的风险，一位评论者指出这样做甚至不会使总成本翻倍。
-
-**标签**: `#space`, `#nasa`, `#astronomy`, `#open-data`, `#telescope`
+**标签**: `#digital-preservation`, `#machine-learning`, `#computer-vision`, `#DIY-tech`, `#cultural-heritage`
 
 ---
 
 <a id="item-10"></a>
-## [Mara 完成 700 万美元种子前融资，开发背包便携式无人机拦截器 Spike](https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones) ⭐️ 5.5/10
+## [海盗船 RM1000e（2026）评测：温感线缆防止 GPU 接口熔毁](https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review) ⭐️ 6.5/10
 
-总部位于旧金山的国防科技初创公司 Mara 完成了 700 万美元的种子前轮融资，用于开发名为 Spike 的背包便携式反无人机拦截系统。Spike 重 8.8 盎司（约 250 克），公司声称其相比现有拦截器具有 20 倍的成本优势，并采用与攻击型无人机一对一的价格策略。 廉价攻击型无人机在现代战场（尤其是乌克兰战场）的大规模使用，使得传统防空导弹在许多交战场景下变得经济上不可行。一款低成本、士兵可便携的且与被拦截目标价格对等的拦截器，可能改变部队防护作战条令，但 Mara 公司的性能宣称尚未得到独立验证。 Spike 仅重 8.8 盎司（约 250 克），被设计成可装入标准背包中，优先满足下车步兵的使用需求，而非车载或固定站点的反无人机解决方案。700 万美元的种子前融资对于一家国防硬件公司来说规模较小，表明该系统仍处于早期开发阶段，尚未接近量产；其 20 倍成本优势的说法来自公司自身，尚未经过独立基准测试。
+海盗船 2026 款 RM1000e 电源具备白金效率认证、500W 无风扇静音运行窗口，以及一根 ThermalProtect 12V-2x6 线缆，能够在接口过热熔毁之前自动关闭 GPU。ThermalProtect 线缆将过温保护（OTP）传感功能直接集成到线梳中，作为最后一道安全防线。 这项技术针对的是高功耗 GPU 上 12VHPWR/12V-2x6 接口熔毁这一已被广泛记录的问题，该问题已造成多起火灾并烧毁了价值数千美元的硬件。通过在线缆本身增加主动热关断保护，而非仅仅依赖接口设计的改进，海盗船提升了 GPU 供电安全的标准，并可能促使其他电源厂商跟进。 ThermalProtect 线缆有严格的安装方向要求——温度传感器必须朝向 GPU 一端连接才能正常工作，这是一个值得注意的安装注意事项。该线缆也作为独立配件单独出售，兼容任何配备原生 12V-2x6 接口的电源。
 
-rss · Tom's Hardware · 8月29日 14:16
+rss · Tom's Hardware · 8月30日 11:05
 
-**背景**: 反无人机系统（C-UAS）通过干扰、欺骗到动能拦截等多种方式来探测、追踪和压制敌方无人飞行器。拦截型无人机是这一领域中较为新兴的类别——专为物理碰撞、捕获或以其他方式摧毁敌方无人机而设计的无人飞行器。相比每枚成本数万美元乃至数十万美元的传统防空导弹，拦截型无人机提供了一种经济得多的解决方案，尤其是在应对如今战场上常见的小型商用式无人机时。无人机战争的经济性已成为近期冲突的标志性特征——一架价值 500 美元的四旋翼无人机就能威胁价值数百万美元的平台。
+**背景**: 12VHPWR（12 伏高功率）接口是一种 16 针标准，专为向显卡传输高达 600W 电力而设计，用于取代高端 GPU 上的传统 8 针 PCIe 供电接口。由于接触不良、插入不均匀和制造缺陷导致接口熔毁的报告频发，业界将该标准修订为 12V-2x6，机械结构上更加耐用且更不易熔毁。然而，熔毁事故仍然时有发生，促使硬件厂商增加主动防护措施，例如温度传感器和自动关断电路。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Interceptor_Drone">Interceptor drone - Wikipedia</a></li>
-<li><a href="https://interestingengineering.com/military/low-cost-drone-interceptor-systems">7 low-cost drone interceptor systems reshaping modern air defense</a></li>
-<li><a href="https://blog.kontekindustries.com/counter-uas-systems-explained">Counter-UAS Systems Explained: A Complete Guide to Drone Defense</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review">Corsair RM1000e (2026) ThermalProtect power... | Tom's Hardware</a></li>
+<li><a href="https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/corsair-thermalprotect-technical-overview/">Technical overview of the CORSAIR ThermalProtect 12V-2x6 cable</a></li>
+<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12 VHPWR - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#defense-tech`, `#drones`, `#startup`, `#counter-uas`, `#funding`
+**标签**: `#hardware`, `#power-supply`, `#corsair`, `#gpu-safety`, `#pc-components`
 
 ---
 
 <a id="item-11"></a>
-## [预装 Windows 11 许可证可获最高 175 美元退款——新门户提供法律表格，但提醒买家不要先擦除存储](https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first) ⭐️ 5.5/10
+## [泄露版 DLSS 5 成功运行于 RTX 30 系显卡，但性能严重崩溃](https://www.techpowerup.com/352147/leaked-dlss-5-reaches-rtx-30-series-ampere-gpus-but-performance-falls-apart) ⭐️ 5.5/10
 
-由意大利 Linux 协会和 FSFE 创办的 Refund4Freedom 门户网站为用户提供法律表格和操作指南，帮助他们为不需要的预装 Windows 11 许可证获得最高 175 美元的退款。
+RenoDX Discord 上的 mod 社区成功将泄露版 DLSS 5 的 Neural Rendering 技术移植到官方不支持的 RTX 30 系 Ampere 显卡上，但效果几乎无法使用——RTX 3070 笔记本显卡在《天国：拯救 2》中的渲染延迟从约 29 毫秒飙升至超过 3300 毫秒；RTX 3080 在《Deep Rock Galactic》中帧率从约 130 FPS 暴跌至仅 4 FPS；RTX 3050 与 RTX 3060 Ti 在多款游戏中帧率徘徊在 1 FPS 左右。 这证实了 DLSS 5 的 Neural Rendering 严重依赖 Ampere 架构所不具备的硬件特性，表明 NVIDIA 几乎不可能官方将其回溯支持到 RTX 30 系，同时也凸显了 Blackwell 与上一代相比的性能差距——RTX 40 系尚可勉强运行，而 Ampere 则彻底崩溃。 根本原因在于 Ampere 架构缺乏原生 FP8（8 位浮点）支持，而泄露版 DLSS 5 模型依赖该精度用于 Tensor Core 运算，导致 GPU 无法高效处理 DLSS 5 所需的精度计算。官方 DLSS 5 目前仅支持 RTX 50 系 Blackwell 显卡，NVIDIA 尚未公布向 RTX 40 系添加支持的计划，更不用说更早的世代。
 
-rss · Tom's Hardware · 8月29日 11:39
+rss · TechPowerUp News · 8月30日 16:43
 
-**标签**: `#Windows`, `#Linux`, `#FOSS`, `#consumer-rights`, `#OS-bundling`
+**背景**: NVIDIA DLSS（深度学习超采样）是一套由 RTX GPU 上的专用 Tensor Core 提供算力的神经渲染技术，旨在通过 AI 从低分辨率渲染重建高分辨率图像以提升帧率。DLSS 5 是 NVIDIA 在 GTC 2026 上发布的最新一代，采用 Neural Rendering 模型实时添加照片级光照和材质效果，计算负载远超前几代 DLSS 超采样技术。RTX 30 系 Ampere 架构于 2020 年发布，配备第三代 Tensor Core，不具备原生 FP8 吞吐能力，这一点与较新的 RTX 40 系 Ada Lovelace 和 RTX 50 系 Blackwell 架构不同，因此这些老显卡无法满足 DLSS 5 的算力需求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ampere_(microarchitecture)">Ampere (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/">NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#nvidia`, `#dlss-5`, `#rtx-30-series`, `#gpu`, `#modding`
+
+---
+
+<a id="item-12"></a>
+## [SteamOS 3.9.0 预览版发布，搭载 KDE 6.7.3 和 Linux 内核 7.2](https://www.techpowerup.com/352133/steamos-3-9-0-preview-launches-with-kde-6-7-3-and-linux-kernel-7-2) ⭐️ 5.5/10
+
+Valve 发布了 SteamOS 3.9.0 预览版，将桌面模式升级至 KDE Plasma 6.7.3（此前为 6.4.3），并将 Linux 内核更新至 7.2 版本。此次发布紧随最近的 3.8.26 测试版补丁，该补丁修复了桌面和游戏模式中的大量错误。 此次更新为 Steam Deck 和 SteamOS 用户带来了重要的组件升级，尤其是提升了 Intel Arc B390 核显性能，并引入了基于 USB4 的设备间文件共享功能。这表明 Valve 持续致力于优化 SteamOS 的桌面体验，以满足掌机和客厅娱乐两种使用场景。 KDE 6.7.3 升级带来了改进的 KRunner 搜索功能、剪贴板固定功能以及更好的数位板支持。据报道，Linux 内核 7.2 新增了 Intel USB4Stream 驱动程序，可通过 USB4 实现低延迟的设备间文件共享，并为 Intel Arc B390 核显带来显著的性能提升。同时 Valve 还对配置进行了修改，以提升日常使用体验。
+
+rss · TechPowerUp News · 8月30日 05:14
+
+**背景**: SteamOS 是 Valve 开发的基于 Linux 的操作系统，旨在将 Linux 的稳定性与为大屏幕和 Steam Deck 等掌机设备优化的游戏体验相结合。KDE Plasma 是一个功能丰富的桌面环境，围绕小组件构建，允许对用户界面进行广泛的自定义。KRunner 是 KDE Plasma 内置的启动器工具（可通过 Alt+Space 快捷键调用），支持快速启动应用程序、搜索和执行命令，并可通过称为"runners"的插件扩展其功能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://itsfoss.com/steamos/">What is SteamOS ? Everything You Need to Know</a></li>
+<li><a href="https://kde.org/plasma-desktop/">Plasma is KDE 's desktop environment . Simple by default, powerful...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#SteamOS`, `#Linux`, `#KDE`, `#Valve`, `#Gaming`
+
+---
+
+<a id="item-13"></a>
+## [Intel 官方确认 Nova Lake-S 处理器将采用 LGA1954 插槽](https://www.techpowerup.com/352121/intel-confirms-lga1954-as-the-socket-for-nova-lake-s-processors-through-internal-tools) ⭐️ 5.5/10
+
+Intel 通过在其官网发布内部验证测试工具，正式确认即将推出的 Nova Lake-S Core Ultra 400 系列桌面处理器将采用 LGA1954 插槽。这是 Intel 首次以官方身份将 Nova Lake-S 与这一全新插槽联系在一起，新插槽替代了当前的 LGA1851。 此次确认让 PC 装机用户和硬件爱好者可以确定 Nova Lake-S 将需要全新的 Intel 900 系列主板，意味着当前的 LGA1851 主板将无法兼容下一代平台。同时这也标志着又一次插槽换代，将影响升级成本和散热器兼容性规划。 LGA1954 插槽将采用 2L-ILM（双杠杆独立加载机构）设计，在 CPU 两侧各设一个杠杆，以确保更好的接触平整度并减少 CPU 弯曲风险。根据泄露信息，Nova Lake-S 旗舰型号 SKU 可能包含最多 52 个核心，bLLC 缓存最高达 288 MB，平台预计将搭配 Z990 芯片组使用 DMI Gen 5 x4。
+
+rss · TechPowerUp News · 8月29日 20:46
+
+**背景**: Intel 桌面 CPU 使用 LGA（栅格阵列）插槽，针脚位于主板上而非 CPU 本身。每一代 Intel 桌面处理器通常都需要新的插槽，这反过来又需要新的主板。LGA1851 随 Arrow Lake / Core Ultra 200S 系列一同推出，Nova Lake-S 代表下一次重大架构飞跃，预计将于 2027 年第一季度发布。2L-ILM 插槽设计是对 LGA1700 平台过去出现的 CPU 弯曲和接触压力不均问题的回应。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wccftech.com/roundup/intel-nova-lake-s/">Intel Nova Lake: Full Specs , Release Date & Lineup (Up to 52 Cores...)</a></li>
+<li><a href="https://www.hwcooling.net/en/nova-lake-to-feature-new-2l-ilm-socket-to-prevent-cpu-bending/">Nova Lake to feature new 2 L - ILM socket to prevent CPU bending</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Intel`, `#Nova Lake-S`, `#LGA1954`, `#CPU`, `#hardware`
+
+---
+
+<a id="item-14"></a>
+## [《大金刚 64》终于迎来完全原生的 C 语言 PC 移植版 —— DK64 ReKONGpiled 带来超宽屏支持、无帧率上限以及零 AI 代码](https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code) ⭐️ 5.5/10
+
+资深开发者打造了基于 C 语言的《大金刚 64》原生 PC 移植版，支持超宽屏和无帧率上限，值得注意的是该过程中未使用任何生成式 AI。
+
+rss · Tom's Hardware · 8月30日 14:26
+
+**标签**: `#retro-gaming`, `#reverse-engineering`, `#pc-port`, `#donkey-kong-64`, `#cross-platform`
+
+---
+
+<a id="item-15"></a>
+## [玩家直接将电源线焊接到 RTX 5090 PCB 上以绕过烧毁的 16 针接口](https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling) ⭐️ 5.5/10
+
+巴西 YouTuber TecLab 在一块裸板的影驰 HOF（名人堂）RTX 5090 显卡上直接将电源线焊接到 PCB 上，完全绕过了臭名昭著的 16 针 12VHPWR 接口，据称在压缩机冷却下该卡功耗达到 600W。 这一极端的改装方案凸显了英伟达的 16 针接口烧毁问题在历经两代显卡后依然严重且持续，也反映出社区对这一问题在新一代旗舰 RTX 5090 上仍未得到彻底解决的强烈不满。 这种改装反而可能比烧毁的接口本身带来更大的火灾风险，因为在 600W 大电流负载下手工焊接的电线连接绕过了接口所有的安全设计和接触特性。影驰 HOF 系列显卡专为超频爱好者和挑战极限性能而设计。
+
+rss · Tom's Hardware · 8月30日 10:30
+
+**背景**: 16 针 12VHPWR 接口随 RTX 4090 一同推出，旨在通过单根线缆为 GPU 提供更高功率，但很快因接触不良或插接不当导致的烧毁事件而臭名昭著。RTX 5090 显卡继续沿用这一接口标准，烧毁报告也延续到了新一代产品上。影驰的 HOF（Hall of Fame）名人堂系列是面向极限超频的旗舰产品，这也解释了为什么 TecLab 将焊接改装与压缩机冷却搭配使用，以维持显卡 600W 的功耗。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/news/rtx-4090-16-pin-connector-melted-after-one-year-of-usage">RTX 4090's 16 - Pin Connector Melted After One... | Tom's Hardware</a></li>
+<li><a href="https://galax.com/en/category/graphics-cards/hall-of-fame-series/">Hall of Fame ( HOF ) - GALAX</a></li>
+<li><a href="https://ww-article-cache-1.s3.amazonaws.com/en/16-pin_12VHPWR_connector">ww-article-cache-1.s3.amazonaws.com/en/ 16 - pin _ 12 VHPWR ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#RTX 5090`, `#GPU modding`, `#hardware issues`, `#16-pin connector`, `#PC hardware`
+
+---
+
+<a id="item-16"></a>
+## [美国军方在南边境使用高能激光击落三架墨西哥贩毒集团无人机——毒贩涉嫌使用无人机进行监视和侦察以支持非法活动](https://www.tomshardware.com/tech-industry/drones/us-military-uses-high-energy-lasers-to-shoot-down-three-mexican-cartel-drones-over-the-southern-border-narcos-suspected-of-using-uavs-for-surveillance-and-reconnaissance-to-support-illegal-activities) ⭐️ 5.5/10
+
+美国军方使用高能激光系统，击落了三架正在南边境进行监视侦察的墨西哥贩毒集团无人机。
+
+rss · Tom's Hardware · 8月30日 10:00
+
+**标签**: `#directed-energy-weapons`, `#counter-UAS`, `#defense-technology`, `#drones`, `#military`
 
 ---
