@@ -5,343 +5,396 @@ date: 2026-08-31
 lang: en
 ---
 
-> From 40 items, 16 important content pieces were selected
+> From 64 items, 19 important content pieces were selected
 
 ---
 
-1. [Sony and Warner Sue Anthropic Over Copyrighted Music Training Data](#item-1) ⭐️ 8.3/10
-2. [SK hynix CEO Extends Memory Shortage Forecast to 2030](#item-2) ⭐️ 7.5/10
-3. [DIY Archivists Digitize 1,800 Rare Books Using Budget Nikons and Neural Network](#item-3) ⭐️ 7.5/10
-4. [Corsair RM1000e (2026) Review: Temperature-Sensing Cable Prevents GPU Connector Melting](#item-4) ⭐️ 7.5/10
-5. [NVIDIA Launches Jetson Orin Nano 2 with New Ampere SoC](#item-5) ⭐️ 7.5/10
-6. [Five Billion Pulses: DUV Optics Durability Testing for Tool Uptime](#item-6) ⭐️ 7.0/10
-7. [SteamOS 3.9.0 Preview Brings KDE 6.7.3 and Linux Kernel 7.2](#item-7) ⭐️ 6.5/10
-8. [DK64 ReKONGpiled: Donkey Kong 64 Gets Native C PC Port](#item-8) ⭐️ 6.5/10
-9. [CXMT Sues Pentagon to Remove Itself from Chinese Military Blacklist](#item-9) ⭐️ 6.5/10
-10. [Haiku R1/beta6 has been released](#item-10) ⭐️ 6.0/10
-11. [Warhorse Developer Defends DLSS 5, Says It's Not an AI Slop Filter](#item-11) ⭐️ 5.5/10
-12. [NVIDIA Blocks RTX 5000 Power Limit Bypass in Driver 615.56](#item-12) ⭐️ 5.5/10
-13. [Leaked DLSS 5 Runs on RTX 30-Series GPUs at Under 1 FPS](#item-13) ⭐️ 5.5/10
-14. [SpaceX Brings Turbine Blade Manufacturing In-House to Speed Up AI Data Center Power](#item-14) ⭐️ 5.5/10
-15. [Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats through the processor lid — paste replacement triples framerates, drops temps, and eliminates hard crashes](#item-15) ⭐️ 5.5/10
-16. [US Military Downs Three Cartel Drones With High-Energy Lasers at Southern Border](#item-16) ⭐️ 5.5/10
+1. [NVIDIA Invests $3.5 Billion in MediaTek, Expands NVLink Fusion Ecosystem](#item-1) ⭐️ 8.5/10
+2. [MacBook Neo's 8GB RAM Burns Through SSD Cycles Alarmingly Fast](#item-2) ⭐️ 7.5/10
+3. [SK hynix Considers Intel Foundry for HBM4E Base Die Production](#item-3) ⭐️ 7.5/10
+4. [SK hynix CEO Warns Memory Shortage Will Persist Through 2030](#item-4) ⭐️ 7.5/10
+5. [Motorless Solid-State Cooler Recycles Waste Heat into Refrigeration](#item-5) ⭐️ 7.5/10
+6. [CXMT Claims First LPDDR6 Mass Production, Beats Western Rivals](#item-6) ⭐️ 7.5/10
+7. [NVIDIA Jetson Orin Nano 2: Entry-Level Edge AI Board Doubles Performance](#item-7) ⭐️ 7.5/10
+8. [CXMT Begins Risk Production of HBM3E Memory, Two Generations Behind South Korean Leaders](#item-8) ⭐️ 6.5/10
+9. [AMD Starts Zen 6 Desktop Enablement in Linux 7.3](#item-9) ⭐️ 6.5/10
+10. [Key Nvidia and Intel supplier raided over alleged China origin fraud — Unimicron faces probe over PCB origin washing, risk of 40% U.S. tariff penalty](#item-10) ⭐️ 6.5/10
+11. [Apple Underestimates AI-Driven Demand for Mac Mini and Mac Studio](#item-11) ⭐️ 6.0/10
+12. [Speculative Commissary Freezer Hack Sparks ICS Security Debate](#item-12) ⭐️ 6.0/10
+13. [Exploiting agentic automation cost-effectively. Innovation in Verification](#item-13) ⭐️ 6.0/10
+14. [Signaloid Founder Transitions from Cambridge to Lead Uncertainty-Aware Computing Startup](#item-14) ⭐️ 6.0/10
+15. [Advanced Cooling Technologies Address the Automotive Heat Challenge](#item-15) ⭐️ 6.0/10
+16. [China's Top DRAM Maker CXMT Takes Pentagon to Court Over Military Blacklist](#item-16) ⭐️ 5.5/10
+17. [Leaked DLSS 5 Tested on RTX 20-Series Turing GPUs via FP16 Mods](#item-17) ⭐️ 5.5/10
+18. [Warhorse Developer Defends DLSS 5, Says It's Not an AI Slop Filter](#item-18) ⭐️ 5.5/10
+19. [NVIDIA Blocks mVolt+ Power Limit Overclocking in Driver 616.56](#item-19) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Sony and Warner Sue Anthropic Over Copyrighted Music Training Data](https://www.solidot.org/story?sid=85234) ⭐️ 8.3/10
+## [NVIDIA Invests $3.5 Billion in MediaTek, Expands NVLink Fusion Ecosystem](https://www.techpowerup.com/352174/nvidia-invests-usd-3-5-billion-in-mediatek-partners-on-nvlink-fusion) ⭐️ 8.5/10
 
-Sony Music and Warner Music have filed a lawsuit against Anthropic, alleging that the company trained its Claude AI models on tens of thousands of copyrighted songs without authorization. The labels seek statutory damages of up to $150,000 per infringed work and an additional $25,000 for each instance of removed copyright information, with total potential damages reaching billions of dollars. This lawsuit represents one of the largest copyright cases against an AI company and could set a major precedent for how AI labs handle training data, particularly in the music industry. Coming after Anthropic's previous $1.5 billion settlement over pirated books, the case highlights escalating legal risks for AI companies that scrape or download copyrighted content for model training. The complaint also names Anthropic co-founders Dario Amodei and Benjamin Mann personally, alleging Mann used BitTorrent to download over 5 million pirated books, while Anthropic employees downloaded over 2 million books from the Pirate Library Mirror shadow library. Additionally, the suit claims lyrics were scraped from licensed platforms Musixmatch and LyricFind without permission.
+NVIDIA announced a $3.5 billion investment in MediaTek and expanded their collaboration through the NVLink Fusion ecosystem, enabling third-party processors and accelerators—including Google's XPUs—to plug into NVIDIA's data center fabric. MediaTek will offer NVLink Fusion, NVLink-C2C, and NVIDIA's new NVHBM memory technology to its ASIC clients. This deal positions NVIDIA as the central interconnect fabric for a heterogeneous AI data center, letting custom ASICs from Google and others interoperate natively with NVIDIA's networking stack rather than remaining siloed. It also signals NVIDIA's strategic shift from selling standalone GPUs to becoming the foundational layer of the entire AI infrastructure stack, raising competitive barriers for rival interconnect standards. NVLink Fusion supports both photonic and classical copper interconnects, while NVLink-C2C provides high-bandwidth chip-to-chip links between nearby XPUs and will be used inside NVIDIA's upcoming 'Rosa' CPUs. NVIDIA's NVHBM integrates the memory controller directly into the 3D HBM stack, claiming up to 30% more bandwidth than HBM4E, 15% lower HBM power consumption, and 25% more usable compute die area.
 
-rss · Solidot · Aug 30, 12:50
+rss · TechPowerUp News · Aug 31, 13:55
 
-**Background**: Anthropic is one of the leading AI labs behind the Claude family of large language models, which are trained on massive text datasets. BitTorrent is a peer-to-peer file-sharing protocol commonly used for distributing large files, and it has long been associated with piracy of copyrighted content. Shadow libraries like Pirate Library Mirror and Z-Library are online repositories that host or link to copyrighted books without authorization from rights holders. The music industry has been increasingly vigilant about AI companies using copyrighted lyrics and compositions for training, following similar lawsuits against other AI firms.
+**Background**: NVLink is NVIDIA's proprietary high-speed interconnect used to link GPUs and other accelerators inside data-center systems; NVLink Fusion extends this by licensing the IP and chiplet framework to third-party chipmakers so that custom ASICs—Google's XPU/TPU and AWS Trainium being prominent examples—can communicate natively with NVIDIA's networking stack. XPU is an industry-coined umbrella term for non-GPU AI accelerators, typically ASICs built by hyperscalers to reduce reliance on merchant GPUs. Chiplet architecture is a semiconductor design approach that combines multiple smaller dies inside one package, offering better yields, design flexibility, and scalability than monolithic chips.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BitTorrent">BitTorrent - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Shadow_library">Shadow library - Wikipedia</a></li>
+<li><a href="https://www.techinasia.com/news/nvidia-unveils-ai-chip-communication-tech-nvlink-fusion">Tech in Asia - Connecting Asia's startup ecosystem</a></li>
+<li><a href="https://hothardware.com/news/nvidia-unveils-nvhbm-memory-nvlink-fusion">NVIDIA Unveils NVHBM Memory To Turbocharge AI Chip Speeds By...</a></li>
+<li><a href="https://www.linkedin.com/pulse/interconnect-computer-why-nvidias-nvlink-fusion-most-trojan-kannan-yoiec">The Interconnect Is the Computer: Why Nvidia ’s NVLink Fusion is the...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Anthropic`, `#copyright-law`, `#AI-training`, `#music-industry`, `#legal-news`
+**Tags**: `#NVIDIA`, `#MediaTek`, `#NVLink-Fusion`, `#AI-infrastructure`, `#chiplets`, `#data-center`
 
 ---
 
 <a id="item-2"></a>
-## [SK hynix CEO Extends Memory Shortage Forecast to 2030](https://www.techpowerup.com/352156/sk-hynix-ceo-says-memory-shortage-will-last-through-2030) ⭐️ 7.5/10
+## [MacBook Neo's 8GB RAM Burns Through SSD Cycles Alarmingly Fast](https://www.techpowerup.com/352178/macbook-neo-burns-through-ssd-cycles-at-an-alarming-rate) ⭐️ 7.5/10
 
-SK hynix CEO Kwak Noh-Jung stated that the global memory shortage will persist through the end of 2030, extending the company's previous forecast that had projected tight supply through 2028. He attributed the prolonged tightness to sustained AI-driven demand for customized DRAM and HBM products, noting that any eventual easing would likely be gradual rather than a sudden price crash. This forecast from one of the world's top three memory manufacturers signals that AI infrastructure buildout will continue to constrain memory supply for years, affecting pricing for consumer electronics, servers, and data center hardware. It also suggests a structural shift in the memory industry away from volatile commodity cycles toward a more demand-driven, predictable supply model. Memory has shifted from interchangeable commodity parts toward customized configurations tailored for AI workloads, giving manufacturers better demand visibility. SK hynix is expanding capacity, including a new Indiana packaging facility targeting mass production by Q2 2029, while Micron has noted that HBM production consumes roughly three times the wafer capacity of equivalent DDR5, directly tightening supply of standard DRAM.
+YouTube channel UFD Tech's SSD endurance testing reveals that Apple's budget MacBook Neo with only 8GB of RAM is writing massive amounts of data to its SSD swap file, burning through flash cycles at an alarming rate. In a three-hour session of normal web browsing using Chrome, WhatsApp, and Discord, the laptop wrote nearly 900GB to its SSD swap. This finding raises serious concerns about the long-term reliability of the MacBook Neo, as heavy swap usage driven by insufficient RAM could dramatically shorten the device's usable lifespan and catch consumers who bought it as an affordable everyday laptop off guard. It also spotlights a broader industry issue: as modern operating systems and applications demand more memory, sub-16GB RAM configurations may impose hidden costs through accelerated flash wear. UFD Tech's burn testing estimated the 256GB model's rated endurance at approximately 414 TBW (losing 5% lifespan per 20TB written), while the 512GB variant fared better at roughly 1521 TBW. At the observed rate of 900GB of swap writes in three hours of light browsing, a heavier user could potentially exceed lower-end SSD endurance ratings within a few years of normal use.
 
-rss · TechPowerUp News · Aug 30, 19:45
+rss · TechPowerUp News · Aug 31, 15:43
 
-**Background**: DRAM (Dynamic Random-Access Memory) is the primary volatile memory used in computers, phones, and servers. High Bandwidth Memory (HBM) is a specialized 3D-stacked memory architecture designed for AI accelerators and GPUs, delivering substantially higher bandwidth than conventional DRAM while using less power. Memory markets have historically been highly cyclical, with commodity-style competition producing sharp oversupply and price crashes. The AI boom has disrupted this cycle: training and inference workloads require massive amounts of both HBM (for GPUs) and standard DRAM, and because HBM consumes far more wafer capacity per unit, its rapid ramp-up directly reduces the supply available for conventional memory products used in laptops, phones, and general-purpose servers.
+**Background**: SSDs rely on NAND flash memory cells that can only endure a finite number of program-and-erase cycles before they degrade, a metric typically rated as TBW (Terabytes Written). When a system runs out of physical RAM, the operating system offloads inactive memory pages to a swap file on the SSD, treating the storage drive as overflow memory. This means that machines with insufficient RAM for their workload will generate disproportionately heavy SSD write traffic, accelerating flash wear and potentially shortening the drive's lifespan far below its rated endurance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://www.rambus.com/blogs/hbm3-everything-you-need-to-know/">High Bandwidth Memory (HBM): Everything You Need to Know - Rambus</a></li>
-<li><a href="https://nemothia.com/dram-shortage-on-device-ai/">DRAM Shortage Is Starving On-Device AI of Cheap Memory</a></li>
+<li><a href="https://www.computerworld.com/article/1408926/more-memory-means-a-longer-ssd-lifespan.html">More memory means a longer SSD lifespan – Computerworld</a></li>
+<li><a href="https://disk-scout.com/guides/ssd-endurance-tbw-explained">SSD Endurance Explained — TBW, DWPD & How Long SSDs Really Last (2026)</a></li>
+<li><a href="https://www.techtarget.com/it-infrastructure/podcast/How-NAND-flash-degrades-and-what-vendors-do-to-increase-SSD-endurance">How NAND flash degrades and what vendors do to increase SSD ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#memory`, `#supply-chain`, `#SK-hynix`, `#AI-infrastructure`
+**Tags**: `#MacBook Neo`, `#Apple`, `#SSD longevity`, `#hardware review`, `#RAM limitations`
 
 ---
 
 <a id="item-3"></a>
-## [DIY Archivists Digitize 1,800 Rare Books Using Budget Nikons and Neural Network](https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans) ⭐️ 7.5/10
+## [SK hynix Considers Intel Foundry for HBM4E Base Die Production](https://www.techpowerup.com/352169/sk-hynix-eyes-intel-foundry-for-hbm4e-base-die-manufacturing) ⭐️ 7.5/10
 
-A team of DIY archivists pushed budget Nikon cameras to a combined 902,000 shutter clicks to digitize 1,800 rare books, then trained a neural network on human Photoshop edits to automatically process 526,000 resulting scans. This project demonstrates a cost-effective, scalable approach to cultural preservation, showing that consumer-grade cameras can withstand extreme use far beyond typical ratings while AI can automate the labor-intensive post-processing that usually bottlenecks digitization projects. Entry-level Nikon DSLRs typically have shutter life ratings of around 100,000 actuations, yet these cameras survived nearly 10× that figure under continuous archival use. The neural network was specifically trained on Photoshop edit sequences performed by humans, effectively learning to replicate manual corrections at scale.
+According to the South Korean Herald, SK hynix is reportedly considering Intel Foundry alongside TSMC as a second source for manufacturing the custom-logic base dies of its next-generation HBM4E memory, potentially giving Intel Foundry a significant customer win. Until now, SK hynix had relied solely on TSMC for advanced HBM base die fabrication. This represents a notable validation of Intel Foundry's advanced-node capabilities and a potential shift in the HBM supply chain, which is critical for AI accelerators. Dual-sourcing with Intel would give SK hynix greater supply resilience and pricing leverage, while signaling that Intel Foundry is becoming a credible alternative to TSMC in the advanced packaging ecosystem. HBM4E base dies integrate custom logic such as memory controllers and PHYs directly into the stack, freeing up area on the compute chiplet and reducing latency. Currently, SK hynix sources TSMC's 12nm node for HBM4 base dies, but HBM4E will require an even more advanced process, since SK hynix's own 10nm-class nodes are no longer sufficient for customer demands. The specific Intel node to be used has not been disclosed, and the base die already costs 3-4x the DRAM core die, a gap that would widen further at 5nm.
 
-rss · Tom's Hardware · Aug 30, 12:00
+rss · TechPowerUp News · Aug 31, 13:16
 
-**Background**: Camera shutter actuation ratings indicate the manufacturer's expected lifespan of a camera's mechanical shutter mechanism. Entry-level DSLRs like the Nikon D3500 are typically rated for around 100,000 actuations, while mid-range and professional models can withstand 150,000–500,000 shots. Rare book digitization traditionally relies on expensive overhead book scanners or flatbed scanners, and the resulting images often require manual cleanup for issues like page curvature, lighting inconsistencies, and color correction. Training neural networks on human-edited image data—similar to how Adobe has integrated AI into Photoshop via Neural Filters and Generative Fill—is an emerging approach to automating visual quality improvements at scale.
+**Background**: High Bandwidth Memory (HBM) is a stacked DRAM technology used primarily in AI accelerators and high-performance GPUs, where multiple DRAM dies are vertically interconnected via Through-Silicon Vias (TSVs) on top of a logic base die. The base die traditionally handles buffer circuitry and test logic, but newer generations like HBM4 and HBM4E allow customers to embed custom logic such as memory controllers and PHY interfaces directly onto it, reducing the footprint and latency of the host compute chiplet. Intel Foundry, launched as Intel Foundry Services (IFS), opened Intel's fabs to external customers to diversify revenue and maximize fab utilization, positioning itself as an alternative to TSMC for advanced process and packaging work.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://imageonline.io/shutter-count/">Shutter Count - Check Camera Shutter Actuations</a></li>
-<li><a href="https://thenextweb.com/news/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels">How Photoshop’s new Neural Filters harness AI to generate new pixels</a></li>
-<li><a href="https://www.morethanasnapshot.com/blog/tag/Deep+Neural+Networks+in+Photoshop">Deep Neural Networks in Photoshop — Blog — More Than A Snapshot</a></li>
+<li><a href="https://www.techpowerup.com/352169/sk-hynix-eyes-intel-foundry-for-hbm4e-base-die-manufacturing">SK hynix Eyes Intel Foundry for HBM 4 E Base Die ... | TechPowerUp</a></li>
+<li><a href="https://wccftech.com/with-the-hbm-base-die-costing-3-4x-as-much-as-the-core-die-nvidias-nvhbm-is-a-master-stroke-for-capturing-most-of-the-hbm-value-while-relegating-the-big-three-to-the-commodity-status/">With The HBM Base Die Costing 3-4x As Much As The Core Die ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#machine-learning`, `#digital-archiving`, `#hardware-reliability`, `#cultural-preservation`, `#DIY-engineering`
+**Tags**: `#HBM4E`, `#Intel Foundry`, `#SK hynix`, `#semiconductors`, `#AI hardware`
 
 ---
 
 <a id="item-4"></a>
-## [Corsair RM1000e (2026) Review: Temperature-Sensing Cable Prevents GPU Connector Melting](https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review) ⭐️ 7.5/10
+## [SK hynix CEO Warns Memory Shortage Will Persist Through 2030](https://www.techpowerup.com/352156/sk-hynix-ceo-says-memory-shortage-will-last-through-2030) ⭐️ 7.5/10
 
-Corsair has launched the 2026 refresh of its mainstream RMe-series RM1000e power supply, headlined by a ThermalProtect temperature-sensing 12V-2x6 cable that automatically cuts power to the GPU before the connector can melt. The unit also achieves 80 Plus Platinum-class efficiency and supports fanless operation up to a 500W load. The 12VHPWR/12V-2x6 connector melting problem has affected owners of high-end Nvidia cards such as the RTX 4090 and RTX 5090, sometimes causing expensive hardware damage. A proactive, cable-level safety mechanism that shuts the system down before a thermal fault becomes a fire hazard is a meaningful step toward making high-wattage GPU builds safer for mainstream consumers. The safety feature is implemented in the cable itself rather than the PSU housing, and the unit is rated for Platinum-tier efficiency (at least ~89% AC-to-DC conversion). The 500W fanless window means the PSU can run silently under moderate loads, while ThermalProtect serves as a last-line-of-defense thermal cutoff tied directly to the 12V-2x6 connector.
+SK hynix CEO Kwak Noh-Jung stated that the current memory shortage will persist through the end of 2030 with no clear signs of a slowdown, extending the company's previous forecast of tight supply through 2028. He noted that any eventual easing would likely be gradual rather than the sharp price crashes seen in previous memory cycles, because AI-driven demand has shifted memory products away from being purely commodity parts. This forecast from one of the world's top three memory manufacturers signals prolonged supply constraints for DRAM and HBM, directly affecting AI infrastructure costs, cloud provider capital expenditure, and pricing for consumer electronics. The reframing of memory as a strategic, customized product rather than a commodity has major implications for how hyperscalers, GPU makers, and downstream OEMs plan their supply chains and pricing models. Kwak made the remarks at the groundbreaking ceremony for SK hynix's new packaging facility in Indiana, which targets mass production by Q2 2029. He attributed the structural change to customers moving toward customized DRAM and HBM configurations tailored for AI workloads, which makes demand more predictable for manufacturers and less prone to abrupt oversupply swings.
 
-rss · Tom's Hardware · Aug 30, 11:05
+rss · TechPowerUp News · Aug 30, 19:45
 
-**Background**: The 12VHPWR connector was introduced with the PCIe 5.0 standard to deliver up to 600W to power-hungry GPUs, but it became infamous for melting incidents when improperly seated or subjected to high current. In 2023, the connector was revised as 12V-2x6 alongside PCIe CEM 5.1, improving contact geometry and signal pins to reduce the risk of thermal failure. 80 Plus is a voluntary PSU efficiency certification program launched in 2004, where the Platinum tier requires roughly 89% or higher energy conversion efficiency, sitting below Titanium (>90%) and above Gold in the rating hierarchy.
+**Background**: High Bandwidth Memory (HBM) is a type of 3D-stacked DRAM that uses through-silicon vias to vertically connect multiple memory chips, delivering far greater bandwidth than traditional DRAM — a critical requirement for AI accelerators like GPUs. Historically, the memory market has been highly cyclical, with periods of shortage followed by sharp price crashes caused by overcapacity. SK hynix, along with Samsung and Micron, dominates the global DRAM and HBM market, and is a key supplier to AI chip leaders such as NVIDIA. The distinction between fabrication plants (fabs, where chips are manufactured on wafers) and packaging facilities (where completed chips are assembled, stacked, and tested) is relevant here: SK hynix's Indiana facility is a packaging plant, specifically important for HBM assembly.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/12VHPWR">12VHPWR - Wikipedia</a></li>
-<li><a href="https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/evolving-standards-12vhpwr-and-12v-2x6/">Evolving Standards: 12VHPWR and 12V-2x6 - Corsair</a></li>
-<li><a href="https://en.wikipedia.org/wiki/80_Plus">80 Plus - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://blog.kistacklab.com/en/article/hbm-memory-explained/">HBM Explained : Why High Bandwidth Memory ... | Kistack Blog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant">Semiconductor fabrication plant - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#power-supply`, `#hardware-review`, `#PC-building`, `#GPU-safety`, `#Corsair`
+**Tags**: `#semiconductors`, `#memory`, `#AI-infrastructure`, `#supply-chain`, `#DRAM`
 
 ---
 
 <a id="item-5"></a>
-## [NVIDIA Launches Jetson Orin Nano 2 with New Ampere SoC](https://www.servethehome.com/nvidia-announces-jetson-orin-nano-2-entry-level-edge-board-gets-new-ampere-silicon/) ⭐️ 7.5/10
+## [Motorless Solid-State Cooler Recycles Waste Heat into Refrigeration](https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration) ⭐️ 7.5/10
 
-NVIDIA has announced the Jetson Orin Nano 2, an entry-level edge AI developer board that delivers twice the performance of its predecessor while featuring a brand-new Orin SoC based on the Ampere architecture. This matters because the Jetson Orin Nano 2 brings significantly improved AI inference performance to the entry-level tier of NVIDIA's widely adopted edge computing platform, making generative AI, computer vision, and robotics workloads accessible to a broader base of developers and at lower price points. The board is powered by a new Orin SoC (not a simple spec bump of the original), running NVIDIA's open software stack. The Jetson Orin family as a whole supports up to 275 TOPS across seven modules, and the Nano 2 is specifically positioned to deliver real-time reasoning at the edge with strong energy efficiency.
+German and Japanese researchers have demonstrated a solid-state elastocaloric cooler that uses shape-memory alloy (SMA) thin films to convert waste heat directly into cooling power, without any motors or compressors. The device harnesses heat from a source—such as a processor—to drive an SMA actuator that induces a cooling effect in tailored SMA films. Data centers consume enormous amounts of energy, much of which is wasted as heat that then requires additional energy to remove. A solid-state, motor-free system that turns waste heat into active cooling could create a self-sustaining thermal loop, dramatically improving energy efficiency and reducing reliance on vapor-compression refrigeration and its associated greenhouse-gas-emitting refrigerants. The cooler relies on the elastocaloric effect—the latent heat released or absorbed during a stress-induced martensitic phase transition in shape-memory alloys. SMA films provide a large surface-to-volume ratio that enables efficient heat transfer through solid-to-solid contact, but a known trade-off is that materials with large isothermal entropy changes typically operate over narrow temperature windows, limiting overall cooling performance.
 
-rss · ServeTheHome · Aug 30, 10:00
+rss · Tom's Hardware · Aug 31, 15:40
 
-**Background**: The NVIDIA Jetson line is a family of compact, low-power computing boards designed for edge AI applications such as robotics, drones, smart cameras, and embedded AIoT devices. The Jetson Orin generation uses NVIDIA's Ampere GPU architecture, which succeeded the Volta and Turing generations and introduced third-generation Tensor Cores. All Jetson Orin modules share a common SoC architecture, making it easy to scale development across different performance tiers—from entry-level Nano boards up to the high-end AGX Orin modules that can deliver server-class AI performance at the edge.
+**Background**: Traditional cooling relies on vapor-compression refrigeration, which uses compressors and refrigerants that contribute to global warming. Elastocaloric cooling is an emerging solid-state alternative that exploits the phase transitions of shape-memory alloys—when mechanical stress is applied or removed, the material absorbs or releases heat, producing a cooling effect similar to how a refrigerator works but without harmful gases or moving compressors. Shape-memory alloy thin films are particularly attractive for this application because their high surface area enables rapid heat exchange, making them well-suited to microscale and chip-level thermal management.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.servethehome.com/nvidia-announces-jetson-orin-nano-2-entry-level-edge-board-gets-new-ampere-silicon/">NVIDIA Announces Jetson Orin Nano 2 : Entry-Level... - ServeTheHome</a></li>
-<li><a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/">Jetson AGX Orin for Next-Gen Robotics | NVIDIA</a></li>
-<li><a href="https://www.verdict.co.uk/nvidia-jetson-orin-nano-2-edge-ai/">Nvidia unveils Jetson Orin Nano 2 for entry-level edge AI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Elastocaloric_materials">Elastocaloric materials - Wikipedia</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s40830-024-00484-y">SMA Film-Based Elastocaloric Cooling Devices | Shape Memory ...</a></li>
+<li><a href="https://www.nature.com/articles/s41560-026-02122-6.pdf">Heat-driven elastocaloric cooling with shape memory films</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#nvidia`, `#edge-computing`, `#jetson`, `#embedded-ai`, `#hardware`
+**Tags**: `#thermal-management`, `#data-centers`, `#shape-memory-alloys`, `#solid-state-cooling`, `#energy-efficiency`
 
 ---
 
 <a id="item-6"></a>
-## [Five Billion Pulses: DUV Optics Durability Testing for Tool Uptime](https://semiwiki.com/lithography/372789-five-billion-pulses-later-what-duv-optics-testing-reveals-about-semiconductor-tool-uptime/) ⭐️ 7.0/10
+## [CXMT Claims First LPDDR6 Mass Production, Beats Western Rivals](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips) ⭐️ 7.5/10
 
-The article examines how DUV optics in semiconductor lithography tools are exposed to billions of laser pulses over their service life, revealing that initial reflectance specifications and laser-induced damage thresholds (LIDT) alone are insufficient to qualify long-term optical durability. Understanding true long-term optics behavior is critical for predicting lithography tool uptime, reducing unscheduled maintenance, and protecting the economics of advanced chip manufacturing—where DUV systems from vendors like ASML and ZEISS cost hundreds of millions of dollars and operate continuously. LIDT testing follows ISO 21254 standards and is inherently statistical; it represents a damage probability rather than an absolute safety threshold. Testing methodology requires a high-beam-quality, single-transverse-mode laser with a stable mode profile to be reliable.
+China's CXMT announced it is the first chipmaker to begin mass-producing LPDDR6 memory, with Xiaomi smartphones set to be the first devices to feature the new standard. This challenges the traditional dominance of Samsung, SK Hynix, and Micron in the DRAM market and carries significant geopolitical implications, signaling China's accelerating push toward self-sufficiency in advanced memory technology. The LPDDR6 standard (JESD209-6) was published by JEDEC on July 9, 2025, with device densities ranging from 4 Gb to 64 Gb and features including on-die ECC, command/address parity, and memory built-in self-test. CXMT, founded in 2016 and based in Hefei, is China's only domestically grown DRAM maker to have achieved mass production, and is planning an IPO.
 
-rss · SemiWiki · Aug 30, 19:00
+rss · Tom's Hardware · Aug 31, 10:30
 
-**Background**: Deep-ultraviolet (DUV) lithography uses light at very short wavelengths to print extremely fine circuit patterns onto silicon wafers, forming the backbone of mainstream chip manufacturing below 40 nm. The optical systems in modern DUV scanners, such as those made by ASML with optics from ZEISS SMT, are enormous (over 1.2 meters tall and exceeding one metric ton) and use mirrors and lenses that must maintain precise reflectivity for billions of laser pulses. The laser-induced damage threshold (LIDT) quantifies the fluence at which optical coatings begin to degrade, but standard testing only captures short-term damage probability, not cumulative degradation over years of operation.
+**Background**: LPDDR (Low Power Double Data Rate) is a type of DRAM memory designed for mobile and low-power applications such as smartphones, with each new generation offering improved bandwidth and energy efficiency. CXMT (ChangXin Memory Technologies) is a Chinese DRAM manufacturer that has rapidly scaled production since its founding in 2016. The global DRAM market has historically been dominated by three major players — Samsung, SK Hynix, and Micron — which collectively control the vast majority of worldwide supply.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Laser_damage_threshold">Laser damage threshold - Wikipedia</a></li>
-<li><a href="https://www.zeiss.com/semiconductor-manufacturing-technology/inspiring-technology/duv-lithography.html">DUV lithography for chip manufacturing | ZEISS SMT</a></li>
-<li><a href="https://www.asml.com/en/technology/lithography-principles/lenses-and-mirrors">Lenses & mirrors - Lithography principles | ASML</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LPDDR">LPDDR - Wikipedia</a></li>
+<li><a href="https://www.jedec.org/news/pressreleases/jedec®-releases-new-lpddr6-standard-enhance-mobile-and-ai-memory-performance">JEDEC® Releases New LPDDR6 Standard to Enhance Mobile and AI Memory Performance | JEDEC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#lithography`, `#DUV-optics`, `#manufacturing-reliability`, `#photonics`
+**Tags**: `#LPDDR6`, `#semiconductors`, `#CXMT`, `#DRAM`, `#China-tech`
 
 ---
 
 <a id="item-7"></a>
-## [SteamOS 3.9.0 Preview Brings KDE 6.7.3 and Linux Kernel 7.2](https://www.techpowerup.com/352133/steamos-3-9-0-preview-launches-with-kde-6-7-3-and-linux-kernel-7-2) ⭐️ 6.5/10
+## [NVIDIA Jetson Orin Nano 2: Entry-Level Edge AI Board Doubles Performance](https://www.servethehome.com/nvidia-announces-jetson-orin-nano-2-entry-level-edge-board-gets-new-ampere-silicon/) ⭐️ 7.5/10
 
-Valve has released the SteamOS 3.9.0 Preview, upgrading the Desktop Mode from KDE 6.4.3 to KDE 6.7.3 and updating the Linux kernel to version 7.2. The update brings improvements including enhanced Krunner search, clipboard pinning, better drawing tablet support, Intel Arc B390 iGPU performance gains, and USB4Stream support for device-to-device file sharing over USB4. This update is significant for the Steam Deck and Linux gaming ecosystem, as it delivers major version jumps in both the desktop environment and the kernel, potentially improving overall user experience and gaming performance. The Intel Arc performance boost could particularly benefit handheld PCs and laptops running SteamOS on Intel-based hardware, while broader KDE Plasma enhancements may make the desktop mode more polished for daily use. This is a preview release intended for testing, so the changes are not yet final and may be modified before the stable rollout, meaning average Steam Deck users won't receive these changes immediately. The KDE jump from 6.4.3 to 6.7.3 is a substantial version leap, while the Linux kernel 7.2 update is also unusually large and may introduce compatibility considerations.
+NVIDIA announced the Jetson Orin Nano 2, a new entry-level edge AI robotics computer built around an all-new Orin SoC rather than a simple refresh. It delivers 2× the inference performance of its predecessor while consuming 40% less power at the same performance level, in the same form factor. This board puts frontier-class generative AI capability into the hands of entry-level developers building robots, delivery and inspection drones, and vision AI systems. The 2× performance gain paired with lower power addresses the core trade-offs of edge deployment and could accelerate adoption of physical AI across robotics and IoT. The new Orin SoC features NVIDIA's Ampere GPU architecture, but the module and developer kit are not expected until the first half of 2027 — a gap of at least four months between announcement and silicon. Pricing has not been announced, leaving the existing $249 Jetson Orin Nano Super as the de facto entry point in the meantime.
 
-rss · TechPowerUp News · Aug 30, 05:14
+rss · ServeTheHome · Aug 30, 22:00
 
-**Background**: SteamOS is Valve's Linux-based operating system, originally designed for the Steam Machine platform and now the primary OS for the Steam Deck handheld gaming PC. KDE Plasma is the desktop environment used in SteamOS's Desktop Mode, and Krunner is KDE's built-in launcher that allows users to search for applications, run commands, and perform various tasks quickly—similar to macOS Spotlight. Linux kernel updates often include hardware support improvements, driver enhancements, and performance optimizations that benefit both gaming and general computing workloads, while the Linux 7.2 release specifically brings notable gains for Intel Arc integrated GPUs.
+**Background**: Edge AI refers to running machine learning inference directly on local devices rather than sending data to centralized cloud servers, enabling faster responses, lower latency, and reduced bandwidth consumption. NVIDIA's Jetson line is a family of compact computing boards designed for this purpose, widely used in robotics, drones, smart cameras, and embedded AI applications. The Orin SoC family is built on NVIDIA's Ampere GPU architecture and integrates Arm CPU cores, offering a balance of AI compute and power efficiency for autonomous machines.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wiki.archlinux.org/title/KRunner">KRunner - ArchWiki</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai">NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to ...</a></li>
+<li><a href="https://www.unite.ai/nvidia-unveils-jetson-orin-nano-2-to-redefine-entry-level-edge-ai/">NVIDIA Unveils Jetson Orin Nano 2 to Redefine Entry-Level ...</a></li>
+<li><a href="https://www.ibm.com/think/topics/edge-ai">What is edge AI? - IBM</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SteamOS`, `#Steam Deck`, `#Linux`, `#KDE`, `#Gaming`
+**Tags**: `#nvidia`, `#edge-ai`, `#jetson`, `#embedded-systems`, `#hardware`
 
 ---
 
 <a id="item-8"></a>
-## [DK64 ReKONGpiled: Donkey Kong 64 Gets Native C PC Port](https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code) ⭐️ 6.5/10
+## [CXMT Begins Risk Production of HBM3E Memory, Two Generations Behind South Korean Leaders](https://www.techpowerup.com/352175/cxmt-starts-risk-production-of-hbm3e-memory) ⭐️ 6.5/10
 
-Veteran developers have fully recompiled Donkey Kong 64 into native C code with the DK64 ReKONGpiled project, producing a free PC port that runs natively on Windows, Linux, and Mac with ultrawide support, uncapped framerates, and no generative AI code. This represents a notable reverse-engineering achievement for one of the most complex N64 titles — a launch-era game that required the Expansion Pak — and extends the decompilation community's track record (following SM64, Mario Kart 64, and others) into a new entry, allowing native play without emulation overhead and aiding long-term preservation. The project uses a 'bring your own ROM' (BYOROM) distribution model, meaning users must supply a legally obtained copy of the game — it does not bundle Nintendo's IP. The developers emphasized that the entire codebase is hand-written C with zero AI-generated code, distinguishing it from recent 'vibecoded' retro revival projects.
+Chinese memory manufacturer CXMT has reportedly begun risk production of HBM3E memory, marking a key milestone for China's domestic memory industry while production volumes remain very low. This is significant for China's semiconductor self-sufficiency push, particularly for AI infrastructure that depends heavily on high-bandwidth memory. However, CXMT remains roughly two generations behind Samsung and SK hynix, which are already transitioning to HBM4E production. CXMT is targeting approximately 350,000 DRAM wafers per month by year's end, and given its historical pace, mass production of HBM3E could follow within just a few weeks. The JEDEC HBM3E specification requires a 1,024-bit interface, pin speeds of 9.2 to 12.4 Gbps, and per-stack bandwidth of around 1.2 TB/s with capacities of 24 GB (8-hi) or 36 GB (12-hi).
 
-rss · Tom's Hardware · Aug 30, 14:26
+rss · TechPowerUp News · Aug 31, 14:30
 
-**Background**: Decompilation projects reverse-engineer a compiled game's machine code (in the N64's case, MIPS assembly) back into a human-readable high-level language such as C, enabling the software to be recompiled natively for modern platforms without an emulator. This differs from straightforward emulation, which translates instructions at runtime, and from dynamic recompilers like the open-source N64 Recompiled project, which translate binaries to other architectures on the fly. Donkey Kong 64 was one of the most technically demanding N64 titles at launch, notably requiring the console's 4 MB Expansion Pak to enable additional RAM.
+**Background**: HBM (High Bandwidth Memory) is a 3D-stacked DRAM technology essential for AI accelerators and high-performance GPUs, where wide interfaces and vertical stacking deliver far greater bandwidth than conventional DRAM. Risk production is a critical low-volume manufacturing phase in which full wafers of a single chip design are fabricated to validate performance and optimize yields before high-volume mass production begins. The JEDEC HBM3E standard (JESD238) defines a 1,024-bit interface across 16 channels with pin speeds typically between 9.2 and 9.8 Gbps. Its successor HBM4, already on the roadmap for 2026, doubles the interface width to 2,048 bits to exceed 1.6 TB/s per stack, while HBM4E extends performance further still.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://readonlymemo.com/decompilation-projects-and-n64-recompiled-list/">Decompilation projects and N 64 Recompiled PC ports (August 2026)</a></li>
-<li><a href="https://hackaday.com/2025/06/23/video-game-preservation-through-decompilation/">Video Game Preservation Through Decompilation | Hackaday</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://grokipedia.com/page/Risk_production_semiconductors">Risk production (semiconductors) — Grokipedia</a></li>
+<li><a href="https://blogs.sw.siemens.com/semiconductor-packaging/2026/04/24/hbm3e-hbm4-ic-design-guide/">HBM3e and HBM4: IC design guide for next-generation high bandwidth memory</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#reverse-engineering`, `#retro-gaming`, `#decompilation`, `#game-preservation`, `#nintendo-64`
+**Tags**: `#semiconductors`, `#HBM`, `#memory`, `#CXMT`, `#China-tech`
 
 ---
 
 <a id="item-9"></a>
-## [CXMT Sues Pentagon to Remove Itself from Chinese Military Blacklist](https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware) ⭐️ 6.5/10
+## [AMD Starts Zen 6 Desktop Enablement in Linux 7.3](https://www.techpowerup.com/352155/amd-starts-zen-6-desktop-enablement-in-linux-7-3) ⭐️ 6.5/10
 
-ChangXin Memory Technologies (CXMT), China's largest DRAM manufacturer, has filed a lawsuit against the US Department of Defense seeking removal from the Pentagon's Section 1260H list of alleged Chinese military companies. The company argues that its DRAM products are standard civilian-grade chips conforming to JEDEC specifications rather than military hardware. As the world's fourth-largest DRAM supplier by market share, CXMT's blacklisting has significant implications for global memory supply chains and US-China semiconductor tensions. This lawsuit could set a legal precedent for how Chinese chip companies contest US entity listings, potentially shaping future export control enforcement. CXMT's legal strategy hinges on demonstrating that JEDEC compliance proves civilian use, since JEDEC standards are global, open industry specifications used across commercial electronics. A recent federal appeals court reviewed DJI's similar challenge to its 1260H designation, indicating courts are actively scrutinizing the Pentagon's listing criteria.
+AMD has begun enabling Linux kernel 7.3 support for its upcoming Zen 6 desktop processors, codenamed "Olympic Ridge." The update adds HSMP protocol version 7 for Zen 6 Family 1Ah Model 80H processors, along with new AMD PMF platform driver features including a new ioctl interface for device metrics. This kernel enablement is a key milestone signaling that Zen 6 desktop processors are moving closer to launch, directly impacting Linux users and the open-source ecosystem. The increase in cores per CCD (up to 12, from 8) and the move to TSMC's N2 2nm node represent significant architectural advances that will shape the broader desktop CPU market and AMD's competitive position against Intel. Zen 6 increases the per-CCD core count to up to 12 instances (up from 8 in prior generations), with dual-CCD configurations offering 12-, 16-, 20-, and a flagship 24-core SKU. The move to TSMC's N2 2nm manufacturing node provides the higher transistor density needed to pack more cores into each CCD.
 
-rss · Tom's Hardware · Aug 30, 11:30
+rss · TechPowerUp News · Aug 31, 11:58
 
-**Background**: ChangXin Memory Technologies (长鑫存储) was founded in 2016 and is headquartered in Hefei, Anhui province. It is China's only large-scale integrated DRAM designer and manufacturer, producing dynamic random-access memory chips used in smartphones, PCs, and servers. JEDEC (Joint Electron Device Engineering Council) is the global standards organization that defines semiconductor memory specifications widely adopted across the consumer electronics industry. The Pentagon's Section 1260H list identifies companies allegedly affiliated with the Chinese military, and inclusion imposes restrictions on US defense contracting and has broader signaling effects on supply chain decisions.
+**Background**: AMD's Zen microarchitecture is the foundation of its Ryzen processors, with each generation typically delivering performance and efficiency gains. A CCD (Core Complex Die) is one of the chiplet dies in AMD's multi-die CPU design; AMD combines multiple CCDs with an I/O die to scale core counts. HSMP (Host System Management Port) is an interface that lets OS-level software communicate with the system's management firmware through mailbox registers, enabling monitoring and control of system parameters. AMD's PMF (Platform Management Framework) is a Linux driver that aims to make AMD PCs smarter, quieter, and more power-efficient by adapting to user behavior and environment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/JEDEC_memory_standards">JEDEC memory standards - Wikipedia</a></li>
-<li><a href="https://cryptobriefing.com/dji-pentagon-list-court-review/">Court upholds DJI's inclusion on Pentagon Chinese military list</a></li>
+<li><a href="https://docs.kernel.org/arch/x86/amd_hsmp.html">20. AMD HSMP interface — The Linux Kernel documentation</a></li>
+<li><a href="https://qsantos.fr/2024/10/03/amd-cpus-ccds-and-ccxs/">AMD CPUs, CCDs and CCXs - Quentin Santos</a></li>
+<li><a href="https://www.guru3d.com/story/amd-zen-6-medusa-ridge-processor-leak-reveals-12core-ccd-architecture/">AMD Zen 6 Medusa Ridge Processor Leak Reveals 12- Core CCD ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#DRAM`, `#US-China-tech-tensions`, `#export-controls`, `#CXMT`
+**Tags**: `#AMD`, `#Zen 6`, `#Linux kernel`, `#CPU architecture`, `#hardware`
 
 ---
 
 <a id="item-10"></a>
-## [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) ⭐️ 6.0/10
+## [Key Nvidia and Intel supplier raided over alleged China origin fraud — Unimicron faces probe over PCB origin washing, risk of 40% U.S. tariff penalty](https://www.tomshardware.com/tech-industry/big-tech/key-nvidia-and-intel-supplier-raided-over-alleged-china-origin-fraud-unimicron-faces-probe-over-pcb-origin-washing-risk-of-40-percent-u-s-tariff-penalty) ⭐️ 6.5/10
 
-Haiku OS releases its R1/beta6, another milestone in the long-running development of the BeOS-inspired open-source operating system.
+Taiwanese prosecutors are investigating Unimicron, a major PCB/substrate supplier to Nvidia, Intel, Google, and Amazon, for allegedly relabeling China-made PCBs as Taiwanese to evade U.S. tariffs, potentially facing a 40% tariff penalty.
 
-hackernews · metrofun · Aug 30, 16:01 · [Discussion](https://news.ycombinator.com/item?id=49499867)
+rss · Tom's Hardware · Aug 31, 11:55
 
-**Tags**: `#haiku-os`, `#operating-systems`, `#open-source`, `#release`, `#beos`
+**Tags**: `#supply-chain`, `#semiconductors`, `#trade-policy`, `#nvidia`, `#intel`
 
 ---
 
 <a id="item-11"></a>
-## [Warhorse Developer Defends DLSS 5, Says It's Not an AI Slop Filter](https://www.techpowerup.com/352160/warhorse-developer-defends-dlss-5-says-its-not-an-ai-slop-filter) ⭐️ 5.5/10
+## [Apple Underestimates AI-Driven Demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) ⭐️ 6.0/10
 
-Kingdom Come: Deliverance 2 director Daniel Vávra defends NVIDIA's DLSS 5, praising its improvements to character lighting and shadow rendering while acknowledging the significant performance cost.
+A report indicates that Apple was caught off guard by surging demand for the Mac Mini, Mac Studio, and other Mac models driven by interest in running local AI workloads, revealing that the company reportedly lacks a dedicated enterprise engineering team and a coherent enterprise AI strategy. This is significant because it highlights a strategic blind spot at one of the world's largest hardware companies at a moment when local and edge AI deployment is reshaping hardware purchasing decisions across developers and enterprises. The gap could push AI-focused buyers toward competitors like NVIDIA, AMD-based workstations, or specialized AI stations from Lenovo and HP. Apple reportedly had no engineering team dedicated to business customers and no developer relations staff focused on enterprise AI, which made it unable to anticipate or capitalize on the wave of professionals building local LLM and inference setups on Apple silicon. Community reports also note that the budget-tier Mac Neo is sold out until late September, suggesting demand extends well beyond high-end configurations.
 
-rss · TechPowerUp News · Aug 31, 00:36
+hackernews · thm · Aug 31, 12:41 · [Discussion](https://news.ycombinator.com/item?id=49508982)
 
-**Tags**: `#DLSS 5`, `#NVIDIA`, `#graphics-technology`, `#game-development`, `#ray-tracing`
+**Background**: Local AI refers to running AI models directly on a user's own hardware rather than relying on cloud-based services, and it has gained traction due to privacy concerns, lower latency, and the availability of capable consumer GPUs. Edge AI is a related concept that deploys AI algorithms on local edge devices rather than centralized data centers, enabling real-time processing without constant cloud connectivity. Apple's M-series chips, with unified memory architecture, have become popular for local AI inference because they can allocate large amounts of memory to AI workloads, which is a key advantage when running large language models on-device.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.local-llm.net/learn/what-is-local-ai/">What Is Local AI? The Complete Guide to Running AI on Your Own Hardware | local-llm.net</a></li>
+<li><a href="https://www.ibm.com/think/topics/edge-ai">What is edge AI? - IBM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Edge_computing">Edge computing - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Discussion is mixed but generally constructive. One commenter questions whether local AI setups are practically competitive with cheap cloud subscriptions, noting struggles even with a 16GB GPU. Others highlight the irony of Apple lacking an enterprise strategy despite its scale, express frustration that Mac Mini stock was consumed by AI buyers instead of HTPC enthusiasts, and hope that under new leadership Apple will invest in stability and bug fixes.
+
+**Tags**: `#Apple`, `#Local AI`, `#Mac Mini`, `#Hardware Demand`, `#Edge Computing`
 
 ---
 
 <a id="item-12"></a>
-## [NVIDIA Blocks RTX 5000 Power Limit Bypass in Driver 615.56](https://www.techpowerup.com/352157/nvidia-shuts-down-rtx-5000-power-limit-control-oc-in-latest-driver-update) ⭐️ 5.5/10
+## [Speculative Commissary Freezer Hack Sparks ICS Security Debate](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary) ⭐️ 6.0/10
 
-NVIDIA's latest driver update (615.56) blocks the power limit control bypass that the open-source tool mVolt+ had unlocked on RTX 5000-series GPUs, causing black screens when users attempt to draw additional power. Reports indicate that any attempt to input extra current now triggers a driver crash, though a beta build of Hydra 2.3 reportedly still retains core power override functionality. This represents the ongoing cat-and-mouse dynamic between NVIDIA and the enthusiast overclocking community, directly affecting RTX 5090 and RTX 5080 owners who had been using mVolt+ to push their cards to 700W and 680W respectively. The move could limit extreme overclocking achievements and shift the community toward alternative tools or hardware-level shunt modifications. mVolt+ version 0.36 previously enabled up to 125W of additional power on the RTX 5090 without requiring a shunt mod. It remains unclear whether NVIDIA intentionally targeted mVolt+ or whether the black screen is simply an unintended incompatibility with the new driver, as the beta Hydra 2.3 still appears to function.
+A speculative Substack post claims military commissary freezers may have been hacked, prompting a Hacker News discussion that elevated the topic with expert perspectives on industrial control system vulnerabilities. Commenters with military IT experience weighed in alongside engineers who described real-world encounters with unsecured Siemens PLCs running default credentials. The discussion surfaces genuine and ongoing concerns about ICS security in critical and military infrastructure, where legacy PLCs with default credentials and unencrypted communications remain common. It also highlights how isolated overseas bases such as Guam and Hawaii could serve as high-value targets for state-aligned actors seeking ripple effects on local economies. Engineers in the thread reported that Siemens S7-1500 PLCs are frequently deployed with default admin/admin credentials and that contractors often lack the expertise to enable TLS on these devices. Commenters also noted that DECA (Defense Commissary Agency) appears to centrally manage refrigeration across bases, and that without baseline failure-rate data, a handful of daily failures could be normal maintenance rather than malicious activity.
 
-rss · TechPowerUp News · Aug 30, 21:16
+hackernews · jcurbo · Aug 31, 11:45 · [Discussion](https://news.ycombinator.com/item?id=49508506)
 
-**Background**: GPU power limits are typically enforced through the VBIOS, which restricts how much wattage a graphics card can draw beyond factory settings. Software tools like mVolt+ exploit driver-level access to bypass these limits without physical hardware modification. Hardware-level alternatives, known as shunt mods, involve physically replacing resistors on the PCB to change the GPU's power sensing, a more invasive but harder-to-block approach. NVIDIA periodically updates drivers to close software-based bypasses, maintaining its control over card warranty boundaries and power delivery specifications.
+**Background**: A Programmable Logic Controller (PLC) is a specialized industrial computer used to automate and monitor physical processes in factories, infrastructure, and military systems, communicating typically via SCADA or HMI platforms. Industrial Control Systems (ICS) built on these PLCs are frequently vulnerable due to legacy hardware, default credentials, poor network segmentation, and difficulty applying patches without disrupting operations. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) regularly publishes ICS advisories cataloging such vulnerabilities, underscoring the persistent risk to critical infrastructure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/352157/nvidia-shuts-down-rtx-5000-power-limit-control-oc-in-latest-driver-update">NVIDIA Shuts Down RTX 5000 Power Limit Control OC... | TechPowerUp</a></li>
+<li><a href="https://www.cisa.gov/topics/industrial-control-systems">Industrial Control Systems | Cybersecurity and Infrastructure ... ICS Advisories - CISA Guide to Industrial Control Systems (ICS) Security | NIST Industrial Control System Cybersecurity: A Practical Guide The 2026 Cybersecurity Guide to Industrial Control Systems Top 10 most common vulnerabilities in Industrial Control ...</a></li>
+<li><a href="https://cybersecmagazine.com/industrial-control-systems-vulnerabilities-and-best-practices/">Industrial Control Systems: Vulnerabilities and Best ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Programmable_logic_controller">Programmable logic controller - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Hacker News commenters with military IT backgrounds generally leaned toward misconfiguration rather than deliberate hacking, while expressing concern about the timing and the targeting value of isolated overseas bases. Engineers corroborated the article's concerns by sharing first-hand experience with Siemens PLCs still running default admin/admin credentials and contractors unable to configure TLS. Skeptics urged caution, noting that without knowing the total freezer fleet size, a small number of daily failures could easily be explained by routine maintenance.
+
+**Tags**: `#cybersecurity`, `#industrial-control-systems`, `#military`, `#critical-infrastructure`, `#plc-security`
+
+---
+
+<a id="item-13"></a>
+## [Exploiting agentic automation cost-effectively. Innovation in Verification](https://semiwiki.com/artificial-intelligence/372524-exploiting-agentic-automation-cost-effectively-innovation-in-verification/) ⭐️ 6.0/10
+
+Industry discussion on cost-effectively leveraging frontier and local open-weight AI models for agentic automation in semiconductor verification workflows.
+
+rss · SemiWiki · Aug 31, 13:00
+
+**Tags**: `#agentic-ai`, `#semiconductor-verification`, `#eda`, `#ai-cost-optimization`, `#open-weight-models`
+
+---
+
+<a id="item-14"></a>
+## [Signaloid Founder Transitions from Cambridge to Lead Uncertainty-Aware Computing Startup](https://semiwiki.com/ceo-interviews/372496-ceo-interview-with-phillip-stanley-marbell-of-signaloid/) ⭐️ 6.0/10
+
+SemiWiki published a CEO interview with Phillip Stanley-Marbell, founder of Signaloid, who transitioned from his role as full Professor and Chair of Physical Computation at the University of Cambridge in September 2025 to lead the company full-time. The interview covers his journey from academia to industry and Signaloid's approach to uncertainty-aware computing platforms. Stanley-Marbell's transition from a prestigious Cambridge professorship to a semiconductor startup reflects growing commercial momentum behind probabilistic and uncertainty-aware computing paradigms. As workloads in quantitative finance, physics simulation, and machine learning are inherently probabilistic, architectures that natively handle uncertainty could disrupt conventional CPU/GPU design assumptions. Signaloid markets computing platforms claiming speedups of up to 1000x per core compared to existing high-end processors for probabilistic workloads including quantitative finance, physics simulation, and probabilistic machine learning. The company leverages intellectual property derived from Stanley-Marbell's academic research at the Physical Computation Laboratory he led at Cambridge.
+
+rss · SemiWiki · Aug 30, 21:00
+
+**Background**: Uncertainty-aware computing is a paradigm that aims to natively represent and propagate probability distributions through hardware, rather than treating uncertainty as an afterthought to be managed in software. This contrasts with traditional deterministic computing, where computers process exact values, and with approximate computing, which sacrifices precision for efficiency without explicitly tracking uncertainty. Interest in this approach has grown alongside probabilistic machine learning, Bayesian inference, and Monte Carlo simulations used in quantitative finance and scientific computing. Signaloid positions itself as a provider of platforms purpose-built for these probabilistic workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://signaloid.com/">Signaloid: The Future of Computing for Probabilistic Workloads</a></li>
+<li><a href="https://signaloid.com/technology">Signaloid: Technology</a></li>
+<li><a href="https://www.computer.org/csdl/magazine/co/2025/04/10938012/25mYGwzXBYc">Uncertainty in Machine Learning and Future Computers</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#uncertainty-computing`, `#signaloid`, `#startup-interview`, `#approximate-computing`
+
+---
+
+<a id="item-15"></a>
+## [Advanced Cooling Technologies Address the Automotive Heat Challenge](https://www.eetimes.com/advanced-cooling-technologies-address-the-automotive-heat-challenge/) ⭐️ 6.0/10
+
+Brief news teaser about emerging cooling technologies addressing increasing heat fluxes in electric drivetrains, AI processors, and autonomous automotive systems.
+
+rss · EE Times · Aug 31, 07:46
+
+**Tags**: `#automotive`, `#thermal-management`, `#EV`, `#AI-hardware`, `#cooling-technology`
+
+---
+
+<a id="item-16"></a>
+## [China's Top DRAM Maker CXMT Takes Pentagon to Court Over Military Blacklist](https://www.techpowerup.com/352190/chinas-top-dram-maker-cxmt-takes-pentagon-to-court-over-military-blacklist) ⭐️ 5.5/10
+
+China's largest DRAM maker CXMT is suing the Pentagon over its Section 1260H military blacklist designation, arguing JEDEC-compliant commercial standards prove it isn't a military-linked company.
+
+rss · TechPowerUp News · Aug 31, 18:49
+
+**Tags**: `#semiconductors`, `#DRAM`, `#US-China tech relations`, `#geopolitics`, `#CXMT`
+
+---
+
+<a id="item-17"></a>
+## [Leaked DLSS 5 Tested on RTX 20-Series Turing GPUs via FP16 Mods](https://www.techpowerup.com/352181/leaked-dlss-5-is-being-tested-on-rtx-20-series-turing-gpus-now-runs-on-emulators-and-old-directx-titles) ⭐️ 5.5/10
+
+Modders have successfully ported the leaked DLSS 5 (DLSS-NR) DLL to NVIDIA's RTX 20-series Turing GPUs using an FP16 implementation, with developer ShortFuse releasing new builds for older RTX hardware. The community has also confirmed DLSS 5 running on emulators like PCSX2 (Manhunt) and older DirectX 9/11 titles well beyond NVIDIA's officially supported APIs, though compatibility remains inconsistent across games. This demonstrates that NVIDIA's next-generation neural rendering technology can technically function on hardware three generations older than its intended Blackwell target, potentially extending the relevance of older RTX cards. It also highlights the rapid pace at which the modding community is dissecting and deploying leaked DLSS 5 technology before any official launch. The switch from FP8 to FP16 precision was critical: FP8 caused performance collapses on Ampere GPUs because neither Turing nor Ampere natively accelerate FP8 the way Blackwell does. Test results were highly inconsistent—Red Dead Redemption worked, but Red Dead Redemption 2 failed, Hogwarts Legacy got stuck in standby, and GTA 5 lost display signal after roughly ten seconds.
+
+rss · TechPowerUp News · Aug 31, 16:00
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.itechpost.com/articles/237175/20260830/nvidia-dlss-5-leaked-modders-bring-its-neural-rendering-ai-graphics-games.htm">NVIDIA DLSS 5 Leaked as Modders Bring Its Neural Rendering ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community on the RenoDX Discord and X (formerly Twitter) has been actively testing DLSS 5 across various hardware configurations, with user @DystopianSuns leading the FP16 implementation effort. Enthusiasm is high for getting the tech running on older cards and emulators, but testers acknowledge the experience remains unstable and far from production-ready.
+
+**Tags**: `#DLSS`, `#NVIDIA`, `#GPU`, `#graphics-technology`, `#modding`
+
+---
+
+<a id="item-18"></a>
+## [Warhorse Developer Defends DLSS 5, Says It's Not an AI Slop Filter](https://www.techpowerup.com/352160/warhorse-developer-defends-dlss-5-says-its-not-an-ai-slop-filter) ⭐️ 5.5/10
+
+Kingdom Come: Deliverance 2 director Daniel Vávra defends DLSS 5 as a legitimate lighting improvement that solves long-standing shadow rendering issues, despite halving frame rates.
+
+rss · TechPowerUp News · Aug 31, 00:36
+
+**Tags**: `#DLSS`, `#NVIDIA`, `#gaming`, `#graphics-technology`, `#ray-tracing`
+
+---
+
+<a id="item-19"></a>
+## [NVIDIA Blocks mVolt+ Power Limit Overclocking in Driver 616.56](https://www.techpowerup.com/352157/nvidia-shuts-down-rtx-5000-power-limit-control-oc-in-latest-driver-update) ⭐️ 5.5/10
+
+NVIDIA's latest driver update (616.56) has broken the mVolt+ overclocking tool's ability to bypass stock power limits on RTX 5000-series GPUs, causing black screen crashes when users attempt to increase power draw. Notably, the Hydra 2.3 beta tool still functions with the new driver, suggesting the conflict may be unintentional. This affects hardware enthusiasts who had been extracting significant extra performance from RTX 5090 (up to 700W) and RTX 5080 (up to 680W) cards without hardware modifications. It also raises questions about NVIDIA's stance on software-based power limit bypasses, which tread the line between user freedom and warranty/liability concerns. mVolt+ v0.36 exposed hidden Blackwell GPU registers that allowed separate power-channel limits for the GPU core and memory, along with voltage control across Core, XBAR, SYS, and Video domains. Conventional tools like MSI Afterburner remain constrained to VBIOS-defined limits, requiring hardware shunt mods to exceed them; mVolt+ achieved the same effect purely through software.
+
+rss · TechPowerUp News · Aug 30, 21:16
+
+**Background**: GPU overclocking typically requires software tools to adjust parameters like core clock, memory clock, and power limits. NVIDIA enforces power limits through the VBIOS (Video BIOS) firmware on the card, which standard tools like MSI Afterburner cannot exceed without hardware modifications. The shunt mod is a physical hardware modification that changes a resistor to trick the GPU into reading lower power draw, effectively raising the software power limit ceiling. Tools like mVolt+ discovered undocumented Blackwell GPU hardware blocks that allow bypassing VBIOS power limits entirely through software, giving users far more control without voiding warranties through hardware changes.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/pc-components/gpu-drivers/nvidias-latest-driver-update-breaks-mvolt-overclocking-functionality-nifty-open-source-app-allowed-users-to-increase-the-power-limit-to-700w-on-their-rtx-50-series-gpus-without-hardware-mods">Nvidia's latest driver update breaks mVolt+ overclocking functionality...</a></li>
+<li><a href="https://www.techpowerup.com/351867/nvidia-power-limit-bypass-rtx-5090-oc-hits-700-w-rtx-5080-up-to-680-w-no-shunt-mod-needed">NVIDIA Power Limit Bypass: RTX 5090 OC Hits 700 W, RTX 5080 ...</a></li>
 <li><a href="https://windowsforum.com/windows-news.4/mvolt-0-36-unlocks-700w-rtx-5090-and-680w-rtx-5080.443441/">mVolt+ 0.36 Unlocks 700W RTX 5090 and 680W RTX 5080</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Based on Overclock.net forum reports and Uniko's Hardware on X, the community is actively debating whether NVIDIA deliberately blocked mVolt+ or if this is an accidental regression. Some users note that Hydra 2.3 beta still works, suggesting mVolt+ may need updates to maintain compatibility. The broader sentiment reflects frustration with NVIDIA's restrictive stance on power controls, with some users turning toward alternative tools or hardware modifications.
+**Discussion**: Forum discussions on Overclock.net and X/Twitter (via Uniko's Hardware) report that mVolt+ attempts cause immediate black screens on the new driver, but multiple users note that Hydra 2.3 beta still works, fueling speculation that this may be an incompatibility rather than a deliberate blacklist. The community remains divided on whether NVIDIA intentionally targeted mVolt+ or whether the issue is merely an untested combination that will be resolved in a future driver.
 
-**Tags**: `#NVIDIA`, `#RTX 5000`, `#overclocking`, `#GPU drivers`, `#hardware`
-
----
-
-<a id="item-13"></a>
-## [Leaked DLSS 5 Runs on RTX 30-Series GPUs at Under 1 FPS](https://www.techpowerup.com/352147/leaked-dlss-5-reaches-rtx-30-series-ampere-gpus-but-performance-falls-apart) ⭐️ 5.5/10
-
-Modders on the RenoDX Discord successfully ported the leaked DLSS 5 neural rendering technology to unsupported RTX 30-series 'Ampere' GPUs, but performance was catastrophic — an RTX 3070 laptop GPU saw render latency jump from 29 ms to over 3,300 ms in Kingdom Come: Deliverance II, and an RTX 3080 dropped from ~130 FPS to just 4 FPS in Deep Rock Galactic. This highlights the substantial hardware leap NVIDIA's neural rendering requires and confirms that DLSS 5 will remain exclusive to RTX 50-series 'Blackwell' GPUs for the foreseeable future, leaving millions of RTX 30-series owners without an upgrade path. The root cause is that Ampere GPUs lack native FP8 (8-bit floating point) support, which the leaked DLSS 5 model relies on for efficient neural network inference; RTX 40-series 'Ada Lovelace' cards, which do support FP8, handled the modded DLSS 5 noticeably better, though NVIDIA has not announced any plans to officially support them either.
-
-rss · TechPowerUp News · Aug 30, 16:43
-
-**Background**: NVIDIA DLSS (Deep Learning Super Sampling) is a suite of AI-driven rendering technologies that use Tensor Cores on RTX GPUs to boost frame rates and image quality. DLSS 5 represents the latest evolution, introducing real-time 'neural rendering' that enhances lighting and materials to deliver near-photorealistic visuals. NVIDIA's GPU generations differ in AI acceleration capabilities: RTX 30-series 'Ampere' (2020), RTX 40-series 'Ada Lovelace' (2022), and RTX 50-series 'Blackwell' (2024/2025). Each generation adds newer low-precision data formats like FP8 to speed up neural network inference, which older architectures cannot execute natively.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.nvidia.com/rtx/dlss">NVIDIA DLSS | NVIDIA Developer</a></li>
-<li><a href="https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/">NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best...</a></li>
-<li><a href="https://cloudzy.com/blog/what-is-neural-rendering/">What Is Neural Rendering ? AI Graphics Pipeline Explained...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The modding community on the RenoDX Discord and X/Twitter reacted with a mix of amusement and technical curiosity. Users celebrated the technical achievement of getting DLSS 5 running on unsupported hardware but were unsurprised by the poor results, as the lack of FP8 support on Ampere was already suspected. Some expressed disappointment that NVIDIA has not signaled plans to bring official DLSS 5 support to even RTX 40-series cards.
-
-**Tags**: `#DLSS`, `#NVIDIA`, `#GPU`, `#ray-tracing`, `#modding`
-
----
-
-<a id="item-14"></a>
-## [SpaceX Brings Turbine Blade Manufacturing In-House to Speed Up AI Data Center Power](https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months) ⭐️ 5.5/10
-
-SpaceX has begun manufacturing turbine blades and vanes in-house to accelerate the production of natural gas-powered generators for Elon Musk's data center projects, cutting delivery timelines by up to 18 months. The move targets the casting bottleneck that normally takes 60 to 90 weeks per batch. This vertical integration strategy reflects the extreme supply chain pressures driven by the AI infrastructure boom, where power availability has become as critical as chip supply. Musk's $2.8 billion AI data center ambitions depend on rapidly deploying behind-the-meter gas turbines, making the traditional multi-year procurement timeline untenable. The limiting factor in natural gas turbine production is the casting of blades and vanes, which involves multiple precision steps including casting, machining, coating, and inspection. A related deal cleared antitrust review in May 2026 and gives SpaceX access to a mobile gas and diesel turbine fleet exceeding 1 GW of capacity.
-
-rss · Tom's Hardware · Aug 30, 14:49
-
-**Background**: Behind-the-meter gas turbines are increasingly being deployed at AI data centers because grid power is insufficient or too slow to connect for the rapid AI buildout. Jet-engine-derived gas turbines can be sited directly next to data centers, providing power within months rather than the years required for utility-scale grid upgrades. The blades and vanes in these turbines operate under extreme heat and stress, requiring precision casting and machining that has historically been a major chokepoint in the supply chain.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months">SpaceX starts in - house turbine blade manufacturing to boost...</a></li>
-<li><a href="https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/">Musk's faster path to more gas turbines comes with... | TechCrunch</a></li>
-<li><a href="https://build.inc/insights/behind-the-meter-power-data-centers">Behind-the-Meter Power for Data Centers : Why Gas Turbines ... | Build</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#SpaceX`, `#manufacturing`, `#supply chain`
-
----
-
-<a id="item-15"></a>
-## [Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats through the processor lid — paste replacement triples framerates, drops temps, and eliminates hard crashes](https://www.tomshardware.com/laptops/gaming-laptops/poor-liquid-metal-application-almost-destroys-asus-zephyrus-m16-laptop-eats-through-the-processor-lid-paste-replacement-triples-framerates-drops-temps-and-eliminates-hard-crashes) ⭐️ 5.5/10
-
-A Reddit user discovered that factory-applied liquid metal on an Asus Zephyrus M16 corroded the CPU heatsink and lid, but a re-paste job dramatically improved thermals and performance.
-
-rss · Tom's Hardware · Aug 30, 11:00
-
-**Tags**: `#laptop-hardware`, `#liquid-metal`, `#thermal-paste`, `#asus-zephyrus`, `#pc-maintenance`
-
----
-
-<a id="item-16"></a>
-## [US Military Downs Three Cartel Drones With High-Energy Lasers at Southern Border](https://www.tomshardware.com/tech-industry/drones/us-military-uses-high-energy-lasers-to-shoot-down-three-mexican-cartel-drones-over-the-southern-border-narcos-suspected-of-using-uavs-for-surveillance-and-reconnaissance-to-support-illegal-activities) ⭐️ 5.5/10
-
-The US military successfully used a high-energy laser defense system to shoot down three drones allegedly operated by Mexican cartels conducting surveillance over the southern border. These UAVs were suspected of spotting US law enforcement operations and aiding trafficking of humans and goods into the United States. This represents a notable operational milestone for directed-energy weapons (DEWs), transitioning high-energy lasers from R&D and testing phases into active field deployment for counter-UAS missions. It underscores how drone proliferation by non-state actors is reshaping border security doctrine and accelerating adoption of laser-based defenses as a cost-effective alternative to kinetic interceptors. The article does not specify which laser system was used, its power output, engagement range, or the platform from which it was fired. Counter-UAS laser engagements against small surveillance drones are generally less technically demanding than defeating hardened military targets, so this scenario likely represents a near-term feasible use case rather than a breakthrough in laser power or beam-control technology.
-
-rss · Tom's Hardware · Aug 30, 10:00
-
-**Background**: High-energy laser (HEL) weapons, also known as directed-energy weapons, use concentrated photon energy to damage or destroy targets such as drones, rockets, and mortars. Counter-UAS (C-UAS) systems encompass a range of technologies including RF jammers, radar-based detection, kinetic interceptors, and lasers, with AI-enabled sensor fusion increasingly used to coordinate detection and response. Cartel drone activity along the US-Mexico border has been a growing concern for US Customs and Border Protection, as commercial-grade UAVs offer criminal organizations a low-cost means of surveillance and logistics coordination that is difficult to counter with traditional measures.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.securities.io/anti-drone-laser-warfare-iron-beam/">Laser Air Defense : How Iron Beam Changes Drone Warfare</a></li>
-<li><a href="https://www.militarydronepro.com/how-to-defend-against-military-drones-counter-uas-strategies/">How to Defend Against Military Drones : Counter - UAS Strategies...</a></li>
-<li><a href="https://blip.land/wp-content/uploads/2020/05/Bahman-Zohuri-Directed-Energy-Beam-Weapons-SPRINGER-2019.pdf">Directed</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#directed-energy-weapons`, `#counter-UAS`, `#defense-technology`, `#border-security`, `#military-drones`
+**Tags**: `#nvidia`, `#gpu`, `#overclocking`, `#driver-update`, `#hardware`
 
 ---
