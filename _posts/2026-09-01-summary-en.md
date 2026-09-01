@@ -5,429 +5,382 @@ date: 2026-09-01
 lang: en
 ---
 
-> From 79 items, 20 important content pieces were selected
+> From 96 items, 20 important content pieces were selected
 
 ---
 
-1. [NVIDIA Invests $3.5B in MediaTek, Expands NVLink Fusion Ecosystem](#item-1) ⭐️ 8.5/10
-2. [Intel's 14A Process Beats Defect Targets, Best Since 22nm](#item-2) ⭐️ 8.0/10
-3. [Linux Kernel Patch Adds USB4/Thunderbolt Support for Apple Silicon SoCs](#item-3) ⭐️ 7.5/10
-4. [MacBook Neo Burns Through SSD Cycles At An Alarming Rate](#item-4) ⭐️ 7.5/10
-5. [CXMT Begins Risk Production of HBM3E Memory](#item-5) ⭐️ 7.5/10
-6. [Motorless elastocaloric cooler turns waste heat into cooling](#item-6) ⭐️ 7.5/10
-7. [Unimicron Probed for Alleged PCB Origin Washing](#item-7) ⭐️ 7.5/10
-8. [CXMT beats Western rivals to mass-produce LPDDR6 memory, Xiaomi first to adopt](#item-8) ⭐️ 7.5/10
-9. [Cost-Effective Agentic AI for Chip Verification](#item-9) ⭐️ 7.0/10
-10. [CXMT sues the Pentagon](#item-10) ⭐️ 7.0/10
-11. [SK hynix Considers Intel Foundry for HBM4E Base Die Production](#item-11) ⭐️ 6.5/10
-12. [AMD Begins Linux 7.3 Enablement for Zen 6 Desktop CPUs](#item-12) ⭐️ 6.5/10
-13. [When Did Humans Lose Their Taste for Insects?](#item-13) ⭐️ 6.3/10
-14. [Repurposing Security Cameras for Automated Bird Identification with BirdNet-Go](#item-14) ⭐️ 6.0/10
-15. [Speculation: Military Commissary Freezers May Have Been Hacked](#item-15) ⭐️ 6.0/10
-16. [Reference Guide for ChatGPT Agentic Tools and Skills](#item-16) ⭐️ 6.0/10
-17. [Advanced Cooling Technologies Tackle Automotive Heat Challenge](#item-17) ⭐️ 6.0/10
-18. [A solid H1 for Chinese chip companies](#item-18) ⭐️ 6.0/10
-19. [Steam Surpasses 30,000 Verified and Playable Games on Steam Deck](#item-19) ⭐️ 5.5/10
-20. [Modder Creates Affordable Open-Source Hall Effect Split Ergonomic Keyboard](#item-20) ⭐️ 5.5/10
+1. [Nvidia Invests $3.5B in MediaTek to Accelerate NVLink Fusion](#item-1) ⭐️ 9.0/10
+2. [Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory — zHBM ultimately stacks DRAM directly on top of the processor](#item-2) ⭐️ 8.5/10
+3. [New GaN-on-Si transistor withstands nearly 4kV before breakdown](#item-3) ⭐️ 8.0/10
+4. [NVIDIA Revives Rubin CPX GPU with HBM4 Memory Instead of GDDR7](#item-4) ⭐️ 7.5/10
+5. [NVIDIA GPU Frame Interpolation Reaches FFmpeg](#item-5) ⭐️ 7.5/10
+6. [Linux Kernel Patch Expands USB4 Support for Apple Silicon SoCs](#item-6) ⭐️ 7.5/10
+7. [Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks — available on all RTX 50 series GPUs, laptops, and GeForce NOW](#item-7) ⭐️ 7.5/10
+8. [CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production — company could be in mass production in 2027](#item-8) ⭐️ 7.5/10
+9. [Linux Kernel Nears 2,000 CVEs Per Release as AI Bug Hunters Overwhelm Maintainers](#item-9) ⭐️ 7.5/10
+10. [Softaculous Hit by 33-Hour BGP Route Hijack, Malicious Update Pushed](#item-10) ⭐️ 7.3/10
+11. [AnkiDroid: Google Play no longer allowing Open Collective donation link](#item-11) ⭐️ 7.0/10
+12. [I trained a small transformer in 1.5hrs and it beats many LLMs](#item-12) ⭐️ 7.0/10
+13. [Intel's 14A Process Beats Defect Density Targets](#item-13) ⭐️ 7.0/10
+14. [How AI Is Reshaping the Global Semiconductor Patent Landscape](#item-14) ⭐️ 7.0/10
+15. [John Ternus Officially Becomes Apple's New CEO](#item-15) ⭐️ 6.5/10
+16. [(PR) AMD Instinct GPUs and EPYC CPUs to Power Europe's Next-Generation LUMI-AI Supercomputer](#item-16) ⭐️ 6.5/10
+17. [Chinese Court Freezes $318M in Nexperia Assets Amid Wingtech Control Battle](#item-17) ⭐️ 6.5/10
+18. [TP-Link Unveils First Consumer Wi-Fi 8 Routers, US Launch Complicated by FCC Restrictions](#item-18) ⭐️ 6.5/10
+19. [Fastpotify: A Fast Rust-Based Third-Party Spotify Client](#item-19) ⭐️ 6.0/10
+20. [Top 5 Enterprise SSD Vendors' Revenue to Hit $37.59B in Q2 2026](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [NVIDIA Invests $3.5B in MediaTek, Expands NVLink Fusion Ecosystem](https://www.techpowerup.com/352174/nvidia-invests-usd-3-5-billion-in-mediatek-partners-on-nvlink-fusion) ⭐️ 8.5/10
+## [Nvidia Invests $3.5B in MediaTek to Accelerate NVLink Fusion](https://www.electronicsweekly.com/news/business/nvidia-2-2026-09/) ⭐️ 9.0/10
 
-NVIDIA announced a $3.5 billion strategic investment in MediaTek and deepened their partnership through the NVLink Fusion ecosystem, enabling MediaTek to offer NVLink Fusion IP to its ASIC customers—including Google—so their custom XPUs can connect to NVIDIA's data center fabric via NVLink-C2C interconnects and NVHBM memory. This deal blurs the line between NVIDIA's proprietary GPU fabric and third-party accelerators, letting competing ASICs (such as Google's TPU) plug into NVIDIA's networking stack and potentially reshaping how AI data centers are built. The move counters alternative scale-up fabrics from Broadcom, AMD, and the ultra-consortium, while binding MediaTek—already a major ASIC designer—more tightly into NVIDIA's orbit. NVLink Fusion is an IP/chiplet framework developed at NVIDIA's Israel research center, now licensed to third-party chipmakers for the first time. NVIDIA also disclosed NVHBM, which integrates its memory controller into the 3D HBM stack to deliver up to 30% more bandwidth, 15% lower HBM power, and up to 25% more usable compute-die area than HBM4E; NVLink-C2C itself provides 900 GB/s bidirectional chip-to-chip bandwidth.
+Nvidia is purchasing $3.5 billion of MediaTek's convertible bonds, formalizing a strategic partnership in which the two companies commit to using each other's products. As part of the deal, MediaTek will offer Nvidia's NVLink Fusion platform to its customers designing custom XPUs (AI accelerators), while Nvidia's networking ecosystem becomes part of MediaTek's supply chain. This is one of Nvidia's largest-ever strategic investments in another chip designer and signals a major push into the custom AI silicon market, where hyperscalers increasingly want their own XPUs tightly integrated with Nvidia's GPU stack. The deal strengthens Nvidia's ecosystem lock-in while giving MediaTek capital and credibility to compete against Broadcom and Marvell in custom AI ASIC design. The investment takes the form of convertible bonds, giving Nvidia potential equity upside. The partnership covers three areas: custom AI infrastructure via NVLink Fusion, local AI computing, and automotive platforms. MediaTek was already named as an NVLink Fusion ecosystem partner alongside Marvell, Alchip, Astera Labs, Synopsys, and Cadence.
 
-rss · TechPowerUp News · Aug 31, 13:55
+rss · Electronics Weekly · Sep 1, 05:16
 
-**Background**: NVLink is NVIDIA's proprietary high-bandwidth interconnect used to tie together GPUs, and later CPUs, inside a rack-scale system. NVLink-C2C extends this concept to chip-to-chip links, originally introduced in the Grace Hopper Superchip to eliminate the PCIe bottleneck between CPU and GPU. NVLink Fusion goes a step further: rather than selling only full NVIDIA systems, NVIDIA now licenses its interconnect IP so that custom 'XPUs'—an industry catch-all term for non-NVIDIA AI accelerators such as Google's TPU, AWS Trainium, or Broadcom-based ASICs—can speak the same networking language. MediaTek, best known for mobile SoCs, has quietly become a major ASIC design house serving hyperscalers like Google, making it a strategic gateway for NVIDIA to reach those customers.
+**Background**: NVLink Fusion is Nvidia's proprietary high-bandwidth, low-latency interconnect technology and IP that allows third-party custom XPUs and CPUs to plug into Nvidia's AI infrastructure platform alongside its GPUs. XPU is the industry term for custom AI accelerator chips designed by fabless companies such as Broadcom, Marvell, and MediaTek, and manufactured at foundries like TSMC. Hyperscalers such as Google, Amazon, and Microsoft are increasingly commissioning custom XPUs to optimize specific workloads, and analysts estimate custom chips could account for 25% of AI accelerators by 2028. MediaTek is a Taiwanese fabless chip designer traditionally known for mobile SoCs that has been expanding into data center custom ASIC design.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techinasia.com/news/nvidia-unveils-ai-chip-communication-tech-nvlink-fusion">Tech in Asia - Connecting Asia's startup ecosystem</a></li>
-<li><a href="https://www.leviathansystems.co/glossary/nvlink-c2c">What Is NVLink - C 2 C ? | Leviathan Systems</a></li>
-<li><a href="https://www.servethehome.com/arm-joins-the-nvidia-nvlink-fusion-ecosystem-vera/">Arm Joins the NVIDIA NVLink Fusion Ecosystem - ServeTheHome</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-nvlink-fusion-semi-custom-ai-infrastructure-partner-ecosystem">NVIDIA Unveils NVLink Fusion for Industry to Build Semi-Custom AI Infrastructure With NVIDIA Partner Ecosystem | NVIDIA Newsroom</a></li>
+<li><a href="https://hothardware.com/news/nvidia-nvlink-fusion-major-boost-mediatek-deal">NVIDIA’s $3.5B MediaTek Deal Supercharges NVLink Fusion For Custom AI Chips</a></li>
+<li><a href="https://www.mediatek.com/products/data-center">MediaTek | Data Center Solutions | Custom ASIC Design</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#MediaTek`, `#NVLink-Fusion`, `#semiconductors`, `#data-center`, `#AI-infrastructure`
+**Tags**: `#Nvidia`, `#MediaTek`, `#semiconductors`, `#strategic-partnership`, `#industry-news`
 
 ---
 
 <a id="item-2"></a>
-## [Intel's 14A Process Beats Defect Targets, Best Since 22nm](https://semiwiki.com/semiconductor-manufacturers/intel/372866-intels-14a-is-winning-the-race-against-defects/) ⭐️ 8.0/10
+## [Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory — zHBM ultimately stacks DRAM directly on top of the processor](https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor) ⭐️ 8.5/10
 
-Intel's 14A manufacturing process is showing unusually strong early progress, with defect density falling faster than the company's internal targets. CFO David Zinsner stated at Deutsche Bank's 2026 Technology Conference that this marks the best development trajectory for any Intel node since 22nm. This milestone strengthens confidence in Intel's manufacturing roadmap and its foundry ambitions to attract external customers such as Apple and Nvidia. It coincides with reports that Intel is considering shifting its foundry focus from 18A directly to 14A, which would reshape the competitive landscape against TSMC and Samsung. Defect density is a fundamental metric that directly determines wafer yield, device performance, and per-chip cost in advanced semiconductor manufacturing. Faster-than-expected defect reduction at this stage often signals that a node can accelerate toward high-volume manufacturing with competitive economics.
+Samsung unveiled a three-phase HBM roadmap at Hot Chips 2026, progressively integrating logic and compute into memory and eventually stacking DRAM directly on top of processors.
 
-rss · SemiWiki · Aug 31, 21:00
+rss · Tom's Hardware · Sep 1, 11:06
 
-**Background**: Process nodes such as Intel's 14A denote successive generations of semiconductor manufacturing technology, where each new generation enables smaller transistors, improved power efficiency, and higher transistor density. Intel's foundry strategy seeks to fabricate chips for external customers, putting it in direct competition with TSMC and Samsung Foundry. The company was previously planning to use its 18A node as the main vehicle to attract major foundry clients, but is now reportedly redirecting that emphasis toward 14A. Defect density measures the number of manufacturing defects per unit area on a wafer, and lower defect density translates directly into higher yield and lower per-chip cost.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.kad8.com/hardware/intel-14a-node-beats-internal-targets-in-best-progress-since-22nm/">Intel 14 A Node Beats Internal Targets in Best Progress Since 22nm</a></li>
-<li><a href="https://www.techtimes.com/articles/325890/20260828/intel-14a-defect-drop-rivals-22nm-era-customers-now-asking-capacity-not-data.htm">Intel 14 A Defect Drop Rivals 22nm Era: Customers Now Asking for...</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/intel-might-axe-the-18a-process-node-for-foundry-customers-essentially-leaving-tsmc-with-no-rival-intel-reportedly-to-focus-on-14a">Intel might axe the 18 A process node for foundry... | Tom's Hardware</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#Intel`, `#manufacturing`, `#14A-node`, `#foundry`
+**Tags**: `#HBM`, `#semiconductors`, `#Samsung`, `#Hot Chips 2026`, `#memory architecture`
 
 ---
 
 <a id="item-3"></a>
-## [Linux Kernel Patch Adds USB4/Thunderbolt Support for Apple Silicon SoCs](https://www.techpowerup.com/352199/linux-kernel-patch-expands-usb4-support-for-apple-silicon-socs) ⭐️ 7.5/10
+## [New GaN-on-Si transistor withstands nearly 4kV before breakdown](https://www.electronicsweekly.com/news/business/new-transistor-withstands-nearly-4kv-before-breakdown-2026-09/) ⭐️ 8.0/10
 
-Asahi Linux developer Sven Peter has submitted upstream Linux kernel patches adding initial USB4 and Thunderbolt support for Apple Silicon M1, M2, and M3 SoCs, expanding peripheral compatibility for Linux-running MacBooks. This is a significant milestone for the Asahi Linux project, as USB4/Thunderbolt is the primary expansion interface on modern Apple Silicon Macs. Without it, users have been limited in connecting high-speed peripherals, external GPUs, displays, and docking stations on Linux. Each USB4-capable Type-C port on Apple Silicon Macs includes an ACIO block with a Cortex-M3 coprocessor that manages the USB4 router. The patches are currently being sent to the mainline Linux kernel via the LKML mailing list.
+Researchers have introduced an intrinsic polarization super-junction GaN-on-Si transistor designed to withstand nearly 4 kV before breakdown.
 
-rss · TechPowerUp News · Aug 31, 23:52
+rss · Electronics Weekly · Sep 1, 05:17
 
-**Background**: The Asahi Linux project aims to bring a polished Linux experience to Apple Silicon Macs, which use ARM-based chips designed by Apple starting with the M1 in 2020. USB4 is a connectivity standard based on Thunderbolt, offering high-bandwidth data transfer, display output, and PCIe tunneling over a single USB-C connection. Thunderbolt was originally developed in collaboration with Apple before being transferred to Intel. Mainline Linux kernel support for these features ensures that users get official, well-tested drivers rather than relying on out-of-tree patches.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Asahi_Linux">Asahi Linux - Wikipedia</a></li>
-<li><a href="https://asahilinux.org/">Asahi Linux</a></li>
-<li><a href="https://en.wikipedia.org/wiki/USB4">USB4 - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Linux`, `#Apple Silicon`, `#USB4`, `#Thunderbolt`, `#Asahi Linux`
+**Tags**: `#GaN`, `#Power Electronics`, `#Semiconductors`, `#Super Junction`, `#High-Voltage Transistors`
 
 ---
 
 <a id="item-4"></a>
-## [MacBook Neo Burns Through SSD Cycles At An Alarming Rate](https://www.techpowerup.com/352178/macbook-neo-burns-through-ssd-cycles-at-an-alarming-rate) ⭐️ 7.5/10
+## [NVIDIA Revives Rubin CPX GPU with HBM4 Memory Instead of GDDR7](https://www.techpowerup.com/352213/nvidias-rubin-cpx-gpu-reborn-with-hbm4-memory-no-more-gddr7) ⭐️ 7.5/10
 
-Testing reveals Apple's budget MacBook Neo with only 8GB RAM burns through SSD cycles rapidly due to heavy swap usage, with the 256GB model showing a projected lifespan of only ~414TB.
+NVIDIA has revived its previously paused 'Rubin CPX' AI accelerator project with a major memory architecture redesign, swapping the originally planned 128GB of GDDR7 for 168GB of HBM4 memory, according to supply chain analyst Ming Chi Kuo. The redesigned GPU is dedicated to prefill workloads in large-scale agentic AI systems and is deployed in racks containing 64 to 256 standalone CPX GPUs. This shift from cost-effective GDDR7 to premium HBM4 signals NVIDIA's prioritization of bandwidth and capacity for massive-context inference, directly impacting AI infrastructure planning and the economics of deploying 1M+ token context windows. It also reflects how the rise of agentic AI is reshaping accelerator design requirements, with NVIDIA splitting prefill and decode tasks across specialized hardware rather than handling both on a single GPU. Each rack tray with eight CPX GPUs handles 1.34 TB of long-context prefill and its associated KV cache, all using HBM4 for faster processing and higher bandwidth. Because the original GDDR7 design did not require it, the redesign likely adopts TSMC's CoWoS-S or CoWoS-L advanced packaging to integrate HBM4 stacks.
 
-rss · TechPowerUp News · Aug 31, 15:43
+rss · TechPowerUp News · Sep 1, 12:38
 
-**Tags**: `#Apple`, `#MacBook Neo`, `#SSD`, `#hardware`, `#consumer-tech`
+**Background**: NVIDIA's Rubin CPX is a specialized AI accelerator derived from the Rubin GPU family, purpose-built for massive-context inference workloads such as agentic AI. Unlike regular Rubin GPUs that handle both prefill (processing input context) and decode (generating output tokens), CPX is dedicated solely to prefill, while standard Rubin GPUs handle decode. HBM4 (High Bandwidth Memory 4) doubles the data I/O interface width to 2,048 per stack compared to HBM3E's 1,024, offering significantly higher bandwidth than GDDR7 but at a higher cost and requiring advanced 2.5D/3D packaging such as TSMC's CoWoS. Agentic AI refers to autonomous AI systems that perform complex multi-step tasks without continuous human oversight, often requiring extremely long context windows to maintain state across actions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference">NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference | NVIDIA Newsroom</a></li>
+<li><a href="https://nipogi.store/blogs/review/hbm-vs-gddr7">HBM vs GDDR7: HBM2, HBM3E & HBM4 Compared – NIPOGI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#AI hardware`, `#HBM4`, `#GPU architecture`, `#Rubin CPX`
 
 ---
 
 <a id="item-5"></a>
-## [CXMT Begins Risk Production of HBM3E Memory](https://www.techpowerup.com/352175/cxmt-starts-risk-production-of-hbm3e-memory) ⭐️ 7.5/10
+## [NVIDIA GPU Frame Interpolation Reaches FFmpeg](https://www.techpowerup.com/352206/nvidia-gpu-frame-interpolation-support-lands-in-ffmpeg) ⭐️ 7.5/10
 
-Chinese memory manufacturer CXMT has reportedly begun risk production of HBM3E memory, marking a significant step in China's domestic high-bandwidth memory development for AI accelerators. Despite this milestone, CXMT remains roughly two generations behind South Korean competitors SK Hynix and Samsung, which are already transitioning toward HBM4E. HBM3E is critical for training and inference on large AI models, and global supply is dominated by South Korean and US firms, creating strategic supply-chain risks for Chinese AI hardware. CXMT's progress, even if trailing, is a key indicator of China's push toward semiconductor self-sufficiency amid US export controls on advanced AI chips. Risk production is a low-volume phase that validates engineering samples using production-intent tools before full mass production, and CXMT has historically moved from risk to mass production in just a few weeks. JEDEC's HBM3E specification (JESD238) calls for a 1,024-bit interface, pin speeds of 9.2–12.4 Gbps (typically 9.6 Gbps), bandwidth around 1.2 TB/s per stack, and capacities of 24 GB (8-Hi) or 36 GB (12-Hi).
+NVIDIA has added GPU-accelerated frame interpolation to FFmpeg through a Vulkan API. The implementation uses the GeForce RTX Optical Flow Accelerator (NVOFA) and NVENC frame data to generate intermediate frames for engine-assisted frame-rate up-conversion (FRUC). This makes hardware-assisted frame generation available in a widely used multimedia processing suite, rather than only in NVIDIA-specific graphics or video workflows. It could let video services and users increase frame rates while potentially reducing CPU demand, and it expands RTX capabilities in general video processing. The Vulkan implementation avoids the proprietary software dependency that blocked an earlier 2023 patch from being merged. It calculates motion between consecutive source frames and uses the resulting flow vectors to synthesize an intermediate frame; compatibility remains dependent on supported NVIDIA hardware, with the cited SDK describing NVOFA on Turing and Ampere GPUs.
 
-rss · TechPowerUp News · Aug 31, 14:30
+rss · TechPowerUp News · Sep 1, 07:21
 
-**Background**: High Bandwidth Memory (HBM) is a type of stacked DRAM connected via a wide interface through-silicon via (TSV) pathways, delivering far greater bandwidth than traditional DDR memory, which is why it has become essential for AI GPUs and accelerators from NVIDIA, AMD, and others. HBM3E is the fifth-generation HBM standard (an extension of HBM3), with SK Hynix, Samsung, and Micron currently the dominant suppliers. CXMT (ChangXin Memory Technologies) is China's leading DRAM producer, and its progress to HBM3E risk production represents the country's first serious entry into the AI-grade memory market, though US export controls on advanced semiconductor equipment continue to constrain China's ability to leapfrog to leading-edge nodes.
+**Background**: FFmpeg is a widely used multimedia processing software suite, including in video workflows used by YouTube and other services. Frame-rate up-conversion (FRUC) raises a video's frame rate by inserting interpolated frames between existing frames. NVIDIA's NVOFA is a dedicated optical-flow accelerator that computes motion between frames independently of graphics and CUDA cores, while NVENC supplies the encoder-side frame data used in this implementation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/Risk_production_semiconductors">Risk production (semiconductors) — Grokipedia</a></li>
-<li><a href="https://blogs.sw.siemens.com/semiconductor-packaging/2026/04/24/hbm3e-hbm4-ic-design-guide/">HBM3e and HBM4: IC design guide for next-generation high ...</a></li>
+<li><a href="https://developer.nvidia.com/docs/drive/drive-os/archives/6.0.4/linux/sdk/common/topics/nvmedia_understand/OpticalFlowAccelerator.html">Optical Flow Accelerator (OFA)</a></li>
+<li><a href="https://developer.nvidia.com/optical-flow-sdk">Optical Flow SDK | NVIDIA Developer</a></li>
+<li><a href="https://docs.nvidia.com/video-technologies/optical-flow-sdk/pdf/NVOFA_FRUC.pdf">NVIDIA Optical Flow Engine - Assisted Frame Rate Up Conversion</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#HBM3E`, `#semiconductors`, `#CXMT`, `#memory-technology`, `#AI-hardware`
+**Tags**: `#FFmpeg`, `#NVIDIA`, `#GPU acceleration`, `#Vulkan`, `#video processing`
 
 ---
 
 <a id="item-6"></a>
-## [Motorless elastocaloric cooler turns waste heat into cooling](https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration) ⭐️ 7.5/10
+## [Linux Kernel Patch Expands USB4 Support for Apple Silicon SoCs](https://www.techpowerup.com/352199/linux-kernel-patch-expands-usb4-support-for-apple-silicon-socs) ⭐️ 7.5/10
 
-Researchers from Germany and Japan demonstrated a motorless, solid-state elastocaloric cooling system that uses shape-memory alloy films to convert waste heat into refrigeration. The approach could potentially recycle data-center processor exhaust heat into active cooling. By eliminating compressors and motors, this technology could dramatically improve energy efficiency in data centers and buildings while simultaneously addressing waste heat, offering a potential pathway to sustainable cooling amid rising global temperatures and surging computational demand. The system exploits the elastocaloric effect, where mechanical stress on shape-memory alloys triggers a martensitic phase transition that absorbs or releases heat. Unlike vapor-compression cooling, it operates as a solid-state device with no motors, though its scalability, cycle life, and real-world performance in data-center environments remain unproven.
+Mainline Linux kernel patch series from Asahi Linux adds initial USB4 and Thunderbolt support for Apple Silicon M1, M2, and M3 SoCs.
 
-rss · Tom's Hardware · Aug 31, 15:40
+rss · TechPowerUp News · Aug 31, 23:52
 
-**Background**: Elastocaloric cooling is an emerging solid-state refrigeration method based on the elastocaloric effect: when mechanical stress—stretching, compressing, or bending—is applied to certain alloys, the material absorbs heat from its surroundings (producing cooling) or releases heat (producing heating). Shape-memory alloys such as nickel-titanium (Nitinol) undergo a martensitic phase transition that produces this thermal effect, which can be harnessed for heat pumping. Conventional air conditioning and refrigeration rely on vapor-compression cycles using refrigerants that are often potent greenhouse gases, motivating research into alternative solid-state cooling technologies.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Elastocaloric_materials">Elastocaloric materials - Wikipedia</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0140700724001117">Elastocaloric cooling: A pathway towards future cooling technology - ScienceDirect</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#elastocaloric cooling`, `#waste-heat recovery`, `#shape-memory alloys`, `#solid-state refrigeration`, `#data centers`
+**Tags**: `#Linux`, `#Apple Silicon`, `#Asahi Linux`, `#USB4`, `#Thunderbolt`, `#Kernel Development`
 
 ---
 
 <a id="item-7"></a>
-## [Unimicron Probed for Alleged PCB Origin Washing](https://www.tomshardware.com/tech-industry/big-tech/key-nvidia-and-intel-supplier-raided-over-alleged-china-origin-fraud-unimicron-faces-probe-over-pcb-origin-washing-risk-of-40-percent-u-s-tariff-penalty) ⭐️ 7.5/10
+## [Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks — available on all RTX 50 series GPUs, laptops, and GeForce NOW](https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now) ⭐️ 7.5/10
 
-Taiwanese prosecutors are investigating Unimicron over allegations that it shipped China-made PCBs back to Taiwan and relabeled them as Taiwanese products. The PCB and chip-substrate supplier could reportedly face a 40% U.S. tariff penalty if the allegations are substantiated. 由于Unimicron是Nvidia、Intel、Google和Amazon的供应商，调查可能影响整个科技行业的采购、供应链合规和采购成本。若指控被确认，还可能促使监管机构加强对PCB及半导体供应链原产地文件和贸易管制的审查。 Authorities are still investigating the alleged practice, and no finding of wrongdoing has been reported. The reported 40% tariff exposure makes verified country-of-origin records and auditable manufacturing and shipping documentation important for Unimicron and its customers.
+Nvidia confirms DLSS 5 will launch September 3 with NBA 2K27, supporting RTX 50 series GPUs, laptops, and GeForce NOW, with first benchmarks shared.
 
-rss · Tom's Hardware · Aug 31, 11:55
+rss · Tom's Hardware · Sep 1, 13:00
 
-**Background**: A PCB is a thin insulating board with conductive pathways that mechanically support and electrically connect electronic components. Chip substrates support semiconductor packaging, while origin washing misrepresents where goods were produced to obtain more favorable tariff treatment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://jlcpcb.com/blog/simple-guide-to-printed-circuit-boards">PCBs Explained: A Simple Guide to Printed Circuit Boards</a></li>
-<li><a href="https://pcbmake.com/substrate-semiconductor-packaging/">Substrate Semiconductor Packaging : Materials and Processes</a></li>
-<li><a href="https://www.lexology.com/library/detail.aspx?g=0cbef432-1739-4a4a-9012-80c0f9722832">Side effects of the ‘tariff war’: Risks and realities of ‘origin washing’ in the ASEAN region - Lexology</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#supply-chain`, `#semiconductors`, `#trade-policy`, `#nvidia`, `#intel`
+**Tags**: `#nvidia`, `#dlss-5`, `#rtx-50`, `#gpu`, `#gaming`
 
 ---
 
 <a id="item-8"></a>
-## [CXMT beats Western rivals to mass-produce LPDDR6 memory, Xiaomi first to adopt](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips) ⭐️ 7.5/10
+## [CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production — company could be in mass production in 2027](https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027) ⭐️ 7.5/10
 
-CXMT (ChangXin Memory Technologies) announced it has become the first DRAM manufacturer to mass-produce LPDDR6 memory, beating Samsung, SK Hynix, and Micron to market. Xiaomi smartphones will be the first devices to feature the new LPDDR6 chips. This milestone demonstrates China's accelerating competitiveness in DRAM technology and signals the erosion of the traditional dominance held by Samsung, SK Hynix, and Micron in advanced memory. It also marks a notable shift in the memory industry timeline, where a Chinese firm has reached mass production of a next-generation standard ahead of established leaders. The first application of CXMT's LPDDR6 is reportedly limited to a specific Xiaomi device, making it a niche debut rather than widespread industry adoption. LPDDR6 introduces a dual sub-channel architecture with a 24-bit data bus width, expanding from LPDDR5's 16-bit configuration for improved mobile performance and power efficiency.
+Chinese DRAM maker CXMT has reportedly begun risk production of HBM3E memory, sampling with Alibaba's T-Head and Cambricon, with potential mass production by 2027.
 
-rss · Tom's Hardware · Aug 31, 10:30
+rss · Tom's Hardware · Sep 1, 10:30
 
-**Background**: CXMT (ChangXin Memory Technologies), founded in 2016 and formerly known as Innotron Memory, is widely regarded as China's only domestic DRAM maker to have achieved mass production at scale. LPDDR (Low Power Double Data Rate) memory is specifically designed for mobile and power-constrained applications, with each successive generation defined by JEDEC, the semiconductor standards body. The LPDDR6 standard, formally designated JESD209-6 by JEDEC, introduces a dual sub-channel architecture and enhanced RAS features such as PRAC and metadata support, representing a significant architectural leap over LPDDR5.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.jedec.org/standards-documents/docs/jesd209-6">LPDDR6 Standard | JEDEC</a></li>
-<li><a href="https://www.ofzenandcomputing.com/lpddr6/">What is LPDDR6? Complete August 2026 Guide to Next-Gen Mobile ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#DRAM`, `#LPDDR6`, `#China-tech`, `#memory`
+**Tags**: `#HBM3E`, `#CXMT`, `#DRAM`, `#semiconductors`, `#China-tech`
 
 ---
 
 <a id="item-9"></a>
-## [Cost-Effective Agentic AI for Chip Verification](https://semiwiki.com/artificial-intelligence/372524-exploiting-agentic-automation-cost-effectively-innovation-in-verification/) ⭐️ 7.0/10
+## [Linux Kernel Nears 2,000 CVEs Per Release as AI Bug Hunters Overwhelm Maintainers](https://www.tomshardware.com/software/linux/linux-kernel-nears-2-000-cves-per-release-as-ai-bug-hunters-scour-40-million-lines-of-code-maintainers-say-they-are-completely-overwhelmed) ⭐️ 7.5/10
 
-Industry experts Paul Cunningham (GM of Verification at Cadence) and Raúl Camposano (former Synopsys CTO) discuss strategies for deploying agentic AI cost-effectively in semiconductor verification, highlighting a mixed-model approach that pairs powerful frontier models like Claude with local open-weight alternatives to manage high token costs. As agentic AI becomes more prevalent in EDA workflows, the cost of running frontier models on large verification tasks can become prohibitive. This perspective from major EDA vendors signals a practical shift toward hybrid AI architectures that could make autonomous verification agents viable at scale across the semiconductor industry. The discussion emphasizes that frontier models such as Claude deliver strong capabilities but become expensive at high token counts typical of verification workflows. Open-weight models, while less transparent than fully open-source alternatives, can be self-hosted on local GPU infrastructure, offering tradeoffs in cost, latency, and data privacy for EDA teams.
+AI-assisted bug hunting tools scanning the Linux kernel's roughly 40 million lines of code are pushing CVE counts close to 2,000 per release, leaving maintainers reportedly "completely overwhelmed" by the volume of vulnerability reports. The surge mixes genuine security flaws with a growing mountain of low-priority findings that consumes scarce maintainer time. The Linux kernel underpins most of the internet, cloud infrastructure, and embedded systems, so the sustainability of its maintenance directly affects global software supply chains. The signal-to-noise collapse in vulnerability disclosure forces a rethink of how CVEs are assigned, triaged, and consumed by downstream users, and highlights a broader crisis in open source maintainer capacity. Modern AI-augmented fuzzing combines static analysis with directed kernel fuzzing and can generate hundreds of CVEs in days — one report documented 432 kernel CVEs surfaced in 48 hours. Maintainer burnout from report volume is now as significant a problem as the underlying flaws themselves, since triage — prioritizing findings by exploitability and business impact — is the bottleneck that determines which patches actually ship.
 
-rss · SemiWiki · Aug 31, 13:00
+rss · Tom's Hardware · Sep 1, 09:30
 
-**Background**: Agentic AI refers to AI systems that autonomously plan, invoke tools, and complete multi-step tasks with minimal human oversight, and is increasingly being applied to semiconductor verification — the process of rigorously checking that a chip design meets its specification before fabrication. Frontier models like Anthropic's Claude offer top-tier reasoning but charge per token, which becomes expensive for long-running, tool-heavy verification agents. Open-weight models such as Meta's Llama or DeepSeek variants release their trained parameters publicly (unlike fully open-source projects that also share training data and pipeline), enabling companies to self-host on their own hardware to reduce costs and keep proprietary design data on-premises.
+**Background**: A CVE (Common Vulnerabilities and Exposures) is an identifier assigned by authorized CVE Numbering Authorities to publicly known security flaws, and Linux kernel CVEs cover any vulnerability that could allow unauthorized access, code execution, or disruption. The kernel is one of the largest open source projects in the world, with roughly 40 million lines of code maintained largely by a small group of unpaid or under-resourced volunteers. AI-assisted fuzzing tools feed source files into models along with minimal context such as entrypoints and callers, then return structured reports flagging sources, sinks, missing validation, and exploit prerequisites — dramatically scaling the rate at which theoretical bugs become filed CVEs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.iankhan.com/insights/data/what-is-agentic-ai/">What is agentic AI ? - Ian Khan | AI Keynote Speaker for Hire</a></li>
-<li><a href="https://www.fastcompany.com/91594272/what-is-the-difference-between-proprietary-open-weight-open-source-ai-llm-openai-anthropic-llama-deepseek">Which AI model is best: proprietary, open - weight , or open source ?</a></li>
+<li><a href="https://linuxvox.com/blog/linux-kernel-cves/">Understanding and Managing Linux Kernel CVEs — linuxvox.com</a></li>
+<li><a href="https://digitalspying.com/vulnerability-surge-ai-driven-fuzzing-floods-linux-kernel-with-432-cves-in-48-hours">Vulnerability Surge: AI -Driven Fuzzing Floods Linux Kernel with 432...</a></li>
+<li><a href="https://hoploninfosec.com/linux-kernel-cve-outburst-2026-analysis">Linux Kernel 2026 CVE Outburst: AI Analysis & Triage</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#agentic-ai`, `#semiconductor-verification`, `#eda`, `#llm-cost-optimization`, `#open-weight-models`
+**Tags**: `#linux-kernel`, `#cybersecurity`, `#ai-tools`, `#open-source`, `#vulnerability-management`
 
 ---
 
 <a id="item-10"></a>
-## [CXMT sues the Pentagon](https://www.electronicsweekly.com/news/business/cxmt-sues-the-pentagon-2026-08/) ⭐️ 7.0/10
+## [Softaculous Hit by 33-Hour BGP Route Hijack, Malicious Update Pushed](https://www.solidot.org/story?sid=85256) ⭐️ 7.3/10
 
-China's largest DRAM manufacturer CXMT is suing the Pentagon over its designation as a company assisting China's military.
+Starting August 28 at 20:57 UTC, an attacker announced BGP routes for the Hetzner IP space used by Softaculous, redirecting traffic for nearly 12 hours before Hetzner re-announced the routes to contain the issue. A second hijack wave began at 20:00 UTC the same day and lasted roughly 10 hours until the malicious routes were withdrawn on August 30. During the hijacks, the attackers obtained valid Let's Encrypt TLS certificates by exploiting the automated domain validation, and pushed a malicious Virtualizor update package to users. This incident demonstrates a real-world exploit chain combining BGP hijacking with abuse of automated Certificate Authority validation to obtain legitimate TLS certificates — enabling man-in-the-middle attacks that appear fully trusted. It affects thousands of hosting providers and VPS operators who rely on Softaculous and Virtualizor, and highlights fundamental Internet routing and PKI weaknesses that have no easy fix. The attackers exploited Let's Encrypt's HTTP-01 ACME challenge: because BGP hijacking routed validation traffic to attacker-controlled servers, they could prove domain control and receive valid certificates. Softaculous reported the incident to Hetzner at 08:50 UTC on August 29 — roughly 12 hours after the initial hijack — and Hetzner mitigated it by re-announcing the same routes; however, the attackers returned the same day. Softaculous is urging all affected users to reset passwords, rotate credentials on any Virtualizor servers, and review bank statements for unauthorized charges.
 
-rss · Electronics Weekly · Aug 31, 05:18
+rss · Solidot · Sep 1, 14:35
 
-**Tags**: `#semiconductors`, `#DRAM`, `#US-China relations`, `#geopolitics`, `#trade policy`
+**Background**: Border Gateway Protocol (BGP) is the routing protocol that connects autonomous systems across the Internet; because it was designed without built-in authentication, any network can announce IP prefixes it does not legitimately own, redirecting traffic globally — an attack known as BGP hijacking. Let's Encrypt, the dominant free Certificate Authority, issues certificates via the automated ACME protocol, whose default HTTP-01 domain validation checks that a request comes from the IP the domain resolves to; if that IP has been BGP-hijacked, an attacker can satisfy the challenge and obtain a valid certificate for the victim domain. Softaculous is a widely used software auto-installer for web hosting providers, and Virtualizor is a popular web-based VPS control panel that lets hosts deploy and manage virtual servers — meaning a compromise of its update channel can simultaneously affect many downstream providers and their customers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BGP_hijacking">BGP hijacking - Wikipedia</a></li>
+<li><a href="https://letsencrypt.org/how-it-works/">How It Works - Let ' s Encrypt</a></li>
+<li><a href="https://www.virtualizor.com/">Virtualizor – Cloud Control Panel</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#BGP hijacking`, `#cybersecurity`, `#infrastructure security`, `#Softaculous`, `#Virtualizor`
 
 ---
 
 <a id="item-11"></a>
-## [SK hynix Considers Intel Foundry for HBM4E Base Die Production](https://www.techpowerup.com/352169/sk-hynix-eyes-intel-foundry-for-hbm4e-base-die-manufacturing) ⭐️ 6.5/10
+## [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) ⭐️ 7.0/10
 
-According to the South Korean Herald, SK hynix is considering Intel Foundry alongside TSMC as a base die manufacturer for its HBM4E memory products, moving away from its previous single-source strategy with TSMC toward a dual-sourcing approach. If Intel Foundry secures a significant share of the contract, it would mark a significant validation of Intel's foundry capabilities and challenge TSMC's dominance in advanced packaging-adjacent work, while also reshaping supply chain dynamics for the AI accelerator market. HBM4E's base die enables integration of custom logic such as memory controllers and PHYs, which frees compute tile area and reduces latency in AI accelerators; until HBM3E, SK hynix fabricated base dies on its own 10nm-class nodes, but customers now demand more advanced process technology.
+Google Play has removed AnkiDroid's Open Collective donation link due to payment policy restrictions, sparking discussion about app store monopolistic control over open source project funding.
 
-rss · TechPowerUp News · Aug 31, 13:16
+hackernews · hexa555 · Sep 1, 10:11 · [Discussion](https://news.ycombinator.com/item?id=49520022)
 
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology originally developed by Samsung, AMD, and SK hynix, delivering terabytes-per-second data rates essential for AI training and inference workloads. The base die sits beneath the stacked DRAM layers and, starting with HBM4, can host custom logic like memory controllers, relocating functions previously confined to the main compute chiplet. Intel Foundry (IFS) is Intel's external foundry services unit, created under the IDM 2.0 strategy announced by then-CEO Pat Gelsinger in 2021 to compete with TSMC in contract manufacturing for advanced nodes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.intel.com/content/www/us/en/foundry/overview.html">Semiconductor Manufacturing Company for the AI Era - Intel</a></li>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://semiengineering.com/hbm-options-increase-as-ai-demand-soars/">HBM Options Increase As AI Demand Soars</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#HBM4E`, `#Intel Foundry`, `#SK hynix`, `#semiconductor manufacturing`, `#AI hardware`
+**Tags**: `#open-source`, `#google-play`, `#app-store-policy`, `#monopoly`, `#foss-funding`
 
 ---
 
 <a id="item-12"></a>
-## [AMD Begins Linux 7.3 Enablement for Zen 6 Desktop CPUs](https://www.techpowerup.com/352155/amd-starts-zen-6-desktop-enablement-in-linux-7-3) ⭐️ 6.5/10
+## [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) ⭐️ 7.0/10
 
-AMD has started upstreaming Linux kernel 7.3 support for its upcoming Zen 6 desktop processors, codenamed Olympic Ridge, by updating the HSMP kernel module with protocol version 7 (targeting Family 1Ah Model 80H) and adding new AMD PMF platform driver features, including a new ioctl interface for device metrics. Upstream kernel enablement is one of the clearest signals that Zen 6 desktop silicon is approaching launch, as Linux support is essential for early adopters, server workloads, and open-source compatibility. The reported jump to 12-core CCDs (enabling a flagship 24-core SKU) signals AMD's continued push for higher core counts on mainstream desktops, intensifying competition with Intel in the high-end consumer segment. Zen 6 desktop dual-CCD SKUs reportedly start at 12 cores and scale through 16- and 20-core tiers up to a flagship 24-core part. The higher per-CCD core count is enabled by TSMC's N2 (2 nm) process node, which provides better transistor density than the nodes used in earlier Zen generations. The PMF driver (Platform Management Framework) is the same module that adapts system behavior for power efficiency and user environment on modern AMD laptops.
+A small transformer trained from scratch in 1.5 hours achieves competitive results on the ARC-AGI benchmark, traditionally dominated by LLMs and their finetunes.
 
-rss · TechPowerUp News · Aug 31, 11:58
+hackernews · porridgeraisin · Sep 1, 09:52 · [Discussion](https://news.ycombinator.com/item?id=49519939)
 
-**Background**: AMD's modern Ryzen CPUs use a chiplet-based design where multiple Core Complex Dies (CCDs) are combined with a separate I/O die; each CCD typically contains up to 8 CPU cores plus shared cache, and combining two CCDs is how AMD reaches mainstream desktop core counts like 8, 12, or 16 cores. The Host System Management Port (HSMP) is an interface defined in AMD's firmware that lets the OS query and control system management functions (such as power, thermal, and performance state) through mailbox registers, with each new CPU generation typically introducing a new HSMP protocol version. The AMD PMF (Platform Management Framework) driver is a Linux x86 platform driver that helps AMD systems adapt power and performance to user behavior and environment, primarily on laptops but increasingly on desktops.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.kernel.org/arch/x86/amd_hsmp.html">20. AMD HSMP interface — The Linux Kernel documentation</a></li>
-<li><a href="https://www.kernelconfig.io/config_amd_pmf">config_amd_pmf - kernelconfig.io</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD`, `#Zen 6`, `#Linux kernel`, `#hardware`, `#processors`
+**Tags**: `#transformers`, `#ARC-AGI`, `#reasoning`, `#small-models`, `#sample-efficiency`
 
 ---
 
 <a id="item-13"></a>
-## [When Did Humans Lose Their Taste for Insects?](https://www.solidot.org/story?sid=85240) ⭐️ 6.3/10
+## [Intel's 14A Process Beats Defect Density Targets](https://semiwiki.com/semiconductor-manufacturers/intel/372866-intels-14a-is-winning-the-race-against-defects/) ⭐️ 7.0/10
 
-Researchers analyzed 745 dental calculus samples dating back as far as 33,000 years and found that northern Eurasian humans lost the ability to digest chitin—insect exoskeletons—around 9,000 years ago, coinciding with the rise of agriculture. By contrast, Neanderthal dental calculus contained abundant insect DNA, especially from Diptera (flies and mosquitoes), suggesting regular insect consumption. The study provides rare genomic evidence linking a specific gene mutation to a dietary transition during the Neolithic revolution, shedding light on how the shift from foraging to farming reshaped human biology. It also strengthens hypotheses about Neanderthal subsistence strategies, including scavenging maggot-infested carcasses and storing prey in marshy environments. The team examined chitinase genes, which encode enzymes that break down chitin, and found disabling mutations in northern Eurasian populations—a pattern persisting for roughly 9,000 years. Mosquito DNA was particularly abundant in Neanderthal calculus, supporting the view that prey carcasses were sometimes cached in ponds or swamps where mosquitoes would breed.
+Intel's 14A (1.4nm-class) manufacturing process is showing defect density improvement faster than the company internally expected, with CFO David Zinsner noting it is the best progress Intel has seen since its 22nm node. The rapid decline in defects signals that the next-generation process is maturing technically ahead of schedule. Faster-than-expected defect reduction is critical for Intel's foundry ambitions, as yield and quality directly determine whether external customers will trust Intel to manufacture their chips. Strong early progress on 14A helps rebuild credibility lost through prior process delays and positions Intel more competitively against TSMC and Samsung in leading-edge foundry services. Defect density (D0), measured as defects per unit area on a wafer, is a closely guarded key metric for foundries because lower values indicate cleaner processes and higher yield potential. Intel reportedly views 14A as a long-lasting node, and the comments were made at the Deutsche Bank Technology Conference, suggesting the progress is significant enough for executive-level disclosure.
 
-rss · Solidot · Aug 31, 08:13
+rss · SemiWiki · Aug 31, 21:00
 
-**Background**: Dental calculus (tartar) is one of the richest known sources of ancient biomolecules, capable of preserving food DNA for tens of thousands of years and enabling detailed dietary reconstruction. Chitin is a tough structural polysaccharide that forms insect exoskeletons; animals that consume insects typically produce chitinase enzymes to break it down. The Neolithic transition roughly 10,000 years ago—marked by the adoption of agriculture in the Fertile Crescent and beyond—fundamentally restructured human diets and, as this study shows, left detectable traces in our genomes.
+**Background**: Intel 14A is Intel's next-generation process node positioned in the 1.4nm-class, following its 18A node as part of the company's roadmap to re-establish leadership in semiconductor manufacturing. Defect density reduction follows a characteristic learning curve during new process ramp-up, where early wafers have many defects that are systematically identified and eliminated over time. A steeper-than-expected curve indicates the underlying technology and manufacturing discipline are sound, which is essential for attracting external foundry customers who demand high yield at competitive cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Chitinase">Chitinase - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Calculus_(dental)">Calculus ( dental ) - Wikipedia</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7055813/">Ancient DNA analysis of food remains in human dental calculus from...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-defect-density-is-dropping-faster-than-the-company-expected-we-have-not-seen-this-performance-since-22nm-says-cfo">Intel 14 A defect density is dropping faster than the... | Tom's Hardware</a></li>
+<li><a href="https://www.igorslab.de/en/intel-14a-faster-than-expected-defect-density-since-22nm/">Intel 14A: Defect Density Better Than Target Curve, Comparison with...</a></li>
+<li><a href="https://newsletter.chetanpatil.in/p/semiconductor-and-beyond-newsletter-215">Semiconductor And Beyond Newsletter - #215</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#archaeogenomics`, `#ancient-DNA`, `#human-evolution`, `#OpenShot`, `#tech-policy`
+**Tags**: `#semiconductors`, `#intel`, `#manufacturing`, `#foundry`, `#14A-process`
 
 ---
 
 <a id="item-14"></a>
-## [Repurposing Security Cameras for Automated Bird Identification with BirdNet-Go](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) ⭐️ 6.0/10
+## [How AI Is Reshaping the Global Semiconductor Patent Landscape](https://www.eetimes.com/how-ai-is-reshaping-the-global-semiconductor-patent-landscape/) ⭐️ 7.0/10
 
-A hobbyist blog post demonstrates how to repurpose existing security cameras—feeding their RTSP audio streams into BirdNet-Go—to automatically identify bird species 24/7 on a self-hosted Raspberry Pi setup. The author integrates the detections into a Home Assistant dashboard for real-time bird monitoring. This is a practical demonstration of edge ML applied to a real-world home automation use case, showing that sophisticated audio classification models can run locally on inexpensive hardware without cloud dependencies. It highlights how off-the-shelf consumer devices and open-source AI tools can be combined in creative ways, lowering the barrier for hobbyists to build their own wildlife monitoring systems. BirdNet-Go is a self-hosted real-time soundscape analyzer built on the BirdNET model from Cornell University and Chemnitz University of Technology, capable of running on a Raspberry Pi. One commenter highlighted a hardware limitation: consumer cameras like the Aqara doorbell only support 16kHz audio sampling, while BirdNET expects 48kHz, necessitating an external USB microphone for reliable classification.
+EE Times reports that AI is transforming chip patents into a geopolitical battleground for technological supremacy. The article highlights Nvidia's CUDA software moat as a key competitive advantage and points to China's accelerating patent filings in the semiconductor space. This trend signals that semiconductor dominance is increasingly being decided not just by manufacturing capability but by intellectual property and software ecosystems. Companies and nations that control key AI chip patents will shape the trajectory of the global AI industry and influence supply chain geopolitics for years to come. Nvidia's CUDA platform has accumulated over 20 million downloads, making it a deeply entrenched parallel computing ecosystem for GPU-accelerated AI workloads. The patent race now extends beyond hardware designs to encompass the software stacks and programming models that define how AI is developed and deployed.
 
-hackernews · speckx · Aug 31, 16:47 · [Discussion](https://news.ycombinator.com/item?id=49511856)
+rss · EE Times · Sep 1, 16:32
 
-**Background**: BirdNET is an open-source research project that uses neural networks to identify bird species from audio recordings, trained on a massive dataset of bird vocalizations. BirdNet-Go wraps this model into a self-hostable, 24/7 soundscape analyzer that can ingest soundcard input or network audio streams. Edge machine learning (edge ML) refers to running ML inference directly on local devices—such as Raspberry Pi boards, IoT sensors, or microcontrollers—rather than sending data to the cloud, which reduces latency, preserves privacy, and avoids recurring cloud costs.
+**Background**: Nvidia's CUDA is a parallel computing platform and programming model that enables developers to use GPUs for general-purpose computing, dramatically accelerating compute-intensive applications. With over 20 million downloads, CUDA has become deeply entrenched in the AI development ecosystem, creating a powerful competitive moat through both software tooling and accumulated intellectual property. The broader context is that semiconductors have become a focal point of US-China technological competition, with both nations investing heavily in domestic chip capabilities and patent portfolios to secure strategic advantage.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/tphakala/birdnet-go">GitHub - tphakala/birdnet-go: Self-hosted realtime soundscape ...</a></li>
-<li><a href="https://birdnet.cornell.edu/">BirdNET – AI-Powered Sound ID</a></li>
-<li><a href="https://www.geeksforgeeks.org/machine-learning/what-is-edge-machine-learning/">What is edge machine learning? - GeeksforGeeks</a></li>
+<li><a href="https://blogs.nvidia.com/blog/what-is-cuda-2/">What Is CUDA | NVIDIA Official Blog</a></li>
+<li><a href="https://www.infoworld.com/article/2256401/what-is-cuda-parallel-programming-for-gpus.html">What is CUDA ? Parallel programming for GPUs | InfoWorld</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters enthusiastically shared their own implementations, including one who hooked BirdNet-Go to a Unifi doorbell via RTSP and plans to add an e-ink display showing 'woodcut' bird images, and another who documented detailed setup steps on a RPi3A+ with an external microphone. Discussion surfaced practical hardware challenges—particularly the 16kHz vs 48kHz sampling-rate mismatch and wind noise from poorly shielded built-in mics—and recommended alternatives like Cornell's Merlin Bird ID app. One tangential thread debated the distinctive vocalizations of northern mockingbirds, which are well-known mimics.
-
-**Tags**: `#bird-identification`, `#audio-classification`, `#edge-ml`, `#raspberry-pi`, `#home-automation`
+**Tags**: `#semiconductors`, `#AI`, `#patents`, `#geopolitics`, `#Nvidia`
 
 ---
 
 <a id="item-15"></a>
-## [Speculation: Military Commissary Freezers May Have Been Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary) ⭐️ 6.0/10
+## [John Ternus Officially Becomes Apple's New CEO](https://www.techpowerup.com/352222/john-ternus-takes-the-helm-as-apples-new-ceo) ⭐️ 6.5/10
 
-An investigation published on the Substack newsletter 'Signal and Silence' speculates that freezers at a U.S. military commissary may have been remotely tampered with, raising concerns about vulnerabilities in military-connected operational technology. The author does not confirm a hack but proposes it as one possibility, noting a pattern of freezer malfunctions across multiple units. If true, the incident would expose critical gaps in OT security within military logistics infrastructure, where compromised industrial freezers could ripple into food availability and local economies near isolated bases such as Guam or Hawaii. Even if the root cause turns out to be a misconfiguration or firmware error, the episode underscores the broader fragility of legacy ICS/PLC systems connected to military networks. The original post treats the freezer malfunctions as a working hypothesis rather than a confirmed compromise, and community commenters cite well-known ICS weaknesses — default admin/admin credentials on devices like the Siemens S7-1500, outdated GUI frameworks, lack of network segmentation, and insecure remote access — as evidence that such systems are routinely exposed to risk regardless of whether this specific case was malicious.
+John Ternus has officially assumed the role of Apple's Chief Executive Officer, succeeding Tim Cook, following an announcement made in April. Ternus previously served as Apple's Senior Vice President of Hardware Engineering, a position he held since 2013 after joining the company in 2001. This leadership transition places a hardware engineering veteran at the helm of one of the world's most valuable companies, signaling that Apple's future product strategy may lean more heavily toward hardware-driven innovation. Ternus's track record on the Mac silicon transition and products like the Vision Pro suggests a continued emphasis on vertically integrated hardware-software development. Ternus oversaw the transition of Apple MacBooks from Intel-based designs to custom Apple Silicon SoCs, one of the most significant hardware engineering achievements in recent Apple history. He also led hardware development for iPhone, iPad, the entire Mac lineup, AirPods, and Vision Pro.
 
-hackernews · jcurbo · Aug 31, 11:45 · [Discussion](https://news.ycombinator.com/item?id=49508506)
+rss · TechPowerUp News · Sep 1, 16:23
 
-**Background**: A military commissary is a tax-free grocery store operated on U.S. military bases to serve service members and their families. Operational Technology (OT) refers to hardware and software that directly monitor and control physical processes — such as industrial freezers — as distinct from traditional Information Technology (IT) that handles data. Industrial Control Systems (ICS), including Programmable Logic Controllers (PLCs), form a core part of OT and are often connected via legacy networks with weak authentication, outdated software, and limited segmentation, making them prone to both accidental misconfiguration and deliberate cyber attack.
+**Background**: Apple's transition from Intel processors to its own Apple Silicon chips began in 2020 with the M1 chip and was completed in 2023 with the M2 Ultra-based Mac Pro, fundamentally reshaping the Mac lineup and pressuring Intel across the broader PC industry. The Vision Pro, unveiled as Apple's first major mixed reality headset, represents another category-defining hardware bet. Ternus's engineering background makes him well-suited to continue steering such ambitious hardware initiatives, building on the legacy of leaders like Steve Jobs and Tim Cook.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.todaysmilitary.com/life-in-the-military/life-on-base/amenities">U.S. Military Base Amenities | Today’s Military</a></li>
-<li><a href="https://www.ibm.com/think/topics/operational-technology">What is operational technology (OT)? - IBM</a></li>
-<li><a href="https://ms.codes/en-gb/blogs/cybersecurity/common-cybersecurity-vulnerabilities-in-industrial-control-systems">Common Cybersecurity Vulnerabilities In Industrial Control Systems</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mac_transition_to_Apple_silicon">Mac transition to Apple silicon - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/pulse/from-intel-apple-silicon-redefining-computing-one-chip-sagi-knkrc">From Intel to Apple Silicon – Redefining Computing, One Chip at...</a></li>
+<li><a href="https://www.ft.com/content/80a19fc4-3f60-4d4a-8539-812ed561ed8b?syn-25a6b1a6=1">Apple unveils Vision Pro ‘ mixed reality ’ headset</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are largely skeptical that a hack occurred: a 20-year military IT veteran argues it is more likely a misconfiguration or botched firmware update, though he flags the timing as concerning and notes that high-value targets would include isolated overseas bases such as Guam and Hawaii. Other participants shared anecdotes about unsecured Siemens S7-1500 PLCs still using default credentials, while another referenced a 2014 Hank Paulson passage describing free real-time monitoring embedded in non-electric coolers deployed at sites including Fort Stewart. The overall sentiment is that the allegation is plausible but unconfirmed, and that legacy OT insecurity is a systemic problem independent of whether this particular incident was malicious.
-
-**Tags**: `#cybersecurity`, `#industrial-control-systems`, `#military-logistics`, `#OT-security`, `#incident-analysis`
+**Tags**: `#Apple`, `#Leadership`, `#Corporate News`, `#Tech Industry`, `#Hardware`
 
 ---
 
 <a id="item-16"></a>
-## [Reference Guide for ChatGPT Agentic Tools and Skills](https://codex-tool-reference.simonw.chatgpt.site/) ⭐️ 6.0/10
+## [(PR) AMD Instinct GPUs and EPYC CPUs to Power Europe's Next-Generation LUMI-AI Supercomputer](https://www.techpowerup.com/352209/amd-instinct-gpus-and-epyc-cpus-to-power-europes-next-generation-lumi-ai-supercomputer) ⭐️ 6.5/10
 
-Simon Willison published a reference guide documenting the available tools and skills for ChatGPT's agentic capabilities, including how the control-browser skill launches a Playwright instance via ChatGPT's Node.js REPL to programmatically retrieve browser automation documentation. This reference helps developers and power users understand the exact capabilities available within ChatGPT's agentic mode, demystifying how browser automation, code execution, and other skills work under the hood — information that is otherwise hidden inside the model's system prompts. The control-browser skill instructs ChatGPT to call nodeRepl.write(await browser.documentation()), which returns a full text instruction set for using the browser. Playwright itself is a token-efficient browser automation framework developed by Microsoft that avoids loading large tool schemas and accessibility trees into model context, making it well-suited for coding agents.
+EuroHPC has contracted Bull to build LUMI-AI, a next-generation supercomputer in Finland powered by AMD Instinct MI430X GPUs and 6th Gen EPYC CPUs, delivering 10x the AI capacity of the current LUMI system with deployment planned for H2 2027.
 
-hackernews · ijidak · Aug 31, 14:07 · [Discussion](https://news.ycombinator.com/item?id=49510000)
+rss · TechPowerUp News · Sep 1, 09:08
 
-**Background**: ChatGPT's agentic capabilities, available to paying subscribers, allow the model to carry out multi-step tasks on websites and interact with external tools. OpenAI Codex, originally launched in 2021 as a GPT-3 variant fine-tuned for code, has evolved into a broader coding agent platform supporting various tools. Playwright, created by Microsoft's team (formerly behind Puppeteer at Google), is now widely used by AI coding agents like Claude Code and GitHub Copilot for browser automation due to its token efficiency compared to alternatives like MCP.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://playwright.dev/">Fast and reliable end-to-end testing for modern web apps | Playwright</a></li>
-<li><a href="https://github.com/microsoft/playwright">GitHub - microsoft/ playwright : Playwright is a framework for Web...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex_(language_model)">OpenAI Codex (language model) - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Simon Willison highlighted the control-browser skill and linked to a background comment explaining the creation prompt. User satvikpendem questioned how this differs from OpenAI's Codex product if both offer the same capabilities. darepublic raised practical concerns about token usage and slowdown from these work tools. User enraged_camel made an off-topic observation about AI-generated websites having a uniform visual style reminiscent of the Bootstrap era.
-
-**Tags**: `#chatgpt`, `#codex`, `#agentic-ai`, `#playwright`, `#developer-tools`
+**Tags**: `#HPC`, `#AI Infrastructure`, `#AMD`, `#Supercomputing`, `#Europe`
 
 ---
 
 <a id="item-17"></a>
-## [Advanced Cooling Technologies Tackle Automotive Heat Challenge](https://www.eetimes.com/advanced-cooling-technologies-address-the-automotive-heat-challenge/) ⭐️ 6.0/10
+## [Chinese Court Freezes $318M in Nexperia Assets Amid Wingtech Control Battle](https://www.tomshardware.com/tech-industry/chinese-court-freezes-318-million-in-nexperia-assets-as-wingtech-presses-to-regain-control) ⭐️ 6.5/10
 
-EE Times highlights emerging cooling technologies designed to handle escalating heat fluxes generated by electric drivetrains, AI processors, and autonomous systems in modern vehicles. As vehicles integrate more powerful AI chips and electrified drivetrains, traditional air cooling is becoming inadequate, making thermal management a critical bottleneck for vehicle performance, safety, and reliability. The article indicates a shift toward liquid cooling and two-phase immersion cooling solutions, technologies already proven in data centers, now being adapted for high-density automotive electronics and power modules.
+A Chinese court has frozen approximately $318 million in assets belonging to Nexperia, the Dutch semiconductor company, as its Chinese parent Wingtech Technology presses to regain control. Nexperia has stated that the asset seizures will not affect its day-to-day operations. The case highlights escalating legal and geopolitical tensions between China and Europe over control of a strategically important chipmaker that supplies discrete semiconductors, analog chips, and power devices to the automotive, consumer, and industrial sectors. The outcome could reshape cross-border semiconductor ownership patterns and influence how Chinese-backed firms navigate host-country regulations in Europe. The frozen $318 million exceeds Wingtech's entire first-half 2026 revenue of 1.51 billion yuan, which itself represents a year-over-year decline of more than 90%, underscoring the severe financial pressure on Wingtech. Nexperia, headquartered in Nijmegen, Netherlands, employs over 15,000 people across Europe, Asia, and the United States, and traces its roots back over 60 years to Royal Philips' semiconductor standard products division.
 
-rss · EE Times · Aug 31, 07:46
+rss · Tom's Hardware · Sep 1, 11:57
 
-**Background**: Modern electric vehicles generate significant heat from multiple subsystems including batteries, electric motors, power electronics, and increasingly from onboard AI processors for autonomous driving and ADAS. Traditional air cooling is insufficient for these high heat flux densities, prompting the automotive industry to adopt liquid cooling, heat pump systems, and integrated thermal management approaches. Two-phase immersion cooling, where a fluid boils to absorb large amounts of heat, is being explored as a more efficient alternative for next-generation power electronics and HPC-class automotive processors.
+**Background**: Nexperia B.V. is a semiconductor manufacturer headquartered in Nijmegen, the Netherlands, and is a subsidiary of Wingtech Technology, a Shanghai-listed company partially owned by the Chinese government. Wingtech provides products and services including R&D and design of semiconductor power devices and analog chips, wafer manufacturing, packaging and testing. Nexperia was originally the standard products division of Royal Philips and has more than 60 years of semiconductor R&D and manufacturing heritage, serving automotive, consumer, and industrial electronics sectors globally.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.eetimes.com/advanced-cooling-technologies-address-the-automotive-heat-challenge/">Advanced Cooling Technologies Tackle Automotive Heat - EE Times</a></li>
-<li><a href="https://www.heatsinksmfg.com/automotive-ai-liquid-cooling.html">Automotive AI & Liquid Cooling: The Future of Smart Vehicle ...</a></li>
-<li><a href="https://docs.nlr.gov/docs/fy23osti/83645.pdf">Automotive Power Electronics Cooling Technology Research at NREL</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nexperia">Nexperia - Wikipedia</a></li>
+<li><a href="http://www.wingtech.com/en">Wingtech Technology Co., Ltd.</a></li>
+<li><a href="https://ca.linkedin.com/company/wingtech-group">Wingtech 闻泰科技 | LinkedIn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#automotive`, `#thermal-management`, `#electric-vehicles`, `#AI-hardware`, `#cooling-technologies`
+**Tags**: `#semiconductors`, `#Nexperia`, `#Wingtech`, `#corporate-governance`, `#geopolitics`
 
 ---
 
 <a id="item-18"></a>
-## [A solid H1 for Chinese chip companies](https://www.electronicsweekly.com/news/business/a-solid-h1-for-china-chips-2026-08/) ⭐️ 6.0/10
+## [TP-Link Unveils First Consumer Wi-Fi 8 Routers, US Launch Complicated by FCC Restrictions](https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions) ⭐️ 6.5/10
 
-Chinese chip companies that had reported their Q2 results by last Thursday posted a 12.8% year-over-year rise in H1 revenue and a striking 99% jump in profit, according to China's National Development [agency]. This strong financial performance highlights the accelerating growth momentum of China's domestic semiconductor sector, which is strategically important amid ongoing US export controls and China's push for technological independence in chips. The 99% profit surge is particularly notable and far outpaces the 12.8% revenue growth, suggesting significant margin expansion. The figures are based on companies that had reported Q2 results by the cutoff date and were compiled by China's National Development authority.
+TP-Link announced its first Wi-Fi 8 lineup at IFA 2026, led by the Archer 8 Ultra router and Deco 8 Ultra mesh system, built on the upcoming IEEE 802.11bn standard using chipsets from Broadcom, Qualcomm, and MediaTek. Preorders in select regions will commence on September 30, 2026, following a global online launch event. This marks one of the earliest consumer adoptions of the Wi-Fi 8 (802.11bn) standard, shifting the industry's focus from raw speed improvements to reliability, coverage, and congestion management. However, ongoing FCC restrictions on TP-Link products complicate the US rollout, potentially limiting American consumers' access to these next-generation devices. At the core of the lineup is TP-Link's Wi-Fi 8 StabilityEngine, which combines several 802.11bn technologies to strengthen coverage, manage congestion, and reduce interference. The IEEE 802.11 TGbn task group approved Draft 2.0 of the standard during the July plenary session, indicating the specification is progressing toward ratification but is not yet finalized.
 
-rss · Electronics Weekly · Aug 31, 05:15
+rss · Tom's Hardware · Sep 1, 04:00
 
-**Background**: China's semiconductor industry has been a focal point of US-China technology competition, with successive rounds of US export restrictions targeting advanced chip manufacturing equipment and AI chips. In response, China has poured substantial state investment into building domestic semiconductor capabilities, including design, manufacturing, and equipment. The National Development and Reform Commission (NDRC) is a key government body overseeing China's economic planning and industrial policy, making its data releases an important signal of sector health.
-
-**Tags**: `#semiconductors`, `#China`, `#industry-news`, `#financial-report`, `#chip-market`
-
----
-
-<a id="item-19"></a>
-## [Steam Surpasses 30,000 Verified and Playable Games on Steam Deck](https://www.techpowerup.com/352197/steam-tops-30-000-steam-deck-playable-and-verified-games) ⭐️ 5.5/10
-
-According to SteamDB, Steam has officially reached 30,023 games labeled as either 'Verified' or 'Playable' on the Steam Deck or SteamOS, while ProtonDB reports a slightly lower figure of 29,988. This milestone highlights the success of Valve's Proton compatibility layer and the Steam Deck in transforming Linux from a niche gaming platform into a viable mainstream option, giving publishers stronger incentives to support Linux natively. ProtonDB metrics show that 40% of the current Steam Top 10 games by concurrent player count are Verified or Playable, rising to 46% within the Top 100 — meaning that even flagship titles are increasingly compatible with the handheld.
-
-rss · TechPowerUp News · Aug 31, 22:57
-
-**Background**: The Steam Deck is Valve's handheld gaming PC that runs SteamOS, a Linux-based operating system. Because most PC games are developed for Windows, Valve created Proton, a compatibility layer built on top of the open-source Wine project, to translate Windows game calls into something Linux can run. Games on the Deck receive one of two compatibility badges from Valve: 'Verified' means the game is fully tested and works out of the box with controls and display, while 'Playable' means the game may require some manual tweaking by the user.
+**Background**: Wi-Fi 8, formally known as IEEE 802.11bn or Ultra High Reliability (UHR), is the successor to Wi-Fi 7 (802.11be) and represents a philosophical shift in wireless networking priorities. Rather than focusing primarily on peak throughput, Wi-Fi 8 emphasizes features like Coordinated Spatial Reuse (Co-SR) and Enhanced Long Range operation to improve real-world connectivity in dense device environments. TP-Link, one of the world's largest consumer networking vendors, has separately faced scrutiny from US regulators: the FCC has imposed restrictions related to national security concerns, which currently complicates the company's ability to bring new products to the US market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Proton_(software)">Proton (software) - Wikipedia</a></li>
-<li><a href="https://www.hlplanet.com/verified-vs-playable-steam-deck/">Verified vs Playable Game Status for Steam Deck</a></li>
+<li><a href="https://www.cnx-software.com/2024/12/02/wi-fi-8-802-11bn-to-focus-on-reliability-and-efficiency-while-maintaining-wi-fi-7-performance/">Wi - Fi 8 ( 802 . 11 bn) to focus on reliability and efficiency... - CNX Software</a></li>
+<li><a href="https://www.linkedin.com/posts/alfred-asterjadhi-1a11ab22_wifi8-ieee-tgbn-activity-7484034210316308481-pU47">IEEE 802 . 11 TGbn Approves Wi - Fi 8 Draft 2.0 | Alfred... | LinkedIn</a></li>
+<li><a href="https://www.tp-link.com/us/press/news/22486/">TP - Link Unveils World’s First Complete Wi - Fi 8 Lineup at IFA 2026...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Steam Deck`, `#Linux Gaming`, `#Valve`, `#Proton`, `#Gaming Industry`
+**Tags**: `#Wi-Fi 8`, `#networking`, `#TP-Link`, `#802.11bn`, `#consumer hardware`
+
+---
+
+<a id="item-19"></a>
+## [Fastpotify: A Fast Rust-Based Third-Party Spotify Client](https://fastpotify.rocks/) ⭐️ 6.0/10
+
+Fastpotify is a new lightweight, native Spotify client written in Rust using the egui framework, designed for Linux, macOS, and Windows. It boasts sub-second startup times and uses only 100–250 MB of RAM, playing music through the open-source librespot library rather than an embedded browser engine. The project highlights growing frustration with Spotify's official client and the company's hostility toward open-source alternatives, as Spotify is reportedly working to kill the librespot library that most third-party clients depend on. It also reflects a broader industry shift toward self-hosted music streaming solutions like Navidrome, Funkwhale, and the OpenSubsonic ecosystem. Fastpotify is built on top of librespot, an open-source Spotify client library written in Rust that provides Spotify Connect receiver capabilities and multiple audio backends. Critically, librespot is reportedly being actively targeted by Spotify, which threatens the viability of Fastpotify and similar third-party clients like Spotube and Termideck.
+
+hackernews · nreece · Sep 1, 02:52 · [Discussion](https://news.ycombinator.com/item?id=49517448)
+
+**Background**: librespot is an unofficial open-source library that allows third-party applications to interface with Spotify's services without using Spotify's official client, making it possible to build alternative Spotify players, Connect receivers, and integrations. As Spotify has increasingly restricted access through its private APIs and authentication requirements, the ecosystem of librespot-dependent third-party clients has come under pressure. This has pushed many users toward fully self-hosted solutions such as Navidrome, Funkwhale, and Ampache, which work with the Subsonic API to stream users' own music libraries and integrate with discovery tools like ListenBrainz, Soulseek, and Lidarr.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/librespot-org/librespot">GitHub - librespot -org/ librespot : Open Source Spotify client library</a></li>
+<li><a href="https://github.com/crmne/fastpotify">GitHub - crmne/ fastpotify : Spotify, native and fast. One lightweight...</a></li>
+<li><a href="https://fastpotify.rocks/">Fastpotify</a></li>
+<li><a href="https://selfhosting.sh/best/music-streaming/">Best Self - Hosted Music Streaming Servers | selfhosting .sh</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The discussion is dominated by complaints about Spotify's poor UX and bugs, with the Android app singled out for usability problems like inconsistent gestures and missing features. Several users enthusiastically shared their self-hosted setups using Navidrome combined with tools like Explo, Lidarr, Soulseek, and ListenBrainz for music discovery, recommending clients such as Symfonium and Dsub2000 for mobile access. A recurring theme is the sense that the 'golden age' of music streaming is ending and that self-hosted libraries with open ecosystems represent the future.
+
+**Tags**: `#spotify`, `#music-streaming`, `#open-source`, `#librespot`, `#self-hosted`
 
 ---
 
 <a id="item-20"></a>
-## [Modder Creates Affordable Open-Source Hall Effect Split Ergonomic Keyboard](https://www.techpowerup.com/352195/modder-creates-affordable-open-source-hall-effect-split-ergonomic-keyboard) ⭐️ 5.5/10
+## [Top 5 Enterprise SSD Vendors' Revenue to Hit $37.59B in Q2 2026](https://www.dramexchange.com/WeeklyResearch/Post/2/12818.html) ⭐️ 6.0/10
 
-An open-source modder has created the Silakka54 HE, an affordable Hall effect switch version of the popular split ergonomic keyboard, offering gamers a third option beyond expensive alternatives.
+TrendForce projects that the combined revenue of the top five enterprise SSD vendors will reach nearly US$37.59 billion in Q2 2026, driven by both higher prices and increased shipment volumes. NAND Flash suppliers are expanding their enterprise SSD product lines to improve profitability and diversify their offerings. This projection signals strong enterprise demand for high-performance storage, likely fueled by AI workloads, data center expansion, and cloud computing growth. It also indicates that NAND Flash suppliers are strategically shifting toward higher-margin enterprise products away from lower-margin consumer markets. The ~$37.59 billion figure reflects combined revenue across the five leading enterprise SSD vendors, with growth attributed to simultaneous increases in both ASP (average selling price) and unit shipments. TrendForce, a division under DRAMeXchange, is a major market intelligence firm specializing in DRAM, NAND Flash, and related technology sectors.
 
-rss · TechPowerUp News · Aug 31, 22:40
+rss · DRAMeXchange (TrendForce) · Sep 1, 14:42
 
-**Tags**: `#hardware`, `#open-source`, `#mechanical-keyboards`, `#ergonomics`, `#hall-effect`
+**Background**: Enterprise SSDs are high-performance, high-reliability solid-state drives designed for data centers and mission-critical workloads, offering significantly better endurance, performance, and data protection than consumer-grade SSDs. NAND Flash is the non-volatile memory technology that underlies all SSDs, using memory cells made of MOSFETs manufactured at nanometer-scale processes. TrendForce is a leading global market intelligence and consulting firm that provides research and pricing data on the high-tech industry, including memory, displays, LEDs, and emerging technologies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Flash_memory">Flash memory - Wikipedia</a></li>
+<li><a href="https://www.trendforce.com/">Global Market Intelligence & Consulting | TrendForce</a></li>
+<li><a href="https://www.crunchbase.com/organization/trendforce">TrendForce - Crunchbase Company Profile & Funding</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Enterprise SSDs`, `#NAND Flash`, `#Storage Market`, `#TrendForce`, `#Market Analysis`
 
 ---
