@@ -5,396 +5,380 @@ date: 2026-09-02
 lang: zh
 ---
 
-> 从 97 条内容中筛选出 20 条重要资讯。
+> 从 105 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，大幅降价](#item-1) ⭐️ 9.0/10
-2. [Nvidia 通过可转换债券向 MediaTek 投资 35 亿美元](#item-2) ⭐️ 9.0/10
-3. [Hot Chips 2026：三星公布三阶段 HBM 路线图，将逻辑与计算融入内存——zHBM 最终将 DRAM 直接堆叠在处理器上](#item-3) ⭐️ 8.5/10
-4. [华硕和微星在 NVIDIA RTX Spark 笔记本上市前售罄首批库存](#item-4) ⭐️ 7.5/10
-5. [索尼法律上辩称数字游戏所有权并不成立](#item-5) ⭐️ 7.5/10
-6. [NVIDIA DLSS 5 现可在单张 RTX 50 显卡上运行，速度较三月提升 5 倍](#item-6) ⭐️ 7.5/10
-7. [NVIDIA 重启 Rubin CPX GPU，搭载 HBM4 内存，弃用 GDDR7](#item-7) ⭐️ 7.5/10
-8. [NVIDIA GPU 帧插值功能通过 Vulkan API 集成至 FFmpeg](#item-8) ⭐️ 7.5/10
-9. [Nvidia 颇具争议的 DLSS 5 将于 9 月 3 日随 NBA2K27 一同发布，公司分享首批基准测试成绩——支持所有 RTX 50 系列 GPU、笔记本及 GeForce NOW](#item-9) ⭐️ 7.5/10
-10. [中国法院冻结安世半导体 3.18 亿美元资产，闻泰科技力图夺回控制权——荷兰芯片商称查封不影响日常运营](#item-10) ⭐️ 7.5/10
-11. [消息称长鑫存储启动 HBM3E 内存风险试产，实现中国 DRAM 产业突破——公司有望 2027 年实现量产](#item-11) ⭐️ 7.5/10
-12. [Linux 内核每版本漏洞逼近 2000 个纪录，AI 漏洞猎人扫描 4000 万行代码——维护者称被 CVE 发现“完全压垮”](#item-12) ⭐️ 7.5/10
-13. [新型 iPSJ GaN-on-Si 晶体管击穿电压接近 4kV](#item-13) ⭐️ 7.5/10
-14. [Softaculous 遭遇长达 33 小时的 BGP 路由劫持](#item-14) ⭐️ 7.3/10
-15. [Dan Luu 严格审视 Ed Zitron 的 AI 怀疑论预测](#item-15) ⭐️ 7.0/10
-16. [Show HN：在 48GB Mac 上以约 12 tok/s 的速度运行 104GB 的 Qwen3.8-Flash-Next 模型](#item-16) ⭐️ 7.0/10
-17. [前五大企业级 SSD 厂商 2026 年第二季度营收逼近 375.9 亿美元](#item-17) ⭐️ 7.0/10
-18. [John Ternus 正式出任苹果新任 CEO](#item-18) ⭐️ 6.5/10
-19. [NVIDIA 在 Hot Chips 2026 展示 CUDA 支持 RISC-V 及 NVLink Fusion 集成](#item-19) ⭐️ 6.5/10
-20. [评论文章力陈 Firefox 对浏览器引擎多样性的必要性](#item-20) ⭐️ 6.0/10
+1. [Google 发布 Gemini 3.8 Flash 与 Flash Cyber](#item-1) ⭐️ 8.0/10
+2. [三个网站生成了 21.5 万个“最佳软件”页面专供 AI，Perplexity 正在引用它们](#item-2) ⭐️ 8.0/10
+3. [AMD RDNA 5 GPU IP 首发亮相三星 Exynos 2700，采用 2 纳米工艺](#item-3) ⭐️ 7.5/10
+4. [台积电押注 5 微米微凸点技术，跳过混合键合](#item-4) ⭐️ 7.5/10
+5. [三星内存路线图：HBM5 目标翻倍性能，zHBM 承诺 8 倍提升](#item-5) ⭐️ 7.5/10
+6. [2026 年混合键合现状——台积电达到 6 微米间距，HBM 延迟出乎意料](#item-6) ⭐️ 7.5/10
+7. [FBI 调查 1.53 亿驾照数据在俄罗斯网络犯罪论坛泄露事件](#item-7) ⭐️ 7.5/10
+8. [研究人员轻松诱骗财富 500 强公司的 AI 智能体执行任意代码——通过 llms.txt 指南文件发起的供应链攻击揭示了数据如何变成代码](#item-8) ⭐️ 7.5/10
+9. [NVIDIA 在 Hot Chips 2026 讨论 RISC-V 上的 CUDA 支持](#item-9) ⭐️ 7.5/10
+10. [NVIDIA 投资 35 亿美元于联发科，加速 NVLink Fusion 生态扩展](#item-10) ⭐️ 7.5/10
+11. [最大暗物质探测器发现单个异常粒子](#item-11) ⭐️ 7.0/10
+12. [人工神经网络的涌现符号结构](#item-12) ⭐️ 7.0/10
+13. [WSTS 预测全球存储芯片营收将激增 250%至 8040 亿美元](#item-13) ⭐️ 7.0/10
+14. [无设计的半导体行业](#item-14) ⭐️ 7.0/10
+15. [DLSS 5 测试揭示 RTX 5090 单电源接口成性能瓶颈](#item-15) ⭐️ 6.5/10
+16. [美光探索近 GPU NAND 闪存方案以运行更大模型](#item-16) ⭐️ 6.5/10
+17. [显卡价格单月飙升 15%，RTX 5090 溢价达 136%](#item-17) ⭐️ 6.5/10
+18. [索尼在法律上辩称数字游戏所有权不成立](#item-18) ⭐️ 6.5/10
+19. [DLSS 5 不再需要两张 RTX 5090，NVIDIA 称模型自三月以来速度提升 5 倍](#item-19) ⭐️ 6.5/10
+20. [GoPro 以 2.85 亿美元合并 Starman Optical，进军 AI 数据中心市场](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，大幅降价](https://www.anthropic.com/claude-fable-and-mythos-5-1) ⭐️ 9.0/10
+## [Google 发布 Gemini 3.8 Flash 与 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) ⭐️ 8.0/10
 
-Anthropic 发布了 Claude Fable 5.1 和 Claude Mythos 5.1，进行大幅降价（缓存读取价格从 $1/M 降至 $0.25/M），写作质量得到提升，科学能力也有所增强。Claude Mythos 5.1 与 Fable 5.1 技术上完全相同，但对从事网络安全和生命科学工作的受认证机构提供了更宽松的安全限制。 缓存读取价格降低 75% 为整个 LLM 行业的定价设置了新的上限，并使顶级 AI 能力在长上下文应用中变得更加容易获取。作为高于 Opus 的旗舰模型级别，Fable 5.1 在长时间智能体任务和编程方面的改进可能会重塑主要 AI 实验室之间的竞争格局。 Claude Mythos 5.1 由于对网络安全和生命科学工作提供了更宽松的安全限制，仅限通过受信任的访问项目获取。一些用户指出，移除可视化思维链降低了提示调试能力，且在 Terminal-Bench-Science 0.1 等科学专项测试之外的基准测试改进似乎不太显著。
+Google 发布了 Gemini 3.8 Flash，这款模型专为长周期编码和自主智能体设计，相较 3.7 Flash 有大幅提升，并在智能评分上以 59 分追平 Claude Opus 5，同时成本更低、速度更快。与此同时，Google 推出了专注于网络安全的 Gemini 3.8 Flash Cyber，在漏洞检测和自动修复方面具备前沿级性能，可通过新的 Fairwind 计划向受信任的防御者开放。 一款 Flash 级别模型在智能评分上追平 Opus 5，但成本却低得多，这一突破颠覆了当前 AI 编码和智能体工作流中的定价逻辑，可能重塑开发者和企业的模型预算分配方式。专门的 Cyber 变体标志着 Google 正进军 AI 驱动的防御性安全领域，自动化漏洞修复有望显著加快整个安全生态的响应速度。 该模型在编码、知识工作、多模态、长上下文、计算机使用和科学推理等多个基准上进行了评估。根据社区测试，它在 HTML/JavaScript 生成方面表现出色——Simon Willison 仅用 1.8 美分和 13 秒就生成了一段交互式演示，并在 DeepSWE 编码排行榜上超越 Opus 5 登顶。
 
-hackernews · denysvitali · 9月1日 17:53 · [社区讨论](https://news.ycombinator.com/item?id=49525378)
+hackernews · bratao · 9月2日 15:12 · [社区讨论](https://news.ycombinator.com/item?id=49537553)
 
-**背景**: Claude 是 Anthropic 的旗舰大语言模型家族，按能力分为不同等级：Haiku（小型）、Sonnet（中型）、Opus（大型）和 Fable/Mythos（最强，面向智能体任务）。Fable 5 于 2026 年 6 月发布，Fable 5.1 大约三个月后作为增量更新推出。Mythos 版本专为需要访问通常因安全原因而受限能力的受认证机构设计，主要应用于网络安全和生命科学领域。"缓存读取"是一种成本优化技术，通过缓存重复的提示前缀来避免重复计算，是长上下文应用中常见的定价机制。
+**背景**: Google 的 Gemini 系列按性能分为 Pro、Flash 和 Flash-Lite 三个层级，其中 Flash 模型侧重速度和成本效率，而 Pro 模型追求最高能力。Gemini 3.7 Flash 是上一代 Flash 模型。Claude Opus 5 由 Anthropic 于 2026 年 7 月发布，被认为是前沿级模型，在计算机使用任务和复杂推理方面表现出色。"智能评分"（此处为 59）是 Artificial Analysis 等评测网站用于对模型进行排名的综合基准指标。"长周期编码"指的是 AI 在长时间内自主持续完成多步骤软件工程任务的能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Introducing Claude Fable 5 . 1 and Claude Mythos 5 . 1 \ Anthropic</a></li>
-<li><a href="https://www.anthropic.com/claude/fable">Claude Fable \ Anthropic</a></li>
-<li><a href="https://kie.ai/blog/what-is-claude-fable-5-1">What Is Claude Fable 5 . 1 ? Mythos -Class Claude Explained</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</a></li>
+<li><a href="https://deepmind.google/models/model-cards/gemini-3-8-flash/">Gemini 3 . 8 Flash - Model Card — Google DeepMind</a></li>
+<li><a href="https://www.anthropic.com/news/claude-opus-5">Introducing Claude Opus 5 \ Anthropic</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应褒贬不一。一位 Anthropic 员工强调写作风格和科学能力方面的提升是突出亮点，Simon Willison 则提供了详细的技术分析，包括用鹈鹕主题的 SVG 渲染器来衡量不同思考力度等级（低、中、高、超高）。批评者质疑基准测试是否显示出有意义的实际改进，指出移除可视化思维链会影响调试工作流，并认为大幅降价意味着 Anthropic 在原价上难以销售 Fable，暗示前沿 LLM 定价存在市场上限。
+**社区讨论**: 社区情绪总体积极，对性价比印象深刻。Simon Willison 称赞了该模型的 HTML/JS 生成速度，另一位用户则强调了 3.8 在旅行规划任务（如照片排序和文档解析）方面相较 3.7 的实际优势。然而也有明显的不满：多名用户发现 3.8 Flash 在发布时尚未出现在 Gemini 网页 UI 的下拉菜单中，一位评论者将此列为放弃使用 Google 消费级 AI 产品的常见原因。
 
-**标签**: `#anthropic`, `#claude`, `#llm-release`, `#ai-models`, `#pricing`
+**标签**: `#gemini`, `#google-ai`, `#llm`, `#ai-models`, `#benchmark`
 
 ---
 
 <a id="item-2"></a>
-## [Nvidia 通过可转换债券向 MediaTek 投资 35 亿美元](https://www.electronicsweekly.com/news/business/nvidia-2-2026-09/) ⭐️ 9.0/10
+## [三个网站生成了 21.5 万个“最佳软件”页面专供 AI，Perplexity 正在引用它们](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) ⭐️ 8.0/10
 
-Nvidia 将购买 MediaTek 价值 35 亿美元的可转换债券，两家公司承诺将彼此的产品整合进各自的生态系统中。作为扩展合作的一部分，MediaTek 将向设计定制 XPU 的客户开放 Nvidia 的 NVLink Fusion 平台，同时 Nvidia 的网络生态系统也将纳入 MediaTek 的供应链。 该交易是近年来规模最大的战略半导体投资之一，表明 Nvidia 正大力推动将其专有的互联技术（NVLink Fusion）深度嵌入定制 AI 加速器市场，从而更难被竞争对手取代。这笔交易显著强化了 MediaTek 在 AI 基础设施、边缘计算和汽车平台领域的地位，同时也为 Nvidia 在传统代工/无晶圆厂模式之外争取到一位利益深度绑定的合作伙伴。 该投资以可转换债券而非直接股权的形式进行，使 Nvidia 通过固定利息支付获得下行保护，同时保留通过转换为 MediaTek 股票获得上行收益的潜力。NVLink Fusion 是一项半定制 AI 基础设施技术，允许合作伙伴使用 MGX 机架级架构，将其定制的 XPU 和 CPU 集成到 Nvidia 的纵向扩展（scale-up）与横向扩展（scale-out）技术栈中。
+调查显示，三个网站生成了 21.5 万个专门为 AI 引用而优化的“最佳软件”页面，而 Perplexity 正在积极引用这些内容，揭示了 AI 搜索是如何被系统性操纵的。
 
-rss · Electronics Weekly · 9月1日 05:16
+hackernews · jakobgreenfeld · 9月2日 13:59 · [社区讨论](https://news.ycombinator.com/item?id=49536375)
 
-**背景**: Nvidia 的 NVLink 是一种高带宽互联技术，可将 GPU（如今也包括其他加速器）连接成统一的计算 fabric，而 NVLink Fusion 则将此 IP 扩展给第三方芯片设计者，使其定制的 XPU 能够接入 Nvidia 的 AI 平台。XPU 是定制 AI 加速器芯片——不同于通用的 CPU 和 GPU——由超大规模云厂商和无晶圆厂设计商针对特定 AI 工作负载打造。可转换债券是一种混合金融工具：它支付常规债券利息，但可按约定比例转换为发行方的普通股，使投资者在获得类似债券的风险保护的同时享有类似股权的上行收益。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms">NVIDIA and MediaTek Deepen Long-Standing... | NVIDIA Newsroom</a></li>
-<li><a href="https://www.investopedia.com/terms/c/convertiblebond.asp">Understanding Convertible Bonds: Definition, Examples, and Key Benefits</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Nvidia`, `#MediaTek`, `#semiconductors`, `#strategic-investment`, `#networking`
+**标签**: `#ai-search`, `#llm-citations`, `#content-manipulation`, `#perplexity`, `#ai-integrity`
 
 ---
 
 <a id="item-3"></a>
-## [Hot Chips 2026：三星公布三阶段 HBM 路线图，将逻辑与计算融入内存——zHBM 最终将 DRAM 直接堆叠在处理器上](https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor) ⭐️ 8.5/10
+## [AMD RDNA 5 GPU IP 首发亮相三星 Exynos 2700，采用 2 纳米工艺](https://www.techpowerup.com/352268/amd-rdna-5-gpu-ip-ships-inside-a-samsung-soc-on-2-nm-node) ⭐️ 7.5/10
 
-三星在 Hot Chips 2026 上公布三阶段 HBM 路线图，逐步将逻辑集成到基底裸片，最终通过 zHBM 把 DRAM 直接堆叠在处理器上。
+AMD 下一代 RDNA 5 GPU IP 首次出现在实际芯片中，作为 Xclipse 970 GPU 集成于三星 Exynos 2700 SoC。该芯片采用三星代工的 SF2 2 纳米工艺，搭配独特的 10 核 Arm CPU 配置，旨在与高通骁龙 Elite 系列竞争。 这是 RDNA 5 首次部署在任何出货产品中，让 AMD 在独立显卡上市之前就在移动端抢占了下一代图形架构的先机。同时也意味着三星 2 纳米代工工艺拿下一个重量级客户，增强了其与 TSMC 代工对手在高端移动 SoC 市场的竞争实力。 Xclipse 970 配备 8 个 GPU WGP，每个包含 2 个 CU（总计 16 个 CU），前提是 AMD 保留了 RDNA 4 的 WGP/CU 比例。RDNA 5（代号 GFX1310）引入了完整的 Wave32 双发射 VALU 流水线，可在 X 和 Y ALU 通道上同时执行向量操作，大幅提升着色器性能。CPU 方面，三星采用了 Arm 现成的 C2-Ultra 和 C2-Pro 核心，其中一颗 C2-Ultra 主频达 4.24 GHz，另一颗为 3.36 GHz，四颗 C2-Pro 为 3.74 GHz，剩余四颗 C2-Pro 为 2.88 GHz。
 
-rss · Tom's Hardware · 9月1日 11:06
+rss · TechPowerUp News · 9月2日 16:01
 
-**标签**: `#HBM`, `#Samsung`, `#semiconductors`, `#memory-architecture`, `#HotChips2026`
+**背景**: RDNA（Radeon DNA）是 AMD 的现代图形架构，应用于独立 Radeon 显卡、游戏主机（PlayStation 5、Xbox Series）以及三星 Xclipse 等定制芯片中。三星的 Xclipse GPU 由 AMD 基于 RDNA 技术共同开发，这一合作最早始于 Exynos 2200，并延续至后续每一代 Exynos 旗舰芯片。三星的 SF2 是其 2 纳米级 GAA（环栅）MBCFET 工艺，是三星代工缩小与 TSMC 差距战略中的关键一环。Arm 的 C2-Ultra 和 C2-Pro 属于最新的 Armv9.2 C 系列，其中 Ultra 代表最高性能等级，Pro 则定位于性能与能效的平衡点。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/347389/amd-rdna-5-to-heavily-boost-shader-performance-in-games-with-new-dual-issue-pipeline">AMD "RDNA 5" to Heavily Boost Shader Performance in Games with New Dual-Issue Pipeline | TechPowerUp</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/samsung-2nm-process-technology-wiki/">Samsung 2nm Process Technology Wiki - SemiWiki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ARM_C-series">ARM C-series - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AMD`, `#RDNA 5`, `#Samsung`, `#Exynos 2700`, `#2nm`, `#mobile GPU`, `#semiconductor`
 
 ---
 
 <a id="item-4"></a>
-## [华硕和微星在 NVIDIA RTX Spark 笔记本上市前售罄首批库存](https://www.techpowerup.com/352237/taiwanese-hardware-manufacturers-sell-out-nvidia-rtx-spark-laptop-stock-ahead-of-launch) ⭐️ 7.5/10
+## [台积电押注 5 微米微凸点技术，跳过混合键合](https://www.techpowerup.com/352267/tsmc-skips-hybrid-bonding-for-now-betting-on-conventional-microbumps-to-lead-the-way) ⭐️ 7.5/10
 
-华硕和微星在正式上市前便售罄了首批共 10 万台搭载 NVIDIA RTX Spark（采用与联发科联合研发的 N1/N1x ARM SoC）的笔记本电脑，据报道 NVIDIA 计划将下一批产量提升至 30 万至 50 万台，预计起售价约为 3,500 美元。 仅两家 OEM 便在上市前售罄 10 万台，表明渠道对 NVIDIA ARM 笔记本平台的需求强劲，验证了其相对于高通骁龙 X Elite 的竞争定位。将产量扩大至 30 万至 50 万台的计划则显示 NVIDIA 认真投入高端 ARM 笔记本市场的商业决心。 RTX Spark 笔记本将 NVIDIA Blackwell GPU 与联发科的高能效 SoC 设计相结合，面向高端用户，支持本地大语言模型推理等设备端 AI 工作负载。台湾市场约 3,500 美元的起售价可能会限制其向主流市场普及，而戴尔、惠普、联想和微软等其他首发合作伙伴获得的芯片配额尚未披露。
+据报道，台积电将跳过混合键合技术，转而为供应链准备 5 微米级微凸点，目标于 2028 年下半年实现量产。公司在其 CoWoS-S 和 CoWoS-L 封装中继续依赖现有的 20 微米微凸点方案，同时将混合键合产能维持在有限水平。 这一决定直接影响 AI 芯片制造格局，因为 CoWoS 封装是将 GPU 与 HBM 内存连接的关键互连技术，被英伟达等公司的 AI 加速器广泛采用。台积电以微凸点为重心的策略与 AMD 在 3D V-Cache 中使用的混合键合方案形成对比，将影响至少到 2028 年芯片设计者可获得的性能与密度权衡。 传统焊料凸点约为 100 微米，当前微凸点约为 20 微米，而混合键合通过直接的铜对铜连接将间距缩小至约 1 微米。台积电的 5 微米微凸点目标将当前凸点尺寸缩小 4 倍，同时避开混合键合的制造复杂性，不过其现有的混合键合产能——用于生产 AMD 3D V-Cache 的 SRAM 堆叠逻辑芯片——据报道仍将受限。
 
-rss · TechPowerUp News · 9月1日 19:12
+rss · TechPowerUp News · 9月2日 15:43
 
-**背景**: ARM 处理器采用精简指令集，专为能效优化而设计，这也是它们在移动设备中占据主导、并越来越多地出现在追求长续航的笔记本中的原因。片上系统（SoC）将 CPU、GPU 及其他关键组件集成在单一芯片上，从而降低功耗并缩小物理尺寸。NVIDIA 与联发科在既有合作的基础上进一步深化，将 NVIDIA 的加速计算、AI 和图形平台与联发科在定制芯片和高能效 SoC 设计方面的专长相结合，打造出为 RTX Spark 笔记本提供算力的 N1/N1x 芯片。该平台进入了一个目前由高通骁龙 X Elite 主导的高端 Windows-on-ARM 细分市场。
+**背景**: 随着晶体管缩放逐渐放缓，高级芯片封装变得日益重要。台积电的 CoWoS（晶圆上芯片级封装）技术能够将多个芯片集成到单一封装中以实现更高性能。CoWoS 有多种变体：CoWoS-S 使用硅中介层以实现最佳的信号完整性和带宽，而 CoWoS-L 使用基于 RDL 的中介层，能够以更具成本效益的方式支持更大规模的封装，特别适合 AI 工作负载。这些封装内部的互连——传统焊料凸点或微凸点——是关键瓶颈，而混合键合通过直接的铜对铜连接实现更高密度和更精细间距，代表了下一步发展方向。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/352237/taiwanese-hardware-manufacturers-sell-out-nvidia-rtx-spark-laptop-stock-ahead-of-launch">Taiwanese Hardware Manufacturers Sell Out NVIDIA ... | TechPowerUp</a></li>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms">NVIDIA and MediaTek Deepen Long-Standing... | NVIDIA Newsroom</a></li>
-<li><a href="https://www.lenovo.com/us/en/glossary/what-is-arm-architecture/">What Is ARM Architecture | ARM Processor Architecture | Lenovo US</a></li>
+<li><a href="https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm">CoWoS ® - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+<li><a href="https://semiengineering.com/bumps-vs-hybrid-bonding-for-advanced-packaging/">Bumps Vs. Hybrid Bonding For Advanced Packaging</a></li>
+<li><a href="https://semiconductorx.com/mfg-back-end-advanced-interconnects.html">Advanced Interconnects: Hybrid Bonding, TSVs, Micro-Bumps ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NVIDIA`, `#ARM-laptops`, `#MediaTek`, `#hardware-launch`, `#PC-market`
+**标签**: `#semiconductors`, `#TSMC`, `#chip-packaging`, `#advanced-manufacturing`, `#AI-hardware`
 
 ---
 
 <a id="item-5"></a>
-## [索尼法律上辩称数字游戏所有权并不成立](https://www.techpowerup.com/352232/sony-legally-argues-that-digital-game-ownership-is-not-plausible) ⭐️ 7.5/10
+## [三星内存路线图：HBM5 目标翻倍性能，zHBM 承诺 8 倍提升](https://www.techpowerup.com/352233/samsung-new-memory-roadmap-hbm5-aims-for-2x-performance-zhbm-for-8x) ⭐️ 7.5/10
 
-在一项集体诉讼中，索尼援引其许可协议辩称，消费者不应期望真正拥有以数字方式购买的游戏，以此回应一起涉及加州信息披露法的投诉。
+在 SEMICON Taiwan 2026 上，三星公布了以 HBM5 和全新 zHBM 架构为核心的内存路线图。HBM5 相较 HBM4E 目标实现 2 倍性能和 20%的每瓦性能提升，基础裸片（base die）从 4nm 升级至三星自研 2nm 制程，堆叠层数扩展至 12、16 和 20 层，预计 2028 年左右量产。zHBM 采用将内存直接堆叠在处理器之上的全新架构（而非传统地放在旁边），承诺相比 HBM4E 实现 8 倍原始性能和 3 倍每瓦性能，目标在 2029 年之后推出。 HBM 是当前 AI 加速器的主要内存技术，三星的路线图直接影响内存带宽能支撑多少算力——而内存带宽正是大语言模型训练和推理的关键瓶颈。向 zHBM 的转变代表了架构层面的根本性重新思考，可能重塑 AI 芯片的设计方式，有望使 AI 加速器实现每个系统约 100 TB/s 的聚合内存带宽。 HBM5 预计每堆叠可实现约 4 TB/s 的带宽，使 AI 加速器的聚合带宽达到约 100 TB/s。HBM5 的热阻降低了 20%，而 zHBM 的热阻降低了 75%–90%。三星目前出货的 HBM4 速率为 11.7 Gbps/针脚，并在 Hot Chips 2026 上确认 HBM4E 样品运行速率为 16 Gbps/针脚。NVIDIA 也单独公布了其 NVHBM 方案，将内存控制器移入 HBM 基础裸片而非保留在计算裸片上，表明整个行业正经历架构层面的转变。
 
-rss · TechPowerUp News · 9月1日 18:19
+rss · TechPowerUp News · 9月1日 19:09
 
-**标签**: `#digital-rights`, `#legal`, `#gaming`, `#consumer-protection`, `#software-licensing`
+**背景**: 高带宽内存（HBM）是一种 3D 堆叠的 DRAM 技术，通过宽数据通路和垂直硅通孔（TSV）实现远高于传统 DDR5 或 GDDR 内存的带宽。传统 HBM 通过基础裸片与计算裸片（例如 GPU）通信，放置在硅中介层（interposer）上与之相邻。基础裸片包含管理堆叠 DRAM 与主机处理器之间接口的逻辑电路。每一代 HBM 通常都会提升容量（更多堆叠层）、速率（每针脚 Gbps 数）和带宽，对于 AI 工作负载至关重要，因为内存带宽往往是算力吞吐量的瓶颈。zHBM 代表了一种更为激进的变革，将内存物理上放在处理器正上方而非旁边，从而大幅缩短数据通路。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://shattered.io/samsung-zhbm-memory-8x-hbm5-2026/">Samsung zHBM: Stacks Memory on GPUs, 8x HBM5 Speed [2026]</a></li>
+<li><a href="https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base">Hot Chips 2026: Samsung and HBM Base Die Opportunities</a></li>
+<li><a href="https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure">Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#HBM`, `#Samsung`, `#Memory Technology`, `#AI Infrastructure`, `#Semiconductors`
 
 ---
 
 <a id="item-6"></a>
-## [NVIDIA DLSS 5 现可在单张 RTX 50 显卡上运行，速度较三月提升 5 倍](https://www.techpowerup.com/352225/dlss-5-no-longer-needs-two-rtx-5090s-nvidia-says-model-is-5x-faster-since-march) ⭐️ 7.5/10
+## [2026 年混合键合现状——台积电达到 6 微米间距，HBM 延迟出乎意料](https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined) ⭐️ 7.5/10
 
-NVIDIA 在 DLSS 5 于 9 月 3 日随《NBA 2K27》正式上线前公布了其官方性能数据，展示了该神经渲染模型相比 3 月 GTC 首次亮相时速度提升达 5 倍——当时运行需要两块 RTX 5090 显卡。如今该技术已可在单张显卡上运行，覆盖从 RTX 5060 到 RTX 5090 的整个 RTX 50 系列。 在短短六个月内实现的这一快速优化，证明了实时神经渲染在消费级硬件上的可行性，是迈向 AI 驱动图形渲染管道的关键一步。它将直接影响正在评估 RTX 50 系列产品的玩家和开发者，并标志着 NVIDIA 在将神经网络整合到核心渲染技术栈中的领先优势正在加速扩大。 在《NBA 2K27》的 4K Ultra 画质（开启光线追踪与多帧生成）下，RTX 5090 达到约 370 FPS，RTX 5080 约 233 FPS；在 1440p 下 RTX 5090 接近 600 FPS，RTX 5070 也保持在 260 FPS 以上。尽管速度提升达 5 倍，DLSS 5 相比原生渲染仍会产生显著的性能开销——这与早期 DLSS 版本通常提升性能的做法形成明显反差——而且 NVIDIA 并未公布用于对比的原生渲染基准数据。
+分析 2026 年混合键合技术的最新进展——台积电已在量产中实现 6 微米间距，而 HBM 内存的采用却遭遇了出人意料的延迟。
 
-rss · TechPowerUp News · 9月1日 17:10
+rss · Tom's Hardware · 9月2日 15:05
 
-**背景**: DLSS 5 引入了实时神经渲染技术，神经网络直接在图形渲染管线内部运行（而非作为后期处理升频步骤），通过 RTX Neural Shaders 在 Blackwell Tensor Core 上的着色器程序内执行神经网络。该技术为 NVIDIA RTX 50 系列（Blackwell）显卡独占，这些显卡于 2025 年 1 月发布。DLSS 5 于 2026 年 3 月在 GTC 大会上首次公开，并将于 9 月 3 日在《NBA 2K27》中独家首发。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/">NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games</a></li>
-<li><a href="https://en.wikipedia.org/wiki/GeForce_RTX_50_series">GeForce RTX 50 series - Wikipedia</a></li>
-<li><a href="https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/">NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#DLSS-5`, `#neural-rendering`, `#RTX-50-series`, `#GPU-technology`
+**标签**: `#semiconductors`, `#hybrid-bonding`, `#TSMC`, `#HBM`, `#advanced-packaging`
 
 ---
 
 <a id="item-7"></a>
-## [NVIDIA 重启 Rubin CPX GPU，搭载 HBM4 内存，弃用 GDDR7](https://www.techpowerup.com/352213/nvidias-rubin-cpx-gpu-reborn-with-hbm4-memory-no-more-gddr7) ⭐️ 7.5/10
+## [FBI 调查 1.53 亿驾照数据在俄罗斯网络犯罪论坛泄露事件](https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider) ⭐️ 7.5/10
 
-据供应链分析师郭明錤报道，NVIDIA 重新启动了此前暂停的"Rubin CPX"AI 加速器项目，将其重新设计为搭载 168GB HBM4 内存，而非最初计划的 128GB GDDR7。该芯片面向大规模智能体 AI（agentic AI）工作负载，将部署于容纳 64 至 256 颗独立 CPX GPU 的机架中。 从 GDDR7 到 HBM4 的架构转变表明 NVIDIA 认识到智能体 AI 工作负载需要远超最初预期的高内存带宽，这可能重塑 AI 基础设施规划及 HBM 供应链格局。将预填充（prefill）与解码（decode）任务分配给不同 GPU 型号，反映了在机架规模上优化大语言模型推理流水线的新范式。 每个搭载 8 颗 CPX GPU 的机架托盘可利用 HBM4 处理 1.34TB 的长上下文预填充及相关 KV 缓存。由于原本基于 GDDR7 的设计不需要集成 HBM4，NVIDIA 不得不重新设计封装方案，很可能采用台积电的 CoWoS-S 或 CoWoS-L 先进封装技术。
+FBI 正在调查一起大规模数据泄露事件，1.53 亿条美国和加拿大驾照记录在俄罗斯网络犯罪论坛被泄露，其中包括美国国防部长 Pete Hegseth 的个人信息。数据疑似来源于一家位于路易斯安那州的大型身份认证服务提供商，该服务商同时为 Hertz、Target 等企业以及美国海岸警卫队提供服务。 鉴于涉及现任国防部长及军事机构，该事件具有重大国家安全影响，同时也暴露了通过单一第三方身份认证供应商向大型企业提供服务的关键供应链漏洞。1.53 亿条记录的规模表明，单一被攻破的服务提供商可能成为针对普通公民和政府人员实施身份盗窃、欺诈和定向攻击的渠道。 被攻破的身份认证服务提供商总部位于路易斯安那州，为 Hertz、Target 等美国大型企业及美国海岸警卫队提供身份验证服务，这构成了一典型的供应链攻击——攻破一家供应商会波及众多下游客户。泄露数据出现在俄语网络犯罪论坛上，这是交易被盗凭证和个人信息的常见地下市场。
 
-rss · TechPowerUp News · 9月1日 12:38
+rss · Tom's Hardware · 9月2日 13:14
 
-**背景**: 智能体 AI（Agentic AI）是指能以最少人工干预自主执行复杂目标驱动任务的 AI 系统，需要海量上下文窗口和极高的内存带宽。高带宽内存（HBM）是一种 3D 堆叠的 DRAM 技术，通过宽接口和垂直堆叠的芯片提供远高于 GDDR7 等传统内存的带宽，但代价是更高的复杂度和成本。在大语言模型推理中，"预填充"（prefill）阶段并行处理输入提示，而"解码"（decode）阶段则顺序生成输出 token；这两个阶段的计算和内存特征截然不同，这也是 NVIDIA 决定为它们分别配备专用硬件的原因。
+**背景**: 身份认证服务提供商（也称为身份提供者或 IdP）是一套用于验证用户身份并向依赖应用程序颁发认证令牌的系统，企业通常使用此类服务通过驾照、护照等证件确认客户真实身份。通过此类第三方供应商发起的供应链攻击日益普遍，例如 2020 年的 SolarWinds 事件表明，攻破一家受信供应商即可访问众多下游组织。Exploit 和 XSS 等俄语网络犯罪论坛长期以来一直是网络犯罪分子交易被盗数据、漏洞利用工具和凭证的主要市场。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://intuitionlabs.ai/articles/hbm-vs-ddr-memory-comparison">HBM vs. DDR: Key Differences in Memory Technology Explained</a></li>
-<li><a href="https://www.wevolver.com/article/high-bandwidth-memory">High Bandwidth Memory : Concepts, Architecture, and Applications</a></li>
-<li><a href="https://www.klaviyo.com/sg/solutions/ai/what-is-agentic-ai">What is agentic AI ? - Klaviyo SG</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Identity_verification_service">Identity verification service - Wikipedia</a></li>
+<li><a href="https://www.fortinet.com/resources/cyberglossary/solarwinds-cyber-attack">fortinet.com/resources/cyberglossary/solarwinds-cyber- attack</a></li>
+<li><a href="https://flare.io/learn/resources/blog/top-russian-cybercrime-forums">Top Russian-Language Cybercrime Forums to Monitor - Flare Russian Language Cybercriminal Forums - Cybercrime Diaries A Deep Dive into the Russian Cybercrime Forums ... - Munitio Russian Language Cybercriminal Forums In 2024 – URLs The high-stakes world of Russian-speaking cybercriminals Russian Language Cybercriminal Forums - Chapter II: steep ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NVIDIA`, `#AI accelerators`, `#HBM4`, `#GPU architecture`, `#agentic AI`
+**标签**: `#cybersecurity`, `#data-breach`, `#supply-chain-security`, `#national-security`, `#identity-theft`
 
 ---
 
 <a id="item-8"></a>
-## [NVIDIA GPU 帧插值功能通过 Vulkan API 集成至 FFmpeg](https://www.techpowerup.com/352206/nvidia-gpu-frame-interpolation-support-lands-in-ffmpeg) ⭐️ 7.5/10
+## [研究人员轻松诱骗财富 500 强公司的 AI 智能体执行任意代码——通过 llms.txt 指南文件发起的供应链攻击揭示了数据如何变成代码](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code) ⭐️ 7.5/10
 
-NVIDIA 基于 GPU 加速的帧插值功能已通过 Vulkan API 合并至 FFmpeg，该功能利用 GeForce RTX GPU 上的光流加速器（NVOFA）。此次集成实现了引擎辅助帧率上转换（FRUC），允许用户通过 AI 生成中间帧来提升视频帧率，无需调用传统的图形渲染管线。 FFmpeg 是全球使用最广泛的多媒体处理工具之一，为 YouTube 等众多平台和服务提供底层支持。将硬件加速的 AI 帧插值功能添加到 FFmpeg 中，可为庞大的视频编辑、内容创作者和媒体处理流水线用户带来高效、高质量的帧率上转换能力。 该实现利用 NVENC 获取编码器端的帧数据，再借助 NVOFA 硬件生成描述帧间物体运动的光流矢量，进而合成中间帧。新的基于 Vulkan 的方案避免了专有软件的依赖问题，而这一限制正是 2023 年早期补丁未能合并至 FFmpeg 主代码库的原因。
+研究人员演示了针对财富 500 强公司 AI 智能体的供应链攻击，通过公开可访问的 llms.txt 指南文件注入恶意代码。随着数据文件成为 LLM 的可执行指令，这暴露了新型安全漏洞。
 
-rss · TechPowerUp News · 9月1日 07:21
+rss · Tom's Hardware · 9月2日 10:20
 
-**背景**: 光流（Optical Flow）是一种计算机视觉技术，通过计算像素在连续帧之间的移动来分析视频中的运动。NVIDIA 的 NVOFA 是从 Turing 架构 GPU 开始配备的专用硬件加速器，可独立于图形核心和 CUDA 核心来计算光流和立体视差。Vulkan 是由 Khronos Group 维护的开放标准、跨厂商 GPU API，为现代 GPU 提供高效的图形和计算访问能力，因此成为 FFmpeg 以非专有方式访问 NVIDIA 光流硬件的理想接口。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/NVIDIA/NVIDIAOpticalFlowSDK">GitHub - NVIDIA /NVIDIAOpticalFlowSDK: Optical Flow SDK exposes...</a></li>
-<li><a href="https://developer.nvidia.com/vulkan">Vulkan Open Standard Modern GPU API | NVIDIA Developer</a></li>
-<li><a href="https://docs.nvidia.com/video-technologies/optical-flow-sdk/pdf/NVOFA_Application_Note.pdf">Nvidia optical flow SDK</a></li>
-
-</ul>
-</details>
-
-**标签**: `#FFmpeg`, `#NVIDIA`, `#GPU-acceleration`, `#Vulkan`, `#video-processing`
+**标签**: `#AI security`, `#supply-chain attack`, `#prompt injection`, `#LLM vulnerabilities`, `#enterprise AI`
 
 ---
 
 <a id="item-9"></a>
-## [Nvidia 颇具争议的 DLSS 5 将于 9 月 3 日随 NBA2K27 一同发布，公司分享首批基准测试成绩——支持所有 RTX 50 系列 GPU、笔记本及 GeForce NOW](https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now) ⭐️ 7.5/10
+## [NVIDIA 在 Hot Chips 2026 讨论 RISC-V 上的 CUDA 支持](https://www.servethehome.com/nvidia-risc-v-for-nvidia-gpus-at-hot-chips-2026/) ⭐️ 7.5/10
 
-Nvidia 宣布 DLSS 5 将于 9 月 3 日随 NBA2K27 一同推出，支持所有 RTX 50 系列 GPU、笔记本电脑以及 GeForce NOW 平台，并分享了首批基准测试数据。
+在 Hot Chips 2026 上，NVIDIA 展示了为 RISC-V 指令集架构添加 CUDA 支持的方案，并讨论了如何将 RISC-V 处理器与 NVIDIA GPU 一同集成到 NVLink Fusion 系统中。 这标志着 NVIDIA 的一项战略转变，将其原本绑定 x86 和 Arm 的 CUDA 生态向开源 RISC-V ISA 开放。它使超大规模云服务商和 AI 原生企业能够构建自定义 RISC-V CPU，并通过 NVLink Fusion 与 NVIDIA GPU 互操作，从而加强 NVIDIA 在异构 AI 基础设施中的地位。 此前 CUDA 需要 x86 或 Arm CPU 作为主机处理器来协调 GPU 工作负载；RISC-V 支持扩展了这一角色。NVLink Fusion 使半定制 ASIC 和 CPU 能够集成到 NVIDIA 机架级 AI 架构中，这意味着 RISC-V CPU 可以在同一一致性互联中作为驱动 NVIDIA 加速器的主机处理器。
 
-rss · Tom's Hardware · 9月1日 13:00
+rss · ServeTheHome · 9月1日 19:00
 
-**标签**: `#nvidia`, `#dlss`, `#gpu`, `#ray-tracing`, `#ai-upscaling`
+**背景**: RISC-V 是一种开源指令集架构（ISA），最初由加州大学伯克利分校开发，使任何人都可以无需向 Arm 等公司支付授权费即可设计定制处理器。NVLink Fusion 是 NVIDIA 的半定制 AI 基础设施平台，允许合作伙伴构建自定义 XPU（加速器）和 CPU，与 NVIDIA 的机架级 GPU 系统、NVHBM 内存以及纵向/横向扩展网络无缝集成。Hot Chips 是一个年度研讨会，领先的芯片和系统公司会在会上展示其最新处理器和加速器的深度技术细节。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-platform-now-supports-risc-v-support-brings-open-source-instruction-set-to-ai-platforms-joining-x86-and-arm">Nvidia's CUDA platform now supports RISC-V — support brings ...</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/nvlink-fusion/">Build Semi-Custom AI Infrastructure | NVIDIA NVLink Fusion</a></li>
+<li><a href="https://riscv.org/blog/nvidia-to-bring-cuda-platform-support-to-the-risc-v/">Nvidia to bring CUDA platform support to the RISC-V</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NVIDIA`, `#RISC-V`, `#CUDA`, `#Hot Chips`, `#GPU architecture`
 
 ---
 
 <a id="item-10"></a>
-## [中国法院冻结安世半导体 3.18 亿美元资产，闻泰科技力图夺回控制权——荷兰芯片商称查封不影响日常运营](https://www.tomshardware.com/tech-industry/chinese-court-freezes-318-million-in-nexperia-assets-as-wingtech-presses-to-regain-control) ⭐️ 7.5/10
+## [NVIDIA 投资 35 亿美元于联发科，加速 NVLink Fusion 生态扩展](https://www.servethehome.com/nvidia-and-mediatek-ink-3-5b-investment-deal-accelerate-nvlink-fusion-adoption/) ⭐️ 7.5/10
 
-中国法院冻结了安世半导体价值 3.18 亿美元的资产，其母公司闻泰科技正寻求重新取得控制权。尽管如此，安世半导体表示这些措施不会影响日常运营。
+NVIDIA 宣布向台湾无晶圆厂芯片设计公司联发科投资 35 亿美元，同时联发科将向其客户提供 NVIDIA 的 NVLink Fusion 互连平台，用于设计定制 XPU（AI 加速器）。这笔交易使两家公司在财务和技术层面的联系更加紧密。 这项投资标志着 NVIDIA 在战略上推动 NVLink Fusion 成为定制 AI 加速器生态系统事实上的互连标准，将其影响力扩展到 Broadcom 及其他合作伙伴之外。对于正在构建定制芯片的超大规模云服务商和企业而言，这降低了将 NVIDIA 兼容架构集成到非 NVIDIA 加速器中的门槛，有可能重塑 AI 基础设施的竞争格局。 NVLink Fusion 于 2025 年 12 月在 AWS re:Invent 大会上发布，向第三方加速器开放了 NVIDIA 的机架级互连架构（基于 MGX 架构和 NVLink 纵向扩展）。联发科现在加入了现有的 NVLink Fusion 合作伙伴行列，其中包括 Broadcom 和 Lightmatter，后者通过 Passage CPO 解决方案集成光子互连技术。
 
-rss · Tom's Hardware · 9月1日 11:57
+rss · ServeTheHome · 9月1日 17:00
 
-**标签**: `#Semiconductors`, `#Nexperia`, `#Wingtech`, `#Corporate Governance`, `#Supply Chain`
+**背景**: XPU 是各种 AI 加速器芯片的总称，这些芯片通常为特定工作负载而设计，常常由超大规模云服务商定制开发（例如 Google 的 TPU 或 Amazon 的 Trainium），以补充或替代通用 GPU。NVLink Fusion 是 NVIDIA 发起的计划，允许第三方定制芯片直接接入 NVIDIA 的高带宽 NVLink 架构，从而实现异构 AI 集群。联发科是全球最大的无晶圆厂半导体设计公司之一，传统上以移动芯片著称，但近年来不断扩展到 AI 和数据中心芯片领域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/interconnect-computer-why-nvidias-nvlink-fusion-most-trojan-kannan-yoiec">The Interconnect Is the Computer: Why Nvidia’s NVLink Fusion is the...</a></li>
+<li><a href="https://www.businesswire.com/news/home/20260602479000/en/Lightmatter-Joins-NVIDIA-NVLink-Fusion-and-Powers-Next-Generation-AI-Infrastructure-with-Photonic-Interconnects">Lightmatter Joins NVIDIA NVLink Fusion and Powers Next-Generation...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NVIDIA`, `#MediaTek`, `#NVLink`, `#AI hardware`, `#semiconductors`
 
 ---
 
 <a id="item-11"></a>
-## [消息称长鑫存储启动 HBM3E 内存风险试产，实现中国 DRAM 产业突破——公司有望 2027 年实现量产](https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027) ⭐️ 7.5/10
+## [最大暗物质探测器发现单个异常粒子](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle) ⭐️ 7.0/10
 
-消息称长鑫存储已开始 HBM3E 内存风险试产，并向阿里巴巴平头哥和寒武纪送样测试，这标志着中国国产 DRAM 和 AI 硬件供应链可能取得重大突破，目标 2027 年实现量产。
+LUX-ZEPLIN 暗物质探测器观测到了一个不寻常的粒子事件，这引发了科学家们谨慎的研究兴趣，但在分析该异常信号的过程中，研究人员尚未声称取得了新发现。
 
-rss · Tom's Hardware · 9月1日 10:30
+hackernews · randycupertino · 9月2日 13:40 · [社区讨论](https://news.ycombinator.com/item?id=49536079)
 
-**标签**: `#semiconductors`, `#HBM3E`, `#China-tech`, `#DRAM`, `#AI-hardware`
+**标签**: `#dark-matter`, `#particle-physics`, `#LUX-ZEPLIN`, `#science`, `#experimental-physics`
 
 ---
 
 <a id="item-12"></a>
-## [Linux 内核每版本漏洞逼近 2000 个纪录，AI 漏洞猎人扫描 4000 万行代码——维护者称被 CVE 发现“完全压垮”](https://www.tomshardware.com/software/linux/linux-kernel-nears-2-000-cves-per-release-as-ai-bug-hunters-scour-40-million-lines-of-code-maintainers-say-they-are-completely-overwhelmed) ⭐️ 7.5/10
+## [人工神经网络的涌现符号结构](https://arxiv.org/abs/2608.29530) ⭐️ 7.0/10
 
-AI 辅助漏洞挖掘正推动 Linux 内核每版本 CVE 数量逼近 2000 个，海量真实缺陷与低优先级噪声令维护者不堪重负。
+一篇声称推导出大语言模型双射封闭形式符号近似（解析蒸馏）的论文，HN 讨论区围绕其方法论与 DAS 等先前可解释性工作的对比以及虚假结构的担忧展开了辩论。
 
-rss · Tom's Hardware · 9月1日 09:30
+hackernews · schmuhblaster · 9月2日 04:15 · [社区讨论](https://news.ycombinator.com/item?id=49531651)
 
-**标签**: `#linux-kernel`, `#cybersecurity`, `#AI-security`, `#open-source`, `#CVE`
+**标签**: `#interpretability`, `#mechanistic-interp`, `#neural-networks`, `#LLM`, `#arxiv`
 
 ---
 
 <a id="item-13"></a>
-## [新型 iPSJ GaN-on-Si 晶体管击穿电压接近 4kV](https://www.electronicsweekly.com/news/business/new-transistor-withstands-nearly-4kv-before-breakdown-2026-09/) ⭐️ 7.5/10
+## [WSTS 预测全球存储芯片营收将激增 250%至 8040 亿美元](https://www.electronicsweekly.com/blogs/mannerisms/markets/memory-mania-2026-09/) ⭐️ 7.0/10
 
-EPFL POWERlab 的研究人员发明了一种基于 GaN-on-Si 的本征极化超结（iPSJ）晶体管，据报道其击穿电压接近 4 kV。该设计利用 III 族氮化物异质结构中的本征极化场，无需有意掺杂即可形成电荷平衡的超结，相关成果已发表于 Nature Electronics。 如果该技术得到验证，可能使 GaN-on-Si 器件进入传统上由碳化硅（SiC）主导的高压应用领域，从而为电动汽车、电网和工业应用提供更紧凑、更高效的高压电源转换器。相比 SiC 方案，使用 GaN-on-Si 还有望降低制造成本。 该突破依赖于 GaN 异质结构中的本征极化电荷而非传统掺杂来形成超结，这一直是 GaN 高压器件的瓶颈。该器件在硅衬底上制造，论文题为《Intrinsic polarization superjunctions in III-nitride heterostructures for efficient power electronics》（Nature Electronics, 2026，DOI: 10.1038/s41928-026-01691-4）。
+据世界半导体贸易统计组织（WSTS）预测，今年全球存储芯片营收将激增 250%，达到 8040 亿美元，并有可能在 2027 年突破 1 万亿美元。存储芯片在整个半导体市场中的份额也随之显著扩大。 这一惊人的增长标志着半导体行业正在被 AI 相关需求从根本上重塑，尤其是用于 AI 加速器和 HPC 平台的高带宽存储器（HBM）。三星、SK 海力士、美光等主要存储芯片制造商，以及下游电子和云计算企业，都将受到供应紧张和价格动态的显著影响。 相比 2025 年约 2000 亿美元的存储市场规模，250%的激增和万亿美元预测代表了前所未有的加速，其中仅 HBM 营收就在 AI 产能紧张的推动下几乎翻倍，达到约 340 亿美元。该预测表明存储芯片将在整个半导体行业中占据超出正常比例的份额，反映出 AI 算力需求正在结构性改变存储器的供需平衡。
 
-rss · Electronics Weekly · 9月1日 05:17
+rss · Electronics Weekly · 9月2日 13:07
 
-**背景**: GaN-on-Si 晶体管被普遍视为下一代功率开关的有力候选，因为 GaN 的开关损耗低于硅，且硅衬底比 SiC 更便宜。然而，传统 GaN 器件难以达到非常高的击穿电压，因为电场集中限制了其可扩展性。超结技术最初是为硅基 MOSFET 开发的，通过交替的 p 型和 n 型区域平衡电场，但在 GaN 中通过掺杂实现这种结构一直很困难。
+**背景**: WSTS 是公认的全球半导体市场数据权威，发布涵盖整个半导体行业价值、单位和平均售价的月度出货统计数据。存储芯片市场主要由 DRAM（动态随机存取存储器）和 NAND 闪存组成，两者都是几乎所有现代电子设备的核心组件。高带宽存储器（HBM）是一种专业的 3D 堆叠 DRAM 技术，最初由三星、AMD 和 SK 海力士共同开发，已成为 AI 训练和推理工作负载的关键瓶颈资源。存储行业历史上具有周期性，但当前由 AI 驱动的需求激增已经从根本改变了传统的定价和产能假设。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.electronicsweekly.com/news/business/new-transistor-withstands-nearly-4kv-before-breakdown-2026-09/">New GaN-on-Si transistor withstands nearly 4kV before breakdown...</a></li>
-<li><a href="https://www.nature.com/articles/s41928-026-01691-4?error=cookies_not_supported&code=d78c386e-053c-408b-9e0b-f20c7f005cbe">Intrinsic polarization superjunctions in III-nitride... | Nature Electronics</a></li>
-<li><a href="https://www.msn.com/en-us/news/other/new-transistor-brings-high-voltage-to-microchip-scale/ar-AA2b7Y2F">New transistor brings high voltage to microchip scale</a></li>
+<li><a href="https://www.wsts.org/">WSTS Home</a></li>
+<li><a href="https://www.semiconductors.org/data-resources/market-data/">Semiconductor Market Data | SIA | Semiconductor Industry...</a></li>
+<li><a href="https://electronicsera.in/memory-industry-almost-usd200-billion-in-2025-driven-by-hbm-ai/">Memory Industry: Almost USD200 Billion in 2025</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GaN`, `#Power Electronics`, `#Semiconductors`, `#Transistors`, `#High-Voltage Devices`
+**标签**: `#semiconductors`, `#memory-chips`, `#market-forecast`, `#WSTS`, `#industry-analysis`
 
 ---
 
 <a id="item-14"></a>
-## [Softaculous 遭遇长达 33 小时的 BGP 路由劫持](https://www.solidot.org/story?sid=85256) ⭐️ 7.3/10
+## [无设计的半导体行业](https://www.electronicsweekly.com/news/business/the-designless-semiconductor-industry-2026-09/) ⭐️ 7.0/10
 
-8 月 28 日 20:57 UTC 左右，一个不相关网络通过 BGP 通告了 Softaculous 使用的 Hetzner IP 段，将流量重定向至攻击者控制的服务器，劫持持续约 33 小时。攻击者利用此次劫持从 Let's Encrypt 获取了有效的 TLS 证书，并向少数虚拟机管理程序服务器推送了恶意的 Virtualizor 更新包。 该事件展示了 BGP 劫持如何绕过域名验证机制，从而对软件更新基础设施实施供应链攻击。使用 Virtualizor 的托管服务商、VPS 运营商及下游客户面临凭证泄露风险，凸显了互联网基础设施层面路由安全的脆弱性。 劫持分两个阶段：首次劫持从 8 月 28 日 20:57 UTC 开始，Softaculous 于 8 月 29 日 08:50 UTC 向 Hetzner 报告，随后 8 月 29 日 20:00 UTC 再次发生持续 10 小时的劫持，最终于 8 月 30 日 05:50-06:10 UTC 停止。Let's Encrypt 的自动域名验证（可能是 ACME HTTP-01 质询）被绕过，因为验证流量本身被重定向到攻击者的 IP，从而成功签发了合法证书。
+Architect Labs 融资 2400 万美元，用于开发能够自动化端到端芯片设计与验证的人工智能，有望催生一个'无需人工设计'的半导体行业。
 
-rss · Solidot · 9月1日 14:35
+rss · Electronics Weekly · 9月2日 05:12
 
-**背景**: BGP（边界网关协议）是互联网上用于在不同自治系统之间路由流量的协议。BGP 路由劫持是指未经授权的网络通告其并不合法拥有的 IP 前缀，导致发往这些 IP 的流量被重路由至攻击者的网络。Softaculous 是一款商业自动安装程序库，被 Web 托管服务商用于部署 WordPress、Joomla 等应用程序；Virtualizor 是由 Softaculous 开发维护的基于 Web 的 VPS 管理面板。Let's Encrypt 是一个免费、自动化的证书颁发机构，通过 ACME 协议验证域名所有权，通常做法是检查请求服务器能否响应特定 HTTP 路径——而如果发往该服务器的流量正遭到劫持，这种验证就形同虚设。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://cybersecuritynews.com/virtualizor-compromise/">BGP Hijack Diverts Softaculous Traffic to Deliver Malicious Virtualizor ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Softaculous">Softaculous</a></li>
-<li><a href="https://www.thousandeyes.com/learning/glossary/bgp-route-hijacking">What is BGP Hijacking ? Internet & IP Route Hijacking</a></li>
-
-</ul>
-</details>
-
-**标签**: `#BGP-hijacking`, `#cybersecurity`, `#supply-chain-attack`, `#Hetzner`, `#Virtualizor`
+**标签**: `#semiconductors`, `#chip-design`, `#AI-automation`, `#EDA`, `#venture-capital`
 
 ---
 
 <a id="item-15"></a>
-## [Dan Luu 严格审视 Ed Zitron 的 AI 怀疑论预测](https://danluu.com/zitron/) ⭐️ 7.0/10
+## [DLSS 5 测试揭示 RTX 5090 单电源接口成性能瓶颈](https://www.techpowerup.com/352262/early-dlss-5-testing-suggests-the-rtx-5090s-single-power-connector-might-be-the-bottleneck) ⭐️ 6.5/10
 
-工程师兼博主 Dan Luu 发表了一篇系统分析文章，逐条评估了知名 AI 怀疑论者 Ed Zitron 对 AI 行业的预测与现实结果的吻合程度，对 Zitron 的具体主张进行了核查并评估其兑现情况。 这种严格的预测核查在 AI 讨论中非常罕见，因为该领域通常充斥着缺乏问责的炒作或末日论调。本文有助于读者校准对 AI 泡沫的讨论，并为评估怀疑论者和乐观主义者的激进主张提供了一个参考框架。 文章重点揭示了超大规模云厂商（Google、Meta、Microsoft）向 OpenAI 和 Anthropic 注资换取股权、再将估值增长计入'其他收入'以推高报告营收和利润的做法。文章还指出，Zitron 的怀疑论已演变为一种政治立场，这可能会阻碍其诚实地修正自身观点。
+通过 OptiScaler 注入方式对泄露版 DLSS 5 构建进行的早期社区测试显示，搭载单个 12V-2x6 接口的 RTX 5090 公版显卡出现了 42%–49% 的帧率下降，并持续触及其 575 W 功率上限。而配备双接口和 1000 W 功率上限的微星 RTX 5090 Lightning Z 则保持了更好的 1% 最低帧，在《霍格沃茨之遗》中启用神经渲染后功耗从 480 W 跃升至 720 W。 这表明 NVIDIA 的旗舰 RTX 5090 公版显卡可能从根本上不足以承载其下一代 AI 渲染特性，性能瓶颈从算力转移到了供电能力。这凸显了一个实际硬件限制，可能会影响购买单接口 5090 显卡的用户在 DLSS 5 正式发布后的体验。 测试是通过基于泄露版 DLSS 5 DLL 构建的社区 OptiScaler 注入方式进行的，而非 NVIDIA 官方的 Streamline 路径，不过每帧成本（约 8 毫秒）与 NVIDIA 自己公布的数据一致。微星 Lightning Z 在《霍格沃茨之遗》中 50% 的功耗增幅（480 W → 720 W）展示了神经渲染工作负载如何随着可用功率余量大幅扩展。
 
-hackernews · jatins · 9月1日 18:35 · [社区讨论](https://news.ycombinator.com/item?id=49526069)
+rss · TechPowerUp News · 9月2日 15:03
 
-**背景**: Ed Zitron 是一位英国公关从业者转型的科技批评家，他已成为警告生成式 AI 热潮是不可持续泡沫的最知名声音之一，认为 AI 公司的支出远远超过其能够回收的金额。Dan Luu 是一位知名的软件工程师和博主，以其对科技行业主张的严谨数据分析而闻名。AI 泡沫辩论在 2024 至 2025 年间愈演愈烈，因为 OpenAI 和 Anthropic 等公司以空前估值进行巨额融资，同时承担着巨大的算力成本。
+**背景**: NVIDIA DLSS 5 是该公司即将推出的神经渲染技术，利用实时 AI 模型对画面进行光追级光照和材质细节增强，超越了传统的像素重建。它严重依赖 RTX Tensor Core，预计功耗将远高于此前的 DLSS 版本。12V-2x6 接口（从备受争议的 12VHPWR 标准演进而来）是最新的 PCIe 供电接口，设计通过单根线缆为 GPU 提供高达 600 W 的电力，但一直存在可靠性问题（包括烧毁事件），其单线缆限制可能会制约高功耗 GPU。OptiScaler 是一个开源社区修改工具，可以拦截 DirectX 11/12 游戏中的超采样 API 调用，允许用户替换或注入替代的超采样后端，如泄露版 DLSS 构建。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Ed_Zitron">Ed Zitron - Wikipedia</a></li>
-<li><a href="https://www.vanityfair.com/story/ed-zitron-ai-skeptic-openai">Ed Zitron Is Sounding the Alarm About the AI Bubble. | Vanity Fair</a></li>
+<li><a href="https://developer.nvidia.com/rtx/dlss">NVIDIA DLSS | NVIDIA Developer</a></li>
+<li><a href="https://deepwiki.com/optiscaler/OptiScaler">optiscaler / OptiScaler | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者提出了实质性的观点：多人呼吁对 Sam Altman 和 Dario Amodei 等 AI 乐观主义者进行类似的预测审计，指出行业领袖同样容易夸大其词。还有人强调，超大规模云厂商通过将 AI 实验室的股权计入'其他收入'来推高报告盈利。批评者认为，AI 怀疑论变成一种政治立场后会形成固化的受众群体，使 Zitron 无法承认自己可能犯错，从而损害长期预测质量。一位评论者观察到，读者往往将自己的预测投射到 Zitron 的言论上，而非认真审视其字面主张。
-
-**标签**: `#AI skepticism`, `#AI bubble`, `#Dan Luu`, `#industry analysis`, `#predictions`
+**标签**: `#DLSS 5`, `#RTX 5090`, `#NVIDIA`, `#GPU hardware`, `#power delivery`
 
 ---
 
 <a id="item-16"></a>
-## [Show HN：在 48GB Mac 上以约 12 tok/s 的速度运行 104GB 的 Qwen3.8-Flash-Next 模型](https://github.com/carloslfu/slotstream) ⭐️ 7.0/10
+## [美光探索近 GPU NAND 闪存方案以运行更大模型](https://www.techpowerup.com/352251/micron-explores-near-gpu-nand-flash-to-run-bigger-llms) ⭐️ 6.5/10
 
-Slotstream 通过专家卸载和 SSD 流式传输（基于 MLX），使在仅 16GB 内存的 Mac 上以约 12 tok/s 的速度运行 104GB 的 Qwen3.8-Flash-Next 混合专家（MoE）模型成为可能。
+据报道，美光正在开发高耐久性的 NAND 闪存模块，将其物理位置上放置得更靠近 GPU，从而构建一个位于 HBM 与传统系统存储之间的"近 GPU NAND"新内存层。该方案针对的是超出 HBM 容量但又不需要其全部带宽的工作负载（如大模型推理），有望在 GPU 封装或附近直接提供数百 GB 的高速可访问存储。 这一探索直接针对当前 GPU 上面临的"内存墙"瓶颈——HBM 容量限制了单个 GPU 可服务的大模型或 KV 缓存规模。通过在 HBM 和 DRAM 之间提供一个更便宜、容量更大的内存层，美光的方案有望降低推理的每 token 成本，并减少运行超大规模模型所需的 GPU 数量，从而重塑 AI 基础设施的经济性。 该 NAND 方案在密度上低于常规的 TLC 或 QLC NAND，但更注重更高的 I/O 速度、带宽和读取延迟，通过提升耐久性（而非更高密度）来满足使用要求。与 SK 海力士的 HBF（高带宽闪存）和闪迪的类似工作不同，美光的方案将该层直接放在 GPU 封装或 PCB 上，而不是放在多重存储协议之后。
 
-hackernews · carloslfu · 9月1日 16:42 · [社区讨论](https://news.ycombinator.com/item?id=49524447)
+rss · TechPowerUp News · 9月2日 11:19
 
-**标签**: `#LLM`, `#Apple Silicon`, `#MLX`, `#MoE`, `#model-quantization`
+**背景**: 高带宽内存（HBM）是一种 3D 堆叠的 DRAM 技术，通过先进封装直接与 GPU 相连，提供极高的带宽但容量有限（每堆栈通常只有几十 GB）且成本高昂。现代大模型推理越来越受内存限制，因为模型权重和 KV 缓存必须装入高速内存；当超过 HBM 容量时，性能会急剧下降。NAND 闪存比 DRAM 密度高得多、成本低得多，但由于延迟和协议开销，传统上一直无法被 GPU 直接使用。TLC（三层单元）和 QLC（四层单元）NAND 在每个单元存储的位数上有所不同，QLC 密度更高但耐久性和持续写入速度更低。"近 GPU"分层方案在 AI 基础设施领域也被广泛探索，例如 NVIDIA 的 CMX 上下文内存存储平台，它通过 Pod 级共享内存层来扩展 GPU 内存，用于 KV 缓存。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://oretonstorage.com/blog/nand-flash-tlc-qlc-plc-2026">NAND Flash Trends: TLC vs QLC vs PLC in 2026 - oretonstorage.com</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/ai-storage/cmx/">NVIDIA CMX Context Memory Storage Platform</a></li>
+
+</ul>
+</details>
+
+**标签**: `#memory-architecture`, `#AI-infrastructure`, `#NAND-flash`, `#LLM`, `#GPU-computing`
 
 ---
 
 <a id="item-17"></a>
-## [前五大企业级 SSD 厂商 2026 年第二季度营收逼近 375.9 亿美元](https://www.dramexchange.com/WeeklyResearch/Post/2/12818.html) ⭐️ 7.0/10
+## [显卡价格单月飙升 15%，RTX 5090 溢价达 136%](https://www.techpowerup.com/352241/gpu-prices-jumped-15-in-one-month-rtx-5090-now-136-above-msrp) ⭐️ 6.5/10
 
-据 TrendForce 报道，受价格上涨和出货量增加的推动，前五大企业级 SSD 厂商在 2026 年第二季度的合并营收有望达到约 375.9 亿美元；NAND Flash 供应商正通过扩展企业级 SSD 产品线来提升利润。 这一趋势表明，由 AI 和数据中心需求驱动的企业级存储市场正在强劲回暖，同时也凸显出 NAND Flash 供应商正战略性从大宗闪存产品向高利润企业级产品转型，这一转变可能重塑厂商之间的竞争格局。 375.9 亿美元这一数字代表了前五大企业级 SSD 供应商的合并营收，反映了出货量增长和平均售价（ASP）上升的双重驱动；TrendForce 将此增长归因于供应商积极优化和多样化其企业级 SSD 产品线以获取更高利润。
+根据 TechSpot 追踪的 10 个国家定价数据，显卡价格在短短一个月内上涨了 15%，市场平均售价较发布时 MSRP 高出 28%（不计 RTX 5090）。NVIDIA 官方仍标价为 1,999 美元的 RTX 5090，目前美国最便宜的型号售价已接近 5,000 美元，国内溢价 145%，全球溢价 136%。 此次大幅涨价直接影响装机用户、游戏玩家以及需要升级硬件的 AI 研究人员，使得以建议价格购买新显卡几乎成为不可能。该趋势延续了此前 RTX 50 系列单月涨价高达 41%的报道，表明这是持续的供应紧张或黄牛驱动的需求，而非暂时性波动。 GeForce 显卡整体月环比上涨 19%，而 Radeon 显卡上涨 11%，说明 NVIDIA 品牌产品的涨价幅度高于 AMD。一个特别值得关注的细节是 RTX 5060 Ti 16GB 版本在美国比 429 美元的 MSRP 高出 70%，而其 8GB 版本全球仅高出 14%——表明 16GB 显存需求是价格上涨的关键驱动因素。
 
-rss · DRAMeXchange (TrendForce) · 9月1日 14:42
+rss · TechPowerUp News · 9月1日 23:45
 
-**背景**: 企业级 SSD 是为数据中心和服务器设计的高性能、高可靠性固态硬盘，与消费级 SSD 的区别在于具备掉电保护等特性以及更高的耐久度（以每日写入量 DWPD 衡量）。NAND Flash 是底层非易失性存储技术，数据存储于电荷俘获单元中，NAND Flash 市场与企业级存储需求紧密相关。TrendForce 是一家知名的市场研究机构，定期发布存储和内存细分领域的价格与出货量预测。
+**背景**: MSRP（制造商建议零售价）是由 NVIDIA 或 AMD 等显卡厂商设定的推荐价格，不具有法律约束力，零售商通常会偏离该价格。RTX 5090 于 2025 年 1 月 30 日发布，是一款基于 5nm GB202 核心的发烧级显卡，由于其 1,999 美元的定价以及偏向 AI/计算应用的定位，被部分评测者认为并非真正的游戏显卡。自 2020–2021 年显卡短缺以来，实际售价持续高于 MSRP 一直是反复出现的现象，通常由供应紧张、加密货币需求周期和黄牛炒作推动。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.longsys.com/about-longsys/news/what-is-an-enterprise-ssd.html">An overview of what is an enterprise SSD .</a></li>
-<li><a href="https://www.servnetuk.com/computing-components/ssd-nvme">Enterprise SSD & NVMe Guide UK | DWPD & PCIe Gen5 | Servnet UK</a></li>
-<li><a href="https://recoverit.wondershare.com/flashdrive-recovery/what-is-nand-flash-memory.html">What is NAND Flash Memory ? - Definition, Features, Types and More</a></li>
+<li><a href="https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216">NVIDIA GeForce RTX 5090 Specs | TechPowerUp GPU Database</a></li>
+<li><a href="https://www.cgdirector.com/gpu-msrp-list/">GPU MSRP List – AMD, Nvidia & Intel Graphics Cards</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Enterprise SSD`, `#NAND Flash`, `#Semiconductor Market`, `#Storage Hardware`, `#TrendForce`
+**标签**: `#GPU`, `#hardware`, `#pricing`, `#NVIDIA`, `#PC-building`
 
 ---
 
 <a id="item-18"></a>
-## [John Ternus 正式出任苹果新任 CEO](https://www.techpowerup.com/352222/john-ternus-takes-the-helm-as-apples-new-ceo) ⭐️ 6.5/10
+## [索尼在法律上辩称数字游戏所有权不成立](https://www.techpowerup.com/352232/sony-legally-argues-that-digital-game-ownership-is-not-plausible) ⭐️ 6.5/10
 
-John Ternus（苹果前硬件工程高级副总裁）已正式接任首席执行官一职，取代此前于四月宣布即将卸任的 Tim Cook。Ternus 于 2001 年加入苹果，2013 年起领导硬件部门，曾主导 iPhone、iPad、Mac 产品线、AirPods 以及 Vision Pro 的研发工作。 此次领导层交接标志着这家全球市值最高的科技公司之一正转向以硬件为核心的战略方向。Ternus 深厚的工程背景及其过往业绩——尤其是成功推动从 Intel 向 Apple Silicon 的转型——预示着苹果未来的产品将更加注重定制芯片和一体化硬件设计。 Ternus 最显著的成就是主导苹果 MacBook 从基于 Intel x86 的设计转向自研 ARM 架构 Apple Silicon SoC 的过渡，这一多年项目于 2020 年末以 M1 芯片为起点。在过去几个月中，Ternus 与 Cook 密切协作，确保苹果长期战略目标的延续性。
+索尼在一项集体诉讼的答辩中声称，没有理性的买家会真正期望拥有数字游戏，并引用许可协议作为充分的披露说明。
 
-rss · TechPowerUp News · 9月1日 16:23
+rss · TechPowerUp News · 9月1日 18:19
 
-**背景**: Apple Silicon 是苹果自研的 ARM 架构处理器系列，从 2020 年末的 M1 芯片开始，逐步取代了 Mac 产品线中的 Intel 芯片。这一转型被广泛视为计算行业的里程碑式转变——苹果的 M 系列芯片在性能和能效上均超越了 Intel 的 x86 处理器，并促使亚马逊、谷歌等其他科技巨头也转向 Arm 架构。苹果硬件工程高级副总裁负责公司核心产品的设计，历来是 CEO 之下最具影响力的职位之一，因此 Ternus 的上任对于一家日益以垂直整合硬件和芯片战略为核心的公司来说，是顺理成章的选择。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://support.apple.com/en-us/116943">Mac computers with Apple silicon - Apple Support</a></li>
-<li><a href="https://www.zdnet.com/article/the-fall-of-intel-how-gen-ai-helped-dethrone-a-giant-and-transform-computing-as-we-know-it/">The fall of Intel : How gen AI helped dethrone a giant and... - ZDNET</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mac_(computer)">Mac (computer) - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Apple`, `#leadership`, `#CEO-transition`, `#corporate-news`, `#tech-industry`
+**标签**: `#digital-rights`, `#legal`, `#gaming-industry`, `#consumer-protection`, `#digital-ownership`
 
 ---
 
 <a id="item-19"></a>
-## [NVIDIA 在 Hot Chips 2026 展示 CUDA 支持 RISC-V 及 NVLink Fusion 集成](https://www.servethehome.com/nvidia-risc-v-for-nvidia-gpus-at-hot-chips-2026/) ⭐️ 6.5/10
+## [DLSS 5 不再需要两张 RTX 5090，NVIDIA 称模型自三月以来速度提升 5 倍](https://www.techpowerup.com/352225/dlss-5-no-longer-needs-two-rtx-5090s-nvidia-says-model-is-5x-faster-since-march) ⭐️ 6.5/10
 
-在 Hot Chips 2026 上，NVIDIA 展示了将 CUDA 支持扩展到 RISC-V 指令集架构，并讨论了如何将 RISC-V 处理器集成到其 NVLink Fusion 系统架构中。此次演讲标志着 NVIDIA 在其专有 GPU 和互连技术之外，正日益深入地参与开源 RISC-V 生态系统。 这一进展之所以重要，是因为 CUDA 是 NVIDIA 核心的软件护城河，将其扩展到 RISC-V 将显著拓宽 GPU 加速计算可用的硬件范围，使其不再局限于 x86 和 Arm 平台。结合 NVLink Fusion 将非 NVIDIA 芯片接入 NVIDIA 高带宽 Fabric 的能力，NVIDIA 正从纯粹的垂直整合芯片厂商转变为生态系统的赋能者。 NVLink Fusion 被定位为高频同步 Fabric，而非像 PCIe 那样的简单 I/O 互连，可实现定制芯片与 NVIDIA GPU 之间的紧耦合。NVIDIA 公开讨论 CUDA 在 RISC-V 上的运行，表明其正在持续投入工程资源，但目前可获取的 Hot Chips 报道内容较为简略，缺乏详细的性能数据和时间线信息。
+NVIDIA 的 DLSS 5 神经渲染模型自三月以来实现了 5 倍的性能提升，现在可在单张 RTX 50 系列 GPU 上运行，不再需要两张 RTX 5090，但仍相比原生渲染存在一定的性能损耗。
 
-rss · ServeTheHome · 9月1日 19:00
+rss · TechPowerUp News · 9月1日 17:10
 
-**背景**: RISC-V 是一种基于精简指令集（RISC）原则的开源标准指令集架构（ISA），允许任何人在无需支付授权费的情况下设计和制造兼容处理器。CUDA 是 NVIDIA 的并行计算平台和编程模型，已成为 AI 和高性能计算领域 GPU 加速工作负载的主导框架。NVLink Fusion 是 NVIDIA 的互连技术，将其专有的 NVLink 协议扩展到允许第三方 CPU 和加速器接入 NVIDIA 的高带宽一致性 Fabric，从而实现将定制芯片与 NVIDIA GPU 组合的异构计算系统。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/interconnect-computer-why-nvidias-nvlink-fusion-most-trojan-kannan-yoiec">The Interconnect Is the Computer: Why Nvidia ’s NVLink Fusion is the...</a></li>
-<li><a href="https://digestibly.beehiiv.com/p/nvidia-goes-full-matrix">NVIDIA Goes Full Matrix</a></li>
-<li><a href="https://tech.yahoo.com/computing/articles/nvidias-jen-hsun-huang-boasts-132554200.html">Nvidia 's Jen-Hsun Huang boasts that one spine of its new NVLink ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#RISC-V`, `#CUDA`, `#Hot Chips`, `#GPU`
+**标签**: `#nvidia`, `#dlss`, `#neural-rendering`, `#gpu`, `#rtx-50-series`
 
 ---
 
 <a id="item-20"></a>
-## [评论文章力陈 Firefox 对浏览器引擎多样性的必要性](https://www.newsonaut.com/articles/hang-on-to-your-firefox) ⭐️ 6.0/10
+## [GoPro 以 2.85 亿美元合并 Starman Optical，进军 AI 数据中心市场](https://www.tomshardware.com/tech-industry/data-centers/gopro-to-expand-into-ai-data-centers-after-usd285-million-merger-with-optical-photonics-company-move-to-solve-camera-makers-financial-woes-move-manufacturing-back-into-the-us) ⭐️ 6.5/10
 
-一篇评论文章主张 Firefox 对于维持浏览器引擎多样性仍然至关重要，理由是如果没有 Firefox，整个网络将完全被 Chromium（Blink）和 WebKit 所主导。文章将 Firefox 的重要性置于其功能集之外，强调它作为生态系统中最后一个主要独立引擎的角色。 如果 Chromium 不受制约地继续吞噬市场份额，Google 将获得对 Web 标准、渲染行为以及影响每个站点和开发者的事实政策决策的超大影响力。Firefox 的 Gecko 引擎是主要的制衡力量，但其不断萎缩的用户基数引发了人们对 Mozilla 还能维持多久独立引擎开发的质疑。 Mozilla 因涉足广告技术收购以及与 Firefox 隐私定位相矛盾的数据收集行为而遭到批评，这使得"只用 Firefox"的论点变得复杂。社区评论者还指出，Chrome 的分支浏览器（Edge、Brave、Opera、Vivaldi）并不构成引擎多样性，因为它们都共享 Blink，无法真正与上游分叉。
+GoPro 宣布与私营光学光子学公司 Starman Optical 达成 2.85 亿美元合并交易，GoPro 股东将获得每股 1.14 美元的现金对价，并保留合并后公司约 10%的股份。该交易将消除 GoPro 现有的 9200 万美元债务，将相机制造迁回美国，并使合并后的业务拓展至 AI 数据中心光模块以及国防和国家安全市场。 这笔交易表明 AI 基础设施热潮正在吸引非传统企业参与，曾经标志性的消费相机品牌正转向由 GPU 集群网络需求驱动的高增长 B2B 光组件市场。它同时也体现了在供应链和国家安全担忧加剧的背景下，将先进技术制造业迁回美国的更广泛趋势。 GoPro 拥有 24 年来在成像和光学领域积累的超过 2500 项美国专利组合，可应用于光模块设计。Starman Optical 运营着一家名为 Starman New Photonics 的美国光子学子公司，已在美国本土制造光模块——该细分市场正因 AI 训练集群中 800G/1.6T 部署的爆发性需求而快速增长。
 
-hackernews · speckx · 9月1日 20:30 · [社区讨论](https://news.ycombinator.com/item?id=49527748)
+rss · Tom's Hardware · 9月2日 14:43
 
-**背景**: 浏览器引擎是将 HTML、CSS 和 JavaScript 渲染成可见网页的软件；当今主流的引擎包括 Blink（被 Chrome 及大多数基于 Chromium 的浏览器使用）、WebKit（被 Safari 和所有 iOS 浏览器使用，因为 Apple 强制要求）以及 Gecko（被 Firefox 使用）。从历史上看，浏览器引擎多样性之所以重要，是因为单一引擎垄断会让一家供应商成为事实上的标准制定者，就像当年 Internet Explorer 对抗 Netscape 的时期一样。搜索结果解释称，Chromium 的主导地位赋予了 Google 对网站构建和测试方式的巨大影响力，而像 Gecko 这样的差异化引擎即使在性能上有所牺牲，也更注重标准合规性和隐私保护。
+**背景**: 光模块是将电信号转换为光信号（反之亦然）以通过光纤进行高速数据传输的设备，是现代数据中心内部的关键组件。AI 训练工作负载涉及数千个 GPU 同时以全带宽通信，推动了对 800G 和 1.6T 等更高速率光模块的需求，这些模块采用 OSFP 和 QSFP-DD 等封装形式。相干光模块（400G ZR/ZR+）也越来越多地用于互联不同的数据中心建筑。GoPro 成立于 2002 年，曾是运动相机的代名词，但由于来自智能手机的竞争侵蚀了其核心市场，财务状况一直举步维艰，使得战略转型成为必然而非选择。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://css-tricks.com/browser-engine-diversity/">css-tricks.com/ browser - engine - diversity</a></li>
-<li><a href="https://www.sigmabrowser.com/blog/what-is-a-browser-engine-chromium-blink-webkit-gecko-explained">What Is a Browser Engine ? Chromium , Blink , WebKit & Gecko ...</a></li>
-<li><a href="https://bkardell.com/blog/EcosystemHealth.html">Web Engine Diversity and Ecosystem Health</a></li>
+<li><a href="https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/">GoPro to be acquired for $285M, will remain a public company</a></li>
+<li><a href="https://petapixel.com/2026/09/01/optical-company-starman-buys-gopro-for-285-million-plans-move-into-ai-defense-and-national-security/">Optical Company Starman Buys GoPro for $285 Million... | PetaPixel</a></li>
+<li><a href="https://www.newsshooter.com/2026/09/01/gopro-to-merge-with-starman-optical-in-285-million-deal-pivots-toward-ai-and-defense-markets/">GoPro to Merge With Starman Optical in $285 Million... - Newsshooter</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者大致认同文章的前提——Firefox 对引擎多样性很重要，但也补充了更细致的观点：有人指出广告拦截支持仍然是 Firefox 一个独特的强项卖点；有人认为 Web 开发者难辞其咎，因为他们默认"在 Chrome 中测试"就够了，并且优先实现 Chrome 已支持的功能；还有人站在构建联盟的立场上辩护说，支持 Firefox 并不意味着要认同 Mozilla 的每一个决策。一位评论者还提到了 Servo 和 Ladybird 等新兴替代方案，并介绍了一个可视化跨引擎 Web 平台测试结果（WPT）结果的工具。
-
-**标签**: `#firefox`, `#browser-diversity`, `#mozilla`, `#web-ecosystem`, `#opinion`
+**标签**: `#go-pro`, `#ai-infrastructure`, `#optical-transceivers`, `#data-centers`, `#industry-news`
 
 ---
