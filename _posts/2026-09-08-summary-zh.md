@@ -5,380 +5,404 @@ date: 2026-09-08
 lang: zh
 ---
 
-> 从 72 条内容中筛选出 20 条重要资讯。
+> 从 84 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [长鑫存储（CXMT）正式启动 LPDDR6 内存量产](#item-1) ⭐️ 7.5/10
-2. [三星代工将 4 纳米一半产能用于 HBM4 基础芯片](#item-2) ⭐️ 7.5/10
-3. [Arm 发布 Neoverse CSS N4 'Ranger' 平台，单芯片最多 128 核，采用台积电 N3P 工艺](#item-3) ⭐️ 7.5/10
-4. [惊人模组在第二块 GPU 上运行 DLSS 5，将神经渲染 FPS 提升高达 127%——游戏在一块显卡上渲染，神经后处理在另一块显卡上运行，类似于专用的 PhysX 显卡](#item-4) ⭐️ 7.5/10
-5. [RPCS3 模拟器现可直接从光盘运行 PS3 游戏](#item-5) ⭐️ 7.5/10
-6. [博通下架 VDDK 下载，离开 VMware 变得更加困难](#item-6) ⭐️ 7.0/10
-7. [2Q26 DRAM 行业收入环比飙升 59.5%，供需失衡持续](#item-7) ⭐️ 7.0/10
-8. [韩国 8 月半导体出口同比增长 209%，达创纪录的 466.5 亿美元](#item-8) ⭐️ 7.0/10
-9. [GPT-6 Astra 用 24 小时自主通关《Portal》，成本仅 571 美元](#item-9) ⭐️ 6.5/10
-10. [DLSS 5 据报导致 RTX 5090 功耗超 600W，16 针接口熔毁](#item-10) ⭐️ 6.5/10
-11. [我破解了 90 年代某证书颁发机构的密钥](#item-11) ⭐️ 6.0/10
-12. [见证洛杉矶一砖一瓦的建造历程（1880–2026）](#item-12) ⭐️ 6.0/10
-13. [加州理工学院数学马拉松——首个专注于研究级数学的黑客马拉松](#item-13) ⭐️ 6.0/10
-14. [DAC 2026 上的 AI 内存缺口](#item-14) ⭐️ 6.0/10
-15. [AI 加速芯片设计，但物理实现栈成为新瓶颈](#item-15) ⭐️ 6.0/10
-16. [微冷却：边缘端智能体 AI 的关键使能技术](#item-16) ⭐️ 6.0/10
-17. [铠侠开发 CXL 连接 NAND 闪存，瞄准 AI 工作负载替代 DRAM](#item-17) ⭐️ 6.0/10
-18. [Everspin 与 Teledyne HiRel 合作拓展军用 MRAM 市场](#item-18) ⭐️ 6.0/10
-19. [IQE 上半年营收同比增长 43%，业绩表现强劲](#item-19) ⭐️ 6.0/10
-20. [7 月全球半导体销售额达 1468 亿美元，同比增长 135%](#item-20) ⭐️ 6.0/10
+1. [谷歌绘制完整果蝇大脑图谱，开发者让其运行《毁灭战士》和《马里奥 64》](#item-1) ⭐️ 8.5/10
+2. [高数值孔径 EUV 光刻技术从研发阶段迈入量产阶段](#item-2) ⭐️ 8.0/10
+3. [ASML 与台积电将主导 12 英寸光掩模向 High-NA EUV 过渡](#item-3) ⭐️ 8.0/10
+4. [英特尔代工处理达 100 万片 High-NA EUV 晶圆，技术扩展至 18A 与 Panther Lake](#item-4) ⭐️ 7.5/10
+5. [长鑫存储与长江存储囤积 ASML DUV 光刻机备战三年](#item-5) ⭐️ 7.5/10
+6. [台积电计划 2030 年采用 High-NA EUV 光刻技术，瞄准 A10/A11 节点](#item-6) ⭐️ 7.5/10
+7. [历经六年多努力，《任天堂明星大乱斗 DX》完成完全反编译——这一雄心勃勃且技术精湛的项目将 GameCube 经典之作转化为 C 代码](#item-7) ⭐️ 7.5/10
+8. [黑客从 Liquid Network 联邦钱包盗走 3.2 亿美元比特币](#item-8) ⭐️ 7.5/10
+9. [Arm 发布 Neoverse CSS N4 'Ranger' 平台，单芯片最多 128 核，采用 TSMC N3P 工艺](#item-9) ⭐️ 7.5/10
+10. [Imec 展示 NbTiN 约瑟夫森结集成电路，密度达 380 万结/cm²](#item-10) ⭐️ 7.5/10
+11. [小鼠实验显示 GLP-1 减肥药或有助于延缓衰老](#item-11) ⭐️ 7.3/10
+12. [Google DeepMind 发布 AlphaGenome Atlas，覆盖 90 亿基因组变异](#item-12) ⭐️ 7.0/10
+13. [美国国土安全部"预测性警务"部门正在分析美国人的财务习惯](#item-13) ⭐️ 7.0/10
+14. [第二季度 DRAM 合约价格环比飙升 59.5%](#item-14) ⭐️ 7.0/10
+15. [MOD 制作者重制 DLSS 5 渲染管线，性能大幅提升](#item-15) ⭐️ 6.5/10
+16. [模组作者用专用 DLSS 5 GPU 重振多 GPU 游戏，带来惊人帧率提升](#item-16) ⭐️ 6.5/10
+17. [英特尔 10 月计划第三次 CPU 涨价 10%](#item-17) ⭐️ 6.5/10
+18. [SK 海力士加速 1c DRAM 量产，预计 2027 年 Q1 成为主导制程](#item-18) ⭐️ 6.5/10
+19. [在 RTX 5090 及更高端硬件上对 Qwen 3.8 27B 进行基准测试——仅靠显存容量无法克服严重的软件和推理引擎瓶颈](#item-19) ⭐️ 6.5/10
+20. [NEC 悄然退出量子计算硬件开发](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [长鑫存储（CXMT）正式启动 LPDDR6 内存量产](https://www.techpowerup.com/352114/cxmt-officially-starts-mass-production-of-lpddr6-memory) ⭐️ 7.5/10
+## [谷歌绘制完整果蝇大脑图谱，开发者让其运行《毁灭战士》和《马里奥 64》](https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64) ⭐️ 8.5/10
 
-长鑫存储（CXMT）已正式启动 LPDDR6 内存的大规模量产，芯片速率最高可达 12.8 Gbps，单颗容量为 16 Gb（2 GB），采用约 1,295 引脚的封装叠层（POP）封装。小米成为首个确认客户，将在其即将于 9 月发布的 Xiaomi 18 Fold 折叠屏手机中使用该内存；阿里巴巴云、字节跳动、腾讯、联想、传音、荣耀、vivo 和 Oppo 也被列为客户。 CXMT 是全球首批实现 LPDDR6 量产的 DRAM 厂商之一，与韩国三星和 SK 海力士的进度基本同步。这一里程碑强化了中国本土的内存供应链，降低了对国外 DRAM 的依赖，并展示了 CXMT 在面向 AI 加速智能手机和数据中心的尖端移动内存领域日益增强的竞争力。 CXMT 的 LPDDR6 速率最高达 12.8 Gbps，明显高于 JEDEC 标准的 10.7 Gbps 基准速率以及此前 LPDDR5X 的最高速度。芯片采用约 1,295 引脚的 POP 球栅阵列封装，而从风险量产过渡到大规模量产意味着良率在客户出货前已达到商业化水平。
+谷歌及其合作者发布了 MaleCNS v1.0，这是首次完整绘制成年雄性果蝇大脑及中枢神经系统的连接组，包含超过 166,000 个神经元。发布仅几天后，软件工程师便利用该模型运行了《毁灭战士》和《超级马里奥 64》等经典游戏。 这是首个针对如此复杂程度的成年动物完成的完整连接组，标志着神经科学的一项重大里程碑，可能彻底改变我们对大脑功能的理解，并启发新的人工智能架构。数据集被迅速用于游戏任务，既体现了其开放性，也反映出对仿生计算的日益关注。 该项目耗时约十年，结合电子显微镜技术与人工智能驱动的图像重建方法，追踪成年果蝇中枢神经系统中每一个神经元和突触连接。最终构建的三维模型包含超过 166,000 个神经元和数百万个连接，可通过 FlyWire 联盟及 neuPrint 数据库公开访问。
 
-rss · TechPowerUp News · 9月7日 14:55
+rss · Tom's Hardware · 9月8日 11:06
 
-**背景**: LPDDR（低功耗双倍数据速率）内存是智能手机、平板电脑以及越来越多笔记本电脑和 AI 边缘设备所使用的标准 RAM，对功耗效率要求极高。LPDDR6 是 JEDEC 于 2025 年 7 月 9 日发布的下一代标准（JESD209-6），旨在提供比 LPDDR5X 更高的带宽和更精细的功耗状态控制。长鑫存储（CXMT）是中国最大、也是唯一具备大规模 DRAM 设计与制造能力的厂商，其在 LPDDR6 上的快速进展反映了中国推动半导体自主可控的整体战略。所谓风险量产，是指 CXMT 刚结束的低批量全晶圆制造阶段，用于在进入大规模量产前验证良率和工艺参数。
+**背景**: 连接组（connectome）是大脑中所有神经连接的完整图谱，类似于神经系统的接线图。此前，完整的大脑连接组绘制仅在像秀丽隐杆线虫这样非常简单的生物上完成；而果蝇则要复杂得多，其大脑回路复杂度可与小型哺乳动物相媲美。谷歌此前发布的 Hemibrain 项目仅绘制了果蝇大脑约一半的区域，MaleCNS v1.0 则是首个覆盖整个中枢神经系统（包括腹神经索）的完整版本。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/LPDDR">LPDDR - Wikipedia</a></li>
-<li><a href="https://aiwiki.ai/wiki/cxmt">CXMT ( ChangXin Memory Technologies ) | AI Wiki</a></li>
-<li><a href="https://grokipedia.com/page/Risk_production_semiconductors">Risk production (semiconductors) — Grokipedia</a></li>
+<li><a href="https://www.nih.gov/news-events/nih-research-matters/complete-wiring-map-adult-fruit-fly-brain">Complete wiring map of an adult fruit fly brain | National Institutes of...</a></li>
+<li><a href="https://www.biotechniques.com/neuroscience/what-is-connectomics-how-microscopy-and-ai-have-combined-to-revolutionize-neuroscience/">What is connectomics? How microscopy and AI have combined to revolutionize neuroscience</a></li>
+<li><a href="https://tech.yahoo.com/ai/gemini/articles/google-maps-entire-brain-central-110626340.html">Google maps entire brain and central nervous system of adult male ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LPDDR6`, `#memory`, `#semiconductors`, `#CXMT`, `#Xiaomi`
+**标签**: `#neuroscience`, `#connectome`, `#computational-neuroscience`, `#AI`, `#fruit-fly-brain`
 
 ---
 
 <a id="item-2"></a>
-## [三星代工将 4 纳米一半产能用于 HBM4 基础芯片](https://www.techpowerup.com/352432/samsung-foundry-allocates-half-of-4-nm-capacity-for-hbm4-base-dies) ⭐️ 7.5/10
+## [高数值孔径 EUV 光刻技术从研发阶段迈入量产阶段](https://semiwiki.com/semiconductor-manufacturers/intel/373350-high-na-euv-moves-from-experiment-to-manufacturing/) ⭐️ 8.0/10
 
-据报道，三星代工将其 SF4（4 纳米）节点一半的产能用于制造 HBM4 内存的基础芯片，这些基础芯片如今支持将内存控制器和 PHY 等定制逻辑直接集成在基础芯片上。
+Intel Foundry 与 ASML 在 SPIE 光刻掩模技术与极紫外光刻会议上宣布，高数值孔径（High-NA）EUV 光刻技术已从研发工具转变为量产技术，Intel 已使用该新系统处理了晶圆。 这一里程碑对于推动半导体制造进入 2 纳米以下的工艺节点至关重要，因为高数值孔径 EUV 在同一面积上可实现约为现有 EUV 系统三倍的结构密度，并支撑整个行业在传统 EUV 光刻极限之外继续推进制程微缩路线图。 高数值孔径 EUV 的数值孔径为 0.55，而现有 EUV 系统仅为 0.33，可实现低于 10 纳米的光学分辨率。从研发转向量产解决了高产量制造所需的吞吐量、每片晶圆成本以及保护膜（pellicle）技术等长期挑战。
 
-rss · TechPowerUp News · 9月7日 08:07
+rss · SemiWiki · 9月8日 06:00
 
-**标签**: `#HBM4`, `#Samsung Foundry`, `#semiconductor manufacturing`, `#AI hardware`, `#memory technology`
+**背景**: EUV 光刻技术利用由激光脉冲锡等离子体产生的 13.5 纳米极紫外光在硅晶圆上刻画极精细的图形，ASML 是全球唯一一家此类系统的供应商。数值孔径（NA）用于衡量透镜系统的光线收集能力，将 NA 从 0.33 提升至 0.55 可直接缩小可印刷的最小特征尺寸。高数值孔径 EUV 设备体积庞大且造价高昂——每台约 3.5 亿美元——因此其向量产就绪的过渡一直受到整个半导体行业的密切关注。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/EUV_lithography">EUV lithography - Wikipedia</a></li>
+<li><a href="https://www.zeiss.com/semiconductor-manufacturing-technology/inspiring-technology/high-na-euv-lithography.html">High-NA-EUV Lithography: the next EUV generation | ZEISS SMT</a></li>
+<li><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13686/1368605/Progress-in-high-NA-EUV-lithography-towards-high-volume-manufacturing/10.1117/12.3072096.full">Progress in high-NA EUV lithography towards high-volume manufacturing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor-manufacturing`, `#EUV-lithography`, `#Intel`, `#ASML`, `#process-technology`
 
 ---
 
 <a id="item-3"></a>
-## [Arm 发布 Neoverse CSS N4 'Ranger' 平台，单芯片最多 128 核，采用台积电 N3P 工艺](https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p) ⭐️ 7.5/10
+## [ASML 与台积电将主导 12 英寸光掩模向 High-NA EUV 过渡](https://www.electronicsweekly.com/news/business/asml-and-tsmc-to-lead-transition-to-12-inch-photomasks-for-high-na-euv-2026-09/) ⭐️ 8.0/10
 
-Arm 发布了下一代 Neoverse CSS N4 'Ranger' 半定制计算子系统平台，单芯片最多支持 128 个核心和 256 MB L3 缓存，采用台积电 N3P 工艺制造。相比上一代 Neoverse CSS N2，这是核心数量和缓存容量上的重大提升。 此次发布加强了 Arm 在数据中心和超大规模云计算 CPU 市场的竞争力，云厂商越来越多地设计基于 Arm 架构的定制芯片以应对 AI 工作负载和通用计算需求。核心数和缓存容量的大幅翻倍，加上台积电 N3P 工艺的能效优势，为 AWS、微软等合作伙伴的下一代服务器芯片提供了更具竞争力的基础。 CSS N4 平台将 Arm Neoverse CPU 核心与 Core Mesh Network（CMN）互连、内存控制器和系统 IP 集成在一个经过预验证、PPA 优化的子系统中，并通过 AMBA CHI C2C 接口支持基于 Chiplet 的设计。台积电 N3P 是 3nm FinFET 的增强版本，在性能、功耗和面积方面均优于基础 N3 工艺。
+ASML 与台积电宣布了一项合作计划，将主导半导体行业从 6 英寸光掩模向 12 英寸光掩模的过渡，以应用于 High-NA EUV 光刻技术。High-NA EUV 初期将使用现有的 6 英寸光掩模进入量产，预计后续将转向更大尺寸的 12 英寸光掩模以进一步提升产能并降低成本。 此次过渡解决了先进半导体制造基础设施中一个关键但常被忽视的环节，因为光掩模是承载电路图案并将其投射到硅晶圆上的母版。更大尺寸的光掩模能够消除拼接限制、降低单颗芯片成本，并使制造商能够充分利用 High-NA EUV 的分辨率优势来制造未来的尖端制程芯片。 High-NA EUV 光刻技术将数值孔径（NA）从 ASML NXE 系统的 0.33 提高到新型 EXE 系统的 0.55，从而能够印制更精细的电路特征。与 6 英寸相比，转向 12 英寸光掩模使每块掩模的有效面积增加了约四倍，可以在每块掩模上曝光更多的芯片图案，并减轻将大型芯片设计由多个掩模区域拼接所带来的负担。
+
+rss · Electronics Weekly · 9月8日 07:22
+
+**背景**: 光刻是将电路图案转移到硅晶圆上的工艺过程，光掩模（也称为光罩或 reticle）是承载这些电路图案的母版。标准 EUV 光刻使用波长为 13.5 纳米的光，数值孔径（NA）为 0.33；而 High-NA EUV 将 NA 提升到 0.55，从而能够分辨更精细的电路特征。ASML 是先进 EUV 光刻扫描仪的独家供应商，台积电则是全球最大的芯片代工厂和 ASML 最重要的客户之一，因此两家公司的联合举措实际上等同于向整个行业发出的路线图信号。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.asml.com/en/company/stories/2024/5-things-high-na-euv">5 things you should know about High NA EUV lithography</a></li>
+<li><a href="https://www.zeiss.com/semiconductor-manufacturing-technology/inspiring-technology/high-na-euv-lithography.html">High-NA-EUV Lithography: the next EUV generation | ZEISS SMT</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Photomask">Photomask - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#EUV lithography`, `#ASML`, `#TSMC`, `#photomasks`
+
+---
+
+<a id="item-4"></a>
+## [英特尔代工处理达 100 万片 High-NA EUV 晶圆，技术扩展至 18A 与 Panther Lake](https://www.techpowerup.com/352465/intel-foundry-achieves-milestone-with-one-million-high-na-euv-wafers) ⭐️ 7.5/10
+
+英特尔代工已正式完成 100 万片 300 毫米硅晶圆的 High-NA EUV 光刻处理，这是其在机队规模与工艺成熟度上的重要里程碑。英特尔如今不仅在 14A 节点上部署 High-NA，还将 High-NA 曝光扩展至 18A 节点以及部分 Panther Lake CPU 型号，并向外部代工客户开放该能力。 High-NA EUV 是目前最先进的商用光刻技术，处理量达 100 万片晶圆表明英特尔已将该技术从研究阶段推进到大规模量产阶段。将 High-NA 从 14A 向下扩展至 18A 和 Panther Lake，有助于缩短生产周期、减少多重曝光步骤，并使英特尔代工在亚 2 纳米级别的外部客户竞争中获得与台积电、三星抗衡的筹码。 英特尔最初于 2024 年安装了 ASML 第一代 TWINSCAN EXE:5000 High-NA 系统用于 14A 研发，目前已在其代工厂完成第二代 TWINSCAN EXE:5200B 的验收测试以提升 14A 晶圆产能。英特尔此前曾在一个季度内处理超过 3 万片晶圆，并将某一特定光刻层的步骤从 40 步简化至不到 10 步，从而显著缩短了生产周期。
+
+rss · TechPowerUp News · 9月8日 11:24
+
+**背景**: EUV（极紫外）光刻利用极短波长在硅晶圆上刻印极细的电路图案，而"High-NA"指的是投影光学系统中更高的数值孔径（0.55 NA，相比标准的 0.33 NA），可在单次曝光中实现更精细的分辨率和更高的晶体管密度。ASML 的 TWINSCAN EXE:5000 是全球首台 High-NA EUV 量产设备，于 2023 年底交付，相比此前的 NXE 系列可实现约 1.7 倍更小的特征尺寸和 2.9 倍更高的晶体管密度。英特尔的"18A"节点遵循其新命名规则（数字代表埃），实际相当于亚 2 纳米工艺；Panther Lake 是英特尔预计采用 18A 节点的下一代消费级 CPU 系列。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.asml.com/en/products/euv-lithography-systems/twinscan-exe-5000">TWINSCAN EXE:5000 - EUV lithography systems | ASML</a></li>
+<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor-manufacturing`, `#Intel-Foundry`, `#High-NA-EUV`, `#lithography`, `#ASML`
+
+---
+
+<a id="item-5"></a>
+## [长鑫存储与长江存储囤积 ASML DUV 光刻机备战三年](https://www.techpowerup.com/352461/cxmt-and-ymtc-stockpile-asml-tools-for-three-year-expansion-plans) ⭐️ 7.5/10
+
+据英国《金融时报》报道，中国内存制造商长鑫存储（CXMT）和长江存储（YMTC）已囤积了足够使用三年的 ASML DUV 光刻机，以保障其扩张计划。这一举措正值美国通过两党法案《MATCH 法案》向荷兰施压，要求其停止向中国出口较旧的 DUV 光刻设备。 若《MATCH 法案》获通过，ASML 可能损失其预计年度营收中近五分之一的中国市场收入，同时也将进一步推动中国半导体国产化的进程。此次囤货行为表明，中国存储厂商正在为可能长期脱钩的局面做准备，这一趋势可能重塑全球内存及 NAND 闪存供应链。 此次涉及的设备是 DUV（深紫外）光刻系统，比 ASML 最先进的 EUV（极紫外）光刻机落后一代；EUV 设备自 2023 年起已被禁止出口中国。DUV 光刻机对于制造成熟制程 DRAM 和大部分 NAND 闪存层仍然至关重要，这意味着即便最先进的 EUV 系统已受限，对 DUV 的禁令仍将直接打击中国存储芯片的产能扩张。
+
+rss · TechPowerUp News · 9月8日 08:49
+
+**背景**: 长鑫存储（CXMT）于 2016 年在合肥成立，是中国最大的 DRAM 制造商，也是唯一一家有资格出现在全球 DRAM 市场份额榜单中的中国企业，并于 2026 年 7 月在上交所科创板上市。长江存储（YMTC）专注于 NAND 闪存芯片，到 2025 年末其出货量份额已突破 13%–14%，跻身全球 NAND 闪存供应商前三名。ASML 是全球唯一能够生产 EUV 光刻机的厂商，同时在 DUV 系统市场占据主导地位，是全球先进芯片制造的关键瓶颈。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.asml.com/en/products/duv-lithography-systems">DUV lithography systems | Products - ASML</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#ASML`, `#US-China tech war`, `#supply chain`, `#export controls`
+
+---
+
+<a id="item-6"></a>
+## [台积电计划 2030 年采用 High-NA EUV 光刻技术，瞄准 A10/A11 节点](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use) ⭐️ 7.5/10
+
+台积电披露计划于 2030 年开始使用 High-NA EUV 光刻技术，A10 或 A11 制程节点是其首批采用的主要候选对象。公司同时透露，新型 6×12 英寸光罩扫描机将于 2033 年投入使用。 这一路线图意义重大，因为它意味着台积电在 High-NA EUV 的采用上将落后于英特尔，可能重塑先进半导体制造领域的竞争格局。该时间表将影响芯片设计商、ASML 等设备制造商，以及整个行业迈向 2nm 以下及更先进节点的进程。 台积电未正式确认哪个节点将首先采用 High-NA EUV，但 2030 年的时间表指向 A10 或 A11 候选节点。公司指出，采用 High-NA EUV 处理的层数最终将会增加，而转向 6×12 英寸光罩需要对整个光罩生态系统进行全面改造，包括光罩基板、检测工具、保护膜以及扫描机处理系统。
+
+rss · Tom's Hardware · 9月8日 15:00
+
+**背景**: High-NA EUV 光刻技术是光刻领域的下一代重大进步，将 EUV 的可扩展性延伸到 2nm 以下工艺节点时代。NA（数值孔径）衡量的是透镜系统的分辨率能力，更高的 NA 能够在硅晶圆上实现更精细的特征图案。当前 EUV 设备采用 0.33 NA 光学系统，而 High-NA 系统则使用 0.55 NA，由 ASML 独家制造。英特尔一直是早期采用者，已处理超过一百万片 High-NA EUV 晶圆。台积电的 A10 和 A11 节点代表了超越当前 N2（2nm）节点的未来制造技术，通常遵循用字母代替早期数字命名约定的先进节点命名方式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use">TSMC to start using High-NA EUV lithography in 2030 — A 10 or A 11 ...</a></li>
+<li><a href="https://semiwiki.com/wikis/industry-wikis/high-na-euv-lithography-wiki/">High-NA EUV Lithography Wiki - SemiWiki</a></li>
+<li><a href="https://www.partgenie.ai/insights/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailbl-6">Intel Surpasses One Million High-NA EUV Wafers Processed ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor-manufacturing`, `#TSMC`, `#high-NA-EUV`, `#lithography`, `#chip-fabrication`
+
+---
+
+<a id="item-7"></a>
+## [历经六年多努力，《任天堂明星大乱斗 DX》完成完全反编译——这一雄心勃勃且技术精湛的项目将 GameCube 经典之作转化为 C 代码](https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code) ⭐️ 7.5/10
+
+《任天堂明星大乱斗 DX》反编译项目终于达成其长期目标，成功将这款 GameCube 游戏转换为 C 代码。
+
+rss · Tom's Hardware · 9月8日 12:57
+
+**标签**: `#reverse-engineering`, `#decompilation`, `#game-preservation`, `#C programming`, `#homebrew`
+
+---
+
+<a id="item-8"></a>
+## [黑客从 Liquid Network 联邦钱包盗走 3.2 亿美元比特币](https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed) ⭐️ 7.5/10
+
+自称白帽黑客的攻击者从 Liquid Network 的联邦钱包中盗走了约 3.2 亿美元的比特币，清空了大约 95%的资金，并声称在该漏洞被修复后将归还资金。 这是迄今为止最大的加密货币安全事件之一，直接影响到一个被交易所和机构广泛使用的比特币 Layer 2 侧链的安全模型，引发了人们对联邦托管设计韧性的严重质疑。 此次攻击针对的是一个联邦钱包——一种需要多个联邦成员批准的多签钱包——攻击者自称是道德白帽的说法尚未得到证实。被利用的漏洞的具体性质尚未公开披露。
+
+rss · Tom's Hardware · 9月8日 11:20
+
+**背景**: Liquid Network 是由 Blockstream 于 2018 年推出的比特币 Layer 2 侧链，专为需要更快结算和机密资产发行的交易所和机构设计，无需将每笔交易都记录在比特币主链上。Liquid 不单纯依赖矿工，而是使用一个由受信任成员组成的联邦来共同验证区块并保障网络安全。联邦钱包通常是由这些联邦成员控制的多签钱包，需要多方批准才能转移资金。联邦钱包被攻破表明，多签方案本身存在缺陷，或者联邦参与者的密钥或基础设施遭到了入侵。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://docs.liquid.net/docs/technical-overview">Technical Overview - Documentation - The Liquid Network</a></li>
+<li><a href="https://blockstream.com/liquid/">The Liquid Network | Bitcoin layer-2 solution for digital asset issuance.</a></li>
+<li><a href="https://www.bitgo.com/resources/blog/what-is-a-multi-signature-wallet/">What is multi-sig and how does it impact crypto security? - BitGo</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cryptocurrency`, `#security`, `#bitcoin`, `#blockchain`, `#vulnerability`
+
+---
+
+<a id="item-9"></a>
+## [Arm 发布 Neoverse CSS N4 'Ranger' 平台，单芯片最多 128 核，采用 TSMC N3P 工艺](https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p) ⭐️ 7.5/10
+
+Arm 发布了下一代 Neoverse CSS N4 'Ranger' 半定制计算子系统，单芯片最多支持 128 个核心和 256 MB L3 缓存，采用 TSMC 的 N3P 工艺节点，面向数据中心工作负载。相比上一代 Neoverse CSS N2 平台，这是一个显著的规模提升。 该平台使 AWS、Microsoft 等超大规模云服务商能够更快地开发基于 Arm 的定制服务器 CPU，从而加剧了与 Intel 和 AMD 等 x86 现有厂商在云和数据中心市场的竞争。通过提供经过预先验证、PPA 优化的计算子系统，Arm 降低了合作伙伴更快将差异化芯片推向市场的门槛。 CSS N4 'Ranger' 将 Arm 的 Neoverse CPU 核心、Core Mesh Network (CMN) 互连以及其他系统 IP 集成到单一经过验证的设计中，采用 TSMC 的 N3P 工艺——这是第三代 3nm 节点，相比 N5 在性能、功耗和密度上均有提升。合作伙伴可以将精力集中在加速器、I/O 和内存子系统等差异化领域，而无需重新设计整个计算平台。
 
 rss · Tom's Hardware · 9月8日 02:00
 
-**背景**: Arm 的 Neoverse 计算子系统（CSS）是经过预验证、预集成的计算平台，将 Arm CPU 核心、一致性网格互连、内存控制器和 I/O 打包为可定制方案。这种方式让超大规模云厂商和芯片供应商跳过大量非差异化的前端设计和验证工作，加速定制服务器 SoC 的流片进度。该平台瞄准了云厂商对 Arm 服务器芯片日益增长的需求，这些芯片既用于通用云工作负载，也用于 AI 驱动的计算，直接与 Intel 和 AMD 的 x86 产品竞争。
+**背景**: Arm Neoverse 计算子系统（CSS）是预集成、预验证的基础设施计算平台，将 Arm 的 CPU IP 与互连（Core Mesh Network）、内存控制器及其他系统 IP 整合在一起。合作伙伴无需单独授权各个 IP 模块，而是直接授权一个完整的、可定制的计算 tile，从而大幅缩短从设计到流片的时间。TSMC 的 N3P 是采用 FinFET 技术的增强版 3nm 工艺节点，相比 N5 性能提升约 18% 或功耗降低 34%，逻辑密度提升约 1.7 倍。半定制 chiplet 方案允许合作伙伴将自己的定制 die 与计算 tile 进行混搭，支持面向 AI 和云工作负载的模块化设计。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.arm.com/products/cloud-datacenter/neoverse-compute-subsystems">Neoverse Compute Subsystems (CSS): Fast-Track to Production</a></li>
 <li><a href="https://www.arm.com/products/cloud-datacenter/neoverse-compute-subsystems/css-v3">Arm Neoverse Compute Subsystem V3 | High Performance, TCO-Optimized Platform</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_3nm">3nm Technology - Taiwan Semiconductor Manufacturing ... - TSMC</a></li>
+<li><a href="https://www.opencompute.org/chiplets/70/arm-neoverse-compute-subsystems-css">Arm Neoverse Compute Subsystems (CSS) » Open Compute Project</a></li>
 
 </ul>
 </details>
 
-**标签**: `#arm`, `#neoverse`, `#data-center`, `#server-cpu`, `#semiconductor`
-
----
-
-<a id="item-4"></a>
-## [惊人模组在第二块 GPU 上运行 DLSS 5，将神经渲染 FPS 提升高达 127%——游戏在一块显卡上渲染，神经后处理在另一块显卡上运行，类似于专用的 PhysX 显卡](https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus) ⭐️ 7.5/10
-
-一个 ReShade 插件模组使 DLSS 5 神经渲染能够在副 GPU 上运行，将负载从主渲染 GPU 上卸载，从而使 FPS 提升高达 127%。
-
-rss · Tom's Hardware · 9月7日 12:33
-
-**标签**: `#DLSS`, `#GPU`, `#nvidia`, `#modding`, `#gaming-performance`
-
----
-
-<a id="item-5"></a>
-## [RPCS3 模拟器现可直接从光盘运行 PS3 游戏](https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-can-now-run-games-on-pc-directly-from-a-disc-drive-in-landmark-development-unlocks-20-years-of-physical-ps3-games-on-windows-linux-and-macos) ⭐️ 7.5/10
-
-热门开源 PlayStation 3 模拟器 RPCS3 现已支持直接从物理蓝光光盘运行 PS3 游戏，无需先将光盘转存为硬盘或 SSD 上的镜像文件，并已覆盖 Windows、Linux、macOS 和 FreeBSD 平台。 这对模拟器社区来说是一个里程碑式的突破，让二十年来的实体 PS3 游戏能在 PC 上直接运行，而索尼即将于 2028 年 1 月停止为新 PlayStation 游戏生产实体光盘，这一功能的出现时机尤为耐人寻味。 由于 PS3 光盘使用与普通商用蓝光电影光盘不同的加密方式和读取参数，用户必须使用兼容的蓝光光驱；RPCS3 维护了一份涵盖 LG、ASUS、Samsung、Lite-On、Sony、HP、Plextor 和 BenQ 等品牌的兼容驱动器列表，该功能由贡献者 digant73 和 Megamouse 完成。
-
-rss · Tom's Hardware · 9月7日 10:47
-
-**背景**: RPCS3 是一款用 C++ 编写的开源 PlayStation 3 模拟器兼调试器，由程序员 DH 和 Hykem 于 2011 年 5 月 23 日首次发布。由于 PS3 采用独特的 Cell 处理器架构，模拟难度极高，曾被许多人认为几乎不可能被准确模拟。如今 RPCS3 已能在 PC 上运行约 75% 的 PS3 游戏库，并此前已加入了 Steam 库集成等功能，以便更顺畅地启动模拟游戏。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/RPCS3">RPCS3 - Wikipedia</a></li>
-<li><a href="https://rpcs3.net/">RPCS3 - The PlayStation 3 Emulator</a></li>
-<li><a href="https://www.notebookcheck.net/RPCS3-receives-Blu-Ray-support-several-effect-fixes.1314795.0.html">RPCS3 receives Blu-Ray support & several effect fixes - Notebookcheck News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#emulation`, `#RPCS3`, `#PS3`, `#retro-gaming`, `#open-source`
-
----
-
-<a id="item-6"></a>
-## [博通下架 VDDK 下载，离开 VMware 变得更加困难](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) ⭐️ 7.0/10
-
-博通已下架 VDDK 下载，使各组织迁移出 VMware 的难度显著增加，不过通过 Proxmox 等平台进行迁移的途径仍然可行。
-
-hackernews · josephcsible · 9月7日 20:32 · [社区讨论](https://news.ycombinator.com/item?id=49602699)
-
-**标签**: `#vmware`, `#broadcom`, `#virtualization`, `#enterprise-it`, `#migration`
-
----
-
-<a id="item-7"></a>
-## [2Q26 DRAM 行业收入环比飙升 59.5%，供需失衡持续](https://www.dramexchange.com/WeeklyResearch/Post/2/12825.html) ⭐️ 7.0/10
-
-TrendForce 报告称，2Q26 DRAM 行业收入环比增长 59.5%，达到近 1547.3 亿美元，原因是传统 DRAM 合约价格大幅上涨，同时供应扩张持续落后于需求增长。增长动力来自 AI 服务器对 HBM3e、LPDDR5X 和高容量 RDIMM 出货量的提升，以及智能体（Agentic）AI 应用对各容量 RDIMM 需求的进一步拉动。 如此幅度的全行业收入跃升表明存储芯片供应紧张将持续，并波及整个技术栈——从 AI 基础设施和数据中心建设到消费电子产品定价。供应持续落后意味着存储成本在可预见的未来可能维持高位，影响 GPU 系统总成本、智能手机平均售价以及服务器采购预算。 HBM3e 是第五代高带宽内存（HBM），通过 1024 位宽接口和 16 个独立通道提供每堆栈超过 1.2 TB/s 的带宽，是当前 AI 加速器的主要存储类型。RDIMM（寄存式 DIMM）是服务器内存的主流标准，采用寄存器时钟驱动器（RCD）缓冲内存控制器指令，以提高多路服务器配置中的稳定性；LPDDR5X 则是一种低功耗 DRAM 变体，广泛应用于移动和边缘 AI 设备。
-
-rss · DRAMeXchange (TrendForce) · 9月7日 15:43
-
-**背景**: DRAM（动态随机存取内存）是几乎所有计算设备中使用的主要易失性存储器，全球 DRAM 市场由三大供应商主导：三星、SK 海力士和美光。高带宽内存（HBM）是一种专用的 3D 堆叠 DRAM 变体，提供远高于传统 DRAM 的带宽，是 GPU 和定制加速器上 AI 训练与推理工作负载的关键组件。LPDDR（低功耗双倍数据速率）内存针对移动和电池供电设备的能效进行了优化，而 RDIMM 在标准 DIMM 基础上增加了寄存器缓冲器，以在严苛的服务器环境中保持信号完整性。DRAM 合约价格通常由供应商与超大规模云厂商及 OEM 等大客户按季度协商确定。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://network-switch.com/tr/blogs/networking/udimm-vs-rdimm-vs-lrdimm-2026">UDIMM vs RDIMM vs LRDIMM: Engineering Guide 2026</a></li>
-
-</ul>
-</details>
-
-**标签**: `#DRAM`, `#semiconductor`, `#memory`, `#market-analysis`, `#supply-chain`
-
----
-
-<a id="item-8"></a>
-## [韩国 8 月半导体出口同比增长 209%，达创纪录的 466.5 亿美元](https://www.electronicsweekly.com/news/business/korean-semi-exports-in-august-up-209-yoy-2026-09/) ⭐️ 7.0/10
-
-据韩国产业通商资源部数据，韩国 8 月半导体出口达创纪录的 466.5 亿美元，同比增长 209%，占该国 982.5 亿美元总出口额的 47.5%。 这一惊人的增长凸显了韩国在全球 AI 半导体供应链中的核心地位，得益于三星电子和 SK 海力士在存储芯片和高带宽内存（HBM）领域的统治地位。这一激增反映了更广泛的 AI 基础设施热潮正在重塑全球贸易格局，并将存储半导体提升到具有战略意义的关键商品高度。 目前半导体已占韩国总出口的近一半，表明该国经济高度集中于单一行业，存在显著的依赖风险。209%的同比增幅可能是存储芯片出货量激增、AI 驱动 HBM 需求推升价格以及去年同期基数较低等多重因素共同作用的结果。
-
-rss · Electronics Weekly · 9月7日 05:05
-
-**背景**: 韩国半导体产业以两大全球存储巨头——三星电子和 SK 海力士——为核心，两者在 DRAM、NAND 闪存和高带宽内存（HBM）市场占据主导份额。HBM 是英伟达 GPU 等 AI 加速器的关键组件，使韩国存储厂商在全球 AI 建设中不可或缺。韩国年初至今的总出口额已超过 7090 亿美元，其中 AI 芯片需求的激增被认定为主要推动力。该国还在先进封装和代工产能方面大力投资，以保持竞争优势。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.importglobals.com/blog/ai-and-data-center-demand-a-new-era-for-south-koreas-chip-exports-20252026">AI and Data Center Demand: A New Era for South Korea's Chip Exports (2025–2026)</a></li>
-<li><a href="https://seoulvision2030.com/dashboards/semiconductor-tracker/">Semiconductor Tracker — Global Memory Market and Korean Chip ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#trade`, `#Korea`, `#industry-data`, `#exports`
-
----
-
-<a id="item-9"></a>
-## [GPT-6 Astra 用 24 小时自主通关《Portal》，成本仅 571 美元](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens) ⭐️ 6.5/10
-
-据报道，一位 AI 爱好者使用 OpenAI 的 GPT-6 Astra 模型自主通关了 Valve 的 3D 解谜游戏《Portal》，耗时约 24 小时，token 成本为 571 美元。 这次展示凸显了通用 AI 智能体在交互式 3D 环境中执行长时序、多步骤任务能力的提升，是智能体 AI 超越聊天交互的重要基准。它表明前沿模型在持续推理和计算机使用方面越来越强，对软件测试、机器人技术和游戏 AI 研究等领域的自动化具有重要意义。 571 美元仅包括 24 小时运行期间的 token 使用费用，不含开发、基础设施或微调等成本。GPT-6 Astra 被 OpenAI 描述为其最强大的模型，专门为复杂推理、编程和计算机使用而构建——这些能力直接适用于自主解读游戏画面、导航空间谜题和执行连续动作。
-
-rss · Tom's Hardware · 9月7日 13:25
-
-**背景**: 《Portal》是 Valve 开发的第一人称 3D 解谜游戏，以需要空间推理和利用传送枪进行创造性解题而闻名。能够自主玩电子游戏的 AI 智能体已成为评估通用智能的重要基准；NVIDIA 最近发布了 NitroGen，一个能自主游玩超过 1000 款游戏的开源模型，表明通用游戏 AI 是行业大趋势。GPT-6 Astra 是 OpenAI 最新的旗舰模型，被定位为其在计算机使用和编程等端到端推理任务上最强大的系统。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra: A new generation of intelligence | OpenAI</a></li>
-<li><a href="https://developers.openai.com/api/docs/models/gpt-6-astra">GPT-6 Astra Model | OpenAI API</a></li>
-<li><a href="https://gameriv.com/nvidia-nitrogen-open-source-ai-that-plays-1000-games-for-you/">NVIDIA NitroGen: Open-Source AI That Plays 1000+ Games for ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#OpenAI`, `#gaming`, `#AI-agents`, `#GPT-6`
+**标签**: `#arm`, `#neoverse`, `#data-center`, `#server-cpu`, `#tsmc`
 
 ---
 
 <a id="item-10"></a>
-## [DLSS 5 据报导致 RTX 5090 功耗超 600W，16 针接口熔毁](https://www.tomshardware.com/pc-components/gpus/enthusiast-says-dlss-5-pushed-rtx-5090-past-600w-and-melted-the-16-pin-connector-nvidias-neural-rendering-tech-adds-up-to-50-percent-more-power-draw-in-testing) ⭐️ 6.5/10
+## [Imec 展示 NbTiN 约瑟夫森结集成电路，密度达 380 万结/cm²](https://www.electronicsweekly.com/news/business/jj-ic-has-3-8m-junctions-per-cm2-2026-09/) ⭐️ 7.5/10
 
-据一位爱好者报告称，英伟达的 DLSS 5 神经渲染技术使 RTX 5090 的功耗增加了高达 50%，将总功耗推至 600W 以上，导致其 16 针（12V-2x6）电源接口熔毁。虽然 RTX 5090 显卡接口熔毁并非新问题，但这是首次有案例将故障直接归因于 DLSS 5 带来的额外功耗需求。 如果该说法经得起验证，它将揭示一个关键挑战：随着 AI 驱动的渲染功能成为下一代 GPU 的标准配置，电力传输系统可能需要重新设计电源接口、电源规格或神经渲染工作负载的调度方式。这也引发了一个疑问：现有的 RTX 5090 散热和供电子系统是否为管道后端生成式神经渲染的计算开销预留了足够的余量。 16 针 12VHPWR/12V-2x6 接口的额定功率为最高 600W，这意味着持续负载达到或超过该阈值时，接口将超出其规格设计，增加熔毁风险。功耗增加 50%的数据来自单一爱好者的测试，而非受控基准测试，因此在英伟达或独立评测机构发布系统性测量数据之前，应视为初步结果。
+在 2026 年应用超导会议（ASC）上，Imec 展示了一款三层金属（3ML）氮化铌钛（NbTiN）约瑟夫森结集成电路，设计密度达到每平方厘米 380 万个结，同时还演示了线宽缩至 30nm 的超导布线。 这一成果标志着超导电子学在集成度上的重要里程碑，表明基于 NbTiN 的工艺可实现与先进半导体节点相当的结密度，对于构建大规模超导处理器、量子计算控制电路以及超低功耗低温计算系统至关重要。 该电路采用三层金属互连层和 NbTiN 超导薄膜，布线线宽已达 30nm。但公告中未提供晶圆良率、结一致性、临界电流可重复性或在低温环境下运行性能等数据。
 
-rss · Tom's Hardware · 9月7日 10:00
+rss · Electronics Weekly · 9月8日 05:14
 
-**背景**: DLSS（深度学习超级采样）是英伟达基于 AI 的画质提升和帧生成技术。DLSS 5 是一次重大进化：它不再仅仅重建或提升现有渲染帧的画质，而是通过 3D 引导的神经渲染来生成逼真的光照和外观效果，将生成式 AI 置于渲染管线的最终阶段。RTX 5090 是英伟达的旗舰消费级 GPU，以极高的功耗需求著称。16 针 12VHPWR 接口（后来修订为 12V-2x6）随 RTX 4090 一同推出，旨在通过单根线缆传输更高功率，但自发布以来一直饱受熔毁事件困扰，通常与插入不当、接触不良或持续负载接近 600W 上限有关。
+**背景**: 约瑟夫森结是一种量子力学器件，库珀对通过两超导体之间的薄势垒进行隧穿，是超导数字逻辑、SQUID 磁强计以及量子比特控制/读出电路的基本构成单元。氮化铌钛（NbTiN）是一种难熔超导材料，具有相对较高的临界温度、良好的薄膜沉积兼容性以及在严苛低温环境下的稳定性，是可扩展超导集成电路制造的有力候选。通过多层金属化实现高结密度类似于 CMOS 工艺中的后段制程（BEOL）缩放，被视为将超导电子学从小规模演示推向 VLSI 级系统的关键。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wccftech.com/roundup/nvidia-rtx-5090-16-pin-connector-melting-issues-tracker/">NVIDIA RTX 5090 Connector Melting: Why It Happens, Incident ...</a></li>
-<li><a href="https://research.nvidia.com/labs/adlr/DLSS5/">DLSS 5: Generative Neural Rendering - NVIDIA ADLR</a></li>
+<li><a href="https://www.innovationnewsnetwork.com/imec-debuts-world-first-nbtin-circuits-and-30nm-interconnects-for-scalable-superconducting-technology/73712/">Imec debuts world-first NbTiN circuits and 30nm interconnects ...</a></li>
+<li><a href="https://www.electronicsforu.com/news/superconducting-circuits-reach-record-density">Superconducting Circuits Reach Record Density</a></li>
+<li><a href="https://www.eeherald.com/section/news/p1788773027444nwn2imecreportsn">Imec Reports NbTiN Josephson Junction Circuits at 3.8 Million ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#nvidia`, `#dlss-5`, `#rtx-5090`, `#hardware-failure`, `#gpu-power-consumption`
+**标签**: `#Josephson Junctions`, `#Superconducting Electronics`, `#NbTiN`, `#Integrated Circuits`, `#Semiconductor Manufacturing`
 
 ---
 
 <a id="item-11"></a>
-## [我破解了 90 年代某证书颁发机构的密钥](https://mcpherrin.ca/2026/09/07/rsa.html) ⭐️ 6.0/10
+## [小鼠实验显示 GLP-1 减肥药或有助于延缓衰老](https://www.solidot.org/story?sid=85314) ⭐️ 7.3/10
 
-作者使用消费级硬件成功分解了 1990 年代某证书颁发机构所使用的 512 位 RSA 密钥，凸显了曾经安全的密码学标准在如今已可被破解的问题。
+小鼠研究表明，司美格鲁肽（GLP-1 类减肥药）能使老年雌性小鼠的寿命延长 12%，并改善与衰老相关的生物标志物，其效果超出了单纯热量限制所能解释的范围。
 
-hackernews · ahlCVA · 9月8日 01:16 · [社区讨论](https://news.ycombinator.com/item?id=49604637)
+rss · Solidot · 9月8日 06:33
 
-**标签**: `#cryptography`, `#rsa`, `#security`, `#reverse-engineering`, `#historical-analysis`
+**标签**: `#GLP-1`, `#semaglutide`, `#aging-research`, `#longevity`, `#biomedical-research`
 
 ---
 
 <a id="item-12"></a>
-## [见证洛杉矶一砖一瓦的建造历程（1880–2026）](https://lax-skyline.parcelscope.net/) ⭐️ 6.0/10
+## [Google DeepMind 发布 AlphaGenome Atlas，覆盖 90 亿基因组变异](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) ⭐️ 7.0/10
 
-这是一幅交互式延时可视化作品，基于县税务评估员的地块记录数据，展示洛杉矶各地建筑从 1880 年到 2026 年的建造过程。
+Google DeepMind 发布了 AlphaGenome Atlas，这是一个目录和接口，提供对人类基因组中全部 90 亿种可能的单核苷酸变异的分子效应预测和 AVI（聚合变异影响）评分。Atlas 基于此前在 Nature 发表的 AlphaGenome 模型构建，为研究人员提供统一的查询接口，可访问 7,000 多个基因组轨道上的变异效应预测。 此次发布使大规模 AI 驱动的变异效应预测对广大研究人员开放，可能加速功能基因组学和罕见病研究领域的发现。然而，其实际价值在很大程度上取决于底层模型的预测是否值得信赖用于临床或研究级别的决策，这也是社区正在积极讨论的问题。 AlphaGenome 可处理 100 万个 DNA 碱基对，在约一秒钟内预测 7,000 多个基因组轨道上的变异效应，并在 26 个变异效应预测基准测试中的 25 个上优于专用模型。DeepMind 已明确表示 AlphaGenome 并非为个人基因组预测而设计或验证，这意味着不应通过该接口直接解读 23andMe 等工具的原始数据用于个人健康评估。
 
-hackernews · rustywasm · 9月7日 18:52 · [社区讨论](https://news.ycombinator.com/item?id=49601655)
+hackernews · utiiiD · 9月8日 14:55 · [社区讨论](https://news.ycombinator.com/item?id=49611251)
 
-**标签**: `#data-visualization`, `#urban-planning`, `#geospatial`, `#los-angeles`, `#housing-policy`
+**背景**: 变异效应预测（VEP）是基因组医学的核心挑战：确定 DNA 中单个碱基的变化如何影响分子过程、蛋白质功能，并最终影响疾病风险。该领域现有工具包括 DeepMind 开发的 AlphaMissense、CADD、SIFT、REVEL 和 SpliceAI 等，各自专注于变异解读的不同方面。AlphaGenome 是一个更为通用的模型，旨在同时预测广泛基因组检测中的效应，代表了基因组学从狭窄的专用预测器向全面的基础模型式方法的转变。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/">AlphaGenome Atlas: Molecular predictions for 9 Billion human ...</a></li>
+<li><a href="https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/">AlphaGenome: AI for better understanding the genome</a></li>
+<li><a href="https://rewire.it/blog/alphagenome-variant-effect-prediction/">AlphaGenome: Variant Effect Prediction | rewire.it</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区情绪明显带有批判性和实质性。评论者指出，这本质上是对已有 Nature 论文的缓存/接口层，而非新的科学成果，且博客文章未讨论用户是否应该信任这些预测。一位评论者引用了 Katie Pollard 在 ISMB 会议上的报告，认为仅靠现有的人类变异数据不足以训练可靠的变异效应预测器，需要借助跨物种比较数据和大规模实验室诱变实验才能取得真正进展。另一些人则指出了整合 Google/DeepMind 资源对非程序员生物学家的实用价值，同时也警告不要过度依赖 AI 生成的解读结果。
+
+**标签**: `#genomics`, `#deepmind`, `#biology`, `#ai-applications`, `#variant-prediction`
 
 ---
 
 <a id="item-13"></a>
-## [加州理工学院数学马拉松——首个专注于研究级数学的黑客马拉松](https://mathathonchallenge.com/index.html) ⭐️ 6.0/10
+## [美国国土安全部"预测性警务"部门正在分析美国人的财务习惯](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/) ⭐️ 7.0/10
 
-加州理工学院的学生组织了一场据称是首个专注于研究级数学的黑客马拉松活动，利用大语言模型来攻克开放性数学难题。
+美国国土安全部拥有一个秘密的预测性警务部门，该部门分析美国人的财务记录，并利用自动车牌识别系统（ALPR）数据拦截车辆，而无需传统的犯罪活动嫌疑，这引发了严重的公民自由问题。
 
-hackernews · astroanax · 9月7日 09:26 · [社区讨论](https://news.ycombinator.com/item?id=49596055)
+hackernews · abraham · 9月8日 14:40 · [社区讨论](https://news.ycombinator.com/item?id=49610988)
 
-**标签**: `#hackathon`, `#mathematics`, `#LLM`, `#AI-research`, `#Caltech`
+**标签**: `#surveillance`, `#privacy`, `#predictive-policing`, `#civil-liberties`, `#government-AI`
 
 ---
 
 <a id="item-14"></a>
-## [DAC 2026 上的 AI 内存缺口](https://semiwiki.com/eda/372945-ai-memory-gap-at-dac-2026/) ⭐️ 6.0/10
+## [第二季度 DRAM 合约价格环比飙升 59.5%](https://www.electronicsweekly.com/news/business/q2-dram-contract-price-up-59-5-qoq-2026-09/) ⭐️ 7.0/10
 
-SemiWiki 报道了新思科技在 DAC 2026 上关于 AI 内存缺口的演讲，介绍了初创公司 TetraMem 和 ANAFLASH 为数据中心应用提供的新兴内存解决方案。
+据 TrendForce 报道，第二季度 DRAM 合约价格环比飙升 59.5%，推动季度 DRAM 营收达到约 1547.3 亿美元。供应商库存仍处于历史低位，额外供应正在买家之间进行选择性分配。 此次价格大幅飙升反映了内存市场严重的供需失衡，并可能波及整个科技供应链，推高 PC、智能手机、服务器以及 AI 基础设施等各类产品的成本。库存处于历史低位表明供应紧张可能持续，影响下游消费者和 OEM 厂商的产品定价与供应。 59.5%的环比涨幅是近年来内存周期中最陡峭的合约价格跳升之一，标志着市场从前几年的长期低迷急剧反转。额外供应的选择性分配表明供应商正优先服务关键战略客户，可能让较小的买家面临供应挤压。
 
-rss · SemiWiki · 9月7日 17:00
+rss · Electronics Weekly · 9月8日 05:10
 
-**标签**: `#semiconductors`, `#AI hardware`, `#memory technology`, `#DAC 2026`, `#Synopsys`
+**背景**: DRAM（动态随机存取内存）是计算机、智能手机和服务器使用的主要工作内存，在运行过程中充当处理器读写操作的临时存储。DRAM 市场按照供需周期性波动，合约价格由主要供应商（三星、SK 海力士、美光）和大宗买家协商确定，而现货价格则反映即时市场交易。TrendForce 是全球领先的科技行业市场情报公司，专门研究内存和半导体定价趋势，其季度报告被业界广泛用作基准。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.trendforce.com/">Global Market Intelligence & Consulting | TrendForce</a></li>
+<li><a href="https://supplyics.com/insights/market-intelligence/dram-spot-vs-contract-price-procurement-2026/">DRAM Spot Price vs. Contract Price: A 2026 Procurement Guide ...</a></li>
+<li><a href="https://siliconanalysts.com/analysis/dram-spot-price-signals-2026">DRAM Spot Price 2026: DDR4/DDR5 Spread & Cycle Signal</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DRAM`, `#semiconductors`, `#memory-market`, `#pricing`, `#supply-chain`
 
 ---
 
 <a id="item-15"></a>
-## [AI 加速芯片设计，但物理实现栈成为新瓶颈](https://semiwiki.com/eda/372881-when-design-gets-faster-the-bottleneck-moves-through-the-physical-stack/) ⭐️ 6.0/10
+## [MOD 制作者重制 DLSS 5 渲染管线，性能大幅提升](https://www.techpowerup.com/352476/modders-rework-dlss-5s-rendering-pipeline-for-a-big-performance-boost) ⭐️ 6.5/10
 
-SemiWiki 上一篇行业分析指出，AI 辅助的工程方法正在开始压缩芯片设计周期——加速架构探索、RTL 开发、验证和物理设计——这意味着半导体开发的下一个限制因素将从设计本身转移到物理实现和制造环节。 如果瓶颈确实沿着技术栈向下转移，EDA 厂商、代工厂和物理实现团队将面临越来越大的压力，需要在 RTL 层面的 AI 加速之外继续创新。这预示着整个半导体生态系统的研发优先级将重新分配，影响 EDA 工具路线图、设计服务商业模式以及先进制程芯片的上市时间。 文章将「tape-out」——即从最终设计交付给代工厂制造——视为 AI 正在以前所未有的速度趋近的边界，而「物理实现」（布局、签核、量产）仍然难以加速。值得注意的是，完整分析被付费墙挡住，具体的技术论点在公开内容中无法获取。
+MOD 制作者重新调整了 DLSS 5 的渲染管线顺序，将神经渲染提前到超采样之前执行，在 RTX 4080 上恢复了约 60%的性能损失。
 
-rss · SemiWiki · 9月7日 13:00
+rss · TechPowerUp News · 9月8日 16:32
 
-**背景**: Tape-out 是芯片设计定稿并送往晶圆代工厂进行制造的关键里程碑，标志着从设计到生产的过渡。RTL（寄存器传输级）设计是一种抽象层次，描述数据在硬件寄存器之间的流动以及施加在这些数据上的逻辑运算，介于高层系统规范和门级物理布局之间。电子设计自动化（EDA）工具是使现代数十亿晶体管芯片设计成为可能的软件基础设施，涵盖综合、验证、物理实现和签核等全流程。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Tape-out">Tape - out - Wikipedia</a></li>
-<li><a href="https://www.synopsys.com/glossary/what-is-register-transfer-level-design.html">What is Register-Transfer-Level (RTL) Design? | Synopsys</a></li>
-<li><a href="https://semiconductorx.com/semiconductor-eda.html">EDA Tools — Electronic Design Automation | SemiconductorX</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductor`, `#AI`, `#chip-design`, `#EDA`, `#physical-design`
+**标签**: `#DLSS`, `#NVIDIA`, `#GPU`, `#game-modding`, `#neural-rendering`
 
 ---
 
 <a id="item-16"></a>
-## [微冷却：边缘端智能体 AI 的关键使能技术](https://www.eetimes.com/why-microcooling-will-be-a-critical-enabler-of-agentic-ai/) ⭐️ 6.0/10
+## [模组作者用专用 DLSS 5 GPU 重振多 GPU 游戏，带来惊人帧率提升](https://www.techpowerup.com/352459/mod-revives-multi-gpu-gaming-with-dedicated-dlss-5-gpu-for-impressive-fps-gain) ⭐️ 6.5/10
 
-EE Times 发表文章指出，随着 AI 算力从数据中心向紧凑型边缘设备迁移，微冷却技术将成为维持智能体 AI 工作负载持续运行的关键，因为散热问题将成为性能瓶颈。 智能体 AI 系统执行连续的多步推理和工具调用，会产生持续的算力负载，在小型化硬件中容易引发热降频。若缺乏有效的微冷却方案，边缘端部署的智能体 AI 将面临性能下降、可靠性降低以及实际部署场景受限等问题。 IEEE Spectrum 的相关研究表明，基于微流体的冷却技术可将芯片温度降低多达 80%，同时 xMEMS 等公司正在开发面向智能手机、SSD 和 AI 眼镜的有源固态 µCooling 片上风扇方案，用于边缘设备的散热管理。
+一位模组制作者展示了一套双 GPU 配置方案，其中一张 RTX 5060 Ti 负责画面渲染，另一张专门处理 DLSS 5 神经渲染，让多 GPU 游戏的概念重获新生。
 
-rss · EE Times · 9月7日 13:19
+rss · TechPowerUp News · 9月8日 04:32
 
-**背景**: 智能体 AI（Agentic AI）指的是能够自主规划、使用工具、做出决策并适应环境以完成任务的 AI 系统，几乎无需人工干预。随着这类系统越来越多地部署在边缘端——如智能手机、可穿戴设备和物联网设备——而非集中式数据中心，它们必须在严格的功耗和散热预算下运行。当芯片温度过高时，会自动降低时钟频率以防止过热，即所谓的热降频，这会严重影响智能体 AI 所需的持续性能。微冷却是指微型化、通常集成在芯片内部的散热技术，例如微流控和固态微风扇，其散热效率远高于传统的被动散热片。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.eetimes.com/why-microcooling-will-be-a-critical-enabler-of-agentic-ai/">Why Microcooling Will Be a Critical Enabler of Agentic AI</a></li>
-<li><a href="https://spectrum.ieee.org/microfluidics-cooling-ai-chips-corintis">Microfluidics Enhances AI Chip Performance - IEEE Spectrum</a></li>
-<li><a href="https://xmems.com/µcooling-why-passive-cooling-cant-keep-up-with-edge-ai-hardware/">Why Passive Cooling Can't Keep Up with Edge AI Hardware</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI infrastructure`, `#thermal management`, `#agentic AI`, `#hardware engineering`, `#microcooling`
+**标签**: `#multi-gpu`, `#DLSS`, `#NVIDIA`, `#PC-gaming`, `#GPU-modding`
 
 ---
 
 <a id="item-17"></a>
-## [铠侠开发 CXL 连接 NAND 闪存，瞄准 AI 工作负载替代 DRAM](https://www.eetimes.com/kioxias-flash-for-dram-initiative-eyes-ai-workloads/) ⭐️ 6.0/10
+## [英特尔 10 月计划第三次 CPU 涨价 10%](https://www.techpowerup.com/352458/intel-set-to-raise-cpu-prices-by-another-10-in-october) ⭐️ 6.5/10
 
-铠侠在东京的一场技术简报会上展示了一款基于 XL-Flash 高速 NAND 闪存的 CXL（Compute Express Link）模块，朝着用闪存替代部分 AI 工作负载中 DRAM 的目标又迈进了一步。 随着 AI 计算需求导致 DRAM 消耗激增，内存成本与供应已成为关键瓶颈。如果基于 NAND 的替代方案可行，将有助于缓解 DRAM 短缺、降低基础设施成本，并重塑数据中心的内存分层架构。 该方案采用 XL-Flash——一种针对高速处理优化的低延迟专用 NAND 变体，通过开源标准 CXL 协议实现缓存一致性的 CPU 到内存扩展。由于 NAND 在本质上比 DRAM 更慢，其成败取决于软件和 CXL 感知的内存分层机制能否掩盖 AI 推理与训练工作负载中的延迟差距。
+据 DIGITIMES 报道，英特尔计划在 10 月再次将 PC CPU 价格上调 10%，这是其注重利润率战略的一部分，并可能导致终止低利润的 Small Core 产品线（面向工业 PC 和物联网的 Atom 和 Celeron 级别芯片）。 这是英特尔连续第三次涨价，标志着其商业模式正在发生结构性转变——在全球 PC 出货量预计将从 2.6 亿台降至 2027 年约 2.5 亿台的背景下，英特尔选择了利润率而非市场份额。 DIGITIMES 估计，如果英特尔能将 CPU 出货量推回到约 2 亿颗，其市场份额有望恢复至 78%左右；退出 Small Core 产品线可能为高通和联发科进入工业 PC 和物联网芯片市场打开大门，同时据报道英特尔还可能进行 5%–10%的额外裁员。
 
-rss · EE Times · 9月7日 08:01
+rss · TechPowerUp News · 9月8日 00:47
 
-**背景**: Compute Express Link（CXL）是一种基于 PCIe 之上的开放行业标准互连协议，可在数据中心系统中实现处理器、内存扩展设备和加速器之间的高速缓存一致性连接。DRAM 充当计算机的短期工作内存，而 NAND 闪存则提供 SSD 等长期存储。NAND 每 GB 成本远低于 DRAM，但延迟也高得多。XL-Flash 是铠侠推出的专用 NAND 产品，旨在缩小与 DRAM 之间的延迟差距，使其在内存分层应用中更具竞争力。用 NAND 作为内存层的概念并非全新，但 AI 对内存容量的巨大需求使其再次具有商业吸引力。
+**背景**: 英特尔的 Small Core 产品线由 Atom 和 Celeron 级别处理器组成——这些低功耗 x86 芯片广泛应用于工业 PC、物联网网关、嵌入式控制系统以及入门级笔记本电脑。它们通常用于工厂控制器、智能楼宇系统、网络零售终端和交通管理单元，这些市场英特尔历来占据领先地位，但利润率较薄。据报道推动这些决策的 50%毛利率目标反映了英特尔优先考虑盈利能力而非销量，从而重塑其与 AMD、高通和联发科在消费级和嵌入式细分市场的竞争定位。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.eetimes.com/kioxias-flash-for-dram-initiative-eyes-ai-workloads/">Kioxia's Flash -for- DRAM Initiative Eyes AI Workloads - EE Times</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Compute_Express_Link">Compute Express Link - Wikipedia</a></li>
-<li><a href="https://www.news18.com/explainers/ai-is-eating-the-worlds-memory-chips-why-your-smartphones-laptops-and-cars-could-cost-more-shil-ws-el-10181026.html">AI Is Eating The World’s Memory Chips. Why Your Next... - News18</a></li>
+<li><a href="https://www.techtimes.com/articles/326980/20260908/intels-50-margin-rule-explains-every-cpu-price-hike-every-product-cut-coming-after.htm">Intel 's 50% Margin Rule Explains Every CPU Price Hike: And Every...</a></li>
+<li><a href="https://www.techtimes.com/articles/326937/20260908/intel-plans-third-straight-cpu-price-hike-small-core-exit-hands-industrial-market-arm.htm">Intel Plans Third Straight CPU Price Hike as Small Core Exit Hands...</a></li>
+<li><a href="https://wccftech.com/intel-expected-to-raise-its-cpu-prices-by-up-to-10-in-early-october/">Intel Expected To Raise Its CPU Prices By Up To 10% In Early...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI infrastructure`, `#memory technology`, `#CXL`, `#NAND flash`, `#Kioxia`
+**标签**: `#Intel`, `#CPU pricing`, `#semiconductor industry`, `#PC market`, `#hardware business`
 
 ---
 
 <a id="item-18"></a>
-## [Everspin 与 Teledyne HiRel 合作拓展军用 MRAM 市场](https://www.electronicsweekly.com/news/business/everspin-technologies-partners-with-teledyne-hirel-for-mram-in-mil-aero-2026-09/) ⭐️ 6.0/10
+## [SK 海力士加速 1c DRAM 量产，预计 2027 年 Q1 成为主导制程](https://www.techpowerup.com/352445/sk-hynix-boosts-leading-edge-1c-dram-production-to-a-dominant-position) ⭐️ 6.5/10
 
-Everspin Technologies 宣布与 Teledyne HiRel Semiconductors 建立战略合作伙伴关系，Everspin 的 256Mb Persyst 自旋转移力矩 MRAM（STT-MRAM）将集成到 Teledyne HiRel 的面向航空航天和国防客户的存储产品中。 该合作使作为少数商用 MRAM 供应商之一的 Everspin 获得了进入高可靠性军用航空市场的更强渠道，该市场要求存储器件能耐受辐射、极端温度和振动。这一合作也反映了 STT-MRAM 作为关键任务嵌入式系统中 SRAM 和 NOR 闪存的替代或补充方案，其应用势头正在不断增强。 所涉及的具体产品是 Everspin 的 256Mb Persyst STT-MRAM，这是一种无需供电即可保留数据的非易失性存储器，具备适用于嵌入式应用的速度和耐久性。Teledyne HiRel 是 Teledyne Aerospace & Defense Electronics 旗下部门，专注于为航空航天、国防、太空和工业市场提供高可靠性半导体解决方案。
+SK 海力士正在迅速将 DRAM 产能转向第六代 10nm 级 1c 制程，预计其占比将从 2026 年 Q1 的 10%提升至 2027 年 Q1 的 35%，正式超越 1b 制程（33%）成为公司最主导的制程节点。 这一量产升级意义重大，因为 1c 制程将成为 SK 海力士下一代 AI 存储产品（包括 HBM4E 和 LPDDR6）的基础，标志着公司已准备好满足由 AI 加速器和数据中心工作负载驱动的高带宽内存激增需求。 与逻辑制程不同，DRAM 工艺代次采用字母命名（1x→1y→1z→1a→1b→1c），均归入 10nm 级别而非以精确纳米数标示；1c 制程实际设计规则缩小至约 11–12nm，并使用 5–6 层 EUV 光刻，相比之下 1b 制程为 12–13nm 且仅约 4 层 EUV。
 
-rss · Electronics Weekly · 9月7日 09:09
+rss · TechPowerUp News · 9月7日 17:22
 
-**背景**: STT-MRAM（自旋转移力矩磁阻随机存取存储器）是一种利用电子自旋而非电荷来存储数据的非易失性存储技术。它通常被认为兼具 SRAM 的速度、接近 DRAM 的密度以及闪存的非易失性，因此在数据必须在断电或辐射事件后仍能保留的应用中具有吸引力。高可靠性（HiRel）半导体是专为军事、航空航天和太空系统等严苛环境而设计、筛选和认证的器件，在这些场景中故障是不可接受的。
+**背景**: DRAM 制造商以字母（1x、1y、1z、1a、1b、1c）命名其工艺节点，因为他们早已脱离严格按纳米数计数的时代；每个字母代表在 10nm 级别范围内具有更密集单元间距和逐步效率提升的一代。EUV 光刻技术使用 13.5nm 的极紫外光（由激光脉冲锡等离子体产生，由 ASML 独家供应），已成为推动 DRAM 进一步微缩的关键，每一代通常会增加更多 EUV 层数。SK 海力士的 1c 是首个商用部署的第六代 10nm 级 DRAM，将用于制造 HBM4E、LPDDR6 和 DDR5 产品，而较旧的 1b 制程则继续服务于 DDR5、LPDDR5X、HBM3E 和 HBM4。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.businesswire.com/news/home/20260902533597/en/Everspin-Technologies-and-Teledyne-HiRel-Semiconductors-Partner-to-Accelerate-MRAM-Adoption-in-Aerospace-and-Defense-Applications">Everspin Technologies and Teledyne HiRel Semiconductors Partner...</a></li>
-<li><a href="https://www.nature.com/articles/s44287-024-00111-z">Spin-transfer torque magnetoresistive random access memory ...</a></li>
-<li><a href="https://www.rfwireless-world.com/terminology/mram-vs-sram-vs-dram">MRAM vs SRAM vs DRAM: A Detailed Comparison - RF Wireless World</a></li>
+<li><a href="https://cyberraiden.wordpress.com/2026/08/23/sk-hynixs-1c-dram-node-the-companys-sixth-generation-10-nm-class-process-technology/">SK Hynix’s 1c DRAM Node: The company’s sixth-Generation 10 nm ...</a></li>
+<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
 
 </ul>
 </details>
 
-**标签**: `#MRAM`, `#semiconductors`, `#mil-aero`, `#memory-technology`, `#partnership`
+**标签**: `#DRAM`, `#semiconductors`, `#SK hynix`, `#memory technology`, `#EUV`
 
 ---
 
 <a id="item-19"></a>
-## [IQE 上半年营收同比增长 43%，业绩表现强劲](https://www.electronicsweekly.com/news/business/strong-h1-for-iqe-2026-09/) ⭐️ 6.0/10
+## [在 RTX 5090 及更高端硬件上对 Qwen 3.8 27B 进行基准测试——仅靠显存容量无法克服严重的软件和推理引擎瓶颈](https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks) ⭐️ 6.5/10
 
-IQE 公布了强劲的上半年业绩，营收同比增长 43%至 6460 万英镑，推动调整后 EBITDA 利润率实现显著跃升。 作为化合物半导体外延片的主要供应商，IQE 的业绩是 5G 基础设施、光电子、先进传感器和功率电子等关键增长市场需求的风向标。营收的强劲增长表明这些领域上游需求旺盛，也标志着该公司近年来盈利能力挑战的财务状况正在改善。 营收 6460 万英镑以英镑计价，反映了 IQE 在英国上市及总部位于威尔士卡迪夫的事实。调整后 EBITDA 剔除了非经常性项目、股权激励费用及其他非现金支出，以更清晰地反映经营性盈利能力。
+对 Qwen 3.8 27B 在 RTX 5090 及其他硬件上的基准测试分析，指出由于软件和推理引擎瓶颈的存在，仅靠显存容量远远不够。
 
-rss · Electronics Weekly · 9月7日 07:21
+rss · Tom's Hardware · 9月8日 13:30
 
-**背景**: IQE 是一家总部位于英国的化合物半导体外延片制造商，产品基于砷化镓（GaAs）和氮化镓（GaN）等材料。与硅等元素半导体不同，化合物半导体由两种或多种化学元素组成，在高频、光电子和高功率应用方面具有优势，可实现高效发光（LED、激光器）和高频信号处理（5G 射频放大器）等功能。调整后 EBITDA 是一种盈利能力指标，剔除了利息、税费、折旧、摊销以及额外的非经常性或非经营性项目，提供了一种标准化的经营业绩衡量方式。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization">Earnings before interest , taxes , depreciation and... - Wikipedia</a></li>
-<li><a href="https://www.sciencedirect.com/topics/materials-science/compound-semiconductor">Compound Semiconductor - an overview | ScienceDirect Topics</a></li>
-<li><a href="https://scienceinsights.org/what-is-a-compound-semiconductor-definition-and-uses/">What Is a Compound Semiconductor? Definition and Uses</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#financial results`, `#revenue growth`, `#profitability`, `#electronics industry`
+**标签**: `#LLM`, `#Qwen`, `#GPU-benchmarking`, `#RTX-5090`, `#local-inference`
 
 ---
 
 <a id="item-20"></a>
-## [7 月全球半导体销售额达 1468 亿美元，同比增长 135%](https://www.electronicsweekly.com/news/business/july-semi-sales-up-135-yoy-2026-09/) ⭐️ 6.0/10
+## [NEC 悄然退出量子计算硬件开发](https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies) ⭐️ 6.5/10
 
-7 月全球半导体销售额达到 1468 亿美元，环比 6 月的 1379 亿美元增长 6.4%，相比 2025 年 7 月的 625 亿美元同比增长高达 135.1%。 该数据标志着半导体行业的强劲复苏，但异常的同比增长数字很大程度上反映了对 2025 年中期低基数的反弹，而非纯粹的有机增长，使其成为追踪行业周期动态的重要参考指标。 2025 年 7 月 625 亿美元的低基数对于全球半导体销售而言显得异常偏低，表明当时市场存在严重下行或供应链中断，从而放大了 135%同比增长的表面数字。6.4%的环比增长更能代表当前实际需求的趋势。
+据报道，NEC 已悄然停止了其量子计算硬件开发工作。但该公司表示将继续评估量子技术的实际应用，并推进其产业化进程。 NEC 的退出表明量子计算硬件市场可能出现整合趋势，目前该领域由 IBM、Google 和 IonQ 等少数主要厂商主导。此次退出凸显了量子硬件商业化面临的巨额资本和技术壁垒，并暗示一些传统科技公司正在转向软件、应用和咨询服务等方向，而非在硬件赛道中竞争。 NEC 虽然不是领先的量子硬件供应商，但公司在量子研究方面有着悠久的历史，包括早期对超导量子比特技术的研究。其继续探索实际应用和产业化的决定表明，NEC 正在战略性地转向量子技术集成商或解决方案提供商，而非硬件制造商。
 
-rss · Electronics Weekly · 9月7日 05:13
+rss · Tom's Hardware · 9月8日 11:45
 
-**背景**: 月度半导体销售数据由半导体行业协会（SIA）等机构采用滚动三个月平均值来统计，以平滑波动。半导体市场本质上具有周期性，其繁荣与萧条受消费电子需求、数据中心建设、汽车电子采用以及地缘政治供应链变化等因素驱动。135%的同比增长非同寻常，通常只有在与严重低迷的基期进行比较时才会出现，例如重大市场调整或行业特定危机期间。
+**背景**: 量子计算硬件涵盖多种相互竞争的技术路线，包括超导电路、离子阱系统、光量子方法、中性原子架构以及硅自旋量子比特——每种方法在可扩展性、错误率和相干时间方面各有权衡。量子计算的产业化指的是将量子系统从实验室原型转变为可集成到实际工作流程中的商业化产品的过程。IBM、Google、IonQ 和 Rigetti 等主要行业参与者已在硬件开发上投入了数十亿美元，目前已有超过 300 家公司正在将量子能力嵌入实际应用中。NEC 的退出表明，即使是成熟企业在这一资本密集和技术要求极高的领域竞争时也面临巨大困难。
 
-**标签**: `#semiconductors`, `#industry-news`, `#market-data`, `#electronics`, `#sales-report`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://quantumoutpost.com/tutorials/20-quantum-hardware-compared/">Quantum Hardware Compared: Superconducting vs Trapped-Ion vs ...</a></li>
+<li><a href="https://postquantum.com/quantum-computing-modalities/">Deep Dive: Quantum Computing Modalities</a></li>
+<li><a href="https://www.ainvest.com/news/quantum-computing-industrialization-era-semiconductor-hpc-firms-2511/">Quantum Computing 's Industrialization : A New Era for...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#quantum-computing`, `#NEC`, `#industry-news`, `#hardware`, `#tech-industry`
 
 ---
