@@ -5,362 +5,397 @@ date: 2026-09-09
 lang: zh
 ---
 
-> 从 95 条内容中筛选出 20 条重要资讯。
+> 从 80 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [(新闻稿)台积电与阿斯麦宣布引领业界向大尺寸光掩模过渡以支持高数值孔径极紫外光刻技术](#item-1) ⭐️ 8.5/10
-2. [纳维-斯托克斯——特里斯坦·巴克马斯特 (pdf)](#item-2) ⭐️ 8.0/10
-3. [DeepMind 发布 AlphaGenome Atlas，预测全基因组变异效应](#item-3) ⭐️ 8.0/10
-4. [三星 HBM 基础裸片演化为逻辑富集的计算层](#item-4) ⭐️ 8.0/10
-5. [NVIDIA Vera：为智能体 AI 重新打造 CPU](#item-5) ⭐️ 8.0/10
-6. [高 NA EUV 光刻技术从研发阶段迈入量产](#item-6) ⭐️ 8.0/10
-7. [ASML 与台积电的 12 英寸光罩计划：技术意义](#item-7) ⭐️ 8.0/10
-8. [ASML 与台积电将主导向 12 英寸光罩过渡，应用于高数值孔径极紫外光刻](#item-8) ⭐️ 8.0/10
-9. [Imec 展示密度达 380 万个/万米的 NbTiN 超导电路](#item-9) ⭐️ 8.0/10
-10. [Intel 代工突破 100 万片 High-NA EUV 晶圆里程碑](#item-10) ⭐️ 7.5/10
-11. [长鑫存储与长江存储提前囤积 ASML DUV 光刻设备以应对出口禁令](#item-11) ⭐️ 7.5/10
-12. [台积电计划于 2030 年开始采用高数值孔径 EUV 光刻技术](#item-12) ⭐️ 7.5/10
-13. [在 RTX 5090 及更高配置上对 Qwen 3.8 27B 进行基准测试 — 仅靠显存容量无法克服严重的软件和推理引擎瓶颈](#item-13) ⭐️ 7.5/10
-14. [《任天堂明星大乱斗 DX》历时六年多完成完全反编译](#item-14) ⭐️ 7.5/10
-15. [Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet — attackers claim they’re the ‘good guys’ and will return funds after the vulnerability is fixed](#item-15) ⭐️ 7.5/10
-16. [谷歌绘制出成年雄性果蝇完整大脑及中枢神经系统，软件工程师立刻让它运行《毁灭战士》——这款由 AI 驱动的包含逾 16.6 万个神经元的三维模型还能运行《超级马里奥 64》](#item-16) ⭐️ 7.5/10
-17. [比利时华裔半导体研究员因涉嫌氮化镓商业机密盗窃被捕——检方怀疑 BelGaN 内部人员曾于公司倒闭前将芯片知识产权转移至中国](#item-17) ⭐️ 7.5/10
-18. [英特尔突破 100 万片 High-NA EUV 晶圆，率先采用 6×12 光罩](#item-18) ⭐️ 7.5/10
-19. [GLP-1 药物司美格鲁肽在小鼠实验中延长寿命](#item-19) ⭐️ 7.3/10
-20. [大语言模型通过自适应探索发展出新型社会偏见](#item-20) ⭐️ 7.0/10
+1. [三星计划在 HBM 基础裸片上集成逻辑电路](#item-1) ⭐️ 8.0/10
+2. [NVIDIA Vera CPU：专为智能体 AI 打造](#item-2) ⭐️ 8.0/10
+3. [安道亚与伊萨尔航天实现欧洲首次轨道发射](#item-3) ⭐️ 8.0/10
+4. [Mistral AI 完成 €30 亿 D 轮融资，估值超 €210 亿](#item-4) ⭐️ 8.0/10
+5. [CXMT HBM3E 良率据称仅 25%，因 TSV 技术尚不成熟](#item-5) ⭐️ 7.5/10
+6. [MOD 玩家为 RTX 30 系列显卡解锁 DLSS 多帧生成功能](#item-6) ⭐️ 7.5/10
+7. [OpenAI 考虑从三星和台积电双源采购 AI 芯片](#item-7) ⭐️ 7.5/10
+8. [研究员逆向破解臭名昭著的"震网"(Stuxnet)病毒源代码并发布至 GitHub——该攻击曾瞄准伊朗核设施，是首款造成实际物理破坏的同类软件](#item-8) ⭐️ 7.5/10
+9. [孕期记忆力下降背后的生物学机制](#item-9) ⭐️ 7.3/10
+10. [Tailwind Labs 在 AI 冲击下被 Shopify 收购](#item-10) ⭐️ 7.0/10
+11. [安全研究员曝光 Google Ads 成为恶意软件分发渠道](#item-11) ⭐️ 7.0/10
+12. [Muse – Meta 的个人 AI 助手](#item-12) ⭐️ 7.0/10
+13. [量子计算的规模化正成为控制电子学难题](#item-13) ⭐️ 7.0/10
+14. [英特尔支持的 Hypertune 自动超频工具声称可提升高达 60%的 FPS](#item-14) ⭐️ 6.5/10
+15. [OpenAI 纳维-斯托克斯声明引发抄袭与职业威胁争议](#item-15) ⭐️ 6.5/10
+16. [Claude，把"加入购物车"按钮改成蓝色](#item-16) ⭐️ 6.0/10
+17. [Desert Ant Labs 发布免费设备端任务专用 AI 模型](#item-17) ⭐️ 6.0/10
+18. [DeepSeek V4.1 Flash 自动路由付费 Pro 请求引发争议](#item-18) ⭐️ 6.0/10
+19. [集邦咨询称，2026 年第二季全球晶圆代工营收逼近 534.9 亿美元，中芯国际与三星市占率差距持续缩小](#item-19) ⭐️ 6.0/10
+20. [弥合面向实用量子计算的高性能计算软件鸿沟](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [(新闻稿)台积电与阿斯麦宣布引领业界向大尺寸光掩模过渡以支持高数值孔径极紫外光刻技术](https://www.techpowerup.com/352471/tsmc-and-asml-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv) ⭐️ 8.5/10
+## [三星计划在 HBM 基础裸片上集成逻辑电路](https://semiwiki.com/events/372843-372843/) ⭐️ 8.0/10
 
-台积电与阿斯麦宣布展开合作,推动半导体行业从 6 英寸光掩模格式向 12 英寸格式过渡,以应用于高数值孔径极紫外(EUV)光刻技术,从而提高生产效率并降低芯片制造成本。
+三星在 Hot Chips 2026 大会上宣布，计划将先进逻辑工艺集成到 HBM 堆叠的基础裸片（base die）中，使其从连接堆叠 DRAM 与处理器的简单互连层，转变为具备计算能力的基板。该演讲题为"HBM Base Die: How HBM Will Evolve Using Advanced Logic Processes"，标志着内存与计算融合趋势的进一步深化。 这一架构转变直接针对冯·诺依曼架构中著名的"内存墙"瓶颈，即内存与处理器之间的数据搬运限制了整体性能并增加能耗。通过将逻辑电路嵌入内存基础裸片，GPU、TPU 等 AI 加速器有望在带宽、延迟和能效方面获得显著提升，从而重塑 AI 时代的内存层次结构。 传统 HBM 堆叠由最多 12 层垂直堆叠的 DRAM 裸片（HBM3e）加上一颗基础逻辑裸片组成；三星的方案将把这颗基础裸片从被动布线转变为主动计算。HBM 相比 DDR5 价格更高，但仍是当前 AI 工作负载的主导内存选择，因此基础裸片上的任何架构创新对 AI 加速器的路线图都具有非同寻常的意义。
 
-rss · TechPowerUp News · 9月8日 15:23
+rss · SemiWiki · 9月8日 21:00
 
-**标签**: `#semiconductors`, `#EUV-lithography`, `#TSMC`, `#ASML`, `#chip-manufacturing`
+**背景**: HBM（High Bandwidth Memory，高带宽内存）是一种 3D 堆叠 DRAM 接口，最初由三星、AMD 和 SK 海力士共同开发，通过将多颗 DRAM 裸片垂直堆叠并借助硅通孔（TSV）连接到基础逻辑裸片，实现远高于传统内存的带宽。Hot Chips 是每年举办的顶级半导体研讨会，领先的半导体公司会在此展示 CPU、GPU、AI 加速器以及内存子系统的架构与设计创新。所谓"内存墙"是指处理器速度与内存速度之间日益扩大的差距，而存内计算和近内存计算架构正是通过减少计算单元与存储单元之间的数据搬运来缓解这一瓶颈。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://manishklach.github.io/writings/hbm-how-it-is-actually-built.html">HBM Explained: How High Bandwidth Memory Is Actually Built ...</a></li>
+<li><a href="https://www.hotchips.org/">Hot Chips</a></li>
+
+</ul>
+</details>
+
+**标签**: `#HBM`, `#memory-architecture`, `#Samsung`, `#HotChips2026`, `#in-memory-computing`
 
 ---
 
 <a id="item-2"></a>
-## [纳维-斯托克斯——特里斯坦·巴克马斯特 (pdf)](https://cims.nyu.edu/~tristanb/statement.pdf) ⭐️ 8.0/10
+## [NVIDIA Vera CPU：专为智能体 AI 打造](https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/) ⭐️ 8.0/10
 
-数学家特里斯坦·巴克马斯特声称，他在纳维-斯托克斯相关问题上取得进展后曾受到 OpenAI 的施压，并认为自己的洞见可能影响了对方发表的研究成果，由此引发了对 AI 训练使用学术成果的严重质疑。
-
-hackernews · procedurecall · 9月8日 05:42 · [社区讨论](https://news.ycombinator.com/item?id=49605915)
-
-**标签**: `#ai-ethics`, `#openai`, `#academic-integrity`, `#mathematics`, `#navier-stokes`
-
----
-
-<a id="item-3"></a>
-## [DeepMind 发布 AlphaGenome Atlas，预测全基因组变异效应](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) ⭐️ 8.0/10
-
-Google DeepMind 发布了 AlphaGenome Atlas，这是一个基于 AI 的数据库，可预测整个人类基因组中约 90 亿个单核苷酸变异的分子效应及 AVI 评分。该图谱建立在 AlphaGenome 序列到功能模型之上，已通过 DeepMind 网站公开提供访问。 通过对每一种可能的单字母 DNA 变化提供预测，AlphaGenome Atlas 为研究人员提供了全面的参考，用以解读在患者中发现的遗传变异，从而加速疾病基因发现、罕见病诊断以及药物靶点鉴定。它使此前需要昂贵且耗时的实验室实验才能获得的大规模功能基因组学数据变得人人可及。 该图谱采用序列到功能的深度学习架构，以 DNA 序列作为输入，预测来自细胞系和组织实验数据的全基因组检测轨道。其底层 AlphaGenome 模型于 2026 年初在 Nature 论文中详细描述，而图谱层则通过预计算的预测（包括非编码区以及编码区）对其进行了补充。
-
-hackernews · utiiiD · 9月8日 14:55 · [社区讨论](https://news.ycombinator.com/item?id=49611251)
-
-**背景**: 单核苷酸变异（SNV）是个体之间最常见的遗传差异类型，理解其功能影响是人类遗传学的核心挑战。变异效应预测（VEP）旨在估计给定 DNA 变化是否可能有害、无害或具有调控后果，对于解读临床基因检测至关重要。像 AlphaGenome 这样的序列到功能模型从大规模实验数据集（如 ENCODE 和 GTEx）中学习，这些数据集测量了全基因组的分子活性，使模型能够在无需直接进行湿实验测试的情况下预测突变如何改变基因调控、剪接以及其他细胞过程。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/">AlphaGenome Atlas: Molecular predictions for 9 Billion human ...</a></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">Introducing AlphaGenome Atlas - The Keyword</a></li>
-<li><a href="https://www.nature.com/articles/s41586-025-10014-0">Advancing regulatory variant effect prediction with AlphaGenome | Nature</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区反应总体积极且具有技术深度。一位评论者指出该模型覆盖了非编码 DNA，理论上应包括启动子序列及其共识基序，并询问是否提供定量转录速率预测。另一位用户分享了教程视频，并澄清访问 Atlas 无需填写真实的机构归属。多位用户提出了实际应用问题，例如该工具能否与消费级基因分型数据（如 23andMe）结合以寻找致病突变；还有评论者链接到一项相关 biorxiv 研究，该研究在简单病毒上执行了类似的穷举式单核苷酸诱变实验，构成了有价值的现实类比。
-
-**标签**: `#genomics`, `#deepmind`, `#AI`, `#computational-biology`, `#DNA-sequencing`
-
----
-
-<a id="item-4"></a>
-## [三星 HBM 基础裸片演化为逻辑富集的计算层](https://semiwiki.com/events/372843-372843/) ⭐️ 8.0/10
-
-在 Hot Chips 2026 大会上，三星发表题为"HBM 基础裸片：先进逻辑工艺如何推动 HBM 演进"的演讲，提出三阶段路线图，计划将 HBM 基础裸片从被动的通信层转变为采用先进制程（从 HBM4 开始采用 4nm 工艺）构建的逻辑富集组件。该路线图从面积回收与功能扩展（cHBM）逐步演进到完全集成、将 DRAM 直接堆叠在计算处理器之上的三维 zHBM。 这一向近内存计算和存内计算架构的转变，直接针对当今 AI 加速器面临的带宽瓶颈和能效瓶颈，有望降低在大模型训练和推理中占据功耗主导地位的数据搬运开销。如果三星能够成功落地，将可能重塑 GPU、TPU 及定制 XPU 与内存的集成方式，并影响与 SK 海力士和美光的竞争格局。 基础裸片传统上负责 DRAM 控制、PHY 接口以及通过硅通孔（TSV）进行电源分配；三星提议从 HBM4 开始将基础裸片转向 4nm 逻辑工艺，以回收硅面积、缩小接口电路，并承载此前由主机处理器处理的功能。MPGA（内存处理/峰值梯度阵列）功耗持续上升，即便能效不断提高，这正是三星主张在基础裸片中嵌入先进逻辑的依据。
-
-rss · SemiWiki · 9月8日 21:00
-
-**背景**: 高带宽存储器（HBM）将多颗 DRAM 裸片垂直堆叠在一块基础裸片之上，与主机处理器相连，提供远超 DDR 或 GDDR 的带宽且功耗更低。基础裸片历来是一层相对简单的逻辑层，负责控制信号、PHY（物理接口）电路、刷新操作以及基于 TSV 的电力传输。近内存计算（CNM）将处理逻辑置于存储阵列附近，而存内计算（CIM）则在存储单元内部直接执行计算——两者都旨在降低处理器与 DRAM 之间搬运数据所带来的能耗和延迟成本，这一开销已成为 AI 工作负载的主要瓶颈。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor">Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory — zHBM ultimately stacks DRAM directly on top of the processor | Tom's Hardware</a></li>
-<li><a href="https://www.servethehome.com/samsung-evolving-hbm-base-die-at-hot-chips-2026/">Samsung Evolving HBM Base Die at Hot Chips 2026 - ServeTheHome</a></li>
-<li><a href="https://semiengineering.com/in-memory-vs-near-memory-computing/">In-Memory Vs. Near-Memory Computing - Semiconductor Engineering</a></li>
-
-</ul>
-</details>
-
-**标签**: `#HBM`, `#memory architecture`, `#AI hardware`, `#Samsung`, `#Hot Chips 2026`
-
----
-
-<a id="item-5"></a>
-## [NVIDIA Vera：为智能体 AI 重新打造 CPU](https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/) ⭐️ 8.0/10
-
-NVIDIA 发布了 Vera，这是一款专为智能体 AI 工作负载打造的全新服务器 CPU，并在 Hot Chips 2026 大会上亮相。
+在 Hot Chips 2026 大会上，NVIDIA 发布了 Vera CPU，这是一款专为智能体 AI 工作负载（涉及反复的观察-推理-行动循环）而设计的服务器处理器。该芯片基于 Olympus 核心架构，采用 Arm Neoverse V2 指令集，每个核心配备 18 条执行流水线。 Vera 代表了 NVIDIA 在数据中心领域对传统 CPU 厂商最直接的挑战，其瞄准的是 GPU 单独无法高效处理的工作负载模式。随着智能体 AI 成为主流部署模式，专门为低延迟、高频推理循环优化的定制 CPU 可能改变整个行业的服务器采购决策。 SemiWiki 披露，所有公开的性能数据均为 NVIDIA 自行声称的数值，其中部分结果基于预生产或非官方测试环境得出。Vera 架构将集成到 Vera Rubin NVL72 平台中，与 Bluefield DPU 和 NVLink 互连协同工作，定位为全栈智能体 AI 基础设施的一部分，而非独立的 CPU 产品。
 
 rss · SemiWiki · 9月8日 17:00
+
+**背景**: 智能体 AI（Agentic AI）指的是以迭代循环方式运行的自主 AI 系统——观察环境、推理下一步行动、执行操作（通常通过调用外部工具）并更新记忆，而非仅根据提示生成单一回复。这种反复的短周期对 CPU 提出了与传统服务器任务不同的要求，更看重快速的单线程延迟、高内存带宽以及高效的分支密集型控制流，而非纯粹的多核吞吐量。Hot Chips 是一年一度的学界与业界研讨会，领先的芯片设计者会在会上深入介绍即将发布处理器的架构细节。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more">Nvidia deep dives Vera CPU for AI data centers... | Tom's Hardware</a></li>
+<li><a href="https://www.servethehome.com/diving-deeper-on-nvidias-vera-cpu-new-architectural-details-and-spec-cpu-2026-benchmarks/">Diving Deeper on NVIDIA 's Vera CPU : New Architectural Details and...</a></li>
+
+</ul>
+</details>
 
 **标签**: `#NVIDIA`, `#CPU architecture`, `#agentic AI`, `#Hot Chips 2026`, `#hardware`
 
 ---
 
-<a id="item-6"></a>
-## [高 NA EUV 光刻技术从研发阶段迈入量产](https://semiwiki.com/semiconductor-manufacturers/intel/373350-high-na-euv-moves-from-experiment-to-manufacturing/) ⭐️ 8.0/10
+<a id="item-3"></a>
+## [安道亚与伊萨尔航天实现欧洲首次轨道发射](https://www.electronicsweekly.com/news/andoya-isar-aerospace-achieve-first-european-orbital-launch-2026-09/) ⭐️ 8.0/10
 
-在 SPIE 光掩模技术与极紫外光刻会议上，英特尔代工（Intel Foundry）与 ASML 联合宣布，高 NA EUV 光刻技术已正式从开发工具过渡为生产制造技术，英特尔报告称已利用该系统处理了晶圆。 这一里程碑标志着高 NA EUV 进入大规模量产阶段，该技术能够实现更小、更密集的芯片特征，对于先进的 AI 处理器和 2nm 以下逻辑节点至关重要。这一转变重塑了全球半导体制造路线图，决定了哪些代工厂能够经济地生产下一代芯片。 高 NA EUV 采用变形光学设计和更高的数值孔径，可更紧密地聚焦 13.5nm 的极紫外光，实现约 8nm 的分辨率，并有可能用单次曝光替代多重曝光步骤。每台高 NA EUV 系统重约 150 公吨，包含超过 10 万个零部件，ASML 于 2023 年 12 月交付了首台设备，目标在 2025 至 2026 年实现大规模量产。
+伊萨尔航天的 Spectrum 火箭从挪威安道亚航天港发射，完成了欧洲大陆的首次轨道发射。
 
-rss · SemiWiki · 9月8日 06:00
+rss · Electronics Weekly · 9月9日 11:16
 
-**背景**: 极紫外光刻（EUV）利用激光脉冲锡等离子体产生的 13.5nm 波长光在硅晶圆上印制极其精细的电路图案，自 2018 年前后已进入大规模量产阶段。光刻系统的数值孔径（NA）衡量光学系统收集和聚焦光线的能力，NA 越高，所能实现的最小特征尺寸越小。高 NA EUV 是标准 EUV 的下一代演进，采用变形光学设计，对水平和垂直方向采用不同的缩小倍率。ASML 是全球唯一的 EUV 光刻系统供应商，英特尔、台积电和三星等主要芯片制造商都在竞相将高 NA EUV 整合到其先进制造路线图中。
+**标签**: `#space-launch`, `#Isar-Aerospace`, `#Andoya-Spaceport`, `#European-space`, `#commercial-space`
+
+---
+
+<a id="item-4"></a>
+## [Mistral AI 完成 €30 亿 D 轮融资，估值超 €210 亿](https://www.electronicsweekly.com/news/business/mistral-has-3bn-series-d-2026-09/) ⭐️ 8.0/10
+
+法国 AI 公司 Mistral 完成 €30 亿 D 轮融资，估值超过 €210 亿，成为欧洲 AI 领域规模最大的股权融资。据报道，三星电子领投了本轮融资。 本轮融资凸显了全球投资者对欧洲 AI 主权的高度信心，使 Mistral 成为与 OpenAI、Anthropic 等美国 AI 实验室竞争的欧洲旗舰企业。三星作为领投方的参与，标志着 AI 与半导体行业之间联系日益加深，可能影响未来软硬件集成的战略方向。 本轮融资使 Mistral 的估值超过 €210 亿，成为全球估值最高的私营 AI 公司之一。Mistral 此前已于 2024 年获得微软的战略合作及 €1500 万投资，其模型通过 Azure 平台分发。
+
+rss · Electronics Weekly · 9月9日 05:13
+
+**背景**: Mistral AI 是一家总部位于巴黎的大语言模型（LLM）实验室，成立于 2023 年左右，通常被视为欧洲最具代表性的本土 AI 公司。D 轮融资属于后期融资阶段，通常面向商业模式已得到验证且收入增长显著的公司。三星电子作为传统硬件和存储芯片巨头，此次作为领投方参与，反映了 AI 模型开发与芯片制造日益融合的趋势，各方都在寻求在定制硬件上优化 AI 工作负载。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://data-today.net/high-na-euv-bottleneck/">High - NA EUV turns AI chips into a $400M bottleneck | Data Today</a></li>
-<li><a href="https://semiconductorinsight.com/blog/euv-vs-high-na-euv-in-asml/">EUV vs. High-NA EUV in ASML - semiconductorinsight.com</a></li>
+<li><a href="https://www.youtube.com/watch?v=Reix15QzbIc">Mistral AI Raises €3 Billion With Samsung Leading the Round</a></li>
+<li><a href="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-frances-ai-darling/">What is Mistral AI ? Everything to know about... | TechCrunch</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#lithography`, `#EUV`, `#Intel`, `#ASML`, `#manufacturing`
+**标签**: `#AI`, `#Mistral`, `#funding`, `#venture-capital`, `#European-tech`
+
+---
+
+<a id="item-5"></a>
+## [CXMT HBM3E 良率据称仅 25%，因 TSV 技术尚不成熟](https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25) ⭐️ 7.5/10
+
+据韩国媒体报道，中国内存厂商 CXMT 的 HBM3E 风险量产良率据称仅为 25%，即每四颗堆叠芯片中就有三颗存在缺陷。低良率被归因于不成熟的硅通孔（TSV）技术，前端制程良率约为 30%，后端封装工艺在此基础上进一步导致良率下降。 HBM 是 NVIDIA 和 AMD 等公司 AI 加速器的关键组件，全球供应由三星、SK 海力士和美光主导。CXMT 在量产有竞争力的 HBM3E 方面遇到的困难，凸显了中国在追赶先进存储制造方面面临的挑战，这对 AI 硬件供应链和中美科技竞争都具有重要意义。 据报道，CXMT 试图在每层仅使用约 3,000 个 TSV 来生产 8-Hi HBM3E，而 SK 海力士在 HBM3 上每层使用超过 8,000 个 TSV，三星在 HBM2 上每层使用约 5,000 个 TSV——这种较低的互连密度可能限制带宽并导致缺陷率升高。在 CXMT 优先解决当前工程难题之际，向更高容量的 12-Hi HBM 堆叠的过渡在近期内不太可能实现。
+
+rss · TechPowerUp News · 9月9日 14:59
+
+**背景**: 高带宽内存（HBM）是一种使用硅通孔（TSV）——贯穿整个硅晶片的垂直电气连接——将多颗存储芯片垂直堆叠的 DRAM 类型，其数据传输速率远高于传统平面 DRAM，是 AI 训练和推理工作负载的关键组件。CXMT（长鑫存储）成立于 2016 年，是中国唯一一家实现大规模量产的国产 DRAM 制造商，此前曾面临来自三星的知识产权盗窃指控。虽然 CXMT 在传统 DDR4 和 DDR5 DRAM 领域具有竞争力，但 HBM3E 是一款更为先进的产品，需要同时掌握前沿 DRAM 工艺节点和复杂的 3D 封装技术，而这些正是韩美领先厂商具有多年先发优势的领域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Through-silicon_via">Through-silicon via - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#HBM3E`, `#CXMT`, `#DRAM`, `#China-tech`
+
+---
+
+<a id="item-6"></a>
+## [MOD 玩家为 RTX 30 系列显卡解锁 DLSS 多帧生成功能](https://www.techpowerup.com/352508/modders-unlock-dlss-multi-frame-generation-for-rtx-30-series-ampere-gpus) ⭐️ 7.5/10
+
+MOD 玩家发布了一款名为 DLSSG SM86 的工具，通过为 SM86 架构创建代理后端，让 GeForce RTX 30 系列 Ampere 显卡能够使用 NVIDIA 的 DLSS 多帧生成（2X 和 4X 模式），而不是依赖 AMD 的 FSR 帧生成。 这款 MOD 将 NVIDIA 官方限制为 RTX 50 系列 Blackwell 显卡独占的旗舰功能，扩展到了庞大的 RTX 30 系列用户群体，让他们在不购买新硬件的情况下，有望在大型游戏中获得显著更高的帧率。 该 MOD 在游戏运行时附带一个 DLSSG 310.1 运行时并重定向帧生成调用，无需修改游戏文件。测试在搭载驱动 591.86 的 RTX 3080 Ti 上于 Windows/D3D12 环境下完成，例如《赛博朋克 2077》开启路径追踪时帧率从 35 FPS 提升至 4X 下的 100 FPS，但开发者指出尚未完成正式的帧时间、延迟和长时间稳定性测试。
+
+rss · TechPowerUp News · 9月9日 13:09
+
+**背景**: DLSS（深度学习超采样）是 NVIDIA 基于 AI 的超分辨率和帧生成技术。传统的 DLSS 帧生成每渲染一帧可合成一帧额外的画面（2X），而 DLSS 多帧生成——随 RTX 50 系列推出——每渲染一帧可以生成多帧画面（3X、4X，在更新的版本中甚至最高可达 6X）。RTX 30 系列采用 NVIDIA 的 Ampere 架构，识别计算能力为 SM86，包括 RTX 3060、3070、3080、3080 Ti 和 3090 等型号。此前社区在老款 NVIDIA 显卡上实现帧生成的方法是替换使用 AMD 的 FSR 帧生成管线，该方案虽然跨厂商兼容，但生成的画面质量不如 NVIDIA 原生的神经网络模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ampere_(microarchitecture)">Ampere (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/">DLSS 4.5 Dynamic Multi Frame Generation & Multi Frame Generation ...</a></li>
+<li><a href="https://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/">Matching CUDA arch and CUDA gencode for various NVIDIA architectures - Arnon Shimoni</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DLSS`, `#NVIDIA`, `#RTX`, `#frame-generation`, `#modding`
 
 ---
 
 <a id="item-7"></a>
-## [ASML 与台积电的 12 英寸光罩计划：技术意义](https://semiwiki.com/semiconductor-manufacturers/tsmc/373405-asml-and-tsmcs-12-inch-photomask-initiative-technical-significance/) ⭐️ 8.0/10
+## [OpenAI 考虑从三星和台积电双源采购 AI 芯片](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements) ⭐️ 7.5/10
 
-ASML 与台积电正合作将光罩从 6 英寸过渡至 12 英寸，这是一项重大的基础设施变革，旨在借助 EUV 光刻技术提升先进半导体制造的效率与能力。
+据报道，OpenAI 正在深化与三星的芯片合作，可能将从三星和台积电两家代工厂双源采购其下一代 AI ASIC，以将更多自研芯片引入其数据中心。这种双源采购策略表明，OpenAI 的自研 AI 处理器需求量极为庞大。 这表明 OpenAI 在大规模扩展算力方面的雄心，并希望降低对单一代工厂的依赖。同时与三星和台积电双源采购也重塑了 AI 芯片制造领域的竞争格局，可能使 OpenAI 在定价和产能谈判中拥有更大的筹码，并分散地缘政治和供应链风险。 与通用芯片不同，自研 ASIC 的双源采购难度更大，因为设计必须在每个代工厂的工艺节点上进行认证和验证。苹果此前在台积电和三星之间采用双源采购的做法提供了先例，但 AI 工作负载的 ASIC 相比移动 SoC 更为复杂。
 
-rss · SemiWiki · 9月8日 06:00
+rss · Tom's Hardware · 9月9日 14:30
 
-**标签**: `#semiconductor-manufacturing`, `#ASML`, `#TSMC`, `#EUV-lithography`, `#photomask-technology`
+**背景**: ASIC（专用集成电路）是针对特定工作负载（本例中为 AI 处理）定制设计的芯片，通常在能效和延迟方面优于通用 GPU，但牺牲了部署后的灵活性。台积电和三星是全球两大领先的半导体代工厂（即代他人制造芯片的公司），台积电历史上在技术上领先，而三星则提供地理和政治上的多元化。双源采购是一种供应链策略，即企业在两家或多家供应商处认证同一组件，以降低中断风险、增强议价能力并确保产能——苹果在其 A 系列和 M 系列移动处理器上就采用了这种方法。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.z2data.com/insights/why-dual-sourcing-is-essential-to-weathering-the-memory-chip-shortage/">Why Dual Sourcing Is Essential to Weathering the Memory Chip Shortage | Z2Data</a></li>
+<li><a href="https://procurementtactics.com/dual-sourcing/">Dual Sourcing — Definition, Advantages, and Disadvantages</a></li>
+<li><a href="https://www.imeciclink.com/en/articles/asic-vs-gpu-ai">ASIC vs GPU for AI | IC-Link by imec by imec</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#AI-chips`, `#Samsung`, `#TSMC`, `#semiconductor-manufacturing`
 
 ---
 
 <a id="item-8"></a>
-## [ASML 与台积电将主导向 12 英寸光罩过渡，应用于高数值孔径极紫外光刻](https://www.electronicsweekly.com/news/business/asml-and-tsmc-to-lead-transition-to-12-inch-photomasks-for-high-na-euv-2026-09/) ⭐️ 8.0/10
+## [研究员逆向破解臭名昭著的"震网"(Stuxnet)病毒源代码并发布至 GitHub——该攻击曾瞄准伊朗核设施，是首款造成实际物理破坏的同类软件](https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage) ⭐️ 7.5/10
 
-ASML 与台积电宣布开展一项合作计划，旨在主导半导体行业向更大尺寸的 12 英寸光罩过渡，以应用于高数值孔径（High-NA）极紫外（EUV）光刻技术。
+一位匿名研究员成功逆向破解了"震网"病毒源代码，并将这款曾攻击伊朗核设施的标志性网络武器代码发布到了 GitHub 平台上。
 
-rss · Electronics Weekly · 9月8日 07:22
+rss · Tom's Hardware · 9月9日 10:30
 
-**标签**: `#semiconductors`, `#EUV lithography`, `#ASML`, `#TSMC`, `#photomasks`
+**标签**: `#stuxnet`, `#cybersecurity`, `#malware`, `#cyber-warfare`, `#reverse-engineering`
 
 ---
 
 <a id="item-9"></a>
-## [Imec 展示密度达 380 万个/万米的 NbTiN 超导电路](https://www.electronicsweekly.com/news/business/jj-ic-has-3-8m-junctions-per-cm2-2026-09/) ⭐️ 8.0/10
+## [孕期记忆力下降背后的生物学机制](https://www.solidot.org/story?sid=85325) ⭐️ 7.3/10
 
-在 2026 年应用超导会议（ASC）上，Imec 展示了一种三层金属（3ML）氮化铌钛（NbTiN）约瑟夫森结电路，实现了每平方厘米 380 万个结的电路设计密度，并将该工艺推进至 30 纳米节点。 这一创纪录的结密度是超导电子学可扩展性的关键里程碑，对低温计算架构（如快速单磁通量子（RSFQ）逻辑、超导量子比特阵列以及基于 SQUID 的传感）有直接影响，更高的集成密度能够实现更复杂、性能更强的电路。 该电路采用三层 NbTiN 金属互连，并在 30 纳米工艺节点上制造。NbTiN 因其稳定的超导特性、良好的厚度均匀性以及与原子层沉积（ALD）等薄膜沉积工艺的兼容性而被广泛采用，非常适合用于扩大超导电子学的规模。
+一项研究揭示，孕期相关的记忆力下降（俗称"孕脑"）是由持续高水平的雌激素破坏特定的下丘脑-海马神经回路所致，而非直接影响记忆中枢，从而化解了该领域长期存在的争议。
 
-rss · Electronics Weekly · 9月8日 05:14
+rss · Solidot · 9月9日 05:42
 
-**背景**: 约瑟夫森结是由一层薄势垒隔开的两块超导体组成的量子力学器件，利用约瑟夫森效应实现超高速、低功耗的开关。它是超导数字逻辑（如 RSFQ）、超导量子计算量子比特和高灵敏度磁强计（SQUID）的基础构件。NbTiN 是一种过渡金属氮化物超导体，因其高临界温度和与标准半导体工艺流程的兼容性，被广泛应用于量子技术和光子探测领域。提高结密度是推动这些技术迈向实用化大规模系统的关键指标。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.eenewseurope.com/en/imec-scales-nbtin-superconducting-circuits-to-30nm/">Imec scales NbTiN superconducting circuits to 30nm ..</a></li>
-<li><a href="https://www.newelectronics.co.uk/content/news/imec-unveils-superconducting-circuit-breakthrough-with-record-density-nbtin-technology">Imec presents superconducting circuit breakthrough - New Electronics</a></li>
-<li><a href="https://arxiv.org/pdf/2311.14154">Structural transitions in superconducting NbTiN thin films</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Josephson Junctions`, `#Superconducting Electronics`, `#Cryogenic Computing`, `#Semiconductor Fabrication`, `#Imec`
+**标签**: `#neuroscience`, `#estrogen`, `#memory`, `#pregnancy`, `#hypothalamus-hippocampus`
 
 ---
 
 <a id="item-10"></a>
-## [Intel 代工突破 100 万片 High-NA EUV 晶圆里程碑](https://www.techpowerup.com/352465/intel-foundry-achieves-milestone-with-one-million-high-na-euv-wafers) ⭐️ 7.5/10
+## [Tailwind Labs 在 AI 冲击下被 Shopify 收购](https://tailwindcss.com/blog/tailwind-is-joining-shopify) ⭐️ 7.0/10
 
-Intel 已正式使用 High-NA EUV 光刻技术处理了 100 万片 300mm 晶圆，验证了该技术在 14A 和 18A 工艺节点以及部分 Panther Lake SKU 上的可行性。Intel 还完成了 ASML 新一代 TWINSCAN EXE:5200B High-NA 扫描仪在 14A 节点上的验收测试，并向外部代工客户提供 High-NA 制程能力。 这一里程碑表明，ASML 价值数十亿美元的下一代 High-NA EUV 光刻技术已从实验研究进入实际量产阶段，验证了 Intel 的代工战略并降低了未来亚 2nm 节点的风险。通过向外部客户提供该技术，Intel 在合同芯片制造市场上对 TSMC 和三星的竞争地位得到加强。 ASML 的 TWINSCAN EXE:5000 扫描仪采用 13.5nm 波长和 0.55 数值孔径，可实现最高 8nm 分辨率，每台成本介于 3 亿至 4 亿美元之间。Intel 此前曾报告在一个季度内处理超过 3 万片晶圆，并将特定图层所需的步骤从 40 步减少到不到 10 步。新一代 EXE:5200B 正被部署用于更大规模的 14A 生产。
+广受欢迎的 utility-first（原子化）CSS 框架 Tailwind CSS 的开发团队 Tailwind Labs 正式被 Shopify 收购。此次收购发生在 AI 对 Tailwind 业务造成重大冲击之后，其文档流量自 2023 年初以来下降了 40%，并且此前公司已经裁掉了 75% 的工程团队成员。 AI 的冲击是此次交易的主要催化剂：公司称尽管 Tailwind 的使用量比以往任何时候都高，但文档流量仍下降了 40%，并在 1 月份裁减了 75% 的工程团队成员，随后才宣布与 Shopify 的交易。Tailwind 创始人 Adam Wathan 公开承认 AI 对其商业模式（尤其是 UI 模板销售）造成了巨大冲击。
 
-rss · TechPowerUp News · 9月8日 11:24
+hackernews · EdwinHoksberg · 9月9日 13:27 · [社区讨论](https://news.ycombinator.com/item?id=49626190)
 
-**背景**: High-NA（高数值孔径）EUV 光刻技术是极紫外光刻技术的下一代，用于在硅晶圆上蚀刻极其精细的电路图案。ASML 是这些系统的唯一制造商，每台扫描仪售价数亿美元。Intel 的工艺节点遵循数字越小代表制程越先进的命名规则，18A 大致对应 1.8nm 级别的节点，而 14A 代表目标在 2027-2028 年前后量产的 1.4nm 级别节点。Panther Lake 是 Intel 即将推出的 Core Ultra 第三代客户端处理器系列。
+**背景**: Tailwind CSS 是一个原子化（utility-first）CSS 框架，开发者可以直接在 HTML 中使用 flex、pt-4、text-center 等小型可复用的原子类来组合设计，而无需编写自定义 CSS。它是现代 Web 开发生态中最流行的 CSS 框架之一。Shopify 是一个大型电商平台，近年来不断扩展其在在线商店领域的开发者工具和框架布局。此次收购表明 Shopify 希望将 Tailwind 的技术和团队整合到其电商生态中，尤其是在 AI 驱动的建站工具正在重塑在线商店创建方式的背景下。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems/twinscan-exe-5000">TWINSCAN EXE : 5000 - EUV lithography systems | ASML</a></li>
-<li><a href="https://www.allaboutcircuits.com/news/intel-first-to-install-high-na-euv-lithography-scanner/">Intel First to Install High NA EUV Lithography Scanner - News</a></li>
-<li><a href="https://www.digitalcitizen.life/intel-14a-defect-density-progress-could-point-to-an-earlier-2028-launch/">Intel 14 A Defect Density Progress Could Point to an Earlier 2028 Launch</a></li>
+<li><a href="https://tailwindcss.com/">Tailwind CSS - Rapidly build modern websites without ever leaving...</a></li>
+<li><a href="https://github.com/tailwindlabs/tailwindcss">GitHub - tailwindlabs/tailwindcss: A utility - first CSS framework for...</a></li>
+<li><a href="https://siit.co/blog/data-driven-disruption-ai-s-unexpected-impact-on-tech/18903">Data- Driven Disruption : AI 's Unexpected Impact On Tech | Blog | SIIT</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#Intel`, `#EUV lithography`, `#chip manufacturing`, `#foundry`
+**社区讨论**: 社区反应不一。一些评论者质疑在 AI 时代是否还需要 Tailwind，认为既然 AI 智能体可以处理 CSS 的维护问题（消除了手动维护 CSS 的痛点），那么使用现代特性的原生 CSS 可能已经足够。其他人则为 Tailwind 的教育价值进行了辩护，并对该框架表示感谢。一位值得注意的评论者分享说，他们让 AI 智能体使用 Bootstrap 5、jQuery 和 HTMX 来构建 UI，理由是简单且易于维护。讨论普遍承认 AI 对 Tailwind 商业模式的冲击，同时也在争论原子化 CSS 框架在未来将扮演什么角色。
+
+**标签**: `#tailwindcss`, `#shopify`, `#acquisition`, `#web-development`, `#ai-impact`
 
 ---
 
 <a id="item-11"></a>
-## [长鑫存储与长江存储提前囤积 ASML DUV 光刻设备以应对出口禁令](https://www.techpowerup.com/352461/cxmt-and-ymtc-stockpile-asml-tools-for-three-year-expansion-plans) ⭐️ 7.5/10
+## [安全研究员曝光 Google Ads 成为恶意软件分发渠道](https://xlii.space/eng/malicious-software-on-google-ads/) ⭐️ 7.0/10
 
-据报道，中国存储芯片厂商长鑫存储（CXMT）和长江存储（YMTC）已囤积了足够的 ASML 深紫外（DUV）光刻设备，以维持未来三年的扩产计划，以应对美国可能向荷兰施压、停止向中国出口较旧型号设备的情况。美国一项名为 MATCH 法案的两党提案可能推动对 DUV 设备出口实施更广泛的禁令。 这一事件凸显了美中科技竞争不断升级，半导体制造设备的出口管制已成为重要战场。如果 MATCH 法案通过，ASML 可能损失近五分之一的预期年营收，而中国存储厂商虽然会遭受重大打击，但由于提前囤积设备，其影响将被推迟。 MATCH 法案（Multilateral Alignment of Technology Controls on Hardware，即硬件技术管制多边对齐法案）是一项两党法案，将强制盟国统一出口管制措施，可能禁止出口较旧的 DUV 设备，而不仅仅是已经受限的最先进 EUV 系统。长鑫存储专注于 DRAM 内存芯片，长江存储专注于 3D NAND 闪存，是中国实现内存自主化的核心企业。
+一位安全研究员演示了如何利用 Google Ads 来投放和分发恶意软件，暴露了该平台广告审核流程的弱点。该研究员成功通过 Google 的广告系统投放了含有恶意软件的广告，尽管在被公开关注后其账号最终被恢复。 此次演示揭示了全球最大广告网络之一的系统性漏洞，可能影响数十亿信任 Google 所投放广告的用户。这引发了人们对平台问责机制以及大型科技公司自动化内容审核是否充分的更广泛担忧。 该研究员的账号在问题在 Hacker News 上获得关注后才被恢复，表明在标准自动审核之外仍需要人工介入或特定触发机制。Google 2025 年广告安全报告声称大多数自适应搜索广告现已实现即时审核，但该研究员仍然成功绕过了这些自动检查。
 
-rss · TechPowerUp News · 9月8日 08:49
+hackernews · xlii · 9月9日 11:43 · [社区讨论](https://news.ycombinator.com/item?id=49624856)
 
-**背景**: ASML 是全球唯一的 EUV 光刻系统制造商，也是 DUV 系统的主要供应商，这些设备对于在芯片上绘制微小电路图案至关重要。DUV 光刻仍是半导体制造的主力技术，广泛用于逻辑芯片、存储器件及各个生产环节。自 2023 年以来，荷兰已限制 ASML 向中国出口最先进的 EUV 设备，而美国一直在推动对较旧型号设备实施更广泛的限制。
+**背景**: 恶意广告（Malvertising）是指利用在线广告传播恶意软件或骗局的行为，通常通过将恶意的 JavaScript 代码嵌入到看似合法的广告中，并通过标准广告网络进行投放。Google 的广告审核流程结合了自动过滤器、机器学习和真人审核员来检测无效或欺诈活动。然而，攻击者经常使用轮换住宅代理（rotating residential proxies）和斗篷技术（cloaking，即向审核员展示良性内容但向真实用户投放恶意内容）等手段来绕过广告验证系统。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.ymtc.com/en/intro.html">Company Profile-YMTC</a></li>
-<li><a href="https://www.asml.com/en/products/duv-lithography-systems">DUV lithography systems | Products</a></li>
+<li><a href="https://www.malwarebytes.com/malvertising">What is Malvertising ? | How to Protect Against It | Malwarebytes</a></li>
+<li><a href="https://blog.google/products/ads-commerce/2025-ads-safety-report/">Google’s 2025 Ads Safety Report - The Keyword</a></li>
+<li><a href="https://support.google.com/google-ads/answer/1722120?hl=en">About the ad review process - Google Ads Help</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#ASML`, `#US-China tech war`, `#export controls`, `#supply chain`
+**社区讨论**: 社区舆论强烈批评 Google 忽视用户安全，评论者们分享了 YouTube 上充斥着诈骗广告的经历，并对不透明的自动化审核系统表达了不满。多位参与者呼吁监管介入，认为大型平台需要强制性的人工联系方式以及对账号封禁和内容审核决策更明确的问责机制。
+
+**标签**: `#security`, `#google-ads`, `#malware`, `#platform-security`, `#ad-fraud`
 
 ---
 
 <a id="item-12"></a>
-## [台积电计划于 2030 年开始采用高数值孔径 EUV 光刻技术](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use) ⭐️ 7.5/10
+## [Muse – Meta 的个人 AI 助手](https://ai.meta.com/muse/) ⭐️ 7.0/10
 
-台积电已披露计划于 2030 年开始使用高数值孔径（High-NA）EUV 光刻技术，A10 或 A11 工艺节点是首批采用的主要候选制程。新扫描仪和 6×12 英寸光罩的全面部署计划于 2033 年完成。 这一路线图公告为先进制程的演进提供了关键参考，并表明台积电对下一代光刻技术采取了审慎的态度，可能影响设备采购决策以及更广泛的半导体制造生态系统，特别是作为 High-NA EUV 系统唯一供应商的 ASML。 高数值孔径 EUV 系统（如 ASML 的 EXE:5000）采用 8 纳米分辨率步骤，可通过单次曝光替代旧方案中需要多次图案化的工艺，从而降低制程复杂度。目前 EUV 使用的光罩尺寸为 6×6 英寸，因此 2033 年计划转向 6×12 英寸光罩是一次重大变化，可显著提升每次曝光的生产效率。
+Meta 推出 Muse 个人 AI 助手，引发了关于主流 AI 推广策略、提示注入安全防御以及 AI 助手实际实用性的讨论。
 
-rss · Tom's Hardware · 9月8日 15:00
+hackernews · yks · 9月8日 19:25 · [社区讨论](https://news.ycombinator.com/item?id=49615537)
 
-**背景**: 极紫外（EUV）光刻技术是一种用于制造最尖端集成电路的先进技术，利用极短波长的光在硅晶圆上印制极其精细的电路图案。高数值孔径（High-NA）EUV 是下一代演进技术，提供更高的分辨率，以满足先进逻辑制程所需的更小特征尺寸。光罩（Photomask）是一种高精度模板板，作为模板允许光线通过透明区域在硅晶圆上创建微观电路图案。ASML 目前是全球唯一的 EUV 光刻系统制造商，因此台积电的采用时间表对设备供应链尤为重要。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
-<li><a href="https://data-today.net/high-na-euv-bottleneck/">High - NA EUV turns AI chips into a $400M bottleneck | Data Today</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Photomask">Photomask - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#TSMC`, `#EUV lithography`, `#chip manufacturing`, `#ASML`
+**标签**: `#AI-agents`, `#Meta`, `#prompt-injection`, `#product-launch`, `#AI-security`
 
 ---
 
 <a id="item-13"></a>
-## [在 RTX 5090 及更高配置上对 Qwen 3.8 27B 进行基准测试 — 仅靠显存容量无法克服严重的软件和推理引擎瓶颈](https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks) ⭐️ 7.5/10
+## [量子计算的规模化正成为控制电子学难题](https://www.eetimes.com/quantum-scaling-is-becoming-a-control-electronics-problem/) ⭐️ 7.0/10
 
-在 RTX 5090 上对 Qwen 3.8 27B 的基准测试表明，软件和推理引擎的优化是关键瓶颈，而不仅仅是显存容量问题。
+量子计算的规模化正日益受到控制电子学挑战的制约，包括布线过多、散热问题和高延迟，这些问题正迫使经典控制电子学进一步深入低温环境。随着量子比特数量的增长，瓶颈正从量子比特本身转向操作它们所需的经典基础设施。 这一瓶颈至关重要，因为实现容错量子计算需要扩展到数千甚至数百万个量子比特，这反过来又要求控制基础设施按比例扩展。如果低温控制电子学没有突破，整个量子计算路线图可能因经典工程限制而非量子物理限制而延迟。 提出的解决方案包括在 4 K 或 10 mK 温度下工作的低温 CMOS、单磁通量子（SFQ）电路以及新型超导晶体管，以实现多量子比特共享单根线的多路复用控制，从而减少布线数量和延迟。研究团队已经展示了使用低温 CMOS 电子学进行双量子比特随机基准测试，为该架构提供了概念验证。
 
-rss · Tom's Hardware · 9月8日 13:30
+rss · EE Times · 9月9日 08:05
 
-**标签**: `#Qwen`, `#RTX-5090`, `#LLM-benchmarking`, `#local-inference`, `#GPU-hardware`
+**背景**: 超导量子计算机在比外太空更低的温度下运行——通常约为 10–20 毫开尔文——因为热噪声会严重干扰脆弱的量子态。传统上，每个量子比特都需要从室温电子学连接到低温恒温器内的独立控制和读数布线，随着系统扩展，这造成了巨大的布线瓶颈。将经典控制电子学移入低温环境允许许多量子比特通过多路复用共享更少的布线，但这引入了严格的功率预算限制，因为每毫瓦的热量都必须由稀释制冷机带走。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://quantumoutpost.com/tutorials/61-cryogenic-control-electronics/">Cryogenic Control Electronics: The Unsung Bottleneck of ...</a></li>
+<li><a href="https://www.aeanet.org/why-do-quantum-computers-need-to-be-cold/">Why Do Quantum Computers Need to Be Cold? - AEANET</a></li>
+
+</ul>
+</details>
+
+**标签**: `#quantum-computing`, `#control-electronics`, `#cryogenic-systems`, `#hardware-scaling`, `#EE-engineering`
 
 ---
 
 <a id="item-14"></a>
-## [《任天堂明星大乱斗 DX》历时六年多完成完全反编译](https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code) ⭐️ 7.5/10
+## [英特尔支持的 Hypertune 自动超频工具声称可提升高达 60%的 FPS](https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems) ⭐️ 6.5/10
 
-经过六年多的社区驱动逆向工程，《任天堂明星大乱斗 DX》反编译项目（托管于 github.com/doldecomp/melee）已达成其长期以来的关键里程碑，成功从原始 GameCube 二进制文件中生成可编译的 C 源代码。 这一里程碑为这款广受喜爱的竞技游戏带来了高保真 mod 开发、利于速通的功能增强、更深入的漏洞分析以及长期保存的可能性，同时也代表了迄今为止针对商业主机游戏最雄心勃勃的社区反编译成果之一。 原版《大乱斗 DX》是用 C 语言编写并针对基于 PowerPC 的 GameCube 编译的，因此进行忠实的 C 语言反编译是可行的。根据进度跟踪器数据显示，在此次宣布之前，代码库已达到 96.44% 的反编译率和 89.58% 的完整链接率，表明该游戏代码和资源的覆盖已接近完成。
+Hypertune 公开发布了其游戏性能工程平台，这是一款由英特尔支持的自动超频工具，基于英特尔 Extreme Tuning Utility（XTU）SDK 构建，并与英特尔工程师合作开发。与依赖通用测试配置文件的传统超频方法不同，Hypertune 对每个独立系统进行独特优化，在经过超过 60,000 人参与的早期访问阶段后，声称可在英特尔平台上实现高达 60%的 FPS 提升。 该工具通过消除历史上阻碍新手用户从硬件中获取最大性能的技术门槛，可能使超频变得更加大众化。凭借英特尔的支持，这标志着 CPU 性能优化领域的持续竞争，并可能影响普通玩家和电子竞技专业人士调整系统的方式。 Hypertune 的逐系统优化方法不同于基于配置文件的工具，它对每台机器进行独立调优，而非应用通用设置。60%的 FPS 声称应谨慎看待，因为厂商的性能数据通常代表最佳情况，并且该工具目前仅限于英特尔平台，缩小了其潜在用户群。
 
-rss · Tom's Hardware · 9月8日 12:57
+rss · Tom's Hardware · 9月9日 16:03
 
-**背景**: 反编译是将已编译的机器码（二进制）转换回人类可读的高级语言（如 C 语言）的过程。对于原本就用 C 语言编写的游戏（这在 1990 年代末和 2000 年代初非常常见），反编译项目的目标不仅仅是反汇编指令，而是重建源代码，使其编译后能够生成与原版逐字节相同（或近乎相同）的二进制文件。此类项目通常用于游戏保存、支持移植，并为 mod 开发和竞技工具提供基础。《任天堂明星大乱斗 DX》于 2001 年发布于任天堂 GameCube 平台，至今仍是格斗游戏和竞技速通社区的基石，这也是其社区花费多年对其进行逆向工程的原因。
+**背景**: 超频是将计算机硬件推超出厂规格以获得更高性能的做法，传统上需要手动调整电压、时钟频率和其他参数。英特尔的 Extreme Tuning Utility（XTU）是一款基于 Windows 的软件，为爱好者提供超频、监控和压力测试英特尔系统的界面。自动超频工具旨在自动化这一复杂过程，使性能提升在无需深厚技术知识的情况下变得触手可及。Hypertune 的差异化之处在于逐系统进行优化，而非应用通用配置文件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/doldecomp/melee">GitHub - doldecomp/ melee : A decompilation of Super Smash Bros ...</a></li>
-<li><a href="https://decomp.dev/doldecomp/melee">Super Smash Bros . Melee • Progress Report</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Decompiler">Decompiler - Wikipedia</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems">Intel-backed auto - overclocking tool Hypertune ... | Tom's Hardware</a></li>
+<li><a href="https://gamesbeat.com/hypertune-brings-automated-overclocking-to-pc-gamers-with-intels-support-exclusive/">Hypertune brings automated overclocking to PC... - GamesBeat</a></li>
+<li><a href="https://hypertune.gg/">Hypertune — Ultimate PC Optimization for Gaming & Esports</a></li>
 
 </ul>
 </details>
 
-**标签**: `#decompilation`, `#reverse-engineering`, `#game-preservation`, `#melee`, `#gamecube`
+**标签**: `#overclocking`, `#intel`, `#performance-tuning`, `#PC-hardware`, `#gaming`
 
 ---
 
 <a id="item-15"></a>
-## [Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet — attackers claim they’re the ‘good guys’ and will return funds after the vulnerability is fixed](https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed) ⭐️ 7.5/10
+## [OpenAI 纳维-斯托克斯声明引发抄袭与职业威胁争议](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats) ⭐️ 6.5/10
 
-Hackers exploited a vulnerability in Liquid Network to steal approximately $320 million in Bitcoin from its federation wallet, claiming to be white hats who will return funds once the bug is patched.
+OpenAI 宣布一支使用其内部前沿模型的团队已解决了纳维-斯托克斯问题，但该声明被一名研究人员的指控所掩盖——该研究人员声称 OpenAI 抓取了他们的 Codex 会话，并随后对其发出职业威胁。 这一事件引发了关于 AI 公司如何对待独立研究人员以及如何处理知识产权归属的严重伦理问题。据称的恐吓手段可能对独立研究人员与主要 AI 实验室之间的开放合作产生寒蝉效应，并凸显了围绕 AI 辅助数学工作建立更明确规范的必要性。 纳维-斯托克斯存在性与光滑性问题是被称为千禧年七大数学难题之一，这意味着真正的解决方案将附带 100 万美元的奖金并具有巨大的数学声望。OpenAI Codex 既是一系列用于代码生成的语言模型，也是 2025 年 4 月推出的基于 CLI 的编码代理，此次争议的核心是一个特定的 Codex 会话据称在未经适当署名的情况下被抓取。
 
-rss · Tom's Hardware · 9月8日 11:20
+rss · Tom's Hardware · 9月9日 12:30
 
-**标签**: `#cryptocurrency`, `#security-breach`, `#bitcoin`, `#blockchain`, `#liquid-network`
+**背景**: 纳维-斯托克斯方程是一组描述流体运动的偏微分方程，广泛应用于工程、气象学和物理学领域。其存在性与光滑性问题探讨的是三维空间中是否始终存在光滑且有界的解——这一自 2000 年被克雷数学研究所列为千禧年数学难题以来一直悬而未决。OpenAI Codex 既指 2021 年推出的代码生成语言模型系列（为 GitHub Copilot 提供支持），也指 2025 年发布的较新的基于 CLI 的编码代理，它在本地运行并可与代码、文件和 Shell 命令交互。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent)">OpenAI Codex (AI agent) - Wikipedia</a></li>
+<li><a href="https://openai.com/codex/">Codex | AI Coding Partner from OpenAI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#AI-ethics`, `#plagiarism`, `#Navier-Stokes`, `#research-controversy`
 
 ---
 
 <a id="item-16"></a>
-## [谷歌绘制出成年雄性果蝇完整大脑及中枢神经系统，软件工程师立刻让它运行《毁灭战士》——这款由 AI 驱动的包含逾 16.6 万个神经元的三维模型还能运行《超级马里奥 64》](https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64) ⭐️ 7.5/10
+## [Claude，把"加入购物车"按钮改成蓝色](https://opusfived.dev/) ⭐️ 6.0/10
 
-谷歌及合作机构绘制出了一只成年雄性果蝇的完整大脑与中枢神经系统（包含逾 16.6 万个神经元），工程师们迅速利用这一连接组图谱让其运行了《毁灭战士》和《超级马里奥 64》。
+一个模拟向 Claude 发出编程指令的互动演示，幽默地凸显了大型语言模型倾向于过度帮忙、大幅修改远超所请求内容的现象。
 
-rss · Tom's Hardware · 9月8日 11:06
+hackernews · matthieu_bl · 9月9日 09:39 · [社区讨论](https://news.ycombinator.com/item?id=49623754)
 
-**标签**: `#neuroscience`, `#connectomics`, `#brain-mapping`, `#computational-biology`, `#AI-research`
+**标签**: `#llm`, `#ai-coding`, `#claude`, `#developer-experience`, `#interactive-demo`
 
 ---
 
 <a id="item-17"></a>
-## [比利时华裔半导体研究员因涉嫌氮化镓商业机密盗窃被捕——检方怀疑 BelGaN 内部人员曾于公司倒闭前将芯片知识产权转移至中国](https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed) ⭐️ 7.5/10
+## [Desert Ant Labs 发布免费设备端任务专用 AI 模型](https://desertant.com/blog/introducing-desert-ant-labs/) ⭐️ 6.0/10
 
-比利时当局逮捕了一名 BelGaN 前研究员，怀疑其在公司破产前将专有的氮化镓芯片技术转让给中国竞争对手。
+Desert Ant Labs 推出了一系列小型、任务专用的 AI 模型，可通过 Swift、Kotlin 和 JavaScript 的跨平台 SDK 在移动设备上本地运行。这些模型对每月最多 10 万活跃设备免费开放，无需 token、登录或按请求计费。 此次发布反映了边缘 AI 和 TinyML 日益增长的趋势，即专用小型模型在处理窄任务时比基于云的大语言模型更快、更注重隐私。如果该方案被证明可行，它可能会改变开发者将 AI 集成到移动应用中的方式，消除云端延迟、降低成本并保护用户隐私。 目前的 SDK 支持涵盖 Swift、Kotlin 和 JavaScript，但明显缺少 Python SDK，这限制了服务端和 Web 后端的使用场景。社区成员发现，其中至少有一个模型（Voz，一款转录工具）似乎是 NVIDIA Parakeet v3 的重新封装版本，并带有 macOS/iOS 专用的推理代码，而且基准测试仅在现代 iPhone 上运行，这引发了对低端硬件性能的质疑。
 
-rss · Tom's Hardware · 9月8日 09:50
+hackernews · willwhitedc · 9月9日 11:39 · [社区讨论](https://news.ycombinator.com/item?id=49624823)
 
-**标签**: `#semiconductors`, `#industrial-espionage`, `#gallium-nitride`, `#IP-theft`, `#geopolitics`
+**背景**: 设备端 AI（或边缘 AI）指的是直接在本地硬件（如智能手机或物联网传感器）上运行机器学习模型，而非将数据发送到远程云服务器。这种方法具有低延迟、降低带宽成本和增强隐私等优势。小型语言模型（SLM）和任务专用模型越来越受欢迎，因为它们在明确定义的窄任务上可以超越通用大语言模型，同时运行和改进成本远低得多。TinyML 是一个更广泛的领域，它使这些紧凑模型能够在边缘设备的严格内存和功耗限制下运行。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://medium.com/@simplify.aiml/the-rise-of-on-device-ai-a-deep-dive-into-tinyml-in-2025-bc2003569521">The Rise of On - Device AI : A Deep Dive into TinyML in 2025 | Medium</a></li>
+<li><a href="https://invisibletech.ai/blog/how-small-language-models-can-outperform-llms">Small language models (SLMs) vs . large language models (LLMs)</a></li>
+<li><a href="https://www.innoflexion.com/blog/small-language-models-vs-llm-enterprise-ai-inference-cost">Small Language Models vs LLMs: How to Cut AI Inference Costs</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区情绪持谨慎乐观态度，但在关键问题上存在疑虑。多位评论者质疑其不清晰的商业模式，指出与云端大语言模型按量计费不同，本地免费 SDK 缺乏明显的收入来源。另一些人则对缺少 Python SDK 导致可访问性受限表示担忧，对演示质量提出质疑（一位用户报告音频增强演示在处理前后听起来完全相同），并指出多个模型似乎是现有开源模型的重新封装版本。有 Web/服务器用例的开发者表达了对大多数模型仅支持 iOS、且基准测试仅在现代 iPhone 上运行的不满。
+
+**标签**: `#on-device-ml`, `#edge-ai`, `#mobile-development`, `#small-models`, `#sdk`
 
 ---
 
 <a id="item-18"></a>
-## [英特尔突破 100 万片 High-NA EUV 晶圆，率先采用 6×12 光罩](https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1) ⭐️ 7.5/10
+## [DeepSeek V4.1 Flash 自动路由付费 Pro 请求引发争议](https://news.ycombinator.com/item?id=49624603) ⭐️ 6.0/10
 
-英特尔宣布已使用 High-NA EUV 光刻工具处理超过 100 万片晶圆，数量超过行业内所有其他公司的总和。同时，英特尔正在率先采用超大尺寸 6×12 光罩，以加快生产速度并降低制造成本。 这一里程碑确立了英特尔在下一代光刻技术应用上的明显领先地位，对于在 sub-2nm 节点（标准 EUV 需要昂贵的多重曝光步骤）生产先进芯片至关重要。6×12 光罩创新有望显著降低每片晶圆的成本并提高产能，为英特尔在争取代工客户时带来潜在竞争优势。 High-NA EUV 设备采用 0.55 的数值孔径（标准 EUV 为 0.33），由 ASML 独家生产，每台系统成本约 4 亿美元，因此规模化部署是一项重大资本投入。更大的 6×12 光罩格式使每次曝光可打印更多芯片，但需要采用各向异性的光学布局，即水平和垂直特征按不同比例进行缩小成像。
+DeepSeek 宣布其 V4.1 Flash 模型将于 2026 年 9 月 10 日左右（北京时间）正式发布，声称在性能、成本、速度和任务完成时间上全面超越 V4 Pro。该公司做了一个有争议的决定：在 V4.1 Pro 发布之前，所有发往 Pro 模型端点的请求都将被悄悄路由到更便宜的 V4.1 Flash，并按 Flash 的较低价格计费。 这一事件意义重大，因为它开创了 API 提供商悄悄替换付费用户端点背后底层模型的先例，可能会使之前经过验证的提示词、工作流和质量预期失效。同时，这也加剧了中国 AI 实验室之间的价格战，Flash 的缓存命中价格低至每百万 token 0.003 美元，远远低于西方竞争对手。 非高峰时段定价为：缓存命中输入每百万 token 0.003 美元、缓存未命中输入 0.15 美元、输出 0.6 美元，高峰时段价格为非高峰时段的两倍。缓存命中依赖于提示词前缀的 KV 缓存复用，因此只有当提示词以相同 token 开头时才能享受缓存命中价格——当时间戳或其他动态内容出现在提示词开头时，这是一个常见的陷阱。
 
-rss · Tom's Hardware · 9月8日 06:00
+hackernews · nickweb · 9月9日 11:19
 
-**背景**: High-NA EUV 光刻技术是标准 EUV 光刻的继任者，使用 13.5nm 波长的极紫外光在先进芯片上刻画最小特征。光罩（也称为 reticle）是包含按放大比例绘制的电路图案的高精度石英板，在曝光过程中被投影到晶圆上。传统 EUV reticle 尺寸较小；新型 6×12 格式是一次重大升级，旨在每次曝光中打印更多芯片，从而在最先进的节点上改善制造经济性。
+**背景**: DeepSeek 是一家中国 AI 实验室，以发布在基准测试中表现优异但价格极具竞争力的开源权重模型而闻名。提示词缓存是一种 API 提供商存储提示词开头部分已计算的 KV 缓存并在后续请求中复用的技术，以折扣的"缓存命中"价格计费，避免重复计算。自动路由——即在用户不知情的情况下提供与其所选不同的模型——通常被认为是不妥的做法，因为它会破坏针对特定模型行为调优的生产系统的可复现性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://data-today.net/high-na-euv-bottleneck/">High - NA EUV turns AI chips into a $400M bottleneck | Data Today</a></li>
-<li><a href="https://nemothia.com/extreme-ultraviolet-high-na-lithography-anode-thermal-stress-and-multi-patterning-trade-offs/">Extreme Ultraviolet High - NA Lithography : Anode... - NEMOTHIA</a></li>
+<li><a href="https://ofox.ai/blog/llm-api-cache-hit-math-real-bills-2026/">LLM API Cache Hit Math: Why Your DeepSeek Bill Says $4 But ...</a></li>
+<li><a href="https://www.morphllm.com/prompt-caching">Prompt Caching: How It Works, Provider Pricing, Cache-Aware ...</a></li>
+<li><a href="https://www.techplained.com/llm-prompt-caching">LLM Prompt Caching: Cut API Costs 90% (2026) | TechPlained</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#Intel`, `#EUV-lithography`, `#manufacturing`, `#High-NA`
+**社区讨论**: Simon Willison 和 aftbit 强烈批评自动路由的做法，认为已经在 V4 Pro 上验证工作流的客户不会愿意在不知情的情况下收到 V4.1 Flash 的输出。jiehong 报告称 Flash 网页聊天界面在语言跟随方面表现不稳定，会在中英文之间不可预测地切换。EbNar 对中国 flash 模型的整体性价比持积极态度。oefrha 确认该公告源自 platform.deepseek.com 上的一个横幅。
+
+**标签**: `#deepseek`, `#llm`, `#ai-models`, `#api-pricing`, `#model-release`
 
 ---
 
 <a id="item-19"></a>
-## [GLP-1 药物司美格鲁肽在小鼠实验中延长寿命](https://www.solidot.org/story?sid=85314) ⭐️ 7.3/10
+## [集邦咨询称，2026 年第二季全球晶圆代工营收逼近 534.9 亿美元，中芯国际与三星市占率差距持续缩小](https://www.dramexchange.com/WeeklyResearch/Post/2/12828.html) ⭐️ 6.0/10
 
-加州大学伯克利分校的研究人员发现，司美格鲁肽将老年雌性小鼠（20 个月龄，约相当于人类 60 岁）的中位寿命延长了约 12%，服药组小鼠中位寿命为 834 天，而对照组为 742 天。该药物还改善了小鼠的运动协调能力、肌肉功能和血糖调节，并减缓了多种衰老标志，包括炎症、干细胞减少、细胞衰老、基因组不稳定、线粒体功能障碍和蛋白质稳态失衡。 这一发现具有重要意义，因为司美格鲁肽（以 Ozempic 和 Wegovy 等品牌销售）等 GLP-1 受体激动剂已广泛用于治疗糖尿病和肥胖症，而这项研究表明它们可能具有超越减重和代谢控制的抗衰老益处。如果结果能转化到人类，可能会改变这些重磅药物的使用方式并加速长寿研究，不过小鼠实验结果对人类衰老的直接适用性历来有限。 一组与司美格鲁肽组摄入相同热量的单纯饮食限制小鼠也获得了相近的寿命延长，表明大部分延寿效果可归因于热量摄入减少（减少 24%）。然而，服药组小鼠在空间记忆测试中的表现优于单纯饮食限制组，暗示存在热量限制无法完全解释的额外脑部相关机制。该研究仅使用了雌性小鼠，因此性别特异性效应仍有待探究。
+集邦咨询指出，2026 年第二季全球晶圆代工营收接近 534.9 亿美元，中芯国际与三星在主要厂商中的市占率差距进一步缩小。
 
-rss · Solidot · 9月8日 06:33
+rss · DRAMeXchange (TrendForce) · 9月9日 17:02
 
-**背景**: GLP-1 受体激动剂（如司美格鲁肽）最初是为治疗 2 型糖尿病而开发的，后来因其抑制食欲和延缓胃排空的作用而被批准用于慢性体重管理。"衰老标志"框架在一篇具有里程碑意义的《Cell》综述中被正式提出，识别了驱动衰老的关键生物学过程——包括慢性炎症、细胞衰老、线粒体功能障碍和蛋白质稳态丧失。热量限制作为潜在的延寿干预措施已被研究数十年，但在人类和灵长类动物中的证据仍然参差不齐且存在争议。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://m.baidu.com/bh/m/detail/ar_8606887961515339852">每月打一针，轻松瘦身？ 医生解读： 司 美 格 鲁 肽 的减肥效果与安全性</a></li>
-<li><a href="https://shop.1153.me/2023/06/29/cell综述：衰老（aging）的十二大标志！hallmarks-of-aging-an-expanding-universe/">Cell综述： 衰 老 （ Aging ）的十二大 标 志 ！ Hallmarks of aging : An...</a></li>
-<li><a href="https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know">Calorie restriction and fasting diets: What do we know?</a></li>
-
-</ul>
-</details>
-
-**标签**: `#GLP-1`, `#semaglutide`, `#aging-research`, `#longevity`, `#mouse-study`
+**标签**: `#semiconductors`, `#foundry-market`, `#market-analysis`, `#SMIC`, `#Samsung`
 
 ---
 
 <a id="item-20"></a>
-## [大语言模型通过自适应探索发展出新型社会偏见](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) ⭐️ 7.0/10
+## [弥合面向实用量子计算的高性能计算软件鸿沟](https://www.eetimes.com/bridging-the-hpc-software-gap-for-practical-quantum-computing/) ⭐️ 6.0/10
 
-研究表明，大语言模型能够通过自适应探索自主发展出新型社会偏见，即使针对那些没有内在区分特征的任意人口群体也是如此。这表明偏见的生成是一种涌现属性，超越了简单的训练数据关联。
+分析高性能计算中心为有效集成量子计算系统、弥合基础设施软件鸿沟而必须解决的问题，以及如何借此实现实用化的量子优势。
 
-hackernews · paimapi · 9月8日 21:47 · [社区讨论](https://news.ycombinator.com/item?id=49617581)
+rss · EE Times · 9月9日 12:00
 
-**标签**: `#LLM-bias`, `#AI-safety`, `#emergent-behavior`, `#alignment-research`, `#LLM-evaluation`
+**标签**: `#quantum-computing`, `#HPC`, `#infrastructure`, `#quantum-HPC-integration`, `#software-engineering`
 
 ---

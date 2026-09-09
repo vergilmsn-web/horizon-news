@@ -5,362 +5,397 @@ date: 2026-09-09
 lang: en
 ---
 
-> From 95 items, 20 important content pieces were selected
+> From 80 items, 20 important content pieces were selected
 
 ---
 
-1. [(PR) TSMC and ASML Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV](#item-1) ⭐️ 8.5/10
-2. [Navier-Stokes – Tristan Buckmaster (pdf)](#item-2) ⭐️ 8.0/10
-3. [DeepMind Releases AlphaGenome Atlas for DNA Variant Effects](#item-3) ⭐️ 8.0/10
-4. [Samsung's HBM Base Die Evolves into Logic-Rich Compute Layer](#item-4) ⭐️ 8.0/10
-5. [NVIDIA Vera: Rebuilding the CPU for Agentic AI](#item-5) ⭐️ 8.0/10
-6. [High-NA EUV Lithography Transitions from R&D to Production](#item-6) ⭐️ 8.0/10
-7. [ASML and TSMC’s 12-Inch Photomask Initiative: Technical Significance](#item-7) ⭐️ 8.0/10
-8. [ASML and TSMC to lead transition to 12-inch photomasks for High-NA EUV](#item-8) ⭐️ 8.0/10
-9. [Imec Demonstrates 3.8M Junctions/cm² NbTiN Superconducting Circuit](#item-9) ⭐️ 8.0/10
-10. [Intel Foundry Hits One Million High-NA EUV Wafers Milestone](#item-10) ⭐️ 7.5/10
-11. [CXMT and YMTC Stockpile ASML DUV Tools Ahead of Possible Export Ban](#item-11) ⭐️ 7.5/10
-12. [TSMC Plans High-NA EUV Lithography Adoption Starting in 2030](#item-12) ⭐️ 7.5/10
-13. [Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks](#item-13) ⭐️ 7.5/10
-14. [Super Smash Bros Melee Fully Decompiled After Six+ Years](#item-14) ⭐️ 7.5/10
-15. [Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet — attackers claim they’re the ‘good guys’ and will return funds after the vulnerability is fixed](#item-15) ⭐️ 7.5/10
-16. [Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom — AI-powered 3D model of over 166,000 neurons can also play Super Mario 64](#item-16) ⭐️ 7.5/10
-17. [Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed](#item-17) ⭐️ 7.5/10
-18. [Intel Hits 1M High-NA EUV Wafers, Pioneers 6×12 Photomasks](#item-18) ⭐️ 7.5/10
-19. [GLP-1 Drug Semaglutide Extends Lifespan in Mouse Study](#item-19) ⭐️ 7.3/10
-20. [Large language models develop novel social biases through adaptive exploration](#item-20) ⭐️ 7.0/10
+1. [Samsung Plans to Put Logic on HBM Base Dies](#item-1) ⭐️ 8.0/10
+2. [NVIDIA Vera CPU: Purpose-Built for Agentic AI](#item-2) ⭐️ 8.0/10
+3. [Andøya, Isar Aerospace achieve first European orbital launch](#item-3) ⭐️ 8.0/10
+4. [Mistral AI Raises €3B Series D at €21B+ Valuation](#item-4) ⭐️ 8.0/10
+5. [CXMT HBM3E Yield Reportedly Only 25% Due to Immature TSV Technology](#item-5) ⭐️ 7.5/10
+6. [Modders Unlock DLSS Multi Frame Generation on RTX 30-Series GPUs](#item-6) ⭐️ 7.5/10
+7. [OpenAI eyes dual-sourcing AI chips from Samsung and TSMC](#item-7) ⭐️ 7.5/10
+8. [Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage](#item-8) ⭐️ 7.5/10
+9. [孕期记忆力下降背后的生物学机制](#item-9) ⭐️ 7.3/10
+10. [Tailwind Labs Acquired by Shopify Amid AI Disruption](#item-10) ⭐️ 7.0/10
+11. [Security researcher exposes Google Ads as malware distribution vector](#item-11) ⭐️ 7.0/10
+12. [Muse – Meta’s personal AI agent](#item-12) ⭐️ 7.0/10
+13. [Quantum Scaling Is Becoming a Control-Electronics Problem](#item-13) ⭐️ 7.0/10
+14. [Intel-Backed Hypertune Auto-Overclocking Tool Claims Up to 60% FPS Boost](#item-14) ⭐️ 6.5/10
+15. [OpenAI Navier-Stokes claim sparks plagiarism and career threat controversy](#item-15) ⭐️ 6.5/10
+16. [Claude, change the "Add to Cart" button to blue](#item-16) ⭐️ 6.0/10
+17. [Desert Ant Labs Launches Free On-Device Task-Specific AI Models](#item-17) ⭐️ 6.0/10
+18. [DeepSeek V4.1 Flash Auto-Routes Paid Pro Requests, Sparking Debate](#item-18) ⭐️ 6.0/10
+19. [Global Foundry Revenue Approaches US$53.49 Billion in 2Q26 as SMIC Narrows Market Share Gap with Samsung, Says TrendForce](#item-19) ⭐️ 6.0/10
+20. [Bridging the HPC Software Gap for Practical Quantum Computing](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [(PR) TSMC and ASML Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV](https://www.techpowerup.com/352471/tsmc-and-asml-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv) ⭐️ 8.5/10
+## [Samsung Plans to Put Logic on HBM Base Dies](https://semiwiki.com/events/372843-372843/) ⭐️ 8.0/10
 
-TSMC and ASML announce collaboration to transition the semiconductor industry from 6-inch to 12-inch photomask formats for High NA EUV lithography, enabling higher productivity and lower chipmaking costs.
+Samsung announced at Hot Chips 2026 that it plans to integrate advanced logic processes into the base dies of HBM stacks, transforming them from simple interconnect layers between stacked DRAM and processors into processing-capable substrates. The presentation, titled "HBM Base Die: How HBM Will Evolve Using Advanced Logic Processes," signals a shift toward memory-compute convergence. This architectural shift directly targets the well-known "memory wall" bottleneck in von Neumann computing, where data movement between memory and processors limits performance and inflates energy costs. By embedding logic into the memory base die, AI accelerators such as GPUs and TPUs could see meaningful gains in bandwidth, latency, and energy efficiency, reshaping the memory hierarchy for the AI era. A traditional HBM stack contains up to 12 vertically stacked DRAM dies (in HBM3e) sitting atop a base logic die; Samsung's proposal would evolve that base die from passive routing into active computation. HBM already commands a price premium over DDR5 but remains the memory of choice for AI workloads, so any architectural innovation in its base die carries outsized significance for AI accelerator roadmaps.
 
-rss · TechPowerUp News · Sep 8, 15:23
+rss · SemiWiki · Sep 8, 21:00
 
-**Tags**: `#semiconductors`, `#EUV-lithography`, `#TSMC`, `#ASML`, `#chip-manufacturing`
+**Background**: HBM (High Bandwidth Memory) is a 3D-stacked DRAM interface originally co-developed by Samsung, AMD, and SK Hynix, delivering far higher bandwidth than conventional memory by stacking multiple DRAM dies and connecting them through a base logic die via through-silicon vias (TSVs). Hot Chips is an annual symposium where leading semiconductor companies unveil architectural and design innovations for CPUs, GPUs, AI accelerators, and memory subsystems. The "memory wall" refers to the growing gap between processor speed and memory speed, and in-memory or near-memory computing architectures aim to ease this by reducing data movement between compute and storage units.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://manishklach.github.io/writings/hbm-how-it-is-actually-built.html">HBM Explained: How High Bandwidth Memory Is Actually Built ...</a></li>
+<li><a href="https://www.hotchips.org/">Hot Chips</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#HBM`, `#memory-architecture`, `#Samsung`, `#HotChips2026`, `#in-memory-computing`
 
 ---
 
 <a id="item-2"></a>
-## [Navier-Stokes – Tristan Buckmaster (pdf)](https://cims.nyu.edu/~tristanb/statement.pdf) ⭐️ 8.0/10
+## [NVIDIA Vera CPU: Purpose-Built for Agentic AI](https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/) ⭐️ 8.0/10
 
-Mathematician Tristan Buckmaster alleges OpenAI pressured him after making progress on Navier-Stokes-related problems, claiming his insights may have influenced competing research they published, raising serious questions about AI training on academic work.
-
-hackernews · procedurecall · Sep 8, 05:42 · [Discussion](https://news.ycombinator.com/item?id=49605915)
-
-**Tags**: `#ai-ethics`, `#openai`, `#academic-integrity`, `#mathematics`, `#navier-stokes`
-
----
-
-<a id="item-3"></a>
-## [DeepMind Releases AlphaGenome Atlas for DNA Variant Effects](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) ⭐️ 8.0/10
-
-Google DeepMind has released AlphaGenome Atlas, an AI-driven database that predicts the molecular effects and AVI scores for approximately 9 billion single-nucleotide variants across the entire human genome. The atlas builds on the AlphaGenome sequence-to-function model and is publicly accessible through DeepMind's website. By providing predictions for every possible single-letter DNA change, AlphaGenome Atlas gives researchers a comprehensive reference to interpret genetic variants found in patients, accelerating disease gene discovery, rare disease diagnosis, and drug target identification. It democratizes access to large-scale functional genomics data that previously required expensive and time-consuming laboratory experiments. The atlas uses a sequence-to-function deep learning architecture that takes DNA sequences as input and predicts genome-wide assay tracks derived from experimental data in cell lines and tissues. The underlying AlphaGenome model was detailed in a Nature paper in early 2026, and the atlas layer complements it with precomputed predictions covering non-coding as well as coding regions.
-
-hackernews · utiiiD · Sep 8, 14:55 · [Discussion](https://news.ycombinator.com/item?id=49611251)
-
-**Background**: Single-nucleotide variants (SNVs) are the most common type of genetic difference between individuals, and understanding their functional impact is a central challenge in human genetics. Variant effect prediction (VEP) aims to estimate whether a given DNA change is likely harmful, benign, or has regulatory consequences, and is critical for interpreting clinical genetic tests. Sequence-to-function models like AlphaGenome learn from large-scale experimental datasets (such as ENCODE and GTEx) that measure molecular activity across the genome, allowing them to predict how mutations alter gene regulation, splicing, and other cellular processes without direct wet-lab testing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/">AlphaGenome Atlas: Molecular predictions for 9 Billion human ...</a></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">Introducing AlphaGenome Atlas - The Keyword</a></li>
-<li><a href="https://www.nature.com/articles/s41586-025-10014-0">Advancing regulatory variant effect prediction with AlphaGenome | Nature</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community reaction was largely positive and technical. One commenter noted that the model covers non-coding DNA, which should include promoter sequences and their consensus motifs, while asking whether quantitative transcription-rate predictions are available. Another user shared a tutorial video walkthrough and clarified that no real institutional affiliation is needed to access the Atlas. Several users asked practical questions about whether the tool could be used with consumer genotyping data (e.g., 23andMe) to find pathogenic mutations, and another commenter linked to a related biorxiv study that performed an analogous exhaustive single-nucleotide mutagenesis experiment on a simple virus, drawing a useful real-world parallel.
-
-**Tags**: `#genomics`, `#deepmind`, `#AI`, `#computational-biology`, `#DNA-sequencing`
-
----
-
-<a id="item-4"></a>
-## [Samsung's HBM Base Die Evolves into Logic-Rich Compute Layer](https://semiwiki.com/events/372843-372843/) ⭐️ 8.0/10
-
-At Hot Chips 2026, Samsung presented a roadmap titled "HBM Base Die: How HBM Will Evolve Using Advanced Logic Processes," outlining a three-phase plan to transform the HBM base die from a passive communication layer into a logic-rich component built on advanced nodes (starting at 4nm for HBM4). The roadmap progresses from area reclamation and functional expansion (cHBM) to a fully integrated 3D-stacked zHBM that places DRAM directly atop the compute processor. This shift toward compute-near-memory and compute-in-memory architectures directly addresses the bandwidth wall and energy efficiency bottlenecks that limit today's AI accelerators, potentially reducing the data-movement overhead that dominates power consumption in large model training and inference. If Samsung delivers, it could reshape how GPUs, TPUs, and custom XPUs integrate with memory, influencing the competitive landscape against SK hynix and Micron. The base die traditionally handles DRAM control, PHY interfacing, and power distribution via through-silicon vias (TSVs); Samsung proposes shifting it to a 4nm logic process from HBM4 onward to reclaim silicon area, shrink interface circuitry, and host functions previously handled by the host processor. The MPGA (memory processing/peak gradient array) power keeps rising even as energy efficiency improves, which is Samsung's stated justification for embedding advanced logic in the base die.
-
-rss · SemiWiki · Sep 8, 21:00
-
-**Background**: High Bandwidth Memory (HBM) stacks multiple DRAM dies vertically atop a base die that connects to a host processor, delivering far greater bandwidth than DDR or GDDR while using less power. The base die has historically been a relatively simple logic layer handling control signals, PHY (physical interface) circuitry, refresh, and TSV-based power delivery. Compute-near-memory (CNM) places processing logic adjacent to memory arrays, while compute-in-memory (CIM) performs computation directly within the memory cells—both aim to reduce the energy and latency cost of shuttling data between processors and DRAM, which has become the dominant bottleneck for AI workloads.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor">Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory — zHBM ultimately stacks DRAM directly on top of the processor | Tom's Hardware</a></li>
-<li><a href="https://www.servethehome.com/samsung-evolving-hbm-base-die-at-hot-chips-2026/">Samsung Evolving HBM Base Die at Hot Chips 2026 - ServeTheHome</a></li>
-<li><a href="https://semiengineering.com/in-memory-vs-near-memory-computing/">In-Memory Vs. Near-Memory Computing - Semiconductor Engineering</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#HBM`, `#memory architecture`, `#AI hardware`, `#Samsung`, `#Hot Chips 2026`
-
----
-
-<a id="item-5"></a>
-## [NVIDIA Vera: Rebuilding the CPU for Agentic AI](https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/) ⭐️ 8.0/10
-
-NVIDIA unveiled Vera, a new server CPU purpose-built for agentic AI workloads, presented at Hot Chips 2026.
+At Hot Chips 2026, NVIDIA unveiled the Vera CPU, a server processor engineered specifically for agentic AI workloads involving repeated observation-reasoning-action loops. The chip is built on the Olympus core architecture, based on Arm Neoverse V2, with each core featuring 18 execution pipes. Vera represents NVIDIA's most direct challenge to traditional CPU vendors in the data center, targeting a workload pattern that GPUs alone cannot efficiently serve. As agentic AI becomes a dominant deployment pattern, purpose-built CPUs that optimize for low-latency, high-frequency inference loops could reshape server procurement decisions across the industry. All published performance figures are NVIDIA claims, with several results based on preproduction or unofficial testing as disclosed by SemiWiki. The architecture integrates into the Vera Rubin NVL72 platform alongside Bluefield DPUs and NVLink interconnect, positioning Vera as part of a full-stack agentic AI infrastructure rather than a standalone CPU.
 
 rss · SemiWiki · Sep 8, 17:00
+
+**Background**: Agentic AI refers to autonomous AI systems that operate in iterative loops—observing their environment, reasoning about the next step, taking an action (often by calling external tools), and updating memory—rather than producing a single response from a prompt. These repeated short cycles impose different demands on a CPU than traditional server tasks, favoring fast single-thread latency, high memory bandwidth, and efficient branch-heavy control flow over raw multi-core throughput. Hot Chips is an annual academic-industry symposium where leading chip designers present deep architectural details of upcoming processors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more">Nvidia deep dives Vera CPU for AI data centers... | Tom's Hardware</a></li>
+<li><a href="https://www.servethehome.com/diving-deeper-on-nvidias-vera-cpu-new-architectural-details-and-spec-cpu-2026-benchmarks/">Diving Deeper on NVIDIA 's Vera CPU : New Architectural Details and...</a></li>
+
+</ul>
+</details>
 
 **Tags**: `#NVIDIA`, `#CPU architecture`, `#agentic AI`, `#Hot Chips 2026`, `#hardware`
 
 ---
 
-<a id="item-6"></a>
-## [High-NA EUV Lithography Transitions from R&D to Production](https://semiwiki.com/semiconductor-manufacturers/intel/373350-high-na-euv-moves-from-experiment-to-manufacturing/) ⭐️ 8.0/10
+<a id="item-3"></a>
+## [Andøya, Isar Aerospace achieve first European orbital launch](https://www.electronicsweekly.com/news/andoya-isar-aerospace-achieve-first-european-orbital-launch-2026-09/) ⭐️ 8.0/10
 
-At the SPIE Photomask Technology and Extreme Ultraviolet Lithography conference, Intel Foundry and ASML announced that High-NA EUV lithography has officially crossed from a development tool into a production manufacturing technology, with Intel reporting that it has processed wafers on the system. This milestone signals the start of high-volume manufacturing for High-NA EUV, a technology that enables smaller and denser chip features essential for advanced AI processors and sub-2nm logic nodes. The transition reshapes the global semiconductor manufacturing roadmap, determining which foundries can economically produce next-generation chips. High-NA EUV uses an anamorphic optical design with a higher numerical aperture to focus 13.5nm EUV light more tightly, achieving approximately 8nm resolution and potentially replacing multi-patterning steps with a single exposure. Each High-NA EUV system weighs about 150 metric tons, contains over 100,000 components, and the first unit was delivered by ASML in December 2023, with high-volume manufacturing targeted for 2025–2026.
+Isar Aerospace's Spectrum rocket achieved the first orbital launch from continental Europe, launching from Norway's Andøya Spaceport.
 
-rss · SemiWiki · Sep 8, 06:00
+rss · Electronics Weekly · Sep 9, 11:16
 
-**Background**: Extreme Ultraviolet Lithography (EUV) uses 13.5nm wavelength light generated by laser-pulsed tin plasma to print extremely fine circuit patterns on silicon wafers, and it has been in high-volume production since around 2018. The numerical aperture (NA) of a lithography system is a measure of how much light the optics can collect and focus, and a higher NA directly enables smaller minimum feature sizes. High-NA EUV is the next generation beyond standard EUV, using an anamorphic optical design that handles horizontal and vertical lines with different demagnification. ASML is the sole global supplier of EUV lithography systems, and major chipmakers including Intel, TSMC, and Samsung are all racing to integrate High-NA EUV into their advanced manufacturing roadmaps.
+**Tags**: `#space-launch`, `#Isar-Aerospace`, `#Andoya-Spaceport`, `#European-space`, `#commercial-space`
+
+---
+
+<a id="item-4"></a>
+## [Mistral AI Raises €3B Series D at €21B+ Valuation](https://www.electronicsweekly.com/news/business/mistral-has-3bn-series-d-2026-09/) ⭐️ 8.0/10
+
+French AI company Mistral has raised €3 billion in a Series D funding round at a valuation exceeding €21 billion, marking the largest equity fundraising round in European AI. Samsung Electronics is reportedly leading the round. This round underscores strong global investor confidence in European AI sovereignty and positions Mistral as Europe's flagship competitor against US-based AI labs like OpenAI and Anthropic. The involvement of Samsung as a lead investor signals deepening ties between the AI and semiconductor industries, potentially shaping future hardware-software integration strategies. The round values Mistral at over €21 billion, making it one of the most highly valued private AI companies globally. Mistral had previously secured a strategic partnership and €15 million investment from Microsoft in 2024, with its models distributed through Azure.
+
+rss · Electronics Weekly · Sep 9, 05:13
+
+**Background**: Mistral AI is a Paris-based large language model (LLM) lab founded around 2023, often described as Europe's most prominent homegrown AI champion. A Series D round is a late-stage funding event typically reserved for companies with proven business models and significant revenue traction. Samsung Electronics, traditionally a hardware and memory chip giant, joining as lead investor reflects the increasing convergence of AI model development with chip manufacturing, as companies seek to optimize AI workloads on custom hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://data-today.net/high-na-euv-bottleneck/">High - NA EUV turns AI chips into a $400M bottleneck | Data Today</a></li>
-<li><a href="https://semiconductorinsight.com/blog/euv-vs-high-na-euv-in-asml/">EUV vs. High-NA EUV in ASML - semiconductorinsight.com</a></li>
+<li><a href="https://www.youtube.com/watch?v=Reix15QzbIc">Mistral AI Raises €3 Billion With Samsung Leading the Round</a></li>
+<li><a href="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-frances-ai-darling/">What is Mistral AI ? Everything to know about... | TechCrunch</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#lithography`, `#EUV`, `#Intel`, `#ASML`, `#manufacturing`
+**Tags**: `#AI`, `#Mistral`, `#funding`, `#venture-capital`, `#European-tech`
+
+---
+
+<a id="item-5"></a>
+## [CXMT HBM3E Yield Reportedly Only 25% Due to Immature TSV Technology](https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25) ⭐️ 7.5/10
+
+According to South Korean media, Chinese memory maker CXMT is reportedly achieving only a 25% yield on its HBM3E risk production, meaning three out of four stacked dies are defective. The low yield is attributed to immature through-silicon via (TSV) technology, with front-end manufacturing yielding around 30% and back-end processing further compounding the defect rate. HBM is a critical component for AI accelerators from companies like NVIDIA and AMD, and supply is dominated by Samsung, SK hynix, and Micron. CXMT's struggles to produce competitive HBM3E highlight China's challenges in catching up in advanced memory manufacturing, which has significant implications for both the AI hardware supply chain and US-China technology competition. CXMT reportedly attempts to produce 8-Hi HBM3E with only about 3,000 TSVs per layer, compared to SK hynix's over 8,000 TSVs per layer on HBM3 and Samsung's approximately 5,000 TSVs per layer on HBM2 — this lower interconnect density may limit bandwidth and contribute to defectivity. A transition to higher-capacity 12-Hi HBM stacks is unlikely in the near term as CXMT prioritizes solving its current engineering challenges.
+
+rss · TechPowerUp News · Sep 9, 14:59
+
+**Background**: High Bandwidth Memory (HBM) is a type of stacked DRAM that vertically integrates multiple memory dies using through-silicon vias (TSVs) — vertical electrical connections passing completely through a silicon die — to achieve much higher data transfer rates than traditional planar DRAM, making it essential for AI training and inference workloads. CXMT (ChangXin Memory Technologies), founded in 2016, is China's only domestically mass-producing DRAM manufacturer and has previously faced allegations of IP theft from Samsung. While CXMT is competitive in conventional DDR4 and DDR5 DRAM, HBM3E is a significantly more advanced product that requires mastering both leading-edge DRAM nodes and complex 3D packaging, areas where the Korean and American incumbents have years of head start.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Through-silicon_via">Through-silicon via - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#HBM3E`, `#CXMT`, `#DRAM`, `#China-tech`
+
+---
+
+<a id="item-6"></a>
+## [Modders Unlock DLSS Multi Frame Generation on RTX 30-Series GPUs](https://www.techpowerup.com/352508/modders-unlock-dlss-multi-frame-generation-for-rtx-30-series-ampere-gpus) ⭐️ 7.5/10
+
+Modders have released a tool called DLSSG SM86 that enables NVIDIA's DLSS Multi Frame Generation (2X and 4X modes) on GeForce RTX 30-series Ampere GPUs by creating a proxy backend for the SM86 architecture, rather than relying on AMD FSR Frame Generation. This mod extends a flagship feature that NVIDIA officially restricts to RTX 50-series Blackwell GPUs to a massive installed base of RTX 30-series users, potentially giving them significantly higher frame rates in demanding games without buying new hardware. The mod runs a bundled DLSSG 310.1 runtime alongside the game and redirects frame generation calls without modifying game files. Testing was done on an RTX 3080 Ti with driver 591.86 on Windows/D3D12, with reported gains like Cyberpunk 2077 with path tracing jumping from 35 to 100 FPS at 4X, though the developer notes formal frametime, latency, and long-duration stability testing has not yet been performed.
+
+rss · TechPowerUp News · Sep 9, 13:09
+
+**Background**: DLSS (Deep Learning Super Sampling) is NVIDIA's AI-based upscaling and frame generation technology. DLSS Frame Generation traditionally synthesizes one extra frame per rendered frame (2X), while DLSS Multi Frame Generation — introduced with RTX 50-series — can generate multiple frames per rendered frame (3X, 4X, and even up to 6X in newer updates). The RTX 30-series uses NVIDIA's Ampere architecture, identified by compute capability SM86, which includes cards like the RTX 3060, 3070, 3080, 3080 Ti, and 3090. Earlier community workarounds for frame generation on older NVIDIA cards swapped in AMD's FSR Frame Generation pipeline, which works cross-vendor but produces lower-quality results than NVIDIA's native neural network models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ampere_(microarchitecture)">Ampere (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/">DLSS 4.5 Dynamic Multi Frame Generation & Multi Frame Generation ...</a></li>
+<li><a href="https://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/">Matching CUDA arch and CUDA gencode for various NVIDIA architectures - Arnon Shimoni</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#DLSS`, `#NVIDIA`, `#RTX`, `#frame-generation`, `#modding`
 
 ---
 
 <a id="item-7"></a>
-## [ASML and TSMC’s 12-Inch Photomask Initiative: Technical Significance](https://semiwiki.com/semiconductor-manufacturers/tsmc/373405-asml-and-tsmcs-12-inch-photomask-initiative-technical-significance/) ⭐️ 8.0/10
+## [OpenAI eyes dual-sourcing AI chips from Samsung and TSMC](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements) ⭐️ 7.5/10
 
-ASML and TSMC are collaborating to transition from 6-inch to 12-inch photomasks, a significant infrastructure change aimed at improving efficiency and capability for advanced semiconductor manufacturing using EUV lithography.
+OpenAI is reportedly deepening its chip cooperation with Samsung and may double-source its next-generation AI ASICs from both Samsung and TSMC, aiming to bring more in-house silicon into its data centers. The dual-sourcing approach suggests OpenAI's custom AI processors will be needed in extremely large volumes. This signals OpenAI's aggressive compute scaling ambitions and its desire to reduce dependence on a single foundry. Dual-sourcing with Samsung and TSMC also reshapes the competitive dynamics in AI chip manufacturing, potentially giving OpenAI leverage in pricing and capacity negotiations while diversifying geopolitical and supply chain risks. Dual-sourcing custom ASICs is notably harder than dual-sourcing commodity chips, since designs must be qualified and validated at each foundry's process node. Apple's prior use of dual-sourcing between TSMC and Samsung offers a precedent, though ASICs for AI workloads carry additional complexity compared to mobile SoCs.
 
-rss · SemiWiki · Sep 8, 06:00
+rss · Tom's Hardware · Sep 9, 14:30
 
-**Tags**: `#semiconductor-manufacturing`, `#ASML`, `#TSMC`, `#EUV-lithography`, `#photomask-technology`
+**Background**: ASICs (Application-Specific Integrated Circuits) are chips custom-designed for a specific workload—in this case, AI processing—and they typically offer better energy efficiency and lower latency than general-purpose GPUs at the cost of post-deployment flexibility. TSMC and Samsung are the world's two leading semiconductor foundries, meaning companies that manufacture chips designed by others, with TSMC historically holding the technological lead and Samsung offering geographic and political diversification. Dual-sourcing is a supply chain strategy in which a company qualifies the same component at two or more suppliers to reduce disruption risk, improve pricing leverage, and secure capacity—Apple famously uses this approach for its A-series and M-series mobile processors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.z2data.com/insights/why-dual-sourcing-is-essential-to-weathering-the-memory-chip-shortage/">Why Dual Sourcing Is Essential to Weathering the Memory Chip Shortage | Z2Data</a></li>
+<li><a href="https://procurementtactics.com/dual-sourcing/">Dual Sourcing — Definition, Advantages, and Disadvantages</a></li>
+<li><a href="https://www.imeciclink.com/en/articles/asic-vs-gpu-ai">ASIC vs GPU for AI | IC-Link by imec by imec</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OpenAI`, `#AI-chips`, `#Samsung`, `#TSMC`, `#semiconductor-manufacturing`
 
 ---
 
 <a id="item-8"></a>
-## [ASML and TSMC to lead transition to 12-inch photomasks for High-NA EUV](https://www.electronicsweekly.com/news/business/asml-and-tsmc-to-lead-transition-to-12-inch-photomasks-for-high-na-euv-2026-09/) ⭐️ 8.0/10
+## [Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage](https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage) ⭐️ 7.5/10
 
-ASML and TSMC announce a collaborative initiative to lead the semiconductor industry's transition to larger 12-inch photomasks for High-NA EUV lithography.
+An anonymous researcher has reverse-engineered and published the source code of Stuxnet, the historic cyber weapon that targeted Iranian nuclear facilities, on GitHub.
 
-rss · Electronics Weekly · Sep 8, 07:22
+rss · Tom's Hardware · Sep 9, 10:30
 
-**Tags**: `#semiconductors`, `#EUV lithography`, `#ASML`, `#TSMC`, `#photomasks`
+**Tags**: `#stuxnet`, `#cybersecurity`, `#malware`, `#cyber-warfare`, `#reverse-engineering`
 
 ---
 
 <a id="item-9"></a>
-## [Imec Demonstrates 3.8M Junctions/cm² NbTiN Superconducting Circuit](https://www.electronicsweekly.com/news/business/jj-ic-has-3-8m-junctions-per-cm2-2026-09/) ⭐️ 8.0/10
+## [孕期记忆力下降背后的生物学机制](https://www.solidot.org/story?sid=85325) ⭐️ 7.3/10
 
-At the 2026 Applied Superconductivity Conference (ASC), Imec presented a three-metal-level (3ML) niobium-titanium-nitride (NbTiN) Josephson junction circuit achieving a circuit design density of 3.8 million junctions per square centimeter, scaling the technology to a 30nm process node. This record junction density is a key milestone for scaling superconducting electronics, directly impacting cryogenic computing architectures such as Rapid Single Flux Quantum (RSFQ) logic, superconducting qubit arrays, and SQUID-based sensing, where higher integration density enables more complex and powerful circuits. The circuit uses three NbTiN metal interconnect levels and was fabricated at a 30nm node. NbTiN is valued for its robust superconducting properties, thickness uniformity, and compatibility with thin-film deposition techniques like atomic layer deposition (ALD), making it well-suited for upscaling superconducting electronics.
+A study reveals that pregnancy-related memory decline ('Mom Brain') is caused by sustained high estrogen levels disrupting a specific hypothalamus-hippocampus neural circuit rather than directly affecting memory centers, reconciling a long-standing controversy in the field.
 
-rss · Electronics Weekly · Sep 8, 05:14
+rss · Solidot · Sep 9, 05:42
 
-**Background**: A Josephson junction is a quantum-mechanical device consisting of two superconductors separated by a thin barrier, exploiting the Josephson effect to enable ultra-fast, low-power switching. Such junctions are the fundamental building blocks of superconducting digital logic (such as RSFQ), superconducting qubits for quantum computers, and sensitive magnetometers (SQUIDs). NbTiN is a transition-metal nitride superconductor widely used in quantum technologies and photon detection because of its high critical temperature and compatibility with standard semiconductor process flows. Increasing junction density is a critical metric for advancing these technologies toward practical large-scale systems.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.eenewseurope.com/en/imec-scales-nbtin-superconducting-circuits-to-30nm/">Imec scales NbTiN superconducting circuits to 30nm ..</a></li>
-<li><a href="https://www.newelectronics.co.uk/content/news/imec-unveils-superconducting-circuit-breakthrough-with-record-density-nbtin-technology">Imec presents superconducting circuit breakthrough - New Electronics</a></li>
-<li><a href="https://arxiv.org/pdf/2311.14154">Structural transitions in superconducting NbTiN thin films</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Josephson Junctions`, `#Superconducting Electronics`, `#Cryogenic Computing`, `#Semiconductor Fabrication`, `#Imec`
+**Tags**: `#neuroscience`, `#estrogen`, `#memory`, `#pregnancy`, `#hypothalamus-hippocampus`
 
 ---
 
 <a id="item-10"></a>
-## [Intel Foundry Hits One Million High-NA EUV Wafers Milestone](https://www.techpowerup.com/352465/intel-foundry-achieves-milestone-with-one-million-high-na-euv-wafers) ⭐️ 7.5/10
+## [Tailwind Labs Acquired by Shopify Amid AI Disruption](https://tailwindcss.com/blog/tailwind-is-joining-shopify) ⭐️ 7.0/10
 
-Intel has officially processed one million 300mm wafers using High-NA EUV lithography, confirming the technology's viability across its 14A and 18A process nodes as well as select Panther Lake SKUs. The company has also completed acceptance testing of ASML's newer TWINSCAN EXE:5200B High-NA scanner for its 14A node and is offering High-NA capabilities to external foundry customers. This milestone demonstrates that High-NA EUV lithography, a multi-billion-dollar next-generation technology from ASML, has moved from experimental research into practical high-volume manufacturing, validating Intel's foundry strategy and reducing risks for future sub-2nm nodes. By offering it externally, Intel strengthens its position in the contract chipmaking market against TSMC and Samsung. ASML's TWINSCAN EXE:5000 scanners use a 13.5nm wavelength with 0.55 numerical aperture to achieve up to 8nm resolution, cost between $300-400 million each, and Intel previously reported processing over 30,000 wafers in a single quarter while reducing the steps needed for a specific layer from 40 to fewer than 10. The newer EXE:5200B is being deployed for higher-volume 14A production.
+Tailwind Labs, the company behind the popular utility-first CSS framework Tailwind CSS, is being acquired by Shopify. The acquisition follows significant AI-driven disruption to Tailwind's business, including a 40% drop in documentation traffic since early 2023 and the prior layoff of 75% of the company's engineering team. This acquisition highlights how AI coding assistants are disrupting developer tool businesses, especially documentation-centric products, as developers increasingly rely on AI to generate code and styling without consulting traditional docs. It also raises broader questions about the long-term viability of utility-first CSS frameworks when AI can generate vanilla CSS or framework code on demand. AI's disruption was the primary catalyst: the company cited a 40% drop in docs traffic despite Tailwind being more popular than ever, leading to a 75% engineering layoff in January before the Shopify deal was announced. Adam Wathan, Tailwind's founder, openly acknowledged that AI dramatically impacted their business model, particularly the sale of UI templates.
 
-rss · TechPowerUp News · Sep 8, 11:24
+hackernews · EdwinHoksberg · Sep 9, 13:27 · [Discussion](https://news.ycombinator.com/item?id=49626190)
 
-**Background**: High-NA (High Numerical Aperture) EUV lithography is the next generation of extreme ultraviolet lithography used to etch extremely fine circuit patterns onto silicon wafers. ASML is the sole manufacturer of these systems, with each scanner costing hundreds of millions of dollars. Intel's process nodes follow a naming convention where smaller numbers indicate more advanced manufacturing—18A roughly corresponds to a 1.8nm-class node, while 14A represents a 1.4nm-class node targeting production around 2027-2028. Panther Lake is Intel's upcoming Core Ultra Series 3 client processor family.
+**Background**: Tailwind CSS is a utility-first CSS framework that allows developers to compose designs directly in HTML using small, reusable utility classes like flex, pt-4, and text-center, rather than writing custom CSS. It became one of the most popular CSS frameworks in the modern web development ecosystem. Shopify is a major e-commerce platform that has increasingly expanded into developer tools and frameworks for online storefronts. The acquisition suggests Shopify sees value in integrating Tailwind's technology and team into its commerce ecosystem, particularly as AI-driven website builders reshape how online stores are created.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems/twinscan-exe-5000">TWINSCAN EXE : 5000 - EUV lithography systems | ASML</a></li>
-<li><a href="https://www.allaboutcircuits.com/news/intel-first-to-install-high-na-euv-lithography-scanner/">Intel First to Install High NA EUV Lithography Scanner - News</a></li>
-<li><a href="https://www.digitalcitizen.life/intel-14a-defect-density-progress-could-point-to-an-earlier-2028-launch/">Intel 14 A Defect Density Progress Could Point to an Earlier 2028 Launch</a></li>
+<li><a href="https://tailwindcss.com/">Tailwind CSS - Rapidly build modern websites without ever leaving...</a></li>
+<li><a href="https://github.com/tailwindlabs/tailwindcss">GitHub - tailwindlabs/tailwindcss: A utility - first CSS framework for...</a></li>
+<li><a href="https://siit.co/blog/data-driven-disruption-ai-s-unexpected-impact-on-tech/18903">Data- Driven Disruption : AI 's Unexpected Impact On Tech | Blog | SIIT</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#Intel`, `#EUV lithography`, `#chip manufacturing`, `#foundry`
+**Discussion**: Community sentiment is mixed. Several commenters questioned whether Tailwind is still necessary in the AI era, arguing that vanilla CSS with modern features may now be sufficient since AI agents can handle CSS maintenance without the pain points of manual editing. Others defended Tailwind's educational value and expressed gratitude for the framework. One notable commenter shared that they instruct their AI agents to build UIs using Bootstrap 5, jQuery, and HTMX instead, citing simplicity and maintainability. The discussion broadly acknowledges the AI-driven business disruption while debating the future role of utility-first CSS frameworks.
+
+**Tags**: `#tailwindcss`, `#shopify`, `#acquisition`, `#web-development`, `#ai-impact`
 
 ---
 
 <a id="item-11"></a>
-## [CXMT and YMTC Stockpile ASML DUV Tools Ahead of Possible Export Ban](https://www.techpowerup.com/352461/cxmt-and-ymtc-stockpile-asml-tools-for-three-year-expansion-plans) ⭐️ 7.5/10
+## [Security researcher exposes Google Ads as malware distribution vector](https://xlii.space/eng/malicious-software-on-google-ads/) ⭐️ 7.0/10
 
-Chinese memory makers CXMT and YMTC have reportedly stockpiled enough ASML DUV lithography systems to sustain their expansion plans for the next three years, anticipating potential US pressure on the Netherlands to halt exports of older equipment to China. A new bipartisan US bill called the MATCH Act could compel such a broader ban on DUV tool shipments. This story highlights the escalating US-China tech rivalry, where export controls on semiconductor manufacturing equipment are becoming a key battleground. If the MATCH Act passes, ASML could lose nearly one-fifth of its projected annual revenue, while Chinese memory makers would face a significant but delayed setback thanks to their stockpiling strategy. The MATCH Act (Multilateral Alignment of Technology Controls on Hardware) is a bipartisan US bill that would force allied nations to align their export controls, potentially banning even older DUV machines—not just the cutting-edge EUV systems already restricted. CXMT specializes in DRAM chips while YMTC focuses on 3D NAND flash memory, making them central to China's domestic memory ambitions.
+A security researcher demonstrated that Google Ads can be exploited to advertise and distribute malicious software, revealing weaknesses in the platform's ad review process. The researcher successfully ran malware-laced ads through Google's advertising system, though their account was later reinstated after public visibility. This demonstration highlights systemic vulnerabilities in one of the world's largest ad networks, potentially affecting billions of users who trust Google-served ads. It raises broader concerns about platform accountability and the adequacy of automated content moderation at major tech companies. The researcher's account was eventually reinstated after the issue gained traction on Hacker News, suggesting human intervention or triggered alerts were needed beyond standard automated review. Google's 2025 Ads Safety Report claims that the majority of Responsive Search Ads are now reviewed instantly, yet the researcher still managed to bypass these automated checks.
 
-rss · TechPowerUp News · Sep 8, 08:49
+hackernews · xlii · Sep 9, 11:43 · [Discussion](https://news.ycombinator.com/item?id=49624856)
 
-**Background**: ASML is the world's sole producer of EUV lithography systems and a dominant supplier of DUV systems, which are essential for patterning the tiny features on microchips. DUV lithography remains the workhorse of semiconductor manufacturing, used in logic chips, memory devices, and various production stages. Since 2023, the Netherlands has restricted ASML from exporting its most advanced EUV tools to China, and the US has been pushing for even broader restrictions on older equipment.
+**Background**: Malvertising is the practice of using online advertisements to spread malware or scams, often by embedding malicious JavaScript code into ads that appear legitimate on standard ad networks. Google's ad review process combines automated filters, machine learning, and live human reviewers to detect invalid or fraudulent activity. However, attackers frequently employ techniques such as rotating residential proxies and cloaking (showing benign content to reviewers while serving malicious content to real users) to bypass ad verification systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.ymtc.com/en/intro.html">Company Profile-YMTC</a></li>
-<li><a href="https://www.asml.com/en/products/duv-lithography-systems">DUV lithography systems | Products</a></li>
+<li><a href="https://www.malwarebytes.com/malvertising">What is Malvertising ? | How to Protect Against It | Malwarebytes</a></li>
+<li><a href="https://blog.google/products/ads-commerce/2025-ads-safety-report/">Google’s 2025 Ads Safety Report - The Keyword</a></li>
+<li><a href="https://support.google.com/google-ads/answer/1722120?hl=en">About the ad review process - Google Ads Help</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#ASML`, `#US-China tech war`, `#export controls`, `#supply chain`
+**Discussion**: Community sentiment strongly criticized Google for neglecting user safety, with commenters sharing anecdotes of scam ads flooding YouTube and frustration with opaque automated moderation systems. Several participants called for regulatory intervention, arguing that large platforms need mandatory human contact points and clearer accountability mechanisms for account terminations and content moderation decisions.
+
+**Tags**: `#security`, `#google-ads`, `#malware`, `#platform-security`, `#ad-fraud`
 
 ---
 
 <a id="item-12"></a>
-## [TSMC Plans High-NA EUV Lithography Adoption Starting in 2030](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use) ⭐️ 7.5/10
+## [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) ⭐️ 7.0/10
 
-TSMC has disclosed plans to begin using High-NA EUV lithography in 2030, with the A10 or A11 process nodes as prime candidates for initial deployment. Full deployment of the new scanners and 6×12-inch photomasks is scheduled for 2033. This roadmap announcement provides critical visibility into the future of advanced node scaling and signals TSMC's measured approach to next-generation lithography, which could influence equipment purchasing decisions and the broader semiconductor manufacturing ecosystem, particularly for ASML as the sole supplier of High-NA EUV systems. High-NA EUV systems, such as ASML's EXE:5000, use an 8nm resolution step that can reduce process complexity by enabling single exposure where older approaches required multiple patterning. The current photomask format for EUV is 6×6 inches, so the planned shift to 6×12-inch photomasks in 2033 represents a significant change that improves productivity per exposure.
+Meta launches Muse, a personal AI agent, sparking discussion about mainstream AI adoption strategy, prompt injection security defenses, and practical utility of AI assistants.
 
-rss · Tom's Hardware · Sep 8, 15:00
+hackernews · yks · Sep 8, 19:25 · [Discussion](https://news.ycombinator.com/item?id=49615537)
 
-**Background**: Extreme Ultraviolet (EUV) lithography is an advanced technology used to manufacture the most cutting-edge integrated circuits, using extremely short wavelengths of light to print incredibly fine circuit patterns onto silicon wafers. High-NA (numerical aperture) EUV is the next evolution, offering higher resolution to print even smaller features required for advanced logic nodes. A photomask is a high-precision plate that acts as a stencil, allowing light to pass through transparent areas to create microscopic circuitry patterns on silicon wafers. ASML is currently the sole manufacturer of EUV lithography systems globally, making TSMC's adoption timeline particularly important for the equipment supply chain.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
-<li><a href="https://data-today.net/high-na-euv-bottleneck/">High - NA EUV turns AI chips into a $400M bottleneck | Data Today</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Photomask">Photomask - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#TSMC`, `#EUV lithography`, `#chip manufacturing`, `#ASML`
+**Tags**: `#AI-agents`, `#Meta`, `#prompt-injection`, `#product-launch`, `#AI-security`
 
 ---
 
 <a id="item-13"></a>
-## [Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks](https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks) ⭐️ 7.5/10
+## [Quantum Scaling Is Becoming a Control-Electronics Problem](https://www.eetimes.com/quantum-scaling-is-becoming-a-control-electronics-problem/) ⭐️ 7.0/10
 
-Benchmarks of Qwen 3.8 27B on RTX 5090 reveal that software and inference engine optimizations are critical bottlenecks, not just VRAM capacity.
+Quantum computing scalability is increasingly constrained by control electronics challenges, including excessive wiring, heat dissipation, and latency, which are forcing classical control electronics deeper into cryogenic environments. As qubit counts grow, the bottleneck is shifting from qubits themselves to the classical infrastructure needed to operate them. This bottleneck matters because achieving fault-tolerant quantum computing requires scaling to thousands or millions of qubits, which in turn demands a proportional scaling of control infrastructure. Without breakthroughs in cryogenic control electronics, the entire quantum computing roadmap risks being delayed by classical engineering constraints rather than quantum physics limitations. Proposed solutions include cryogenic CMOS operating at 4 K or 10 mK, single flux quantum (SFQ) circuits, and novel superconducting transistors to multiplex control of many qubits per wire and reduce both wiring count and latency. Research teams have already demonstrated two-qubit randomized benchmarking using cryogenic CMOS electronics, providing a proof-of-concept for this architecture.
 
-rss · Tom's Hardware · Sep 8, 13:30
+rss · EE Times · Sep 9, 08:05
 
-**Tags**: `#Qwen`, `#RTX-5090`, `#LLM-benchmarking`, `#local-inference`, `#GPU-hardware`
+**Background**: Superconducting quantum computers operate at temperatures colder than outer space—typically around 10–20 millikelvin—because thermal noise drastically interferes with delicate quantum states. Each qubit traditionally requires its own dedicated control and readout wires running from room-temperature electronics down into the cryostat, creating a massive cabling bottleneck as systems scale. Moving classical control electronics into the cryogenic environment allows many qubits to share fewer wires through multiplexing, but introduces strict power-budget constraints since every milliwatt of heat must be removed by the dilution refrigerator.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://quantumoutpost.com/tutorials/61-cryogenic-control-electronics/">Cryogenic Control Electronics: The Unsung Bottleneck of ...</a></li>
+<li><a href="https://www.aeanet.org/why-do-quantum-computers-need-to-be-cold/">Why Do Quantum Computers Need to Be Cold? - AEANET</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#quantum-computing`, `#control-electronics`, `#cryogenic-systems`, `#hardware-scaling`, `#EE-engineering`
 
 ---
 
 <a id="item-14"></a>
-## [Super Smash Bros Melee Fully Decompiled After Six+ Years](https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code) ⭐️ 7.5/10
+## [Intel-Backed Hypertune Auto-Overclocking Tool Claims Up to 60% FPS Boost](https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems) ⭐️ 6.5/10
 
-After more than six years of community-driven reverse engineering, the Super Smash Bros Melee decompilation project (hosted at github.com/doldecomp/melee) has hit its key long-standing milestone, producing compilable C source code from the original GameCube binary. This milestone enables high-fidelity modding, speedrun-friendly enhancements, deeper bug analysis, and long-term preservation of a beloved competitive title, and it represents one of the most ambitious community decompilation efforts ever completed for a commercial console game. The original Melee was written in C and compiled for the PowerPC-based GameCube, which is why a faithful C decompilation is feasible. According to a progress tracker, the codebase reached 96.44% decompiled with 89.58% fully linked before this announcement, indicating near-complete coverage of the game's code and assets.
+Hypertune has publicly released its Gaming Performance Engineering platform, an Intel-backed auto-overclocking tool built on top of Intel's Extreme Tuning Utility (XTU) SDK and developed in partnership with Intel engineers. Unlike traditional overclocking approaches that rely on generic test profiles, Hypertune optimizes each individual system uniquely, claiming up to 60% FPS improvements on Intel-based systems following an early access period with over 60,000 participants. This tool could democratize overclocking by removing the technical expertise barrier that has historically kept novice users from extracting maximum performance from their hardware. With Intel's backing, it signals continued competition in the CPU performance optimization space and could influence how both casual gamers and esports professionals tune their systems. Hypertune's per-system optimization approach differs from profile-based tools by tuning each machine individually rather than applying blanket settings. The 60% FPS claim should be viewed with caution as vendor performance numbers often represent best-case scenarios, and the tool is currently limited exclusively to Intel-based systems, narrowing its potential user base.
 
-rss · Tom's Hardware · Sep 8, 12:57
+rss · Tom's Hardware · Sep 9, 16:03
 
-**Background**: Decompilation is the process of converting compiled machine code (binary) back into a human-readable high-level language such as C. For games originally written in C — as was common in the late 1990s and early 2000s — the goal of a decompilation project is not merely to disassemble instructions, but to reconstruct source code that, when compiled, produces a byte-for-byte identical (or near-identical) binary to the original. Projects like this typically serve game preservation, enable ports, and provide a foundation for mods and competitive tooling. Super Smash Bros Melee, released in 2001 for the Nintendo GameCube, remains a cornerstone of the fighting game and competitive speedrunning scenes, which is why its community invested years into reverse engineering it.
+**Background**: Overclocking is the practice of pushing computer hardware beyond its factory-set specifications to achieve higher performance, traditionally requiring manual adjustments to voltage, clock speeds, and other parameters. Intel's Extreme Tuning Utility (XTU) is a Windows-based software that provides a interface for enthusiasts to overclock, monitor, and stress-test Intel systems. Auto-overclocking tools aim to automate this complex process, making performance gains accessible without deep technical knowledge. Hypertune differentiates itself by optimizing per-system rather than applying universal profiles.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/doldecomp/melee">GitHub - doldecomp/ melee : A decompilation of Super Smash Bros ...</a></li>
-<li><a href="https://decomp.dev/doldecomp/melee">Super Smash Bros . Melee • Progress Report</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Decompiler">Decompiler - Wikipedia</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems">Intel-backed auto - overclocking tool Hypertune ... | Tom's Hardware</a></li>
+<li><a href="https://gamesbeat.com/hypertune-brings-automated-overclocking-to-pc-gamers-with-intels-support-exclusive/">Hypertune brings automated overclocking to PC... - GamesBeat</a></li>
+<li><a href="https://hypertune.gg/">Hypertune — Ultimate PC Optimization for Gaming & Esports</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#decompilation`, `#reverse-engineering`, `#game-preservation`, `#melee`, `#gamecube`
+**Tags**: `#overclocking`, `#intel`, `#performance-tuning`, `#PC-hardware`, `#gaming`
 
 ---
 
 <a id="item-15"></a>
-## [Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet — attackers claim they’re the ‘good guys’ and will return funds after the vulnerability is fixed](https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed) ⭐️ 7.5/10
+## [OpenAI Navier-Stokes claim sparks plagiarism and career threat controversy](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats) ⭐️ 6.5/10
 
-Hackers exploited a vulnerability in Liquid Network to steal approximately $320 million in Bitcoin from its federation wallet, claiming to be white hats who will return funds once the bug is patched.
+OpenAI announced that a team using one of its internal frontier models had solved the Navier-Stokes problem, but the announcement has been overshadowed by allegations from a researcher who claims OpenAI scraped their Codex session and subsequently issued career threats against them. This incident raises serious ethical concerns about how AI companies treat independent researchers and handle attribution of intellectual contributions. The alleged intimidation tactics could have a chilling effect on open collaboration between independent researchers and major AI labs, and it underscores the need for clearer norms around AI-assisted mathematical work. The Navier-Stokes existence and smoothness problem is one of the seven Millennium Prize Problems, meaning a genuine solution would carry a $1 million prize and enormous mathematical prestige. OpenAI Codex is both a family of language models for code generation and a CLI-based coding agent launched in April 2025, and the controversy centers on a specific Codex session allegedly being scraped without proper attribution.
 
-rss · Tom's Hardware · Sep 8, 11:20
+rss · Tom's Hardware · Sep 9, 12:30
 
-**Tags**: `#cryptocurrency`, `#security-breach`, `#bitcoin`, `#blockchain`, `#liquid-network`
+**Background**: The Navier-Stokes equations are a system of partial differential equations that describe fluid motion and have wide applications in engineering, meteorology, and physics. The existence and smoothness problem asks whether smooth, bounded solutions always exist in three dimensions—a question that has remained open since it was formalized and was selected as one of the Clay Mathematics Institute's Millennium Prize Problems in 2000. OpenAI Codex refers both to a code-generating language model lineage (introduced in 2021 and powering GitHub Copilot) and to a newer CLI-based coding agent released in 2025, which runs locally and interacts with code, files, and shell commands.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent)">OpenAI Codex (AI agent) - Wikipedia</a></li>
+<li><a href="https://openai.com/codex/">Codex | AI Coding Partner from OpenAI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OpenAI`, `#AI-ethics`, `#plagiarism`, `#Navier-Stokes`, `#research-controversy`
 
 ---
 
 <a id="item-16"></a>
-## [Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom — AI-powered 3D model of over 166,000 neurons can also play Super Mario 64](https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64) ⭐️ 7.5/10
+## [Claude, change the "Add to Cart" button to blue](https://opusfived.dev/) ⭐️ 6.0/10
 
-Google and collaborators mapped the complete brain and central nervous system of an adult male fruit fly (166,000+ neurons), with engineers quickly repurposing the connectome to run Doom and Super Mario 64.
+An interactive demo simulating giving coding instructions to Claude, humorously highlighting how LLMs tend to over-help and modify far more than requested.
 
-rss · Tom's Hardware · Sep 8, 11:06
+hackernews · matthieu_bl · Sep 9, 09:39 · [Discussion](https://news.ycombinator.com/item?id=49623754)
 
-**Tags**: `#neuroscience`, `#connectomics`, `#brain-mapping`, `#computational-biology`, `#AI-research`
+**Tags**: `#llm`, `#ai-coding`, `#claude`, `#developer-experience`, `#interactive-demo`
 
 ---
 
 <a id="item-17"></a>
-## [Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed](https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed) ⭐️ 7.5/10
+## [Desert Ant Labs Launches Free On-Device Task-Specific AI Models](https://desertant.com/blog/introducing-desert-ant-labs/) ⭐️ 6.0/10
 
-Belgian authorities arrested a former BelGaN researcher on suspicion of transferring proprietary gallium nitride chip technology to a Chinese rival before the company's bankruptcy.
+Desert Ant Labs has introduced a suite of small, task-specific AI models designed to run locally on mobile devices, accessible via cross-platform SDKs for Swift, Kotlin, and JavaScript. The models are offered free of charge for up to 100,000 monthly active devices, with no tokens, logins, or per-request billing required. This launch reflects a growing trend toward edge AI and TinyML, where specialized small models handle narrow tasks faster and more privately than cloud-based LLMs. If the approach proves viable, it could shift how developers integrate AI into mobile apps by eliminating cloud latency, reducing costs, and preserving user privacy. The current SDK support covers Swift, Kotlin, and JavaScript but notably lacks a Python SDK, which limits server-side and web backend use cases. Community members observed that at least one model (Voz, a transcription tool) appears to be a rewrapped version of NVIDIA's Parakeet v3 with macOS/iOS-specific inference code, and benchmarks are run exclusively on modern iPhones, raising questions about performance on lower-end hardware.
 
-rss · Tom's Hardware · Sep 8, 09:50
+hackernews · willwhitedc · Sep 9, 11:39 · [Discussion](https://news.ycombinator.com/item?id=49624823)
 
-**Tags**: `#semiconductors`, `#industrial-espionage`, `#gallium-nitride`, `#IP-theft`, `#geopolitics`
+**Background**: On-device AI (or edge AI) refers to running machine learning models directly on local hardware—such as smartphones or IoT sensors—rather than sending data to remote cloud servers. This approach offers benefits including lower latency, reduced bandwidth costs, and improved privacy. Small language models (SLMs) and task-specific models are gaining traction because they can outperform large general-purpose LLMs on narrowly defined tasks while being far cheaper to run and improve. TinyML is the broader field that enables these compact models to operate under strict memory and power constraints on edge devices.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://medium.com/@simplify.aiml/the-rise-of-on-device-ai-a-deep-dive-into-tinyml-in-2025-bc2003569521">The Rise of On - Device AI : A Deep Dive into TinyML in 2025 | Medium</a></li>
+<li><a href="https://invisibletech.ai/blog/how-small-language-models-can-outperform-llms">Small language models (SLMs) vs . large language models (LLMs)</a></li>
+<li><a href="https://www.innoflexion.com/blog/small-language-models-vs-llm-enterprise-ai-inference-cost">Small Language Models vs LLMs: How to Cut AI Inference Costs</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is cautiously optimistic but skeptical on key points. Multiple commenters questioned the unclear business model, noting that unlike cloud LLM billing there is no obvious revenue stream for a free local SDK. Others raised concerns about the missing Python SDK limiting accessibility, questioned demo quality (one user reported the audio enhancement demo sounded identical before and after), and noted that several models appear to be repackaged versions of existing open-source models. Developers with web/server use cases expressed frustration that most models are iOS-only with benchmarks run only on modern iPhones.
+
+**Tags**: `#on-device-ml`, `#edge-ai`, `#mobile-development`, `#small-models`, `#sdk`
 
 ---
 
 <a id="item-18"></a>
-## [Intel Hits 1M High-NA EUV Wafers, Pioneers 6×12 Photomasks](https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1) ⭐️ 7.5/10
+## [DeepSeek V4.1 Flash Auto-Routes Paid Pro Requests, Sparking Debate](https://news.ycombinator.com/item?id=49624603) ⭐️ 6.0/10
 
-Intel has announced it has processed over one million wafers using High-NA EUV lithography tools, surpassing the combined total of all other companies in the industry. The company is also pioneering giant 6×12 photomasks to accelerate production and reduce manufacturing costs. This milestone establishes Intel's clear leadership in next-generation lithography adoption, which is critical for producing advanced chips at sub-2nm nodes where standard EUV requires costly multi-patterning steps. The 6×12 photomask innovation could meaningfully reduce per-wafer costs and improve throughput, giving Intel a potential competitive edge as it pursues foundry customers. High-NA EUV tools use a 0.55 numerical aperture (vs. 0.33 for standard EUV) and are produced exclusively by ASML at roughly $400 million per system, making fleet-level adoption a major capital commitment. The larger 6×12 photomask format enables more die per exposure but requires anamorphic optical layouts, where horizontal and vertical features are demagnified at different ratios.
+DeepSeek announced that its V4.1 Flash model will officially release around September 10, 2026 (Beijing Time), claiming it surpasses V4 Pro across performance, cost, speed, and task completion. In a controversial move, all requests sent to the Pro model endpoint will be silently routed to the cheaper V4.1 Flash and billed at Flash's lower price until V4.1 Pro is released. This is significant because it sets a precedent for API providers silently swapping the underlying model behind a paying customer's endpoint, which can invalidate previously validated prompts, workflows, and quality expectations. It also intensifies the price war among Chinese AI labs, with Flash pricing as low as $0.003 per million tokens for cache hits—dramatically undercutting Western competitors. Off-peak pricing is $0.003 per million input tokens for cache hits, $0.15 for cache misses, and $0.6 for output, with peak-hour rates doubled. Cache hits rely on prompt prefix KV-cache reuse, so the cache-hit price only applies when the prompt begins with identical tokens—a common gotcha when timestamps or other dynamic content appear near the top of prompts.
 
-rss · Tom's Hardware · Sep 8, 06:00
+hackernews · nickweb · Sep 9, 11:19
 
-**Background**: High-NA EUV lithography is the successor to standard EUV lithography, using extreme ultraviolet light at a 13.5nm wavelength to pattern the smallest features on advanced chips. Photomasks (also called reticles) are high-precision quartz plates containing the circuit pattern at an enlarged scale, which is then projected onto the wafer during exposure. Traditional EUV reticles are smaller; the new 6×12 format represents a significant enlargement designed to print more chips per pass and improve manufacturing economics at the most advanced nodes.
+**Background**: DeepSeek is a Chinese AI lab known for releasing open-weight models that punch above their weight on benchmarks while charging aggressive prices. Prompt caching is a technique where API providers store the computed key-value (KV) cache for the beginning of a prompt and reuse it on subsequent requests, charging a discounted 'cache hit' rate to avoid redundant computation. Auto-routing—the practice of transparently serving a different model than the one the customer selected—is generally frowned upon because it breaks reproducibility for production systems that have been tuned against a specific model's behavior.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">EUV lithography - Wikipedia</a></li>
-<li><a href="https://data-today.net/high-na-euv-bottleneck/">High - NA EUV turns AI chips into a $400M bottleneck | Data Today</a></li>
-<li><a href="https://nemothia.com/extreme-ultraviolet-high-na-lithography-anode-thermal-stress-and-multi-patterning-trade-offs/">Extreme Ultraviolet High - NA Lithography : Anode... - NEMOTHIA</a></li>
+<li><a href="https://ofox.ai/blog/llm-api-cache-hit-math-real-bills-2026/">LLM API Cache Hit Math: Why Your DeepSeek Bill Says $4 But ...</a></li>
+<li><a href="https://www.morphllm.com/prompt-caching">Prompt Caching: How It Works, Provider Pricing, Cache-Aware ...</a></li>
+<li><a href="https://www.techplained.com/llm-prompt-caching">LLM Prompt Caching: Cut API Costs 90% (2026) | TechPlained</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#Intel`, `#EUV-lithography`, `#manufacturing`, `#High-NA`
+**Discussion**: Simon Willison and aftbit strongly criticized the auto-routing practice, arguing that customers who validated workflows on V4 Pro would be unwilling to silently receive V4.1 Flash output. jiehong reported poor language-following consistency in the Flash web UI chat, noting unpredictable switches between English and Chinese. EbNar was positive about the cost-effectiveness of Chinese flash models in general. oefrha confirmed the announcement originated from a banner on platform.deepseek.com.
+
+**Tags**: `#deepseek`, `#llm`, `#ai-models`, `#api-pricing`, `#model-release`
 
 ---
 
 <a id="item-19"></a>
-## [GLP-1 Drug Semaglutide Extends Lifespan in Mouse Study](https://www.solidot.org/story?sid=85314) ⭐️ 7.3/10
+## [Global Foundry Revenue Approaches US$53.49 Billion in 2Q26 as SMIC Narrows Market Share Gap with Samsung, Says TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12828.html) ⭐️ 6.0/10
 
-UC Berkeley researchers found that semaglutide extended median lifespan by approximately 12% in elderly female mice (20 months old, roughly equivalent to human age 60), with treated mice living a median of 834 days compared to 742 days in the control group. The drug also improved motor coordination, muscle function, and blood glucose regulation, and slowed multiple hallmarks of aging including inflammation, stem cell decline, cellular senescence, genomic instability, mitochondrial dysfunction, and protein homeostasis imbalance. This finding is significant because GLP-1 receptor agonists like semaglutide (sold as Ozempic and Wegovy) are already widely prescribed for diabetes and obesity, and this research suggests they may have anti-aging benefits that extend beyond weight loss and metabolic control. If translatable to humans, the result could reshape how these blockbuster drugs are used and accelerate longevity research, though mouse findings have historically had limited direct applicability to human aging. A separate caloric restriction group fed the same reduced calories as the semaglutide group achieved a similar lifespan extension, suggesting most of the longevity benefit can be explained by reduced food intake (24% less). However, semaglutide-treated mice outperformed the calorie-restricted mice in spatial memory tests, hinting at additional brain-related mechanisms not fully explained by caloric restriction. The study used only female mice, leaving open questions about sex-specific effects.
+TrendForce reports global foundry revenue approaching $53.49B in Q2 2026, with SMIC narrowing its market share gap with Samsung among the top players.
 
-rss · Solidot · Sep 8, 06:33
+rss · DRAMeXchange (TrendForce) · Sep 9, 17:02
 
-**Background**: GLP-1 receptor agonists such as semaglutide were originally developed to treat type 2 diabetes and were subsequently approved for chronic weight management because they suppress appetite and slow gastric emptying. The 'hallmarks of aging' framework, formalized in a landmark Cell review, identifies key biological processes that drive aging — including chronic inflammation, cellular senescence, mitochondrial dysfunction, and loss of protein homeostasis. Caloric restriction has been studied for decades as a potential longevity intervention in animals, though evidence in humans and primates remains mixed and contentious.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://m.baidu.com/bh/m/detail/ar_8606887961515339852">每月打一针，轻松瘦身？ 医生解读： 司 美 格 鲁 肽 的减肥效果与安全性</a></li>
-<li><a href="https://shop.1153.me/2023/06/29/cell综述：衰老（aging）的十二大标志！hallmarks-of-aging-an-expanding-universe/">Cell综述： 衰 老 （ Aging ）的十二大 标 志 ！ Hallmarks of aging : An...</a></li>
-<li><a href="https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know">Calorie restriction and fasting diets: What do we know?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#GLP-1`, `#semaglutide`, `#aging-research`, `#longevity`, `#mouse-study`
+**Tags**: `#semiconductors`, `#foundry-market`, `#market-analysis`, `#SMIC`, `#Samsung`
 
 ---
 
 <a id="item-20"></a>
-## [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) ⭐️ 7.0/10
+## [Bridging the HPC Software Gap for Practical Quantum Computing](https://www.eetimes.com/bridging-the-hpc-software-gap-for-practical-quantum-computing/) ⭐️ 6.0/10
 
-Research showing LLMs can autonomously develop novel social biases through adaptive exploration, even toward arbitrary demographic groups with no inherent distinguishing features, suggesting bias-generation is an emergent property beyond simple training-data correlations.
+Analysis on the infrastructure software gap that HPC centers must address to effectively integrate quantum computing systems and realize practical quantum advantage.
 
-hackernews · paimapi · Sep 8, 21:47 · [Discussion](https://news.ycombinator.com/item?id=49617581)
+rss · EE Times · Sep 9, 12:00
 
-**Tags**: `#LLM-bias`, `#AI-safety`, `#emergent-behavior`, `#alignment-research`, `#LLM-evaluation`
+**Tags**: `#quantum-computing`, `#HPC`, `#infrastructure`, `#quantum-HPC-integration`, `#software-engineering`
 
 ---
