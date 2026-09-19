@@ -5,14 +5,33 @@ date: 2026-09-19
 lang: zh
 ---
 
-> 已分析 41 条内容，但没有达到重要性阈值的条目。
+> 从 38 条内容中筛选出 2 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Developer Ports DLSS 5 to Intel Integrated Graphics With Help From AI Agents](#item-1) ⭐️ 7.5/10
+2. [Human brain is two separate organs, Stanford Medicine-led research finds](#item-2) ⭐️ 7.0/10
+
+---
+
+<a id="item-1"></a>
+## [Developer Ports DLSS 5 to Intel Integrated Graphics With Help From AI Agents](https://www.techpowerup.com/352841/developer-ports-dlss-5-to-intel-integrated-graphics-with-help-from-ai-agents) ⭐️ 7.5/10
+
+A developer used AI agents to port NVIDIA's DLSS 5 Neural Rendering to Intel Arc 140V integrated graphics, achieving proof-of-concept performance in several games on Linux.
+
+rss · TechPowerUp News · 9月18日 19:25
+
+**标签**: `#DLSS`, `#Intel Arc`, `#AI`, `#Graphics`, `#Gaming`
+
+---
+
+<a id="item-2"></a>
+## [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) ⭐️ 7.0/10
+
+Stanford-led research identifies two mutually exclusive progenitor cell lineages (Otx2 and Gbx2) that independently give rise to anterior and posterior brain structures, along with a new technique for growing brain stem cells in vitro.
+
+hackernews · emigre · 9月19日 05:48 · [社区讨论](https://news.ycombinator.com/item?id=49763697)
+
+**标签**: `#neuroscience`, `#developmental-biology`, `#stem-cells`, `#research`, `#stanford`
+
+---
