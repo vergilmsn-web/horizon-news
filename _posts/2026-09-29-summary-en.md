@@ -5,414 +5,375 @@ date: 2026-09-29
 lang: en
 ---
 
-> From 96 items, 20 important content pieces were selected
+> From 91 items, 20 important content pieces were selected
 
 ---
 
-1. [AMD acquires World Labs for $8.2B to advance 3D simulation and robotics AI](#item-1) ⭐️ 9.5/10
-2. [Anthropic releases Claude Sonnet 5.5 with improved speed and cost efficiency](#item-2) ⭐️ 9.0/10
-3. [SemiAnalysis Teardown: Intel 18A Node Density Matches TSMC N3E](#item-3) ⭐️ 8.5/10
-4. [Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS](#item-4) ⭐️ 8.5/10
-5. [OpenAI confirms Jalapeño ASIC is primarily for internal inference use](#item-5) ⭐️ 8.5/10
-6. [Virginia Tech 3D Prints Liquid Metal Silicone Composite Boosting Thermal Conductivity 40x](#item-6) ⭐️ 8.5/10
-7. [Firelex releases Jeff: home-trained 0.8B Jev-compatible decision models](#item-7) ⭐️ 8.0/10
-8. [imec's IC-Link Partners with TSMC to Streamline Advanced-Node Access](#item-8) ⭐️ 8.0/10
-9. [TSMC targets 120,000 wafers per month for 2nm node by 2026](#item-9) ⭐️ 7.5/10
-10. [SharpEmu Reaches Playable Status in 17 PS5 Games](#item-10) ⭐️ 7.5/10
-11. [GMKtec EVO-X5 Pro Enables Offline 320B LLM Inference with 192GB Memory](#item-11) ⭐️ 7.5/10
-12. [Synopsys Launches Autopilot Platform for Autonomous AI Chip Design](#item-12) ⭐️ 7.5/10
-13. [Experimental Emulator Lets Jailbroken PS5s Run Nintendo Switch Games](#item-13) ⭐️ 7.5/10
-14. [Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs](#item-14) ⭐️ 7.5/10
-15. [North Korea Suspected in $387 Million Bitget Crypto Hack](#item-15) ⭐️ 7.5/10
-16. [Teenager exploits missing JWT validation to access Microsoft database](#item-16) ⭐️ 7.5/10
-17. [Paulinella species discovery, Starship orbital launch, and coastal subsidence study](#item-17) ⭐️ 7.3/10
-18. [PS5 RTMP Stream Hijacking Reveals Unencrypted Streaming Security Risks](#item-18) ⭐️ 7.0/10
-19. [Modders Install SteamOS on Android Handhelds via ARM64 Support](#item-19) ⭐️ 6.5/10
-20. [Acemagic launches $6,500 F9A mini PC with AMD Ryzen AI Max+ 495](#item-20) ⭐️ 6.5/10
+1. [AMD buys World Labs for $8.2bn](#item-1) ⭐️ 10.0/10
+2. [AMD Publishes Full EPYC 9006 "Venice" Specs and Pricing: 8-Core at $700, 256-Core at $14,904](#item-2) ⭐️ 9.5/10
+3. [(PR) AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy](#item-3) ⭐️ 9.5/10
+4. [AMD drops an EPYC $15,000, 256-core beast](#item-4) ⭐️ 9.5/10
+5. [OpenAI Releases GPT-6.1 Sol With Cheaper Cached Inputs](#item-5) ⭐️ 9.0/10
+6. [Anthropic formally lists existential AI risks in IPO prospectus](#item-6) ⭐️ 8.5/10
+7. [AI transforms chip design with OpenAI's Jalapeño and EDA advancements](#item-7) ⭐️ 8.5/10
+8. [OpenAI Launches Dots for Persistent Autonomous Agent Execution](#item-8) ⭐️ 8.0/10
+9. [HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce](#item-9) ⭐️ 8.0/10
+10. [Gimlet cloud and Cerebras to accelerate inference](#item-10) ⭐️ 8.0/10
+11. [Chainalysis reports 440% surge in blockchain dead-drop cyberattacks by state actors](#item-11) ⭐️ 7.5/10
+12. [Delhi Reduces Electricity Losses from 50% to 5% via Grid Upgrades](#item-12) ⭐️ 7.0/10
+13. [Technical Analysis of Privacy Leaks in Web and Mobile AI Agents](#item-13) ⭐️ 7.0/10
+14. [PostHog releases Jeeves to add reasoning to small Jev-like decision models](#item-14) ⭐️ 7.0/10
+15. [Semiconductor Catapult Pivots to AI and RF Focus](#item-15) ⭐️ 7.0/10
+16. [Synopsys Announces AgentEngineer for Autonomous Chip Engineering](#item-16) ⭐️ 7.0/10
+17. [DraftKings Uses AI to Behaviorally Target Chronic Gamblers](#item-17) ⭐️ 6.0/10
+18. [Hacker News Analyzes Flaws in 'Without the Hot Air' Book](#item-18) ⭐️ 6.0/10
+19. [OpenAI Launches Premium ChatGPT Pro Tier at $500](#item-19) ⭐️ 6.0/10
+20. [Guide to Integrating C++ Libraries into Godot Using Conan](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [AMD acquires World Labs for $8.2B to advance 3D simulation and robotics AI](https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy) ⭐️ 9.5/10
+## [AMD buys World Labs for $8.2bn](https://www.electronicsweekly.com/news/business/amd-buys-world-labs-for-2-8bn-2026-09/) ⭐️ 10.0/10
 
-AMD has announced a definitive agreement to acquire AI research lab World Labs for $8.2 billion. The acquisition brings Dr. Fei-Fei Li's team and their Atlas model, which generates and simulates 3D environments, into AMD's infrastructure strategy. This move signals a major strategic shift for AMD into the physical AI and robotics sectors, aiming to shape its hardware roadmaps around evolving world model workloads. It intensifies the competition in AI infrastructure as major chipmakers integrate top-tier AI research labs directly into their ecosystems. World Labs recently unveiled Atlas, a world model capable of generating 3D environments from minimal prompts like text or images. The $8.2B valuation represents a significant exit for the startup, highlighting the high premium attached to AI research assets with practical simulation applications.
+AMD announces the acquisition of World Labs, an AI research institute led by Fei-Fei Li, for $8.2 billion to bolster its AI hardware and software development capabilities.
 
-rss · TechPowerUp News · Sep 28, 21:03
+rss · Electronics Weekly · Sep 29, 05:17
 
-**Background**: World Labs is an AI startup co-founded by computer vision pioneer Dr. Fei-Fei Li, known for her work on ImageNet. The lab focuses on developing 'world models' that understand and simulate physical reality, a critical technology for training robots and autonomous systems without relying solely on real-world data. AMD is a major semiconductor company that has been aggressively expanding its AI computing capabilities to compete with NVIDIA in the GPU and AI infrastructure markets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techstrong.ai/articles/fei-fei-lis-world-labs-debuts-atlas-ai-model-for-3d-simulation/">Fei-Fei Li’s World Labs Debuts Atlas AI Model for 3D Simulation - Techstrong.ai</a></li>
-<li><a href="https://dealroom.co/news/148346-fei-fei-lis-world-labs-backed-by-1-2b-unveils-atlas-world-model/">Fei-Fei Li's World Labs, backed by $1.2B, unveils Atlas world model | Dealroom News</a></li>
-<li><a href="https://www.crnasia.com/news/2026/components-and-peripherals/there-is-no-one-size-fits-all-for-ai">There is no one-size-fits-all for AI , says AMD ’ s Alexey Navolokin</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community reactions are mixed, with some expressing skepticism about the actual technical novelty and utility of World Labs' Atlas model compared to existing state-of-the-art video generation tools. Others express concern that integrating a small, innovative research team into a large corporate structure might stifle its progress, while a few note AMD's rapid pace of acquisitions as a sign of preparing for ultra-fast inference and embodied AI.
-
-**Tags**: `#AMD`, `#AI Acquisition`, `#World Labs`, `#Robotics`, `#3D Simulation`
+**Tags**: `#AMD`, `#AI`, `#M&A`, `#Hardware`, `#World Labs`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic releases Claude Sonnet 5.5 with improved speed and cost efficiency](https://www.anthropic.com/claude-sonnet-5-5) ⭐️ 9.0/10
+## [AMD Publishes Full EPYC 9006 "Venice" Specs and Pricing: 8-Core at $700, 256-Core at $14,904](https://www.techpowerup.com/353209/amd-publishes-full-epyc-9006-venice-specs-and-pricing-8-core-at-usd-700-256-core-at-usd-14-904) ⭐️ 9.5/10
 
-Anthropic has officially released Claude Sonnet 5.5, the second model in the Claude 5.5 family, which is a clear upgrade over Sonnet 5. The new model runs more than 30% faster and costs up to 30% less for most workloads compared to its predecessor. The release strengthens Anthropic's mid-tier offerings by providing a faster and cheaper complement to the flagship Opus 5.5 model, significantly impacting the price-performance balance for developers and enterprises. It sparks broader industry debate on whether frontier models are justifiable when cost-effective Chinese competitors offer similar utility. A notable anomaly was Sonnet 5.5 scoring higher (70.6) than Opus 5.5 (66.4) on Terminal-Bench, which was attributed to Opus using a fallback model for 10% of trials due to safety safeguards. The model is priced at $2.00 per million input tokens and $10.00 per million output tokens.
+AMD has officially published the complete specifications and 1,000-unit pricing for the 31-processor EPYC 9006 'Venice' Zen 6 lineup, featuring a 256-core flagship model priced at $14,904.
 
-hackernews · D2OQZG8l5BI1S06 · Sep 28, 17:58 · [Discussion](https://news.ycombinator.com/item?id=49881850)
+rss · TechPowerUp News · Sep 29, 16:20
 
-**Background**: Claude is a family of large language models developed by Anthropic, which typically offers 'Sonnet' as a faster, mid-tier model and 'Opus' as its most capable, expensive flagship. Terminal-Bench is a specialized benchmark used to evaluate the performance of AI agents in executing terminal and software engineering tasks, serving as a key metric for developer utility.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.anthropic.com/claude-sonnet-5-5">Introducing Claude Sonnet 5.5 \ Anthropic</a></li>
-<li><a href="https://gadgetsfocus.com/claude-sonnet-55-release-status-specs-2026/">Claude Sonnet 5.5 Officially Released: Specs, Benchmarks ...</a></li>
-<li><a href="https://lucaberton.com/blog/llm-quality-vs-cost-frontier-models-2026/">LLM Quality vs Cost vs Safety (2026) | Luca Berton</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community broadly debated the value proposition of the release, with many noting that Chinese open-source models like DeepSeek and GLM offer highly competitive performance at a fraction of the cost. There was significant scrutiny on benchmark reporting, where users identified that Sonnet 5.5's seemingly superior performance over Opus 5.5 was an artifact of the latter's safety fallbacks, while others highlighted that the new model's cyber capabilities now trigger similar safeguards to its flagship counterpart.
-
-**Tags**: `#AI/ML`, `#LLMs`, `#Anthropic`, `#Model Release`, `#Benchmarking`
+**Tags**: `#AMD`, `#EPYC`, `#Server CPU`, `#Zen 6`, `#Data Center`
 
 ---
 
 <a id="item-3"></a>
-## [SemiAnalysis Teardown: Intel 18A Node Density Matches TSMC N3E](https://www.techpowerup.com/353161/panther-lake-teardown-shows-intel-18a-near-tsmc-n3e-newer-tsmc-nodes-still-ahead) ⭐️ 8.5/10
+## [(PR) AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy](https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy) ⭐️ 9.5/10
 
-SemiAnalysis has published a teardown of the Intel Panther Lake chip, revealing that the Intel 18A process node achieves logic density comparable to TSMC N3E. The analysis confirms that 18A is 18.6% denser than Intel 3 but remains behind newer TSMC and Samsung nodes in peak density. The success of the 18A node is vital for Intel's foundry business and its roadmap for future AI accelerators. This data provides concrete metrics that influence industry expectations regarding Intel's ability to compete with TSMC in advanced semiconductor manufacturing. The teardown noted that Intel's 18A uses four stacked ribbons per transistor compared to three sheets on Samsung's SF2, and that the NPU 5 requires 36.9% less chip area than its predecessor. However, SemiAnalysis cautions that whole-die density depends on cell mix and placement, preventing direct node-to-node comparisons.
+AMD has agreed to acquire World Labs for $8.2 billion to enhance its AI hardware and software capabilities in 3D simulation and robotics.
 
-rss · TechPowerUp News · Sep 28, 15:23
+rss · TechPowerUp News · Sep 28, 21:03
 
-**Background**: Process node names like 18A and N3E are marketing terms that do not directly correlate with physical dimensions but indicate generations of manufacturing technology. Intel 18A is the first chip to implement RibbonFET gate-all-around transistors and PowerVia backside power delivery, two key technologies for improving efficiency and density.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.notebookcheck.net/Panther-Lake-teardown-reveals-Intel-18A-in-detail-TSMC-still-leads-in-density.1410032.0.html">Panther Lake teardown reveals Intel 18 A in... - Notebookcheck News</a></li>
-<li><a href="https://en.wikipedia.org/wiki/3_nm_process">3 nm process - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductor`, `#intel-18a`, `#tsmc`, `#hardware`, `#panther-lake`
+**Tags**: `#AMD`, `#World Labs`, `#Fei-Fei Li`, `#AI Infrastructure`, `#Robotics`
 
 ---
 
 <a id="item-4"></a>
-## [Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS](https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os) ⭐️ 8.5/10
+## [AMD drops an EPYC $15,000, 256-core beast](https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904) ⭐️ 9.5/10
 
-Google confirms that ChromeOS support will end in 2034 as it transitions to Googlebook OS, with a shortened support lifecycle for some existing devices.
+AMD has officially released the complete SKU list and 1K-unit pricing for its 6th Generation EPYC 9006 'Venice' CPUs, featuring models ranging from $700 up to a 256-core variant costing $14,904.
 
-rss · Tom's Hardware · Sep 28, 16:38
+rss · Tom's Hardware · Sep 29, 11:20
 
-**Tags**: `#ChromeOS`, `#Googlebook`, `#Operating System`, `#Hardware`, `#Life Cycle`
+**Tags**: `#AMD EPYC`, `#Data Center`, `#Hardware`, `#CPUs`, `#Zen 6`
 
 ---
 
 <a id="item-5"></a>
-## [OpenAI confirms Jalapeño ASIC is primarily for internal inference use](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time) ⭐️ 8.5/10
+## [OpenAI Releases GPT-6.1 Sol With Cheaper Cached Inputs](https://openai.com/index/introducing-gpt-6-1-sol/) ⭐️ 9.0/10
 
-OpenAI's hardware VP Richard Ho confirmed that its custom Jalapeño ASIC is designed for internal inference use first and foremost. The company remains open to a future, broader rollout of the chip. This move demonstrates OpenAI's push for hardware independence in AI inference, which is a critical part of the AI cost and performance equation. If rolled out more broadly in the future, it could disrupt the semiconductor supply chain and alter the competitive landscape for GPU makers. The chip is currently described as being for internal use, with broader adoption being a potential future scenario. This is a specialized application-specific integrated circuit (ASIC) tailored for inference rather than the more general-purpose training workloads.
+OpenAI has released GPT-6.1 Sol, an updated model positioned between its flagship GPT-6 Astra and standard GPT-6 Sol. The key feature is a significant price cut, with cached input tokens costing just $0.10 per million, which is 50% cheaper than the previous GPT-6 Sol cache rate. This release is significant because it intensifies the competitive pricing pressure from Anthropic's recently released Opus 5.5, directly impacting developers who rely on cost-efficient API calls for high-volume coding and agent tasks. The focus on cache pricing highlights how input costs are becoming a primary battleground in the AI market. GPT-6.1 Sol is positioned to deliver near-Astra-level intelligence for coding and computer use at one-fifth of Astra's standard API price. The new pricing structure specifically targets developers using tools like Codex, where the 95% discount on cached inputs compared to standard pricing can dramatically increase efficiency margins.
 
-rss · Tom's Hardware · Sep 28, 15:45
+hackernews · crorella · Sep 29, 17:06 · [Discussion](https://news.ycombinator.com/item?id=49896586)
 
-**Background**: AI inference refers to the process of running a trained model to generate new data, which requires significant computational resources and power. Companies like Google, Amazon, and OpenAI are increasingly designing their own application-specific integrated circuits (ASICs) to move away from reliance on general-purpose GPU vendors like Nvidia, aiming to optimize performance and reduce operational costs.
+**Background**: LLM providers use prompt caching to significantly reduce the cost and latency of processing repeated context in long-running applications. OpenAI recently launched the GPT-6 series, which includes tiers like Sol, Terra, and Luna, with Astra positioned as the top-tier model. Competitor Anthropic recently released Claude Opus 5.5, which drew attention for its strong performance in coding tasks despite being more affordable than previous flagship models.
 
-**Tags**: `#AI Hardware`, `#OpenAI`, `#ASIC`, `#Inference`, `#Semiconductors`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/introducing-gpt-6-1-sol/">Introducing GPT - 6 . 1 Sol | OpenAI</a></li>
+<li><a href="https://openrouter.ai/openai/gpt-6.1-sol">GPT - 6 . 1 Sol - API Pricing & Providers | OpenRouter</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members speculated that GPT-6.1 Sol was a hurried release to counter Anthropic's strong Opus 5.5, with some expressing skepticism after previous regressions in the GPT-6 series. While the price cut on cached inputs was widely praised as a major benefit for tools like Codex, others warned that token pricing becoming the main competitive focus could be ominous for industry investors and potentially lead to a race to the bottom.
+
+**Tags**: `#AI`, `#OpenAI`, `#LLM`, `#Pricing`, `#Model Release`
 
 ---
 
 <a id="item-6"></a>
-## [Virginia Tech 3D Prints Liquid Metal Silicone Composite Boosting Thermal Conductivity 40x](https://www.tomshardware.com/3d-printing/virginia-tech-lab-3d-prints-a-liquid-metal-composite-to-guide-heat-boost-thermal-conductivity-40x-the-nozzle-stretches-gallium-indium-droplets-inside-soft-silicone-can-also-create-self-healing-traces) ⭐️ 8.5/10
+## [Anthropic formally lists existential AI risks in IPO prospectus](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut) ⭐️ 8.5/10
 
-Researchers at Virginia Tech developed a novel 3D printing technique that embeds stretched gallium-indium liquid metal droplets into a soft silicone matrix. This innovation allows the printed material to direct heat flow and achieve a thermal conductivity of 9.9 W/mK along the droplet direction, a 40-fold increase over unfilled silicone. This breakthrough offers a highly efficient and potentially self-healing solution for thermal management in advanced electronics. By leveraging soft, flexible composites, the technology can improve the longevity and performance of next-generation devices where traditional rigid heat sinks fail. A 2025 study published in Advanced Functional Materials details the technique, noting the printed composite achieves thermal conductivity at 9.9 W/mK. The process involves using a 3D printer nozzle to stretch gallium-indium droplets, creating directional conductive paths within the polymer.
+Anthropic's IPO prospectus explicitly includes 'existential risks to humanity' as a risk factor, warning that rogue AI models could lead to the end of the species and consequentially its business. This unprecedented legal acknowledgment by a major AI player formalizes the safety discourse, signaling to regulators and investors that long-term AI stability is a material business risk rather than just a theoretical concern. The prospectus allocates 80 pages to risk factors, which dwarfs its business description, reflecting the gravity of the disclosed threats. Despite these dire warnings, the company continues to target a $2 trillion valuation for its public debut.
 
-rss · Tom's Hardware · Sep 28, 14:45
+rss · Tom's Hardware · Sep 29, 13:30
 
-**Background**: Gallium-indium alloys are liquid metals that remain in a fluid state at room temperature due to their low melting point of approximately 15.7°C. Standard silicone polymers used in flexible electronics are electrical and thermal insulators, making it difficult to achieve high thermal conductivity. 3D printing allows for the precise placement of liquid metal droplets, creating engineered networks that guide heat more efficiently.
+**Background**: An IPO prospectus is a legal document that lists all known risks that might affect the company's value, serving as a primary source of information for investors. Anthropic, the developer of the Claude AI models, is known for its focus on 'responsible AI' and long-term safety protocols.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/science/articles/virginia-tech-lab-3d-prints-144500497.html">Virginia Tech lab 3D prints a liquid metal composite to guide ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S026635382500226X">Effective thermal conductivity and elastic modulus of ...</a></li>
+<li><a href="https://onemoneyway.com/en/dictionary/prospectus/">The Role and Impact of a Prospectus in Financial Markets</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence">Existential risk from artificial intelligence - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Thermal Management`, `#3D Printing`, `#Materials Science`, `#Liquid Metal`, `#Composites`
+**Tags**: `#AI Safety`, `#Anthropic`, `#IPO`, `#AI Risk`, `#Tech Industry`
 
 ---
 
 <a id="item-7"></a>
-## [Firelex releases Jeff: home-trained 0.8B Jev-compatible decision models](https://github.com/firelex/jeff) ⭐️ 8.0/10
+## [AI transforms chip design with OpenAI's Jalapeño and EDA advancements](https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond) ⭐️ 8.5/10
 
-Firelex has released 'Jeff,' a trio of 0.8B parameter decision models fine-tuned from Qwen3.5 and Gemma 4 that operate at home on consumer hardware with approximately 30ms latency. These models return calibrated probabilities over user-defined candidates, offering a Jev-compatible alternative to full LLMs for classification tasks. This development challenges the necessity of expensive, high-latency frontier LLMs for structured decision-making and classification workflows. If small, locally-run models can achieve acceptable accuracy, it could significantly reduce business AI spending and data center usage, shifting workloads to edge devices. Jeff models are fine-tuned from Qwen3.5 and Gemma 4 architectures and support native serving via vLLM with features like KV cache and batching. While they achieve ~30ms latency, early user comparisons suggest accuracy may lag behind commercial Jev implementations (e.g., 70% vs 94% in some classification tests).
+The semiconductor industry is shifting from traditional rule-based EDA tools to AI-driven methodologies, specifically including OpenAI's development of the Jalapeño custom inference chip. This initiative demonstrates how large language models are now being utilized to automate and optimize complex hardware design processes. This paradigm shift is significant because it reduces design complexity and time-to-market, while custom silicon improves inference efficiency compared to standard graphics processing units. It represents a critical convergence of software intelligence and hardware engineering that will shape future compute capabilities. OpenAI's Jalapeño chip was unveiled to deliver faster, more power-efficient LLM inference with higher throughput and lower latency, reportedly outperforming Nvidia's Blackwell architecture in specific tasks. Additionally, LLMs are currently applied in EDA for verification tasks such as testbench generation, assertion synthesis, and fault localization to ensure design correctness.
 
-hackernews · firelex · Sep 28, 20:23 · [Discussion](https://news.ycombinator.com/item?id=49883844)
+rss · Tom's Hardware · Sep 29, 12:40
 
-**Background**: Jev is a system for decision-making AI that takes a question and candidate answers, returning a label and probability score for each. Traditional approaches often rely on large, slow LLMs, whereas 'home-trained' refers to models fine-tuned on consumer-grade hardware rather than massive data centers. 0.8B parameter models are small enough to run efficiently on standard desktop GPUs or CPUs, enabling real-time applications without cloud dependencies.
+**Background**: Electronic Design Automation (EDA) refers to the set of computer software tools used to design and manufacture electronic systems, which have historically relied on algorithmic and rule-based methods. A custom inference chip is a specialized integrated circuit optimized for the specific computational patterns of running machine learning models, distinct from general-purpose processors. The use of Large Language Models in engineering contexts implies utilizing AI trained on code and documents to assist in writing, verifying, or debugging complex hardware descriptions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://aiweekly.co/alerts/firelex-ships-jeff-home-trained-jev-compatible-decision-models">Firelex ships Jeff, home-trained Jev-compatible decision models</a></li>
-<li><a href="https://www.explainx.ai/blog/jeff-jev-compatible-08b-decision-models-firelex-2026">Jeff: Home-Trained Jev-Compatible 0.8B Decision Models</a></li>
-<li><a href="https://github.com/mode-io/vllm-jev">GitHub - mode-io/vllm-jev: Native vLLM serving for Jev ...</a></li>
+<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/">OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia">OpenAI Jalapeño: Better Than Nvidia Blackwell</a></li>
+<li><a href="https://www.cse.cuhk.edu.hk/~byu/papers/J146-TODAES2025-LLM-EDA.pdf">Large Language Models for EDA : Future or Mirage?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is skeptical about the accuracy of Jeff compared to commercial Jev, with one user reporting a 70% vs 94% performance gap that they deem unacceptable for classification. Others question the lack of public architecture details from Jev itself and wonder how long it will take for such functionality to be integrated directly into frontier models.
-
-**Tags**: `#LLM`, `#Edge-AI`, `#AI-Efficiency`, `#Decision-Models`, `#Home-Hardware`
+**Tags**: `#AI`, `#Semiconductors`, `#EDA`, `#Chip Design`, `#Hardware`
 
 ---
 
 <a id="item-8"></a>
-## [imec's IC-Link Partners with TSMC to Streamline Advanced-Node Access](https://www.electronicsweekly.com/news/business/ic-link-by-imec-simplifies-access-2026-09/) ⭐️ 8.0/10
+## [OpenAI Launches Dots for Persistent Autonomous Agent Execution](https://openai.com/index/introducing-dots/) ⭐️ 8.0/10
 
-imec's IC-Link service and TSMC are collaborating to simplify customer access to advanced-node semiconductor design capabilities for ASICs and silicon photonics. This partnership lowers the barrier to entry for cutting-edge chip designs, allowing more engineers and companies to access state-of-the-art manufacturing at leading foundries. IC-Link acts as a global service provider offering turnkey production and MPW runs, bridging the gap between independent research and high-volume commercial silicon manufacturing.
+OpenAI has officially announced Dots, a new product line consisting of always-on autonomous AI agents. This release marks a shift toward continuous, background operation rather than standard interactive chat. This launch intensifies the competition among major AI laboratories in the rapidly evolving 'personal AI agent' market. It forces consumers to compare similar products from Anthropic and Meta, while raising concerns about subscription limits and product differentiation. The product architecture features remote agents operating in isolated sandboxes equipped with long-term memory capabilities. It aims to provide seamless task execution similar to competitor platforms like Instinct and Muse.
 
-rss · Electronics Weekly · Sep 28, 05:11
+hackernews · alvis · Sep 29, 17:07 · [Discussion](https://news.ycombinator.com/item?id=49896604)
 
-**Background**: imec is a European research hub that partners with commercial foundries to facilitate custom chip production. Advanced nodes refer to cutting-edge semiconductor fabrication processes that require specialized access and expertise to utilize effectively.
+**Background**: An 'always-on agent' in AI refers to an autonomous system capable of executing tasks continuously in the background without user supervision. The 'personal AI agent' represents the next industry trend, focusing on AI assistants that proactively manage specific workflows via messaging platforms. These systems typically operate in virtual environments called 'sandboxes' to ensure execution safety and memory isolation.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.imeciclink.com/en">Semiconductor chip manufacturing solutions | IC-Link ... - imec</a></li>
-<li><a href="https://www.imec-int.com/en/articles/ic-link-one-access-and-service-point-scalable-and-reliable-manufacturing-semiconductor">Semiconductor manufacturing through IC-Link | imec</a></li>
+**Discussion**: Community sentiment is mixed, with users arguing that the distinct lines between OpenAI's agent products and competitors like Claude are becoming blurry. Some express frustration over generous subscription limits being tightened, while others emphasize OpenAI's competitive advantage in model portability across different software harnesses.
 
-</ul>
-</details>
-
-**Tags**: `#Semiconductors`, `#ASIC`, `#TSMC`, `#imec`, `#Silicon Photonics`
+**Tags**: `#OpenAI`, `#AI Agents`, `#Product Strategy`, `#Agentic AI`, `#Industry Analysis`
 
 ---
 
 <a id="item-9"></a>
-## [TSMC targets 120,000 wafers per month for 2nm node by 2026](https://www.techpowerup.com/353153/tsmc-to-scale-2-nm-production-to-120-000-wafers-per-month-by-the-end-of-2026) ⭐️ 7.5/10
+## [HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12851.html) ⭐️ 8.0/10
 
-TSMC has revised its target for 2nm N2 production to 120,000 wafers per month by the end of 2026, which is a 20% increase over its previous target. This significant ramp-up is driven by strong customer demand, as early-stage tape-out volume for N2 is already four times that of the previous 3nm node. The aggressive capacity expansion signals a strong industry commitment to the rapid adoption of 2nm technology, indicating that customer demand is outpacing current supply. This shift will significantly impact the semiconductor supply chain and determine the availability of advanced AI and mobile chips in the coming years. In Q2 2026, the N2 node was expected to account for only 3% of TSMC's revenue compared to 30% for the 3nm and 33% for the 5nm nodes. However, the 20% production capacity boost suggests a dramatic shift in revenue figures by the end of Q3.
+TrendForce forecasts a 121% year-over-year rise in HBM's blended ASP by 2027 as persistent supply constraints and competition from AI server demand limit advanced-process capacity.
 
-rss · TechPowerUp News · Sep 28, 11:22
+rss · DRAMeXchange (TrendForce) · Sep 29, 18:02
 
-**Background**: The 2nm N2 node is a leading-edge semiconductor manufacturing process that improves power efficiency and performance over previous nodes. A 'tape-out' is the critical milestone when a chip design is finalized and submitted to a foundry for mass production, and a high tape-out volume indicates strong market interest.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Tape-out">Tape - out - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Semiconductors`, `#TSMC`, `#Chip Fabrication`, `#Supply Chain`, `#Technology`
+**Tags**: `#HBM`, `#Memory Market`, `#Supply Chain`, `#AI Infrastructure`, `#Forecasts`
 
 ---
 
 <a id="item-10"></a>
-## [SharpEmu Reaches Playable Status in 17 PS5 Games](https://www.techpowerup.com/353152/ps5-emulator-sharpemu-reaches-gameplay-in-17-games-8-run-at-60-fps) ⭐️ 7.5/10
+## [Gimlet cloud and Cerebras to accelerate inference](https://www.electronicsweekly.com/news/business/gimlet-cloud-and-cerebras-to-accelerate-inference-2026-09/) ⭐️ 8.0/10
 
-SharpEmu, an experimental PS5 emulator written in C#, updated its compatibility list following the release of v0.0.4-release.2 on September 25, increasing the count of playable games from 12 to 17.
-Specifically, 8 titles are now running at 60 FPS, including DOOM II and Tomb Raider IV-VI Remastered. Achieving stable 60 FPS in multiple titles marks a significant milestone in x86-architecture emulation, demonstrating rapid progress in virtualizing complex console hardware.
-This development is valuable for systems researchers and enthusiasts tracking hardware virtualization advances, even if the project remains highly experimental. SharpEmu prioritizes accuracy and infrastructure over wide game compatibility, which currently limits it to smaller indie or retro-style games like Dead Cells and Quake.
-In contrast, a competing project called KytyPS5 has made more progress on heavy 3D titles, such as running the PS5 version of GTA 5 at up to 60 FPS on high-end PC hardware.
+Gimlet Labs and Cerebras Systems are partnering to leverage Cerebras' wafer-scale compute on Gimlet Cloud to enable ultra-fast, large-scale AI inference.
 
-rss · TechPowerUp News · Sep 28, 11:07
+rss · Electronics Weekly · Sep 29, 05:16
 
-**Background**: Unlike older PlayStation consoles, the PS5 uses an x86 architecture, making its emulation a complex mix of hardware virtualization and translation layers.
-Emulators like SharpEmu are built from scratch in C# for research purposes and face significant hurdles in matching the original console's performance and stability.
-While 17 playable games is impressive, it represents a tiny fraction of the PS5 library, which contains over 9,000 titles.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://allthings.how/ps5-emulation-in-what-sharpemu-and-kytyps5-can-run-now/">PS5 Emulation in 2026: What SharpEmu and KytyPS5 Can Run Now</a></li>
-<li><a href="https://github.com/sharpemu/sharpemu">GitHub - sharpemu / sharpemu : An experimental PlayStation...</a></li>
-<li><a href="https://totaltech.blog/why-ps5-emulator-is-impossible">PS5 Emulator Challenges: Why It's Practically Impossible ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Emulation`, `#PS5`, `#Systems`, `#Hardware`, `#Game Engines`
+**Tags**: `#AI Infrastructure`, `#Inference Acceleration`, `#Cerebras`, `#Cloud Computing`, `#Hardware`
 
 ---
 
 <a id="item-11"></a>
-## [GMKtec EVO-X5 Pro Enables Offline 320B LLM Inference with 192GB Memory](https://www.techpowerup.com/353151/gmktec-launches-evo-x5-pro-with-amd-ryzen-ai-max-pro-495-and-192-gb-unified-memory) ⭐️ 7.5/10
+## [Chainalysis reports 440% surge in blockchain dead-drop cyberattacks by state actors](https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks) ⭐️ 7.5/10
 
-GMKtec has launched the EVO-X5 Pro desktop, which features the AMD Ryzen AI Max+ PRO 495 processor and up to 192 GB of unified LPDDR5X memory. Through recent engineering optimization, the system now supports fully offline inference of large language models with up to 320 billion parameters. This milestone significantly lowers the hardware barrier for local AI inference, allowing advanced users to run massive models without cloud dependence. It highlights the growing viability of unified memory architectures for agentic and enterprise-grade local computing tasks. The processor utilizes a 16-core Zen 5 architecture and 40 CU RDNA 3+ graphics, operating within the Gorgon Halo family. Running 320B parameter models requires specific software configurations and quantization techniques to fit within the unified memory bandwidth.
+A new report by Chainalysis reveals a 440% increase in blockchain dead-drop attacks over the past 12 months. State-linked groups from Iran and North Korea, along with Russia-linked actors, are increasingly using public blockchains to hide malware and C2 infrastructure. This shift is critical because public blockchains are immutable, making it nearly impossible for law enforcement to seize or take down the malicious infrastructure. It marks a sophisticated evolution in offensive security operations that requires specialized on-chain monitoring by security teams. Attackers use blockchain dead drops to store malware payloads, command-and-control configurations, or pointers to infrastructure in on-chain transactions and smart contracts. The report notes a broader trend where open-weight LLMs are also linked to an increase in automated attack methodologies.
 
-rss · TechPowerUp News · Sep 28, 10:09
+rss · Tom's Hardware · Sep 29, 14:10
 
-**Background**: Unified memory architecture shares a single memory pool between the CPU and GPU, which is crucial for moving large neural network weights without bottlenecks. Historically, running large LLMs required expensive multi-GPU server setups, but quantization and high-capacity APUs have made local inference more accessible. The 'Agentic PC' concept refers to devices capable of running complex autonomous AI agents locally.
+**Background**: A blockchain dead drop (BDD) is a technique where threat actors park malware payloads or C2 pointers inside public blockchain transactions, often using smart contracts or 'phantom' wallets. The term 'phantom wallet' in this context refers to non-existent or unused addresses used to obfuscate traffic, not the consumer-facing Solana wallet known as Phantom. This immutability allows attackers to hide data in plain sight on the decentralized ledger.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.notebookcheck.net/AMD-Ryzen-AI-Max-PRO-495-Processor-Benchmarks-and-Specs.1302238.0.html">AMD Ryzen AI Max+ PRO 495 Processor - Benchmarks and Specs</a></li>
-<li><a href="https://culpur.net/2026/04/03/running-production-llms-on-consumer-hardware-quantization-context-management-and-inference-optimization/">Production LLMs on Consumer Hardware: A Guide - culpur.net</a></li>
+<li><a href="https://www.chainalysis.com/blog/etherhiding-blockchain-dead-drops/">EtherHiding & Blockchain Dead Drops: On-Chain Malware C2</a></li>
+<li><a href="https://thedefiant.io/news/security/blockchain-dead-drop-attacks-jump-420-as-state-hackers-expand">Blockchain Dead Drop Attacks Jump 420% as State Hackers Expand | The Defiant</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Local LLM`, `#AMD Ryzen AI`, `#Unified Memory`, `#Hardware`, `#GMKtec`
+**Tags**: `#cybersecurity`, `#blockchain`, `#state-sponsored-threats`, `#malware`, `#llm`
 
 ---
 
 <a id="item-12"></a>
-## [Synopsys Launches Autopilot Platform for Autonomous AI Chip Design](https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026) ⭐️ 7.5/10
+## [Delhi Reduces Electricity Losses from 50% to 5% via Grid Upgrades](https://spectrum.ieee.org/delhi-electricity-loss) ⭐️ 7.0/10
 
-Synopsys announced its new Autopilot platform featuring seven AgentEngineer agents designed for autonomous chip development. The platform is planned to reach general availability by the end of 2026. This move represents a paradigm shift in Electronic Design Automation (EDA), transitioning the industry from AI-assisted copilots to fully autonomous engineering workflows. It could significantly reduce the time and computational costs associated with complex semiconductor design processes. The system utilizes long-horizon, domain-specific AI agents that span verification, implementation, analog design, manufacturing, simulation, and analysis within a unified environment. Synopsys emphasizes that these agents are built on trusted EDA engines to ensure reliability in the engineering process.
+An IEEE Spectrum article details how Delhi successfully reduced electricity losses from 50% to 5% through anti-theft measures and grid improvements. This massive reduction in losses represents a major systems reliability breakthrough that enables stable power supply and creates the infrastructure necessary for solar integration in emerging markets. The strategy involved insulating power lines to prevent theft, which inadvertently created safe pathways for monkeys to move between neighborhoods and access apartment buildings.
 
-rss · Tom's Hardware · Sep 28, 16:35
+hackernews · rbanffy · Sep 29, 12:43 · [Discussion](https://news.ycombinator.com/item?id=49892245)
 
-**Background**: Electronic Design Automation (EDA) is the process of using software to design electronic systems like semiconductors. Traditionally, this process relies heavily on manual engineering tasks, but the integration of AI agents allows for automated decision-making and workflow optimization in silicon-to-systems design.
+**Background**: Electricity losses refer to the difference between power generated and power billed, often caused by theft, aging infrastructure, or inefficiencies. Load shedding is a practice where power is cut off for specific periods to prevent grid collapse when demand exceeds supply, a common occurrence in many developing regions prior to major infrastructure upgrades.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.synopsys.com/ai/agentic-ai.html">AgentEngineer™ Solutions for Autonomous Engineering | Synopsys</a></li>
-<li><a href="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/">Synopsys Powers Autonomous Engineering... - Semiconductor Digest</a></li>
+**Discussion**: Commenters shared anecdotes of frequent power cuts and the necessity of unplugging appliances during surges, while others highlighted the unexpected impact of insulated lines on local wildlife behavior. Additional perspectives focused on the potential for India to leverage stable power for solar and battery storage integration.
 
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Chip Design`, `#Semiconductors`, `#EDA`, `#Synopsys`
+**Tags**: `#infrastructure`, `#power-grid`, `#sustainability`, `#case-study`, `#india`
 
 ---
 
 <a id="item-13"></a>
-## [Experimental Emulator Lets Jailbroken PS5s Run Nintendo Switch Games](https://www.tomshardware.com/video-games/console-gaming/you-can-now-play-nintendo-switch-games-on-a-jailbroken-ps5-early-alpha-hits-40-fps-in-lighter-titles-but-chokes-on-zelda) ⭐️ 7.5/10
+## [Technical Analysis of Privacy Leaks in Web and Mobile AI Agents](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf) ⭐️ 7.0/10
 
-An experimental emulator has been developed to run Nintendo Switch games on jailbroken PlayStation 5 consoles. The software currently achieves playable framerates in lighter titles but struggles to handle resource-intensive games like The Legend of Zelda. This milestone demonstrates the feasibility of cross-platform emulation on next-generation hardware, significantly expanding the potential library of playable games for PS5 jailbreakers. It reflects a growing trend in open-source software that allows consoles to run titles originally designed for other architectures. The emulator is currently in an early alpha stage, meaning it is not ready for daily use and may encounter stability issues. Performance is highly dependent on the game's hardware demands, with heavier titles failing to run smoothly.
+A recent technical analysis reveals that conversational AI agents in web and mobile environments often leak private data through ad tracking, URL structures, and background prompt processing. Specific instances identified include ChatGPT sending unfinished prompts to prepare endpoints and Perplexity exposing full conversations via public URLs. This matters because conversational AI is increasingly trusted with sensitive personal and professional data, yet current implementations often fail to isolate user inputs from third-party trackers or public web caches. The findings highlight significant gaps in data privacy for both closed commercial AI services and open model deployments. Key technical details include the use of UUIDs in URLs as a mechanism that unintentionally creates public links to private conversations, a practice criticized in services like Perplexity. Additionally, background processes that pre-warm caches or track typing cadence via endpoints like `conversation/prepare` create persistent data trails of user intent before a prompt is officially sent.
 
-rss · Tom's Hardware · Sep 28, 15:20
+hackernews · damaru2 · Sep 29, 09:03 · [Discussion](https://news.ycombinator.com/item?id=49890226)
 
-**Background**: Nintendo Switch games are designed for ARM architecture, while PlayStation 5 runs on x86 processors. Emulators like suyu or Nx86 are typically developed for desktop PC environments, translating code to run on different hardware. For this to work on a PS5, the system must be jailbroken to allow the execution of unauthorized external software.
+**Background**: Conversational AI agents are software systems that use large language models to interact with users through text or voice, often acting as assistants that can browse the web and execute tasks. In these systems, 'prompt' refers to the input text given to the model, which may contain private information. Data exfiltration in this context refers to the unauthorized extraction or leakage of sensitive user data to external servers or third-party trackers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://suyu-emu.github.io/website/">suyu - Open-source, non-profit Switch emulator</a></li>
-<li><a href="https://github.com/Nx86-emu/Nx86">GitHub - Nx86-emu/Nx86: A badass AOT compiler for switch ...</a></li>
+<li><a href="https://www.ainews.com/p/how-openai-prevents-url-based-data-exfiltration-in-chatgpt-ai-agents">How OpenAI Prevents URL -Based Data Exfiltration in ChatGPT AI ...</a></li>
+<li><a href="https://www.promptfoo.dev/blog/indirect-prompt-injection-web-agents/">Indirect Prompt Injection in Web -Browsing Agents | Promptfoo</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nintendo Switch`, `#PlayStation 5`, `#Emulation`, `#Jailbreak`, `#Gaming`
+**Discussion**: Community discussion agrees on the severity of privacy leaks, with users comparing them to recent legal disputes over AI training data. There is a strong consensus that public URLs are not a substitute for secure session management, leading some to advocate for local model deployment to bypass these risks.
+
+**Tags**: `#privacy`, `#ai-security`, `#web-tracking`, `#llm`, `#data-leak`
 
 ---
 
 <a id="item-14"></a>
-## [Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs](https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process) ⭐️ 7.5/10
+## [PostHog releases Jeeves to add reasoning to small Jev-like decision models](https://github.com/PostHog/jeeves) ⭐️ 7.0/10
 
-Unofficial modders have ported Nvidia's DLSS 5 neural rendering to AMD Radeon GPUs, achieving a 74% performance increase in Cyberpunk 2077 through rapid optimization.
+PostHog released Jeeves, an experimental tool that enhances small, fast Jev-like decision models by incorporating reasoning steps, including a diffusion drafter and chain sampling techniques. The project uses FP8 kernels and a batched speculative engine to integrate a Jev-compatible server. This tool attempts to bridge the gap between the speed and cost-efficiency of small decision models and the higher accuracy typically associated with large language models. It explores how to improve calibrated decision probabilities in resource-constrained environments, though it currently trades off speed for accuracy. Despite the engineering improvements, Jeeves introduces significant latency, with p90 times reaching 17 seconds, and suffers performance regressions on standard benchmarks like MMLU. It was trained using SFT and CISPO techniques to improve reasoning capabilities.
 
-rss · Tom's Hardware · Sep 28, 13:30
+hackernews · nicowaltz · Sep 29, 11:13 · [Discussion](https://news.ycombinator.com/item?id=49891290)
 
-**Tags**: `#GPU`, `#AI-Upscaling`, `#AMD-Radeon`, `#Nvidia-DLSS`, `#PC-Gaming`
+**Background**: Jev-like models are a class of small, fast AI models designed to provide calibrated decision probabilities at very low cost and high speed. These models are typically used for inference tasks where latency and resource usage are critical constraints, unlike large language models which offer higher accuracy but at a much higher computational cost.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/PostHog/jeeves">PostHog/jeeves: Jeeves – Reasoning improves Jev - like decision ...</a></li>
+<li><a href="https://jevbest.com/projects/jev-like-models/">Awesome Jev - like models Jev Projects | bestjev</a></li>
+<li><a href="https://arxiv.org/abs/2502.11569">[2502.11569] Towards Reasoning Ability of Small Language Models</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community widely criticized the high latency, arguing that 17-30 seconds response times defeat the primary purpose of using Jev-like models for their speed and low cost. Users reported performance drops in specific benchmarks, noting that the model performed below the standard Jev model in tests detecting irony in German soccer tweets.
+
+**Tags**: `#machine-learning`, `#small-models`, `#inference`, `#optimization`, `#posthog`
 
 ---
 
 <a id="item-15"></a>
-## [North Korea Suspected in $387 Million Bitget Crypto Hack](https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes) ⭐️ 7.5/10
+## [Semiconductor Catapult Pivots to AI and RF Focus](https://www.electronicsweekly.com/news/microelectronics-uk-2026-semiconductor-catapult-pivots-to-ai-and-rf-2026-09/) ⭐️ 7.0/10
 
-Investigators have identified North Korean state-backed actors as the primary suspects in the $387 million Bitget crypto hack. The attribution is based on IP addresses tied to VPN infrastructure previously associated with North Korean hacker groups. This incident highlights the escalating threat of state-sponsored cyberattacks on the global cryptocurrency ecosystem. The successful exploitation of a major exchange underscores the significant financial and security risks faced by digital asset platforms. The thieves reportedly swapped stablecoins for Ethereum within minutes to evade network freezes. The hack, which targeted the Bitget exchange, resulted in a substantial loss of 387.5 million dollars in digital assets.
+The UK Semiconductor Catapult has formally launched, marking a strategic pivot to support AI and RF technologies as announced by CEO Caroline O’Brien. This shift reinforces the UK's commitment to expanding its domestic semiconductor supply chain and positioning itself to serve the growing demand for AI infrastructure. The organization operates as the successor to the Compound Semiconductor Applications (CSA) Catapult, continuing its role in supporting innovation from concept through commercialisation and scale-up.
 
-rss · Tom's Hardware · Sep 28, 12:00
+rss · Electronics Weekly · Sep 29, 15:01
 
-**Background**: North Korean state-backed groups are well-documented in the cybersecurity community for conducting financially motivated cyberattacks. Crypto exchanges are frequent targets due to the difficulty of tracking transactions and the high value of digital assets. VPNs and IP infrastructure are common tools used by threat actors to mask their geographic origins.
+**Background**: UK Catapult centres are a network of research and development facilities funded by Innovate UK to bridge the gap between academic research and market deployment. RF engineering, which handles high-frequency signals for communications, and AI hardware are both critical sectors currently experiencing rapid global growth.
 
-**Tags**: `#cybersecurity`, `#cryptocurrency`, `#threat-actor`, `#north-korea`, `#data-breach`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.everythingpe.com/news/details/10512-csa-catapult-rebrands-as-semiconductor-catapult-to-support-ai-infrastructure">CSA Catapult Rebrands as Semiconductor Catapult to Support AI...</a></li>
+<li><a href="https://catapult.org.uk/">Home - The Catapult Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Catapult_centres">Catapult centres - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#ai-hardware`, `#uk-tech`, `#rf-engineering`, `#industry-news`
 
 ---
 
 <a id="item-16"></a>
-## [Teenager exploits missing JWT validation to access Microsoft database](https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty) ⭐️ 7.5/10
+## [Synopsys Announces AgentEngineer for Autonomous Chip Engineering](https://www.electronicsweekly.com/news/business/the-agent-engineer-2026-09/) ⭐️ 7.0/10
 
-A teenager hacked a Microsoft database containing 17 trillion rows and 25,000 user accounts by exploiting a lack of JWT token validation and using a custom AI bot. The discovery resulted in a $5,000 bug bounty payment to the researcher. This incident highlights critical gaps in API security and authentication design, demonstrating how overlooked validation checks can expose massive datasets. It serves as a significant warning for organizations to strictly implement proper JWT handling and monitoring to prevent similar large-scale data breaches. The exploit involved bypassing authentication by failing to validate JSON Web Tokens (JWT), allowing unauthorized access to the massive database. The attacker utilized a custom AI bot to facilitate the exploitation of this security misconfiguration.
+Synopsys has introduced Agent-Engineers, a suite of AI agents that can reason, plan, and execute complex engineering workflows. These agents support long-horizon tasks across verification, system validation, and manufacturing domains. This initiative marks a major industry shift from AI-assisted design to autonomous engineering in the semiconductor sector. It significantly impacts the EDA ecosystem by aiming to automate and accelerate silicon-to-system development processes. The Agent-Engineer solutions are part of a broader Autopilot platform that integrates with seven specialized agents working alongside customers' own models and data. The platform is currently poised for general availability by the end of 2026.
 
-rss · Tom's Hardware · Sep 28, 11:00
+rss · Electronics Weekly · Sep 29, 05:14
 
-**Background**: JWT is a compact, URL-safe means of representing claims to be used between parties, widely used for authentication in web applications. When a system fails to properly validate the signature or algorithm of a JWT, attackers can forge tokens to assume different identities. Bug bounties are programs where companies reward security researchers for responsibly disclosing vulnerabilities instead of exploiting them.
+**Background**: EDA (Electronic Design Automation) is the software category used to design integrated circuits, traditionally involving manual tool orchestration and long design iterations. Synopsys is a leading EDA company that provides the standard tools used in chip manufacturing and verification. The integration of AI agents represents a transition from tool-level automation to workflow-level autonomous orchestration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.authgear.com/post/jwt-security-best-practices-common-vulnerabilities/">JWT Security Explained: Best Practices and Common Vulnerabilities</a></li>
-<li><a href="https://securitywall.co/blog/jwt-pentesting">JWT Pentesting: A Practical Guide to JSON Web Token Security ...</a></li>
-<li><a href="https://www.redteamworldwide.com/jwt-attack-surface-security/">JWT Vulnerabilities: How Attackers Exploit Tokens and How to ...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026">Synopsys debuts Autopilot platform for developing... | Tom's Hardware</a></li>
+<li><a href="https://www.electronicsmedia.info/2026/09/29/synopsys-agentengineer/">Synopsys AgentEngineer: AI Agents Accelerate Semiconductor...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#api-security`, `#jwt`, `#data-breach`, `#bug-bounty`
+**Tags**: `#Synopsys`, `#AI Agents`, `#Hardware Engineering`, `#Automation`, `#Semiconductors`
 
 ---
 
 <a id="item-17"></a>
-## [Paulinella species discovery, Starship orbital launch, and coastal subsidence study](https://www.solidot.org/story?sid=85496) ⭐️ 7.3/10
+## [DraftKings Uses AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) ⭐️ 6.0/10
 
-Researchers identified two new Paulinella species while studying endosymbiotic evolution, coinciding with SpaceX's first orbital Starship launch and a major study linking coastal ground subsidence to sea-level rise risks. These developments offer crucial insights into the origin of chloroplasts, mark a significant milestone for reusable heavy-lift rocketry, and highlight a underappreciated driver of coastal flooding that doubles sea-level rise effects for millions of residents. Starship launched 26 Starlink V3 satellites and splashed down without recovery; the coastal study analyzed over 190 million data points, finding 43% of the US coastline subsiding at 0.2 cm/year or more; the new Paulinella species are Paulinella marae and Paulinella murrayi.
+The Electronic Frontier Foundation (EFF) published an analysis revealing that DraftKings uses artificial intelligence to identify and target chronic gamblers with personalized promotions. This AI-driven approach specifically aims to maximize the revenue from users who are most likely to continue losing money. This practice highlights the significant ethical concerns surrounding the use of predictive modeling in the gambling industry, as it potentially exacerbates gambling addiction and financial harm. It fuels the ongoing debate over the regulation of behavioral advertising and data privacy in digital sectors. Reports indicate that DraftKings has even shelved a problem-gambling AI tool to prioritize targeting likely losers, which has drawn privacy backlash and calls for a ban on behavioral advertising. The use of personal data to predict and manipulate user behavior raises serious issues of model transparency and data privacy.
 
-rss · Solidot · Sep 28, 15:57
+hackernews · paimapi · Sep 29, 16:30 · [Discussion](https://news.ycombinator.com/item?id=49896050)
 
-**Background**: Endosymbiosis is the evolutionary process where one cell lives inside another, leading to organelles like chloroplasts; Paulinella is a model organism for this. SpaceX's Starship is a large, fully reusable spacecraft designed for point-to-point and lunar/Mars missions. Ground subsidence is the gradual downward settling of the Earth's surface, which when combined with rising sea levels, exacerbates flooding risks for coastal communities.
+**Background**: Behavioral advertising uses collected user data to predict interests and show relevant ads, but in gambling it can be used to exploit vulnerability. Predictive modeling is a form of AI that uses data mining and probability to forecast specific outcomes, such as when a user is likely to gamble. The gambling industry has historically used data science to identify high-value customers and predict their behaviors, similar to practices used by large casino operators.
 
-**Tags**: `#Astrobiology`, `#SpaceX`, `#Starship`, `#Climate Change`, `#Geology`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising">DraftKings Is Using AI to Supercharge the Harms of Online...</a></li>
+<li><a href="https://futurism.com/artificial-intelligence/draftkings-ai-problem-gamblers">DraftKings Is Using AI to Identify Problem Gamblers and Get Them...</a></li>
+<li><a href="https://news.bitcoin.com/igaming/draftkings-shelved-problem-gambling-ai-targeting-likely-losers/">Draftkings Shelved a Problem- Gambling AI While Targeting Likely...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members generally expressed strong disapproval of the gambling industry, viewing it as an amoral business that profits from human suffering. Users shared a strong sentiment that addiction to gambling is comparable to, or worse than, drug addiction because the 'drug' is always on the phone. Some also raised the question of why riskier financial instruments have investor protections, whereas online gambling does not.
+
+**Tags**: `#AI Ethics`, `#Behavioral Advertising`, `#Gambling Industry`, `#Data Privacy`, `#Regulation`
 
 ---
 
 <a id="item-18"></a>
-## [PS5 RTMP Stream Hijacking Reveals Unencrypted Streaming Security Risks](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) ⭐️ 7.0/10
+## [Hacker News Analyzes Flaws in 'Without the Hot Air' Book](https://www.withouthotair.com/) ⭐️ 6.0/10
 
-A technical deep-dive demonstrates how the PS5's unencrypted RTMP streaming protocol can be hijacked for remote takeover. This exploit highlights a significant security vulnerability in Sony's console streaming implementation. This discovery underscores the risks of using unencrypted data transmission for remote console control in 2026. It may prompt hardware manufacturers to secure their streaming protocols to prevent unauthorized remote access and credential theft. The vulnerability involves the PS5 using plain RTMP for its streaming connection, allowing a Man-in-the-Middle attack similar to those used by Lightstream Studio. An observer noted a discrepancy between the PS5's use of RTMPS for Twitch and plain RTMP for other endpoints.
+A Hacker News thread evaluates the energy analysis book 'Without the Hot Air,' identifying a fundamental flaw in its methodology where it incorrectly compares chemical and electrical energy directly. The discussion also notes the recent death of the book's author, Robert F. Service. This discussion is significant as it clarifies a common misconception in energy policy analysis known as the 'primary energy fallacy,' highlighting that heat pump efficiency exceeds the direct substitution of chemical fuel. It preserves the technical legacy of a influential book while correcting specific analytical errors. The primary technical criticism is that the book assumes a 1:1 conversion ratio for energy, ignoring that electric heat pumps can move roughly 6 Joules of heat for every 1 Joule of electrical energy consumed. An updated interactive simulation of similar concepts is available through the UK government's My2050 model.
 
-hackernews · ibobev · Sep 28, 15:35 · [Discussion](https://news.ycombinator.com/item?id=49879702)
+hackernews · 0sake_rs · Sep 29, 12:38 · [Discussion](https://news.ycombinator.com/item?id=49892175)
 
-**Background**: RTMP (Real-Time Messaging Protocol) is an old, unencrypted protocol originally designed for live video streaming. While its encrypted version RTMPS is more secure, legacy systems often still rely on plain RTMP for compatibility. Cloud gaming involves using remote servers to run games and stream the video back to the user's local hardware.
+**Background**: 'Without the Hot Air' is a book by Robert F. Service that used mathematical analysis to evaluate the feasibility of decarbonizing the economy by 2050. The 'primary energy fallacy' refers to the error of comparing different forms of energy (like gas vs. electricity) without accounting for the efficiency differences in their conversion or application. Heat pumps are devices that use electricity to move heat from one place to another, achieving efficiency levels higher than 100% relative to electrical input.
 
-**Discussion**: Comments expressed concern that unencrypted streaming persists in 2026, with fears of potential mass exploitation by state actors. The discussion also highlighted industry history with Lightstream Studio and proposed a novel cloud gaming model using clusters of PS5 consoles.
+**Discussion**: Community sentiment is mixed, with some users praising the book's compelling narrative structure that alternates between despair and hope, while others criticize its physical assumptions and poor web design. A comment specifically pointed out that the author had been blogging until just days before his death in 2015.
 
-**Tags**: `#security`, `#hardware`, `#ps5`, `#streaming`, `#exploit`
+**Tags**: `#energy`, `#physics`, `#climate-policy`, `#technical-analysis`, `#book-review`
 
 ---
 
 <a id="item-19"></a>
-## [Modders Install SteamOS on Android Handhelds via ARM64 Support](https://www.techpowerup.com/353171/modders-transform-android-handhelds-into-mini-steam-decks) ⭐️ 6.5/10
+## [OpenAI Launches Premium ChatGPT Pro Tier at $500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) ⭐️ 6.0/10
 
-Modding communities are using Valve's new Proton 11.0 ARM64 compatibility layer to port SteamOS to Android-based gaming handhelds. This initiative allows devices from makers like Ayaneo and Konkr to run a Linux desktop environment and execute x86 PC games natively on mobile SoCs. This development significantly lowers the barrier for Android handheld owners to access the vast Steam game library, effectively bridging the gap between mobile gaming and PC gaming. It validates the growing power of mobile SoCs, which can now handle desktop operating systems and emulated x86 workloads. The process relies on community projects like Armada, which integrates FEX and Steam to transform Android devices into SteamOS-like environments. This is made possible by Valve's adaptation of its compatibility layer for the Steam Frame VR headset, which uses the Snapdragon 8 Gen 3 platform.
+OpenAI has introduced a new tier of its ChatGPT Pro subscription at a price point of $500, replacing the previous $200 tier structure with updated usage allowances.
+Additionally, the new tier includes an 'ultrafast mode' which significantly accelerates task processing. This move reflects OpenAI's strategy to monetize high-performance AI capabilities through premium pricing, directly impacting power users and corporate budgets.
+The higher price tag intensifies the competitive dynamic with alternative coding agents like Claude Code by targeting the highest tier of developers and researchers. New subscribers who are not covered by grandfathering terms will face lower usage allowances than previously offered, a change justified by the efficiency of newer models.
+Community analysis indicates that the new 'ultrafast mode' drains usage limits approximately six times faster than standard modes.
 
-rss · TechPowerUp News · Sep 28, 18:18
+hackernews · prodigycorp · Sep 29, 17:26 · [Discussion](https://news.ycombinator.com/item?id=49896975)
 
-**Background**: SteamOS is Valve's custom Linux distribution primarily used in the Steam Deck, designed to facilitate playing PC games on portable hardware. Traditionally, the vast majority of PC games are developed for x86 architecture, while mobile handhelds use ARM architecture, which are fundamentally different. Proton is a compatibility layer built on Wine that allows Linux systems to run Windows software and games.
+**Background**: OpenAI's ChatGPT Pro tier is a premium subscription offering that provides access to advanced AI models and higher usage limits compared to the standard Plus plan. The 'grandfathering' clause is a common practice where existing users retain their original benefits even after pricing or policy changes. In the context of AI coding agents, tools are often compared based on the amount of code or tasks generated per dollar spent.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://armadaos.dev/">A SteamOS -like Linux distribution for ARM handhelds</a></li>
-<li><a href="https://www.techpowerup.com/348297/steams-proton-gets-wine-11-gaming-performance-improvements-valve-launches-arm64-compatibility-layer">Steam's Proton Gets Wine 11 Gaming Performance Improvements ...</a></li>
+**Discussion**: The community is largely skeptical, with users questioning the value proposition and pointing out that the ultrafast mode drains limits excessively.
+Several commentators expressed frustration, comparing the $500 price to the cost of hiring entry-level developers or unfavorably contrasting it with competitor coding tools that offer better value for the same price.
 
-</ul>
-</details>
-
-**Tags**: `#SteamOS`, `#ARM64`, `#Android`, `#Gaming Hardware`, `#Modding`
+**Tags**: `#OpenAI`, `#Pricing`, `#AI Subscriptions`, `#Code Generation`, `#Business Strategy`
 
 ---
 
 <a id="item-20"></a>
-## [Acemagic launches $6,500 F9A mini PC with AMD Ryzen AI Max+ 495](https://www.techpowerup.com/353163/acemagic-launches-f9a-usd-6-500-workstation-mini-pc-with-amd-ryzen-ai-max-pro-495) ⭐️ 6.5/10
+## [Guide to Integrating C++ Libraries into Godot Using Conan](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html) ⭐️ 6.0/10
 
-Acemagic has officially launched the F9A, a compact AI workstation mini PC powered by the AMD Ryzen AI Max+ 495 APU. The device features up to 192 GB of unified memory and OCuLink eGPU support, starting at a price of $6,499. This launch makes high-performance local AI inference accessible in a significantly smaller form factor than traditional servers. It serves as a notable data point for the growing trend of powerful x86 APUs catering to AI engineers who need compact, dedicated inference nodes. The F9A measures just 2 liters in volume and features 131 TOPS of AI compute via its Radeon 8065S iGPU. It allows users to configure 160 GB of the 192 GB LPDDR5X-8355 memory specifically as dedicated video memory for heavy graphical workloads.
+The post provides a technical tutorial on how to leverage the Conan C++ package manager to build and link arbitrary C++ libraries into Godot games using CMake. This approach allows game developers to utilize high-performance C++ algorithms for performance-critical systems while maintaining the flexibility of the Godot engine. Developers must be cautious about Linux-specific library versioning, where a linker script or matching libstdc++ version is often required to prevent runtime linking issues.
 
-rss · TechPowerUp News · Sep 28, 16:59
+hackernews · czoido · Sep 29, 08:40 · [Discussion](https://news.ycombinator.com/item?id=49890051)
 
-**Background**: AMD's Gorgon Halo chips, like the Ryzen AI Max+ 495, are a new generation of APU featuring Zen 5 architecture and significantly improved graphical performance. OCuLink is a cable connector standard that carries PCIe lanes directly, typically four lanes, from the host device without a tunneling protocol in between.
+**Background**: Godot is an open-source game engine where C++ libraries can be integrated via the GDExtension API, bypassing the GDScript performance limits. Conan is a widely-used C++ package manager that automates dependency resolution and build configurations, which is particularly useful when complex C++ libraries are involved in a game's tech stack.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://wccftech.com/amd-ryzen-ai-max-495-gorgon-halo-leak-192gb-memory-radeon-8065s/">AMD Ryzen AI MAX+ 495 “Gorgon Halo” Leak ... - Wccftech</a></li>
-<li><a href="https://www.lenvanta.com/guides/oculink-egpu-explained">OcuLink eGPU explained: what the port is, what you need, what ...</a></li>
+**Discussion**: Community members shared their experience moving heavy logic to C++ simulations to overcome GDScript performance ceilings, while also highlighting the utility of Rust GDExtension bindings as an alternative. Several commenters warned about the complexity of managing dynamic library versioning on Linux systems.
 
-</ul>
-</details>
-
-**Tags**: `#AMD`, `#Mini-PC`, `#AI Hardware`, `#Ryzen`, `#Local LLM`
+**Tags**: `#Godot`, `#C++`, `#Conan`, `#GameDevelopment`, `#Performance`
 
 ---
