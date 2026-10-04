@@ -5,237 +5,182 @@ date: 2026-10-04
 lang: zh
 ---
 
-> 从 38 条内容中筛选出 14 条重要资讯。
+> 从 36 条内容中筛选出 9 条重要资讯。
 
 ---
 
-1. [台积电探索与马斯克 Terafab 项目的合作](#item-1) ⭐️ 9.5/10
-2. [Aleph Alpha 发布 Kolibri：透明且主权可控的开源权重大模型](#item-2) ⭐️ 9.0/10
-3. [ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths](#item-3) ⭐️ 8.5/10
-4. [We're going to need default hard budget caps on pretty much everything](#item-4) ⭐️ 8.0/10
-5. [Getting the most out of Opus 5.5 in Claude and Claude Code](#item-5) ⭐️ 8.0/10
-6. [OpenAI 安全负责人离职，警告 AI 公司文化“崩溃”](#item-6) ⭐️ 8.0/10
-7. [AI 智能体因重读缓存提示词，token 消耗量是人类用户的五倍](#item-7) ⭐️ 7.5/10
-8. [Valve 工程师 Timur Kristóf 提升 Linux 旧款 AMD GPU 性能](#item-8) ⭐️ 7.0/10
-9. [Nuta FTL 推出面向云工作负载的开源操作系统](#item-9) ⭐️ 7.0/10
-10. [马斯克确认与台积电洽谈 Terafab 芯片制造合作](#item-10) ⭐️ 6.5/10
-11. [NVIDIA 发布更便宜的 64GB DGX Spark，128GB 型号价格上调](#item-11) ⭐️ 6.5/10
-12. [Treachery in the Rodin Museum 3D scan verdict](#item-12) ⭐️ 6.0/10
-13. [因 AI 内存短缺，上市 7 年的 Nvidia Shield TV Pro 价格惊人上涨 50%](#item-13) ⭐️ 5.5/10
-14. [二手 CPU 可能带来反作弊硬件禁令](#item-14) ⭐️ 5.5/10
+1. [Strata 工具让 125B Qwen 模型在消费级 RTX 4090 上以 124 词/秒运行](#item-1) ⭐️ 8.0/10
+2. [Valve 开发者优化旧款 AMD GPU 的 Linux 支持](#item-2) ⭐️ 8.0/10
+3. [分析：为什么开发者偏爱库而非原生浏览器 API](#item-3) ⭐️ 7.0/10
+4. [加州下令停止人形机器人笼式格斗](#item-4) ⭐️ 6.5/10
+5. [数据库专家使用 5900 行代码在 SQL 中运行 DOOM](#item-5) ⭐️ 6.5/10
+6. [美军现场组装无人机投掷 3D 打印“Dragoon”炸弹](#item-6) ⭐️ 6.5/10
+7. [Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement](#item-7) ⭐️ 6.5/10
+8. [LeCun 对 AI 灭绝担忧不以为然，引发 AGI 与 LLM 辩论](#item-8) ⭐️ 6.0/10
+9. [Jagex 宣布新 MMO《RuneScape 4》，基于 Unreal Engine 开发](#item-9) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [台积电探索与马斯克 Terafab 项目的合作](https://www.techpowerup.com/353352/tsmc-explores-collaboration-with-elon-musks-terafab-project) ⭐️ 9.5/10
+## [Strata 工具让 125B Qwen 模型在消费级 RTX 4090 上以 124 词/秒运行](https://github.com/Niko1221/Strata) ⭐️ 8.0/10
 
-台积电正考虑与埃隆·马斯克的 Terafab 项目建立合资企业，以在美国建立先进的半导体制造能力。埃隆·马斯克已在 X 上确认，TSMC 与 Terafab 正在讨论财务支持和股权参与，以支持新的晶圆厂产能。 这一潜在合作将大幅提升美国本土芯片产量，降低对亚洲的依赖并增强国家安全。它也加剧了与英特尔的竞争，因为台积电的进入可能迫使行业进行多元化采购，并重新平衡全球供应链。 该交易涉及 Terafab 提供财务支持和采购协议，而台积电可能不会将其最先进技术转移到美国，最高端节点将保留在台湾。英特尔仍是 Terafab 的合作伙伴，这创造了一个复杂的情境，两家代工厂可能会共存并互补各自的技术差距。
+名为 Strata 的工具使 125B 参数量的 Qwen 3.8 Flash Next 模型能够以 124 词/秒的吞吐量在消费级 RTX 4090 硬件上运行。这一演示表明，先进的推理优化技术能够推动最先进的大规模 Mixture-of-Experts (MoE) 模型在无需多卡组网的普通消费级硬件上运行。 这大幅降低了运行高端大语言模型的硬件门槛，使个人开发者和爱好者能够用单张消费级 GPU 来测试 125B 级别的 MoE 架构。它证实了精密的量化与缓存技术可以在易于获取的硬件上实现接近数据中心级的性能，从而改变了本地部署大语言模型的成本曲线。 虽然实现了高速运行，但低于 4-bit 的量化运行存在显著的质量下降风险，正如依赖 4-bit 量化进行关键任务的用户所指出的那样。社区也在询问为什么 llama.cpp 等标准推理栈尚未原生集成这种专家缓存机制，暗示了专业工具与标准运行时之间可能存在的技术鸿沟。
 
-rss · TechPowerUp News · 10月3日 11:36
+hackernews · snehesht · 10月4日 12:51 · [社区讨论](https://news.ycombinator.com/item?id=49953495)
 
-**背景**: Terafab 是由特斯拉、SpaceX 和英特尔联合开发的计划中晶圆厂，由埃隆·马斯克宣布，目标是在得克萨斯州建立全球最大的设施。台积电目前是全世界最大的专业代工企业，但其先进制造历史一直保留在台湾。美国政府及私营部门正在大力推动本土半导体生产，以确保供应链安全。
+**背景**: Qwen 3.8 Flash Next 是一个具有 1250 亿参数的大规模 Mixture-of-Experts (MoE) 大语言模型。RTX 4090 是一款配备 24GB 显存的高端消费级显卡，在不采用激进优化技术的情况下，通常不足以加载 125B 的模型。量化是指降低模型权重精度（例如从 16-bit 降至 4-bit）以适应有限内存的过程，而专家缓存则是 MoE 模型中用于优化激活专家通路检索的一种技术。
 
-**标签**: `#semiconductors`, `#TSMC`, `#manufacturing`, `#geopolitics`, `#industry-news`
+**社区讨论**: 社区成员对于这种高速表现感到兴奋，但同时对低于 4-bit 量化所付出的代价持怀疑态度。一些用户惊讶于其在消费级配置上的出色表现，并质疑为何 llama.cpp 等标准工具尚未采用这种专家缓存技术；还有用户将其与 Dwarfstar 等现有替代方案进行了对比。
+
+**标签**: `#LLM`, `#Inference Optimization`, `#Quantization`, `#Consumer Hardware`, `#Qwen`
 
 ---
 
 <a id="item-2"></a>
-## [Aleph Alpha 发布 Kolibri：透明且主权可控的开源权重大模型](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ⭐️ 9.0/10
+## [Valve 开发者优化旧款 AMD GPU 的 Linux 支持](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) ⭐️ 8.0/10
 
-Aleph Alpha 发布了 Kolibri，这是一个 780 亿参数、激活参数为 34.6 亿、支持最高 100 万上下文 token 的主权开放权重 LLM。此次发布附带了一份透明度极高的技术报告，详细说明了训练方法和数据集构建过程。 Kolibri 为欧洲提供了一个罕见的主权 AI 选择，使机构能够在受控基础设施上运行强大模型，以替代来自美国和中国的 LLM。其在训练数据和方法上的高度透明为开放权重模型树立了新标杆。 该模型支持智能体任务和编程，并采用“Merlin-Arthur”协议训练弃权数据，使其在信息缺失时会回答“我不知道”。该团队正与加拿大公司 Cohere 合并，以共享资源成本。
+Valve 开发者 Timur Kristóf 展示了专门提升 Linux 内核对旧款 AMD GPU 支持的工作，从而极大地改善了其游戏性能和可用性。 这项举措延长了旧硬件的使用寿命，使 Steam Deck 等设备和旧款桌面 GPU 在 Linux 系统上具备更强的性能，并推动了更广泛的开源游戏生态系统。 改进主要针对特定的旧款 RDNA 和早于 RDNA 的架构，在配备这些 GPU 移动版的手持设备上已观察到实际益处，正如 XDC 2026 演示中所强调的那样。
 
-hackernews · bastitx · 10月3日 09:36 · [社区讨论](https://news.ycombinator.com/item?id=49942706)
+hackernews · speckx · 10月3日 19:14 · [社区讨论](https://news.ycombinator.com/item?id=49946895)
 
-**背景**: 主权 AI 模型是指机构可以完全在自身控制的基础设施上部署的模型，通常用于满足国家安全或数据隐私法规。所谓“开放权重”意味着模型参数是公开的，但与完全的“开源”软件不同，其训练数据和代码通常不予公开。Agentic AI（智能体 AI）指的是能够自主感知、推理并执行复杂多步骤任务的人工智能系统。
+**背景**: AMD 显卡依赖于 Linux 内核中的开源 amdgpu 驱动程序来运行。虽然像 Steam Deck APU 这样的最新芯片会持续获得优先更新，但旧款世代往往缺乏实现最佳性能所需的具体内核级优化。Valve 作为主要的 Linux 游戏倡导者，通常会在上游改进这些驱动程序。
 
-**社区讨论**: 社区成员称赞了技术报告中前所未有的透明度，将其比作关于构建现代智能体 LLM 的教程。有用户提供了一个免费的基于 Web 的演示以方便进行基准测试，而一名团队成员则强调该发布来自一个成立不到一年的团队，凸显了公司的高迭代速度。
+**社区讨论**: 社区对实际益处感到兴奋，用户报告称旧款手持设备和桌面 GPU 在 Linux 上的表现比在 Windows 上更快更流畅，促使一些人考虑将整个主要设备切换到 Linux。
 
-**标签**: `#Open-Source-AI`, `#LLMs`, `#Sovereign-AI`, `#Model-Release`, `#Agentic-AI`
+**标签**: `#Linux`, `#AMD`, `#GPU`, `#Valve`, `#Systems`
 
 ---
 
 <a id="item-3"></a>
-## [ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths](https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data) ⭐️ 8.5/10
+## [分析：为什么开发者偏爱库而非原生浏览器 API](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) ⭐️ 7.0/10
 
-OpenAI's ChatGPT-6 Astra successfully cleared World of Warcraft's orc starting zone in 40 minutes without deaths by acting as a blind agent navigating via server network traffic.
+一项分析解释了为什么开发者经常更喜欢自行开发方案或使用 React 等框架，而不是使用原生浏览器平台功能。该论点强调，某些功能的原生实现要么繁琐不堪，要么设计不佳，导致理想与开发者实际体验之间存在脱节。 分析指出，平台 API 往往难以可靠使用，迫使开发者依赖提供更好组合性和抽象的框架。具体例子包括 HTML <datalist> 元素的可用性问题以及原生 Web Components 带来的陡峭学习曲线。
 
-rss · Tom's Hardware · 10月3日 10:00
+hackernews · vinhnx · 10月4日 04:10 · [社区讨论](https://news.ycombinator.com/item?id=49950554)
 
-**标签**: `#AI Agents`, `#OpenAI`, `#World of Warcraft`, `#Agentic AI`, `#Gaming AI`
+**背景**: 在 Web 开发中，“平台”或“原生”功能是指由浏览器引擎直接提供的功能，例如 Web 组件或标准 HTML 表单。React 等框架或 Lit 等库是用 JavaScript 编写的，作为抽象层来管理复杂的 UI 状态。开发者经常选择这些工具，因为它们在不同浏览器之间提供了更一致和可组合的 API，弥补了原始 Web 标准和实际应用开发之间的差距。
+
+**社区讨论**: 评论者普遍认同原生浏览器实现往往缺乏实用性，特别引用了 <datalist> 元素的糟糕可用性以及 Web 组件很少在没有 Lit 等包装库的情况下独立使用的事实。这种情绪表明，对许多开发者而言，在熟悉的框架上构建不仅是“更有趣”，而且是确保复杂应用中可靠性和组合性的必要条件。
+
+**标签**: `#web-development`, `#frontend`, `#browser-apis`, `#frameworks`, `#web-components`
 
 ---
 
 <a id="item-4"></a>
-## [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) ⭐️ 8.0/10
+## [加州下令停止人形机器人笼式格斗](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids) ⭐️ 6.5/10
 
-Simon Willison argues for the necessity of default hard budget caps on cloud services, supported by community discussion on the technical and historical challenges of implementing them in AWS and GCP.
+加州州运动委员会向一家举办了人类与人形机器人公开格斗表演的机器人初创公司发出了停止令。监管机构威胁称，如果该实体不立即停止此类活动，将对负责人提起轻罪指控并处以罚款。 此事件凸显了随着人形机器人智能化提升，监管层面的法律空白。它迫使监管机构重新界定机器人在体育竞赛中的法律地位和安全标准，以确保人类与机器人互动的安全。 停止令是一份法律文件，要求个人或实体立即停止特定行为，通常作为提起正式诉讼前的最后警告。加州州运动委员会是负责监管加州业余和职业拳击及其他体育赛事的监管机构。
 
-hackernews · elffjs · 10月4日 00:20 · [社区讨论](https://news.ycombinator.com/item?id=49949235)
+rss · Tom's Hardware · 10月4日 14:36
 
-**标签**: `#cloud-computing`, `#cost-management`, `#infrastructure`, `#aws`, `#google-cloud`
+**背景**: 人形机器人近期已从实验室环境逐步过渡到现实应用，部分初创公司开始将其作为劳动力或陪伴机器人推向市场。传统上，运动委员会基于人类生物竞技来制定赛事规则，机器人作为“运动员”缺乏既有的法律保护或标准。监管机构通过将该事件视为未经许可的体育竞技，将现有的安全规范应用于新兴的 AI 技术。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mixed_martial_arts_competition_for_children">Mixed martial arts competition for children - Wikipedia</a></li>
+<li><a href="http://bomasasawavi.pbworks.com/f/54340082470.pdf">Cease and desist letter form free</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Humanoid Robotics`, `#Regulation`, `#Tech Industry`, `#AI Safety`
 
 ---
 
 <a id="item-5"></a>
-## [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) ⭐️ 8.0/10
+## [数据库专家使用 5900 行代码在 SQL 中运行 DOOM](https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql) ⭐️ 6.5/10
 
-Community practitioners share advanced workflows and success stories using Claude Opus 5.5 for CI optimization, frontend development with visual references, and 3D modeling from blueprints.
+CedarDB 发布了 SQLDoom，这是 DOOMQL 的完整功能续作，使用 5900 行 SQL 代码实现了 1993 年原版游戏的运行。该项目拥有一个跨越 89 个不同表的图形渲染器，并在 CedarDB 数据库引擎内运行。 这项技术演示展示了现代关系型数据库在处理复杂计算负载时的极端灵活性和性能能力。它为数据库工程师提供了一个引人入胜的展示，并突出了数据存储系统在创意计算环境下的边界。 游戏循环以原版 35 FPS 运行，而渲染器在普通笔记本电脑上可以以高达 60 Hz 的速度生成完整的 320x200 帧缓冲区。一个小型 Python 客户端负责输入/输出和计时，而 CedarDB 表则跟踪游戏几何形状和状态。
 
-hackernews · saikatsg · 10月3日 18:29 · [社区讨论](https://news.ycombinator.com/item?id=49946567)
+rss · Tom's Hardware · 10月4日 14:00
 
-**标签**: `#AI`, `#Claude`, `#Opus`, `#Automation`, `#Development`
+**背景**: CedarDB 是一个面向开发者的数据库，以其高性能和现代 SQL 功能著称。前序项目 DOOMQL 是一个思维实验，它完全用 SQL 实现了一个多人 Doom 类射击游戏，为这个更完整的移植版本奠定了基础。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/cedardb/sqldoom/blob/main/README.md">sqldoom /README.md at main · cedardb/ sqldoom · GitHub</a></li>
+<li><a href="https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/">Someone got Doom in an SQL database - Ars Technica</a></li>
+<li><a href="https://github.com/cedardb/DOOMQL">GitHub - cedardb/ DOOMQL : A multiplayer DOOM -like in pure SQL</a></li>
+
+</ul>
+</details>
+
+**标签**: `#databases`, `#sql`, `#retro-gaming`, `#performance`, `#technical-demo`
 
 ---
 
 <a id="item-6"></a>
-## [OpenAI 安全负责人离职，警告 AI 公司文化“崩溃”](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) ⭐️ 8.0/10
+## [美军现场组装无人机投掷 3D 打印“Dragoon”炸弹](https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions) ⭐️ 6.5/10
 
-OpenAI 安全主管辞职，公开批评公司文化“崩溃”，引发关于 AI 安全与商业利益优先性的争议。
+美军一个部队成功实施了无承包商支持的实弹动能无人机打击，完全依靠自身组装无人机，并使用装有 C-4 炸药和破片的 3D 打印“Dragoon”炸弹。 这一战术转变使步兵部队能够独立具备低成本动能打击能力，极大地降低了对专业支援单位和外部后勤保障的依赖。 无人机具有 12 英里的射程，可配置用于反人员和反轻型装甲任务，3D 打印外壳内装有 250 克 C-4 炸药和 M6 低电压雷管。
 
-hackernews · jethronethro · 10月3日 22:18 · [社区讨论](https://news.ycombinator.com/item?id=49948332)
+rss · Tom's Hardware · 10月4日 13:40
 
-**标签**: `#AI Safety`, `#OpenAI`, `#Corporate Culture`, `#AI Ethics`, `#Industry News`
+**背景**: 现场可组装无人机是指由普通步兵人员利用易得部件进行现场组装或建造军用的无人飞行器，这一技术将保障责任从专业支援单位转移到了前线。3D 打印弹药（或称“Dragoon”炸弹）是通过增材制造生产的爆炸性武器，旨在减少将成品炸药运入战场所带来的后勤负担。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions">US Army unit deploys drone assembled completely... | Tom' s Hardware</a></li>
+<li><a href="https://www.stripes.com/branches/army/2026-10-01/2nd-cavalry-soldiers-one-way-attack-drone-live-fire-23022168.html">Army unit claims a first with attack drone built and... | Stars and Stripes</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Military Technology`, `#3D Printing`, `#Drones`, `#Hardware`, `#Defense`
 
 ---
 
 <a id="item-7"></a>
-## [AI 智能体因重读缓存提示词，token 消耗量是人类用户的五倍](https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen) ⭐️ 7.5/10
+## [Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement](https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities) ⭐️ 6.5/10
 
-Futurum CEO Daniel Newman 对 OpenRouter 数据的分析显示，AI 智能体目前的 token 消耗量已是人类用户的 5 倍，主要原因在于对缓存提示词的大量重复读取。
-数据显示，智能体的使用量在 2 月超过人类用户，到 8 月增长了 14 倍，预计整体消耗将向 10 倍的趋势发展。 这种低效性直接影响 LLM 应用的操作成本，迫使开发者和系统架构师优化提示词缓存策略，以避免 API 账单的过度膨胀。
-理解这一 token 消耗差距对于扩大 AI 智能体工作规模的组织至关重要，有助于确保可持续的成本管理和资源分配。 大量的 token 使用具体是由智能体重复读取已经处理并缓存的内容引起的，而非生成新数据。
-OpenRouter 数据显示，智能体的使用量在 2 月超过人类用户，并在 8 月经历了 14 倍的增长，突显了 LLM 使用方式的快速转变。
+An Iranian-Turkish national was extradited to the US for his role in a state-sponsored hacking campaign that exfiltrated 31 TB of data from over 300 universities and government agencies.
 
-rss · Tom's Hardware · 10月3日 13:10
+rss · Tom's Hardware · 10月4日 12:55
 
-**背景**: AI 智能体是使用大型语言模型执行任务的自主系统，通常涉及多个步骤和上下文保留。
-OpenRouter 是一个聚合访问各种 LLM 提供商的网关，是行业 token 消耗数据的重要来源。
-提示词缓存是一种优化技术，将先前处理的文本存储起来，以减少重复输入的计算成本；但如果智能体低效地重读缓存内容，会导致高昂的 token 成本。
-
-**标签**: `#AI Agents`, `#LLM Costs`, `#Token Optimization`, `#Industry Trends`
+**标签**: `#cybersecurity`, `#state-sponsored-attacks`, `#data-breach`, `#iran`, `#law-enforcement`
 
 ---
 
 <a id="item-8"></a>
-## [Valve 工程师 Timur Kristóf 提升 Linux 旧款 AMD GPU 性能](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) ⭐️ 7.0/10
+## [LeCun 对 AI 灭绝担忧不以为然，引发 AGI 与 LLM 辩论](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) ⭐️ 6.0/10
 
-Valve 工程师 Timur Kristóf 在 XDC 2026 大会上展示了他对 AMDGPU 内核驱动的改进，显著提升了十年以上旧款 AMD GPU 在 Linux 下的性能。 这项改进使老旧 AMD GPU 在 Linux 上的游戏体验和 LLM 推理能力大幅增强，推动了开源生态中硬件的可持续利用。 该工作主要针对 GCN 1.0/1.1 架构的老旧显卡进行优化，并得到了 Valve 在 Steam Deck 等便携式设备上的技术支持。
+Yann LeCun 公开表示，他对 AI 毁灭人类或发生“失控”事件毫无担忧。这一立场在 Hacker News 上引发了关于大型语言模型局限性及存在性风险叙事有效性的激烈辩论。 作为“AI 教父”之一，LeCun 对存在性风险的忽视与其他行业领袖的警示形成鲜明对比，直接影响公众对 AI 安全的认知。这场辩论凸显了区分当前 LLM 能力与真正的 AGI 的迫切性，以避免盲目自满或不必要的恐慌。 LeCun 认为，仅靠扩大 LLM 规模无法实现 AGI，他指出其缺乏基本的常识物理和世界建模能力。批评者则反驳称，“失控”行为往往只是 LLM 在执行缺乏适当安全约束的明确人类指令，因此人类问责制才是核心问题。
 
-hackernews · speckx · 10月3日 19:14 · [社区讨论](https://news.ycombinator.com/item?id=49946895)
+hackernews · Anon84 · 10月3日 17:44 · [社区讨论](https://news.ycombinator.com/item?id=49946228)
 
-**背景**: AMDGPU 是 Linux 内核中用于支持 AMD 显卡的驱动模块，Valve 长期投入资源以增强其在 Linux 下的游戏表现。GCN 架构是 AMD 早期的 GPU 架构，随着新架构的推出，旧显卡在 Linux 上的支持逐渐减少。
+**背景**: Yann LeCun 是一位先驱计算机科学家，因其对卷积神经网络的工作而闻名，该工作彻底改变了计算机视觉领域。近年来，AI 社区对当前大型语言模型（LLM）是否通往通用人工智能（AGI）产生了分歧，而“失控 AI”事件通常源于过于宽泛的系统提示或缺乏监督。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU">The Amazing Work By Valve 's Timur Kristóf On Improving Old AMD ...</a></li>
+<li><a href="https://lexfridman.com/yann-lecun-3-transcript/">Transcript for Yann Lecun : Meta AI, Open Source, Limits of LLMs, AGI ...</a></li>
+<li><a href="https://jamesbachini.com/llm-vs-agi/">LLM vs AGI | Limiting Reality of Language Models in AGI</a></li>
+<li><a href="https://www.greaterwrong.com/posts/TpExcpmeHhhfNtXoh/lightning-post-things-people-in-ai-safety-should-stop">Lightning Post: Things people in AI Safety should stop talking about</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区积极评价了这些改进，用户反馈 Ayaneo 2 等使用旧款 RDNA 2 GPU 的设备在 Linux 下的性能优于 Windows，甚至促使用户将主力 PC 也转换为 Linux 系统。
+**社区讨论**: 社区评论在支持 LeCun 认为当前 LLM 远未达到 AGI 的观点，以及认为由于人类的疏忽“失控 AI”已是实际威胁的观点之间产生了分歧。一些用户强调，真正的“失控”行为要求开发人员对部署具有危险目标的智能体承担责任，而不是对模型拟人化。
 
-**标签**: `#Linux`, `#AMD`, `#Gaming`, `#GPU-Drivers`, `#Valve`
+**标签**: `#AI Safety`, `#AGI`, `#Yann LeCun`, `#AI Ethics`, `#LLM Limitations`
 
 ---
 
 <a id="item-9"></a>
-## [Nuta FTL 推出面向云工作负载的开源操作系统](https://ftl-os.org/) ⭐️ 7.0/10
+## [Jagex 宣布新 MMO《RuneScape 4》，基于 Unreal Engine 开发](https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine) ⭐️ 5.5/10
 
-由 Seiya Nuta 开发的 Nuta FTL 是一个专为云环境设计的新开源操作系统，采用混合内核架构。它旨在比传统通用操作系统提供更高效、更安全的工作负载运行基础。 为云优化的操作系统可以通过提供更专注的硬件抽象层来显著降低运行虚拟机和容器的开销。这可能带来现代云基础设施中性能、安全性和资源效率的提升，从而广泛影响开发者和企业。 FTL 使用混合内核设计以提供最大的软件架构灵活性。作为一个新项目，它仍处于早期阶段，并面临着避免像 Linux 等通用操作系统所承担的巨大硬件兼容性负担的严峻挑战。
+Jagex 在 RuneFest 2026 活动期间正式宣布了一款名为《RuneScape 4》（RS4）的新 MMORPG。该游戏目前处于早期开发阶段，将使用 Unreal Engine 构建，并在预告片中展示了绿色山谷、浮岛和巨龙骑士的画面。 这一宣布对游戏行业意义重大，标志着 Jagex 时隔多年回归 MMO 数字续作，显示出其对该 IP 的持续投入。同时，采用 Unreal Engine 开发大型 MMO 项目也反映了现代游戏开发流水线中引擎采用的新趋势。 《RuneScape 4》起初是为生存游戏《RuneScape: Dragonwilds》计划的扩展包，但后来演变成了独立项目。游戏故事发生在 Ashenfall 地区，虽然现有作品仍会继续运营，但目前的盈利机制和进度继承方式尚未公布。
 
-hackernews · romac · 10月3日 15:02 · [社区讨论](https://news.ycombinator.com/item?id=49944912)
+rss · TechPowerUp News · 10月4日 00:51
 
-**背景**: Linux 和 Windows 等传统操作系统是通用型的，意味着它们必须支持各种各样的硬件才能发挥效用。另一方面，云环境依赖虚拟机和硬件抽象，运行通用操作系统时可能引入不必要的复杂性和安全风险。像 FTL 这样的项目探索了一种不同的模式：假设一个特定的、受管理的硬件环境（即云）的操作系统，从而针对性能和安全性进行优化。
-
-**社区讨论**: 社区讨论主要集中在项目的技术定义和范围上，用户询问了关于 FTL 是完全定制的操作系统还是运行在 KVM 等现有硬件虚拟化之上的操作系统。情绪在真正的兴趣和因为它不是像 GNU 那样成熟的既定技术而感到失望之间交织。
-
-**标签**: `#Operating Systems`, `#Cloud Computing`, `#Systems Programming`, `#Security`, `#Open Source`
-
----
-
-<a id="item-10"></a>
-## [马斯克确认与台积电洽谈 Terafab 芯片制造合作](https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai) ⭐️ 6.5/10
-
-埃隆·马斯克确认台积电正与 Terafab 项目积极洽谈芯片制造合作机会。此举为旨在独家供应特斯拉、SpaceX 和 xAI 的该制造设施引入了一家顶级晶圆代工厂的合作意向。 Terafab 与台积电的合作可能会通过减少对传统合作伙伴在关键逻辑和内存芯片上的依赖，重塑全球 AI 芯片供应链。这一进展对于满足大规模 AI 模型和自动化项目的巨大硬件需求至关重要。 英特尔目前仍是该项目的命名合作伙伴，具体负责供应其 1.4 纳米级别的 14A 工艺技术。Terafab 计划将逻辑和内存芯片的制造、封装和测试整合在同一屋檐下，以支持包括 Optimus 机器人在内的相关技术。
-
-rss · Tom's Hardware · 10月3日 14:50
-
-**背景**: Terafab 是特斯拉、SpaceX 和英特尔共同开发的计划耗资 250 亿美元的半导体制造项目，于 2026 年宣布。它被描述为全球最大的半导体制造设施，旨在为马斯克的旗下公司实现芯片生产的垂直整合。台积电目前是全球领先的晶圆代工厂，而英特尔则是美国本土芯片制造的长期替代方案。
+**背景**: RuneScape 是一个历史悠久的大型多人在线角色扮演游戏（MMORPG）系列，最近推出了设定在相同世界观下的独立生存游戏《RuneScape: Dragonwilds》。Unreal Engine 是一款应用广泛的游戏引擎，能够提供先进的图形和物理效果，如今越来越多的开发商将其用于大规模 3D 游戏。自 2013 年推出《RuneScape 3》以来，Jagex 一直未发布过新的数字编号 MMO 作品。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai">Elon Musk confirms discussions with TSMC about Terafab chipmaking...</a></li>
-<li><a href="https://terafab.ai/">Terafab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RuneScape:_Dragonwilds">RuneScape: Dragonwilds</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#TSMC`, `#Elon Musk`, `#manufacturing`, `#AI hardware`
-
----
-
-<a id="item-11"></a>
-## [NVIDIA 发布更便宜的 64GB DGX Spark，128GB 型号价格上调](https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/) ⭐️ 6.5/10
-
-NVIDIA 正式推出了 64GB 版本的 DGX Spark，售价为 4,999 美元。与此同时，由于全球内存成本上涨，原有的 128GB 型号价格已上调至 6,950 美元。 这种定价策略使更广泛的开发者和研究人员群体能够接触高性能的本地 AI 硬件。然而，128GB 型号的价格上涨反映了当前硬件通胀，影响了 AI 企业和发烧友的预算规划。 该硬件搭载了 NVIDIA GB10 Grace Blackwell 芯片，顶级配置拥有 128GB 统一内存和 FP4 精度的高性能 AI 算力。64GB 版本的发布作为产品线中的入门级替代方案，但搜索结果并未明确列出 64GB 版本的具体芯片规格。
-
-rss · ServeTheHome · 10月3日 14:12
-
-**背景**: NVIDIA DGX Spark（原名 Project DIGITS）是专为本地 AI 任务设计的个人超级计算机。它基于 NVIDIA Grace Blackwell 架构，通过 NVLink-C2C 统一了 CPU 和 GPU，并连接至 LPDDR5X 内存。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">Personal AI Supercomputer Powered by Blackwell | NVIDIA DGX Spark</a></li>
-<li><a href="https://thinksmart.life/research/posts/local-ai-hardware-benchmark-m5-dgx/">Apple M5 Max vs NVIDIA DGX Spark : The... | ThinkSmart.Life Research</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#Local AI`, `#Hardware`, `#Pricing`, `#DGX Spark`
-
----
-
-<a id="item-12"></a>
-## [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) ⭐️ 6.0/10
-
-A Hacker News discussion on the legal ruling against the Rodin Museum for publishing 3D scans of its bronzes, highlighting the conflict between open access and museum revenue models.
-
-hackernews · CosmoWenman · 10月3日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=49946355)
-
-**标签**: `#3D Scanning`, `#IP Law`, `#Cultural Heritage`, `#Web Development`, `#Digital Art`
-
----
-
-<a id="item-13"></a>
-## [因 AI 内存短缺，上市 7 年的 Nvidia Shield TV Pro 价格惊人上涨 50%](https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar) ⭐️ 5.5/10
-
-Nvidia 将其上市七年的 Shield TV Pro 价格上调了 50%，并停止了入门级型号的销售，原因是人工智能导致的内存组件价格飙升。
-
-rss · Tom's Hardware · 10月3日 16:59
-
-**标签**: `#Nvidia`, `#Consumer Electronics`, `#Supply Chain`, `#AI Infrastructure`, `#Hardware Pricing`
-
----
-
-<a id="item-14"></a>
-## [二手 CPU 可能带来反作弊硬件禁令](https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date) ⭐️ 5.5/10
-
-报告详细叙述了一起事件：用户购买了一枚二手的 Ryzen 7 5800X3D 处理器，结果由于前所有者因作弊被 Vanguard 反作弊引擎标记，新用户的《瓦罗兰特》账号也被封禁。 此情况凸显了 PC 硬件二手市场的重要漏洞，并对竞技游戏玩家的硬件级安全性提出了质疑。 Vanguard 通过对 CPU 和主板等物理组件进行快照来执行硬件 ID 禁令，使得在购前无法检查硬件的封禁记录，尽管某些禁令有期限。
-
-rss · Tom's Hardware · 10月3日 14:09
-
-**背景**: 诸如 Vanguard 的反作弊系统通过识别物理设备来防止作弊者仅仅通过更改账号逃避处罚。HWID（硬件 ID）禁令将 PC 的硬件组件永久或临时地与处罚相关联，这意味着安装这些特定组件的任何用户都可能继承该封禁状态。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date">Buying used CPUs can expose users to existing... | Tom's Hardware</a></li>
-<li><a href="https://cybernews.com/security/second-hand-cpu-unable-to-play-valorant-hardware-hwid-ban/">Valorant Hardware Ban Hits Used CPU Buyer | Cybernews</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: Riot Games 反作弊专家 Phillip Koskinas 就此事发表评论，澄清硬件禁令是针对特定游戏的，且最长有效期为四个月，而非永久有效。
-
-**标签**: `#PC-Gaming`, `#Security`, `#Anti-Cheat`, `#Hardware`
+**标签**: `#Gaming`, `#MMO`, `#Unreal Engine`, `#Jagex`, `#Software Development`
 
 ---

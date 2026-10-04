@@ -5,237 +5,182 @@ date: 2026-10-04
 lang: en
 ---
 
-> From 38 items, 14 important content pieces were selected
+> From 36 items, 9 important content pieces were selected
 
 ---
 
-1. [TSMC Explores Collaboration with Elon Musk's Terafab Project](#item-1) ⭐️ 9.5/10
-2. [Aleph Alpha Releases Kolibri: A Transparent Sovereign Open-Weight LLM](#item-2) ⭐️ 9.0/10
-3. [ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths](#item-3) ⭐️ 8.5/10
-4. [We're going to need default hard budget caps on pretty much everything](#item-4) ⭐️ 8.0/10
-5. [Getting the most out of Opus 5.5 in Claude and Claude Code](#item-5) ⭐️ 8.0/10
-6. [OpenAI safety leader quits, warning AI company's culture is 'broken'](#item-6) ⭐️ 8.0/10
-7. [AI Agents Consume 5x More Tokens Than Humans Due to Cached Prompt Rereading](#item-7) ⭐️ 7.5/10
-8. [Valve's Timur Kristóf Boosts Legacy AMD GPU Performance on Linux](#item-8) ⭐️ 7.0/10
-9. [Nuta FTL launches as an open-source OS for cloud workloads](#item-9) ⭐️ 7.0/10
-10. [Musk Confirms Terafab Chipmaking Discussions with TSMC](#item-10) ⭐️ 6.5/10
-11. [NVIDIA Launches Cheaper 64GB DGX Spark, Raises Price of 128GB Model](#item-11) ⭐️ 6.5/10
-12. [Treachery in the Rodin Museum 3D scan verdict](#item-12) ⭐️ 6.0/10
-13. [7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage](#item-13) ⭐️ 5.5/10
-14. [Second-hand CPUs Can Carry Over Anti-Cheat Hardware Bans](#item-14) ⭐️ 5.5/10
+1. [Strata Enables 125B Qwen Model on Consumer RTX 4090 at 124 Tokens/Sec](#item-1) ⭐️ 8.0/10
+2. [Valve Developer Optimizes Linux Support for Legacy AMD GPUs](#item-2) ⭐️ 8.0/10
+3. [Analysis: Why Developers Prefer Libraries Over Native Browser APIs](#item-3) ⭐️ 7.0/10
+4. [California orders stop to human-robot cage match](#item-4) ⭐️ 6.5/10
+5. [Database expert runs Doom in SQL with 5,900 lines of code](#item-5) ⭐️ 6.5/10
+6. [US Army field-assembles drone and drops 3D-printed 'Dragoon Bombs'](#item-6) ⭐️ 6.5/10
+7. [Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement](#item-7) ⭐️ 6.5/10
+8. [LeCun dismisses AI extinction fears, ignites AGI vs LLM debate](#item-8) ⭐️ 6.0/10
+9. [Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine](#item-9) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [TSMC Explores Collaboration with Elon Musk's Terafab Project](https://www.techpowerup.com/353352/tsmc-explores-collaboration-with-elon-musks-terafab-project) ⭐️ 9.5/10
+## [Strata Enables 125B Qwen Model on Consumer RTX 4090 at 124 Tokens/Sec](https://github.com/Niko1221/Strata) ⭐️ 8.0/10
 
-TSMC is considering a joint venture with Elon Musk's Terafab project to establish advanced semiconductor manufacturing capabilities in the United States. Elon Musk has confirmed on X that TSMC and Terafab are in discussions regarding financial backing and equity participation to support the new fab capacity. This potential collaboration significantly boosts US domestic chip production, reducing reliance on Asia and strengthening national security. It also intensifies competition with Intel, as TSMC's entry could force the industry to dual-source expertise and rebalance the global supply chain. The deal involves Terafab providing financial backing and purchase agreements, while TSMC may not transfer its most advanced technology to the US, keeping top nodes in Taiwan. Intel remains a partner in Terafab, creating a complex scenario where both foundries might coexist and compensate each other's technology gaps.
+A tool called Strata enables running the 125B parameter Qwen 3.8 Flash Next model on consumer RTX 4090 hardware at a throughput of 124 tokens per second. This demonstration shows that advanced inference optimizations can push state-of-the-art Mixture-of-Experts models onto standard consumer hardware without requiring multi-GPU setups. This significantly lowers the hardware barrier for running high-end large language models, allowing individual developers and hobbyists to experiment with 125B-class MoE architectures on a single consumer GPU. It validates that sophisticated quantization and caching techniques can yield near-datacenter performance on accessible hardware, shifting the cost curve for local LLM deployment. While achieving high speed, running models below 4-bit quantization carries a risk of significant quality degradation, as noted by users relying on 4-bit quants for critical tasks. The community is also asking why standard inference stacks like llama.cpp have not yet integrated this expert caching approach natively, suggesting potential friction between specialized tools and standard runtimes.
 
-rss · TechPowerUp News · Oct 3, 11:36
+hackernews · snehesht · Oct 4, 12:51 · [Discussion](https://news.ycombinator.com/item?id=49953495)
 
-**Background**: Terafab is a planned semiconductor fabrication plant jointly developed by Tesla, SpaceX, and Intel, announced by Elon Musk with the goal of creating the world's largest facility in Texas. TSMC is currently the world's largest dedicated foundry, but its advanced manufacturing has historically remained in Taiwan. The US government and private sectors are aggressively pursuing domestic semiconductor production to secure supply chains.
+**Background**: Qwen 3.8 Flash Next is a 125B parameter Mixture-of-Experts (MoE) large language model. The RTX 4090 is a high-end consumer graphics card with 24GB of VRAM, which is typically insufficient to hold a 125B model without aggressive optimization techniques. Quantization is the process of reducing the precision of model weights (e.g., from 16-bit to 4-bit) to fit models into limited memory, while expert caching is a technique used in MoE models to optimize the retrieval of active expert pathways.
 
-**Tags**: `#semiconductors`, `#TSMC`, `#manufacturing`, `#geopolitics`, `#industry-news`
+**Discussion**: Community members are split between the excitement of the high speed and skepticism regarding the trade-offs of sub-4-bit quantization. Some users are surprised by how well it works on consumer setups and are questioning why standard tools like llama.cpp haven't adopted this expert caching yet, while others compare it to existing alternatives like Dwarfstar.
+
+**Tags**: `#LLM`, `#Inference Optimization`, `#Quantization`, `#Consumer Hardware`, `#Qwen`
 
 ---
 
 <a id="item-2"></a>
-## [Aleph Alpha Releases Kolibri: A Transparent Sovereign Open-Weight LLM](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ⭐️ 9.0/10
+## [Valve Developer Optimizes Linux Support for Legacy AMD GPUs](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) ⭐️ 8.0/10
 
-Aleph Alpha has released Kolibri, a 78B-parameter sovereign open-weight LLM with 3.46B active parameters and up to 1M context tokens. The release includes an unusually transparent technical report detailing training methodologies and dataset creation. Kolibri provides a rare European sovereign alternative to US and Chinese LLMs, enabling organizations to run powerful AI on controlled infrastructure. Its detailed transparency in training data and methods sets a new standard for open-weight models. The model supports agentic tasks and coding, and uses a 'Merlin-Arthur' protocol to train abstention data, allowing it to say 'I don't know' when information is missing. The team is currently merging with Cohere, a Canadian company, to share resource costs.
+Valve developer Timur Kristóf has presented work focused on enhancing the Linux kernel's support for older AMD GPU generations, significantly improving their gaming performance and usability. This initiative extends the functional lifespan of legacy hardware, making devices like the Steam Deck and older desktop GPUs more capable on Linux systems and fostering a broader open-source gaming ecosystem. The improvements target specific legacy RDNA and pre-RDNA architectures, with practical benefits observed on handheld devices featuring mobile versions of these GPUs, as highlighted in XDC 2026 presentations.
 
-hackernews · bastitx · Oct 3, 09:36 · [Discussion](https://news.ycombinator.com/item?id=49942706)
+hackernews · speckx · Oct 3, 19:14 · [Discussion](https://news.ycombinator.com/item?id=49946895)
 
-**Background**: A sovereign AI model is one that organizations can deploy entirely on infrastructure they control, typically to meet national security or data privacy regulations. 'Open-weight' means the model parameters are public, but unlike full 'open-source' software, the training data and code are often not disclosed. Agentic AI refers to systems that can autonomously perceive, reason, and execute complex multi-step tasks.
+**Background**: AMD graphics cards rely on the open-source amdgpu driver within the Linux kernel to function. While recent chips like the Steam Deck's APU receive continuous priority updates, older generations often lack the specific kernel-level optimizations required for maximum performance. Valve, as a major Linux gaming advocate, routinely works upstream to refine these drivers.
 
-**Discussion**: Community members praised the unprecedented openness of the technical report, comparing it to a tutorial on building modern agentic LLMs. One user offered a free web-based demo to facilitate benchmarking, while a team member emphasized the release was from a team formed less than a year ago, highlighting the company's rapid iteration speed.
+**Discussion**: The community is enthusiastic about the practical benefits, with users reporting that older handhelds and desktop GPUs now perform faster and smoother on Linux than on Windows, leading some to consider switching their entire primary setups to Linux.
 
-**Tags**: `#Open-Source-AI`, `#LLMs`, `#Sovereign-AI`, `#Model-Release`, `#Agentic-AI`
+**Tags**: `#Linux`, `#AMD`, `#GPU`, `#Valve`, `#Systems`
 
 ---
 
 <a id="item-3"></a>
-## [ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths](https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data) ⭐️ 8.5/10
+## [Analysis: Why Developers Prefer Libraries Over Native Browser APIs](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) ⭐️ 7.0/10
 
-OpenAI's ChatGPT-6 Astra successfully cleared World of Warcraft's orc starting zone in 40 minutes without deaths by acting as a blind agent navigating via server network traffic.
+An analysis explains why developers often prefer rolling their own solutions or using frameworks like React over native browser platform features. The argument highlights that native implementations of certain features are either cumbersome or poorly designed, leading to a gap between the ideal and the actual developer experience. This discussion is significant for the frontend ecosystem because it validates a long-standing debate about the sufficiency of web standards. Understanding these practical limitations helps explain the widespread adoption of abstractions like Web Components wrappers and state management libraries. The analysis notes that platforms' APIs can be difficult to use reliably, forcing developers to rely on frameworks that provide better composability and abstraction. Specific examples include the usability issues with the HTML <datalist> element and the steep learning curve associated with raw Web Components.
 
-rss · Tom's Hardware · Oct 3, 10:00
+hackernews · vinhnx · Oct 4, 04:10 · [Discussion](https://news.ycombinator.com/item?id=49950554)
 
-**Tags**: `#AI Agents`, `#OpenAI`, `#World of Warcraft`, `#Agentic AI`, `#Gaming AI`
+**Background**: In web development, 'platform' or 'native' features refer to capabilities provided directly by the browser engine, such as Web Components or standard HTML forms. Frameworks like React or libraries like Lit are written in JavaScript and act as abstractions to manage complex state and user interfaces. Developers often choose these tools because they offer a more consistent and composable API across different browsers, bridging the gap that exists between raw web standards and practical application development.
+
+**Discussion**: Commenters largely agree that native browser implementations are often impractical, specifically citing the poor usability of the <datalist> element and the fact that Web Components are rarely used without a wrapper library like Lit. The sentiment highlights that for many developers, building on top of familiar frameworks is not just 'more fun' but a necessity for reliability and composability in complex applications.
+
+**Tags**: `#web-development`, `#frontend`, `#browser-apis`, `#frameworks`, `#web-components`
 
 ---
 
 <a id="item-4"></a>
-## [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) ⭐️ 8.0/10
+## [California orders stop to human-robot cage match](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids) ⭐️ 6.5/10
 
-Simon Willison argues for the necessity of default hard budget caps on cloud services, supported by community discussion on the technical and historical challenges of implementing them in AWS and GCP.
+The California State Athletic Commission issued a cease-and-desist order to a robotics startup for staging a public fight between a human and a humanoid robot. The regulator has threatened misdemeanor charges, including a fine, if the entity does not stop holding such events. This incident highlights a growing regulatory gap as humanoid robots become sophisticated enough to participate in physical competitions. It forces regulators to define the legal status and safety standards for robots acting as human participants in athletic events. A cease-and-desist order is a legal document requiring an individual or entity to immediately stop a specified action, acting as a final warning before formal legal action is filed. The California State Athletic Commission is the regulatory body responsible for overseeing amateur and professional boxing and other athletic competitions in the state.
 
-hackernews · elffjs · Oct 4, 00:20 · [Discussion](https://news.ycombinator.com/item?id=49949235)
+rss · Tom's Hardware · Oct 4, 14:36
 
-**Tags**: `#cloud-computing`, `#cost-management`, `#infrastructure`, `#aws`, `#google-cloud`
+**Background**: Humanoid robots have recently advanced from laboratory environments to real-world applications, with startups beginning to market them as laborers and companions. Traditionally, athletic commissions regulate events based on human biological competition, making robots a new class of 'athlete' without established legal protections or rules. By treating the robot as a participant in an unlicensed athletic event, the regulators are applying existing safety codes to emerging AI technology.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mixed_martial_arts_competition_for_children">Mixed martial arts competition for children - Wikipedia</a></li>
+<li><a href="http://bomasasawavi.pbworks.com/f/54340082470.pdf">Cease and desist letter form free</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Humanoid Robotics`, `#Regulation`, `#Tech Industry`, `#AI Safety`
 
 ---
 
 <a id="item-5"></a>
-## [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) ⭐️ 8.0/10
+## [Database expert runs Doom in SQL with 5,900 lines of code](https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql) ⭐️ 6.5/10
 
-Community practitioners share advanced workflows and success stories using Claude Opus 5.5 for CI optimization, frontend development with visual references, and 3D modeling from blueprints.
+CedarDB has released SQLDoom, a full-featured sequel to DOOMQL that runs the original 1993 game using a 5,900-line SQL implementation. The project features a graphical renderer that spans 89 different tables and operates within the CedarDB database engine. This technical demonstration illustrates the extreme flexibility and performance capabilities of modern relational databases when handling complex computational loads. It serves as an engaging showcase for database engineers and highlights the boundaries of data storage systems in creative computing contexts. The game loop runs at the original 35 FPS, while the renderer produces the complete 320x200 frame buffer at up to 60 Hz on a standard laptop. A small Python client handles input/output and timing, while CedarDB tables track the game geometry and state.
 
-hackernews · saikatsg · Oct 3, 18:29 · [Discussion](https://news.ycombinator.com/item?id=49946567)
+rss · Tom's Hardware · Oct 4, 14:00
 
-**Tags**: `#AI`, `#Claude`, `#Opus`, `#Automation`, `#Development`
+**Background**: CedarDB is a developer-focused database known for its high performance and modern SQL capabilities. The precursor project, DOOMQL, was a thought experiment that implemented a multiplayer Doom-like shooter entirely in SQL, serving as the foundation for this more complete port.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/cedardb/sqldoom/blob/main/README.md">sqldoom /README.md at main · cedardb/ sqldoom · GitHub</a></li>
+<li><a href="https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/">Someone got Doom in an SQL database - Ars Technica</a></li>
+<li><a href="https://github.com/cedardb/DOOMQL">GitHub - cedardb/ DOOMQL : A multiplayer DOOM -like in pure SQL</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#databases`, `#sql`, `#retro-gaming`, `#performance`, `#technical-demo`
 
 ---
 
 <a id="item-6"></a>
-## [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) ⭐️ 8.0/10
+## [US Army field-assembles drone and drops 3D-printed 'Dragoon Bombs'](https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions) ⭐️ 6.5/10
 
-An OpenAI safety executive resigns, publicly criticizing the company's culture as 'broken,' sparking debate on the priorities of AI safety versus commercial interests.
+A U.S. Army unit successfully executed a live kinetic drone strike without any contractor support, assembling the drone entirely in-house and using 3D-printed 'Dragoon Bombs' loaded with C-4 and shrapnel. This tactical shift enables infantry units to generate independent, low-cost kinetic strike capabilities, radically reducing reliance on specialized support elements and external logistics chains. The drones possess a range of up to 12 miles and are configured for anti-personnel and anti-light armor missions, with the 3D-printed casing containing 250 grams of C-4 and M6 blasting caps.
 
-hackernews · jethronethro · Oct 3, 22:18 · [Discussion](https://news.ycombinator.com/item?id=49948332)
+rss · Tom's Hardware · Oct 4, 13:40
 
-**Tags**: `#AI Safety`, `#OpenAI`, `#Corporate Culture`, `#AI Ethics`, `#Industry News`
+**Background**: Field-assemblable drones are military UAVs designed to be built or assembled by standard infantry personnel using readily available parts, shifting the burden from specialized support units to the front lines. 3D-printed munitions, or 'Dragoon Bombs,' are explosive ordnance manufactured via additive manufacturing to reduce the logistical footprint of transporting pre-finished explosives into a battlefield.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions">US Army unit deploys drone assembled completely... | Tom' s Hardware</a></li>
+<li><a href="https://www.stripes.com/branches/army/2026-10-01/2nd-cavalry-soldiers-one-way-attack-drone-live-fire-23022168.html">Army unit claims a first with attack drone built and... | Stars and Stripes</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Military Technology`, `#3D Printing`, `#Drones`, `#Hardware`, `#Defense`
 
 ---
 
 <a id="item-7"></a>
-## [AI Agents Consume 5x More Tokens Than Humans Due to Cached Prompt Rereading](https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen) ⭐️ 7.5/10
+## [Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement](https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities) ⭐️ 6.5/10
 
-Analysis of OpenRouter data by Futurum CEO Daniel Newman reveals that AI agents now consume 5 times more tokens than humans, primarily due to excessive re-reading of cached prompts.
-The data shows agent usage passed human usage in February and grew 14x by August, with a projected trajectory toward 10x total consumption. This inefficiency directly impacts the operational costs of LLM-based applications, forcing developers and system architects to optimize prompt caching strategies to prevent excessive API bill shock.
-Understanding this token consumption gap is crucial for organizations scaling AI agent workloads to ensure sustainable cost management and resource allocation. The high token usage is specifically driven by agents repeatedly rereading content that has already been processed and cached, rather than generating new data.
-OpenRouter data indicates that agent usage overtook human usage in February and experienced a 14x growth by August, highlighting a rapid shift in how LLMs are utilized.
+An Iranian-Turkish national was extradited to the US for his role in a state-sponsored hacking campaign that exfiltrated 31 TB of data from over 300 universities and government agencies.
 
-rss · Tom's Hardware · Oct 3, 13:10
+rss · Tom's Hardware · Oct 4, 12:55
 
-**Background**: AI agents are autonomous systems that use Large Language Models to perform tasks, often involving multiple steps and context retention.
-OpenRouter is a gateway that aggregates access to various LLM providers, making it a key source of industry data on token consumption.
-Prompt caching is an optimization technique where previously processed text is stored to reduce the computational cost of repeated inputs, but if agents reread cached content inefficiently, it leads to high token costs.
-
-**Tags**: `#AI Agents`, `#LLM Costs`, `#Token Optimization`, `#Industry Trends`
+**Tags**: `#cybersecurity`, `#state-sponsored-attacks`, `#data-breach`, `#iran`, `#law-enforcement`
 
 ---
 
 <a id="item-8"></a>
-## [Valve's Timur Kristóf Boosts Legacy AMD GPU Performance on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) ⭐️ 7.0/10
+## [LeCun dismisses AI extinction fears, ignites AGI vs LLM debate](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) ⭐️ 6.0/10
 
-Valve工程师Timur Kristóf在XDC 2026大会上展示了其对AMDGPU内核驱动的改进，显著提升了十年以上旧款AMD GPU在Linux下的性能。 这项改进使老旧AMD GPU在Linux上的游戏体验和LLM推理能力大幅增强，推动了开源生态中硬件的可持续利用。 该工作主要针对GCN 1.0/1.1架构的老旧显卡进行优化，并得到了Valve在Steam Deck等便携式设备上的技术支持。
+Yann LeCun has publicly stated that he has zero concerns about AI wiping out humanity or causing 'rogue' incidents. This stance sparked a heated debate on Hacker News regarding the limitations of Large Language Models and the validity of existential risk narratives. As one of the 'godfathers of AI,' LeCun's dismissal of existential risks contrasts sharply with the alarmism of other industry leaders, directly influencing public perception of AI safety. This debate highlights the critical need to distinguish between current LLM capabilities and true AGI to avoid both complacency and unnecessary panic. LeCun argues that scaling up LLMs alone will not achieve AGI, pointing out their lack of basic common-sense physics and world-modeling. Critics counter that 'rogue' behavior is often just LLMs executing explicit human instructions without proper safety constraints, making human accountability the primary issue.
 
-hackernews · speckx · Oct 3, 19:14 · [Discussion](https://news.ycombinator.com/item?id=49946895)
+hackernews · Anon84 · Oct 3, 17:44 · [Discussion](https://news.ycombinator.com/item?id=49946228)
 
-**Background**: AMDGPU是Linux内核中用于支持AMD显卡的驱动模块，Valve长期投入资源以增强其在Linux下的游戏表现。GCN架构是AMD早期的GPU架构，随着新架构的推出，旧显卡在Linux上的支持逐渐减少。
+**Background**: Yann LeCun is a pioneering computer scientist known for his work on convolutional neural networks, which revolutionized computer vision. In recent years, the AI community has become divided over whether current Large Language Models (LLMs) are on the path to Artificial General Intelligence (AGI), with 'rogue AI' incidents often stemming from over-permissive system prompts or lack of oversight.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU">The Amazing Work By Valve 's Timur Kristóf On Improving Old AMD ...</a></li>
+<li><a href="https://lexfridman.com/yann-lecun-3-transcript/">Transcript for Yann Lecun : Meta AI, Open Source, Limits of LLMs, AGI ...</a></li>
+<li><a href="https://jamesbachini.com/llm-vs-agi/">LLM vs AGI | Limiting Reality of Language Models in AGI</a></li>
+<li><a href="https://www.greaterwrong.com/posts/TpExcpmeHhhfNtXoh/lightning-post-things-people-in-ai-safety-should-stop">Lightning Post: Things people in AI Safety should stop talking about</a></li>
 
 </ul>
 </details>
 
-**Discussion**: 社区积极评价了这些改进，用户反馈Ayaneo 2等使用旧款RDNA 2 GPU的设备在Linux下的性能优于Windows，甚至促使用户将主力PC也转换为Linux系统。
+**Discussion**: Community comments split between those backing LeCun's view that current LLMs are far from AGI and those arguing that 'rogue' AI is already a practical threat due to human negligence. Some users emphasized that true 'rogue' behavior requires holding developers accountable for deploying agents with dangerous goals, rather than anthropomorphizing the models.
 
-**Tags**: `#Linux`, `#AMD`, `#Gaming`, `#GPU-Drivers`, `#Valve`
+**Tags**: `#AI Safety`, `#AGI`, `#Yann LeCun`, `#AI Ethics`, `#LLM Limitations`
 
 ---
 
 <a id="item-9"></a>
-## [Nuta FTL launches as an open-source OS for cloud workloads](https://ftl-os.org/) ⭐️ 7.0/10
+## [Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine](https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine) ⭐️ 5.5/10
 
-Nuta FTL, developed by Seiya Nuta, is a new open-source operating system with a hybrid kernel architecture specifically designed for cloud environments. It aims to be a more efficient and secure base for running workloads than traditional general-purpose OSes. A cloud-optimized OS can significantly reduce the overhead of running virtual machines and containers by providing a more focused hardware abstraction layer. This could lead to improved performance, security, and resource efficiency in modern cloud infrastructure, impacting a wide range of developers and enterprises. FTL uses a hybrid kernel design to allow for maximum software architecture flexibility. As a new project, it is still in its early stages and faces the significant challenge of avoiding the massive hardware compatibility burden that general-purpose OSes like Linux carry.
+Jagex has officially announced a new MMORPG, temporarily titled RuneScape 4 (RS4), during the RuneFest 2026 event. The game is currently in early development and will be built using Unreal Engine, with a CGI teaser showcasing a green valley, floating islands, and a dragon rider. This announcement is significant for the gaming industry as it marks a major return to numbered MMO sequels, signaling Jagex's continued investment in the RuneScape franchise. The shift to Unreal Engine for a full-scale MMO project also reflects modern trends in engine adoption among studio development pipelines. RuneScape 4 originated as a planned expansion for the survival game RuneScape: Dragonwilds but evolved into its own standalone project. The story is set in the Ashenfall region, and while existing titles will remain active, the monetization model and carry-over mechanics are currently unknown.
 
-hackernews · romac · Oct 3, 15:02 · [Discussion](https://news.ycombinator.com/item?id=49944912)
+rss · TechPowerUp News · Oct 4, 00:51
 
-**Background**: Traditional operating systems like Linux and Windows are general-purpose, meaning they must support a wide variety of hardware to be useful. Cloud environments, on the other hand, rely on virtual machines and hardware abstractions, which can introduce unnecessary complexity and security risks when running a general OS. Projects like FTL explore a different model: an OS that assumes a specific, managed hardware environment (the cloud) to optimize for performance and security.
-
-**Discussion**: The community discussion primarily focuses on the technical definitions and scope of the project, with users asking clarifying questions about whether FTL is a fully custom OS or one that runs on top of existing hardware virtualization like KVM. Sentiment is mixed between genuine curiosity and disappointment that it is not an established technology like GNU.
-
-**Tags**: `#Operating Systems`, `#Cloud Computing`, `#Systems Programming`, `#Security`, `#Open Source`
-
----
-
-<a id="item-10"></a>
-## [Musk Confirms Terafab Chipmaking Discussions with TSMC](https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai) ⭐️ 6.5/10
-
-Elon Musk confirmed that TSMC is in active discussions with the Terafab project to explore chipmaking collaboration opportunities. This move adds a major foundry to the talks for the facility that aims to exclusively supply Tesla, SpaceX, and xAI. A collaboration between Terafab and TSMC would significantly reshape the global AI chip supply chain by potentially reducing dependence on traditional partners for critical logic and memory chips. This development is crucial for satisfying the massive hardware demands of large-scale AI models and future automation projects. Intel remains a named partner in the project, specifically supplying its 1.4nm-class 14A process technology. Terafab is planned to bring the manufacturing, packaging, and testing of logic and memory chips under one roof, supporting technologies like the Optimus robot.
-
-rss · Tom's Hardware · Oct 3, 14:50
-
-**Background**: Terafab is a planned $25 billion semiconductor fabrication project jointly developed by Tesla, SpaceX, and Intel, announced in 2026. It is described as the world's largest semiconductor manufacturing facility, designed to vertically integrate chip production for Musk's companies. TSMC is currently the world's leading foundry, while Intel has been a long-time domestic alternative in US chip manufacturing.
+**Background**: RuneScape is a long-running MMORPG franchise that recently introduced RuneScape: Dragonwilds, a standalone survival game set in the same universe. Unreal Engine is a widely used game engine that provides advanced graphics and physics capabilities, which developers increasingly use for large-scale 3D games. Jagex had not released a new numbered MMO entry since RuneScape 3 in 2013.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai">Elon Musk confirms discussions with TSMC about Terafab chipmaking...</a></li>
-<li><a href="https://terafab.ai/">Terafab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RuneScape:_Dragonwilds">RuneScape: Dragonwilds</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#TSMC`, `#Elon Musk`, `#manufacturing`, `#AI hardware`
-
----
-
-<a id="item-11"></a>
-## [NVIDIA Launches Cheaper 64GB DGX Spark, Raises Price of 128GB Model](https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/) ⭐️ 6.5/10
-
-NVIDIA has officially launched the 64GB variant of the DGX Spark at a price of $4,999. Simultaneously, the price of the original 128GB model has increased to $6,950 due to rising global memory costs. This pricing structure broadens access to high-performance local AI hardware for a wider audience of developers and researchers. However, the price hike for the 128GB model reflects current hardware inflation, impacting the budget planning of AI enterprises and enthusiasts. The hardware features the NVIDIA GB10 Grace Blackwell chip, offering 128GB of unified memory and high AI compute power with FP4 precision in the top tier. The launch of the 64GB version serves as an entry-level alternative in the product line, though the search results do not explicitly detail the 64GB chip specifications.
-
-rss · ServeTheHome · Oct 3, 14:12
-
-**Background**: The NVIDIA DGX Spark, formerly known as Project DIGITS, is a personal supercomputer designed for local AI workloads. It is built on the NVIDIA Grace Blackwell architecture, which unifies the CPU and GPU through NVLink-C2C and connects to LPDDR5X memory.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">Personal AI Supercomputer Powered by Blackwell | NVIDIA DGX Spark</a></li>
-<li><a href="https://thinksmart.life/research/posts/local-ai-hardware-benchmark-m5-dgx/">Apple M5 Max vs NVIDIA DGX Spark : The... | ThinkSmart.Life Research</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#Local AI`, `#Hardware`, `#Pricing`, `#DGX Spark`
-
----
-
-<a id="item-12"></a>
-## [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) ⭐️ 6.0/10
-
-A Hacker News discussion on the legal ruling against the Rodin Museum for publishing 3D scans of its bronzes, highlighting the conflict between open access and museum revenue models.
-
-hackernews · CosmoWenman · Oct 3, 18:01 · [Discussion](https://news.ycombinator.com/item?id=49946355)
-
-**Tags**: `#3D Scanning`, `#IP Law`, `#Cultural Heritage`, `#Web Development`, `#Digital Art`
-
----
-
-<a id="item-13"></a>
-## [7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage](https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar) ⭐️ 5.5/10
-
-Nvidia has increased the price of its 7-year-old Shield TV Pro by 50% and discontinued its entry-level model, citing component price spikes caused by an AI-driven memory shortage.
-
-rss · Tom's Hardware · Oct 3, 16:59
-
-**Tags**: `#Nvidia`, `#Consumer Electronics`, `#Supply Chain`, `#AI Infrastructure`, `#Hardware Pricing`
-
----
-
-<a id="item-14"></a>
-## [Second-hand CPUs Can Carry Over Anti-Cheat Hardware Bans](https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date) ⭐️ 5.5/10
-
-A report details an incident where buying a used Ryzen 7 5800X3D resulted in the new owner's Valorant account being banned by the Vanguard anti-cheat engine, which had flagged the CPU's previous owner for cheating. This situation highlights a significant vulnerability in the PC hardware second-hand market and raises questions about hardware-level security for competitive gamers. Vanguard enforces hardware ID bans by taking a snapshot of physical components like the CPU and motherboard, making it impossible to check a part's ban history before purchase, though some bans have a limited duration.
-
-rss · Tom's Hardware · Oct 3, 14:09
-
-**Background**: Anti-cheat systems like Vanguard identify physical devices to prevent cheaters from simply changing their account. An HWID (Hardware ID) ban permanently or temporarily links the hardware components of a PC to the punishment, meaning any user installing those specific components might inherit the ban status.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date">Buying used CPUs can expose users to existing... | Tom's Hardware</a></li>
-<li><a href="https://cybernews.com/security/second-hand-cpu-unable-to-play-valorant-hardware-hwid-ban/">Valorant Hardware Ban Hits Used CPU Buyer | Cybernews</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Riot Games anti-cheat specialist Phillip Koskinas commented on the incident, clarifying that hardware bans are game-specific and have a maximum expiration period of four months, rather than being permanent.
-
-**Tags**: `#PC-Gaming`, `#Security`, `#Anti-Cheat`, `#Hardware`
+**Tags**: `#Gaming`, `#MMO`, `#Unreal Engine`, `#Jagex`, `#Software Development`
 
 ---
