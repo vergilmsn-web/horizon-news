@@ -5,354 +5,336 @@ date: 2026-10-08
 lang: zh
 ---
 
-> 从 91 条内容中筛选出 20 条重要资讯。
+> 从 114 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [GPT‑6 and Intelligent UI for everyone](#item-1) ⭐️ 10.0/10
-2. [2026 年诺贝尔化学奖授予了日法科学家](#item-2) ⭐️ 9.3/10
-3. [SK 海力士 HBM 混合键合技术遇阻，落后于三星](#item-3) ⭐️ 8.5/10
-4. [英特尔 CEO 确认向马斯克 Terafab 项目授权 14A 制程](#item-4) ⭐️ 8.5/10
-5. [Anthropic 发布 Claude Haiku 5.5，推出新定价与 API 积分](#item-5) ⭐️ 8.0/10
-6. [NASA 阿波罗软件先驱、软件工程奠基人玛格丽特·汉密尔顿去世](#item-6) ⭐️ 8.0/10
-7. [纳维-斯托克斯方程在翻译中的迷失](#item-7) ⭐️ 8.0/10
-8. [Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026](#item-8) ⭐️ 8.0/10
-9. [三星晶圆代工将为 Anthropic 生产基于 2nm 制程的定制 AI 芯片](#item-9) ⭐️ 7.5/10
-10. [Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark](#item-10) ⭐️ 7.5/10
-11. [Linux 新内存压缩技术 Cram 实现 452 倍加速](#item-11) ⭐️ 7.5/10
-12. [高通授权华为的“逻辑折叠”3D 芯片架构专利](#item-12) ⭐️ 7.5/10
-13. [佛州及另外三个州就安全虚假陈述起诉 TP-Link](#item-13) ⭐️ 7.5/10
-14. [Chrome 155 版本正式支持 JPEG XL 图像格式](#item-14) ⭐️ 7.0/10
-15. [From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs](#item-15) ⭐️ 7.0/10
-16. [从云端到硅片：IC-Link 与台积电打通合作之门](#item-16) ⭐️ 7.0/10
-17. [软件定义电动车型推动新的半导体封装需求](#item-17) ⭐️ 7.0/10
-18. [微软利用 WinUI 3 和集成式 Copilot 重新构建 Windows 11 搜索功能](#item-18) ⭐️ 6.5/10
-19. [华硕宣布其 ProArt RTX Spark Windows 电脑上市](#item-19) ⭐️ 6.5/10
-20. [希捷与东芝竞购 TDK 硬盘磁头业务](#item-20) ⭐️ 6.5/10
+1. [OpenAI withdraws three mathematical results](#item-1) ⭐️ 9.0/10
+2. [Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit](#item-2) ⭐️ 9.0/10
+3. [Intel and Applied hook up on process](#item-3) ⭐️ 9.0/10
+4. [Former Groq engineers sue board over $20 billion Nvidia deal](#item-4) ⭐️ 8.5/10
+5. [Whistle：一款仅 16.9MB 的语音转文本模型](#item-5) ⭐️ 8.0/10
+6. [陶哲轩指出 AI 数学进展必须重视整体理解而非孤立证明](#item-6) ⭐️ 8.0/10
+7. [AI 能源趋势迫使重新思考芯片供电](#item-7) ⭐️ 8.0/10
+8. [高通诉 Arm 案庭审第三天聚焦 v10 技术杠杆](#item-8) ⭐️ 8.0/10
+9. [研究人员：软件调度是缓解 AI 电力压力的最简单方法](#item-9) ⭐️ 7.5/10
+10. [Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers](#item-10) ⭐️ 7.5/10
+11. [AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply](#item-11) ⭐️ 7.5/10
+12. [美国男子因操控 1 万个机器人账号为其 AI 生成歌曲刷播放量而被判入狱](#item-12) ⭐️ 7.5/10
+13. [据报道，SpaceX 正寻求 400 亿美元债务融资以采购英伟达 AI 硬件](#item-13) ⭐️ 7.5/10
+14. [4 小时电网级电池存储全球成本低于燃气轮机](#item-14) ⭐️ 7.0/10
+15. [OpenAI 据报夸大年化营收 200 亿美元](#item-15) ⭐️ 7.0/10
+16. [车企转向模块化 ADAS AI 以应对成本上升](#item-16) ⭐️ 7.0/10
+17. [Wolfspeed 获美国战争部 15 亿美元战略贷款](#item-17) ⭐️ 7.0/10
+18. [Infineon and ZuriQ to scale qubits](#item-18) ⭐️ 7.0/10
+19. [AMD GPUs Get Price Hike in China with International Increases To Follow](#item-19) ⭐️ 6.5/10
+20. [AMD 确认 FSR 4 将于 2026 年底登陆 APU](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) ⭐️ 10.0/10
+## [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090) ⭐️ 9.0/10
 
-OpenAI releases GPT-6 and introduces an intelligent UI, sparking significant discussion on model performance regressions, safety metrics, and the future of human-computer interaction.
+OpenAI has withdrawn three recently announced mathematical proofs, sparking a heated debate in the scientific community about the reliability and verification challenges of AI-generated mathematics.
 
-hackernews · joshuawright11 · 10月7日 18:00 · [社区讨论](https://news.ycombinator.com/item?id=49996425)
+hackernews · sashank_1509 · 10月8日 07:05 · [社区讨论](https://news.ycombinator.com/item?id=50002650)
 
-**标签**: `#GPT-6`, `#LLM`, `#OpenAI`, `#AI Safety`, `#User Interface`
+**标签**: `#AI-Mathematics`, `#Theorem-Proving`, `#OpenAI`, `#Trust-in-AI`, `#Computer-Science`
 
 ---
 
 <a id="item-2"></a>
-## [2026 年诺贝尔化学奖授予了日法科学家](https://www.solidot.org/story?sid=85543) ⭐️ 9.3/10
+## [Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit](https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/) ⭐️ 9.0/10
 
-The 2026 Nobel Prize in Chemistry was awarded to French scientist Henri Kagan and Japanese scientist Kenji Nakanishi for their discovery of non-linear effects and autocatalytic phenomena in asymmetric organic synthesis.
+Google launched its Project Suncatcher prototype, a datacenter satellite carrying Trillium TPUs, into orbit via a SpaceX ride-share mission.
 
-rss · Solidot · 10月7日 11:22
+rss · Electronics Weekly · 10月8日 11:24
 
-**标签**: `#Nobel Prize`, `#Chemistry`, `#Asymmetric Synthesis`, `#Chirality`, `#Pharmacology`
+**标签**: `#Space Technology`, `#AI Hardware`, `#Data Centers`, `#Satellites`, `#Google`
 
 ---
 
 <a id="item-3"></a>
-## [SK 海力士 HBM 混合键合技术遇阻，落后于三星](https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung) ⭐️ 8.5/10
+## [Intel and Applied hook up on process](https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/) ⭐️ 9.0/10
 
-据报道，SK 海力士在开发 HBM 混合键合技术时遇到技术难题，导致样品生产延迟，而三星已向客户分发了混合键合 HBM 样品。 这一延迟对 SK 海力士在高速内存（HBM）市场的领先地位构成重大风险，而 HBM 是驱动 AI 硬件和先进计算系统的关键组件。 SK 海力士未来技术研究所的工艺开发工程师确认了生产延迟，指出公司尚未开始生产样品。值得注意的是，近期行业报告表明，HBM4 标准在某些堆叠中可能仍采用传统的微凸块技术，从而推迟了向混合键合的全面过渡。
+Intel and Applied Materials are launching a multi-site collaboration focused on developing next-generation process technologies across front-end, back-end, transistors, packaging, and interconnect.
 
-rss · TechPowerUp News · 10月7日 12:31
+rss · Electronics Weekly · 10月8日 05:14
 
-**背景**: 高速内存（HBM）是一种用于 AI 加速器的关键内存技术，用于处理大规模数据任务。随着芯片复杂度增加，传统微凸块在连接密度上正面临物理极限，促使行业转向混合键合技术，该技术通过直接键合芯片间的铜互连来降低延迟并提高性能。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://semiengineering.com/bumps-vs-hybrid-bonding-for-advanced-packaging/">Bumps Vs. Hybrid Bonding For Advanced Packaging</a></li>
-<li><a href="https://semiengineering.com/hbm4-sticks-with-microbumps-postponing-hybrid-bonding/">HBM4 Sticks With Microbumps, Postponing Hybrid Bonding</a></li>
-
-</ul>
-</details>
-
-**标签**: `#HBM`, `#SK hynix`, `#Samsung`, `#Semiconductors`, `#AI Hardware`
+**标签**: `#Semiconductors`, `#Intel`, `#Applied Materials`, `#Process Technology`, `#Manufacturing`
 
 ---
 
 <a id="item-4"></a>
-## [英特尔 CEO 确认向马斯克 Terafab 项目授权 14A 制程](https://www.techpowerup.com/353453/intel-to-continue-working-on-terafab-confirms-ceo-lip-bu-tan) ⭐️ 8.5/10
+## [Former Groq engineers sue board over $20 billion Nvidia deal](https://www.tomshardware.com/tech-industry/semiconductors/former-groq-engineers-sue-board-over-usd20-billion-nvidia-deal-saying-it-handed-nvidia-the-lpu-and-the-team-that-built-it-plaintiffs-allege-the-board-kept-billions-from-other-shareholders) ⭐️ 8.5/10
 
-英特尔 CEO 陈立武确认，尽管 Terafab 已与台积电展开合作讨论，英特尔将继续与马斯克的 Terafab 项目合作并授权 14A 制程。 此声明确立了英特尔在 Terafab 项目中的核心地位，验证了其先进芯片 IP 是美国 AI 基础设施的基础。这表明台积电的角色是产能出租方和知识合作伙伴，而非制程 IP 提供方，维持了领先代工厂之间的竞争格局。 英特尔 IP 将作为 Terafab 的基础，台积电不会运营专用产能，但可能转租空间并贡献晶圆厂建设知识。马斯克确认所有制造设施将由 Terafab 团队自行建设和运营。
+Former Groq engineers are suing the company's board in Delaware, alleging that the $20 billion Nvidia licensing deal improperly transferred Groq's LPU technology and team to the chip giant while shortchanging shareholders.
 
-rss · TechPowerUp News · 10月7日 07:30
+rss · Tom's Hardware · 10月8日 11:00
 
-**背景**: Terafab 是由特斯拉、SpaceX 和 xAI 共同开发的得克萨斯州 168 亿美元芯片制造设施，旨在每年生产超过 1 太瓦的 AI 算力。英特尔 14A 制程是其下一代先进工艺，旨在将公司的内部制造能力过渡到尖端技术。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Terafab">Terafab - Wikipedia</a></li>
-<li><a href="https://www.usatoday.com/story/news/state/texas/2026/08/07/elon-musk-spacex-tesla-terafab-texas-16-billion-chip-factory-investment/91212702007/">Elon Musk's SpaceX, Tesla Terafab chip factory coming to Texas</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Intel`, `#Terafab`, `#Semiconductors`, `#14A Node`, `#TSMC`
+**标签**: `#AI-Hardware`, `#Legal`, `#Groq`, `#Nvidia`, `#Semiconductors`
 
 ---
 
 <a id="item-5"></a>
-## [Anthropic 发布 Claude Haiku 5.5，推出新定价与 API 积分](https://www.anthropic.com/claude-haiku-5-5) ⭐️ 8.0/10
+## [Whistle：一款仅 16.9MB 的语音转文本模型](https://cactuscompute.com/blog/whistle) ⭐️ 8.0/10
 
-Anthropic 发布了 Claude Haiku 5.5 模型，该重大更新引入了基于提示词长度的阶梯定价机制，并为 Max 和 Team 订阅者提供新的月度 API 积分。 此次发布通过提供更具成本效益的高性能能力，改变了开发者的成本效益格局，而新的积分系统允许订阅者无需立即自付费用即可集成 AI 功能。 定价结构对超过 100,000 个令牌的提示词施加了 5 倍的成本增加，开发者指出这对于基于智能体的工作负载而言门槛较低，且性能基准测试显示与 Haiku 4.5 相比成本降低了 9 倍且准确率有所提升。
+Whistle 是一款新的语音转文本模型，实现了极小的 16.9 MB 体积，使其适用于边缘设备和网页端部署。该模型旨在提供一种轻量的替代品，以实现高效的本地转录。 这一模型压缩成果使得语音转文本功能可以直接嵌入到网页应用和边缘设备中，而无需依赖沉重的云端服务。它显著降低了开发者与用户进行本地、隐私、低延迟转录的门槛。 尽管体积小巧，该模型存在幻觉问题，例如在长文本转录中反复输出“谢谢”。此外，它目前缺乏流式输出功能，而该功能通常被认为是实时转录应用所必需的。
 
-hackernews · sfkgtbor · 10月7日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=49996437)
+hackernews · gmays · 10月8日 16:59 · [社区讨论](https://news.ycombinator.com/item?id=50008427)
 
-**背景**: Claude Haiku 是 Anthropic 最具成本效益的模型系列，定位为高吞吐量、快速推理任务。100,000 令牌的截断点决定了请求是产生标准还是溢价定价，而推理努力级别允许用户在延迟和成本与更高准确性之间进行权衡。
+**背景**: 语音转文本模型通常是大型神经网络，需要大量的计算能力和内存才能运行。模型压缩技术用于缩小这些网络的体积，使其能够在智能手机等资源受限的设备上运行，或直接在浏览器中通过 Web 技术执行。边缘计算是指在数据源本地处理数据，而不是将其发送到集中式云服务器。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.stork.ai/blog/claudes-new-credit-system-is-a-trap">Anthropic 's Claude Credit System: A Trap for Developers? | Stork.AI</a></li>
+**社区讨论**: 社区讨论凸显了模型小巧体积与实际可用性之间的权衡，指出了非流式输出和文本幻觉等具体局限。用户将其性能与 Parakeet 等本地替代方案进行了比较，而一些用户则指出，二进制体积的大小远不如模型处理多样化或受损语音模式的能力重要。
 
-</ul>
-</details>
-
-**社区讨论**: 开发者指出 100,000 令牌的限制对于基于智能体的工作负载来说太低，会导致成本迅速上升，而其他人则称赞了可观的 API 积分，使得基于订阅的 AI 功能集成成为可能。基准测试讨论确认了该模型在速度和成本效率方面优于之前的版本。
-
-**标签**: `#AI/ML`, `#LLMs`, `#Anthropic`, `#API-Pricing`, `#Model-Release`
+**标签**: `#Speech-to-Text`, `#Model Compression`, `#Machine Learning`, `#Edge Computing`, `#NLP`
 
 ---
 
 <a id="item-6"></a>
-## [NASA 阿波罗软件先驱、软件工程奠基人玛格丽特·汉密尔顿去世](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) ⭐️ 8.0/10
+## [陶哲轩指出 AI 数学进展必须重视整体理解而非孤立证明](https://mathstodon.xyz/@tao/117395269325940185) ⭐️ 8.0/10
 
-玛格丽特·汉密尔顿已去世。她曾领导 NASA 的阿波罗软件团队，并首创了“软件工程”这一术语，因其在计算机科学和飞行软件领域的开创性贡献而备受认可。 她的离世标志着计算机历史上的一个时代结束了，因为她是将软件确立为一门严谨学科的关键人物。她的工作保障了阿波罗任务的安全性，并激励了无数代的工程师。 汉密尔顿具体利用异步优先调度技术，在阿波罗制导计算机上处理多个实时任务。她于 1972 年创立了 Higher Order Software 公司。
+陶哲轩认为“数学 2.0”必须以整体视角来评估数学进展，而不仅仅是借助 AI 解决孤立问题。他警告说，若数学界在验证 AI 生成证明的更广泛意义之前便直接接受它们，将带来隐患。 作为数学界的领军人物，陶哲轩的观点具有权威性，并凸显了 AI 生成的证明缺乏深层理论整合的风险。这一争论将影响数学界未来如何验证和评估 AI 辅助发现的价值。 陶哲轩批评了那些自主解决问题但对结果理解不够深入、无法回答相关问题的“AI 提示工程师”的趋势。他强调，数学的价值在于获得的洞察以及解释证明重要性所进行的沟通。
 
-hackernews · muglug · 10月7日 21:16 · [社区讨论](https://news.ycombinator.com/item?id=49998895)
+hackernews · ent101 · 10月8日 05:14 · [社区讨论](https://news.ycombinator.com/item?id=50002008)
 
-**背景**: 玛格丽特·汉密尔顿是 MIT 仪器实验室的核心人物，她领导了阿波罗制导计算机板载软件的开发。她的软件架构对登月任务的成功至关重要。
+**背景**: 陶哲轩是菲尔兹奖得主，也是经常对技术融入研究发表评论的数学界重要人物。在历史上，数学进展不仅通过解决具体问题来评估，还取决于理论洞察的深度及其与更广泛领域的联系。LLM（大语言模型）在数学中的应用加速了证明生成，引发了关于数学发现本质及人类直觉作用的辩论。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/">Margaret Hamilton Led the NASA Software Team That Landed...</a></li>
+**社区讨论**: 社区存在分歧，部分怀疑论者指出 LLM 善于整合大量信息，这与当前的 AI 数学成果相符。另一些人则同意陶哲轩的平衡观点，认为简单地抛出证明而不进行妥善的验证和解释并不利于学科发展，并强调沟通与理解才是数学的核心。
 
-</ul>
-</details>
-
-**社区讨论**: 社区成员表达了深切的敬意，有人分享了与她会面的个人轶事。讨论还重点提到了口述历史等资源，以及她使软件工程规范化所留下的遗产。
-
-**标签**: `#Software History`, `#Margaret Hamilton`, `#NASA`, `#Commemoration`, `#Computer Science`
+**标签**: `#AI`, `#Mathematics`, `#TerenceTao`, `#FutureOfWork`, `#AIResearch`
 
 ---
 
 <a id="item-7"></a>
-## [纳维-斯托克斯方程在翻译中的迷失](https://arxiv.org/abs/2610.08144) ⭐️ 8.0/10
+## [AI 能源趋势迫使重新思考芯片供电](https://semiwiki.com/semiconductor-manufacturers/intel/374308-data-center-energy-trends-force-a-rethink-of-chip-power-delivery/) ⭐️ 8.0/10
 
-一篇有争议的文章指出，大语言模型为纳维-斯托克斯方程生成的 Lean 证明与原始自然语言证明并不正确对应，引发了对 AI 辅助形式化验证保真度的质疑。
+英特尔晶圆代工发布了两篇文章系列，解释由 AI 驱动的数据中心能源限制如何迫使重新评估芯片供电工程。该系列强调，在下一代数据中心的背景下，供电的重要性现已媲美晶体管速度和封装密度。 随着 AI 工作负载的扩展并面临热限制，向芯片高效可靠供电的能力成为性能和数据中心可扩展性的基本瓶颈。这种工程优先级的转变影响着每一家半导体供应商、数据中心运营商和硬件设计师。 英特尔晶圆代工指出，更快的晶体管和更密集的封装所带来的好处，越来越依赖于克服如 IR 压降等供电约束。如果不解决这些工程挑战，先进节点转换所承诺的收益将受到物理基础设施的严重限制。
 
-hackernews · nill0 · 10月7日 15:24 · [社区讨论](https://news.ycombinator.com/item?id=49994145)
+rss · SemiWiki · 10月8日 17:00
 
-**标签**: `#Formal Verification`, `#AI`, `#Mathematics`, `#Navier-Stokes`, `#Lean`
+**背景**: 在芯片设计中，供电网络（PDN）指的是向晶体管分配电力的电气互连，其中已知的 IR 压降会导致时序错误。在历史上，速度是芯片工程的首要焦点，但今天的 AI 数据中心由巨大的计算量和热量驱动，正在迫使人们重新评估电力和冷却系统协同工作的效率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://semiengineering.com/knowledge_centers/low-power/power-delivery-network-pdn/">Chip Power Delivery Networks (PDN) & Power Integrity ...</a></li>
+<li><a href="https://ansys.synopsys.com/blog/minimizing-ir-drop-in-integrated-circuit-design">Steps to Minimize IR Drop in Integrated Circuit Design - Ansys</a></li>
+<li><a href="https://arxiv.org/html/2502.01647v2">AI Load Dynamics–A Power Electronics Perspective - arXiv.org</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#power-delivery`, `#AI-infrastructure`, `#data-center`, `#hardware-design`
 
 ---
 
 <a id="item-8"></a>
-## [Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026](https://www.eetimes.com/why-ais-limit-is-power-not-chips-gopi-sirineni-at-ai-infra-summit-2026/) ⭐️ 8.0/10
+## [高通诉 Arm 案庭审第三天聚焦 v10 技术杠杆](https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/) ⭐️ 8.0/10
 
-Gopi Sirineni argues that power, not chip availability, is the primary bottleneck for AI growth and suggests that autonomous rack controllers can improve efficiency by up to 30%.
+在 Arm 诉高通案的第三天的庭审中，法院重点探讨了关于 Arm v10 技术的杠杆作用、架构解释以及谈判善意的争议。这延续了主要芯片设计商与架构授权方之间的高度紧张诉讼。 此案对 ARM 生态系统和芯片授权模式具有重大深远影响，因为它设定了半导体行业中如何处理版税和架构规范的先例。结果可能会影响核心 IP 授权商与主要芯片制造商之间的商业动态。 当天的主要焦点之一包括高通声称 Arm 向记者披露 2024 年的终止威胁，破坏了与 Meta Platforms 正在进行的芯片交易谈判。庭审还涉及法官 Maryellen Noreika 是否会废除合同中的特定条款，这将直接影响高通可寻求的赔偿金额。
 
-rss · EE Times · 10月7日 19:56
+rss · Electronics Weekly · 10月8日 05:16
 
-**标签**: `#AI Infrastructure`, `#Power Efficiency`, `#Hardware`, `#Data Centers`, `#Systems`
+**背景**: ARM 架构是全球最常见的电子设计，由于其低功耗和高性能，被广泛应用于移动通信领域。Arm 将其架构规范（如 v10 技术）授权给高通等公司，这些公司随后基于这些蓝图设计实际的处理器。此次诉讼是既往争议的“续集”，重点在于合同条款、版税以及终止许可关系的可能性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/articles/qualcomm-vs-arm-holdings-q4-133442389.html">Qualcomm vs . Arm Holdings Q4 2026 trial : royalties and contract...</a></li>
+<li><a href="https://www.forbes.com/sites/tiriasresearch/2026/10/06/qualcomm-vs-armthe-sequel-is-about-more-than-a-licensing-dispute/">Qualcomm Vs Arm - The Sequel, Is About More Than A Licensing...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#legal`, `#semiconductors`, `#ARM`, `#business`, `#industry-news`
 
 ---
 
 <a id="item-9"></a>
-## [三星晶圆代工将为 Anthropic 生产基于 2nm 制程的定制 AI 芯片](https://www.techpowerup.com/353457/samsung-foundry-to-manufacture-anthropic-ai-asic-on-2-nm-node) ⭐️ 7.5/10
+## [研究人员：软件调度是缓解 AI 电力压力的最简单方法](https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030) ⭐️ 7.5/10
 
-三星晶圆代工正准备在其 SF2 2nm 节点上制造 Anthropic 的定制 AI ASIC，该芯片由 Broadcom 负责设计，目标是实现 4,000 TOPS 的 INT8 算力。由于 Anthropic 正在评估项目的完整基础设施可行性，预计初期产量较低，约为 20 万枚芯片。 此次合作标志着三星晶圆代工的重要战略转变，其正试图缩小与台积电的差距，并定位自身为重要的外部 AI 客户制造伙伴。这也凸显了 AI 实验室正逐渐从通用 GPU 转向高度专业化的定制芯片的发展趋势。 该芯片的热设计功耗（TDP）为 1,300 W，将搭配 192 GB 或 288 GB 的 HBM3E 高带宽内存。三星可能会利用其 I-Cube 技术进行 2.5D 封装，以便将 2nm 芯片裸片与高带宽内存进行集成。
+研究人员提出，优化工作负载调度和效率的软件比单纯依靠硬件升级是缓解电力约束的更实用方法。到 2030 年，数据中心的需求预计将与日本的用电量相当。 这种以软件为中心的方法为人工智能基础设施提供了一个重要的途径，可以解决关键的电力瓶颈，而不仅仅依赖于昂贵的新芯片或电网连接。它通过为 AI 数据中心提供可持续性的途径，直接影响超大规模云服务商和整个科技行业。 提出的解决方案包括让计算机做更少的工作或在更好的时间执行任务，以管理能耗。这与现有的提高芯片效率和冷却系统的努力形成互补，为能源管理提供了多维度的方法。
 
-rss · TechPowerUp News · 10月7日 11:59
+rss · Tom's Hardware · 10月8日 14:00
 
-**背景**: 定制 AI ASIC 是由公司为特定任务设计的专用集成电路，通常用于替代通用 GPU，以提高 AI 工作负载中的效率和性能。热设计功耗（TDP）衡量了组件产生的最大热量，决定了冷却需求，而 TOPS（每秒万亿次运算）是衡量 AI 硬件性能的指标。HBM3E 是一种高度先进的高带宽内存形式，对于快速向 AI 处理器输送数据至关重要。
+**背景**: AI 超大规模云服务商正在建设消耗巨大电力的数据中心，在许多地区造成了严重的电力挤兑。这导致了对更高效硬件、先进冷却系统和专用电网连接的巨额投资，以跟上 AI 基础设施的快速扩张。
 
-**标签**: `#AI Hardware`, `#Semiconductors`, `#Samsung`, `#Anthropic`, `#ASIC`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://link.springer.com/article/10.1007/s10462-025-11208-8">AI-driven job scheduling in cloud computing: a comprehensive ...</a></li>
+<li><a href="https://www.emerson.com/en/automation-systems/ovation/data-center-energy-management">Data Center Energy Management: Microgrid Control ... - Emerson</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI-Infrastructure`, `#Data-Centers`, `#Power-Efficiency`, `#Sustainability`, `#Hyperscalers`
 
 ---
 
 <a id="item-10"></a>
-## [Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark](https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai) ⭐️ 7.5/10
+## [Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers](https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike) ⭐️ 7.5/10
 
-Microsoft and Nvidia announced the pre-order availability of the Surface Laptop Ultra, a new device featuring the RTX Spark AI chip and a new magnetic USB-C port, alongside Windows 11 updates for agentic AI.
+Ukrainian drones struck a Yandex data center in Sasovo, Russia, disrupting services and threatening two major Nvidia-powered supercomputers used for AI and scientific research.
 
-rss · Tom's Hardware · 10月7日 18:07
+rss · Tom's Hardware · 10月8日 13:46
 
-**标签**: `#Microsoft Surface`, `#Nvidia RTX`, `#AI Hardware`, `#Windows 11`, `#Consumer Electronics`
+**标签**: `#data-centers`, `#ai-infrastructure`, `#geopolitics`, `#yandex`, `#nvidia`
 
 ---
 
 <a id="item-11"></a>
-## [Linux 新内存压缩技术 Cram 实现 452 倍加速](https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads) ⭐️ 7.5/10
+## [AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply](https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips) ⭐️ 7.5/10
 
-一种名为 Cram 的新型 Linux 内存压缩技术被提出，在压缩内存读取方面实现了 452 倍的加速效果。该技术通过用标准内存语义替代传统的块设备接口来进行数据访问，从而达成此性能突破。 在操作系统核心子系统中实现如此显著的性能提升，代表了系统工程研究的一项重大进展。它可以通过降低内存管理相关的延迟，改善应用响应速度和系统效率，对计算机架构与软件协同设计具有深远意义。 现有的主要技术细节表明，Cram 特别优化了压缩内存的读取性能。通过允许使用标准语义进行直接访问，它规避了传统上块设备抽象所带来的额外开销。
+AMD is negotiating a broader partnership with Samsung that aims to secure advanced memory supply while converting the relationship into foundry orders for logic chip manufacturing.
 
-rss · Tom's Hardware · 10月7日 16:20
+rss · Tom's Hardware · 10月8日 12:30
 
-**背景**: 在 Linux 系统中，Zram 等类似技术通过压缩内存（RAM）来扩展可用空间，但传统实现往往将其作为一个块设备来处理。这种抽象层在 CPU 检索数据时可能会引入延迟，因为块设备层必须先解压数据然后将其放入内存中。较新的方法，例如直接语义访问，允许 CPU 更高效地读取压缩数据。
-
-**标签**: `#Linux`, `#Memory Management`, `#Performance Optimization`, `#Systems Research`
+**标签**: `#Semiconductors`, `#AMD`, `#Samsung`, `#Supply Chain`, `#Foundry`
 
 ---
 
 <a id="item-12"></a>
-## [高通授权华为的“逻辑折叠”3D 芯片架构专利](https://www.tomshardware.com/tech-industry/semiconductors/qualcomm-will-license-patents-behind-huaweis-logicfolding-chip-architecture-report-says-the-kirin-9050-pro-already-uses-it-with-a-teardown-showing-its-lower-die-is-mostly-cache-and-i-o) ⭐️ 7.5/10
+## [美国男子因操控 1 万个机器人账号为其 AI 生成歌曲刷播放量而被判入狱](https://www.tomshardware.com/service-providers/streaming/american-jailed-for-commanding-10-000-bots-to-stream-his-own-ai-generated-songs-and-earn-millions-in-fraudulent-royalty-payments-beating-taylor-swift-is-the-first-person-to-end-up-in-prison-for-ai-assisted-music-streaming-crime) ⭐️ 7.5/10
 
-高通已达成协议，授权采用华为的“逻辑折叠”芯片架构专利，该架构在麒麟 9050 Pro 的拆解中被公开。
-彭博社的报道证实了这两家美国和中国芯片巨头之间的这一安排。 这项协议标志着主要美国芯片制造商首次授权采用中国 3D 芯片架构，证明了华为在出口管制下取得的科技进步。
-这表明华为的堆叠晶粒设计在全球高端移动 SoC 市场具备竞争力。 麒麟 9050 Pro 采用了两个垂直堆叠的晶粒，下层负责运行较低温度、对工艺敏感度较低的任务（如缓存和 I/O），而上层则专注计算模块以实现更好的散热。
-该代处理器最显著的升级在于 NPU（神经网络处理单元）。
+一名美国男子因组织机器人网络为其自制的 AI 歌曲虚假刷量、骗取数百万美元版税，被判处监禁并处以罚款。
 
-rss · Tom's Hardware · 10月7日 13:00
+rss · Tom's Hardware · 10月8日 12:19
 
-**背景**: LogicFolding（逻辑折叠）是一种将逻辑单元垂直堆叠的架构，而非单纯依赖水平缩小晶体管尺寸，这有助于压缩信号传输时间并提升性能。
-得益于这种堆叠配置，缓存和 I/O 等组件被移至底部晶粒上，类似于 AMD 在消费级处理器中采用的 3D V-Cache 技术。
-华为通过其 HiSilicon 部门设计麒麟芯片，并在美国出口管制的限制下由中芯国际（SMIC）负责生产。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techtimes.com/articles/328587/20261005/qualcomm-pays-huawei-patent-portfolio-3d-chip-architecture-deal.htm">Qualcomm Pays Into Huawei Patent Portfolio in 3D Chip Architecture ...</a></li>
-<li><a href="https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html">Teardown shows Huawei Kirin 9050 Pro uses a 3D V-Cache-like ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#chip-architecture`, `#qualcomm`, `#huawei`, `#hardware-design`
+**标签**: `#AI Music`, `#Streaming Fraud`, `#Legal Precedent`, `#Bot Networks`, `#Intellectual Property`
 
 ---
 
 <a id="item-13"></a>
-## [佛州及另外三个州就安全虚假陈述起诉 TP-Link](https://www.tomshardware.com/networking/routers/florida-sues-tp-link-for-lying-about-the-safety-of-its-routers-state-claims-that-manufacturer-misrepresented-its-security-and-ties-to-china) ⭐️ 7.5/10
+## [据报道，SpaceX 正寻求 400 亿美元债务融资以采购英伟达 AI 硬件](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks) ⭐️ 7.5/10
 
-佛罗里达州联合另外三个州对 TP-Link 提起诉讼，指控该公司在路由器安全性方面提供虚假信息，并隐瞒其与中国的联系。 此项法律诉讼极大地引发了关于硬件供应链安全以及公众对主流消费级网络设备信任度的担忧，可能会影响联邦层面的监管政策和各州级的采购规定。 诉讼称 TP-Link 的路由器存在被国家级黑客利用的漏洞，并且该公司的供应链受中国法律约束，需配合情报机构。
+据报道，SpaceX 正在筹组 400 亿美元的债务融资方案，用于购买约 36 万块英伟达 Rubin AI 加速器，这标志着其在高端 AI 基础设施领域进行了大规模投资。
 
-rss · Tom's Hardware · 10月7日 12:40
+rss · Tom's Hardware · 10月8日 11:00
 
-**背景**: TP-Link 是一家知名的路由器制造商，因国家安全风险指控在美国面临日益严格的审查。围绕的核心争议在于中国制造的设备是否能与外国政府的数据访问有效隔离。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/">TP-Link problems in US grow amid FCC router ban and four ...</a></li>
-<li><a href="https://cybernews.com/security/tp-link-chinese-routers-national-security-risk-us-lawmakers/">TP-Link routers made in China are national security risk, US ... US states sue popular kitmaker TP-Link over China risks Four States Sue TP-Link Alleging Hidden China Ties and Router ... Texas sues TP-Link alleging Chinese government access to its ... No evidence that TP-Link routers are a Chinese security threat</a></li>
-<li><a href="https://en.wikipedia.org/wiki/TP-Link">TP - Link - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Networking`, `#Security`, `#Legal`, `#Supply Chain`, `#TP-Link`
+**标签**: `#AI Infrastructure`, `#Nvidia`, `#SpaceX`, `#Investment`, `#Compute Resources`
 
 ---
 
 <a id="item-14"></a>
-## [Chrome 155 版本正式支持 JPEG XL 图像格式](https://developer.chrome.com/blog/jpeg-xl-in-chrome) ⭐️ 7.0/10
+## [4 小时电网级电池存储全球成本低于燃气轮机](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/) ⭐️ 7.0/10
 
-Chrome 155 已正式推出对 JPEG XL 图像格式的原生解码支持，从而推翻了其 2022 年备受争议的弃用决定。
-这一更新之所以引人注目，是因为它是由非 Google 开发人员主导的，标志着浏览器厂商优先事项的重大转变。 Chrome 中重新引入 JPEG XL 为 Web 开发者扫除了主要障碍，提供了一个比 AVIF 和传统 JPEG 更具优势的、广泛支持的开源高效替代品。
-这一决定印证了 JPEG XL 在 Web 生态系统中的可行性，并鼓励在高质量媒体传输中更广泛地采用下一代图像编解码器。 尽管 AVIF 在无损压缩效率上往往优于 JPEG XL，但 JPEG XL 因其极高的通用性而备受青睐，能作为一种格式处理无损、HDR 和动画功能。
-批评者指出，JPEG XL 在无损模式下的解码速度可能慢 6 倍，因此在 CPU 资源受限的环境中需要谨慎考量。
+分析表明，在全球范围内安装 4 小时电网级电池存储的成本已低于安装开放循环燃气轮机。这一经济转变表明，电池正在取代燃气轮机用于短时尖峰电力覆盖。 这一成本交叉点加速了电网脱碳进程，用有利于可再生能源的存储取代了化石燃料调峰电源。这对目前正在规划短期电网稳定性基础设施的电力公司及其投资者产生重大影响。 电池相对于燃气的成本优势主要适用于短时（约 4 小时）尖峰，而非长期季节性储能，后者仍以燃气或联合循环轮机占优。该分析预测未来十年电池成本将进一步下降，同时假设燃气轮机需求成本上升。
 
-hackernews · AshleysBrain · 10月7日 11:25 · [社区讨论](https://news.ycombinator.com/item?id=49991227)
+hackernews · 01-_- · 10月8日 16:03 · [社区讨论](https://news.ycombinator.com/item?id=50007519)
 
-**背景**: JPEG XL 是由 Google 和 Cloudinary 开发的免费开放图像编码标准，旨在以 20-60% 更高的压缩率取代传统 JPEG 格式。
-2022 年，Google 极具争议地撤回了 Chrome 对 JPEG XL 的支持，从而引发了长达数年的开发者辩论，一方支持 AVIF，另一方则倡导 JXL 的通用性。
-该格式支持有损和无损压缩、内置 HDR 以及渐进解码，且无需在移动设备上使用硬件加速。
+**背景**: 电网级电池存储将可再生能源丰沛时的电能存储起来，以备短缺时释放。开放循环燃气轮机在不回收废气的情况下运行，启停速度快但效率极低，因此仅用于昂贵且持续时间短的电力高峰。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/JPEG_XL">JPEG XL - Wikipedia</a></li>
-<li><a href="https://uploadcare.com/blog/avif-vs-jpeg-comparison/">AVIF vs JPEG XL vs JPEG : Best image format in 2026? | Uploadcare</a></li>
+<li><a href="https://www.tutorialspoint.com/article/difference-between-open-cycle-gas-turbine-and-closed-cycle-gas-turbine">Difference between Open Cycle Gas Turbine and Closed Cycle ...</a></li>
+<li><a href="https://www.nowastedenergy.com/seasonal-energy-storage-balancing-supply-and-demand-throughout-the-year/">Seasonal energy storage : balancing Year-Round supply</a></li>
+<li><a href="https://greadly.com/articles/energy-storage-bottleneck-grid-2026">The Grid Can't Keep Up: Why Energy Storage Is the Real... | Greadly</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区情绪总体上对 JPEG XL 重返 Chrome 表示积极和兴奋，认为这消除了其普及的一个重要障碍。
-然而，一个声势不小的少数群体（包括一位此前曾撰文反对 JPEG XL 的知名开发者）坚持认为，在有损压缩方面 AVIF 的效率要高得多，且 JXL 的解码速度仍是一个实际限制。
-总体而言，开发者们一致认为 2026 年 10 月将是意义重大的一年，因为该格式的支持范围将从仅限 Safari 扩展至大多数主流浏览器。
+**社区讨论**: 社区读者称赞了文章严谨的写作，同时批评了预测电池成本下降 33%的经济假设。评论者指出，电池在削峰方面有效，但在弥补冬季多日无风黑暗时段方面仍不及燃气或联合循环系统。
 
-**标签**: `#web-development`, `#image-compression`, `#chrome`, `#jpeg-xl`, `#browser-standards`
+**标签**: `#energy`, `#battery-storage`, `#gas-turbines`, `#economics`, `#renewables`
 
 ---
 
 <a id="item-15"></a>
-## [From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs](https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/) ⭐️ 7.0/10
+## [OpenAI 据报夸大年化营收 200 亿美元](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a) ⭐️ 7.0/10
 
-The article explores the engineering and security challenges Rambus faces in transitioning open-source Caliptra hardware blueprints into commercial-grade, production-ready silicon for AI SoCs.
+OpenAI 的年化营收被揭示出比此前暗示的低 200 亿美元，这源于其用来对标竞争对手 Anthropic 时使用的不同计算方法。 这一重大的财务差异引发了人们对私营科技巨头所报告的财务数据的透明度和准确性的严重担忧，这对于理解其估值和市场影响至关重要。 据报道，这种差异源于 OpenAI 自身的投资者试图与 Anthropic 的年化营收进行直接对比，因为两家公司计算该指标的方法不同。
 
-rss · SemiWiki · 10月7日 17:00
+hackernews · mfiguiere · 10月8日 16:45 · [社区讨论](https://news.ycombinator.com/item?id=50008187)
 
-**标签**: `#Hardware-Security`, `#AI-SoC`, `#Caliptra`, `#Rambus`, `#Embedded-Systems`
-
----
-
-<a id="item-16"></a>
-## [从云端到硅片：IC-Link 与台积电打通合作之门](https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/) ⭐️ 7.0/10
-
-imec 的 IC-Link 与台积电深化合作，旨在通过整合云计算、安全工具链及工艺支持，降低先进半导体设计门槛，助力设计团队普及先进节点应用。
-
-rss · SemiWiki · 10月7日 15:00
-
-**标签**: `#semiconductors`, `#TSMC`, `#imec`, `#IC-Link`, `#chip-design`
-
----
-
-<a id="item-17"></a>
-## [软件定义电动车型推动新的半导体封装需求](https://www.eetimes.com/from-electrification-to-architecture-the-next-automotive-era/) ⭐️ 7.0/10
-
-《电子工程》（EE Times）报道，汽车向软件定义电动车型的转变正在对先进的半导体封装和测试解决方案提出新要求。 这一趋势将影响汽车电子供应链全链路，因为复杂的、由人工智能驱动的车载系统正挑战芯片密度和性能的极限，需要创新的封装策略来满足车辆功能。 文章重点指出，采用 3 纳米和 5 纳米等先进节点技术的现代车载计算平台，在 I/O 密度和内存带宽方面面临局限性，使得先进封装成为关键的差异化因素。
-
-rss · EE Times · 10月7日 13:00
-
-**背景**: 软件定义车辆（SDV）是一种将软件与硬件解耦的架构，允许在车辆出厂后通过空中下载（OTA）机制更新车辆功能。先进的半导体封装（例如异构多芯片集成）涉及将多个专用芯片组合在一起，以创建更强大且紧凑的片上系统。这一转变的驱动力是汽车产业正在采用功能更强大的中央计算机以处理自动驾驶和信息娱乐系统。
+**背景**: 年化营收或执行率是根据较短时间段（如一个月或一个季度）推算出的年度收入，其假设当前数据在全年保持不变。由于 OpenAI 目前是一家估值巨大的私营公司，它没有被要求像上市公司那样披露同等水平的财务细节和审计数据，从而导致其公共透明度较低。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://autosar.io/en/insights/sdv-software-defined-vehicle">Software-Defined Vehicle (SDV) Explained — Why Cars Are Being ...</a></li>
-<li><a href="https://semiengineering.com/powering-the-automotive-revolution-advanced-packaging-for-next-generation-vehicle-computing/">Powering The Automotive Revolution: Advanced Packaging For ...</a></li>
+<li><a href="https://stripe.com/en-jp/resources/more/what-is-annualized-run-rate-arr-how-to-calculate-arr-and-use-it-strategically">What Is Annualized Run Rate (ARR)? | Stripe</a></li>
+<li><a href="https://www.duperrin.com/english/2026/08/27/revenue-margins-costs-accounting-ai/">AI financial figures : what they don't tell you</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Automotive`, `#Semiconductors`, `#Hardware Architecture`, `#EE`, `#Electric Vehicles`
+**社区讨论**: 社区讨论对一家近万亿美元私营公司缺乏透明度表示沮丧，并指出 OpenAI 的营收数据可能为了配合击败像 Anthropic 这样的竞争对手的叙事而被不一致地操纵。
+
+**标签**: `#OpenAI`, `#AI Industry`, `#Financials`, `#Transparency`, `#Big Tech`
+
+---
+
+<a id="item-16"></a>
+## [车企转向模块化 ADAS AI 以应对成本上升](https://www.eetimes.com/rising-costs-compute-demand-push-adas-toward-modular-ai/) ⭐️ 7.0/10
+
+随着半导体成本上升和计算需求增加，汽车制造商越来越多地为高级驾驶辅助系统（ADAS）采用模块化人工智能（AI）解决方案。 这种转变使汽车行业的系统设计更高效、成本控制更优，帮助制造商跟上先进安全功能不断提升的要求。 模块化 AI 架构在处理不断增加的计算需求时提供了灵活性，同时减轻了昂贵半导体组件带来的财务压力。
+
+rss · EE Times · 10月8日 13:00
+
+**背景**: 高级驾驶辅助系统（ADAS）是协助驾驶员完成车道保持和紧急制动等关键安全任务的电子系统。随着车辆自动驾驶级别的提升，这些 AI 驱动功能所需的计算能力显著增加。模块化方法涉及将 AI 模型拆分为可管理的组件，这些组件可以独立优化和更新。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.asiapevc.com/20240313-autobrains-liquid-ai-enables-true-automotive-intelligence-1119304">Autobrains' Liquid AI Enables True Automotive ... - AsiaPEVC.com</a></li>
+<li><a href="https://jrvservices.co/blog/ai-industri-automotif-mingguan-2026-w30?lang=en">Automotive AI This Week: Global Milestones & What They Mean for...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ADAS`, `#Automotive Electronics`, `#Embedded AI`, `#Semiconductors`, `#Systems Engineering`
+
+---
+
+<a id="item-17"></a>
+## [Wolfspeed 获美国战争部 15 亿美元战略贷款](https://www.electronicsweekly.com/news/business/wolfspeed-gets-1-5bn-loan-from-us-government-2026-10/) ⭐️ 7.0/10
+
+Wolfspeed 与美国战争部旗下的战略资本办公室签署了一项 15 亿美元的贷款协议，以支持其半导体运营。该资金旨在增强公司的供应链韧性及战略性制造能力。 这笔贷款凸显了地缘政治格局的演变，先进半导体（特别是碳化硅）如今被视为战略国家安全资产，而不仅仅是商业产品。这表明政府正致力于保护国内高价值功率电子器件的供应链。 来自战略资本办公室的贷款承诺最初是有条件的，但已作为支持关键矿物独立和国内制造更广泛努力的一部分得以执行。该资金专门用于支持奠定未来能源经济和蓬勃发展的人工智能行业基础的设施。
+
+rss · Electronics Weekly · 10月8日 05:13
+
+**背景**: Wolfspeed 是碳化硅（SiC）的主要制造商之一，这种材料对于电动汽车和可再生能源系统中使用的高效功率电子器件至关重要。美国政府近期成立了“战争部”及其下属的“战略资本办公室”，通过向关键制造商提供直接财政支持，以解决工业供应链中的脆弱环节。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.manufacturingdive.com/news/wolfspeed-dod-defense-war-office-of-strategic-capital-loan/832451/">Wolfspeed signs $1.5B DOD loan for semiconductor production, R&D</a></li>
+<li><a href="https://www.linkedin.com/posts/reelementtech_office-of-strategic-capital-agrees-to-joint-activity-7398719013972975616-xz35">Office of Strategic Capital Agrees to Joint $700M Conditional Loan ...</a></li>
+<li><a href="https://www.war.gov/About/">About | U . S . Department of War</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#supply_chain`, `#funding`, `#US_government`, `#silicon_carbide`
 
 ---
 
 <a id="item-18"></a>
-## [微软利用 WinUI 3 和集成式 Copilot 重新构建 Windows 11 搜索功能](https://www.techpowerup.com/353476/microsoft-rebuilds-windows-11-search-adds-typed-commands-and-inline-copilot) ⭐️ 6.5/10
+## [Infineon and ZuriQ to scale qubits](https://www.electronicsweekly.com/news/infineon-and-zuriq-to-scale-qubits-2026-10/) ⭐️ 7.0/10
 
-微软利用现代 WinUI 3 框架重新构建了 Windows 11 的搜索功能，引入了原生的文本输入命令，并将 Copilot 直接集成到搜索界面中。 此次更新通过摒弃传统 UI 技术栈，承诺带来更快、更轻的系统性能，同时内联式 AI 集成也让用户访问高级工具变得更加便捷。 新版搜索用单一的列表视图取代了传统的大型预览面板，并支持数以千计的快捷系统命令，例如切换深色模式或静音音频。
+Infineon and ZuriQ are expanding their collaboration to scale trapped-ion qubits by combining ZuriQ's quantum architecture with Infineon's semiconductor expertise.
 
-rss · TechPowerUp News · 10月7日 19:34
+rss · Electronics Weekly · 10月8日 05:13
 
-**背景**: WinUI 3 是微软开发的最新现代用户界面框架，它通过使用原生的 Windows API 取代了如 WPF 和 UWP 等较旧的系统，从而提升了性能。Windows 11 的搜索功能过去一直依赖这些效率较低的旧架构，导致其开发标准落后于现代应用。向 WinUI 3 的迁移旨在大幅缩短加载时间并减少总体内存占用。
-
-**标签**: `#Windows 11`, `#UI Development`, `#Microsoft`, `#Copilot`
+**标签**: `#Quantum Computing`, `#Semiconductors`, `#Partnership`, `#Trapped Ion`, `#Hardware`
 
 ---
 
 <a id="item-19"></a>
-## [华硕宣布其 ProArt RTX Spark Windows 电脑上市](https://www.techpowerup.com/353475/asus-announces-availability-of-its-proart-rtx-spark-windows-pcs) ⭐️ 6.5/10
+## [AMD GPUs Get Price Hike in China with International Increases To Follow](https://www.techpowerup.com/353520/amd-gpus-get-price-hike-in-china-with-international-increases-to-follow) ⭐️ 6.5/10
 
-华硕推出了搭载 NVIDIA RTX Spark 架构的新款 ProArt 笔记本电脑和迷你电脑，结合 Grace CPU 和 Blackwell GPU，显著增强了本地 AI 能力。
+AMD is raising GPU prices in China by up to $104 due to rising memory and manufacturing costs, with international price hikes expected to follow.
 
-rss · TechPowerUp News · 10月7日 18:47
+rss · TechPowerUp News · 10月8日 18:48
 
-**标签**: `#hardware`, `#ai-acceleration`, `#nvidia`, `#asus`, `#local-ai`
+**标签**: `#AMD`, `#GPU`, `#Pricing`, `#Hardware`, `#Supply Chain`
 
 ---
 
 <a id="item-20"></a>
-## [希捷与东芝竞购 TDK 硬盘磁头业务](https://www.tomshardware.com/pc-components/hdds/seagate-and-toshiba-battle-for-tdks-hdd-head-business-a-critical-hard-drive-component-multi-billion-dollar-deal-threatens-sole-independent-supplier-as-shortages-intensify) ⭐️ 6.5/10
+## [AMD 确认 FSR 4 将于 2026 年底登陆 APU](https://www.techpowerup.com/353477/amd-confirms-fsr-4-is-coming-to-apus-by-the-end-of-2026) ⭐️ 6.5/10
 
-希捷和东芝正在收购 TDK 的磁头部门，该部门是这种关键硬盘部件目前唯一的独立供应商。这一举措代表了存储硬件行业的一次重大整合事件。 收购 TDK 的业务将消除硬盘磁头的最后一家独立供应商，从而加剧供应链整合，并可能影响主要驱动器制造商的部件供应。这一转变可能会影响存储硬件行业的竞争格局和定价。 此次收购针对磁头的生产，磁头是硬盘读写操作的关键部件。由于垂直整合正成为关键策略，这项交易威胁到独立供应商的地位，因此具有重要意义。
+AMD 官方确认，其基于机器学习的 FSR 4 图像超分辨率技术将在 2026 年底前扩展至配备集成显卡的 APU 平台。此前该功能仅限于独立的 RDNA 4 和 RDNA 3 显卡。 此举将使包括 Strix Halo 在内的多核 APU 和轻薄游戏笔记本电脑能够官方支持 FSR 4，显著提升了集成显卡设备在高性能计算和主流游戏场景下的画面表现力，扩大了 AMD 软件生态的覆盖面。 FSR 4 最初是 Radeon RX 9000 系列 GPU 独占的，随后扩展到 RX 7000 系列，但一直未支持 RDNA 3.5 架构的 APU。AMD 高管 Jack Huynh 强调，公司正在优化软件栈以覆盖游戏笔记本和掌上设备。
 
-rss · Tom's Hardware · 10月7日 14:20
+rss · TechPowerUp News · 10月7日 20:04
 
-**背景**: 磁头是位于硬盘执行器臂上的专用换能器，用于读写旋转磁盘上的数据。虽然 TDK 一直是驱动器行业的长期供应商，但希捷和东芝等主要玩家过去依赖内部制造和外部采购的结合。近期硬件行业的趋势显示，大型企业正在收购专业化组件供应商，以确保供应链并降低成本。
+**背景**: FSR 4 是 AMD 最新一代的机器学习图像超分辨率技术，旨在通过 AI 算法大幅提升游戏画面的清晰度和帧率。APU（加速处理器）则将 CPU 与集成 GPU 合二为一，常见于轻薄本和高性能移动端，其性能受限于功耗和发热。此前，由于算力和架构差异，集成显卡难以运行复杂的机器学习模型。
 
-**标签**: `#HDD`, `#Storage`, `#Supply Chain`, `#M&A`, `#Hardware`
+**标签**: `#AMD`, `#GPU`, `#Upscaling`, `#APU`, `#Graphics Drivers`
 
 ---
