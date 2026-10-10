@@ -5,383 +5,314 @@ date: 2026-10-10
 lang: en
 ---
 
-> From 76 items, 20 important content pieces were selected
+> From 43 items, 17 important content pieces were selected
 
 ---
 
-1. [Cloudflare Acquires Deno, Merging Independent Runtime into Worker](#item-1) ⭐️ 9.0/10
-2. [Mistral Large 4 Falls Behind Chinese Open Models in Independent Benchmarks](#item-2) ⭐️ 8.5/10
-3. [Typesafe AI raises $870M at $7.5B valuation](#item-3) ⭐️ 8.0/10
-4. [AnyPS5 Completes 100% Translation of PS5 GPU Shader Instructions](#item-4) ⭐️ 7.5/10
-5. [Frore Systems Launches Diamond LiquidJet Coldplate for AI Factories](#item-5) ⭐️ 7.5/10
-6. [Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity](#item-6) ⭐️ 7.5/10
-7. [微软被暂停参与允许外籍员工申请绿卡的项目](#item-7) ⭐️ 7.3/10
-8. [REA Reverse – Engineer Anything](#item-8) ⭐️ 7.0/10
-9. [Carrier-Explode Tool Archives and Decodes Mobile Carrier Settings](#item-9) ⭐️ 7.0/10
-10. [AI Analysis of 400-Year Archives Finds Forgotten Meteorite and Lost Rhinos](#item-10) ⭐️ 7.0/10
-11. [Oxide Computer Announces $445 Million Series D Funding](#item-11) ⭐️ 7.0/10
-12. [Physical AI Needs Neuromorphic Sensor-to-Silicon Architecture](#item-12) ⭐️ 7.0/10
-13. [Plasma FIB milling enables 3D TSV misalignment detection](#item-13) ⭐️ 7.0/10
-14. [Sony Patent Enables Stream Viewers to Control Adaptive Cursors and Trigger Game Events](#item-14) ⭐️ 6.5/10
-15. [Global PC Shipments Plunge 20% in Q3 2026 Amid Chip Shortages](#item-15) ⭐️ 6.5/10
-16. [Cinematic Minesweeper Remake Nostalgia vs Modern UI Debate](#item-16) ⭐️ 6.0/10
-17. [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](#item-17) ⭐️ 6.0/10
-18. [U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge](#item-18) ⭐️ 6.0/10
-19. [Axiom Space Progress on ARC Orbital Compute Platform](#item-19) ⭐️ 6.0/10
-20. [Gigabyte BIOS Updates Confirm Imminent 2027 Intel DDR4 Processors](#item-20) ⭐️ 5.5/10
+1. [Top AI Labs Build Contingency Plans for Catastrophic AI Failure](#item-1) ⭐️ 8.5/10
+2. [AnyPS5 achieves 100% GPU shader instruction coverage](#item-2) ⭐️ 8.5/10
+3. [Telegram Desktop One-Click Vulnerability Enables Mass File Theft and Account Takeover](#item-3) ⭐️ 8.0/10
+4. [Ukrainian drones strike Russia's largest Yandex data center in Kaluga](#item-4) ⭐️ 7.5/10
+5. [Global PC shipments drop over 20% in Q3 due to AI-driven memory price hikes](#item-5) ⭐️ 7.3/10
+6. [Bitwarden adopts dual license model restricting commercial use](#item-6) ⭐️ 7.0/10
+7. [Hacker News discusses AI-assisted reverse engineering tool REA Reverse](#item-7) ⭐️ 7.0/10
+8. [`123456' password used in Danish CPR data breach](#item-8) ⭐️ 7.0/10
+9. [Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI](#item-9) ⭐️ 7.0/10
+10. [NVIDIA Reportedly Reserves GB202 Silicon Exclusively for Workstation GPUs](#item-10) ⭐️ 6.5/10
+11. [SoftBank Seeks $100 Billion Middle Eastern Capital for AI-Driven M&A](#item-11) ⭐️ 6.5/10
+12. [Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan](#item-12) ⭐️ 6.5/10
+13. [Apple macOS removed from official Unix registry](#item-13) ⭐️ 6.0/10
+14. [Microsoft Tests Faster Xbox PC App Codenamed 'Garrison'](#item-14) ⭐️ 5.5/10
+15. [Sony patent grants stream viewers control over in-game cursor and actions](#item-15) ⭐️ 5.5/10
+16. [Modder Straps 360mm AIO Radiator to Laptop, Cuts Temps Below 40 Degrees](#item-16) ⭐️ 5.5/10
+17. [3D-Printed Jet Turbine RC Aircraft Aims for Mach 0.8 Record](#item-17) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Cloudflare Acquires Deno, Merging Independent Runtime into Worker](https://deno.com/blog/cloudflare) ⭐️ 9.0/10
+## [Top AI Labs Build Contingency Plans for Catastrophic AI Failure](https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc) ⭐️ 8.5/10
 
-Cloudflare has acquired Deno and will support the Deno runtime with bug and security fixes for one year before ceasing its independent development. Deno will continue as an open-source project, but its roadmap will now focus on merging into the Cloudflare Workers ecosystem. This acquisition signals the end of an independent alternative to Node.js, as one of the major JavaScript runtimes is now tied to Cloudflare's edge platform. It reflects a broader trend of developer tool consolidation where major platforms absorb emerging technologies. The acquisition functions as an acquihire, where Cloudflare is effectively absorbing the Deno team and technology rather than just the product. One notable concern from the community is that the shift toward npm compatibility previously bloated Deno's originally minimalist design.
+Anthropic and OpenAI are reportedly developing high-level contingency plans for catastrophic AI events, with a specific focus on running scenarios of a runaway AI and managing the subsequent legislative scrutiny from Congress. This move signals a shift in the AI industry from abstract safety discussions to concrete crisis management, highlighting the strategic intersection between corporate risk mitigation and public policy. The contingency strategies are primarily centered on political fallout, specifically how the labs will navigate interactions with Congress and the public following a severe failure.
 
-hackernews · ilreb · Oct 9, 13:03 · [Discussion](https://news.ycombinator.com/item?id=50019911)
+rss · Tom's Hardware · Oct 10, 13:20
 
-**Background**: Deno is a secure-by-default JavaScript runtime created by Ryan McDermott, originally known for its simplicity and built-in tooling. Cloudflare Workers is an edge computing platform that allows developers to run code at the edge of the network. An acquihire is a corporate strategy where a company acquires a startup primarily to hire its talent and utilize its technology.
+**Background**: Catastrophic AI failure refers to a hypothetical scenario where artificial intelligence systems cause significant harm or become uncontrollable. Contingency planning in this context involves preparing specific actions to manage immediate crises and the long-term societal or legislative consequences of such failures.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://blog.logrocket.com/dev/what-is-deno/">What is Deno , and how is it different from Node . js ? - LogRocket Blog</a></li>
-<li><a href="https://www.geeksforgeeks.org/computer-networks/what-is-cloudflare/">What is Cloudflare | How it Works and When do you... - GeeksforGeeks</a></li>
-<li><a href="https://www.cloudflare.com/learning/serverless/what-is-serverless/">What is serverless computing ? | Learning Center</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community reactions are predominantly negative, with developers expressing sadness over the death of a beloved runtime and criticizing the earlier pivot to prioritize npm compatibility over original vision. Some users also view the move as part of a continuous wave of consolidation in the developer tools space.
-
-**Tags**: `#JavaScript`, `#Cloudflare`, `#Deno`, `#Web Development`, `#Tech Acquisition`
+**Tags**: `#AI Safety`, `#AI Governance`, `#Industry News`, `#Legislation`, `#Risk Management`
 
 ---
 
 <a id="item-2"></a>
-## [Mistral Large 4 Falls Behind Chinese Open Models in Independent Benchmarks](https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts) ⭐️ 8.5/10
+## [AnyPS5 achieves 100% GPU shader instruction coverage](https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off) ⭐️ 8.5/10
 
-Independent benchmarks from Artificial Analysis score Mistral's newly released Large 4 at 38, placing it behind leading open-weights models from Chinese developers like Xiaomi, Z.ai, Moonshot, and DeepSeek. The results indicate that Mistral Large 4 is the top-performing model outside the US and China but has been surpassed by Chinese open-source competitors. This performance shift signals that open-weights Chinese models are rapidly closing the gap with top global AI models, challenging US and European dominance. It highlights a new competitive landscape where non-US, non-Chinese models like Mistral face intense pressure to differentiate beyond benchmark scores. Mistral Large 4 features a 1.05 trillion total parameter Mixture-of-Experts architecture with 49B active parameters per token and a 1M context window. Although it leads in coding and vision tasks in early previews, its overall benchmark score is currently inferior to specific open-weight Chinese models.
+The open-source AnyPS5 project has successfully reached 100% GPU shader instruction coverage, which is a critical milestone in reverse-engineering the PlayStation 5's graphics pipeline. This progress demonstrates that the project can now fully interpret the specific shader instructions used by the PS5's GPU architecture. Achieving full shader instruction coverage significantly accelerates the goal of running proprietary PS5 games natively on PC without hardware virtualization overhead. This breakthrough benefits the open-source community by providing the foundational graphics translation layer necessary for high-performance console emulation on consumer hardware. While 100% instruction coverage is a major technical achievement, fully native execution of PS5 games on PC remains far off due to other unresolved system-level challenges. The milestone confirms that the GPU translation layer is now mature enough to handle the full range of PS5 graphics commands without significant gaps.
 
-rss · Tom's Hardware · Oct 9, 11:00
+rss · Tom's Hardware · Oct 10, 11:30
 
-**Background**: Mixture-of-Experts (MoE) is an architecture that selectively activates a subset of parameters for each input, allowing for larger total model sizes without proportionally higher computational costs per token. Open-weights models are AI models where the developer releases the model's weights, allowing others to fine-tune or run them locally, which is a key differentiator from closed-API models. Chinese tech firms have increasingly released high-performing open-weights models in recent years, creating a competitive alternative to US-centric AI labs.
+**Background**: The PlayStation 5 utilizes the AMD RDNA-based graphics hardware, making it difficult to directly run its games on standard PC components without a software bridge. Projects like AnyPS5 are part of the open-source movement to reverse-engineer console architectures, aiming to bypass hardware dependencies by translating console-specific instructions into a format executable by PC GPUs. Shader instruction coverage refers to the percentage of GPU commands that the emulator successfully recognizes and translates.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://artificialanalysis.ai/">AI Model & API Providers Analysis | Artificial Analysis</a></li>
-<li><a href="https://docs.mistral.ai/models/mistral-large-4-0">Mistral Large 4 - Mistral AI | Mistral Docs</a></li>
-<li><a href="https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model">Europe's Mistral launches Large 4 to challenge China's lead ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#Benchmarks`, `#Open-Source AI`, `#Mistral`, `#China Tech`
+**Tags**: `#Emulation`, `#GPU`, `#Open Source`, `#PlayStation 5`, `#Reverse Engineering`
 
 ---
 
 <a id="item-3"></a>
-## [Typesafe AI raises $870M at $7.5B valuation](https://typesafe.ai/blog/series-ai) ⭐️ 8.0/10
+## [Telegram Desktop One-Click Vulnerability Enables Mass File Theft and Account Takeover](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) ⭐️ 8.0/10
 
-Typesafe AI has secured an $870 million funding round at a $7.5 billion valuation. This funding was achieved despite critics arguing that its decision models are easily replicated by competitors like OpenAI and Microsoft. The high valuation signals continued investor confidence in specialized AI decision-modeling tools, though it invites scrutiny on whether engineering quality and strong marketing can sustain a moat in a rapidly moving market. Rival models like OpenAI's Decisions API and Microsoft's Decision-1 have already been released, and open-source alternatives can be fine-tuned locally to perform at similar levels.
+A critical vulnerability was discovered in Telegram Desktop that allows attackers to steal files or compromise accounts with a single user interaction. This one-click exploit highlights significant flaws in how desktop applications handle untrusted inputs. This vulnerability poses a severe risk to Telegram's large user base, allowing mass data theft and account hijacking. It underscores the urgent need for software developers to implement strict sandboxing and restrict default file access. The flaw allows malicious content to bypass typical security checks, acting like a virtual machine for arbitrary code execution. The exploit demonstrates that complex input formats can inadvertently grant excessive privileges to applications.
 
-hackernews · tosh · Oct 9, 17:02 · [Discussion](https://news.ycombinator.com/item?id=50023450)
+hackernews · g-b-r · Oct 10, 03:02 · [Discussion](https://news.ycombinator.com/item?id=50029123)
 
-**Background**: Decision models are a specific class of AI tools designed to handle complex, multi-step reasoning and fact-checking within a given context. Unlike standard chatbots that simply generate text, these models parse user inputs and external data to provide highly accurate, structured answers, making them critical for enterprise applications that require reliability over creative generation. Typesafe AI released a model named Jev to compete in this niche.
+**Background**: Sandboxing is a security technique used to isolate processes and limit their access to system resources and files. Modern operating systems typically allow programs to read and write files by default, which can be exploited if a vulnerability allows code execution to bypass standard permissions.
 
-**Discussion**: Community sentiment is mixed, with some arguing that a lack of a technical moat is irrelevant when a company possesses strong engineering and marketing capabilities that capture market share. Others express skepticism, pointing out that similar models were released by major tech companies and open-source developers within days of Jev's launch, questioning if the valuation reflects actual utility or just hype.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.virtualcuriosities.com/articles/2443/danger-any-program-can-delete-all-your-files">Danger: Any Program Can Delete All Your Files - Virtual Curiosities</a></li>
+<li><a href="https://quickconnect.app/securing-file-access-for-ai-tools-technical-controls-for-des">Securing Desktop AI File Access : OS Controls & Sandboxing</a></li>
 
-**Tags**: `#AI`, `#Venture Capital`, `#Decision Models`, `#Startups`, `#Hype Cycle`
+</ul>
+</details>
+
+**Discussion**: Community members strongly criticized the lack of default sandboxing in desktop software, emphasizing the principle of least privilege. Some users also expressed frustration with Telegram's security policies, such as re-enabling disabled settings, and preferred browser-based solutions to minimize risks.
+
+**Tags**: `#security`, `#vulnerability`, `#desktop-apps`, `#sandboxing`, `#telegram`
 
 ---
 
 <a id="item-4"></a>
-## [AnyPS5 Completes 100% Translation of PS5 GPU Shader Instructions](https://www.techpowerup.com/353547/anyps5-achieves-full-ps5-gpu-shader-instruction-translation) ⭐️ 7.5/10
+## [Ukrainian drones strike Russia's largest Yandex data center in Kaluga](https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out) ⭐️ 7.5/10
 
-The open-source AnyPS5 project has successfully decoded and translated 100% of the PlayStation 5 GPU shader instructions, covering all 1,166 RDNA 2-based instructions within the console's Oberon graphics engine. This allows the project to recompile these instructions into SPIR-V for Vulkan execution rather than using traditional emulation. This milestone significantly reduces performance overhead by enabling native execution of PS5 games on modern PCs, similar to how Wine or Proton handles Linux applications. It represents a major shift from hardware emulation to a compatibility layer approach, potentially unlocking high-fidelity console gaming on PC hardware. While the GPU translation is complete, the project still requires translating system libraries to ensure full functionality, with 2,573 out of 3,034 native PS5 libraries (84.81%) currently completed. The approach relies on the fact that the PS5's x86-64 Zen 2 CPU is architecturally similar to modern PCs, allowing CPU code to run without emulation.
+Ukrainian drones struck Yandex's major data center in Kaluga, Russia, knocking multiple modules offline and disrupting services. This incident followed a similar drone attack on Yandex's data center in Sasovo just two days earlier. The attack on Russia's largest data center highlights the growing vulnerability of critical digital infrastructure to physical warfare and geopolitical conflict. It underscores the significant risks to data redundancy and cloud service availability for users relying on Yandex platforms. The Kaluga data center spans approximately 1.4 million square feet and is located about 200 miles south of Moscow. Yandex currently operates five large data centers in Russia, including facilities in Vladimir, Sasovo, Ivanteevka, Mytishchi, and Kaluga Oblast.
 
-rss · TechPowerUp News · Oct 9, 09:07
+rss · Tom's Hardware · Oct 10, 10:30
 
-**Background**: The PS5 utilizes AMD's Oberon GPU, which is based on the RDNA 2 architecture, and an x86-64 Zen 2 CPU. Unlike traditional emulators that simulate hardware, compatibility layers like Wine allow Windows programs to run on Linux by dynamically linking system calls. AnyPS5 applies this native execution model to ports, recompiling the console's proprietary shaders into SPIR-V, an intermediate language supported by the Vulkan graphics API.
+**Background**: Yandex is a major Russian technology company often referred to as the 'Russian Google,' providing search engines, cloud services, and other digital platforms. The Sasovo data center is located on the grounds of the Sasta machine-tool plant, which manufactures metal-cutting and CNC machines for Russia's defense and industrial sectors. The Sasta plant has been under UK sanctions since 2024 due to its role in the Russian defense industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/353098/anyps5-project-skips-emulation-entirely-aims-to-port-playstation-5-games-to-pc-directly">AnyPS 5 Project Skips Emulation Entirely, Aims to Port... | TechPowerUp</a></li>
-<li><a href="https://www.videogamer.com/tech/gpu/what-is-the-equivalent-of-the-ps5/">What is the PS 5 's graphics card? The GPU equivalent - VideoGamer</a></li>
-<li><a href="https://wccftech.com/playstation-ends-single-player-pc-ports-anyps5-god-of-war-laufey/">PlayStation Ended Single-Player PC Ports, But AnyPS 5 Could Hand...</a></li>
+<li><a href="https://www.yahoo.com/news/world/articles/ukrainian-drones-strike-largest-data-103000101.html">Ukrainian drones strike largest data center in Russia, multiple parts of...</a></li>
+<li><a href="https://kyivindependent.com/russias-largest-yandex-data-center-reportedly-hit-in-drone-attack/">Russia's largest Yandex data center reportedly hit in drone attack</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia/">Yandex data center hit in drone attack in Russia - DCD</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GPU`, `#Game-Emulation`, `#Vulkan`, `#System-Engineering`, `#PlayStation`
+**Tags**: `#data-center`, `#cybersecurity`, `#geopolitics`, `#yandex`, `#infrastructure`
 
 ---
 
 <a id="item-5"></a>
-## [Frore Systems Launches Diamond LiquidJet Coldplate for AI Factories](https://www.techpowerup.com/353544/frore-systems-announces-new-liquidjet-diamond-coldplates-for-ai-factories) ⭐️ 7.5/10
+## [Global PC shipments drop over 20% in Q3 due to AI-driven memory price hikes](https://www.solidot.org/story?sid=85572) ⭐️ 7.3/10
 
-Frore Systems has announced LiquidJet Diamond, a new liquid cooling coldplate that integrates diamond spreaders to improve thermal management in AI factories. This product enhances GPU die temperature by an additional 10°C compared to their previous model, boosting token efficiency and revenue by 35%. As AI token demand surges and energy becomes scarce, maximizing AI factory efficiency is critical for hyperscalers. This technology offers a significant advantage in converting electricity into computational work, directly impacting the profitability and sustainability of large-scale AI infrastructure. The LiquidJet Diamond coldplate adds diamond wafers to a 3D ultra short-loop multi-stage design to target extreme hotspots on modern GPUs. While highly effective, the cost of diamond heat spreaders is significantly higher than traditional copper, requiring a holistic economic view for enterprise adoption.
+Global PC shipments for Q3 2026 fell by 21.2% to 58.1 million units, with the primary cause being a massive surge in memory and storage prices driven by the AI boom. Consequently, manufacturers are reviving DDR4 memory in new motherboards to mitigate costs. This significant drop signals a critical supply chain disruption where the demand for AI hardware is starving traditional PC markets of components, affecting major vendors like Lenovo, HP, and Dell. It highlights how the AI boom is causing tangible inflation and technological regression in the consumer electronics sector. Omdia estimates that memory and SSDs now account for nearly 40% of total PC component costs, up from about 15%, due to prices rising over fourfold. Additionally, a 32GB set of Corsair DDR5 memory now costs $620, while the equivalent DDR4 set is $260, prompting a return to older DDR4 standards.
 
-rss · TechPowerUp News · Oct 9, 08:28
+rss · Solidot · Oct 10, 07:53
 
-**Background**: Liquid cooling coldplates are essential components in data centers that use liquid to remove heat from high-power GPU chips. Diamond is an emerging material for heat spreaders due to its exceptionally high thermal conductivity, which helps prevent heat hotspots on the chip surface.
+**Background**: In the PC industry, quarterly shipments usually see a seasonal increase during the back-to-school period. Standard memory technologies transition from DDR4 to DDR5, but the massive production capacity demand from AI data centers is redirecting supply away from consumer electronics.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://wccftech.com/liquidjet-diamond-coldplate-for-enterprise-ai-chips-boosting-tokens-watt/">LiquidJet Infuses Diamonds Within Its Coldplates for Enterprise AI...</a></li>
-<li><a href="https://www.diamondsemicon.com/blog/why-diamond-is-emerging-as-the-ultimate-heat-spreader-for-ai-and-gpu-chips">Blog | Why Diamond Is Emerging as the Ultimate Heat Spreader ...</a></li>
-<li><a href="https://en.csmh-semi.com/a/9-359.html">New Material "Diamond" Helps Solve GPU Heat Dissipation Problems</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Infrastructure`, `#Liquid Cooling`, `#Thermal Management`, `#GPU`, `#Data Centers`
+**Tags**: `#PC Hardware`, `#Supply Chain`, `#Memory Market`, `#AI Impact`, `#Industry Trends`
 
 ---
 
 <a id="item-6"></a>
-## [Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity](https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor) ⭐️ 7.5/10
+## [Bitwarden adopts dual license model restricting commercial use](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) ⭐️ 7.0/10
 
-Kioxia has launched new E1.L SSDs designed for hyperscalers, offering up to 122.88TB of storage in a compact form factor with unspecified performance details.
+Bitwarden has transitioned to a dual licensing model that maintains source availability while restricting specific commercial use cases. This shift allows the company to offer a proprietary license for businesses that exceed certain operational thresholds. This move aligns with broader industry trends like Elasticsearch and Redis, where companies adopt 'source-available' models to prevent free-riding by cloud providers. It impacts the open-source ecosystem by testing the boundaries of sustainable funding for essential security tools. Personal self-hosting and non-commercial use remain fully open-source, but commercial resellers or large-scale operators may require a paid license. Technical users have noted that the standard Chrome extension is performance-heavy, with some achieving under 100ms load times by rewriting it locally.
 
-rss · Tom's Hardware · Oct 9, 10:30
+hackernews · Cider9986 · Oct 10, 14:32 · [Discussion](https://news.ycombinator.com/item?id=50033407)
 
-**Tags**: `#SSD`, `#Storage`, `#Data Centers`, `#Kioxia`, `#Hardware`
+**Background**: A dual licensing model typically offers software under a permissive license for general use and a more restrictive license for commercial purposes. The 'open-core' or 'source-available' approach is often used to prevent hyperscalers from using open-source tools to build competing services without contributing financially. Bitwarden is a popular open-source password manager that provides secure storage for credentials.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50033407">Bitwarden Dual License Model | Hacker News</a></li>
+<li><a href="https://lwn.net/Articles/955018/">Graber: LXD now re- licensed and under a CLA [LWN.net]</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is mixed but generally supportive, with many users understanding the need to protect against low-value reselling while worrying about potential restrictions on self-hosting. Some users are willing to continue paying for premium features to ensure the project's long-term viability, while others criticize the performance of the browser extensions and suggest native OS integration would be superior.
+
+**Tags**: `#licensing`, `#open-source`, `#bitwarden`, `#business-model`, `#software`
 
 ---
 
 <a id="item-7"></a>
-## [微软被暂停参与允许外籍员工申请绿卡的项目](https://www.solidot.org/story?sid=85556) ⭐️ 7.3/10
+## [Hacker News discusses AI-assisted reverse engineering tool REA Reverse](https://rea.tools/) ⭐️ 7.0/10
 
-A digest covering Microsoft's suspension from the H-1B/Permit program due to political backlash, the phased reduction of Let's Encrypt certificate validity to 45 days by 2028, and a confirmation of a strong El Niño event.
+Hacker News is currently discussing 'REA Reverse', a platform that leverages AI to assist in the reverse engineering of legacy binaries. The high-engagement thread features detailed anecdotes of successfully fixing long-standing software bugs using large language models. This development marks a significant shift in how developers interact with legacy code, potentially democratizing complex binary analysis tasks. It suggests that AI tools can bridge the gap between raw machine code and readable logic, impacting security research and software maintenance. Community examples highlight specific successes, such as Claude fixing Windows Remote Desktop client bugs via NOPs and stack offsets, as well as high-quality decompilation of retro games like Touhou 4. Critics note that while AI output is improving, it is often structured for model consumption rather than human readability.
 
-rss · Solidot · Oct 9, 05:47
+hackernews · modinfo · Oct 10, 00:37 · [Discussion](https://news.ycombinator.com/item?id=50028275)
 
-**Tags**: `#H-1B Visas`, `#Microsoft`, `#Let's Encrypt`, `#Security Certificates`, `#Immigration Policy`
+**Background**: Reverse engineering is the process of analyzing a machine code or binary executable to discover the program's algorithms and internal architecture. While decompilers are traditional tools for this, Large Language Models are increasingly capable of interpreting assembly code into high-level languages like C++, often outperforming basic static decompilation tools in accuracy and context.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI-assisted_reverse_engineering">AI - assisted reverse engineering - Wikipedia</a></li>
+<li><a href="https://www.emergentmind.com/topics/decompile-bench-eval">Decompile-Bench-Eval: Decompilation Benchmarks</a></li>
+<li><a href="https://ml4code.github.io/publications/tan2024llm4decompile/">LLM 4Decompile: Decompiling Binary Code with Large Language...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is largely positive regarding the capability of current AI models to handle difficult binary repair tasks, with users reporting a decade-old bug fix. However, there is debate about the "vibe coded" quality of AI decompilations, with some arguing that AI-organized files prioritize logic for models over mirroring original developer intent.
+
+**Tags**: `#Reverse Engineering`, `#AI`, `#Security`, `#Binary Analysis`, `#LLM`
 
 ---
 
 <a id="item-8"></a>
-## [REA Reverse – Engineer Anything](https://rea.tools/) ⭐️ 7.0/10
+## [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) ⭐️ 7.0/10
 
-A Hacker News discussion about REA Reverse, a tool that uses AI to reverse engineer software, which sparked debate on its value over traditional methods and its role in the evolving landscape of AI-driven security analysis.
+A massive breach of Danish citizen registry data occurred after a third-party IT company used the password '123456', leading to unauthorized access for 22 days due to lack of monitoring.
 
-hackernews · modinfo · Oct 10, 00:37 · [Discussion](https://news.ycombinator.com/item?id=50028275)
+hackernews · baal80spam · Oct 10, 09:51 · [Discussion](https://news.ycombinator.com/item?id=50031269)
 
-**Tags**: `#Reverse Engineering`, `#AI Security`, `#LLM Applications`, `#Hacker News`, `#Tooling`
+**Tags**: `#Security`, `#Data Breach`, `#Third-Party Risk`, `#Authentication`, `#Incident Response`
 
 ---
 
 <a id="item-9"></a>
-## [Carrier-Explode Tool Archives and Decodes Mobile Carrier Settings](https://carrierexplode.com/) ⭐️ 7.0/10
+## [Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI](https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/) ⭐️ 7.0/10
 
-A new open-source tool called Carrier-Explode has been released that continuously archives and decodes carrier settings for major phone brands like iPhone, Pixel, and Galaxy. It also includes decoders and explanations for common baseband configurations used in mobile networks. This tool makes the opaque world of carrier settings and baseband firmware accessible for troubleshooting specific network and hardware issues, particularly useful during incidents like the AT&T iPhone lockups. It empowers enthusiasts and developers to diagnose device behavior that is rarely documented officially. The tool focuses on decoding baseband configurations and carrier profiles, though the developer notes that verifying some assumptions is still ongoing. It was recently highlighted for showing how Apple and AT&T disabled 5G Standalone mode to prevent hardware damage on the iPhone 18 Pro Max.
+GlobalFoundries is leveraging strained-silicon FD-SOI technology to deliver 7-nm-class performance for physical AI applications without requiring EUV lithography.
 
-hackernews · simplyalec · Oct 9, 18:10 · [Discussion](https://news.ycombinator.com/item?id=50024499)
+rss · EE Times · Oct 9, 22:00
 
-**Background**: Carrier settings are small configuration files released by mobile network providers to update a device's ability to connect to cellular networks, enabling features like 5G or Wi-Fi calling. The baseband firmware is the dedicated system on a phone that manages all wireless communication, running separately from the main operating system. These internal components are rarely documented by manufacturers, making tools that reverse-engineer them valuable for troubleshooting.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://support.apple.com/en-us/109324">Manually update carrier settings on your iPhone or iPad What Are Carrier Settings On iPhone? - AEANET How to Update Carrier Settings on iPhone - Technobezz What Are Carrier Settings On An iPhone? - AEANET APN Settings for AT&T, Verizon, T-Mobile and US Carriers ... View and edit your APN on your iPhone and iPad</a></li>
-<li><a href="https://webidroid.com/android/what-is-a-baseband-on-android/">What Is a Baseband on Android? Modem Firmware Explained</a></li>
-<li><a href="https://www.aeanet.org/what-are-carrier-settings-on-iphone/">What Are Carrier Settings On iPhone? - AEANET</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Users are enthusiastic about the tool, with one noting it helps diagnose specific carrier restrictions like Personal Hotspot disabling, while another linked it to the AT&T iPhone 18 Pro Max issue where 5G Standalone mode was disabled. Some commenters are exploring how to contribute data to open-source projects like GNOME mobile-broadband-provider-info.
-
-**Tags**: `#mobile`, `#telecom`, `#reverse-engineering`, `#tools`
+**Tags**: `#Semiconductors`, `#GlobalFoundries`, `#Physical AI`, `#FD-SOI`, `#Manufacturing`
 
 ---
 
 <a id="item-10"></a>
-## [AI Analysis of 400-Year Archives Finds Forgotten Meteorite and Lost Rhinos](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) ⭐️ 7.0/10
+## [NVIDIA Reportedly Reserves GB202 Silicon Exclusively for Workstation GPUs](https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus) ⭐️ 6.5/10
 
-Jesse Waites used AI to analyze 400 years of archives, discovering forgotten historical items like a meteorite and lost rhinos. He open-sourced the workflow as a toolkit called Antiquity. This work demonstrates a novel and high-value application of AI in historical research, yielding tangible results by finding lost artifacts and species. The open-sourcing of Antiquity adds significant utility for reproducibility and community use. The Antiquity toolkit enables anyone with a question and a coding agent to conduct similar historical archival investigations. The work was criticized by some for lacking expert-led inquiry, with the process starting from general field selection rather than specific historical questions.
+According to leakers, NVIDIA has stopped allocating GB202 silicon to the RTX 5090, reserving all future supplies exclusively for its RTX PRO workstation lineup. A separate report indicates that the RTX 5090 is reaching end-of-life, with a new RTX 5080 24GB model expected to become the top consumer card. This shift significantly impacts high-end GPU availability, as the most powerful consumer-grade Blackwell silicon is now dedicated to pricier professional products. It suggests NVIDIA is prioritizing higher-margin workstation sales over the enthusiast market for its flagship chips. The GB202 chip powers the RTX PRO 6000 with 24,064 CUDA cores and the RTX PRO 5500 with 84 GB of memory, whereas the RTX 5090 uses the same chip but with fewer cores and less memory. Leakers note that the RTX 5080 24GB version, rumored as the 'RTX 5080 SUPER', may replace the 5090 as the top GeForce card.
 
-hackernews · piratebroadcast · Oct 9, 11:36 · [Discussion](https://news.ycombinator.com/item?id=50019056)
+rss · TechPowerUp News · Oct 10, 11:36
 
-**Background**: Archival science is the discipline of organizing, managing, and interpreting historical records. LLM applications in archival research are still emerging, with recent pilot studies exploring how large language models can enhance archival work and knowledge discovery. This project represents one of the more ambitious applications of AI agents to long-term historical archives.
+**Background**: NVIDIA's Blackwell architecture is its latest generation of GPU designs, manufactured by TSMC. The GB202 is the largest die in this family, previously used for the consumer-facing RTX 5090. The RTX PRO series is NVIDIA's professional workstation line, typically commanding higher prices and prioritizing large memory capacities over raw consumer performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ideals.illinois.edu/items/129992">Archives Meet GPT: A Pilot Study on Enhancing Archival ...</a></li>
-<li><a href="https://www.researchgate.net/publication/384929662_AI_in_Archival_Science_--_A_Systematic_Review">AI in Archival Science -- A Systematic Review - ResearchGate</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GeForce_RTX_50_series">GeForce RTX 50 series - Wikipedia</a></li>
+<li><a href="https://www.techpowerup.com/gpu-specs/docs/nvidia-blackwell-architecture.pdf">Nvidia rtx blackwell</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community responses were mixed, with some praising the work and open-sourcing while others criticized the methodology for starting from a general field rather than specific historical questions. Defenders argued that anti-AI bias is unjustified, noting that similar discoveries made with traditional methods years ago would not have faced such scrutiny.
-
-**Tags**: `#AI`, `#Historical Research`, `#Archival Science`, `#Open Source`, `#LLM Applications`
+**Tags**: `#NVIDIA`, `#GPU`, `#Blackwell`, `#RTX Pro`, `#Hardware Leaks`
 
 ---
 
 <a id="item-11"></a>
-## [Oxide Computer Announces $445 Million Series D Funding](https://oxide.computer/blog/our-445m-series-d) ⭐️ 7.0/10
+## [SoftBank Seeks $100 Billion Middle Eastern Capital for AI-Driven M&A](https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics) ⭐️ 6.5/10
 
-Oxide Computer has raised a $445 million Series D funding round to support its mission of redefining on-premises computing and infrastructure. This investment signals continued confidence in the company's hardware-centric approach to modern computing needs. Oxide's growth highlights the industry's shift toward specialized hardware and "post-PC" infrastructure solutions, which are critical for supporting high-density AI workloads and efficient on-premises data centers. This funding enables them to scale operations and expand their product ecosystem. As a late-stage company raising a Series D, Oxide is likely leveraging this capital for strategic moves such as large-scale supply chain commitments to partners like AMD, or expanding its hardware manufacturing capabilities. While the funding round is a milestone, it also introduces shareholder risk as the company balances its risk-averse nature with aggressive growth.
+SoftBank is raising $100 billion from Middle Eastern investors to create a massive fund for acquiring non-AI companies. The strategic plan is to apply advanced artificial intelligence and robotics to improve the operations and increase the valuations of these acquired firms. This $100 billion initiative represents a massive influx of capital into industrial AI transformation, signaling a major industry shift towards technology-driven value creation. It is expected to accelerate the adoption of robotics and AI across traditional sectors globally. The fund specifically targets companies that do not currently utilize AI or robotics, focusing on post-acquisition integration to enhance operational efficiency. This strategic pivot aligns with SoftBank's broader shift toward sustainable growth and AI-driven investment models.
 
-hackernews · ahlCVA · Oct 9, 13:12 · [Discussion](https://news.ycombinator.com/item?id=50020014)
+rss · Tom's Hardware · Oct 10, 15:40
 
-**Background**: A Series D funding round is a late-stage equity financing stage following Seed, A, B, and C rounds, typically raised by companies that have already demonstrated product-market fit and are preparing for major strategic expansions or potential IPOs. Oxide Computer is a technology company focused on redefining on-premises computing, emphasizing principled engineering and high-quality hardware design.
+**Background**: The SoftBank Vision Fund, founded by Masayoshi Son, is one of the world's largest technology investment vehicles. Traditionally a pioneer in venture capital, SoftBank has recently adjusted its strategy to focus on sustainable growth and AI-driven companies. Integrating AI into industrial robotics often involves machine learning for real-time analysis, predictive maintenance, and autonomous workflow optimization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Series_D_funding">Series D funding</a></li>
-<li><a href="https://oxide.computer/careers">Careers | Oxide Computer Company</a></li>
+<li><a href="https://visionfund.com/">Shared Vision , Amplified Ambition | SoftBank Vision Fund</a></li>
+<li><a href="https://bytebridge.medium.com/softbank-vision-fund-a-comprehensive-overview-76972710c52e">SoftBank Vision Fund : A Comprehensive Overview | Medium</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members generally praised Oxide's unique culture and communication style, though several users expressed frustration with the company's lengthy and uncommunicative hiring process. There was also debate about Oxide's strategic pivot toward AI marketing, with some users feeling that emphasizing AI workloads devalues the company's core image of building high-quality general-purpose servers.
-
-**Tags**: `#Hardware`, `#Funding`, `#Infrastructure`, `#AI`, `#Oxide`
+**Tags**: `#SoftBank`, `#AI Investment`, `#Venture Capital`, `#Robotics`, `#Industry`
 
 ---
 
 <a id="item-12"></a>
-## [Physical AI Needs Neuromorphic Sensor-to-Silicon Architecture](https://www.eetimes.com/physical-ai-needs-a-neuromorphic-path-from-sensor-to-silicon/) ⭐️ 7.0/10
+## [Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan](https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses) ⭐️ 6.5/10
 
-An EE Times article argues that physical AI systems require a neuromorphic architecture to process sensory data effectively, moving away from digital-centric data packaging methods. This architectural shift is significant because it addresses the fundamental mismatch between static digital data and dynamic real-world sensory inputs, which could enable AI systems to interact with the physical world more intelligently. The argument focuses on the need for a continuous, hardware-efficient path from sensor to silicon that mirrors biological systems rather than relying on batch-processed digital data streams.
+A free Steam game demo's high user count resulted in an unexpected $1,000 daily AI bill, forcing the developer to seek a loan and consider switching to local hardware models to reduce costs.
 
-rss · EE Times · Oct 9, 08:39
+rss · Tom's Hardware · Oct 10, 12:52
 
-**Background**: Neuromorphic computing is an interdisciplinary field that designs computational systems inspired by biological nervous systems, including event-based sensors that mimic human vision. Physical AI refers to artificial intelligence that perceives and acts in the physical world using sensory input, which challenges traditional static data processing paradigms.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuromorphic_computing">Neuromorphic computing - Wikipedia</a></li>
-<li><a href="https://www.tutorialspoint.com/neuromorphic-computing/neuromorphic-computing-architecture.htm">Neuromorphic Computing - Architecture - Online Tutorials Library</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Neuromorphic Computing`, `#Physical AI`, `#Sensor Fusion`, `#Hardware Architecture`, `#Embedded Systems`
+**Tags**: `#AI`, `#Game Development`, `#Cost Management`, `#LLM`, `#Steam`
 
 ---
 
 <a id="item-13"></a>
-## [Plasma FIB milling enables 3D TSV misalignment detection](https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/) ⭐️ 7.0/10
+## [Apple macOS removed from official Unix registry](https://www.opengroup.org//openbrand/register/) ⭐️ 6.0/10
 
-An industry report highlights the evolution of failure analysis from a 2D process to a 3D challenge in integrated systems. The report specifically details how plasma focused ion beam (PFIB) milling is used to reveal TSV misalignment. As chips move to 3D integration, standard 2D failure analysis is insufficient, making this 3D capability critical for ensuring modern chip reliability. This technology helps identify manufacturing defects that directly impact the performance and yield of advanced semiconductor devices. The key technical limitation addressed is TSV misalignment, which is detected using plasma focused ion beam milling. This approach allows for the visualization of issues in vertical 3D structures that cannot be seen with traditional top-down methods.
+Apple's macOS has been quietly removed from The Open Group's official Unix registry. This marks a shift in the operating system's official certifications, moving away from its historic Unix status. This reflects the declining practical relevance of Unix certification in a modern developer ecosystem heavily dominated by Linux. It signals an acknowledgment by Apple of current industry realities over legacy branding. Community members noted that the certification historically applied to a non-practical configuration and that some macOS versions like Tahoe remain listed under the Unix 03 standard.
 
-rss · Electronics Weekly · Oct 9, 11:00
+hackernews · john_alan · Oct 10, 10:57 · [Discussion](https://news.ycombinator.com/item?id=50031653)
 
-**Background**: Through-silicon via (TSV) is a conductive pillar used to connect stacked layers of chips in 3D integration. Failure analysis is the process of identifying why a component stops working, which historically focused on the 2D surface of chips. With 3D stacking, defects can occur deep within the structure, requiring new analysis techniques.
+**Background**: The Open Group holds the trademark for the name "Unix" and maintains a registry of operating systems certified to comply with specific Unix standards, such as Single UNIX Specification or Unix 03. Apple previously held these certifications to legitimize macOS in the enterprise and developer sectors during the early 2000s when Linux was emerging.
 
-**Tags**: `#3D Integration`, `#TSV`, `#Failure Analysis`, `#Semiconductor Manufacturing`, `#Chip Reliability`
+**Discussion**: Users generally agree that this move is a realistic acknowledgment of Linux's dominance, noting that developers target Linux rather than Unix standards for production. There is some debate over the title's use of "silently" and the exact certification status of current macOS versions.
+
+**Tags**: `#operating-systems`, `#apple`, `#unix`, `#linux`, `#industry-trends`
 
 ---
 
 <a id="item-14"></a>
-## [Sony Patent Enables Stream Viewers to Control Adaptive Cursors and Trigger Game Events](https://www.techpowerup.com/353573/sony-patent-describes-stream-viewers-controlling-a-cursor-on-the-streamers-screen) ⭐️ 6.5/10
+## [Microsoft Tests Faster Xbox PC App Codenamed 'Garrison'](https://www.techpowerup.com/353580/microsoft-is-testing-a-faster-xbox-pc-app-codenamed-garrison) ⭐️ 5.5/10
 
-Sony was granted US Patent 12,752,199, filed in October 2023 and issued on October 6, which describes a system where livestream viewers control an adaptive cursor on the streamer's screen. The patent details how viewers can trigger game-specific actions and send haptic feedback reactions to the streamer. This patent could fundamentally change livestreaming dynamics by shifting viewers from passive consumers to active participants who can physically guide gameplay. It provides a framework for more immersive and personalized viewer engagement in the gaming industry. The system limits the screen to one visible cursor at a time, using a queue based on viewer engagement points to pass control. The streamer receives viewer reactions through haptic feedback on controllers or VR headsets, while publishers define specific game actions using an SDK.
+Microsoft is developing a rebuilt Xbox PC application codenamed 'Garrison,' which significantly improves load times and performance for large game libraries compared to the current version. Early hands-on testing reveals that the new app is much faster, even with libraries containing over 1,400 titles, and offers improved layouts for both mouse/keyboard and controller inputs. This update addresses a major pain point for PC gamers who rely on the Xbox app to manage large game collections, enhancing usability and integration with Windows 11. By improving performance and adding an 'Xbox mode' default home screen option, Microsoft aims to better compete with other PC gaming platforms and consolidate its gaming ecosystem on Windows. The new app merges game and store listings into a single page and clearly distinguishes between locally installable games and those available only via Xbox Cloud Gaming streaming. While the design and performance are improved, the store pages are not yet fully functional in the current early build.
 
-rss · TechPowerUp News · Oct 10, 00:19
+rss · TechPowerUp News · Oct 10, 13:19
 
-**Background**: Livestreaming platforms like Twitch and YouTube typically limit interaction to text chat or simple emotes, where viewers cannot directly influence the game being played. Haptic feedback technology provides physical sensations, such as vibration, through controllers or wearables to simulate touch. An SDK (Software Development Kit) is a toolset that allows developers to build applications or integrations for a specific platform, in this case to enable specific viewer interactions.
+**Background**: The Xbox app for PC allows users to purchase, download, and manage their games on Windows devices, and it is central to Microsoft's strategy to integrate Xbox services with Windows. Previously, Microsoft expanded 'Xbox mode' to laptops, desktops, and tablets, allowing the gaming interface to become the default home screen upon booting into gaming mode. The current app has long been criticized for being slow, particularly when loading large libraries or the digital store.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/353573/sony-patent-describes-stream-viewers-controlling-a-cursor-on-the-streamers-screen">Sony Patent Describes Stream Viewers Controlling a Cursor on ...</a></li>
-<li><a href="https://mangodeveloper.com/articles/sony-patents-viewer-controlled-cursors-that-can-trigger-in-game-events-during-livestreams">Sony Patents Viewer-Controlled Cursors That Can Trigger In ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Streaming`, `#Gaming`, `#Patents`, `#Sony`, `#User Interaction`
+**Tags**: `#Gaming`, `#Microsoft`, `#Consumer Hardware`, `#Software Updates`
 
 ---
 
 <a id="item-15"></a>
-## [Global PC Shipments Plunge 20% in Q3 2026 Amid Chip Shortages](https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year) ⭐️ 6.5/10
+## [Sony patent grants stream viewers control over in-game cursor and actions](https://www.techpowerup.com/353573/sony-patent-describes-stream-viewers-controlling-a-cursor-on-the-streamers-screen) ⭐️ 5.5/10
 
-PC shipments in the third quarter of 2026 experienced a drastic decline of 15.8 million units year-over-year, with top vendors like Lenovo, HP, and Dell being the most severely impacted by persistent chip shortages. This significant downturn signals a prolonged supply chain crisis that will likely keep consumer and enterprise hardware prices elevated, influencing budgeting decisions and investment strategies across the tech industry. While memory chip manufacturers predict that the shortage will not improve until 2028 or 2029, Acer holds a more optimistic view, expecting PC prices to start declining by late 2027.
+Sony was granted US patent 12,752,199 for a system that allows livestream viewers to control a cursor on a streamer's screen and trigger specific in-game actions. The patent, filed in October 2023 and issued on October 6, enables viewers to point out gameplay elements and send reactions that the streamer can feel as vibrations. This patent represents a shift toward highly interactive live streaming where audiences influence gameplay mechanics, potentially transforming how developers design multi-player experiences on digital platforms. By blurring the line between spectator and participant, it creates new engagement models for content creators and game publishers. The system restricts active control to one cursor at a time, using a queue based on viewer engagement points to rotate control. Publishers define available viewer actions through an SDK, and supported client devices include consoles from Sony, Microsoft, and Nintendo.
 
-rss · Tom's Hardware · Oct 9, 11:10
+rss · TechPowerUp News · Oct 10, 00:19
 
-**Background**: The PC industry relies heavily on global semiconductor supply chains for components like memory chips, which are essential for system performance. A 'shortage' in these components forces manufacturers to ration production, leading to reduced shipping volumes and often increased prices for end-users.
+**Background**: Live streaming platforms like Twitch and YouTube Gaming traditionally position viewers as passive spectators who can only chat or send superchat donations. Recent trends in gaming have moved toward more interactive formats, such as 'Play With Me' or 'Audience Controlled' streams, where viewers influence the game. Hardware feedback like haptics in controllers or VR headsets provides a physical way for streamers to perceive these virtual interactions.
 
-**Tags**: `#Hardware`, `#Supply Chain`, `#PC Industry`, `#Memory Chips`, `#Market Analysis`
+**Tags**: `#Sony`, `#Patent`, `#Live Streaming`, `#Gaming`, `#User Interaction`
 
 ---
 
 <a id="item-16"></a>
-## [Cinematic Minesweeper Remake Nostalgia vs Modern UI Debate](https://minesweeper.mikelacher.com/) ⭐️ 6.0/10
+## [Modder Straps 360mm AIO Radiator to Laptop, Cuts Temps Below 40 Degrees](https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks) ⭐️ 5.5/10
 
-Mikelacher released a cinematic reimagining of the classic Minesweeper game, featuring long narrative sequences and a 'Triple-A' title style, which sparked widespread discussion in the community. This project contrasts nostalgic, clever web engineering with modern, mobile-app-influenced over-designed interfaces. The project highlights the enduring value of the 'Classical Web' era, where developers could execute clever, interactive ideas without heavy frameworks, appealing to those nostalgic for that era. It also serves as a cultural touchpoint for the community to debate the degradation of legacy Windows applications in favor of modern, monetization-driven designs. The implementation specifically features a non-stopping narration and a 'Kojima-style' opening cutscene, which some users initially mistook for a non-interactive video. One commenter noted that as of Windows 8, Microsoft replaced the original Minesweeper with a mobile-game-inspired app that includes daily challenges and in-game purchases.
+PC modder TrashBench attached a 360mm AIO radiator to a laptop, cutting load temperatures by up to 64°C. This extreme modification achieved an average of 14% performance gain in games and benchmarks. This mod serves as a curiosity and stress test, demonstrating the limits of thermal constraints and the potential performance gains from aggressive cooling. It is not a practical or reproducible solution for general users, but highlights the potential of custom liquid cooling in portable hardware. The modified setup lowers load temperatures below 40°C and allows for significant GPU overclocking, driving the performance gains. The mod completely sacrifices the portability and definition of a laptop for raw performance.
 
-hackernews · robin_reala · Oct 9, 15:51 · [Discussion](https://news.ycombinator.com/item?id=50022292)
+rss · Tom's Hardware · Oct 10, 11:00
 
-**Background**: Minesweeper is a logic puzzle game that has been a standard utility in Windows operating systems for decades, originating as a tool for training mine detectors during the Cold War. The term 'Triple-A' typically refers to video games with large production budgets, high-quality assets, and major studio support, a term usually applied to console titles rather than browser-based novelty projects. The 'Classical Web' or 'Renaissance era of the web' refers to the late 1990s and early 2000s period characterized by individual creativity, dynamic server-side technologies, and a less commercialized internet environment.
+**Background**: AIO (All-in-One) liquid coolers use sealed systems with a pump, water block, and radiator to move heat away from a processor. In laptops, these systems are typically much smaller and thinner, causing severe thermal throttling under load. Modding a desktop-sized 360mm radiator onto a laptop allows for massive heat dissipation, effectively bypassing the thermal limitations of a portable chassis.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=50024660">the non-stopping narration makes it so hard to actually... | Hacker News</a></li>
+<li><a href="https://www.tweaktown.com/news/113915/modder-glues-360mm-radiator-to-gtx-1060-laptop-resulting-in-up-to-14-percent-higher-frame-rates-in-games/index.html">Modder glues 360 mm radiator to GTX 1060 laptop resulting in up to...</a></li>
+<li><a href="https://www.linkedin.com/pulse/liquid-cooling-laptops-how-your-next-machine-stays-cool-p6a9f">Liquid Cooling in Laptops: How Your Next Machine Stays Cool...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is highly positive, with several users drawing comparisons to Metal Gear Solid's cinematic style and praising the project's execution. However, some expressed frustration that the lengthy, non-stopping narration made it difficult to distinguish the interactive game from a long cutscene, while others criticized the modern, mobile-app-inspired version of Minesweeper found in Windows 8.
-
-**Tags**: `#Web`, `#Creative-Coding`, `#Game-Development`, `#Nostalgia`, `#UI-Design`
+**Tags**: `#Hardware Modding`, `#Liquid Cooling`, `#Laptops`, `#Performance Tuning`, `#PC Building`
 
 ---
 
 <a id="item-17"></a>
-## [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) ⭐️ 6.0/10
+## [3D-Printed Jet Turbine RC Aircraft Aims for Mach 0.8 Record](https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials) ⭐️ 5.5/10
 
-A YouTuber reports police visitation after building a device to track police vehicles using Flock-style cameras, sparking a debate on surveillance asymmetry, legal boundaries for ALPR data, and civil liberties.
+A team of graduates successfully flew the 'Kingchaser,' the world's first 3D-printed remote-control aircraft equipped with a jet turbine engine. The aircraft is constructed primarily from PETG, PPS-CF, carbon-fiber rods, and aluminum, and is now targeting a speed of Mach 0.8 to break the world record for the fastest model aircraft. This achievement demonstrates that advanced additive manufacturing techniques can produce high-performance aerospace components capable of withstanding jet turbine stresses. It pushes the boundaries of model engineering, proving that standard 3D-printed materials can be used for near-supersonic flight rather than just slow-speed models. The aircraft utilizes a jet turbine engine rather than a conventional piston or electric motor, which is significant for achieving high speeds. The team specifically stated that the structure is mostly printed using standard PETG material, supplemented by carbon-fiber reinforcement and aluminum components for structural integrity.
 
-hackernews · gumby · Oct 9, 21:06 · [Discussion](https://news.ycombinator.com/item?id=50026555)
+rss · Tom's Hardware · Oct 10, 10:00
 
-**Tags**: `#civil_liberties`, `#surveillance`, `#ALPR`, `#privacy`, `#law_enforcement`
-
----
-
-<a id="item-18"></a>
-## [U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge](https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/) ⭐️ 6.0/10
-
-U.S. manufacturing activity extended its growth streak to nine months in September, driven by surging backlogs despite rising costs and trade barriers.
-
-rss · EE Times · Oct 9, 12:11
-
-**Tags**: `#Manufacturing`, `#Supply Chain`, `#Semiconductors`, `#Economic Trends`
-
----
-
-<a id="item-19"></a>
-## [Axiom Space Progress on ARC Orbital Compute Platform](https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/) ⭐️ 6.0/10
-
-Axiom Space announced progress on its Axiom Resilient Compute (ARC) platform for orbital computing services. This includes two operational on-orbit nodes and a successful ground-based Post-Quantum Cryptography migration. This marks a step toward a distributed model for space-based workload orchestration, AI/ML processing, and post-quantum secure communications. It helps reduce reliance on ground-based systems and strengthens global data sovereignty. The ARC platform is designed for a 'Kepler Ready' architecture, enabling faster storage and processing of satellite data in orbit. It supports both high-security use cases independent of terrestrial cloud infrastructure and distributed space-based workload orchestration.
-
-rss · Electronics Weekly · Oct 9, 14:13
-
-**Background**: Axiom Space is a company specializing in human spaceflight services and space infrastructure, including orbital data centers. Orbital computing aims to use space-based solar power and enhanced cooling to create a cloud that brings the power of computing above Earth's surface. This technology promises unparalleled computational power, data storage capacity, and connectivity on a planetary scale.
+**Background**: Mach 0.8 represents 80% of the speed of sound, which is roughly 843 kilometers per hour at sea level. In aviation, this speed is typical for commercial business jets and is significantly faster than traditional model aircraft, which usually rely on electric motors or low-output piston engines that struggle to maintain aerodynamic stability at such velocities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.axiomspace.com/release/axiom-space-kepler-ready-orbital-computing-for-quantum-era">Axiom Space, Kepler Ready Orbital Computing for Quantum Era</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Space-based_data_center">Space-based data center - Wikipedia</a></li>
+<li><a href="https://tech.yahoo.com/science/articles/world-first-3d-printed-remote-100000396.html">World’s first 3 D - printed remote control aircraft with a jet turbine takes...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Space Technology`, `#Orbital Computing`, `#Axiom Space`, `#Space Infrastructure`, `#Hardware`
-
----
-
-<a id="item-20"></a>
-## [Gigabyte BIOS Updates Confirm Imminent 2027 Intel DDR4 Processors](https://www.techpowerup.com/353552/gigabyte-bios-update-points-to-new-ddr4-intel-processors-coming-next-year) ⭐️ 5.5/10
-
-Gigabyte released BIOS updates for B760 and H610 motherboards to support new LGA1700 processors, expected to launch in early 2027. This update provides strong evidence that Intel's rumored 'Raptor Lake Next' refresh is imminent, which will make DDR4-capable CPUs more accessible for budget-conscious users. The BIOS updates currently cover B760 and H610 boards; there is no word on Z790 or Z660 support, and the update was rolling out quietly even before the formal press release.
-
-rss · TechPowerUp News · Oct 9, 12:37
-
-**Background**: LGA1700 is a physical socket for Intel's 12th and 13th-generation CPUs, while DDR4 and DDR5 are types of system memory. 'Raptor Lake Next' is a rumored refresh of existing Raptor Lake processors, which would provide a cost-effective option for users who cannot afford the latest DDR5-only platforms.
-
-**Tags**: `#Intel`, `#Hardware`, `#BIOS`, `#LGA1700`, `#Rumor`
+**Tags**: `#3D-Printing`, `#Aerospace`, `#Engineering`, `#Jet-Propulsion`, `#Hobby`
 
 ---

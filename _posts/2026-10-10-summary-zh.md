@@ -5,383 +5,314 @@ date: 2026-10-10
 lang: zh
 ---
 
-> 从 76 条内容中筛选出 20 条重要资讯。
+> 从 43 条内容中筛选出 17 条重要资讯。
 
 ---
 
-1. [Cloudflare 收购 Deno，独立运行时合并至 Workers 生态](#item-1) ⭐️ 9.0/10
-2. [独立基准测试显示 Mistral Large 4 落后于中国开源模型](#item-2) ⭐️ 8.5/10
-3. [Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元](#item-3) ⭐️ 8.0/10
-4. [AnyPS5 完成 100% PS5 GPU 着色器指令翻译](#item-4) ⭐️ 7.5/10
-5. [Frore Systems 发布用于 AI 工厂的金刚石 LiquidJet 冷板](#item-5) ⭐️ 7.5/10
-6. [Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity](#item-6) ⭐️ 7.5/10
-7. [微软被暂停参与允许外籍员工申请绿卡的项目](#item-7) ⭐️ 7.3/10
-8. [REA Reverse – 反向工程任意事物](#item-8) ⭐️ 7.0/10
-9. [Carrier-Explode 工具归档并解码移动运营商设置](#item-9) ⭐️ 7.0/10
-10. [AI 分析 400 年档案发现遗忘陨石与失落犀牛](#item-10) ⭐️ 7.0/10
-11. [Oxide Computer 宣布完成 4.45 亿美元 D 轮融资](#item-11) ⭐️ 7.0/10
-12. [物理 AI 需要神经形态传感器至芯片架构](#item-12) ⭐️ 7.0/10
-13. [等离子聚焦离子束磨削实现 3D TSV 错位检测](#item-13) ⭐️ 7.0/10
-14. [索尼专利允许直播观众控制自适应光标并触发游戏事件](#item-14) ⭐️ 6.5/10
-15. [2026 年第三季度全球 PC 出货量因芯片短缺暴跌 20%](#item-15) ⭐️ 6.5/10
-16. [电影感扫雷重制引发怀旧与现代 UI 设计之争](#item-16) ⭐️ 6.0/10
-17. [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](#item-17) ⭐️ 6.0/10
-18. [U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge](#item-18) ⭐️ 6.0/10
-19. [Axiom Space 在 ARC 轨道计算平台上取得进展](#item-19) ⭐️ 6.0/10
-20. [技嘉 BIOS 更新确认英特尔新 DDR4 处理器即将面世](#item-20) ⭐️ 5.5/10
+1. [顶尖人工智能实验室制定灾难性故障应急计划](#item-1) ⭐️ 8.5/10
+2. [AnyPS5 项目实现 GPU 着色器指令 100% 覆盖率](#item-2) ⭐️ 8.5/10
+3. [Telegram 桌面版一键漏洞可窃取文件并接管账号](#item-3) ⭐️ 8.0/10
+4. [乌克兰无人机袭击俄罗斯最大 Yandex 数据中心](#item-4) ⭐️ 7.5/10
+5. [全球 PC 三季度出货量因 AI 致内存涨价暴跌超 20%](#item-5) ⭐️ 7.3/10
+6. [Bitwarden 采用双重许可模式，限制商业用途](#item-6) ⭐️ 7.0/10
+7. [Hacker News 讨论 AI 辅助逆向工程工具 REA Reverse](#item-7) ⭐️ 7.0/10
+8. [丹麦 CPR 数据泄露事件中使用“123456”弱密码](#item-8) ⭐️ 7.0/10
+9. [曼弗雷德·霍斯特曼：GlobalFoundries 押注 FDX Fusion 技术赋能物理 AI](#item-9) ⭐️ 7.0/10
+10. [英伟达据报将 GB202 芯片 exclusively 专用于工作站 GPU](#item-10) ⭐️ 6.5/10
+11. [软银寻求中东投资者 1000 亿美元资金用于人工智能驱动的并购](#item-11) ⭐️ 6.5/10
+12. [Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan](#item-12) ⭐️ 6.5/10
+13. [苹果 macOS 被移出官方 Unix 注册表](#item-13) ⭐️ 6.0/10
+14. [微软测试代号为“Garrison”的更快 Xbox PC 应用](#item-14) ⭐️ 5.5/10
+15. [索尼专利授权观众控制游戏光标与操作](#item-15) ⭐️ 5.5/10
+16. [改装者将 360mm AIO 散热器绑在笔记本上，温度降至 40 度以下](#item-16) ⭐️ 5.5/10
+17. [3D 打印喷气涡轮遥控飞机旨在冲击 0.8 马赫纪录](#item-17) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Cloudflare 收购 Deno，独立运行时合并至 Workers 生态](https://deno.com/blog/cloudflare) ⭐️ 9.0/10
+## [顶尖人工智能实验室制定灾难性故障应急计划](https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc) ⭐️ 8.5/10
 
-Cloudflare 收购了 Deno，并将在一年内提供 Deno 运行时的错误修复和安全更新，随后停止其独立开发。Deno 将保持开源，但其路线图将聚焦于合并至 Cloudflare Workers 生态系统。 此次收购标志着独立于 Node.js 的替代运行时时代结束，主要 JavaScript 运行时之一现与 Cloudflare 边缘平台绑定。它反映了大型平台吸收新兴技术的开发者工具整合趋势。 此次收购实质上是一次“夺才收购”，Cloudflare 正在吸收 Deno 团队和技术，而不仅仅是产品。社区的一个显著担忧是，此前向 npm 兼容性的转变已使 Deno 原本极简的设计变得臃肿。
+据报道，Anthropic 和 OpenAI 正在制定针对灾难性 AI 事件的高层应急预案，重点在于模拟失控 AI 的场景以及管理国会随后的立法审查。 这一举措表明，人工智能行业正从抽象的安全讨论转向具体的危机管理，凸显了企业风险缓解与公共政策之间战略性的交汇点。 这些应急策略主要针对政治影响，特别是实验室在严重故障发生后如何与国会议员及公众打交道。
 
-hackernews · ilreb · 10月9日 13:03 · [社区讨论](https://news.ycombinator.com/item?id=50019911)
+rss · Tom's Hardware · 10月10日 13:20
 
-**背景**: Deno 是由 Ryan McDermott 创建的默认安全的 JavaScript 运行时，最初以简洁性和内置工具闻名。Cloudflare Workers 是一个边缘计算平台，允许开发者在靠近用户的网络边缘运行代码。夺才收购是企业收购初创公司主要为了获取其人才和技术的一种策略。
+**背景**: 灾难性人工智能失效是指人工智能系统造成重大危害或失控的假设性场景。在此背景下，应急计划涉及制定具体措施，以管理突发事件以及此类失效带来的长期社会或立法后果。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://blog.logrocket.com/dev/what-is-deno/">What is Deno , and how is it different from Node . js ? - LogRocket Blog</a></li>
-<li><a href="https://www.geeksforgeeks.org/computer-networks/what-is-cloudflare/">What is Cloudflare | How it Works and When do you... - GeeksforGeeks</a></li>
-<li><a href="https://www.cloudflare.com/learning/serverless/what-is-serverless/">What is serverless computing ? | Learning Center</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区反应普遍消极，开发者对在喜爱的运行时终结表示惋惜，并批评此前将 npm 兼容置于原始愿景之上的战略转变。部分用户认为此举是开发者工具领域持续整合浪潮的一部分。
-
-**标签**: `#JavaScript`, `#Cloudflare`, `#Deno`, `#Web Development`, `#Tech Acquisition`
+**标签**: `#AI Safety`, `#AI Governance`, `#Industry News`, `#Legislation`, `#Risk Management`
 
 ---
 
 <a id="item-2"></a>
-## [独立基准测试显示 Mistral Large 4 落后于中国开源模型](https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts) ⭐️ 8.5/10
+## [AnyPS5 项目实现 GPU 着色器指令 100% 覆盖率](https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off) ⭐️ 8.5/10
 
-来自 Artificial Analysis 的独立基准测试将 Mistral 新推出的 Large 4 评分为 38，使其落后于来自小米、Z.ai、Moonshot 和 DeepSeek 等中国开发者的领先开放权重模型。结果显示，Mistral Large 4 是除美国和中国之外表现最佳的模型，但已被中国开源竞争对手超越。 这一表现转变表明，开放权重的中国模型正迅速缩小与全球顶级 AI 模型的差距，挑战了美国和欧洲的主导地位。它凸显了一个新的竞争格局，即像 Mistral 这样非美、非中的模型面临巨大压力，需要在基准测试分数之外寻求差异化优势。 Mistral Large 4 拥有 1.05 万亿总参数的混合专家架构，每标记激活 49B 参数，并支持 1M 上下文窗口。尽管在早期预览中在代码和视觉任务上表现领先，但其整体基准分数目前低于特定的开放权重中国模型。
+开源 AnyPS5 项目已实现 GPU 着色器指令的 100% 覆盖率，这是逆向工程 PlayStation 5 图形流水线的关键里程碑。这一进展表明该项目现在能够完整解读 PS5 GPU 架构所使用的特定着色器指令。 实现完整的着色器指令覆盖率极大地加速了在 PC 上原生运行专有 PS5 游戏且无硬件虚拟化开销的目标。这一突破为开源社区提供了高性能游戏主机模拟所必需的底层图形翻译层，具有重要的技术意义。 尽管 100% 指令覆盖率是一项重要的技术成就，但由于其他未解决的系统级挑战，PS5 游戏在 PC 上的完全原生执行仍遥遥无期。该里程碑证实 GPU 翻译层已足够成熟，能够处理完整的 PS5 图形指令范围而不会留下显著空白。
 
-rss · Tom's Hardware · 10月9日 11:00
+rss · Tom's Hardware · 10月10日 11:30
 
-**背景**: 混合专家（MoE）架构通过选择性激活输入的参数子集，允许拥有更大的总模型规模，而无需按比例增加每个标记的计算成本。开放权重模型是指开发者发布模型权重，允许他人进行微调或在本地运行的 AI 模型，这是其与闭源 API 模型的关键区别。近年来，中国科技公司越来越多地发布了高性能的开放权重模型，为以美国为中心的 AI 实验室提供了具有竞争力的替代方案。
+**背景**: PlayStation 5 使用基于 AMD RDNA 的图形硬件，这使得在没有软件桥接的情况下直接在标准 PC 组件上运行其游戏变得困难。AnyPS5 等项目是逆向工程主机架构的开源运动的一部分，旨在通过将主机专用指令转换为 PC GPU 可执行的格式来绕过硬件依赖。着色器指令覆盖率是指模拟器成功识别并转换的 GPU 命令百分比。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://artificialanalysis.ai/">AI Model & API Providers Analysis | Artificial Analysis</a></li>
-<li><a href="https://docs.mistral.ai/models/mistral-large-4-0">Mistral Large 4 - Mistral AI | Mistral Docs</a></li>
-<li><a href="https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model">Europe's Mistral launches Large 4 to challenge China's lead ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#LLM`, `#Benchmarks`, `#Open-Source AI`, `#Mistral`, `#China Tech`
+**标签**: `#Emulation`, `#GPU`, `#Open Source`, `#PlayStation 5`, `#Reverse Engineering`
 
 ---
 
 <a id="item-3"></a>
-## [Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元](https://typesafe.ai/blog/series-ai) ⭐️ 8.0/10
+## [Telegram 桌面版一键漏洞可窃取文件并接管账号](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) ⭐️ 8.0/10
 
-Typesafe AI 成功获得 8.7 亿美元融资，估值达到 75 亿美元。尽管有评论人士认为其决策模型容易被 OpenAI 和 Microsoft 等竞争对手复制，但公司依然完成了此次融资。 这一高估值表明投资者对专业化 AI 决策模型工具的信心仍在，但它也引发了外界对于在快速变化的市场中，工程质量与强大的市场营销能否维持竞争壁垒的审视。 竞争对手的模型如 OpenAI 的 Decisions API 和 Microsoft 的 Decision-1 已经发布，且开源的替代方案也可以在本地进行微调，达到相近的性能水平。
+Telegram 桌面版被发现存在一个严重漏洞，攻击者只需用户单次交互即可窃取文件或接管账号。这个一键式漏洞暴露了桌面应用在处理不受信任输入时的重大缺陷。 该漏洞对 Telegram 庞大的用户群构成严重威胁，可能导致大规模数据泄露和账号被盗。它凸显了软件开发者实施严格沙盒机制并限制默认文件访问的紧迫性。 该漏洞允许恶意内容绕过常规安全检查，表现得如同一个可用于任意代码执行的虚拟机。此漏洞表明，复杂的输入格式可能会无意间向应用程序授予过高的权限。
 
-hackernews · tosh · 10月9日 17:02 · [社区讨论](https://news.ycombinator.com/item?id=50023450)
+hackernews · g-b-r · 10月10日 03:02 · [社区讨论](https://news.ycombinator.com/item?id=50029123)
 
-**背景**: 决策模型是一种专为处理复杂、多步推理及特定上下文中的事实核查而设计的 AI 工具。与仅仅生成文本的标准聊天机器人不同，这些模型会解析用户输入和外部数据，从而提供高准确率的结构化答案，这对于需要高可靠性而非创造性生成的企业应用至关重要。Typesafe AI 发布了名为 Jev 的模型以在此细分市场展开竞争。
+**背景**: 沙盒技术是一种用于隔离进程并限制其访问系统资源和文件的安全手段。现代操作系统通常允许程序默认读写文件，如果存在允许代码执行绕过标准权限的漏洞，这种设计就会被利用。
 
-**社区讨论**: 社区情绪存在分歧，有人认为当一家公司具备强大的工程和营销能力以占领市场份额时，缺乏技术护城河是无足轻重的。另一些人则持怀疑态度，指出在 Jev 发布后的几天内，主要科技公司和开源开发者就发布了类似模型，并质疑其估值反映的是实际效用还是仅仅是炒作。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.virtualcuriosities.com/articles/2443/danger-any-program-can-delete-all-your-files">Danger: Any Program Can Delete All Your Files - Virtual Curiosities</a></li>
+<li><a href="https://quickconnect.app/securing-file-access-for-ai-tools-technical-controls-for-des">Securing Desktop AI File Access : OS Controls & Sandboxing</a></li>
 
-**标签**: `#AI`, `#Venture Capital`, `#Decision Models`, `#Startups`, `#Hype Cycle`
+</ul>
+</details>
+
+**社区讨论**: 社区成员强烈批评桌面软件默认缺乏沙盒保护，并强调最小权限原则。部分用户还表达了对 Telegram 安全策略的不满，例如重新启用已被禁用的设置，并倾向于使用基于浏览器的解决方案以降低风险。
+
+**标签**: `#security`, `#vulnerability`, `#desktop-apps`, `#sandboxing`, `#telegram`
 
 ---
 
 <a id="item-4"></a>
-## [AnyPS5 完成 100% PS5 GPU 着色器指令翻译](https://www.techpowerup.com/353547/anyps5-achieves-full-ps5-gpu-shader-instruction-translation) ⭐️ 7.5/10
+## [乌克兰无人机袭击俄罗斯最大 Yandex 数据中心](https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out) ⭐️ 7.5/10
 
-开源项目 AnyPS5 成功解码并翻译了 100% 的 PlayStation 5 GPU 着色器指令，全面覆盖了基于 RDNA 2 架构的 1,166 条指令。这使得该项目能够将指令重新编译为 SPIR-V 以通过 Vulkan 执行，而非使用传统模拟。 这一里程碑通过在现代 PC 上实现 PS5 游戏的原生执行，大幅降低了性能开销，类似于 Wine 或 Proton 处理 Linux 应用程序的方式。这代表了从硬件模拟向兼容性层方法的重大转变，有望在 PC 硬件上解锁高保真度的主机游戏体验。 虽然 GPU 翻译已完成，但项目仍需翻译系统库以确保完整功能，目前 3,034 个原生 PS5 库中已翻译 2,573 个（占 84.81%）。该方法依赖于 PS5 的 x86-64 Zen 2 CPU 与现代 PC 架构相似这一事实，从而允许 CPU 代码无需模拟即可运行。
+乌克兰无人机袭击了俄罗斯卡卢加州的 Yandex 主要数据中心，导致多个模块离线并中断服务。此事件发生在两天前位于萨索沃的 Yandex 数据中心遭遇类似无人机袭击之后。 针对俄罗斯最大数据中心的袭击凸显了关键数字基础设施在物理战争和地缘政治冲突中日益增长的脆弱性。它强调了依赖 Yandex 平台的用户面临的数据冗余和云服务可用性重大风险。 卡卢加数据中心占地约 140 万平方英尺，位于莫斯科以南约 200 英里处。Yandex 目前在俄罗斯运营五个大型数据中心，包括弗拉基米尔、萨索沃、伊万捷夫卡、梅季希奇和卡卢加州的设施。
 
-rss · TechPowerUp News · 10月9日 09:07
+rss · Tom's Hardware · 10月10日 10:30
 
-**背景**: PS5 采用了基于 RDNA 2 架构的 AMD Oberon GPU 以及 x86-64 Zen 2 CPU。与传统模拟硬件的模拟器不同，像 Wine 这样的兼容性层通过动态链接系统调用，允许 Windows 程序在 Linux 上运行。AnyPS5 将此原生执行模型应用于移植，将控制台专有的着色器重新编译为 SPIR-V，这是一种受 Vulkan 图形 API 支持的中间语言。
+**背景**: Yandex 是一家主要的俄罗斯科技公司，常被称为“俄罗斯谷歌”，提供搜索引擎、云服务和其他数字平台。萨索沃数据中心位于 Sasta 机床工厂厂区内，该工厂生产用于俄罗斯国防和工业领域的金属切割和 CNC 机床。由于其在俄罗斯国防工业中的作用，Sasta 工厂自 2024 年以来受到英国制裁。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/353098/anyps5-project-skips-emulation-entirely-aims-to-port-playstation-5-games-to-pc-directly">AnyPS 5 Project Skips Emulation Entirely, Aims to Port... | TechPowerUp</a></li>
-<li><a href="https://www.videogamer.com/tech/gpu/what-is-the-equivalent-of-the-ps5/">What is the PS 5 's graphics card? The GPU equivalent - VideoGamer</a></li>
-<li><a href="https://wccftech.com/playstation-ends-single-player-pc-ports-anyps5-god-of-war-laufey/">PlayStation Ended Single-Player PC Ports, But AnyPS 5 Could Hand...</a></li>
+<li><a href="https://www.yahoo.com/news/world/articles/ukrainian-drones-strike-largest-data-103000101.html">Ukrainian drones strike largest data center in Russia, multiple parts of...</a></li>
+<li><a href="https://kyivindependent.com/russias-largest-yandex-data-center-reportedly-hit-in-drone-attack/">Russia's largest Yandex data center reportedly hit in drone attack</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia/">Yandex data center hit in drone attack in Russia - DCD</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GPU`, `#Game-Emulation`, `#Vulkan`, `#System-Engineering`, `#PlayStation`
+**标签**: `#data-center`, `#cybersecurity`, `#geopolitics`, `#yandex`, `#infrastructure`
 
 ---
 
 <a id="item-5"></a>
-## [Frore Systems 发布用于 AI 工厂的金刚石 LiquidJet 冷板](https://www.techpowerup.com/353544/frore-systems-announces-new-liquidjet-diamond-coldplates-for-ai-factories) ⭐️ 7.5/10
+## [全球 PC 三季度出货量因 AI 致内存涨价暴跌超 20%](https://www.solidot.org/story?sid=85572) ⭐️ 7.3/10
 
-Frore Systems 发布了 LiquidJet Diamond，这是一款集成了金刚石扩散器的新型液冷冷板，旨在改善 AI 工厂的热管理。与该公司之前的型号相比，这款新产品使 GPU 芯片结温额外降低了 10°C，从而将 token 效率提升 25%，并将营收提高 35%。 随着 AI token 需求的激增和能源的日益短缺，最大限度地提高 AI 工厂的效率对超大规模云服务商至关重要。这项技术为将电力转化为计算工作提供了重大优势，直接影响了大规模 AI 基础设施的盈利能力和可持续性。 LiquidJet Diamond 冷板在 3D 超短回路多级设计中增加了金刚石晶圆，以针对现代 GPU 的极端热点。虽然效果显著，但金刚石热扩散器的成本远高于传统铜质材料，企业采用时需从整体经济性角度进行考量。
+2026 年第三季度全球 PC 出货量同比下跌 21.2%至 5810 万台，主要原因是 AI 热潮导致的内存和存储价格暴涨。受此影响，制造商正在新款主板上重新启用 DDR4 内存以降低成本。 这一显著下降表明，对 AI 硬件的需求正使传统 PC 市场面临严重的零部件短缺，影响了联想、惠普和戴尔等主要厂商。这突显了 AI 热潮正给消费电子行业带来实质性的通胀和技术的倒退。 Omdia 估计，由于价格上涨了四倍多，内存和 SSD 现在占 PC 零部件总成本的近 40%，此前仅为 15%左右。此外，一套 32GB 的海力士 DDR5 内存售价现为 620 美元，而同等规格的 DDR4 内存仅需 260 美元，促使 DDR4 旧标准回归。
 
-rss · TechPowerUp News · 10月9日 08:28
+rss · Solidot · 10月10日 07:53
 
-**背景**: 液冷冷板是数据中心中的关键组件，用于将液体输送到高功率 GPU 芯片以散热。金刚石是一种新兴的热扩散材料，凭借其极高的热导率，有助于防止芯片表面出现热点。
+**背景**: 在 PC 行业，第三季度出货量通常在返校季出现季节性增长。标准内存技术正从 DDR4 向 DDR5 过渡，但 AI 数据中心对生产能力的巨大需求正将供应从消费电子产品中转移出去。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://wccftech.com/liquidjet-diamond-coldplate-for-enterprise-ai-chips-boosting-tokens-watt/">LiquidJet Infuses Diamonds Within Its Coldplates for Enterprise AI...</a></li>
-<li><a href="https://www.diamondsemicon.com/blog/why-diamond-is-emerging-as-the-ultimate-heat-spreader-for-ai-and-gpu-chips">Blog | Why Diamond Is Emerging as the Ultimate Heat Spreader ...</a></li>
-<li><a href="https://en.csmh-semi.com/a/9-359.html">New Material "Diamond" Helps Solve GPU Heat Dissipation Problems</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Infrastructure`, `#Liquid Cooling`, `#Thermal Management`, `#GPU`, `#Data Centers`
+**标签**: `#PC Hardware`, `#Supply Chain`, `#Memory Market`, `#AI Impact`, `#Industry Trends`
 
 ---
 
 <a id="item-6"></a>
-## [Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity](https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor) ⭐️ 7.5/10
+## [Bitwarden 采用双重许可模式，限制商业用途](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) ⭐️ 7.0/10
 
-Kioxia has launched new E1.L SSDs designed for hyperscalers, offering up to 122.88TB of storage in a compact form factor with unspecified performance details.
+Bitwarden 已转型为双重许可模式，在保持源码可用的同时限制了特定的商业用途。这种转变允许公司为超过特定运营阈值的业务提供专有许可证。 这一举措与 Elasticsearch 和 Redis 等行业趋势一致，这些公司采用“源码可用”模式以防止云服务商搭便车。它通过考验关键安全工具的可持续资金筹集边界，影响了开源生态系统。 个人自托管和非商业用途仍保持完全开源，但商业转售商或大规模运营者可能需要付费许可证。技术用户指出，标准的 Chrome 扩展程序性能开销较大，有些用户通过本地重写使其加载时间缩短至 100 毫秒以下。
 
-rss · Tom's Hardware · 10月9日 10:30
+hackernews · Cider9986 · 10月10日 14:32 · [社区讨论](https://news.ycombinator.com/item?id=50033407)
 
-**标签**: `#SSD`, `#Storage`, `#Data Centers`, `#Kioxia`, `#Hardware`
+**背景**: 双重许可模式通常对一般使用提供宽松许可，而对商业用途提供更具限制性的许可。“开源核心”或“源码可用”方法常用于防止超大规模云厂商利用开源工具构建竞争性服务而不进行资金回馈。Bitwarden 是一款流行的开源密码管理器，提供安全的凭据存储。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50033407">Bitwarden Dual License Model | Hacker News</a></li>
+<li><a href="https://lwn.net/Articles/955018/">Graber: LXD now re- licensed and under a CLA [LWN.net]</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区情绪好坏参半但总体支持，许多用户理解防止低价值转售的必要性，但担心自托管可能受到限制。一些用户愿意继续支付高级功能费用以确保项目的长期可行性，另一些用户则批评浏览器扩展程序的性能，并建议原生操作系统集成的体验会更好。
+
+**标签**: `#licensing`, `#open-source`, `#bitwarden`, `#business-model`, `#software`
 
 ---
 
 <a id="item-7"></a>
-## [微软被暂停参与允许外籍员工申请绿卡的项目](https://www.solidot.org/story?sid=85556) ⭐️ 7.3/10
+## [Hacker News 讨论 AI 辅助逆向工程工具 REA Reverse](https://rea.tools/) ⭐️ 7.0/10
 
-A digest covering Microsoft's suspension from the H-1B/Permit program due to political backlash, the phased reduction of Let's Encrypt certificate validity to 45 days by 2028, and a confirmation of a strong El Niño event.
+Hacker News 目前正在讨论“REA Reverse”，这是一个利用 AI 辅助逆向工程遗留二进制文件的平台。这个高互动度的帖子详细分享了使用大语言模型成功修复长期软件缺陷的案例。 这一进展标志着开发者与遗留代码交互方式的重大转变，可能会使复杂的二进制分析任务平民化。这表明 AI 工具可以消除原始机器代码与可读逻辑之间的鸿沟，从而对安全研究和软件维护产生影响。 社区案例突出了具体的成功，例如 Claude 通过空操作指令和栈偏移修复 Windows 远程桌面客户端的漏洞，以及对《东方红魔乡》等复古游戏的高质量反编译。批评者指出，虽然 AI 输出质量在提高，但往往更侧重于模型处理而非人类可读性。
 
-rss · Solidot · 10月9日 05:47
+hackernews · modinfo · 10月10日 00:37 · [社区讨论](https://news.ycombinator.com/item?id=50028275)
 
-**标签**: `#H-1B Visas`, `#Microsoft`, `#Let's Encrypt`, `#Security Certificates`, `#Immigration Policy`
+**背景**: 逆向工程是指分析机器代码或二进制可执行文件，以发现程序的算法和内部架构。虽然反编译器是传统的逆向工程工具，但大语言模型越来越擅长将汇编代码解释为 C++等高级语言，在准确性和上下文理解方面通常优于基础的静态反编译工具。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI-assisted_reverse_engineering">AI - assisted reverse engineering - Wikipedia</a></li>
+<li><a href="https://www.emergentmind.com/topics/decompile-bench-eval">Decompile-Bench-Eval: Decompilation Benchmarks</a></li>
+<li><a href="https://ml4code.github.io/publications/tan2024llm4decompile/">LLM 4Decompile: Decompiling Binary Code with Large Language...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区对当前 AI 模型处理复杂二进制修复任务的能力持积极态度，用户报告称修复了一个长达十年的漏洞。但关于 AI 反编译代码的“氛围编码”质量存在争议，有人认为 AI 组织的文件优先考虑模型的逻辑，而非反映开发者的原始意图。
+
+**标签**: `#Reverse Engineering`, `#AI`, `#Security`, `#Binary Analysis`, `#LLM`
 
 ---
 
 <a id="item-8"></a>
-## [REA Reverse – 反向工程任意事物](https://rea.tools/) ⭐️ 7.0/10
+## [丹麦 CPR 数据泄露事件中使用“123456”弱密码](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) ⭐️ 7.0/10
 
-Hacker News 上关于 REA Reverse 的讨论指出，这款利用 AI 进行软件反向工程的工具引发了其相较于传统方法的优越性争论，以及其在不断演变的 AI 驱动安全分析领域中的角色探讨。
+一家第三方 IT 公司因使用“123456”作为密码且缺乏监控，导致丹麦公民登记数据在 22 天内遭未授权访问，引发大规模数据泄露。
 
-hackernews · modinfo · 10月10日 00:37 · [社区讨论](https://news.ycombinator.com/item?id=50028275)
+hackernews · baal80spam · 10月10日 09:51 · [社区讨论](https://news.ycombinator.com/item?id=50031269)
 
-**标签**: `#Reverse Engineering`, `#AI Security`, `#LLM Applications`, `#Hacker News`, `#Tooling`
+**标签**: `#Security`, `#Data Breach`, `#Third-Party Risk`, `#Authentication`, `#Incident Response`
 
 ---
 
 <a id="item-9"></a>
-## [Carrier-Explode 工具归档并解码移动运营商设置](https://carrierexplode.com/) ⭐️ 7.0/10
+## [曼弗雷德·霍斯特曼：GlobalFoundries 押注 FDX Fusion 技术赋能物理 AI](https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/) ⭐️ 7.0/10
 
-该工具让原本不透明的运营商设置和基带固件世界变得易于访问，可用于排查特定的网络和硬件问题，在诸如 AT&T iPhone 死锁等事件中尤为有用。它使爱好者和开发者能够诊断那些极少有官方文档记载的设备行为。 该工具侧重于解码基带配置和运营商配置文件，尽管开发者指出验证某些假设的工作仍在进行中。近期，该工具因展示苹果和 AT&T 如何禁用 5G 独立模式以防止 iPhone 18 Pro Max 的硬件损坏而受到关注。
+GlobalFoundries 正利用应变硅 FD-SOI 技术为物理 AI 应用提供 7 纳米级性能，且无需依赖 EUV 光刻技术。
 
-hackernews · simplyalec · 10月9日 18:10 · [社区讨论](https://news.ycombinator.com/item?id=50024499)
+rss · EE Times · 10月9日 22:00
 
-**背景**: 运营商设置是移动网络提供商发布的小型配置文件，用于更新设备连接蜂窝网络的能力，从而启用 5G 或 Wi-Fi 通话等功能。基带固件是手机上专门管理所有无线通信的系统，独立于主操作系统运行。这些内部组件极少由制造商提供文档，因此能够逆向工程它们的工具对于故障排查非常有价值。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://support.apple.com/en-us/109324">Manually update carrier settings on your iPhone or iPad What Are Carrier Settings On iPhone? - AEANET How to Update Carrier Settings on iPhone - Technobezz What Are Carrier Settings On An iPhone? - AEANET APN Settings for AT&T, Verizon, T-Mobile and US Carriers ... View and edit your APN on your iPhone and iPad</a></li>
-<li><a href="https://webidroid.com/android/what-is-a-baseband-on-android/">What Is a Baseband on Android? Modem Firmware Explained</a></li>
-<li><a href="https://www.aeanet.org/what-are-carrier-settings-on-iphone/">What Are Carrier Settings On iPhone? - AEANET</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 用户对这款工具表现出极大的热情，有人指出它有助于诊断如个人热点被禁用等特定的运营商限制，还有人将其与 AT&T iPhone 18 Pro Max 事件中禁用 5G 独立模式的问题联系起来。部分评论者正在探索如何将数据贡献给 GNOME mobile-broadband-provider-info 等开源项目。
-
-**标签**: `#mobile`, `#telecom`, `#reverse-engineering`, `#tools`
+**标签**: `#Semiconductors`, `#GlobalFoundries`, `#Physical AI`, `#FD-SOI`, `#Manufacturing`
 
 ---
 
 <a id="item-10"></a>
-## [AI 分析 400 年档案发现遗忘陨石与失落犀牛](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) ⭐️ 7.0/10
+## [英伟达据报将 GB202 芯片 exclusively 专用于工作站 GPU](https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus) ⭐️ 6.5/10
 
-杰西·韦特斯利用 AI 分析了 400 年的档案，发现了包括陨石和失落犀牛在内的遗忘历史物品。他将该工作流程开源为一个名为 Antiquity 的工具包。 这项研究表明了 AI 在历史研究中的新颖和高价值应用，通过发现丢失的文物和物种产生具体成果。Antiquity 的开源为可重复性和社区使用增加了显著价值。 Antiquity 工具包使任何拥有问题和编码代理的人都能进行类似的历史档案调查。该工作受到部分批评，认为其缺乏专家主导的探索，流程从一般领域选择开始而非具体的历史问题。
+据爆料人士透露，英伟达已停止向 RTX 5090 分配 GB202 芯片，并将未来所有供货 exclusively 保留给其 RTX PRO 工作站产品线。另一份报告显示，RTX 5090 即将停产，一款配备 24GB 显存的 RTX 5080 新品预计将成为消费级旗舰。 此举对高端 GPU 的供应影响重大，因为最强消费级 Blackwell 芯片现已专门用于更昂贵的专业产品。这表明英伟达正将重点从发烧级市场转向利润更高的工作站销售。 GB202 芯片用于配备 24,064 个 CUDA 核心和 84GB 显存的 RTX PRO 6000 及 5500，而 RTX 5090 使用相同芯片但核心和显存较少。爆料人士指出，传闻为“RTX 5080 SUPER”的 24GB 版本 RTX 5080 可能会取代 5090 成为 GeForce 旗舰。
 
-hackernews · piratebroadcast · 10月9日 11:36 · [社区讨论](https://news.ycombinator.com/item?id=50019056)
+rss · TechPowerUp News · 10月10日 11:36
 
-**背景**: 档案学是组织、管理和解读历史记录的学科。大语言模型在档案研究中的应用仍处于起步阶段，近期的试点研究正在探索大型语言模型如何增强档案工作和知识发现。该项目代表了 AI 智能体在长期历史档案应用中最具雄心的尝试之一。
+**背景**: 英伟达的 Blackwell 架构是其最新一代 GPU 设计，由台积电制造。GB202 是该系列中最大的芯片，此前用于消费级 RTX 5090。RTX PRO 系列是英伟达的专业工作站产品线，通常价格更高，并优先考虑大显存容量而非纯粹的消费者性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ideals.illinois.edu/items/129992">Archives Meet GPT: A Pilot Study on Enhancing Archival ...</a></li>
-<li><a href="https://www.researchgate.net/publication/384929662_AI_in_Archival_Science_--_A_Systematic_Review">AI in Archival Science -- A Systematic Review - ResearchGate</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GeForce_RTX_50_series">GeForce RTX 50 series - Wikipedia</a></li>
+<li><a href="https://www.techpowerup.com/gpu-specs/docs/nvidia-blackwell-architecture.pdf">Nvidia rtx blackwell</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应不一，有人赞扬其成果和开源，也有人批评其方法论从一般领域而非具体历史问题出发。支持者认为反 AI 偏见不合理，指出几年前用传统方法做出的类似发现不会受到如此审视。
-
-**标签**: `#AI`, `#Historical Research`, `#Archival Science`, `#Open Source`, `#LLM Applications`
+**标签**: `#NVIDIA`, `#GPU`, `#Blackwell`, `#RTX Pro`, `#Hardware Leaks`
 
 ---
 
 <a id="item-11"></a>
-## [Oxide Computer 宣布完成 4.45 亿美元 D 轮融资](https://oxide.computer/blog/our-445m-series-d) ⭐️ 7.0/10
+## [软银寻求中东投资者 1000 亿美元资金用于人工智能驱动的并购](https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics) ⭐️ 6.5/10
 
-Oxide Computer 完成了 4.45 亿美元的 D 轮融资，以支持其重新定义本地计算基础设施的使命。这项投资表明市场对该公司以硬件为核心的现代计算解决方案持续抱有信心。 Oxide 的增长凸显了行业向专用硬件和“后 PC 时代”基础设施解决方案的转变，这对于支持高密度 AI 工作负载和高效的本地数据中心至关重要。该笔资金将帮助其扩大运营规模并拓展产品生态系统。 作为一家处于后期阶段的公司，Oxide 可能会利用这笔资金进行战略性举措，例如对 AMD 等合作伙伴的大规模供应链承诺，或扩展其硬件制造能力。虽然该轮融资是重要的里程碑，但随着公司平衡其避险性质与激进增长，引入股东也带来了一定风险。
+软银正在从中东投资者处筹集 1000 亿美元资金，以创建一个用于收购未使用 AI 企业的庞大基金。其战略计划是将先进的人工智能和机器人技术应用于这些被收购公司，从而改善其运营并提升其估值。 这项 1000 亿美元的举措代表了巨量资金涌入工业人工智能转型，标志着行业向技术驱动的价值创造发生了重大转变。预计这将在全球范围内加速传统部门对机器人技术和人工智能的采用。 该基金专门针对当前未使用 AI 或机器人的企业，重点在于收购后通过整合来提升运营效率。这一战略转型符合软银向可持续增长和人工智能驱动投资模式的整体转变。
 
-hackernews · ahlCVA · 10月9日 13:12 · [社区讨论](https://news.ycombinator.com/item?id=50020014)
+rss · Tom's Hardware · 10月10日 15:40
 
-**背景**: D 轮融资是继种子轮、A 轮、B 轮和 C 轮之后的后期股权融资阶段，通常由已证明产品市场契合度并准备进行重大战略扩张或 IPO 的公司进行。Oxide Computer 是一家致力于重新定义本地计算的技术公司，强调原则性工程和高质量的硬件设计。
+**背景**: 由孙正义创立的软银愿景基金（Vision Fund）是全球最大的技术投资载体之一。作为风险投资的先驱，软银最近已调整战略，专注于可持续增长和人工智能驱动的公司。在工业机器人中整合人工智能通常涉及利用机器学习进行实时分析、预测性维护以及自主工作流优化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Series_D_funding">Series D funding</a></li>
-<li><a href="https://oxide.computer/careers">Careers | Oxide Computer Company</a></li>
+<li><a href="https://visionfund.com/">Shared Vision , Amplified Ambition | SoftBank Vision Fund</a></li>
+<li><a href="https://bytebridge.medium.com/softbank-vision-fund-a-comprehensive-overview-76972710c52e">SoftBank Vision Fund : A Comprehensive Overview | Medium</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区成员普遍赞扬了 Oxide 独特的文化和沟通风格，但也有多位用户对该公司冗长且缺乏沟通的招聘流程表示不满。此外，关于 Oxide 向 AI 营销战略转变也存在争议，部分用户认为强调 AI 工作负载会贬低其打造高质量通用服务器的核心形象。
-
-**标签**: `#Hardware`, `#Funding`, `#Infrastructure`, `#AI`, `#Oxide`
+**标签**: `#SoftBank`, `#AI Investment`, `#Venture Capital`, `#Robotics`, `#Industry`
 
 ---
 
 <a id="item-12"></a>
-## [物理 AI 需要神经形态传感器至芯片架构](https://www.eetimes.com/physical-ai-needs-a-neuromorphic-path-from-sensor-to-silicon/) ⭐️ 7.0/10
+## [Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan](https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses) ⭐️ 6.5/10
 
-《电子工程师》(EE Times) 的一篇文章认为，物理 AI 系统需要采用神经形态架构来有效处理感官数据，从而摆脱以数字为中心的数据打包方式。 这一架构转变意义重大，因为它解决了静态数字数据与动态真实世界感官输入之间的根本矛盾，可能使 AI 系统更智能地与物理世界互动。 该论点重点在于建立一条从传感器到芯片的持续且硬件高效的处理路径，该路径模仿生物系统，而非依赖批处理的数字数据流。
+A free Steam game demo's high user count resulted in an unexpected $1,000 daily AI bill, forcing the developer to seek a loan and consider switching to local hardware models to reduce costs.
 
-rss · EE Times · 10月9日 08:39
+rss · Tom's Hardware · 10月10日 12:52
 
-**背景**: 神经形态计算是一个跨学科领域，旨在设计受生物神经系统启发的计算系统，包括模仿人类视觉的事件驱动传感器。物理 AI 是指通过感知物理世界并产生动作的人工智能，它挑战了传统的静态数据处理范式。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuromorphic_computing">Neuromorphic computing - Wikipedia</a></li>
-<li><a href="https://www.tutorialspoint.com/neuromorphic-computing/neuromorphic-computing-architecture.htm">Neuromorphic Computing - Architecture - Online Tutorials Library</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Neuromorphic Computing`, `#Physical AI`, `#Sensor Fusion`, `#Hardware Architecture`, `#Embedded Systems`
+**标签**: `#AI`, `#Game Development`, `#Cost Management`, `#LLM`, `#Steam`
 
 ---
 
 <a id="item-13"></a>
-## [等离子聚焦离子束磨削实现 3D TSV 错位检测](https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/) ⭐️ 7.0/10
+## [苹果 macOS 被移出官方 Unix 注册表](https://www.opengroup.org//openbrand/register/) ⭐️ 6.0/10
 
-一份行业报告强调了失效分析从二维流程向三维挑战的演变，特别是在集成系统中。报告具体详述了等离子聚焦离子束（PFIB）磨削技术如何用于揭示 TSV 错位。 随着芯片向 3D 集成发展，标准的 2D 失效分析已不足够，这种 3D 能力对于确保现代芯片可靠性至关重要。该技术有助于识别直接影响先进半导体器件性能和良率的制造缺陷。 所解决的关键技术限制是 TSV 错位，使用等离子聚焦离子束磨削进行检测。这种方法允许可视化垂直 3D 结构中的问题，这些问题在传统的自上而下方法中无法看到。
+苹果的 macOS 已被悄悄从开放集团的官方 Unix 注册表中移除。这标志着操作系统官方认证的转变，摒弃了其历史性的 Unix 身份。 这反映了在由 Linux 主导的现代开发者生态系统中，Unix 认证的实际相关性正在下降。它表明苹果正在承认当前行业现实，而非追求遗留品牌。 社区成员指出，该认证历史上适用于一种不切实际的配置，并且包括 Tahoe 在内的某些 macOS 版本仍在 Unix 03 标准下列出。
 
-rss · Electronics Weekly · 10月9日 11:00
+hackernews · john_alan · 10月10日 10:57 · [社区讨论](https://news.ycombinator.com/item?id=50031653)
 
-**背景**: 硅通孔（TSV）是用于连接 3D 集成中堆叠芯片层级的导电柱。失效分析是识别组件停止工作原因的过程，历史上关注于芯片的 2D 表面。随着 3D 堆叠，缺陷可能发生在结构内部深处，需要新的分析技术。
+**背景**: 开放集团拥有“Unix”名称的商标权，并维护一个符合特定 Unix 标准（如 Single UNIX Specification 或 Unix 03）的操作系统注册表。在 21 世纪初 Linux 崛起时，苹果此前曾获取这些认证，以在企业和开发者领域为 macOS 正名。
 
-**标签**: `#3D Integration`, `#TSV`, `#Failure Analysis`, `#Semiconductor Manufacturing`, `#Chip Reliability`
+**社区讨论**: 用户普遍认为此举是对 Linux 主导地位的务实承认，指出开发者在生产环境中选择 Linux 而非 Unix 标准。关于标题中“silently”一词的使用以及当前 macOS 版本的确切认证状态也存在一些争议。
+
+**标签**: `#operating-systems`, `#apple`, `#unix`, `#linux`, `#industry-trends`
 
 ---
 
 <a id="item-14"></a>
-## [索尼专利允许直播观众控制自适应光标并触发游戏事件](https://www.techpowerup.com/353573/sony-patent-describes-stream-viewers-controlling-a-cursor-on-the-streamers-screen) ⭐️ 6.5/10
+## [微软测试代号为“Garrison”的更快 Xbox PC 应用](https://www.techpowerup.com/353580/microsoft-is-testing-a-faster-xbox-pc-app-codenamed-garrison) ⭐️ 5.5/10
 
-索尼于 2023 年 10 月申请并于 10 月 6 日获得美国专利 12,752,199，该专利描述了一种让直播观众在主播屏幕上控制自适应光标的系统。专利详述了观众如何触发游戏特定动作以及向主播发送触觉反馈反应。 该专利可能通过让观众从被动消费者转变为能够实际引导游戏进程的主动参与者，从根本上改变直播的动态。它为游戏行业更沉浸式和个性化的观众互动提供了框架。 该系统限制屏幕同一时间仅显示一个光标，通过基于观众参与度的队列传递控制权。主播通过控制器或 VR 头显的触觉反馈接收观众反应，而游戏开发商通过 SDK 定义特定的游戏动作。
+微软正在开发一款代号为“Garrison”的重构版 Xbox PC 应用，与当前版本相比，它显著提升了大型游戏库的加载速度和整体性能。早期的上手测试表明，即使面对包含超过 1,400 个游戏的库，新应用的运行速度也明显更快，并且为鼠标键盘和手柄输入都提供了优化的界面布局。 此次更新解决了 PC 游戏玩家在使用 Xbox 应用管理大量游戏库时的主要痛点，提升了易用性与 Windows 11 的集成度。通过提高性能并增加“Xbox 模式”默认主页选项，微软旨在更好地与其他 PC 游戏平台竞争，并整合其在 Windows 上的游戏生态系统。 新应用将游戏列表与商店列表合并到同一页面，并明确区分了可本地安装的游戏和仅可通过 Xbox 云游戏流式传输的游戏。尽管设计和性能有所提升，但在当前的早期版本中，商店页面功能尚不完善。
 
-rss · TechPowerUp News · 10月10日 00:19
+rss · TechPowerUp News · 10月10日 13:19
 
-**背景**: 像 Twitch 和 YouTube 这样的直播平台通常将互动限制在文字聊天或简单表情上，观众无法直接影响正在玩的游戏。触觉反馈技术通过控制器或可穿戴设备提供如振动等物理 sensation，以模拟触感。SDK（软件开发工具包）允许开发者为特定平台构建应用程序或集成，在此情况下用于启用特定的观众互动。
+**背景**: Xbox PC 应用允许用户在 Windows 设备上购买、下载和管理游戏，它是微软将 Xbox 服务与 Windows 集成的核心战略组成部分。此前，微软已将“Xbox 模式”扩展至笔记本、台式机和平⻨板，使其在启动游戏模式时可作为默认主页。旧版应用长期因加载大型游戏库或数字商店时速度缓慢而受到批评。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/353573/sony-patent-describes-stream-viewers-controlling-a-cursor-on-the-streamers-screen">Sony Patent Describes Stream Viewers Controlling a Cursor on ...</a></li>
-<li><a href="https://mangodeveloper.com/articles/sony-patents-viewer-controlled-cursors-that-can-trigger-in-game-events-during-livestreams">Sony Patents Viewer-Controlled Cursors That Can Trigger In ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Streaming`, `#Gaming`, `#Patents`, `#Sony`, `#User Interaction`
+**标签**: `#Gaming`, `#Microsoft`, `#Consumer Hardware`, `#Software Updates`
 
 ---
 
 <a id="item-15"></a>
-## [2026 年第三季度全球 PC 出货量因芯片短缺暴跌 20%](https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year) ⭐️ 6.5/10
+## [索尼专利授权观众控制游戏光标与操作](https://www.techpowerup.com/353573/sony-patent-describes-stream-viewers-controlling-a-cursor-on-the-streamers-screen) ⭐️ 5.5/10
 
-2026 年第三季度 PC 出货量同比减少 1580 万台，由于芯片持续短缺，联想、惠普和戴尔等顶级厂商受到的冲击最为严重。 这一显著下滑表明供应链危机将持续存在，这很可能导致消费级和企业级硬件价格保持高位，进而影响科技行业的预算决策和投资策略。 尽管内存芯片制造商预测短缺状况要到 2028 年或 2029 年才会改善，但宏碁持有更乐观的观点，预计 PC 价格将在 2027 年底开始下降。
+索尼获得美国专利 12,752,199，该系统允许直播观众控制主播屏幕上的光标并触发特定的游戏内操作。该专利于 2023 年 10 月提交，于 10 月 6 日正式授权，使观众能够指出游戏元素，并发送主播可通过震动感知的反应。 这项专利代表了直播向高互动性转变，观众将影响游戏机制，可能会改变开发者在数字平台上设计多人体验的方式。通过模糊观众与参与者的界限，它为内容创作者和游戏发行商创造了新的互动模式。 该系统限制同时只有一个光标拥有控制权，使用基于观众参与度的积分队列来轮换控制权。发行商通过 SDK 定义可用的观众操作，支持的主机设备包括索尼、微软和任天堂的主机。
 
-rss · Tom's Hardware · 10月9日 11:10
+rss · TechPowerUp News · 10月10日 00:19
 
-**背景**: PC 行业严重依赖全球半导体供应链，以获取内存芯片等对系统性能至关重要的组件。这些组件的“短缺”迫使制造商限制生产，从而导致出货量减少，终端用户价格往往随之上涨。
+**背景**: 像 Twitch 和 YouTube Gaming 这样的直播平台传统上将观众定位为只能聊天或发送超级聊天的被动旁观者。游戏界的近期趋势转向更具互动性的形式，例如“一起玩”或“观众控制”直播，其中观众会影响游戏。手柄或 VR 头盔中的触觉反馈等硬件，为主播感知这些虚拟互动提供了物理途径。
 
-**标签**: `#Hardware`, `#Supply Chain`, `#PC Industry`, `#Memory Chips`, `#Market Analysis`
+**标签**: `#Sony`, `#Patent`, `#Live Streaming`, `#Gaming`, `#User Interaction`
 
 ---
 
 <a id="item-16"></a>
-## [电影感扫雷重制引发怀旧与现代 UI 设计之争](https://minesweeper.mikelacher.com/) ⭐️ 6.0/10
+## [改装者将 360mm AIO 散热器绑在笔记本上，温度降至 40 度以下](https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks) ⭐️ 5.5/10
 
-Mikelacher 发布了一个电影感十足的扫雷游戏重制版，包含了长篇叙事序列和“3A 级”标题风格，在社区中引发了广泛讨论。该项目将怀旧且巧妙的网页工程与现代受移动应用影响、过度设计的界面形成了鲜明对比。 该项目凸显了“经典网络”时代的持久价值，在那个时代开发者可以在没有沉重框架的情况下实现巧妙且交互性强的创意，唤起了人们对那个时代的怀旧之情。它也成为社区讨论的切入点，探讨遗留 Windows 应用如何退化为现代以变现为主导的设计。 该实现具体包含不间断的旁白和“小岛秀夫风格”的开场过场动画，一些用户最初将其误认为是非交互视频。有评论者指出，从 Windows 8 开始，微软已将原版扫雷替换为受移动游戏启发、包含日常挑战和应用内购的应用程序。
+PC 改装者 TrashBench 将一款 360mm AIO 散热器改装到笔记本电脑上，负载温度最高降低了 64°C。这种极端改装在基准测试和游戏中实现了平均 14% 的性能提升。 这款改装作为一种奇思妙想和极限压力测试，展示了热学限制的极限以及激进冷却带来的潜在性能提升。它并非普通用户的实用或可复制方案，但凸显了自定义液冷在便携硬件中的潜力。 改装后的设备将负载温度降至 40°C 以下，并允许对 GPU 进行大幅超频，从而带来性能提升。该改装为了追求极致性能，完全牺牲了笔记本的便携性和本质定义。
 
-hackernews · robin_reala · 10月9日 15:51 · [社区讨论](https://news.ycombinator.com/item?id=50022292)
+rss · Tom's Hardware · 10月10日 11:00
 
-**背景**: 扫雷是一款逻辑益智游戏，作为标准工具在 Windows 操作系统中存在了数十年，其起源是为了在冷战期间训练地雷探测器。术语“3A 级”通常指拥有高制作预算、高质量资产和大型工作室支持的电子游戏，该词通常应用于主机游戏而非基于浏览器的新奇项目。“经典网络”或“网络文艺复兴时代”指的是以个人创造力、动态服务器端技术和非商业化互联网环境为特征的 20 世纪 90 年代末和 21 世纪初的时期。
+**背景**: AIO（一体式）液冷系统使用密封结构，通过水泵、冷头和散热器将处理器热量导出。在笔记本电脑中，这些系统通常非常小巧纤薄，导致负载下出现严重的热节流现象。将台式机尺寸的 360mm 散热器改装到笔记本上，能够实现巨大的热量消散，从而突破便携机身的热学限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=50024660">the non-stopping narration makes it so hard to actually... | Hacker News</a></li>
+<li><a href="https://www.tweaktown.com/news/113915/modder-glues-360mm-radiator-to-gtx-1060-laptop-resulting-in-up-to-14-percent-higher-frame-rates-in-games/index.html">Modder glues 360 mm radiator to GTX 1060 laptop resulting in up to...</a></li>
+<li><a href="https://www.linkedin.com/pulse/liquid-cooling-laptops-how-your-next-machine-stays-cool-p6a9f">Liquid Cooling in Laptops: How Your Next Machine Stays Cool...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区情绪高度积极，多名用户将其与《合金装备》的电影风格进行了比较，并称赞了该项目的执行效果。然而，一些用户抱怨冗长的不间断旁白让人难以区分互动游戏和过长的过场动画，而另一些人则批评了 Windows 8 中受移动应用启发的现代版扫雷。
-
-**标签**: `#Web`, `#Creative-Coding`, `#Game-Development`, `#Nostalgia`, `#UI-Design`
+**标签**: `#Hardware Modding`, `#Liquid Cooling`, `#Laptops`, `#Performance Tuning`, `#PC Building`
 
 ---
 
 <a id="item-17"></a>
-## [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) ⭐️ 6.0/10
+## [3D 打印喷气涡轮遥控飞机旨在冲击 0.8 马赫纪录](https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials) ⭐️ 5.5/10
 
-A YouTuber reports police visitation after building a device to track police vehicles using Flock-style cameras, sparking a debate on surveillance asymmetry, legal boundaries for ALPR data, and civil liberties.
+一支毕业生团队成功试飞了名为“Kingchaser”的世界上第一架配备喷气涡轮发动机的 3D 打印遥控飞机。该飞机主要由 PETG、PPS-CF、碳纤维棒和铝材制成，目前正以 0.8 马赫的速度为目标，旨在打破最快模型飞行器的世界纪录。 这一成就证明了先进的增材制造技术能够生产出承受喷气涡轮应力的性能优异航空航天部件。它拓展了模型工程的边界，表明标准的 3D 打印材料可用于接近音速的飞行，而不仅仅局限于低速模型。 该飞机使用的是喷气涡轮发动机，而非传统的活塞或电动马达，这对于实现高速飞行具有重要意义。团队特别指出，其结构主要使用标准的 PETG 材料打印，并辅以碳纤维增强和铝制部件以确保结构完整性。
 
-hackernews · gumby · 10月9日 21:06 · [社区讨论](https://news.ycombinator.com/item?id=50026555)
+rss · Tom's Hardware · 10月10日 10:00
 
-**标签**: `#civil_liberties`, `#surveillance`, `#ALPR`, `#privacy`, `#law_enforcement`
-
----
-
-<a id="item-18"></a>
-## [U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge](https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/) ⭐️ 6.0/10
-
-U.S. manufacturing activity extended its growth streak to nine months in September, driven by surging backlogs despite rising costs and trade barriers.
-
-rss · EE Times · 10月9日 12:11
-
-**标签**: `#Manufacturing`, `#Supply Chain`, `#Semiconductors`, `#Economic Trends`
-
----
-
-<a id="item-19"></a>
-## [Axiom Space 在 ARC 轨道计算平台上取得进展](https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/) ⭐️ 6.0/10
-
-Axiom Space 宣布其 Axiom Resilient Compute (ARC) 轨道计算平台取得了进展。这包括两个在轨节点投入运营以及地面后量子密码学迁移的成功实施。 这标志着迈向基于空间的分布式工作负载编排、AI/ML 处理后量子安全通信模式的步伐。它有助于降低对地面系统的依赖，并增强全球数据主权。 ARC 平台采用“开普勒就绪”架构设计，可在轨道上实现更快的卫星数据存储和处理。它既支持独立于地面云基础设施的高安全用例，也支持分布式空间工作负载编排。
-
-rss · Electronics Weekly · 10月9日 14:13
-
-**背景**: Axiom Space 是一家专注于载人航天服务和空间基础设施（包括轨道数据中心）的公司。轨道计算旨在利用空间太阳能和增强的散热技术，将云计算能力延伸到地球表面之外。这项技术有望在行星尺度上提供无与伦比的计算能力、数据存储容量和连接性。
+**背景**: 0.8 马赫代表音速的 80%，在海平面上约为每小时 843 公里。在航空领域，这种速度通常是商用公务机巡航速度的标准，比传统模型飞机快得多，而后者通常依赖电动机或低功率活塞发动机，很难在这样的速度下保持空气动力稳定性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.axiomspace.com/release/axiom-space-kepler-ready-orbital-computing-for-quantum-era">Axiom Space, Kepler Ready Orbital Computing for Quantum Era</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Space-based_data_center">Space-based data center - Wikipedia</a></li>
+<li><a href="https://tech.yahoo.com/science/articles/world-first-3d-printed-remote-100000396.html">World’s first 3 D - printed remote control aircraft with a jet turbine takes...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Space Technology`, `#Orbital Computing`, `#Axiom Space`, `#Space Infrastructure`, `#Hardware`
-
----
-
-<a id="item-20"></a>
-## [技嘉 BIOS 更新确认英特尔新 DDR4 处理器即将面世](https://www.techpowerup.com/353552/gigabyte-bios-update-points-to-new-ddr4-intel-processors-coming-next-year) ⭐️ 5.5/10
-
-技微发布了针对 B760 和 H610 主板的 BIOS 更新，以支持预计将于 2027 年初推出的新款 LGA1700 处理器。 该更新有力地印证了英特尔传闻中的“Raptor Lake Next”更新即将发布，这将使支持 DDR4 的处理器对于预算有限的用户而言更具吸引力。 目前该 BIOS 更新覆盖 B760 和 H610 主板；Z790 或 Z660 的支持尚无定论，并且在正式的新闻稿发布之前，该固件就已经在暗中推送了。
-
-rss · TechPowerUp News · 10月9日 12:37
-
-**背景**: LGA1700 是英特尔第 12 和 13 代 CPU 的物理插槽，而 DDR4 和 DDR5 则是系统内存的类型。“Raptor Lake Next”是传闻中现有 Raptor Lake 处理器的更新版本，这将为那些买不起最新纯 DDR5 平台的用户提供一种更具成本效益的选择。
-
-**标签**: `#Intel`, `#Hardware`, `#BIOS`, `#LGA1700`, `#Rumor`
+**标签**: `#3D-Printing`, `#Aerospace`, `#Engineering`, `#Jet-Propulsion`, `#Hobby`
 
 ---
