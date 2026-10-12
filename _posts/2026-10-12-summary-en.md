@@ -5,294 +5,359 @@ date: 2026-10-12
 lang: en
 ---
 
-> From 43 items, 14 important content pieces were selected
+> From 97 items, 20 important content pieces were selected
 
 ---
 
-1. [Terence Tao Presents AI's Impact on Mathematics in 'Math 2.0' Lecture](#item-1) ⭐️ 8.0/10
-2. [Total Annihilation Rebuilt for Modern Systems](#item-2) ⭐️ 7.0/10
-3. [Browser Fingerprinting Replaces Cookies as Primary User Tracking Method](#item-3) ⭐️ 7.0/10
-4. [Karpathy: The Gap in LLM Capability Understanding Is Widening](#item-4) ⭐️ 7.0/10
-5. [Controversial passkey critique sparks deep FIDO2 security debate](#item-5) ⭐️ 7.0/10
-6. [Engineering Challenges of Integrating High-Resolution Displays into Wearable Manufacturing Visors](#item-6) ⭐️ 7.0/10
-7. [Modder Boots Google's New ARM Googlebook OS on Apple Silicon Macs](#item-7) ⭐️ 6.5/10
-8. [PoeLLM malware infects 3,400 servers using poetry and exposed AI tools](#item-8) ⭐️ 6.5/10
-9. [ArtCraft Releases Open-Source Alternatives to Microsoft Office Suite](#item-9) ⭐️ 6.5/10
-10. [Sierra Space Tests Ghost Reentry Vehicle for 90-Minute Global Delivery](#item-10) ⭐️ 6.5/10
-11. [OpenStreetMap Mappers Detail North Korea for Humanitarian Aid](#item-11) ⭐️ 6.0/10
-12. [Allegations of Illegal Logging for Google Data Center in Finland](#item-12) ⭐️ 6.0/10
-13. [Modder discovers 19°C cooler GPU hotspot by changing placement](#item-13) ⭐️ 5.5/10
-14. [SanDisk NAS 800 SSD Delivers Premium Endurance for NAS](#item-14) ⭐️ 5.5/10
+1. [Dev used AI agents and more than 500 billion tokens to rebuild Call of Duty: Modern Warfare 2's source code](#item-1) ⭐️ 9.5/10
+2. [GlobalFoundries Returns to Advanced-Node Race With 7 nm-Class FDX Fusion](#item-2) ⭐️ 8.5/10
+3. [Frore Diamond-Infused Coldplates Cool 2,300W Nvidia Rubin Chips by Up to 22°C](#item-3) ⭐️ 8.5/10
+4. [AMD announces Helion rack-scale design with 32,768 Zen 6 cores](#item-4) ⭐️ 8.5/10
+5. [OpenAI Codex CLI installs unremovable self-updating background daemon](#item-5) ⭐️ 8.0/10
+6. [WiFi 7 Router Repurposed as 320 Msps SDR Receiver](#item-6) ⭐️ 8.0/10
+7. [Meta Releases Muse Wonder Frontier Models for Agentic Tasks](#item-7) ⭐️ 8.0/10
+8. [PS2 Games Statically Recompiled to WebAssembly for Browser Play](#item-8) ⭐️ 8.0/10
+9. [Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs](#item-9) ⭐️ 8.0/10
+10. [Hackers activate automatic defrosting in supermarket fridges across Europe](#item-10) ⭐️ 7.5/10
+11. [ASUS Launches XA P2N-E2 Server with NVIDIA Vera CPU and Blackwell GPUs for Agentic AI](#item-11) ⭐️ 7.5/10
+12. [Marvell launches second-gen Structera X six-channel CXL 3.2 memory expanders](#item-12) ⭐️ 7.5/10
+13. [AMD Unveils Ryzen AI Halo Platform with 192GB Unified Memory for Local AI](#item-13) ⭐️ 7.5/10
+14. [AMD EPYC 8005 Sorano SKU List and Value Analysis](#item-14) ⭐️ 7.5/10
+15. [FAST 发现一个脉冲星三星系统](#item-15) ⭐️ 7.3/10
+16. [GLM-Legal](#item-16) ⭐️ 7.0/10
+17. [Building a Secure and High-Performance Web Application in C](#item-17) ⭐️ 7.0/10
+18. [AI Coding Agents Inflate Code Volumes Without Improving Software Quality](#item-18) ⭐️ 7.0/10
+19. [Hacker News Debates If Thinking Will Become a Leisure Activity in the AI Era](#item-19) ⭐️ 7.0/10
+20. [Chips&Media Launches Compression IP for AI Memory Bottlenecks](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Terence Tao Presents AI's Impact on Mathematics in 'Math 2.0' Lecture](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) ⭐️ 8.0/10
+## [Dev used AI agents and more than 500 billion tokens to rebuild Call of Duty: Modern Warfare 2's source code](https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte) ⭐️ 9.5/10
 
-Terence Tao released a slide deck and discussed his vision for 'Math 2.0', focusing on how LLMs and AI tools will transform mathematical research beyond automated problem-solving. This lecture is significant for the scientific community because it addresses the ethical and practical implications of relying on 'black-box' AI in rigorous fields like medicine and mathematics. Tao's argument posits that AI should not merely act as a black-box solver but must integrate with mathematical understanding, similar to how codebases are maintained for theoretical elegance.
+A developer utilized AI agents to process over 500 billion tokens to successfully rebuild the source code of Call of Duty: Modern Warfare 2, achieving 83% byte-for-byte accuracy in its functions.
 
-hackernews · Anon84 · Oct 11, 13:16 · [Discussion](https://news.ycombinator.com/item?id=50043026)
+rss · Tom's Hardware · Oct 12, 11:00
 
-**Background**: In mathematics, 'open problems' are often seen as lighthouses that guide the extension of existing theories rather than just destinations to be conquered. Terence Tao's 'Math 2.0' concept builds on his previous work at the 2026 International Congress of Mathematicians, suggesting that AI tools will soon perform a significant fraction of research-level tasks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://terrytao.wordpress.com/2026/10/10/math-2-0/">Math 2.0 | What's new</a></li>
-<li><a href="https://arxiv.org/abs/2608.16753">[2608.16753] Mathematics in the age of AI - arXiv.org</a></li>
-<li><a href="https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf">Mathematics in the age of AI - Public lecture, International ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members from various fields debated the validity of Tao's concerns, with a drug discovery professional arguing that understanding mechanisms is not always a prerequisite for using new medical tools, while others highlighted the rapid obsolescence of current mathematical research caused by AI discoveries.
-
-**Tags**: `#AI`, `#Mathematics`, `#Terence Tao`, `#Scientific Research`, `#LLM Implications`
+**Tags**: `#AI Agents`, `#Reverse Engineering`, `#LLM`, `#Software Engineering`, `#Gaming`
 
 ---
 
 <a id="item-2"></a>
-## [Total Annihilation Rebuilt for Modern Systems](https://nanolathe.gg/) ⭐️ 7.0/10
+## [GlobalFoundries Returns to Advanced-Node Race With 7 nm-Class FDX Fusion](https://www.techpowerup.com/353639/globalfoundries-returns-to-advanced-node-race-with-7-nm-class-fdx-fusion) ⭐️ 8.5/10
 
-A team has completed 'Nanolathe,' a high-effort open-source project that reimplements the classic 1997 RTS Total Annihilation for modern computer hardware. The project focuses on preserving the original data structures while achieving high-performance rendering and simulation. This recreation showcases the engineering challenge of handling the massive unit counts that defined the original game on contemporary systems. It also revitalizes the RTS engine development community, sparking debates about the Spring engine and large-scale projects like Beyond All Reason. The Nanolathe developers documented the original game's data formats to ensure compatibility and facilitate modern engine development. As a clean-room implementation, it allows the game to run on modern hardware without relying on emulated legacy systems.
+GlobalFoundries has re-entered the advanced-node semiconductor race by launching its 7nm-class FDX Fusion technology, which leverages FD-SOI for improved power efficiency and integration capabilities.
 
-hackernews · jttnr · Oct 11, 18:04 · [Discussion](https://news.ycombinator.com/item?id=50045984)
+rss · TechPowerUp News · Oct 12, 18:32
 
-**Background**: Total Annihilation, released in 1997 by Cavedog Entertainment, is a landmark sci-fi RTS known for its fully 3D graphics and huge battle scale. A common technique in the 'retro-computing' scene is a 'clean-room' recreation, where developers document legacy data formats to rebuild the engine so it can run on modern CPUs and GPUs. This modern approach allows for performance enhancements and compatibility with newer operating systems.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Total_Annihilation">Total Annihilation - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_game_engine_recreations">List of game engine recreations - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters highlighted the open-source RTS game 'Beyond All Reason' (BAR) as a strong spiritual successor with a similar focus on massive unit counts. Technical developers in the thread discussed porting Supreme Commander using modern libraries and achieving 60fps in 64,000-unit air battles, noting that such performance improvements are significantly better than the original games.
-
-**Tags**: `#gamedev`, `#rts`, `#open-source`, `#systems-programming`, `#retro-computing`
+**Tags**: `#Semiconductors`, `#FD-SOI`, `#GlobalFoundries`, `#7nm`, `#Foundry`
 
 ---
 
 <a id="item-3"></a>
-## [Browser Fingerprinting Replaces Cookies as Primary User Tracking Method](https://royfish.dev/fingerprints-are-the-new-cookies) ⭐️ 7.0/10
+## [Frore Diamond-Infused Coldplates Cool 2,300W Nvidia Rubin Chips by Up to 22°C](https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots) ⭐️ 8.5/10
 
-An analysis argues that browser fingerprinting techniques are becoming the primary mechanism for tracking users, effectively replacing traditional cookies. The discussion includes technical debates on potential countermeasures, such as the trade-offs of spoofing random values versus restricting JavaScript privileges. This shift makes user tracking more resilient to user deletion efforts, as fingerprinting relies on environmental data that cannot be easily cleared like cookies. It highlights a significant privacy trend that affects everyone's online anonymity and the effectiveness of current anti-tracking tools. While some suggest spoofing fingerprint data with random values, this can make users more detectable by creating 'noise' or anomalies. A more fundamental solution proposed by some experts is to restrict default JavaScript capabilities, as it grants websites excessive power to identify hardware, time zones, and languages.
+Frore has developed the LiquidJet Diamond, a diamond-infused liquid cooling coldplate specifically designed for custom-built AI servers. This new solution effectively reduces temperatures by up to 22°C for Nvidia's next-generation Rubin AI chips. This breakthrough addresses critical thermal limits that constrain the performance of ultra-high-power (2,300W) AI processors in modern data centers. It enables more efficient cooling of local hotspots, directly impacting the scalability and energy efficiency of high-performance AI infrastructure. The coldplate is engineered to tame extreme local hotspots reaching 770 W/cm² on the 2,300W Nvidia Rubin chips. It utilizes a diamond-infused design to achieve its superior thermal management capabilities.
 
-hackernews · royfish · Oct 11, 22:33 · [Discussion](https://news.ycombinator.com/item?id=50048642)
+rss · Tom's Hardware · Oct 12, 13:30
 
-**Background**: Traditional web tracking relies on cookies, small text files stored by the browser that can be easily deleted by users. Browser fingerprinting, in contrast, uses JavaScript to collect various browser and system attributes, such as screen resolution, installed fonts, and time zone, to create a unique digital identifier. Unlike cookies, this data is derived from the user's environment and does not require permission or storage, making it harder to block.
+**Background**: As AI workloads grow, chips like Nvidia's Rubin are drawing increasingly massive amounts of power, leading to severe heat generation. In liquid cooling, a coldplate is a component that transfers heat from the chip to the coolant, but local hotspots (areas with extreme heat density like 770 W/cm²) often limit cooling effectiveness.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://fingerprint.com/blog/browser-fingerprinting-techniques/">Browser Fingerprinting Techniques : 6 Top Methods Explained</a></li>
-<li><a href="https://incogniton.com/blog/browser-fingerprinting-vs-cookie-tracking/">Browser Fingerprinting vs Cookie Tracking : What's the Difference ...</a></li>
-<li><a href="https://chameleonmode.me/2026/04/01/browser-privacy-extensions-for-fingerprint-protection-what-works-in-2026/">Browser Privacy Extensions Fingerprinting: What Works 2026</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members debated mitigation strategies, with some skeptical that randomizing values would work because it might make users stand out as outliers. Others argued that the root cause is JavaScript's excessive privileges, suggesting that hardware acceleration and other powerful features should be restricted by default. Some emphasized that banning third-party advertising is the only real solution, while others mentioned using alternative identifiers like JA3/JA4 at the CDN layer for business use cases.
-
-**Tags**: `#privacy`, `#web-security`, `#browser-fingerprinting`, `#surveillance`
+**Tags**: `#AI Cooling`, `#Nvidia Rubin`, `#Thermal Management`, `#Liquid Cooling`, `#Diamond Tech`
 
 ---
 
 <a id="item-4"></a>
-## [Karpathy: The Gap in LLM Capability Understanding Is Widening](https://twitter.com/karpathy/status/2109361546505966046) ⭐️ 7.0/10
+## [AMD announces Helion rack-scale design with 32,768 Zen 6 cores](https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations) ⭐️ 8.5/10
 
-Andrej Karpathy argued that there is a significant disconnect between public perception of Large Language Model capabilities and their actual limits, prompting a broad discussion on Hacker News. This perspective challenges current AI hype, urging the public and stakeholders to develop a more accurate understanding of what AI agents can realistically achieve, particularly in code maintenance and robotics. Critics of the hype note that Large Language Models often make subtle mistakes, and that a deep understanding of the codebase is still required for complex project maintenance, future optimization, and cost control.
+At the OCP Global Summit, AMD announced Helion, a rack-scale reference design for agentic AI servers that can house up to 32,768 Zen 6 'Venice' cores. Helion represents a major shift toward massive CPU core counts specifically for agentic AI workloads, providing a standardized infrastructure blueprint that impacts datacenter architects and AI infrastructure engineers. The Helion system is slated to ship next year in two specific configurations: a CPU-only setup and an all-in-one system, both utilizing Zen 6 architecture.
 
-hackernews · albertzeyer · Oct 11, 20:20 · [Discussion](https://news.ycombinator.com/item?id=50047422)
+rss · Tom's Hardware · Oct 12, 13:00
 
-**Background**: Large Language Models are advanced AI systems capable of processing and generating natural language. 
-AI agents are autonomous systems built on LLMs that can plan and execute multi-step tasks to achieve specific goals.
+**Background**: Agentic AI refers to AI systems that can autonomously plan and execute complex tasks, often requiring massive CPU resources for orchestration alongside GPU compute. The OCP Global Summit is a premier industry event focused on open datacenter hardware and cloud infrastructure.
 
-**Discussion**: Community members expressed disagreement with the claim that coding agents can fully replace developer understanding, warning that unreviewed code leads to erosion and hidden errors. Some also speculated that the creation of competent humanoid robots is a more pressing global risk, as there are no major physical or energetic barriers preventing such advancement.
-
-**Tags**: `#LLM`, `#AI`, `#AndrejKarpathy`, `#Opinion`, `#AGI`
+**Tags**: `#AMD`, `#Agentic AI`, `#Datacenter`, `#CPU Architecture`, `#Server Hardware`
 
 ---
 
 <a id="item-5"></a>
-## [Controversial passkey critique sparks deep FIDO2 security debate](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) ⭐️ 7.0/10
+## [OpenAI Codex CLI installs unremovable self-updating background daemon](https://github.com/openai/codex/issues/48195) ⭐️ 8.0/10
 
-A controversial Substack article argued that passkeys are a security trap, sparking a high-quality Hacker News discussion with 373 upvotes. The debate focused on FIDO2 standards, specifically the mechanics of attestation, vendor lock-in, and the trade-offs between portability and device-bound authentication. As passwordless authentication rapidly adopts FIDO2 passkeys, understanding the practical security trade-offs between device portability and phishing resistance is crucial for developers and security architects. This debate highlights real-world implementation challenges, such as whether major platforms actually enforce strict credential attestation, which impacts trust in the system. Commenters noted that attestation can only be required during credential registration, and most major platforms like Netflix likely do not enforce it to avoid friction. The article included a meta-joke acknowledging its own flaw: it failed to mention that passkeys are domain-bound and resistant to Man-in-the-Middle attacks, a key security motivation.
+A reported bug shows that OpenAI's Codex CLI installs a persistent, self-updating background daemon that survives reboots and causes massive disk bloat. This background process lacks a clearly documented disable option, though users have found an undocumented configuration flag to stop it from auto-starting. The presence of an undocumented, persistent background process violates developer expectations regarding system resource usage and security, which significantly degrades the user experience. This controversy highlights a broader tension between AI coding agents automating system-level features and maintaining a predictable developer environment. The hidden daemon operates without a TTY and is reparented to PID 1, allowing it to persist until manually stopped or a system reboot occurs. Community reports indicate this self-updating process can randomly corrupt file permissions, rendering the `.git` directory read-only and blocking standard code execution tasks.
 
-hackernews · laurex · Oct 11, 21:59 · [Discussion](https://news.ycombinator.com/item?id=50048312)
+hackernews · whimblepop · Oct 12, 18:29 · [Discussion](https://news.ycombinator.com/item?id=50060694)
 
-**Background**: Passkeys are an implementation of FIDO2, an open standard that replaces passwords with public key cryptography, supported by WebAuthn and CTAP2 protocols. The 'match-on-device' architecture stores biometric templates locally in hardware secure enclaves, preventing server-side breaches. Attestation is a mechanism that proves a credential was created by a trusted hardware authenticator, rather than a malicious software app.
+**Background**: A background daemon is a computer program that runs persistently in the background without a direct user interaction interface, managing system tasks or services over time. Persistent processes that write to user directories can be highly invasive, and when a tool self-updates without clear opt-out mechanisms, it is widely considered a security risk.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://fidoalliance.org/passkeys/">FIDO Passkeys : Passwordless Authentication | FIDO Alliance</a></li>
-<li><a href="https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/passwordless-authentication/fido.html">FIDO Authentication : WebAuthn... | Ping Identity</a></li>
-<li><a href="https://readmedium.com/verifying-fido2-safetynet-attestation-bd261ce1978d">WebAuthn/ FIDO 2 : Verifying SafetyNet Attestation</a></li>
+<li><a href="https://github.com/openai/codex/issues/48195">CLI: make ` daemon _auto_start` opt-in — a persistent , self-updating...</a></li>
+<li><a href="https://github.com/openai/codex">GitHub - openai/ codex : Lightweight coding agent that runs in your...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment was mixed but highly technical, with users criticizing the lack of portability and user control over credential strength in passkeys. However, they also provided counter-arguments, such as pointing out that attestation protects against fake passkey apps, and noted that the article's conclusion unfairly dismissed the anti-phishing benefits of domain-bound keys.
+**Discussion**: Developers are frustrated by the ~12GB disk usage caused by accumulating old version files and severe permission bugs that break the `.git` directory during auto-updates. Some users highlight that alternative minimal harnesses like 'hax' are preferred because they avoid overengineering and do not rely on aggressive background processes.
 
-**Tags**: `#FIDO2`, `#Passkeys`, `#Authentication`, `#Security`, `#Web Standards`
+**Tags**: `#OpenAI`, `#Codex`, `#CLI Tools`, `#Security`, `#Developer Experience`
 
 ---
 
 <a id="item-6"></a>
-## [Engineering Challenges of Integrating High-Resolution Displays into Wearable Manufacturing Visors](https://semiwiki.com/semiconductor-manufacturers/374425-from-25-million-pixels-to-a-six-ounce-product-engineering-visor-for-manufacturing/) ⭐️ 7.0/10
+## [WiFi 7 Router Repurposed as 320 Msps SDR Receiver](https://github.com/h0m3us3r/w1700k-sdr) ⭐️ 8.0/10
 
-An article by Dr. Moh Kolbehdari details the multidisciplinary engineering hurdles of integrating a 25-million-pixel display into a six-ounce wearable visor designed for manufacturing applications. It clarifies that the primary difficulty is not just the display itself, but the optical, compute, and power management systems required to support it. This analysis is significant for hardware and systems engineers because it highlights that achieving high-resolution AR/VR wearables requires overcoming severe constraints in power density and thermal management, not just display resolution. It underscores the importance of cross-domain integration in modern optical computing devices. The text emphasizes that the 25-million-pixel density in a compact wearable forces severe trade-offs in thermal dissipation and data processing speed. The 'six-ounce' weight limit is a critical design constraint that dictates the choice of display technology and battery capacity.
+A new open-source project demonstrates how to convert a WiFi 7 router into a software defined radio (SDR) receiver capable of sampling at 320 Msps and operating at 5 GHz frequencies. The project leverages the router's hardware to create a high-speed receiver for under $30. This development significantly lowers the barrier to entry for RF enthusiasts by demonstrating that high-speed SDR functionality can be repurposed from cheap consumer electronics. It highlights the potential of modern WiFi hardware for spectrum analysis and other hobbyist applications on a budget. The system specifically operates at 5 GHz frequencies with a sample rate of 320 Msps. A notable community insight suggests that because the SDR function relies on the same chipset, the same architecture likely works on other boards like the Banana Pi R4 that utilize PCIe for NVMe.
 
-rss · SemiWiki · Oct 11, 15:00
+hackernews · djfergus · Oct 12, 12:41 · [Discussion](https://news.ycombinator.com/item?id=50055593)
 
-**Background**: Wearable visors for manufacturing are a specialized class of augmented reality (AR) hardware used to overlay digital information onto physical industrial environments. Integrating high-density displays requires complex optical systems to direct light to the user's eyes and advanced power management to handle high data loads while keeping the device lightweight and cool.
+**Background**: A software defined radio (SDR) is a device that uses software to define its functionality, allowing it to tune to different frequencies without changing hardware components. The 5 GHz band is a common unlicensed frequency range used by modern WiFi routers. By repurposing the router's WiFi receiver as an SDR, hobbyists can analyze radio signals in the 5 GHz range without purchasing specialized RF test equipment.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Helmet-mounted_display">Helmet-mounted display - Wikipedia</a></li>
+**Discussion**: Community members expressed enthusiasm for the cost-effectiveness and feasibility of the project, noting it is a cheap way to obtain high-speed 5GHz reception. Several users connected this to similar SDR projects built from ESP32 microcontrollers or older service monitors, while others raised the question of whether similar hacks can be applied to FM radios in consumer smartphones.
 
-</ul>
-</details>
-
-**Tags**: `#Hardware Engineering`, `#Wearable Tech`, `#Optics`, `#Semiconductor`, `#Manufacturing`
+**Tags**: `#hardware-hacking`, `#SDR`, `#WiFi`, `#RF-engineering`, `#makers`
 
 ---
 
 <a id="item-7"></a>
-## [Modder Boots Google's New ARM Googlebook OS on Apple Silicon Macs](https://www.techpowerup.com/353610/modder-boots-googlebook-os-on-apple-silicon-macs) ⭐️ 6.5/10
+## [Meta Releases Muse Wonder Frontier Models for Agentic Tasks](https://research.meta.ai/blog/muse-wonder) ⭐️ 8.0/10
 
-Developer Skylar Taylor-Barrick has released gbos-vm, an open-source tool that boots Google's ARM64-based Googlebook OS on Apple Silicon Macs using QEMU and GPU acceleration. The project successfully runs Chrome by downloading the Dell XPS recovery image and replacing hardware-specific partitions with virtual components from Google's Cuttlefish project. This demonstrates that cross-architecture Android 17-based systems can be virtualized on high-performance ARM silicon, expanding the testing ground for Google's new AI-first OS outside its native laptops. It validates the capability of macOS hypervisors to handle complex ARM64 guest operating systems. The setup requires 16 GB of RAM, 60 GB of storage, and 9 GB of downloads, and notably only Apple Silicon Macs are supported since the image uses native ARM instructions without emulation. Graphics are handled by passing Vulkan calls through the MoltenVK translation layer to adapt to the Mac's native Metal API.
+Meta has released Muse Wonder and Muse Wonder Full, its most capable frontier models designed for state-of-the-art performance on personal and professional agentic tasks. These models are available via the Meta Model API and Muse Code platform. This release strengthens Meta's position in the competitive large language model landscape by targeting the rapidly growing agentic AI market. It contributes to frontier model concentration dynamics, which significantly impacts industry strategy and power distribution among major tech companies. The Muse Wonder series combines frontier coding capabilities, long-running agents, and advanced computer use features. It incorporates Active Memory and Active Focus technologies to track user preferences and execute complex objectives.
 
-rss · TechPowerUp News · Oct 12, 00:05
+hackernews · meetpateltech · Oct 12, 16:48 · [Discussion](https://news.ycombinator.com/item?id=50059115)
 
-**Background**: Googlebook is a new ARM64-based Android laptop OS released by Google, running on chips like Snapdragon X. QEMU is an open-source machine emulator that can create virtual machines using the macOS built-in hypervisor framework on Apple Silicon. Cuttlefish is a Google project providing virtual system-on-chip components that allow Android to run on non-native hardware like virtual machines.
+**Background**: Agentic AI refers to artificial intelligence systems capable of autonomously performing multi-step tasks, using tools, and interacting with computer environments. Frontier models are the most advanced and powerful AI models currently available, often setting the highest performance benchmarks in the industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.qemu.org/docs/master/system/arm/vmapple.html">VMApple machine emulation — QEMU documentation</a></li>
+<li><a href="https://research.meta.ai/blog/muse-wonder">Muse Wonder | Meta AI Research</a></li>
+<li><a href="https://about.fb.com/news/2026/10/introducing-muse-wonder-models/">Introducing Muse Wonder and Muse Wonder Full: Frontier Models ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple Silicon`, `#Virtualization`, `#Android`, `#Googlebook`, `#QEMU`
+**Discussion**: Community sentiment is mixed, with some users praising the increased competition at the frontier while others report that the model's coding quality and vision capabilities currently lag behind rivals like Astra/Opus 5.5 and Sonnet. Several users also raised significant privacy concerns regarding Meta exposing user profiles and emails to unrelated individuals during login authentication.
+
+**Tags**: `#Meta`, `#AI-Models`, `#LLM`, `#Code-Generation`, `#HackerNews`
 
 ---
 
 <a id="item-8"></a>
-## [PoeLLM malware infects 3,400 servers using poetry and exposed AI tools](https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers) ⭐️ 6.5/10
+## [PS2 Games Statically Recompiled to WebAssembly for Browser Play](https://github.com/snuri00/ps2-web-recomp) ⭐️ 8.0/10
 
-Researchers identified the PoeLLM cryptomining malware campaign, which infected over 3,400 servers by exploiting exposed AI tools like LiteLLM and Ollama. The malware notably uses poetry verses to communicate with its botnet infrastructure. This incident highlights the growing cybersecurity risks associated with self-hosted LLM infrastructures, showing that even local AI tools are vulnerable if improperly configured. It signals a new attack vector for botnets that exploit the widespread adoption of open-source AI gateways. The PoeLLM malware uses a specific phrase in the 'poellm verse' that has changed 11 times to point the botnet to new servers. The campaign primarily targets servers running LiteLLM and Ollama, leveraging their often-exposed interfaces for cryptomining.
+A new tool, ps2-web-recomp, uses AI to statically recompile PlayStation 2 games into WebAssembly, allowing them to run directly in web browsers without a traditional emulator. The Emotion Engine machine code is translated into C++, compiled to WASM, and linked against a reimplementation of the PS2's OS and hardware that draws with WebGPU. This represents a significant shift in retro game emulation by removing the need for dynamic emulation, enabling high-performance porting of console games to the web. It demonstrates the potential of AI-assisted static recompilation to make legacy hardware games accessible on modern devices via WebAssembly. The first title, Gran Turismo 4, runs at full speed (50 FPS) on a laptop's integrated GPU at twice the PS2's resolution. This project is the sibling of psp-web-recomp and follows the same AI-driven static recompilation method.
 
-rss · Tom's Hardware · Oct 11, 11:45
+hackernews · deadxwarrior · Oct 12, 06:46 · [Discussion](https://news.ycombinator.com/item?id=50052251)
 
-**Background**: LiteLLM is an open-source AI gateway that provides a unified interface to access over 100 LLMs, while Ollama is a widely adopted open-source tool for running large language models locally. These tools simplify the deployment of AI systems but often require configuration changes that can inadvertently expose them to the public internet.
+**Background**: Static recompilation differs from emulation by translating machine code ahead of time into a target language like C++, which is then compiled to WebAssembly. This approach avoids the overhead of real-time interpretation typically associated with dynamic emulation, resulting in better performance. WebAssembly (WASM) is a binary instruction format that enables high-performance execution in web browsers, while WebGPU is a new graphics API that allows direct control of the GPU for rendering complex scenes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.x-cmd.com/install/litellm/">100+ LLM APIs, One OpenAI-Style Interface — LiteLLM AI Gateway...</a></li>
-<li><a href="https://futureagi.com/blog/what-is-ollama-2026/">What is Ollama ? Local LLM Runtime 2026 | Future AGI</a></li>
+<li><a href="https://github.com/snuri00/ps2-web-recomp">Show HN: PS2 games statically recompiled to WebAssembly</a></li>
+<li><a href="https://hysenlabs.com/projects/ran-j-ps2recomp">PS2Recomp: how to use the PS2 static recompiler | Hysen Labs</a></li>
+<li><a href="https://zeli.app/story/50052251">PS2 Web Recomp - PS2 games statically · 103 HN comments | Zeli</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cybersecurity`, `#AI Security`, `#Malware`, `#LLM Infrastructure`
+**Discussion**: Community members expressed enthusiasm for the advancement of AI recompilation but raised concerns about the security and trustworthiness of AI-generated native code compared to traditional emulators. Some users suggested extending the toolchain to compile the compiler itself into WASM for browser-hosted workflows, while others compared it to similar PS Vita transpiler projects.
+
+**Tags**: `#WebAssembly`, `#Game Emulation`, `#AI Decompilation`, `#Web Browsers`, `#Retro Gaming`
 
 ---
 
 <a id="item-9"></a>
-## [ArtCraft Releases Open-Source Alternatives to Microsoft Office Suite](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next) ⭐️ 6.5/10
+## [Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs](https://www.electronicsweekly.com/news/business/kyocera-and-tohoku-uni-integrate-optical-isolators-onto-sipho-ics-2026-10/) ⭐️ 8.0/10
 
-ArtCraft has released open-source, cross-platform replications of Microsoft Office Excel, Word, and PowerPoint. These tools are intended to serve as free replacements for the subscription-based proprietary software. This release provides a cost-effective alternative for users seeking to break vendor lock-in with major software ecosystems. It contributes to the broader trend of open-source productivity tools aiming to reduce reliance on expensive corporate subscriptions. The applications are cross-platform, meaning they are designed to run on different operating systems. The project also hints at potential future development of alternatives to other subscription-based services like Autodesk tools.
+Kyocera and Tohoku University have developed a laser annealing technique to integrate optical isolators onto silicon photonics ICs, advancing the functionality of photonic integrated circuits.
 
-rss · Tom's Hardware · Oct 11, 10:50
+rss · Electronics Weekly · Oct 12, 05:11
 
-**Background**: Microsoft Office is a proprietary suite of productivity applications that typically requires a paid subscription for full access. Open-source alternatives allow users to modify the code and avoid recurring fees, though achieving complete file format compatibility with proprietary standards remains a technical challenge.
-
-**Tags**: `#Open Source`, `#Productivity Tools`, `#Microsoft Office`, `#Software Alternatives`, `#Cross-Platform`
+**Tags**: `#silicon photonics`, `#semiconductors`, `#optical isolators`, `#laser annealing`, `#photonic integrated circuits`
 
 ---
 
 <a id="item-10"></a>
-## [Sierra Space Tests Ghost Reentry Vehicle for 90-Minute Global Delivery](https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops) ⭐️ 6.5/10
+## [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) ⭐️ 7.5/10
 
-Sierra Space conducted the first real-world high-altitude drop test of its 10-ton Ghost reentry vehicle under the U.S. Space Command's Apollo Nexus exercise. The vehicle successfully carried a software-defined radio and a bottle of whiskey from an altitude of 68,500 feet. This development represents a significant milestone in defense logistics, enabling the rapid delivery of pre-staged supplies to any unit on Earth within 90 minutes. It demonstrates the viability of orbital supply drops as a strategic alternative to traditional supply chains. The Ghost vehicle features a five-year on-orbit life and is designed to de-orbit by slowing to 7,000 meters per second upon call-up. It uses a deployable decelerator for precise landing, carrying up to 10 tons of cargo such as survival kits and rations.
+Hackers exploited vulnerabilities in aging Danfoss controllers to activate automatic defrost cycles in supermarket fridges across Europe, highlighting critical security risks in industrial IoT and retail infrastructure.
 
-rss · Tom's Hardware · Oct 11, 10:00
+hackernews · Tom's Hardware · Oct 12, 12:16 · [Discussion](https://news.ycombinator.com/item?id=50055304)
 
-**Background**: Sierra Space is a defense logistics contractor and subsidiary of the Sierra Nevada Corporation. Orbital package delivery systems aim to use low Earth orbit to transport cargo globally in under 90 minutes, leveraging Earth's rotation and pre-staged supplies to drastically reduce transportation time compared to air freight.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://satnews.com/2026/10/11/sierra-space-conducts-high-altitude-drop-test-of-ghost-reentry-vehicle-for-90-minute-global-point-delivery/">Sierra Space Conducts High-Altitude Drop Test of Ghost ...</a></li>
-<li><a href="https://www.sierraspace.com/press-releases/sierra-space-ghost-enters-flight-test-enabling-global-payload-delivery-in-90-minutes/">Sierra Space Ghost Enters Flight Test Enabling Global Payload ...</a></li>
-<li><a href="https://www.ventureatlas.org/product/sierra-space-ghost">Ghost - Sierra Space - Venture Atlas</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#space-tech`, `#logistics`, `#aerospace`, `#military`, `#sierra-space`
+**Tags**: `#cybersecurity`, `#industrial-iot`, `#supply-chain`, `#retail-tech`, `#vulnerability`
 
 ---
 
 <a id="item-11"></a>
-## [OpenStreetMap Mappers Detail North Korea for Humanitarian Aid](https://cartographers-nk.wonyoung.so/) ⭐️ 6.0/10
+## [ASUS Launches XA P2N-E2 Server with NVIDIA Vera CPU and Blackwell GPUs for Agentic AI](https://www.techpowerup.com/353642/asus-unveils-xa-p2n-e2-powered-by-nvidia-vera-cpu-at-ocp-2026) ⭐️ 7.5/10
 
-A Hacker News discussion explores the motivations of OpenStreetMap contributors who meticulously map North Korea, specifically to aid in humanitarian efforts like documenting border crossings and escape routes. This highlights the critical role of crowdsourced geospatial data in supporting humanitarian missions in restricted and isolated regions, where official maps are unavailable or incomplete. Top contributors, such as a mapper with over 75,000 edits, focus on detailed mapping of areas like Phungso-ri and the Tumen River border to identify safe escape points, often mapping both North Korean and Chinese sides.
+At OCP 2026, ASUS unveiled the XA P2N-E2, a compact 2U server built on the NVIDIA MGX architecture, powered by Vera CPUs and up to two RTX PRO 6000 Blackwell GPUs, specifically targeting agentic AI and reinforcement learning execution workloads. As AI systems shift from simple inference to complex agent execution (code, tool use, orchestration), this hardware targets the critical 'execution layer,' enabling enterprise AI applications to run with low latency and high responsiveness, setting the standard for future agentic AI infrastructure. The Vera CPU features custom-designed Olympus cores for high single-thread performance, coupled with high-bandwidth LPDDR5X memory and NVIDIA Scalable Coherency Fabric (SCF) for efficient data movement.
 
-hackernews · edent · Oct 11, 19:46 · [Discussion](https://news.ycombinator.com/item?id=50047091)
+rss · TechPowerUp News · Oct 12, 18:16
 
-**Background**: OpenStreetMap (OSM) is a free, open-source digital world map created through a community-driven approach, where millions of users edit and maintain data globally. In humanitarian contexts, OSM provides vital geospatial data that aid organizations use for disaster response and logistical planning in areas with poor official cartographic infrastructure.
+**Background**: Agentic AI refers to systems that can autonomously plan, execute code, and use external tools to accomplish complex goals. The execution layer is a distinct infrastructure requirement that demands fast, single-threaded CPU performance and tight CPU-GPU coupling, rather than just the massive multi-GPU parallelism used for traditional AI training. The OCP Global Summit is a major industry forum where open source server hardware standards and new data center architectures are announced.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/MRVDH/mapping-north-korea">GitHub - MRVDH/ mapping - north - korea : Humanitarian Project for...</a></li>
-<li><a href="https://www.uni-heidelberg.de/en/newsroom/global-mapping-projects-aid-humanitarian-organisations?overlay=search">Global mapping projects aid humanitarian organisations</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
+<li><a href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/">NVIDIA Vera CPU: Olympus Cores Built for Maximum Single ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion is highly positive, with users expressing fascination at the dedication of mappers who work without recognition or payment. Some participants shared specific quotes from top contributors explaining their humanitarian motives, while others recommended supplementary resources like YouTube videos of tourists exploring North Korea.
-
-**Tags**: `#OpenStreetMap`, `#Humanitarian Tech`, `#Geospatial Data`, `#North Korea`, `#Community`
+**Tags**: `#AI Infrastructure`, `#NVIDIA Vera`, `#Agentic AI`, `#Server Hardware`, `#OCP`
 
 ---
 
 <a id="item-12"></a>
-## [Allegations of Illegal Logging for Google Data Center in Finland](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment) ⭐️ 6.0/10
+## [Marvell launches second-gen Structera X six-channel CXL 3.2 memory expanders](https://www.techpowerup.com/353633/marvell-unveils-second-generation-structera-x-industry-first-six-channel-cxl-3-2-memory-expanders-for-ai-inference) ⭐️ 7.5/10
 
-Google has faced allegations of illegally logging a forest in Finland to construct new data centers, which prompted a temporary halt and a debate over environmental impact assessments. The company acknowledged that it had fallen short of its own high standards regarding environmental obligations. This controversy highlights the tension between the rapid expansion of tech infrastructure and environmental sustainability, emphasizing the need for stricter zoning regulations that prioritize the reuse of industrial brownfields over natural habitats. It calls for greater corporate accountability and legal enforcement of environmental laws in the data center industry. Critics pointed out that the cleared land may be a monoculture plantation requiring significant ecological restoration, while others noted that data centers are essentially large warehouses that could be built on reclaimed industrial sites instead. Google issued a statement expressing understanding of the concerns and admitting to a failure to meet its standards.
+Marvell announced its second-generation Structera X 3406 and 3506 CXL memory expanders, which feature industry-first six-channel support and compliance with the CXL 3.2 specification. These devices are specifically designed to alleviate memory bottlenecks in large-scale AI inference workloads. By addressing the unprecedented memory demands of growing LLM sizes and expanding context windows, this hardware enables cloud and AI infrastructure providers to build more efficient and scalable systems. It helps hyperscale datacenters overcome critical memory constraints that limit AI performance and infrastructure efficiency. The new expanders, identified as Structera X 3406 and 3506, are built to meet the most demanding data center workload requirements and are supported by the CXL 3.2 specification. This specification optimizes CXL Memory Device monitoring and management, enhancing functionality for operating systems and applications.
 
-hackernews · heyimada · Oct 11, 22:33 · [Discussion](https://news.ycombinator.com/item?id=50048638)
+rss · TechPowerUp News · Oct 12, 15:33
 
-**Background**: Data centers require massive amounts of land and energy, often leading to the clearing of natural areas for construction. 'Brownfield' sites refer to industrial or commercial properties whose expansion or redevelopment is complicated by real or perceived contamination. Environmental impact assessments are legal requirements in many regions to evaluate the ecological damage before large-scale construction projects proceed.
+**Background**: Compute Express Link (CXL) is a high-speed interconnect protocol that allows CPU-to-device or device-to-device memory expansion, enabling servers to host larger model parameters and KV caches. In LLM inference, the KV cache is a critical memory component that stores key and value states to speed up text generation, but its rapid growth with context length often exceeds traditional server memory limits.
 
-**Discussion**: The community discussion focused on the importance of local zoning laws to force tech companies to reuse polluted brownfields instead of clearing natural forests. There was also a sentiment that Google should face severe legal punishment for neglecting its environmental obligations, with some users emphasizing that the cleared area might be a monoculture plantation requiring massive ecological restoration.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://computeexpresslink.org/wp-content/uploads/2024/12/CXL_3.2-Spec-Announcement_FINAL-1.pdf">CXL Consortium Announces Compute Express Link 3.2 ...</a></li>
+<li><a href="https://arxiv.org/abs/2508.06297">[2508.06297] KV Cache Compression for Inference Efficiency in ... Top Stories HybridKV: Hybrid KV Cache Compression for Efficient ... KV Cache Compression for Inference Efficiency in LLMs: A ... KV Caching Explained: Optimizing Transformer Inference Efficiency Top 10 KV Cache Compression Techniques for LLM Inference ... Optimizing Inference for Long Context and Large Batch Sizes ...</a></li>
 
-**Tags**: `#environmental-impact`, `#corporate-responsibility`, `#data-centers`, `#zoning`
+</ul>
+</details>
+
+**Tags**: `#CXL`, `#AI Infrastructure`, `#Memory Expanders`, `#Marvell`, `#Hardware`
 
 ---
 
 <a id="item-13"></a>
-## [Modder discovers 19°C cooler GPU hotspot by changing placement](https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution) ⭐️ 5.5/10
+## [AMD Unveils Ryzen AI Halo Platform with 192GB Unified Memory for Local AI](https://www.techpowerup.com/353621/amd-introduces-its-next-ryzen-ai-halo-developer-platform-with-ryzen-ai-max-pro-495) ⭐️ 7.5/10
 
-Modder TrashBench discovered that placing a graphics card in a non-conventional location can reduce hotspot temperatures by up to 19°C. This counter-intuitive finding was reported in a PC DIY context where it challenges standard thermal expectations. This discovery is relevant to PC enthusiasts interested in passive cooling and thermal optimization without modifying hardware. It suggests that simple repositioning within a case can yield significant performance benefits by altering airflow patterns. The reported reduction of 19°C refers specifically to GPU hotspot temperatures rather than the entire card's temperature. The specific details of the hardware used and the exact 'wrong place' are not provided in the summary, limiting its immediate reproducibility.
+AMD introduced its next-generation Ryzen AI Halo Developer Platform, powered by the Ryzen AI Max+ PRO 495 processor. This new hardware configuration supports up to 192GB of unified memory, enabling local execution of 300-billion-parameter large language models. This release addresses a critical bottleneck in local AI development by allowing massive models to run without cloud dependency or expensive GPU rental. It empowers developers to build and test large-scale inference workflows on a single desktop or workstation. The processor features 16 Zen 5 cores, RDNA 3.5 graphics architecture with 40 Compute Units, and a dedicated NPU. Vendors advertise a combined CPU, GPU, and NPU figure of 131 TOPS, though specific NPU-only performance is rated at up to 55 TOPS.
 
-rss · Tom's Hardware · Oct 11, 14:23
+rss · TechPowerUp News · Oct 12, 13:53
 
-**Background**: In PC DIY, GPU hotspots are the hottest points on the processor die, which can cause thermal throttling. Conventional wisdom places GPUs directly on airflow paths to optimize cooling, but airflow dynamics can vary significantly between case configurations.
+**Background**: Unified memory architecture allows the CPU and GPU to share a single pool of system RAM, which is highly efficient for running large AI models that exceed the memory of discrete graphics cards. Traditionally, running 300-billion-parameter models required expensive server-grade hardware or cloud access, but 192GB unified memory brings this capability to a consumer or workstation class device.
 
-**Tags**: `#PC Hardware`, `#Thermal Management`, `#DIY`, `#GPU`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/353543/ibuypower-unveils-new-workstation-amd-ai-halo-mini-pc-powered-by-amd-ryzen-ai-max-pro-495-series-processor">iBUYPOWER Unveils New Workstation AMD AI Halo... | TechPowerUp</a></li>
+<li><a href="https://tech-insider.org/amd-ryzen-ai-max-pro-400-192gb-unified-memory-2026/">Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs</a></li>
+<li><a href="https://presenc.ai/research/unified-memory-vs-vram-for-local-llms-2026">Unified Memory vs VRAM for Local LLMs 2026 | Presenc AI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AMD`, `#Local AI`, `#Hardware`, `#LLM`, `#Developer Tools`
 
 ---
 
 <a id="item-14"></a>
-## [SanDisk NAS 800 SSD Delivers Premium Endurance for NAS](https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review) ⭐️ 5.5/10
+## [AMD EPYC 8005 Sorano SKU List and Value Analysis](https://www.servethehome.com/amd-epyc-8005-sku-list-and-value-analysis-mainstream-soranos-big-stride/) ⭐️ 7.5/10
 
-The SanDisk NAS 800 1.92TB SSD offers high endurance, strong sustained write performance, and low 4KB random latency for NAS workloads on a PCIe 5.0 interface, though its main drawback is a premium price. This drive is significant for enterprise and high-end home users who require highly reliable, high-endurance storage for demanding NAS applications. The key technical limitation is the premium pricing structure, which makes it less cost-effective compared to standard consumer or enterprise SSDs for routine data storage.
+ServeTheHome analyzed the newly launched AMD EPYC 8005 'Sorano' server CPUs to determine which specific SKUs offer the best value for different enterprise configurations. The series features 8 to 84 Zen 5 cores, up to 384 MB of L3 cache, and a 225W TDP. This analysis is critical for data center and systems engineering professionals deciding on hardware upgrades, as Sorano transforms the compact server platform into a broad buying decision with sharply different workload economics. It enables right-sized deployments that can lower power consumption and total cost of ownership. The EPYC 8005 series serves as a drop-in replacement for the EPYC 8004 'Siena' series on the SP6 socket, requiring only a BIOS update if supported. Against comparable Intel Xeon chips, AMD claims up to 91% higher integer performance at a 10W lower TDP.
 
-rss · Tom's Hardware · Oct 11, 13:05
+rss · ServeTheHome · Oct 12, 04:00
 
-**Background**: NAS (Network Attached Storage) systems handle complex I/O workloads that standard SSDs often struggle with due to wear-leveling demands. PCIe 5.0 NVMe is the latest high-speed storage interface, enabling faster data transfer rates than its predecessors.
+**Background**: AMD EPYC is a brand of multi-core server processors based on the company's Zen microarchitecture. The SP6 socket is used for right-sized, single-socket deployments that support flexible core counts and up to 96 PCIe Gen 5 lanes. Previous generations like EPYC 8004 relied on Zen 5c core designs, whereas Sorano utilizes full Zen 5 cores for higher performance density.
 
-**Tags**: `#SSD`, `#Storage`, `#Hardware Review`, `#NAS`, `#PCIe 5.0`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.servethehome.com/amd-epyc-8005-sorano-completely-changes-amd-sp6/">AMD EPYC 8005 Sorano Completely Changes AMD SP6</a></li>
+<li><a href="https://wccftech.com/amd-launches-epyc-8005-sorano-with-up-to-84-core-zen-5-cores/">AMD 's EPYC 8005 Sorano Ditches Zen 5c Entirely, Packs 84 Full Zen...</a></li>
+<li><a href="https://www.amd.com/en/products/processors/server/epyc/8005-series.html">AMD EPYC ™ 8005 Server CPUs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AMD`, `#Server Hardware`, `#Data Center`, `#CPU`, `#Infrastructure`
+
+---
+
+<a id="item-15"></a>
+## [FAST 发现一个脉冲星三星系统](https://www.solidot.org/story?sid=85583) ⭐️ 7.3/10
+
+FAST telescope confirms the first native triple pulsar system J0435+3233, featuring a pulsar, a white dwarf, and a solar-mass star, while new AI assistants are being deployed for nuclear reactor operations.
+
+rss · Solidot · Oct 12, 05:45
+
+**Tags**: `#Astrophysics`, `#Pulsars`, `#FAST Telescope`, `#AI in Industry`, `#Nuclear Energy`
+
+---
+
+<a id="item-16"></a>
+## [GLM-Legal](https://z.ai/blog/glm-legal) ⭐️ 7.0/10
+
+Hacker News community discusses Z.ai's GLM-Legal model, with comments highlighting practical applications in contract review, ethical implications of AI in legal advice, and concerns about the company's data privacy practices.
+
+hackernews · ilreb · Oct 12, 16:11 · [Discussion](https://news.ycombinator.com/item?id=50058507)
+
+**Tags**: `#LLM`, `#Legal Tech`, `#AI Ethics`, `#Domain-Specific Models`, `#Privacy`
+
+---
+
+<a id="item-17"></a>
+## [Building a Secure and High-Performance Web Application in C](https://prophitt.me/writing/a-modern-web-app-in-c) ⭐️ 7.0/10
+
+A technical blog post details how to build a modern web application using only the C programming language. It emphasizes using low-level system features like pledge and chroot to enhance security and performance. This approach appeals to systems engineers seeking to minimize overhead and maximize control over application resources. It highlights an alternative path in web development that prioritizes raw performance and strict security boundaries over convenience. The article specifically mentions using pledge/chroot for dropping privileges, a security practice that restricts the capabilities of the running process. Community discussion also raises the performance concern of opening a SQLite database for every request in a CGI context.
+
+hackernews · prophittcorey · Oct 12, 16:13 · [Discussion](https://news.ycombinator.com/item?id=50058528)
+
+**Background**: In standard web development, applications are typically built using high-level languages and served through a web server like Apache or Nginx, which abstracts away many low-level system operations. Writing a web app in C requires developers to handle memory management, networking, and HTTP parsing manually, giving them fine-grained control over system resources.
+
+**Discussion**: Commenters generally express strong interest in low-level and alternative web development approaches, validating the author's reasoning. Some shared practical experiences using similar tech stacks, such as building games with WebAssembly and Go, while others raised specific technical critiques regarding database handling in CGI environments.
+
+**Tags**: `#C_Programming`, `#Web_Systems`, `#Performance`, `#Security`, `#Alternative_Web_Dev`
+
+---
+
+<a id="item-18"></a>
+## [AI Coding Agents Inflate Code Volumes Without Improving Software Quality](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) ⭐️ 7.0/10
+
+A study and community discussion highlight that while AI coding agents generate large volumes of code, they often produce repetitive, bloated outputs that fail to enhance overall software quality or development efficiency. This insight is significant because it challenges the optimistic narrative that AI coding assistants directly translate into faster software delivery, revealing that downstream processes like code review and maintenance remain critical bottlenecks. Agents tend to generate code with high repetition, poor refactoring opportunities, and excessive comments that duplicate the code rather than providing essential documentation, making the output harder to read and maintain.
+
+hackernews · gumby · Oct 12, 17:14 · [Discussion](https://news.ycombinator.com/item?id=50059523)
+
+**Background**: AI coding agents are automated tools that use large language models to write, review, or modify source code. Code review is the process where human developers inspect code changes for errors and quality standards before they are merged into a main codebase. In traditional software development, writing code is only a fraction of the total effort, with significant time spent on testing, design, and maintenance.
+
+**Discussion**: Experienced engineers in the comments agree that code review is becoming an even larger bottleneck with agentic coding, noting that senior developers are reluctant to abandon line-by-line review. One user used a racing car analogy to explain that improving the engine (coding) has marginal benefits if other components like tires (review and testing) are not also upgraded.
+
+**Tags**: `#AI Coding`, `#Software Engineering`, `#Code Quality`, `#Agentic AI`, `#Code Review`
+
+---
+
+<a id="item-19"></a>
+## [Hacker News Debates If Thinking Will Become a Leisure Activity in the AI Era](https://www.spinellis.gr/blog/20261008/?li261008) ⭐️ 7.0/10
+
+A Hacker News discussion explored the concept that thinking may become a leisure activity in the AI era, with 213 comments debating the economic feasibility and philosophical value of human cognition in an automated future. This debate highlights the societal and economic implications of advanced AI, specifically how it may displace human cognitive labor and redefine the value of human thought beyond professional utility. Critics argue that assuming a post-scarcity economy where everyone can pursue hobbies is ahistorical, while supporters note that humans already engage in thinking for intrinsic pleasure, independent of economic reward.
+
+hackernews · pranitha_m · Oct 12, 16:54 · [Discussion](https://news.ycombinator.com/item?id=50059204)
+
+**Background**: The discussion references the rise of large language models that can perform cognitive tasks, potentially automating jobs that require thinking. It also touches on the 'hobby' fallacy, where technological advances like the automobile or microwaves did not necessarily eliminate human preferences for traditional activities like walking or cooking.
+
+**Discussion**: Community sentiment is divided, with some members arguing that economic survival challenges will prevent thinking from becoming a hobby for most people, while others believe intrinsic motivation will keep human cognition valuable. Some participants shared personal experiences of finding value in studying complex concepts like gravity for the sake of understanding rather than utility.
+
+**Tags**: `#AI-Society`, `#Economics`, `#Future-of-Work`, `#Philosophy`, `#HackerNews`
+
+---
+
+<a id="item-20"></a>
+## [Chips&Media Launches Compression IP for AI Memory Bottlenecks](https://semiwiki.com/ip/chipsmedia/374498-chipsmedia-targets-ai-memory-bottlenecks-with-new-compression-ip/) ⭐️ 7.0/10
+
+Chips&Media has launched a new Feature Map Compression IP to mitigate memory bottlenecks in AI hardware. This marks an expansion of the company's traditional video compression expertise into the semiconductor intellectual property space for deep learning pipelines. This solution addresses a critical constraint in AI hardware design, specifically the memory bandwidth and power consumption limits caused by massive data movement. By reducing the volume of data being transferred, this IP can help keep processors busy and improve overall system efficiency for edge AI applications. The technology utilizes a compression approach similar to video coding to reduce the memory access overhead in deep neural network processors. It is designed to mitigate the 'memory wall' where processors often sit idle waiting for data.
+
+rss · SemiWiki · Oct 12, 17:00
+
+**Background**: In AI hardware, particularly for inference workloads, the speed at which data can be moved from memory to processing units is a major performance limiter known as the memory bandwidth bottleneck. Feature maps are intermediate data structures in neural networks that are typically large, and their movement consumes significant power and bandwidth. Chips&Media is a South Korean semiconductor IP supplier known for providing video compression cores like H.264 and HEVC, which are now being adapted for AI-specific data compression.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Chips&Media">Chips&Media - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/posts/brett-cline_great-piece-by-ethan-batraski-its-not-activity-7436827333656948736-m5Gt">Memory Bandwidth Bottleneck in AI Hardware | LinkedIn</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/9401133">Transform-Based Feature Map Compression for CNN Inference</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI-Hardware`, `#Semiconductor-IP`, `#Memory-Optimization`, `#Data-Compression`, `#Edge-AI`
 
 ---
