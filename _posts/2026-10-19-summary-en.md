@@ -5,335 +5,397 @@ date: 2026-10-19
 lang: en
 ---
 
-> From 41 items, 16 important content pieces were selected
+> From 71 items, 20 important content pieces were selected
 
 ---
 
-1. [Maskless EUV Lithography Explored as Efficient Alternative to E-Beam](#item-1) ⭐️ 9.0/10
-2. [Together AI releases open-source HybridAgent for latent-space reasoning](#item-2) ⭐️ 8.0/10
-3. [RepRapMicron: Open-Source Project Aims to 3D Print Submicron Computer Chips](#item-3) ⭐️ 8.0/10
-4. [AMD Radeon Users Can Run Full DLSS 4.5 Features Via New Fan-Made Mod](#item-4) ⭐️ 7.5/10
-5. [Modders unlock 90% performance boost with official DLSS 5 NR on unsupported games](#item-5) ⭐️ 7.5/10
-6. [MIT engineers create soft 3D shape-sensing silicone skin](#item-6) ⭐️ 7.5/10
-7. [Linux kernel drops mandatory AI-assisted code disclosure tag](#item-7) ⭐️ 7.3/10
-8. [Developer value shifts to product vision in the AI era](#item-8) ⭐️ 7.0/10
-9. [Cyrillic Corner Cases Still Evade Major Domain Typo-Squatting Checks](#item-9) ⭐️ 6.5/10
-10. [SemiAnalysis Finds 300 US Data Center Bans Delayed Only Three Projects](#item-10) ⭐️ 6.5/10
-11. [Anthropic AI Safety Bill: $1B Threshold for Regulatory Action](#item-11) ⭐️ 6.5/10
-12. [WiFireNet Uses Wi-Fi Signals to Detect Concealed Handguns](#item-12) ⭐️ 6.5/10
-13. [Java Sealed Classes Empower Design Constraints and Exhaustive Pattern Matching](#item-13) ⭐️ 6.0/10
-14. [DriveClub Recomp Enables Native PC Port of PS4 Racer via Vulkan](#item-14) ⭐️ 5.5/10
-15. [Sony Patent Details Neural Network Frame Generation for PlayStation 6](#item-15) ⭐️ 5.5/10
-16. [DJI Dock 4 Swaps Drone Batteries in 25 Seconds Without FCC Clearance](#item-16) ⭐️ 5.5/10
+1. [Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests](#item-1) ⭐️ 9.5/10
+2. [Samsung, Micron, Hynix to use TSMC base dies for NVHBM](#item-2) ⭐️ 9.0/10
+3. [Chinese hacker uses AI agents to breach over 100 company websites](#item-3) ⭐️ 8.5/10
+4. [MiniMax M3.1 Flash offers 3x speed and 70% lower cost](#item-4) ⭐️ 8.0/10
+5. [Mistral releases Timestral, a suite of time-series foundation models](#item-5) ⭐️ 8.0/10
+6. [Let's Encrypt adds two remote perspectives for domain validation](#item-6) ⭐️ 8.0/10
+7. [ChipAgents deploys IC-Star for automated chip design workflows](#item-7) ⭐️ 8.0/10
+8. [Siemens and NVIDIA Integrate cuLitho to Accelerate Lithography](#item-8) ⭐️ 8.0/10
+9. [ORCA launches PT-3 photonic quantum computer](#item-9) ⭐️ 8.0/10
+10. [DLSS features run on AMD Radeon via new fan-made mod](#item-10) ⭐️ 7.5/10
+11. [New Solo Developer Tool Modifies Nvidia GPU VBIOS Without Flashing](#item-11) ⭐️ 7.5/10
+12. [Norwegian Firm Plans US-Bypassing Canada-Europe Subsea Cable](#item-12) ⭐️ 7.5/10
+13. [SonicBoom: AI Runtime Claims 20% Speedup Over llama.cpp via MLIR](#item-13) ⭐️ 7.3/10
+14. [Wine successfully ported to OpenBSD](#item-14) ⭐️ 7.0/10
+15. [Inception Labs launches Mercury 3, a high-speed diffusion language model](#item-15) ⭐️ 7.0/10
+16. [CERN and Mistral Sign Partnership to Accelerate AI-Driven Physics Research](#item-16) ⭐️ 7.0/10
+17. [SemiWiki Introduces Algorithmic Strategies to Mitigate Phase Jitter in Semiconductors](#item-17) ⭐️ 7.0/10
+18. [Xodus Nexus adds GUI for Xbox Game Pass on Linux](#item-18) ⭐️ 6.5/10
+19. [Intel Adds XMX-Accelerated XeSS Support to Valve's Proton Layer](#item-19) ⭐️ 6.5/10
+20. [Intel Nova Lake Xeon E Offers P-Core or E-Core Only SKUs](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Maskless EUV Lithography Explored as Efficient Alternative to E-Beam](https://semiwiki.com/lithography/373583-maskless-euv-lithography-an-alternative-to-e-beam/) ⭐️ 9.0/10
+## [Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests](https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads) ⭐️ 9.5/10
 
-SemiWiki published a detailed exploration of maskless extreme ultraviolet (EUV) lithography as a promising alternative to conventional electron-beam direct-write techniques. The article analyzes how this new approach can transfer patterns without custom photomasks to enhance overall semiconductor manufacturing efficiency. This innovation is highly significant because it addresses the high cost and slow throughput bottlenecks of current electron-beam lithography for advanced semiconductor nodes. It provides a viable pathway for improving manufacturing scalability and economic efficiency in next-generation chip fabrication. The article notes that while conventional EUV relies on projecting 13.5-nanometer light through reflective optical systems and photomasks, maskless systems dynamically control light sources to pattern photoresist directly from digital files. This removes the need for fixed physical masks, offering greater design flexibility similar to electron-beam but with higher speed.
+Arm claims its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in agentic AI workloads using a new evaluation methodology developed with Fujitsu, Meta, and OpenAI.
 
-rss · SemiWiki · Oct 18, 15:00
+rss · Tom's Hardware · Oct 19, 11:00
 
-**Background**: Lithography is the critical process of transferring tiny circuit patterns onto a silicon wafer in semiconductor manufacturing. Traditional EUV uses a custom physical mask to define each layer, whereas maskless lithography bypasses this by using dynamically controlled light sources or scanned laser spots to directly pattern the photoresist based on digital data.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Maskless_lithography">Maskless lithography - Wikipedia</a></li>
-<li><a href="https://nanyte.com/maskless-lithography">Maskless Lithography: How It Works — NANYTE</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Semiconductor`, `#Lithography`, `#EUV`, `#Manufacturing`, `#Hardware`
+**Tags**: `#CPU Architecture`, `#Agentic AI`, `#Performance Benchmarks`, `#Arm`, `#AMD EPYC`
 
 ---
 
 <a id="item-2"></a>
-## [Together AI releases open-source HybridAgent for latent-space reasoning](https://arxiv.org/abs/2610.18861) ⭐️ 8.0/10
+## [Samsung, Micron, Hynix to use TSMC base dies for NVHBM](https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/) ⭐️ 9.0/10
 
-Together AI released HybridAgent, an open-source framework that enables LLM agents to perform internal reasoning in latent space while interacting with tools through text. The project includes publicly available code, models on Hugging Face, and evaluation results on arXiv. This approach could significantly reduce token consumption and inference costs by offloading redundant textual reasoning to efficient latent representations. It provides a practical path for building faster, more cost-effective agentic systems that maintain tool accessibility. Reported evaluations indicate that HybridAgent cuts token usage and speeds up inference across 11 benchmarks, though cost estimates in the paper exclude prompt and tool overhead. Community testing with an 8B model quantized to IQ4_XS revealed issues where the agent could get stuck in infinite thinking loops on simple queries.
+Nvidia has requested that Samsung, Micron, and Hynix use TSMC's 3nm base dies for its custom NVHBM memory solution.
 
-hackernews · allinonai · Oct 18, 20:48 · [Discussion](https://news.ycombinator.com/item?id=50145337)
+rss · Electronics Weekly · Oct 19, 05:15
 
-**Background**: Traditional LLM agents reason and communicate exclusively through text, which is transparent but computationally expensive and verbose. Latent space refers to the high-dimensional vector representations within a neural network that capture abstract semantic features; recent research explores using these vectors for internal reasoning to improve efficiency. HybridAgent bridges these concepts by allowing models to 'think' in vectors but still output text when acting.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/pdf/2610.18861">Hybrid Reasoning Agents</a></li>
-<li><a href="https://github.com/togethercomputer/HybridAgent">GitHub - togethercomputer/HybridAgent</a></li>
-<li><a href="https://runtimewire.com/article/together-ai-hybrid-reasoning-agents">Together AI researchers release agents that shift reasoning ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Users expressed skepticism regarding the practical reliability of the quantized models, citing specific bugs like infinite loops. Technical users proposed architectural improvements, such as widening input embeddings to process latent and token vectors simultaneously, while others expressed excitement about applying this technique to reduce repetitive reasoning in newer models like Qwen 3.8.
-
-**Tags**: `#LLM`, `#Agents`, `#Latent Space`, `#Together AI`, `#Open Source`
+**Tags**: `#HBM`, `#Nvidia`, `#TSMC`, `#Semiconductor Supply Chain`, `#AI Hardware`
 
 ---
 
 <a id="item-3"></a>
-## [RepRapMicron: Open-Source Project Aims to 3D Print Submicron Computer Chips](https://github.com/VikOlliver/RepRapMicron/wiki) ⭐️ 8.0/10
+## [Chinese hacker uses AI agents to breach over 100 company websites](https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo) ⭐️ 8.5/10
 
-An open-source initiative called RepRapMicron has been introduced, which uses 3D printing technology to manufacture submicron computer chips. This development is intended to make semiconductor production more accessible and decentralized. By applying 3D printing to chip manufacturing, the project could significantly lower the cost and accessibility of semiconductor production, shifting away from traditional multi-billion dollar fabs. It represents a potential paradigm shift toward decentralized and more sustainable hardware manufacturing. The submicron resolution required for chip manufacturing is extremely challenging to achieve with current 3D printing techniques. Similar to the historical impact of the thread-cutting lathe on screw production, this technology aims to make complex chip fabrication feasible outside of massive specialized facilities.
+A Chinese hacker allegedly deployed a swarm of autonomous AI agents to compromise more than 100 corporate websites. The targets included major companies such as farm equipment maker Deere and appliance manufacturer SharkNinja. This incident marks a significant escalation in cyber-offensive capabilities, moving the use of autonomous AI systems for mass web intrusions from theoretical risk to documented real-world impact. It represents a high-priority security concern for the industry, as state-adjacent actors can now automate and scale complex hacking operations. The attack reportedly utilized an open-source AI-powered problem-solving platform to orchestrate the multiple intrusions. The fact that diverse, high-profile corporate entities were targeted simultaneously suggests a high degree of automation in the attack methodology.
 
-hackernews · RobotToaster · Oct 18, 13:48 · [Discussion](https://news.ycombinator.com/item?id=50141076)
+rss · Tom's Hardware · Oct 19, 15:36
 
-**Background**: Traditional semiconductor fabrication relies on highly expensive, specialized factories known as 'fabs' and complex photolithography processes. Submicron technology refers to chip designs with features smaller than one micrometer, which are essential for modern microprocessors. Open-source hardware projects have traditionally focused on building basic electronic devices rather than manufacturing the silicon dies themselves.
+**Background**: AI agents are autonomous systems capable of executing complex tasks, such as finding and exploiting vulnerabilities in software, with minimal human oversight. When deployed as a 'swarm,' these agents can work in parallel to scale the speed and breadth of a cyberattack, significantly reducing the time and cost required to breach multiple targets.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://glcncmachining.com/nano3dprint-launches-latest-d4200s-submicron-printer-with-20nm-printing-resolution/">Nano3Dprint Launches Latest D4200S Submicron Printer With 20nm...</a></li>
-<li><a href="https://github.com/RParkerE/OpenSilicon">GitHub - RParkerE/OpenSilicon: OpenSilicon enables DIY ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community reaction includes a mix of enthusiasm and skepticism, with some users drawing historical parallels to the industrial revolution, specifically how the thread-cutting lathe transformed screw manufacturing. Others express optimism about the potential for creating custom chips cheaply, while some remain doubtful about the ability to successfully scale down the manufacturing process to a billionth of a meter.
-
-**Tags**: `#3D Printing`, `#Semiconductors`, `#FabTech`, `#Open Source`, `#Hardware`
+**Tags**: `#Cybersecurity`, `#AI Agents`, `#Security Breach`, `#Automation`, `#Web Security`
 
 ---
 
 <a id="item-4"></a>
-## [AMD Radeon Users Can Run Full DLSS 4.5 Features Via New Fan-Made Mod](https://www.techpowerup.com/353856/amd-radeon-owners-can-now-run-nearly-every-dlss-feature-through-fan-made-mod) ⭐️ 7.5/10
+## [MiniMax M3.1 Flash offers 3x speed and 70% lower cost](https://www.minimax.io/blog/minimax-m31f) ⭐️ 8.0/10
 
-Daniel Blanco has released Alpha 0.8.0 of his DLSS-NR on AMD project, enabling nearly the entire DLSS stack—including Super Resolution, Ray Reconstruction, and up to 4x Frame Generation—to run on AMD Radeon GPUs. This new release also bundles FSR 4.1.1 to remove driver dependencies and introduces a new NeuralHub mod manager for easier installation and game detection. This breakthrough effectively breaks NVIDIA's long-standing vendor lock-in on AI upscaling technologies, allowing AMD users to access high-quality frame generation and ray reconstruction without buying RTX hardware. It also serves as a technical proof-of-concept that complex proprietary AI inference engines can be re-implemented and run on competitor silicon. The mod requires DirectX 12 and Windows 11, with full support for RDNA 3 and RDNA 4 GPUs but only experimental support for RDNA 2. Users must supply their own NVIDIA DLLs, and because anti-cheat software will block it, it is currently limited to single-player games, with mixed early results on Ray Reconstruction performance.
+MiniMax has released M3.1 Flash, a significantly faster and more cost-effective model for agentic tasks. The new model offers a 3x speed improvement and is 70% cheaper than its predecessor for overall usage. This release lowers the barrier to entry for developers building AI agents, enabling more complex tasks to be performed economically. The cost reduction and speed increase make MiniMax more competitive against major LLM providers for API-based and local solutions. The specific pricing for M3.1 Flash is $0.15 per MToK for input and $0.60 per MToK for output. While a ~150B parameter count is speculated due to the 'Flash' branding and speed claims, official model weights have not yet been released.
 
-rss · TechPowerUp News · Oct 19, 00:36
+hackernews · jtg · Oct 19, 16:39 · [Discussion](https://news.ycombinator.com/item?id=50154540)
 
-**Background**: NVIDIA's DLSS (Deep Learning Super Sampling) is a suite of AI-powered technologies, including Super Resolution, Frame Generation, and Ray Reconstruction, that are designed to boost frame rates and image quality but are exclusively supported on NVIDIA's RTX GPUs. AMD previously relied on its own open-source FidelityFX Super Resolution (FSR) to offer similar upscaling capabilities to its Radeon card users.
+**Background**: Agentic tasks refer to AI applications that can autonomously plan, execute, and iterate on multi-step processes. A 'Flash' model typically denotes a lighter, faster version of a base model designed for high throughput. Cost-effectiveness in LLMs is often measured by the price per million tokens (MToK) for both input and output.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.dlss5nvidia.com/about">NVIDIA DLSS 5 — Neural Rendering Technology & Tensor Core...</a></li>
-<li><a href="https://gpuopen.com/amd-fsr-sdk/">AMD FSR SDK - AMD GPUOpen</a></li>
-<li><a href="https://wccftech.com/nvidia-dlss-ray-reconstruction-now-works-on-amd-radeon-gpus-through-new-mod-alongside-dlss-sr-4-5-mfg-dlss-5/">NVIDIA DLSS Ray Reconstruction Now Works On AMD Radeon GPUs ...</a></li>
+**Discussion**: Community members generally agree on the impressive cost-performance ratio but are split on the model's architecture. Some speculates it is a ~150B parameter model that could run on consumer hardware, while others note the lack of released weights and the need to verify real-world inference speeds. There is also positive sentiment comparing its value against competitors like DeepSeek and Claude.
 
-</ul>
-</details>
-
-**Discussion**: Early community testing shows a significant split in results for the newly supported Ray Reconstruction feature, with one user reporting no performance drop in Cyberpunk 2077 while others experienced up to 25% FPS decreases. Overall sentiment is highly optimistic regarding the potential of the project, acknowledging that it is a major step forward even though it requires manually downloading NVIDIA files and lacks multiplayer support.
-
-**Tags**: `#AMD`, `#NVIDIA DLSS`, `#GPU`, `#Modding`, `#AI Upscaling`
+**Tags**: `#LLM`, `#MiniMax`, `#Cost-Effectiveness`, `#Agentic-AI`, `#Model-Release`
 
 ---
 
 <a id="item-5"></a>
-## [Modders unlock 90% performance boost with official DLSS 5 NR on unsupported games](https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster) ⭐️ 7.5/10
+## [Mistral releases Timestral, a suite of time-series foundation models](https://mistral.ai/news/timestral/) ⭐️ 8.0/10
 
-PC modders extracted the official DLSS 5 Neural Renderer from NBA 2K27 and successfully ran it on unsupported games, reporting up to a 90% performance improvement over the previous DLSS 5 NR model. Additionally, this new model utilizes 20% less VRAM and processes neural workloads up to 2x faster. By bypassing the hardware restrictions of the initial release, this extraction enables a much broader user base to benefit from advanced AI upscaling on games that Nvidia has not officially supported. It also provides valuable, real-world performance data for the gaming community before the official DLSS 5 SDK and broader game support are widely available. The specific metrics indicate a 20% reduction in VRAM usage and up to 2x faster neural workload processing, significantly optimizing resource utilization for high-frame-rate gaming. While the tech debuted exclusively on GeForce RTX 50-series GPUs in NBA 2K27, the community workaround extends the new efficiency gains to a wider variety of titles.
+Mistral has released Timestral, a family of time series foundation models (TSFM) designed for zero-shot forecasting. These models are available in multiple sizes ranging from 5M to 209M parameters. Timestral extends the reach of foundation models into time-series forecasting, a domain critical for enterprise data types like sensor telemetry and observability metrics. This enables more generalized approaches to handling diverse, high-volume time-series tasks without training individual models for each series. Timestral is a probabilistic forecasting model that supports both past-only and known-future covariates, allowing it to condition on information such as production schedules or weather forecasts. The model is designed for standalone inference, addressing concerns about relying on external servers for critical grid systems.
 
-rss · Tom's Hardware · Oct 18, 12:45
+hackernews · groar · Oct 19, 09:59 · [Discussion](https://news.ycombinator.com/item?id=50150434)
 
-**Background**: DLSS (Deep Learning Super Sampling) is Nvidia's suite of AI-powered technologies designed to improve image quality and boost frame rates in games by generating pixels using neural networks. The newly introduced DLSS 5 Neural Renderer specifically enhances visual fidelity by injecting photorealistic lighting, shadows, and material details in real-time. Because these advanced features are often locked to newer hardware or specific titles via official APIs, PC enthusiasts and modders frequently extract the underlying software components to apply them to older or unsupported games.
+**Background**: Traditional time-series forecasting often requires training a separate model for each distinct data series, which becomes impractical when dealing with thousands of different sequences. Time Series Foundation Models (TSFM) are pre-trained on a large corpus of diverse time-series data to generalize across different domains, similar to how large language models work for text. This approach aims to reduce the need for per-series fine-tuning while handling scale mismatches and limited historical data for specific series.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/geforce/technologies/dlss/">DLSS Technology | NVIDIA</a></li>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss-5-3d-guided-neural-rendering/">DLSS 5 3D-Guided Neural Rendering Debuts in NBA 2K27 | NVIDIA</a></li>
-<li><a href="https://wccftech.com/nvidias-faster-dlss-5-neural-rendering-model-already-modded-into-unsupported-games-delivers-up-to-40-higher-fps/">NVIDIA's Faster DLSS 5 Neural Rendering Model Already Modded...</a></li>
+<li><a href="https://mistral.ai/news/timestral/">Timestral : Mistral 's time - series foundation models | Mistral</a></li>
+<li><a href="https://huggingface.co/mistralai/Timestral-209M">mistralai/ Timestral -209M · Hugging Face</a></li>
+<li><a href="https://github.com/mistralai/timestral">GitHub - mistralai/ timestral · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#DLSS`, `#GPU`, `#Computer Vision`, `#Gaming Technology`
+**Discussion**: The community debate focuses on the utility of lumping diverse time-series into a single model versus training specific models with rich joint information like known-future covariates. Some users argue that Timestral provides a valuable general-purpose alternative for handling thousands of series with little history, while others question the level of observability and if the model functions as a black-box without providing underlying dynamical system equations.
+
+**Tags**: `#time-series`, `#foundation-models`, `#Mistral`, `#forecasting`, `#machine-learning`
 
 ---
 
 <a id="item-6"></a>
-## [MIT engineers create soft 3D shape-sensing silicone skin](https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error) ⭐️ 7.5/10
+## [Let's Encrypt adds two remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166) ⭐️ 8.0/10
 
-MIT researchers have developed a soft silicone skin embedded with optical fibers that can accurately reconstruct its own 3D shape with less than half a centimeter of error. This innovation was detailed in a recent paper published in Advanced Intelligent Systems. This soft sensor aims to significantly improve immersion in gaming and VR by tracking 3D movement and touch, and could also be applied in physical therapy. The technology represents a key advance in the development of fully soft and multifunctional haptic interfaces. The shape-sensing sheet utilizes an array of optical waveguides and remains capable of reconstructing its overall form even when some embedded optical fibers are damaged. Its tactile sensing capabilities are supported by this high-density optical infrastructure.
+Let's Encrypt is adding two additional remote perspectives to its domain validation process, increasing the total number of validation requests from five to seven to better detect and prevent network-level attacks. This enhancement significantly strengthens the Public Key Infrastructure against BGP hijacking and man-in-the-middle attacks by ensuring certificate issuance is valid across multiple independent network routes. Validation will now require a quorum of remote perspectives to receive the correct challenge response, and the rollout is scheduled to begin on December 15, 2026.
 
-rss · Tom's Hardware · Oct 18, 12:25
+hackernews · gslin · Oct 19, 10:53 · [Discussion](https://news.ycombinator.com/item?id=50150809)
 
-**Background**: Haptic sensing in VR usually relies on rigid, electronic sensors, which can feel unnatural and limit movement. Soft electronics like this one use optical fibers and silicone materials that bend and twist like human skin. This makes them ideal for applications requiring realistic tactile feedback.
+**Background**: Let's Encrypt uses remote perspectives to perform ACME checks from multiple physical locations to detect if a BGP attack is selectively routing traffic to an attacker. The upcoming change builds upon a February 2024 update that had increased perspectives from two to four.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error">MIT engineers build soft 3D shape-sensing skin for gaming and ...</a></li>
-<li><a href="https://interestingengineering.com/innovation/soft-sensor-recreates-3d-shapes-bending-mit">Soft sensor tracks bending and twisting in 3D using optical ...</a></li>
+<li><a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166">Let's Encrypt is adding two additional remote perspectives ...</a></li>
+<li><a href="https://startupniti.com/policy/let-s-encrypt-adds-two-remote-perspectives-for-b7699861/">Let's Encrypt adds two remote perspectives for domain validation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#MIT`, `#VR`, `#Haptics`, `#Sensors`, `#Biomechanics`
+**Discussion**: Community members highlighted a recent real-world BGP hijacking incident involving Hetzner and Softaculous, noting that attackers successfully issued certificates despite existing multi-perspective validations. Additionally, some users expressed a desire for similar infrastructure for S/MIME mail encryption and inquired about potential C2PA certificate support.
+
+**Tags**: `#Security`, `#PKI`, `#Let's Encrypt`, `#BGP Hijacking`, `#TLS`
 
 ---
 
 <a id="item-7"></a>
-## [Linux kernel drops mandatory AI-assisted code disclosure tag](https://www.solidot.org/story?sid=85643) ⭐️ 7.3/10
+## [ChipAgents deploys IC-Star for automated chip design workflows](https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/) ⭐️ 8.0/10
 
-The 2026 Maintainers Summit decision removes the requirement for developers to use the 'Assisted-by' tag when submitting patches to the Linux kernel. Linus Torvalds publicly opposed AI bans, comparing restrictions on AI usage to banning text editors. This policy shift reflects a significant governance change in one of the largest open-source projects, signaling that human accountability will replace AI tool disclosure as the primary standard. It may encourage broader adoption of AI coding assistants within core infrastructure software. Although the disclosure tag was dropped, Linus Torvalds emphasized that AI-assisted code must still be reviewed by experienced developers; for instance, a recent Claude Code patch found a race condition issue. A 78-year-old professor was separately arrested for protesting delivery robots in Philadelphia.
+ChipAgents has expanded its agentic AI platform, IC-Star, to automate and connect fragmented digital and analog chip design workflows. The company emphasizes that the system accelerates testing while providing verified results. This development addresses the growing complexity of modern semiconductor engineering by bridging the gap between isolated design tools. It could significantly reduce the time-to-market for chips by automating critical, error-prone manual steps in both digital and analog domains. Based in Santa Clara, ChipAgents combines organizational design intelligence with the IC-Star engine to plan tasks and operate engineering tools. The platform includes specific support for AMS (Analog, Mixed-Signal, and System) design and verification processes.
 
-rss · Solidot · Oct 18, 15:14
+rss · SemiWiki · Oct 19, 17:00
 
-**Background**: The Linux kernel development community had recently introduced a mandatory 'Assisted-by' tag to track AI-assisted code contributions to maintain code quality and trust. Simultaneously, legal and ethical debates have intensified regarding AI training data and automation in delivery services, leading to conflicts with labor unions.
+**Background**: Electronic Design Automation (EDA) software is essential for designing computer chips but often remains fragmented, requiring engineers to manually script commands across multiple specialized tools. Analog and mixed-signal design is notoriously difficult to fully automate, often referred to as a 'dark art' because it requires significant human expertise. Agentic AI refers to AI systems that can autonomously plan and execute multi-step tasks in a workflow.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/atulgg_httpslnkdingn2wy8jb-i-read-above-activity-7451579481632296960-Nh0p">Linux kernel AI policy : humans must sign off on... | LinkedIn</a></li>
-<li><a href="https://code.claude.com/">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+<li><a href="https://chipagents.ai/">ChipAgents | The agentic foundation for semiconductor</a></li>
+<li><a href="https://blogs.mathworks.com/semiconductors/2026/09/08/demystifying-the-dark-art-of-analog-design-with-agentic-ai/">Demystifying the Dark Art of Analog Design with Agentic AI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux Kernel`, `#AI Coding`, `#Open Source Governance`, `#Linus Torvalds`, `#Archaeology`
+**Tags**: `#Agentic AI`, `#Semiconductor EDA`, `#Chip Design`, `#IC-Star`, `#Automation`
 
 ---
 
 <a id="item-8"></a>
-## [Developer value shifts to product vision in the AI era](https://karrisaarinen.com/posts/someone-behind-the-software/) ⭐️ 7.0/10
+## [Siemens and NVIDIA Integrate cuLitho to Accelerate Lithography](https://semiwiki.com/eda/siemens-eda/374917-siemens-and-nvidia-accelerate-lithography-for-next-generation-ai-chips/) ⭐️ 8.0/10
 
-An essay argues that the primary value of software developers is now defined by product vision, taste, and user intent rather than writing code. This perspective offers a concrete framework for engineering professionals to understand their evolving roles and strategic focus. A notable technical context is the observation that products easily accumulate disjointed abilities, leading to a lack of a unified point of view.
+Siemens and NVIDIA have announced the integration of NVIDIA's GPU-accelerated cuLitho library into Siemens' Calibre software suite. This collaboration specifically targets the acceleration of photomask optimization for the manufacturing of next-generation AI semiconductors. This partnership addresses a critical bottleneck in the manufacturing of advanced AI chips by speeding up computationally intensive lithography steps. It makes the production of complex semiconductor nodes more efficient, scalable, and predictable for the industry. NVIDIA's cuLitho library is noted to accelerate inverse lithography by 40X and is distributed via an NGC container available to NVIDIA AI Enterprise subscribers. The integration covers key lithography workflows including mask data processing and optical proximity correction.
 
-hackernews · tosh · Oct 18, 16:32 · [Discussion](https://news.ycombinator.com/item?id=50142573)
+rss · SemiWiki · Oct 19, 13:00
 
-**Background**: As AI tools become increasingly capable of writing code, the human role in software development is shifting towards high-level decision-making and creativity. Concepts like 'taste' refer to a developer's subjective aesthetic and strategic choices in product design.
+**Background**: Computational lithography is a set of advanced mathematical and algorithmic approaches used to improve the resolution limits of traditional photolithography in semiconductor manufacturing. Siemens Calibre is a leading EDA software platform widely used for IC sign-off verification and design-for-manufacturing optimization.
 
-**Discussion**: A SaaS founder strongly agreed, noting that the true value lies in deciding what to build and aligning with customer goals. Other users emphasized that human intent and taste are fundamentally distinct from AI outputs, while some linked the topic to classical creative frameworks.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.nvidia.com/culitho">cuLitho - Accelerate Computational Lithography | NVIDIA Developer</a></li>
+<li><a href="https://catalog.ngc.nvidia.com/orgs/nvidia/-/resources/culitho-docs/">cuLitho Documentation | NVIDIA NGC</a></li>
+<li><a href="https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/">Calibre IC Manufacturing | Siemens Software</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Computational_lithography">Computational lithography - Wikipedia</a></li>
 
-**Tags**: `#AI`, `#Software Engineering`, `#Developer Role`, `#Product Thinking`, `#Human-Computer Interaction`
+</ul>
+</details>
+
+**Tags**: `#Semiconductors`, `#EDA`, `#NVIDIA`, `#AI Hardware`, `#Manufacturing`
 
 ---
 
 <a id="item-9"></a>
-## [Cyrillic Corner Cases Still Evade Major Domain Typo-Squatting Checks](https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks) ⭐️ 6.5/10
+## [ORCA launches PT-3 photonic quantum computer](https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/) ⭐️ 8.0/10
 
-A security report demonstrates that specific Cyrillic character variants continue to serve as viable corner cases for typo-squatting attacks on major domains. These attacks successfully evade current automated security checks designed to detect and block lookalike domains. This issue is significant because it allows attackers to spoof trusted websites by exploiting visual similarity in Cyrillic characters, which DNS treats as completely different domains. This ongoing vulnerability poses a serious phishing threat to users and organizations that rely on automated domain validation. The vulnerability relies on the fact that the Internationalized Domain Name (IDN) system allows the full Unicode set, creating visual ambiguity when Cyrillic characters look like Latin letters. Attackers can register domains that appear identical to major brands but function as entirely separate web properties, evading Punycode and standard ASCII checks.
+ORCA Computing has launched its PT-3 photonic quantum computer, marking a new generation of hardware from the Oxford spin-out.
 
-rss · Tom's Hardware · Oct 18, 12:05
+rss · Electronics Weekly · Oct 19, 10:08
 
-**Background**: Typo-squatting, or typosquatting, is the registration of internet domain names that are similar but not identical to popular brand names, usually to attract users who make typing errors. When these domains incorporate characters from different alphabets, such as Cyrillic, they are known as homograph attacks. These attacks exploit the fact that computers treat characters from different scripts as distinct entities, even when they are visually identical to human eyes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://philiphall.com/cyrillic-homograph-phishing-attacks-business-defense/">Cyrillic Phishing Attacks: How Homograph Domain Spoofing Works...</a></li>
-<li><a href="https://hivesecurity.gitlab.io/blog/homograph-punycode-phishing-domains/">Homograph and Punycode Phishing: When a Domain ... — Hive Security</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#cybersecurity`, `#domain`, `#typo-squatting`, `#encoding`, `#security-vulnerability`
+**Tags**: `#quantum-computing`, `#photonic-qc`, `#hardware`, `#ORCA-Computing`, `#technology-news`
 
 ---
 
 <a id="item-10"></a>
-## [SemiAnalysis Finds 300 US Data Center Bans Delayed Only Three Projects](https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027) ⭐️ 6.5/10
+## [DLSS features run on AMD Radeon via new fan-made mod](https://www.techpowerup.com/353856/amd-radeon-owners-can-now-run-nearly-every-dlss-feature-through-fan-made-mod) ⭐️ 7.5/10
 
-SemiAnalysis revealed that despite over 300 local data center moratoriums in the US, only three projects have been actually delayed, representing just 2-3 GW of the expected 38 GW pipeline by 2027. This finding suggests that local zoning bans have had a much smaller impact on the AI infrastructure boom than previously thought. This research provides a clear, data-driven counter-narrative to widespread concerns that local regulations are stalling the US data center boom. It clarifies that actual delays are minimal compared to the massive pipeline expected by 2027, which is significant for understanding the real friction in AI infrastructure expansion. The study specifically mapped more than 300 local moratoriums and identified that only three US projects were held up, amounting to just 2-3 gigawatts. This is in stark contrast to the 38 gigawatts of data centers expected to come online by 2027.
+An Alpha 0.8.0 release of Daniel Blanco's DLSS-NR mod now brings NVIDIA's full DLSS stack, including Frame Generation and Ray Reconstruction, to AMD Radeon GPUs. This reimplementation uses custom HIP kernels and bundles FSR 4.1.1, making it independent of system drivers. This project significantly reduces vendor lock-in for AMD users by enabling them to leverage the top-tier upscaling and ray-tracing performance enhancements of NVIDIA's ecosystem without buying new hardware. It sets a new benchmark for the feasibility of cross-vendor modding in the gaming community. The mod requires users to manually supply NVIDIA's proprietary DLLs and is limited to DirectX 12 games on Windows 11. Performance in games like Cyberpunk 2077 varies significantly, with some users experiencing up to a 25% performance drop when using Ray Reconstruction, while RDNA 2 support remains experimental.
 
-rss · Tom's Hardware · Oct 18, 11:45
+rss · TechPowerUp News · Oct 19, 00:36
 
-**Background**: Data center moratoriums are temporary local government bans or pauses on new construction in specific areas, often due to concerns over energy usage, water, or noise. The 38 GW figure represents the projected scale of new data centers coming online in the US by 2027, a period of massive infrastructure growth driven by AI demand.
+**Background**: DLSS (Deep Learning Super Sampling) is NVIDIA's proprietary suite of AI-powered image processing features that improve gaming performance. The DLSS-NR mod is a fan-made project that reimplements these features from the ground up for AMD's Radeon GPUs, which have traditionally relied on their own FSR (FidelityFX Super Resolution) alternative.
 
-**Tags**: `#data-centers`, `#AI-infrastructure`, `#regulatory-policy`, `#zoning`
+**Tags**: `#AMD Radeon`, `#NVIDIA DLSS`, `#Graphics Modding`, `#Gaming Performance`, `#GPU Ecosystem`
 
 ---
 
 <a id="item-11"></a>
-## [Anthropic AI Safety Bill: $1B Threshold for Regulatory Action](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model) ⭐️ 6.5/10
+## [New Solo Developer Tool Modifies Nvidia GPU VBIOS Without Flashing](https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration) ⭐️ 7.5/10
 
-Anthropic has proposed an AI safety bill that triggers federal oversight only when a risk of 50 deaths or $1 billion in damages is present. Under the proposal, evaluators must report imminent risks to the Department of Commerce within 72 hours. This proposal would effectively centralize the power to stop an AI model within the Commerce Department and federal judges, influencing the future of US AI governance. It signals a shift toward high-stakes, litigation-based regulatory triggers in the AI industry. The bill mandates a strict 72-hour reporting window for imminent risks, requiring the Commerce Department to present evidence to a federal judge for a subsequent order. This procedural framework creates a centralized legal bottleneck for emergency AI interventions.
+A solo developer has created a tool that allows users to modify Nvidia gaming GPU VBIOS settings in memory without permanently flashing the firmware. This approach uses an Nvidia register key to override configurations, providing a safer alternative to traditional VBIOS editing. This development significantly reduces the risk of bricking expensive graphics cards for enthusiasts who overclock or adjust power limits. By avoiding permanent firmware changes, users can experiment with settings and revert easily, making GPU tuning safer and more accessible. The tool works by using an Nvidia register key to override VBIOS settings in memory rather than writing to the physical chip. The project includes a user interface for quick VBIOS configuration, making it more approachable for non-experts.
 
-rss · Tom's Hardware · Oct 18, 11:25
+rss · Tom's Hardware · Oct 19, 16:30
 
-**Background**: Anthropic is a major technology company known for developing the Claude family of large language models and advocating for AI safety. Currently, there is no single federal agency with comprehensive authority to halt AI model deployment in the US. This proposal is a legislative attempt to formalize how and when such high-stakes decisions are made.
+**Background**: VBIOS (Video BIOS) is the firmware embedded in graphics cards that controls hardware settings like clock speeds, power limits, and fan curves. Traditionally, modifying VBIOS involves flashing new firmware to the card, a process that is risky because a failed flash can permanently damage the GPU. Tools like this exploit specific hardware registers to apply changes temporarily in memory.
 
-**Tags**: `#AI Governance`, `#Anthropic`, `#Regulation`, `#AI Safety`, `#Policy`
+**Tags**: `#Hardware`, `#GPU`, `#Overclocking`, `#Nvidia`, `#DIY Tools`
 
 ---
 
 <a id="item-12"></a>
-## [WiFireNet Uses Wi-Fi Signals to Detect Concealed Handguns](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals) ⭐️ 6.5/10
+## [Norwegian Firm Plans US-Bypassing Canada-Europe Subsea Cable](https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes) ⭐️ 7.5/10
 
-Researchers developed an AI system called WiFireNet that detects concealed handguns by analyzing how weapons distort Wi-Fi channel-state information (CSI). The system achieved an average precision of 72.5% in controlled indoor tests without requiring cameras or metal detectors. This development offers a privacy-preserving alternative to visual surveillance for security applications by leveraging standard Wi-Fi hardware already present in many buildings. It expands the range of sensor modalities for AI-based threat detection, potentially reducing the hardware costs of security systems. The prototype is limited to the older 802.11a Wi-Fi standard and currently functions only in controlled environments. The 72.5% precision rate indicates that the technology remains in the research phase and is not yet ready for widespread production use in dynamic, real-world settings.
+Norwegian infrastructure group Bulk Infrastructure Group AS is seeking a partner to help fund and build a 2,800-mile, $620 million undersea fiber-optic cable connecting Canada and Europe. The new data link is designed to bypass the United States, reducing reliance on traditional transatlantic US-based routing. This project is significant because it enhances data sovereignty and network resilience by creating a direct data route that does not physically traverse or depend on US infrastructure. It shifts the geopolitical landscape of transatlantic connectivity, providing an alternative for entities prioritizing network independence and supply chain diversification. The proposed cable system is estimated to cost $620 million and spans approximately 2,800 miles to link Canada with Europe. Bulk Infrastructure Group currently operates across three core business units, including data centers in Oslo, Kristiansand, and Esbjerg, as well as fiber networks and industrial real estate.
 
-rss · Tom's Hardware · Oct 18, 11:00
+rss · Tom's Hardware · Oct 19, 12:26
 
-**Background**: Channel-state information (CSI) refers to the specific way a Wi-Fi signal propagates through a room, capturing details about obstacles and objects in the path. When a metal object like a handgun enters a Wi-Fi path, it alters these propagation patterns. Researchers exploit these minute distortions using machine learning algorithms to classify the presence of a weapon.
+**Background**: Undersea cables form the invisible backbone of global internet connectivity, carrying the majority of international data traffic. Currently, transatlantic data routes typically pass through or rely on land-based infrastructure in the United States, creating points of centralized control and geopolitical vulnerability. By designing a cable that physically bypasses the US, developers are introducing a new topology that prioritizes network diversification over traditional shortest-path routing.
 
-**Tags**: `#AI`, `#Computer Vision`, `#Security`, `#Wireless Networks`, `#Applied Machine Learning`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www-bulkinfrastructure-com.nproxy.org/">Nordic Data Centers, Fiber Networks and Industrial Real Estate - Bulk ...</a></li>
+<li><a href="https://geopoliticalbrief.org/2026/07/the-invisible-frontline-why-undersea-cables-have-become-the-worlds-most-strategic-infrastructure.html">The Invisible Frontline: Why Undersea Cables Have Become the ...</a></li>
+<li><a href="https://www.hec.edu/en/dare/geopolitics-public-affairs/ai-and-sovereignty-geopolitical-power-submarine-cables">AI and Sovereignty: The Geopolitical Power of Submarine Cables</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#undersea-cables`, `#data-center`, `#network-infrastructure`, `#geopolitics`, `#telecom`
 
 ---
 
 <a id="item-13"></a>
-## [Java Sealed Classes Empower Design Constraints and Exhaustive Pattern Matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/) ⭐️ 6.0/10
+## [SonicBoom: AI Runtime Claims 20% Speedup Over llama.cpp via MLIR](https://www.solidot.org/story?sid=85645) ⭐️ 7.3/10
 
-The article discusses the integration of Java's sealed classes with exhaustive pattern matching, highlighting their combined utility in enforcing strict design constraints. It specifically notes how these features are increasingly valued by AI-assisted development tools for maintaining code integrity. These features significantly improve compile-time safety and code predictability, which is crucial as software systems grow in complexity. For the Java ecosystem, this strengthens the language's position as a robust, statically-typed environment suitable for large-scale enterprise applications. Sealed classes restrict subclassing to specific allowed classes, which allows the compiler to verify that pattern matching switch statements are exhaustive. This mechanism acts as a powerful access control tool, especially useful for deprecating features or managing event-driven message payloads.
+The HardenedLinux community has released SonicBoom, a new open-source GPLv3 AI runtime framework that uses LLVM/MLIR graph compilation to optimize performance and provides language-independent C APIs. It claims to deliver a 20% speedup over llama.cpp by optimizing computation graphs without modifying the underlying kernels. This framework bridges the gap between the flexibility of dynamic AI frameworks like PyTorch and the high efficiency of static graph inference engines. Its lightweight deployment—reducing requirements to a ~300MB .so file instead of massive Python dependencies—makes it attractive for production environments and embedded systems where resources are constrained. SonicBoom employs Guile's delimited continuations to perform application-layer 'dead computation elimination' and currently supports only NVIDIA CUDA and CPU backends. The community edition focuses on single-node inference, with distributed capabilities reserved for the enterprise version and Vulkan support planned for future releases.
 
-hackernews · hnisjafx40 · Oct 18, 14:47 · [Discussion](https://news.ycombinator.com/item?id=50141579)
+rss · Solidot · Oct 19, 06:37
 
-**Background**: In traditional Object-Oriented Programming, open classes allow any user to create a new subclass, which can inadvertently break existing switch statements that check for specific subtypes. Sealed classes invert this by explicitly declaring which subclasses are permitted, enabling the compiler to ensure that all possible cases are handled in pattern matching, similar to union types in languages like TypeScript.
+**Background**: SonicBoom is an inference runtime that combines an MLIR-based compiler with the GGML library, reusing existing kernels from llama.cpp while improving performance through graph-level compiler optimizations. In AI development, dynamic frameworks like PyTorch allow experimental flexibility but suffer from runtime overhead, whereas static graph compilers like TensorFlow offer speed but lack dynamism. By using an application layer dynamic language (Guile) for flexibility and a static compiler for optimization, SonicBoom aims to merge these benefits. It addresses the high infrastructure cost of typical LLM deployment stacks.
 
-**Discussion**: The community expresses enthusiasm for Java's evolution, with developers noting that while they might prefer TypeScript for full-stack consistency, Java's new features are highly appreciated by AI coding assistants. Some users highlight that sealed classes serve as excellent access control mechanisms for dependency injection and deprecation workflows, while others point out that redundant switch defaults are unnecessary when using sealed types.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://llama-cpp.com/">Llama . cpp - Run LLM Inference in C/C++</a></li>
+<li><a href="https://mlir.llvm.org/">LLVM - MLIR</a></li>
+<li><a href="https://wingolog.org/archives/2010/02/26/guile-and-delimited-continuations">guile and delimited continuations — wingolog</a></li>
 
-**Tags**: `#Java`, `#OOP`, `#TypeSafety`, `#PatternMatching`, `#LanguageFeatures`
+</ul>
+</details>
+
+**Tags**: `#AI Framework`, `#LLM Inference`, `#Compiler Optimization`, `#Performance`, `#Open Source`
 
 ---
 
 <a id="item-14"></a>
-## [DriveClub Recomp Enables Native PC Port of PS4 Racer via Vulkan](https://www.techpowerup.com/353854/ps4-exclusive-driveclub-now-runs-natively-on-pc-through-fan-made-recomp) ⭐️ 5.5/10
+## [Wine successfully ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) ⭐️ 7.0/10
 
-A fan project called DriveClub Recomp allows the PS4-exclusive game Driveclub to run natively on PC without CPU emulation, by re-implementing system libraries and translating GPU commands to Vulkan. The port supports resolutions up to 8K and unlocked frame rates. This project demonstrates a high-efficiency method for porting console games to PC by directly executing the original x86-64 code, avoiding the performance overhead of hardware emulation. It expands the availability of legacy PS4 titles for PC gamers with modern high-resolution displays. The v0.2.3 update achieved approximately 71 FPS at 4K on an RTX 5070 Ti, though the game still has limitations such as missing online features and untested AMD hardware support. Users must manually dump version 1.28 of the game files.
+The Wine project has been successfully ported to the OpenBSD operating system. The maintainer explained that they chose to keep the modifications local and OpenBSD-specific to simplify the development process. This milestone significantly enhances OpenBSD's software compatibility, allowing users to run Windows applications on this security-focused OS. It strengthens OpenBSD's appeal as an alternative for users seeking both safety and practical usability. The maintainer noted that many updates, such as %gs stubs, are optimized specifically for OpenBSD and may not work optimally on other operating systems like Linux. The changes were deliberately marked as OpenBSD-only to avoid conflicts with the upstream Wine codebase.
 
-rss · TechPowerUp News · Oct 19, 00:02
+hackernews · iamnothere · Oct 19, 13:35 · [Discussion](https://news.ycombinator.com/item?id=50152307)
 
-**Background**: Vulkan is an open-standard graphics API that allows direct, low-level access to GPU hardware, which is crucial for high-performance native game ports. Unlike CPU emulation, which simulates a foreign processor, native ports run the game's original x86-64 code directly on the PC's CPU while translating graphical calls to PC-compatible APIs.
+**Background**: Wine is a compatibility layer that allows software written for Microsoft Windows to run on other operating systems. OpenBSD is a Unix-like operating system known for its high level of security and code clarity, but it traditionally has a smaller software ecosystem than Linux or macOS.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.nvidia.com/vulkan">Vulkan Open Standard Modern GPU API | NVIDIA Developer</a></li>
-<li><a href="https://heldgames.com/guides/translation-layers-explained">FEX, Box 64 , Proton, DXVK: What Translation Layers... | Held Games</a></li>
+**Discussion**: Community members highlighted the achievement by sharing gameplay videos of complex Windows titles like Witcher 3 running on the system. Other users appreciated the pragmatic approach to the porting process and joked about the maintainer's surname, 'Frohwein', which translates to 'happy wine' in German.
 
-</ul>
-</details>
-
-**Tags**: `#game-porting`, `#vulkan`, `#reverse-engineering`, `#pc-gaming`
+**Tags**: `#OpenBSD`, `#Wine`, `#Operating Systems`, `#Software Porting`, `#Linux Alternatives`
 
 ---
 
 <a id="item-15"></a>
-## [Sony Patent Details Neural Network Frame Generation for PlayStation 6](https://www.techpowerup.com/353851/playstation-6-could-get-sonys-own-frame-generation-technology-patent-suggests) ⭐️ 5.5/10
+## [Inception Labs launches Mercury 3, a high-speed diffusion language model](https://www.inceptionlabs.ai/blog/introducing-mercury-3) ⭐️ 7.0/10
 
-Sony filed a new patent titled 'Generation Super Sampling' that describes a neural network system to predict the next game frame from a single input. The technology uses motion vectors and controller data to reduce latency and smooth gameplay on future consoles. This innovation could significantly enhance console performance by mitigating visual hitching in heavy scenes without compromising image quality, keeping Sony competitive against rivals using proprietary upscaling techniques. It demonstrates the growing integration of advanced machine learning directly into gaming hardware architectures. The filing contrasts with existing methods that insert frames between two real ones, aiming to predict forward from a single frame instead. The model trains on the video stream itself without human labeling, though no performance metrics are included in the pending application.
+Inception Labs introduced Mercury 3, a diffusion-based language model designed for rapid and flexible generation. The model is currently in production for early-access partners, powering latency-sensitive applications like browser use agents and real-time search. Mercury 3 challenges the dominance of standard autoregressive LLMs by offering significantly faster inference speeds, with claims of up to 1,068 tokens per second. This speed advantage makes it highly suitable for interactive applications where response latency is critical. Mercury 3 supports a 1M token context window and is priced at $0.20 per 1M input tokens and $0.70 per 1M output tokens. Independent testing shows it performs competitively with or slightly above smaller models like Claude Haiku, though its time-to-first-token remains a point of observation.
 
-rss · TechPowerUp News · Oct 18, 19:45
+hackernews · cmrdporcupine · Oct 19, 17:27 · [Discussion](https://news.ycombinator.com/item?id=50155245)
 
-**Background**: Frame generation is a technique that creates new frames between those rendered by the GPU to increase smoothness. Traditional methods often rely on motion vectors, but they can introduce visual artifacts or add latency if waiting for multiple frames. Sony's approach introduces an encoder-decoder neural network where the encoder compresses a new frame into a compact representation, and the decoder uses it to generate the next predicted frame. This allows the predicted frame to be displayed while the actual next frame is still being rendered.
+**Background**: Traditional Large Language Models (LLMs) are autoregressive, generating text one token at a time in a strictly sequential left-to-right process. In contrast, diffusion LLMs start with a sequence of masked tokens and refine multiple positions simultaneously over several iterations, which allows for parallel generation and potentially higher speeds. This architectural shift aims to reduce the computational bottleneck of sequential token prediction.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/353851/playstation-6-could-get-sonys-own-frame-generation-technology-patent-suggests">PlayStation 6 Could Get Sony 's Own Frame Generation Technology...</a></li>
-<li><a href="https://patentlyze.com/patent/sony-ai-predicts-next-game-frame-cut-lag/">Sony Patent : AI Predicts Next Game Frame to Cut Lag</a></li>
+<li><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-3">Diffusion at Scale: Introducing Mercury 3 – Inception</a></li>
+<li><a href="https://vibeengines.com/handbook/autoregressive-vs-diffusion-llms">Autoregressive vs Diffusion LLMs | Vibe Engines</a></li>
+<li><a href="https://www.explainx.ai/blog/inception-mercury-3-diffusion-llm-1m-context-1068-tokens-per-second-claimed-vs-measured-2026">Mercury 3 Diffusion LLM: 1,068 tok/s Claimed vs Measured ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Sony`, `#Frame Generation`, `#Neural Networks`, `#Gaming Hardware`, `#Patent`
+**Discussion**: Hacker News users provided positive hands-on feedback, with notable tests in SVG rendering and UML diagram generation showing capability comparable to or better than some established models. The discussion also highlighted curiosity about the exact model size and training differences, alongside comparisons to Google's previous diffusion efforts.
+
+**Tags**: `#diffusion-llm`, `#ai-research`, `#inception-labs`, `#mercury-3`, `#hackernews`
 
 ---
 
 <a id="item-16"></a>
-## [DJI Dock 4 Swaps Drone Batteries in 25 Seconds Without FCC Clearance](https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale) ⭐️ 5.5/10
+## [CERN and Mistral Sign Partnership to Accelerate AI-Driven Physics Research](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/) ⭐️ 7.0/10
 
-DJI has released the Dock 4, which enables Matrice 5TD drones to complete a battery swap and resume flight in under 45 seconds, with the swap process itself taking just 25 seconds. The system is specifically designed for the Matrice 5TD, which offers a 59-minute flight time and triple 50 MP cameras. This breakthrough significantly extends the operational endurance of autonomous drones in critical sectors like search and rescue, by eliminating the need for long recharging times. It represents a shift from tethered or charging solutions to fully autonomous battery-swapping logistics. The Dock 4 spec sheet currently lists no FCC transmitter data, indicating the system may not be cleared for sale in the U.S. market. The Matrice 5TD drone features a 3.05 kg MTOW and supports 40 km IC transmission alongside advanced thermal and LiDAR sensors.
+CERN and Mistral AI have signed a statement of intent to establish a strategic partnership for AI in science. This initiative integrates Mistral's large language model expertise with CERN's massive scientific datasets and computing infrastructure. This partnership marks a significant shift in high-energy physics by formally adopting generative AI for scientific discovery. It could accelerate research timelines and democratize AI-driven insights within the fundamental physics community. The collaboration specifically focuses on leveraging large-scale model training to handle the petabytes of data generated by CERN's experiments. It represents one of the first major integrations of commercial LLMs into a top-tier national research laboratory.
 
-rss · Tom's Hardware · Oct 18, 10:30
+hackernews · kensai · Oct 19, 15:28 · [Discussion](https://news.ycombinator.com/item?id=50153630)
 
-**Background**: DJI's previous docking systems relied on charging mechanisms, which are slower and less efficient for high-density operations. The new Dock 4 introduces a physical battery-swapping mechanism that allows drones to be swapped quickly for fresh power. In the U.S., the FCC regulates radio transmissions, requiring approval for devices that communicate over specific frequencies.
+**Background**: CERN is the world's largest particle physics laboratory, known for the Large Hadron Collider (LHC). Mistral AI is a European private company founded by ex-OpenAI researchers that specializes in developing open and closed-weight large language models. Historically, particle physics research relied on traditional machine learning methods like decision trees, and the adoption of modern LLMs had been slow due to strict data governance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale">DJI’s first battery-swapping dock gets drones recharged and ...</a></li>
-<li><a href="https://pickdrones.com/dji-dock-4-matrice-5td-launch-battery-swap-2026/">DJI Dock 4 Launch: 25-Second Battery Swap, No FCC Grant</a></li>
-<li><a href="https://reboot-hub.com/pages/wiki-dji-matrice-5td">DJI Matrice 5TD Wiki | Dock 4 Aircraft Specs - reboot-hub.com</a></li>
+<li><a href="https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/">CERN and Mistral join forces to accelerate AI for science – Home</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mistral_AI">Mistral AI - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DJI`, `#Drones`, `#Robotics`, `#Hardware`, `#Autonomy`
+**Discussion**: The community discussion highlights a stark contrast between the conservative methods used in past physics research and the current AI boom, with one user noting that boosted decision trees were the limit during their PhD. There is also concern that relying on major corporate AI players like Mistral and OpenAI could lead to a duopoly that accelerates commercial goals over pure scientific exploration.
+
+**Tags**: `#AI-for-Science`, `#CERN`, `#MistralAI`, `#High-Energy-Physics`, `#Research-Partnerships`
+
+---
+
+<a id="item-17"></a>
+## [SemiWiki Introduces Algorithmic Strategies to Mitigate Phase Jitter in Semiconductors](https://semiwiki.com/eda/374737-rethinking-phase-jitter-an-algorithmic-approach-to-signal-integrity/) ⭐️ 7.0/10
+
+SemiWiki published an industry analysis authored by Richard Shreiner exploring how algorithmic methods can be applied to resolve phase jitter issues in high-speed semiconductor designs. The article emphasizes that this shift allows physical layer signal integrity challenges to be managed through computational processing rather than relying solely on hardware adjustments. As data rates in AI clusters and 6G infrastructure approach sub-picosecond levels, physical hardware limitations make traditional signal integrity engineering increasingly difficult. Leveraging algorithms to handle phase jitter at the metric level reduces the processing burden on physical components, enabling more scalable and reliable next-generation high-speed systems. The article specifically notes that eliminating phase jitter algorithmically at the baseline metric of 0.000 removes the physical processing burden from the hardware entirely. However, the published content is an introductory industry analysis rather than a detailed academic breakthrough, focusing more on the conceptual shift in engineering approaches.
+
+rss · SemiWiki · Oct 19, 15:00
+
+**Background**: Phase jitter refers to the unwanted random variation in the timing of a signal, which causes errors in high-speed digital communications and is a critical barrier for 5G and 6G technologies. In modern sub-picosecond semiconductor architectures, physical methods to control this jitter are often inefficient or physically limited, prompting the use of algorithmic signal processing techniques.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.mdpi.com/1424-8220/16/10/1593">Design of a Sub-Picosecond Jitter with Adjustable ... - MDPI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Signal Integrity`, `#Semiconductor`, `#High-Speed Design`, `#Hardware`, `#AI Infrastructure`
+
+---
+
+<a id="item-18"></a>
+## [Xodus Nexus adds GUI for Xbox Game Pass on Linux](https://www.techpowerup.com/353885/xodus-nexus-launcher-brings-xbox-game-pass-to-steamos-and-linux-with-easy-management-and-installs) ⭐️ 6.5/10
+
+Xodus Nexus is a new open-source fork that integrates a user interface with the Xodus runtime to manage and install Xbox Game Pass games on Linux and SteamOS. This new launcher supports cloud saves and sign-in, replacing the command-line interface of the original project. This development significantly lowers the technical barrier for Linux users to access Xbox Game Pass by providing a sleek, accessible GUI for managing their game library. It reinforces the ecosystem of open-source compatibility layers aimed at bridging the gap between proprietary Windows software and the Linux operating system. The launcher runs a patched runtime and backend, specifically enabling the browsing of the Xbox store and the management of both purchased and Game Pass library titles. It also facilitates the execution of Xbox on PC games, not just digital titles, on SteamOS and Linux platforms.
+
+rss · TechPowerUp News · Oct 19, 18:00
+
+**Background**: Xbox Game Pass and many PC games are typically restricted to the Windows operating system, but Valve's Proton compatibility layer allows many of them to run on Linux-based systems. The original Xodus project is an open-source effort that reverse-engineers the Xbox runtime to enable these games to function on Linux and Mac, though it previously required a command-line interface for installation and management.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/xodus-gaming/xodus">GitHub - xodus-gaming/xodus: The great gaming migration to ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proton_(software)">Proton (software) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Linux`, `#Gaming`, `#Open Source`, `#SteamOS`, `#Xbox`
+
+---
+
+<a id="item-19"></a>
+## [Intel Adds XMX-Accelerated XeSS Support to Valve's Proton Layer](https://www.techpowerup.com/353884/intel-readies-xmx-accelerated-xess-support-for-valves-proton-compatibility-layer) ⭐️ 6.5/10
+
+Intel is integrating XMX-accelerated XeSS into Valve's Proton compatibility layer to replace the current slower upscaling version on Linux. This integration also promotes XeSS 3.0, which features multi-frame generation capable of inserting up to three frames between rendered frames. This update provides a significant performance boost for Intel Xe users on Linux by leveraging dedicated matrix hardware for AI upscaling. It strengthens the cross-platform compatibility of Intel's graphics ecosystem, making Linux gaming more attractive for users with Intel Arc GPUs. The latest Panther Lake SoC includes Xe3 cores with enhanced XMX matrix engines that double peak FP16 and INT8 throughput compared to the previous Xe2 generation. Currently, XeSS 3 MFG is optimized for Panther Lake but users have managed to enable it on other Arc GPUs like the B580.
+
+rss · TechPowerUp News · Oct 19, 17:24
+
+**Background**: Proton is a compatibility layer developed by Valve that allows Windows games to run on Linux, similar to Wine but optimized for Steam. XeSS (Xe Super Sampling) is Intel's proprietary upscaling technology that uses AI to enhance image quality at lower resolutions. XMX (Accelerated Matrix Extensions) are dedicated hardware cores within Intel's GPUs designed to accelerate matrix math operations common in AI workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/review/intel-arc-a770/2.html">Intel Arc A770 Review - Finally a Third Competitor - Architecture</a></li>
+<li><a href="https://wccftech.com/intel-xess-3-multi-frame-generation-turned-on-intel-arc-a380-via-user-workaround/">Intel XeSS 3 Multi - Frame Generation Turned On Intel Arc A380 Via...</a></li>
+<li><a href="https://laptopjudge.com/eric-demers-intel-gpu-architecture-roadmaps/">Eric Demers Intel Gpu: Architecture Roadmaps (ai Hardware)</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#Linux Gaming`, `#Proton`, `#XeSS`, `#Graphics Performance`
+
+---
+
+<a id="item-20"></a>
+## [Intel Nova Lake Xeon E Offers P-Core or E-Core Only SKUs](https://www.techpowerup.com/353871/intel-nova-lake-xeon-e-series-carries-only-p-core-or-e-core-skus-no-hybrid-configurations) ⭐️ 6.5/10
+
+Leaks from Jaykihn reveal that Intel's upcoming Nova Lake Xeon E series will feature exclusive P-Core or E-Core configurations without hybrid SKUs. The P-Core lineup will range from 4 to 16 cores, while the E-Core lineup will include 4 to 32 cores. This segmentation gives workstation and edge-computing buyers distinct performance or density profiles without the complexity of hybrid scheduling. It clarifies Intel's positioning of non-hybrid E-Cores specifically for the server/workstation Xeon E line. The Xeon E chips will use the W980 chipset, supporting native DDR5 ECC memory, DMI 5.0 x4, and up to 48 PCIe lanes. The top-tier 32 E-Core SKU is a unique feature of this chipset platform.
+
+rss · TechPowerUp News · Oct 19, 11:21
+
+**Background**: Intel's hybrid architecture typically combines high-performance P-Cores and efficiency-focused E-Cores in a single processor. The Xeon E series is a workstation-oriented subset of the Xeon brand, whereas the main desktop Xeon E-2400 series has been based on the older Raptor Lake architecture.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://videocardz.com/newz/intel-nova-lake-xeon-e-series-reportedly-features-up-to-16-p-cores-or-32-e-cores-no-hybrid-designs">Intel Nova Lake Xeon E series reportedly features up to 16 P ...</a></li>
+<li><a href="https://wccftech.com/intel-nova-lake-s-xeon-cpus-spotted-dunlow-lga-1954-platform-up-to-28-cores-at-95w/">Intel's Nova Lake-S Xeon CPUs Spotted on New ... - Wccftech</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#Xeon`, `#Data Center`, `#CPU Architecture`, `#Leak`
 
 ---
