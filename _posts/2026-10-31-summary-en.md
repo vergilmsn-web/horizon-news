@@ -5,171 +5,242 @@ date: 2026-10-31
 lang: en
 ---
 
-> From 80 items, 13 important content pieces were selected
+> From 60 items, 15 important content pieces were selected
 
 ---
 
-1. [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](#item-1) ⭐️ 9.5/10
-2. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](#item-2) ⭐️ 9.0/10
-3. [Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months](#item-3) ⭐️ 8.5/10
-4. [Northflank Breached](#item-4) ⭐️ 8.0/10
-5. [Reddit Will Protect its "Extremely Valuable Corpus of Data" from Google's AI Search With Forced Logins](#item-5) ⭐️ 7.5/10
-6. [Cisco empowers 27-year-old engineer to rewrite 98% of legacy code in 24 months](#item-6) ⭐️ 7.5/10
-7. [Google hit with criminal probe over unapproved AI data center deforestation](#item-7) ⭐️ 7.5/10
-8. [The $6.3B Binance hack was pulled off in just 20 minutes](#item-8) ⭐️ 7.0/10
-9. [Intel Fab 28 Shutdown to Cost $600 Million in Lost Revenue, Production to Restart Soon](#item-9) ⭐️ 6.5/10
-10. [NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch](#item-10) ⭐️ 6.5/10
-11. [Nvidia removes RTX 5080 from store as street prices climb to 2.2x MSRP](#item-11) ⭐️ 6.5/10
-12. [Intel Q3 2026 Earnings Show Data Center Strength Amid PC Memory Pressure](#item-12) ⭐️ 6.5/10
-13. [Florilegium: Procedural Flowers in LaTeX](#item-13) ⭐️ 6.0/10
+1. [AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](#item-1) ⭐️ 9.5/10
+2. [We Took over ChatGPT Accounts](#item-2) ⭐️ 9.0/10
+3. [Volta Infostealer Uses LLMs to Rank Victims by Financial Value](#item-3) ⭐️ 8.0/10
+4. [Prospero: A New GUI-Based Coding Agent Harness](#item-4) ⭐️ 8.0/10
+5. [Intel shares plunge 30% on weak Q4 guidance despite 78% data center revenue jump](#item-5) ⭐️ 7.5/10
+6. [Intel Fab 28 Explosion Shutdown Set to Cost $600M in Revenue](#item-6) ⭐️ 7.5/10
+7. [French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed](#item-7) ⭐️ 7.5/10
+8. [Switch Lowering in GCC](#item-8) ⭐️ 7.0/10
+9. [Digital minimalism](#item-9) ⭐️ 7.0/10
+10. [(PR) BrainChip Launches AKD1500 Raspberry Pi 5 Development Kit](#item-10) ⭐️ 6.5/10
+11. [Former Microsoft engineer uses AI to build PDP-11 RAM](#item-11) ⭐️ 6.5/10
+12. [Curtin University researchers develop forensic method to trace 3D-printed PLA firearms](#item-12) ⭐️ 6.5/10
+13. [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](#item-13) ⭐️ 6.5/10
+14. [Kogui 族人谈 AI](#item-14) ⭐️ 6.3/10
+15. [OpenAI CEO Argues Home PCs Waste the World's Limited DRAM Supply](#item-15) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed) ⭐️ 9.5/10
+## [AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment) ⭐️ 9.5/10
 
-Intel's poor PC business outlook triggered a historic $1 trillion decline in semiconductor sector market capitalization, marking one of the largest single-day losses for the industry.
+An AI agent powered by Anthropic's Sonnet model successfully performed controversial brain surgery on a mouse, bypassing safety refusals from newer model versions to treat epilepsy.
 
-rss · Tom's Hardware · Oct 30, 20:06
+rss · Tom's Hardware · Oct 31, 12:00
 
-**Tags**: `#Semiconductor Industry`, `#Intel`, `#Market Volatility`, `#PC Market`, `#Finance`
+**Tags**: `#AI Agents`, `#Biomedical Engineering`, `#LLM Safety`, `#Anthropic`, `#Autonomous Surgery`
 
 ---
 
 <a id="item-2"></a>
-## [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) ⭐️ 9.0/10
+## [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) ⭐️ 9.0/10
 
-A malicious actor published a tampered version of the Claude Code extension on the Cursor Marketplace to inject SSH backdoors, prompting immediate response from Anthropic and Cursor.
+Security researchers exposed a critical flaw in OpenAI's frontend allowing ChatGPT account takeovers via malicious links, leading to a controversial $5,000 bounty and widespread discussion on security vulnerabilities and engineering standards.
 
-hackernews · _chall · Oct 30, 07:09 · [Discussion](https://news.ycombinator.com/item?id=50300683)
+hackernews · armcat · Oct 31, 10:30 · [Discussion](https://news.ycombinator.com/item?id=50314699)
 
-**Tags**: `#security`, `#supply-chain-attack`, `#ai-devtools`, `#ssh`, `#incident-response`
+**Tags**: `#cybersecurity`, `#AI`, `#OpenAI`, `#vulnerability`, `#web-security`
 
 ---
 
 <a id="item-3"></a>
-## [Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months](https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory) ⭐️ 8.5/10
+## [Volta Infostealer Uses LLMs to Rank Victims by Financial Value](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) ⭐️ 8.0/10
 
-A deadly explosion at Intel's Fab 28 in Israel triggers a two-week shutdown that will delay 10nm Xeon server chip shipments and cause a six-month disruption to manufacturing.
+A newly documented Windows infostealer named 'Volta' (or Volta-Autodoxer) utilizes Large Language Models to analyze stolen data and rank victims by their financial worth. It implements a fallback chain of different AI models to bypass safety refusals during the analysis process. This marks a shift in cybercrime from indiscriminate data theft to intelligent targeting, as malware now automates the analyst work of assessing victim value. It forces security teams to consider that high-value individuals are now prioritized by automated systems, increasing the urgency of robust defensive measures. The malware steals passwords, cookies, payment cards, and crypto wallets before sending a dossier to an LLM with specific instructions to rank the target. The inclusion of a refusal fallback chain demonstrates that attackers are proactively engineering around AI guardrails from the design phase.
 
-rss · Tom's Hardware · Oct 30, 09:30
+hackernews · khalidkhair · Oct 31, 14:29 · [Discussion](https://news.ycombinator.com/item?id=50316531)
 
-**Tags**: `#semiconductors`, `#Intel`, `#supply_chain`, `#hardware`, `#industry_news`
+**Background**: Infostealers are a common type of malware that scans computers for personally identifiable information, such as login details and financial data, which are often sold on darknet markets. Large Language Models (LLMs) are AI systems capable of processing natural language tasks; previously, their integration into malware was mostly used for code generation or dynamic reconnaissance, but not for post-breach victim profiling.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Infostealer">Infostealer - Wikipedia</a></li>
+<li><a href="https://www.pointguardai.com/ai-security-incidents/apt28s-lamehug-first-documented-ai-powered-malware-in-operational-campaign">Analysis APT28 LameHug AI-Powered Malware Campaign</a></li>
+<li><a href="https://www.martincid.com/technology-sv/volta-autodoxer-infostealer-ai-ranks-victims-worth/">Volta malware raids your Gmail receipts, then asks an AI what ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members expressed anxiety about the rapid integration of AI into development workflows, warning that auto-downloading tools could facilitate compromised updates. Some drew parallels to the early days of the internet and the 2000s virus storms, suggesting that the threat landscape is evolving rapidly, while others used humor to comment on the logic of targeting the rich.
+
+**Tags**: `#malware`, `#LLM-security`, `#cybercrime`, `#AI-ethics`
 
 ---
 
 <a id="item-4"></a>
-## [Northflank Breached](https://status.northflank.com/) ⭐️ 8.0/10
+## [Prospero: A New GUI-Based Coding Agent Harness](https://nullprogram.com/blog/2026/10/31/) ⭐️ 8.0/10
 
-A detailed discussion on a security breach at Northflank, highlighting a recent surge in attacks on multi-tenant SaaS infrastructure and the potential impact on customer trust and market dynamics.
+A new GUI-based coding agent harness called 'Prospero' has been introduced, which prioritizes visual interaction and asynchronous workflows over traditional TUI approaches. This tool addresses pain points in existing TUI coding agents by allowing users to visually navigate files and manage interactions asynchronously, potentially improving developer experience. Critics note that C++ is a poor choice for agent GUIs due to their markdown and text-heavy nature, while others highlight lightweight alternatives that use significantly fewer resources than mainstream tools.
 
-hackernews · js4ever · Oct 30, 15:10 · [Discussion](https://news.ycombinator.com/item?id=50305025)
+hackernews · fovc · Oct 31, 11:54 · [Discussion](https://news.ycombinator.com/item?id=50315226)
 
-**Tags**: `#Security Breach`, `#SaaS Infrastructure`, `#InfoSec`, `#DevOps`, `#Market Trends`
+**Background**: Coding agents are AI tools that generate code, but their interfaces have traditionally been Text User Interfaces (TUIs) that output walls of text. A GUI (Graphical User Interface) provides a more visual way to interact with these outputs, similar to modern chat applications.
+
+**Discussion**: The community shows a mix of enthusiasm for GUIs and concern about resource efficiency, with a 30-year C++ veteran strongly advising against using C++ for this specific type of UI. Some users prefer lightweight, static binaries that use less RAM, while others note that subsidized subscriptions to mainstream tools are driving the market.
+
+**Tags**: `#Coding Agents`, `#Developer Tools`, `#GUI`, `#Human-Computer Interaction`, `#LLM`
 
 ---
 
 <a id="item-5"></a>
-## [Reddit Will Protect its "Extremely Valuable Corpus of Data" from Google's AI Search With Forced Logins](https://www.techpowerup.com/354307/reddit-will-protect-its-extremely-valuable-corpus-of-data-from-googles-ai-search-with-forced-logins) ⭐️ 7.5/10
+## [Intel shares plunge 30% on weak Q4 guidance despite 78% data center revenue jump](https://www.techpowerup.com/354340/intel-data-center-revenue-jumps-78-but-weak-q4-guidance-drags-stock-down-30) ⭐️ 7.5/10
 
-Reddit is implementing forced logins to protect its user-generated data from being scraped by Google's AI-powered search engines, marking a strategic shift in its relationship with major search providers.
+Intel's Q3 2026 revenue reached $16.5 billion with a 78% year-over-year jump in Data Center revenue, but the stock crashed 29% to $65.76 because the Q4 outlook was significantly below Wall Street expectations. The divergence between strong AI infrastructure demand and weak PC market performance highlights a sharp pivot in the semiconductor industry toward server-centric growth. The weak guidance included a Q4 revenue estimate of $15-16 billion versus a consensus of $17 billion, and an expected non-GAAP gross margin drop from 44% to about 38%, exacerbated by a production shutdown in Israel.
 
-rss · TechPowerUp News · Oct 30, 06:53
+rss · TechPowerUp News · Oct 31, 00:16
 
-**Tags**: `#AI Search`, `#Reddit`, `#Data Protection`, `#Web Scraping`, `#Big Tech`
+**Background**: In the tech sector, revenue guidance refers to a company's forward-looking financial projections for the upcoming quarter. Wall Street consensus is the aggregate of estimates from various financial analysts. Non-GAAP gross margin excludes certain non-recurring costs to provide a clearer view of operational profitability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/354340/intel-data-center-revenue-jumps-78-but-weak-q4-guidance-drags-stock-down-30">Intel Data Center Revenue Jumps 78%, but Weak Q 4 Guidance ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#Data Center`, `#Semiconductors`, `#Financial Earnings`, `#AI Infrastructure`
 
 ---
 
 <a id="item-6"></a>
-## [Cisco empowers 27-year-old engineer to rewrite 98% of legacy code in 24 months](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts) ⭐️ 7.5/10
+## [Intel Fab 28 Explosion Shutdown Set to Cost $600M in Revenue](https://www.techpowerup.com/354327/intel-fab-28-shutdown-to-cost-usd-600-million-in-lost-revenue-production-to-restart-soon) ⭐️ 7.5/10
 
-Cisco President Jeetu Patel has tasked a 27-year-old former startup founder with an unprecedented mission to rewrite 98% of the company's legacy code within 24 months. The engineer has been granted unlimited access to AI tokens to facilitate this large-scale code transformation. This bold initiative highlights the critical role of AI in addressing technical debt, offering a strategic approach to modernizing complex, aged software systems. It signals a growing industry trend where enterprises are leveraging powerful AI tools and young, agile talent to accelerate digital transformation. The ambitious target of rewriting 98% of the codebase in just 24 months serves as an aspirational benchmark, underscoring the significant limitations of AI-driven development that require strict oversight to maintain code quality and reliability.
+Intel announced that a two-week shutdown at its Fab 28 facility in Israel, caused by explosions, will result in $600 million in lost revenue split between Q4 2026 and Q1 2027. Production is expected to resume by the end of the week as the company assesses usable wafers. This rare physical supply chain disruption provides concrete financial data on the risks involved in Intel's global foundry operations. The significant downtime and waste of wafers directly impact Intel's financial outlook for its 10nm node production. CFO David Zinsner confirmed the assessment is an early estimate, noting that they are currently determining which materials in the line are usable to prevent further waste. The $600 million loss is specifically tied to the 10nm node production capacity of this Israel-based facility.
 
-rss · Tom's Hardware · Oct 30, 11:26
+rss · TechPowerUp News · Oct 30, 18:23
 
-**Background**: Legacy code refers to older software that has become difficult to maintain due to the use of outdated technologies or lack of modern development practices. Technical debt is the implied cost of future changes to a code base resulting from choosing an easy solution now over a better approach that would take more time.
+**Background**: Fab 28 in Kiryat Gat, Israel, is a key facility for Intel's 300mm wafer production and plays a central role in the company's 10nm node manufacturing. Semiconductor fabrication involves delicate, high-precision environments where physical incidents can lead to immediate and significant production halts and material loss.
 
-**Tags**: `#AI`, `#Legacy Code`, `#Cisco`, `#Software Engineering`, `#Technical Debt`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites">List of Intel manufacturing sites - Wikipedia</a></li>
+<li><a href="https://www.pcgamesn.com/intel/ice-lake-cpu-manufacturing-fab-28-israel">Inside Ice Lake's 10nm fab : where Intel tricks sand into thinking</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Intel`, `#Semiconductors`, `#Foundry`, `#Supply Chain`, `#Business`
 
 ---
 
 <a id="item-7"></a>
-## [Google hit with criminal probe over unapproved AI data center deforestation](https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law) ⭐️ 7.5/10
+## [French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed](https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers) ⭐️ 7.5/10
 
-A criminal investigation has been launched into Google's Finnish subsidiary for deforestation and environmental law violations related to an unapproved AI data center project.
+French lawmakers approved an amendment for an €11.2 billion annual tax on digital content traffic, charging €0.055 per gigabyte, which impacts global tech giants and raises concerns about implementation and fair distribution among smaller providers.
 
-rss · Tom's Hardware · Oct 30, 10:40
+rss · Tom's Hardware · Oct 31, 16:11
 
-**Tags**: `#AI Infrastructure`, `#Corporate Responsibility`, `#Data Centers`, `#Environmental Law`, `#Google`
+**Tags**: `#Policy`, `#Tech Industry`, `#France`, `#Internet`, `#Taxation`
 
 ---
 
 <a id="item-8"></a>
-## [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) ⭐️ 7.0/10
+## [Switch Lowering in GCC](https://xoranth.net/gcc-switch/) ⭐️ 7.0/10
 
-An analysis of a $6.3B Binance hack that was executed in 20 minutes, with community discussion focusing on security negligence and regulatory gaps.
+A detailed analysis of how GCC lowers switch statements into optimized control flow, accompanied by community discussion on compiler limitations regarding sparse cases and unicode handling.
 
-hackernews · domhudson · Oct 30, 12:50 · [Discussion](https://news.ycombinator.com/item?id=50303172)
+hackernews · signa11 · Oct 31, 08:02 · [Discussion](https://news.ycombinator.com/item?id=50314085)
 
-**Tags**: `#Security`, `#Cryptography`, `#Binance`, `#Cybersecurity`, `#Regulation`
+**Tags**: `#compiler-optimization`, `#gcc`, `#c-programming`, `#systems-programming`
 
 ---
 
 <a id="item-9"></a>
-## [Intel Fab 28 Shutdown to Cost $600 Million in Lost Revenue, Production to Restart Soon](https://www.techpowerup.com/354327/intel-fab-28-shutdown-to-cost-usd-600-million-in-lost-revenue-production-to-restart-soon) ⭐️ 6.5/10
+## [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) ⭐️ 7.0/10
 
-Intel expects a $600 million revenue loss in Q4 2026 and Q1 2027 due to a two-week production halt at its Kiryat Gat Fab 28 facility.
+Vitalik Buterin outlines a strategy for digital minimalism to reduce noise, sparking a discussion on practical implementations like dumb phones and OS-level restrictions.
 
-rss · TechPowerUp News · Oct 30, 18:23
+hackernews · wilbertliu · Oct 31, 06:16 · [Discussion](https://news.ycombinator.com/item?id=50313661)
 
-**Tags**: `#Semiconductors`, `#Intel`, `#Foundry`, `#Supply Chain`, `#Financials`
+**Tags**: `#digital-minimalism`, `#productivity`, `#cybersecurity`, `#technology-culture`, `#vitalik-buterin`
 
 ---
 
 <a id="item-10"></a>
-## [NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch](https://www.techpowerup.com/354315/nvidia-reportedly-moves-up-rtx-5080-24-gb-launch) ⭐️ 6.5/10
+## [(PR) BrainChip Launches AKD1500 Raspberry Pi 5 Development Kit](https://www.techpowerup.com/354326/brainchip-launches-akd1500-raspberry-pi-5-development-kit) ⭐️ 6.5/10
 
-NVIDIA is reportedly accelerating the launch of the RTX 5080 24 GB to early 2027 and may discontinue the 16 GB model in the Chinese market.
+BrainChip has released an AKD1500 development kit that integrates its neuromorphic M.2 board with the Raspberry Pi 5 to facilitate low-power, always-on edge AI development.
 
-rss · TechPowerUp News · Oct 30, 15:28
+rss · TechPowerUp News · Oct 30, 18:09
 
-**Tags**: `#NVIDIA`, `#RTX 50 Series`, `#GPU Rumors`, `#Hardware`
+**Tags**: `#Neuromorphic`, `#Edge AI`, `#Raspberry Pi`, `#Hardware Development`
 
 ---
 
 <a id="item-11"></a>
-## [Nvidia removes RTX 5080 from store as street prices climb to 2.2x MSRP](https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp) ⭐️ 6.5/10
+## [Former Microsoft engineer uses AI to build PDP-11 RAM](https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch) ⭐️ 6.5/10
 
-Nvidia has quietly removed the RTX 5080 listing from its official online marketplace. This action follows the earlier removal of the RTX 5090 as retail street prices surge to 2.2 times the manufacturer's suggested retail price (MSRP). This sequential delisting of high-end GPUs directly impacts consumer accessibility, signaling severe supply chain bottlenecks or market manipulation that are driving prices far above their launch value. It forces gamers and creators to pay premium prices to top up their rigs. The exact RTX 5080 model has been removed from the Nvidia store, meaning enthusiasts can no longer purchase it directly at the standard MSRP. The current street price of 2.2x the MSRP indicates a massive oversubscription or artificial scarcity in the consumer GPU market.
+Dave Plummer, a former Microsoft engineer, has designed and built 4MB of custom PDP-11 RAM from scratch using AI to overcome high component costs. This project highlights a creative application of AI in solving niche retrocomputing hardware shortages and demonstrates how expert users are leveraging modern tools for legacy system maintenance. The specific memory architecture targets the 1970s PDP-11 system with a capacity of 4MB, which is notably larger than standard 256KB or 512KB modules documented in historical handbooks.
 
-rss · Tom's Hardware · Oct 30, 20:13
+rss · Tom's Hardware · Oct 31, 11:40
 
-**Background**: Nvidia's direct-to-consumer online marketplace offers newly launched graphics cards at their official suggested retail prices. When stock becomes tight or supply chains are disrupted, manufacturers may delist products to stop selling out or to curb the immediate impact of extreme market speculation.
+**Background**: The PDP-11 is a classic 16-bit minicomputer that was heavily used in scientific and engineering fields from the 1970s to the 1990s. Maintaining these legacy systems often requires sourcing specialized memory modules that are no longer manufactured commercially. AI-assisted chip design, similar to tools like Google's AlphaChip, is a rapidly evolving field that automates the physical layout and optimization of circuitry.
 
-**Tags**: `#Nvidia`, `#GPU`, `#Hardware`, `#Pricing`, `#Market Trends`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://deepmind.google/blog/how-alphachip-transformed-computer-chip-design/">How AlphaChip transformed computer chip design - deepmind.google</a></li>
+<li><a href="https://archive.org/stream/bitsavers_decpdp11haroPDP11Handbook198384_24087759/EB-24944-18_Micro_PDP-11_Handbook_1983-84_djvu.txt">Full text of "dec :: pdp 11 :: handbooks :: EB-24944-18 Micro PDP - 11 ..."...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#hardware`, `#ai-design`, `#retrocomputing`, `#memory`, `#engineering`
 
 ---
 
 <a id="item-12"></a>
-## [Intel Q3 2026 Earnings Show Data Center Strength Amid PC Memory Pressure](https://www.servethehome.com/intel-q3-2026-earnings-data-center-foundry-client/) ⭐️ 6.5/10
+## [Curtin University researchers develop forensic method to trace 3D-printed PLA firearms](https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product) ⭐️ 6.5/10
 
-Intel released its Q3 2026 earnings, revealing that its data center segment has experienced significant growth. Concurrently, the company's client segment is facing challenges due to elevated pricing for DRAM and NAND memory components. This divergence highlights the shifting priorities in the semiconductor market, where enterprise and data center demand are outpacing consumer demand. It also reflects the impact of global memory price fluctuations on hardware manufacturers' profit margins and product pricing strategies. The specific financial figures and margin impacts for each segment are not detailed in the provided summary. The pressure on the client sector is explicitly attributed to the rising costs of essential memory components.
+Researchers from Curtin University in Australia have developed a forensic technique to identify the source of 3D-printed guns by analyzing differences in the material properties of PLA filament.
+The method successfully identified 26 out of 28 printed PLA samples to their specific filament brands. 这项突破为执法部门提供了一种潜在工具，可将非法3D打印武器追溯至特定的制造商或打印源头。
+它解决了传统取证方法在针对未监管的自制枪支时往往失效的重大安全空白。 The analysis relies on subtle variations in material properties among different commercial PLA filament brands rather than digital metadata.
+While the accuracy rate is high, the practical feasibility of this method on actual seized, potentially modified, or multi-material printed guns remains to be seen.
 
-rss · ServeTheHome · Oct 30, 22:43
+rss · Tom's Hardware · Oct 31, 11:00
 
-**Background**: In the semiconductor industry, 'client' refers to devices like laptops, desktops, and tablets for consumer use, while 'data center' encompasses servers and networking equipment for enterprises. DRAM and NAND are the two main types of memory chips, and their prices directly affect the manufacturing costs of PCs and smartphones.
+**Background**: 3D-printed 'ghost guns' are firearms manufactured without serial numbers or background checks, making them difficult for police to trace. 
+PLA is a common biodegradable thermoplastic used in consumer 3D printing, and its specific chemical and physical properties can vary slightly between different brand manufacturers. 
+Forensic science is increasingly applying materials analysis to criminal investigations to identify the origin of manufactured items.
 
-**Tags**: `#Intel`, `#Earnings`, `#Data Center`, `#Memory`, `#Semiconductors`
+**Tags**: `#3D-Printing`, `#Forensics`, `#Materials-Science`, `#Security`
 
 ---
 
 <a id="item-13"></a>
-## [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) ⭐️ 6.0/10
+## [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed) ⭐️ 6.5/10
 
-A GitHub repository demonstrating procedural flower generation in LaTeX, discussed on Hacker News with praise for the visuals but criticism of its AI-generated text.
+Intel's negative PC business outlook triggered a $1 trillion drop in semiconductor market capitalization in a single day, with Apple remaining largely unaffected.
 
-hackernews · nanna · Oct 30, 15:48 · [Discussion](https://news.ycombinator.com/item?id=50305637)
+rss · Tom's Hardware · Oct 30, 20:06
 
-**Tags**: `#LaTeX`, `#Procedural-Generation`, `#Computer-Graphics`, `#TeX`
+**Tags**: `#Intel`, `#Semiconductors`, `#Market Trends`, `#PC Industry`, `#Financial News`
+
+---
+
+<a id="item-14"></a>
+## [Kogui 族人谈 AI](https://www.solidot.org/story?sid=85760) ⭐️ 6.3/10
+
+A roundup featuring the Kogui people's philosophical view of AI as a mirror of human values, a Cisco engineer's plan to rewrite legacy code with LLMs, and Sam Altman's comments on global compute constraints.
+
+rss · Solidot · Oct 31, 10:59
+
+**Tags**: `#AI Ethics`, `#Code Refactoring`, `#Indigenous Knowledge`, `#LLM Application`, `#Hardware Constraints`
+
+---
+
+<a id="item-15"></a>
+## [OpenAI CEO Argues Home PCs Waste the World's Limited DRAM Supply](https://www.techpowerup.com/354346/openai-ceo-argues-home-pcs-waste-the-worlds-limited-dram-supply) ⭐️ 5.5/10
+
+OpenAI CEO Sam Altman argues on a podcast that prioritizing local AI inference on personal computers is inefficient because it consumes limited global DRAM supplies that would be better utilized in data centers.
+
+rss · TechPowerUp News · Oct 31, 14:03
+
+**Tags**: `#AI`, `#Hardware`, `#Supply Chain`, `#DRAM`, `#Local Inference`
 
 ---

@@ -5,171 +5,241 @@ date: 2026-10-31
 lang: zh
 ---
 
-> 从 80 条内容中筛选出 13 条重要资讯。
+> 从 60 条内容中筛选出 15 条重要资讯。
 
 ---
 
-1. [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](#item-1) ⭐️ 9.5/10
-2. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](#item-2) ⭐️ 9.0/10
-3. [Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months](#item-3) ⭐️ 8.5/10
-4. [Northflank Breached](#item-4) ⭐️ 8.0/10
-5. [Reddit Will Protect its "Extremely Valuable Corpus of Data" from Google's AI Search With Forced Logins](#item-5) ⭐️ 7.5/10
-6. [思科授权 27 岁工程师在 24 个月内重写 98%的遗留代码](#item-6) ⭐️ 7.5/10
-7. [Google hit with criminal probe over unapproved AI data center deforestation](#item-7) ⭐️ 7.5/10
-8. [The $6.3B Binance hack was pulled off in just 20 minutes](#item-8) ⭐️ 7.0/10
-9. [Intel Fab 28 Shutdown to Cost $600 Million in Lost Revenue, Production to Restart Soon](#item-9) ⭐️ 6.5/10
-10. [NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch](#item-10) ⭐️ 6.5/10
-11. [英伟达下架 RTX 5080，市场零售价超建议价两倍](#item-11) ⭐️ 6.5/10
-12. [英特尔 2026 年 Q3 财报显示数据中心强劲，PC 受内存压力](#item-12) ⭐️ 6.5/10
-13. [Florilegium: Procedural Flowers in LaTeX](#item-13) ⭐️ 6.0/10
+1. [AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](#item-1) ⭐️ 9.5/10
+2. [We Took over ChatGPT Accounts](#item-2) ⭐️ 9.0/10
+3. [Volta 窃密木马利用 LLM 按财务价值对受害者进行排序](#item-3) ⭐️ 8.0/10
+4. [Prospero：一款新型基于图形界面的编程智能体框架](#item-4) ⭐️ 8.0/10
+5. [英特尔因第四季度疲软指引股价重挫 30%，尽管数据中心营收增长 78%](#item-5) ⭐️ 7.5/10
+6. [英特尔 Fab 28 爆炸停工将导致 6 亿美元营收损失](#item-6) ⭐️ 7.5/10
+7. [French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed](#item-7) ⭐️ 7.5/10
+8. [Switch Lowering in GCC](#item-8) ⭐️ 7.0/10
+9. [Digital minimalism](#item-9) ⭐️ 7.0/10
+10. [(PR) BrainChip Launches AKD1500 Raspberry Pi 5 Development Kit](#item-10) ⭐️ 6.5/10
+11. [前微软工程师利用 AI 打造 PDP-11 内存](#item-11) ⭐️ 6.5/10
+12. [柯廷大学研究人员开发基于 PLA 材料特征的 3D 打印枪支溯源取证方法](#item-12) ⭐️ 6.5/10
+13. [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](#item-13) ⭐️ 6.5/10
+14. [Kogui 族人谈 AI](#item-14) ⭐️ 6.3/10
+15. [OpenAI CEO：家用 PC 浪费了全球有限的 DRAM 资源](#item-15) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed) ⭐️ 9.5/10
+## [AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment) ⭐️ 9.5/10
 
-Intel's poor PC business outlook triggered a historic $1 trillion decline in semiconductor sector market capitalization, marking one of the largest single-day losses for the industry.
+An AI agent powered by Anthropic's Sonnet model successfully performed controversial brain surgery on a mouse, bypassing safety refusals from newer model versions to treat epilepsy.
 
-rss · Tom's Hardware · 10月30日 20:06
+rss · Tom's Hardware · 10月31日 12:00
 
-**标签**: `#Semiconductor Industry`, `#Intel`, `#Market Volatility`, `#PC Market`, `#Finance`
+**标签**: `#AI Agents`, `#Biomedical Engineering`, `#LLM Safety`, `#Anthropic`, `#Autonomous Surgery`
 
 ---
 
 <a id="item-2"></a>
-## [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) ⭐️ 9.0/10
+## [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) ⭐️ 9.0/10
 
-A malicious actor published a tampered version of the Claude Code extension on the Cursor Marketplace to inject SSH backdoors, prompting immediate response from Anthropic and Cursor.
+Security researchers exposed a critical flaw in OpenAI's frontend allowing ChatGPT account takeovers via malicious links, leading to a controversial $5,000 bounty and widespread discussion on security vulnerabilities and engineering standards.
 
-hackernews · _chall · 10月30日 07:09 · [社区讨论](https://news.ycombinator.com/item?id=50300683)
+hackernews · armcat · 10月31日 10:30 · [社区讨论](https://news.ycombinator.com/item?id=50314699)
 
-**标签**: `#security`, `#supply-chain-attack`, `#ai-devtools`, `#ssh`, `#incident-response`
+**标签**: `#cybersecurity`, `#AI`, `#OpenAI`, `#vulnerability`, `#web-security`
 
 ---
 
 <a id="item-3"></a>
-## [Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months](https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory) ⭐️ 8.5/10
+## [Volta 窃密木马利用 LLM 按财务价值对受害者进行排序](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) ⭐️ 8.0/10
 
-A deadly explosion at Intel's Fab 28 in Israel triggers a two-week shutdown that will delay 10nm Xeon server chip shipments and cause a six-month disruption to manufacturing.
+新记录的名为“Volta”（或 Volta-Autodoxer）的 Windows 窃密木马利用大语言模型分析窃取的数据，并根据其财务价值对受害者进行排序。它实施了针对不同 AI 模型的后备链，以在分析过程中绕过安全拒绝。 这标志着网络犯罪从不分青红皂白地窃取数据向智能定向的转变，因为恶意软件现在自动化了评估受害者价值的分析工作。它迫使安全团队认识到，高价值个人现在会被自动化系统优先关注，从而增加了强化防御措施的紧迫性。 该恶意软件在将卷宗发送给 LLM 并附带具体排序指令之前，会窃取密码、Cookie、支付卡和加密货币钱包。拒绝后备链的加入表明，攻击者在设计阶段就主动针对 AI 护栏进行了工程化规避。
 
-rss · Tom's Hardware · 10月30日 09:30
+hackernews · khalidkhair · 10月31日 14:29 · [社区讨论](https://news.ycombinator.com/item?id=50316531)
 
-**标签**: `#semiconductors`, `#Intel`, `#supply_chain`, `#hardware`, `#industry_news`
+**背景**: 窃密木马是一种常见的恶意软件，它会扫描计算机以获取个人身份信息（如登录详细信息和金融数据），这些数据通常在暗网市场上出售。大语言模型（LLM）是能够处理自然语言任务的 AI 系统；此前，其集成到恶意软件中主要用于代码生成或动态侦察，而未用于入侵后的受害者画像。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Infostealer">Infostealer - Wikipedia</a></li>
+<li><a href="https://www.pointguardai.com/ai-security-incidents/apt28s-lamehug-first-documented-ai-powered-malware-in-operational-campaign">Analysis APT28 LameHug AI-Powered Malware Campaign</a></li>
+<li><a href="https://www.martincid.com/technology-sv/volta-autodoxer-infostealer-ai-ranks-victims-worth/">Volta malware raids your Gmail receipts, then asks an AI what ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员对 AI 快速整合到开发工作流中表达了焦虑，警告自动下载工具可能助长被破坏的更新。一些人将其与互联网早期和 2000 年代的病毒风暴相提并论，指出威胁格局正在迅速演变，而另一些人则用幽默的方式评论了针对富人的逻辑。
+
+**标签**: `#malware`, `#LLM-security`, `#cybercrime`, `#AI-ethics`
 
 ---
 
 <a id="item-4"></a>
-## [Northflank Breached](https://status.northflank.com/) ⭐️ 8.0/10
+## [Prospero：一款新型基于图形界面的编程智能体框架](https://nullprogram.com/blog/2026/10/31/) ⭐️ 8.0/10
 
-A detailed discussion on a security breach at Northflank, highlighting a recent surge in attacks on multi-tenant SaaS infrastructure and the potential impact on customer trust and market dynamics.
+一款名为“Prospero”的新型基于图形界面的编程智能体框架已面世，其优先考虑视觉交互和异步工作流，而非传统的 TUI 方法。 该工具通过允许用户以视觉方式导航文件并异步管理交互，解决了现有 TUI 编程智能体的痛点，有望改善开发者体验。 批评者指出，由于智能体 GUI 以 Markdown 和文本为主，C++ 是糟糕的选择，而其他一些人则强调有比主流工具占用资源少得多的轻量级替代品。
 
-hackernews · js4ever · 10月30日 15:10 · [社区讨论](https://news.ycombinator.com/item?id=50305025)
+hackernews · fovc · 10月31日 11:54 · [社区讨论](https://news.ycombinator.com/item?id=50315226)
 
-**标签**: `#Security Breach`, `#SaaS Infrastructure`, `#InfoSec`, `#DevOps`, `#Market Trends`
+**背景**: 编码智能体是生成代码的 AI 工具，但其界面传统上为输出大量文本的文本用户界面（TUI）。图形用户界面（GUI）提供了一种更具视觉性的方式来交互这些输出，类似于现代聊天应用。
+
+**社区讨论**: 社区对 GUI 表现出热情，同时也关注资源效率，一位拥有 30 年经验的 C++ 资深专家强烈不建议使用 C++ 构建这种特定类型的 UI。一些用户偏好使用内存更少的轻量级静态二进制文件，而另一些则表示主流工具的使用受补贴的订阅正在推动市场发展。
+
+**标签**: `#Coding Agents`, `#Developer Tools`, `#GUI`, `#Human-Computer Interaction`, `#LLM`
 
 ---
 
 <a id="item-5"></a>
-## [Reddit Will Protect its "Extremely Valuable Corpus of Data" from Google's AI Search With Forced Logins](https://www.techpowerup.com/354307/reddit-will-protect-its-extremely-valuable-corpus-of-data-from-googles-ai-search-with-forced-logins) ⭐️ 7.5/10
+## [英特尔因第四季度疲软指引股价重挫 30%，尽管数据中心营收增长 78%](https://www.techpowerup.com/354340/intel-data-center-revenue-jumps-78-but-weak-q4-guidance-drags-stock-down-30) ⭐️ 7.5/10
 
-Reddit is implementing forced logins to protect its user-generated data from being scraped by Google's AI-powered search engines, marking a strategic shift in its relationship with major search providers.
+英特尔 2026 年第三季度营收达到 165 亿美元，数据中心业务营收同比增长 78%，但由于第四季度展望远低于华尔街预期，股价暴跌 29%至 65.76 美元。 强劲的人工智能基础设施需求与疲弱的个人电脑市场表现之间的反差，凸显出半导体行业向以服务器为中心的增长模式的急剧转变。 疲弱的指引包括第四季度 150 亿至 160 亿美元的营收预期，远低于共识的 170 亿美元，以及非通用会计准则毛利率从 44%降至约 38%的预期，这一情况因以色列工厂停产而进一步加剧。
 
-rss · TechPowerUp News · 10月30日 06:53
+rss · TechPowerUp News · 10月31日 00:16
 
-**标签**: `#AI Search`, `#Reddit`, `#Data Protection`, `#Web Scraping`, `#Big Tech`
+**背景**: 在科技行业，营收指引是指公司对下一季度财务预测的前瞻性展望。华尔街共识是各家金融分析师预估的总和。非通用会计准则毛利率排除了某些非经常性成本，以提供更能反映运营盈利能力的视角。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/354340/intel-data-center-revenue-jumps-78-but-weak-q4-guidance-drags-stock-down-30">Intel Data Center Revenue Jumps 78%, but Weak Q 4 Guidance ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Intel`, `#Data Center`, `#Semiconductors`, `#Financial Earnings`, `#AI Infrastructure`
 
 ---
 
 <a id="item-6"></a>
-## [思科授权 27 岁工程师在 24 个月内重写 98%的遗留代码](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts) ⭐️ 7.5/10
+## [英特尔 Fab 28 爆炸停工将导致 6 亿美元营收损失](https://www.techpowerup.com/354327/intel-fab-28-shutdown-to-cost-usd-600-million-in-lost-revenue-production-to-restart-soon) ⭐️ 7.5/10
 
-思科总裁 Jeetu Patel 已指派一名 27 岁的前初创公司创始人完成一项前所未有的任务，即在 24 个月内重写公司 98%的遗留代码。该工程师已获得无限量 AI 令牌访问权限，以推动这一大规模代码转型。 这一大胆举措凸显了 AI 在解决技术债务方面的关键作用，为现代化复杂、老化的软件系统提供了战略路径。它标志着企业利用强大的 AI 工具和年轻灵活的人才以加速数字化转型的日益增长的行业趋势。 在短短 24 个月内重写 98%代码库的雄心勃勃的目标作为一个理想化的基准，凸显了 AI 驱动开发在维护代码质量和可靠性方面需要严格监督的重大局限性。
+这种罕见的物理供应链中断为英特尔全球代工业务中涉及的风险提供了具体的财务数据。严重的停工和晶圆浪费直接影响了英特尔 10 纳米节点生产的财务前景。 CFO David Zinsner 确认该评估为早期估算，指出他们目前正在确定生产线中哪些材料可用以防止进一步浪费。这 6 亿美元的损失具体与这家位于以色列的工厂的 10 纳米节点产能有关。
 
-rss · Tom's Hardware · 10月30日 11:26
+rss · TechPowerUp News · 10月30日 18:23
 
-**背景**: 遗留代码是指由于使用过时技术或缺乏现代开发实践而变得难以维护的较老软件。技术债务是指选择当前的简单解决方案而非耗时较长的更优方案所导致的代码库未来变更的隐性成本。
+**背景**: 位于以色列凯里亚特加特的 Fab 28 是英特尔 300 毫米晶圆生产的关键设施，在公司 10 纳米节点制造中发挥着核心作用。半导体制造涉及精密的高精度环境，物理事故会导致立即且严重的生产中断和材料损失。
 
-**标签**: `#AI`, `#Legacy Code`, `#Cisco`, `#Software Engineering`, `#Technical Debt`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites">List of Intel manufacturing sites - Wikipedia</a></li>
+<li><a href="https://www.pcgamesn.com/intel/ice-lake-cpu-manufacturing-fab-28-israel">Inside Ice Lake's 10nm fab : where Intel tricks sand into thinking</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Intel`, `#Semiconductors`, `#Foundry`, `#Supply Chain`, `#Business`
 
 ---
 
 <a id="item-7"></a>
-## [Google hit with criminal probe over unapproved AI data center deforestation](https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law) ⭐️ 7.5/10
+## [French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed](https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers) ⭐️ 7.5/10
 
-A criminal investigation has been launched into Google's Finnish subsidiary for deforestation and environmental law violations related to an unapproved AI data center project.
+French lawmakers approved an amendment for an €11.2 billion annual tax on digital content traffic, charging €0.055 per gigabyte, which impacts global tech giants and raises concerns about implementation and fair distribution among smaller providers.
 
-rss · Tom's Hardware · 10月30日 10:40
+rss · Tom's Hardware · 10月31日 16:11
 
-**标签**: `#AI Infrastructure`, `#Corporate Responsibility`, `#Data Centers`, `#Environmental Law`, `#Google`
+**标签**: `#Policy`, `#Tech Industry`, `#France`, `#Internet`, `#Taxation`
 
 ---
 
 <a id="item-8"></a>
-## [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) ⭐️ 7.0/10
+## [Switch Lowering in GCC](https://xoranth.net/gcc-switch/) ⭐️ 7.0/10
 
-An analysis of a $6.3B Binance hack that was executed in 20 minutes, with community discussion focusing on security negligence and regulatory gaps.
+A detailed analysis of how GCC lowers switch statements into optimized control flow, accompanied by community discussion on compiler limitations regarding sparse cases and unicode handling.
 
-hackernews · domhudson · 10月30日 12:50 · [社区讨论](https://news.ycombinator.com/item?id=50303172)
+hackernews · signa11 · 10月31日 08:02 · [社区讨论](https://news.ycombinator.com/item?id=50314085)
 
-**标签**: `#Security`, `#Cryptography`, `#Binance`, `#Cybersecurity`, `#Regulation`
+**标签**: `#compiler-optimization`, `#gcc`, `#c-programming`, `#systems-programming`
 
 ---
 
 <a id="item-9"></a>
-## [Intel Fab 28 Shutdown to Cost $600 Million in Lost Revenue, Production to Restart Soon](https://www.techpowerup.com/354327/intel-fab-28-shutdown-to-cost-usd-600-million-in-lost-revenue-production-to-restart-soon) ⭐️ 6.5/10
+## [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) ⭐️ 7.0/10
 
-Intel expects a $600 million revenue loss in Q4 2026 and Q1 2027 due to a two-week production halt at its Kiryat Gat Fab 28 facility.
+Vitalik Buterin outlines a strategy for digital minimalism to reduce noise, sparking a discussion on practical implementations like dumb phones and OS-level restrictions.
 
-rss · TechPowerUp News · 10月30日 18:23
+hackernews · wilbertliu · 10月31日 06:16 · [社区讨论](https://news.ycombinator.com/item?id=50313661)
 
-**标签**: `#Semiconductors`, `#Intel`, `#Foundry`, `#Supply Chain`, `#Financials`
+**标签**: `#digital-minimalism`, `#productivity`, `#cybersecurity`, `#technology-culture`, `#vitalik-buterin`
 
 ---
 
 <a id="item-10"></a>
-## [NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch](https://www.techpowerup.com/354315/nvidia-reportedly-moves-up-rtx-5080-24-gb-launch) ⭐️ 6.5/10
+## [(PR) BrainChip Launches AKD1500 Raspberry Pi 5 Development Kit](https://www.techpowerup.com/354326/brainchip-launches-akd1500-raspberry-pi-5-development-kit) ⭐️ 6.5/10
 
-NVIDIA is reportedly accelerating the launch of the RTX 5080 24 GB to early 2027 and may discontinue the 16 GB model in the Chinese market.
+BrainChip has released an AKD1500 development kit that integrates its neuromorphic M.2 board with the Raspberry Pi 5 to facilitate low-power, always-on edge AI development.
 
-rss · TechPowerUp News · 10月30日 15:28
+rss · TechPowerUp News · 10月30日 18:09
 
-**标签**: `#NVIDIA`, `#RTX 50 Series`, `#GPU Rumors`, `#Hardware`
+**标签**: `#Neuromorphic`, `#Edge AI`, `#Raspberry Pi`, `#Hardware Development`
 
 ---
 
 <a id="item-11"></a>
-## [英伟达下架 RTX 5080，市场零售价超建议价两倍](https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp) ⭐️ 6.5/10
+## [前微软工程师利用 AI 打造 PDP-11 内存](https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch) ⭐️ 6.5/10
 
-英伟达已悄然将 RTX 5080 从官方在线商城中下架。此前该厂商已先行移除 RTX 5090 的售卖页面，这一举措发生在市场零售价飙升至建议零售价（MSRP）2.2 倍的背景下。 高端显卡的接连下架直接影响了消费者的获取渠道，表明严重的供应链瓶颈或市场操纵正推动价格远超其初始发售价。这使得游戏玩家和内容创作者不得不支付高昂的溢价来升级硬件。 特定型号的 RTX 5080 已从英伟达官方商店移除，这意味着发烧友无法再直接以标准建议零售价购买该产品。当前 2.2 倍于建议零售价的市场价格表明消费级 GPU 市场存在严重的超额认购或人为缺货现象。
+前微软工程师 Dave Plummer 利用 AI 从零设计和制造了 4MB 的定制 PDP-11 内存，以克服高昂的组件成本。 该项目展示了 AI 在解决小众复古计算硬件短缺方面的创造性应用，并证明了资深用户如何利用现代工具进行旧系统维护。 该特定内存架构针对 1970 年代的 PDP-11 系统，容量为 4MB，这比历史手册中记录的 256KB 或 512KB 标准模块要大得多。
 
-rss · Tom's Hardware · 10月30日 20:13
+rss · Tom's Hardware · 10月31日 11:40
 
-**背景**: 英伟达的官方直销商城通常会以标准的建议零售价销售其新发布的显卡。当库存紧张或供应链受到干扰时，制造商可能会下架产品，以避免产品瞬间售罄或遏制极端市场投机带来的直接冲击。
+**背景**: PDP-11 是一款经典的 16 位小型计算机，在 1970 年代至 1990 年代被广泛用于科学和工程领域。维护这些遗留系统通常需要寻找不再商业生产的专用内存模块。AI 辅助芯片设计（类似于谷歌的 AlphaChip 等工具）是一个快速发展的领域，它能够自动化电路的物理布局和优化工具。
 
-**标签**: `#Nvidia`, `#GPU`, `#Hardware`, `#Pricing`, `#Market Trends`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://deepmind.google/blog/how-alphachip-transformed-computer-chip-design/">How AlphaChip transformed computer chip design - deepmind.google</a></li>
+<li><a href="https://archive.org/stream/bitsavers_decpdp11haroPDP11Handbook198384_24087759/EB-24944-18_Micro_PDP-11_Handbook_1983-84_djvu.txt">Full text of "dec :: pdp 11 :: handbooks :: EB-24944-18 Micro PDP - 11 ..."...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#hardware`, `#ai-design`, `#retrocomputing`, `#memory`, `#engineering`
 
 ---
 
 <a id="item-12"></a>
-## [英特尔 2026 年 Q3 财报显示数据中心强劲，PC 受内存压力](https://www.servethehome.com/intel-q3-2026-earnings-data-center-foundry-client/) ⭐️ 6.5/10
+## [柯廷大学研究人员开发基于 PLA 材料特征的 3D 打印枪支溯源取证方法](https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product) ⭐️ 6.5/10
 
-英特尔发布了其 2026 年第三季度财报，显示其数据中心部门实现了显著增长。与此同时，由于 DRAM 和 NAND 内存组件价格高企，该公司的客户端部门正面临挑战。 这种分化凸显了半导体市场优先级的转移，企业和数据中心的需求正在超越消费需求。这也反映了全球内存价格波动对硬件制造商利润率和产品定价策略的影响。 提供的摘要中未详细说明各分部的具体财务数字和利润率影响。客户端部门的压力被明确归因于必要内存组件成本的上升。
+澳大利亚柯廷大学的研究人员开发了一种取证技术，通过分析 PLA 线材的材料属性差异来追溯 3D 打印枪支的来源。
+该方法成功地将 28 个打印 PLA 样本中的 26 个正确识别出其对应的线材品牌。 该分析依赖于不同商用 PLA 线材品牌之间材料属性的细微差异，而非数字元数据。
+尽管准确率较高，但该方法在实际扣押的、可能经过修改或使用多种材料打印的枪支上的可行性仍有待观察。
 
-rss · ServeTheHome · 10月30日 22:43
+rss · Tom's Hardware · 10月31日 11:00
 
-**背景**: 在半导体行业中，“客户端”指的是供消费者使用的笔记本电脑、台式机、平板电脑等设备，而“数据中心”则包括企业使用的服务器和网络设备。DRAM 和 NAND 是两种主要的内存芯片，其价格直接影响个人电脑和智能手机的制造成本。
+**背景**: 3D 打印的“幽灵枪”是指没有序列号或未经背景调查制造的枪支，这使得警方难以追踪其来源。 
+PLA 是一种常见的可生物降解热塑性塑料，广泛用于消费级 3D 打印，其特定的化学和物理属性在不同品牌制造商之间可能存在细微差异。 
+法医学越来越多地将材料分析应用于刑事调查，以确定制造物品的来源。
 
-**标签**: `#Intel`, `#Earnings`, `#Data Center`, `#Memory`, `#Semiconductors`
+**标签**: `#3D-Printing`, `#Forensics`, `#Materials-Science`, `#Security`
 
 ---
 
 <a id="item-13"></a>
-## [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) ⭐️ 6.0/10
+## [Intel’s woes wipe out $1 trillion of semiconductor market cap in one day](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed) ⭐️ 6.5/10
 
-A GitHub repository demonstrating procedural flower generation in LaTeX, discussed on Hacker News with praise for the visuals but criticism of its AI-generated text.
+Intel's negative PC business outlook triggered a $1 trillion drop in semiconductor market capitalization in a single day, with Apple remaining largely unaffected.
 
-hackernews · nanna · 10月30日 15:48 · [社区讨论](https://news.ycombinator.com/item?id=50305637)
+rss · Tom's Hardware · 10月30日 20:06
 
-**标签**: `#LaTeX`, `#Procedural-Generation`, `#Computer-Graphics`, `#TeX`
+**标签**: `#Intel`, `#Semiconductors`, `#Market Trends`, `#PC Industry`, `#Financial News`
+
+---
+
+<a id="item-14"></a>
+## [Kogui 族人谈 AI](https://www.solidot.org/story?sid=85760) ⭐️ 6.3/10
+
+A roundup featuring the Kogui people's philosophical view of AI as a mirror of human values, a Cisco engineer's plan to rewrite legacy code with LLMs, and Sam Altman's comments on global compute constraints.
+
+rss · Solidot · 10月31日 10:59
+
+**标签**: `#AI Ethics`, `#Code Refactoring`, `#Indigenous Knowledge`, `#LLM Application`, `#Hardware Constraints`
+
+---
+
+<a id="item-15"></a>
+## [OpenAI CEO：家用 PC 浪费了全球有限的 DRAM 资源](https://www.techpowerup.com/354346/openai-ceo-argues-home-pcs-waste-the-worlds-limited-dram-supply) ⭐️ 5.5/10
+
+OpenAI CEO Sam Altman 在播客中辩称，优先在个人电脑上运行本地 AI 推理是低效的，因为它消耗了本可以更好地用于数据中心的有限全球 DRAM 供应。
+
+rss · TechPowerUp News · 10月31日 14:03
+
+**标签**: `#AI`, `#Hardware`, `#Supply Chain`, `#DRAM`, `#Local Inference`
 
 ---
