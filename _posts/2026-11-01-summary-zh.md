@@ -5,158 +5,136 @@ date: 2026-11-01
 lang: zh
 ---
 
-> 从 54 条内容中筛选出 11 条重要资讯。
+> 从 55 条内容中筛选出 9 条重要资讯。
 
 ---
 
-1. [NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives](#item-1) ⭐️ 9.5/10
-2. [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](#item-2) ⭐️ 9.0/10
-3. [Jepsen: ParticleDB 1.1.4](#item-3) ⭐️ 9.0/10
-4. [算一算账：我们如何接管了 ChatGPT 账户](#item-4) ⭐️ 8.0/10
-5. [美国司法部捣毁价值两亿美元的 AI 学生贷款身份诈骗团伙](#item-5) ⭐️ 7.5/10
-6. [PivotLake 指出内存延迟是软件性能的关键瓶颈](#item-6) ⭐️ 7.0/10
-7. [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](#item-7) ⭐️ 6.0/10
-8. [Linux Mint Announces Hibernation Re-Implementation and New System Apps](#item-8) ⭐️ 5.5/10
-9. [Tuxedo Nano Pro Gen15 Mini PC Launches With Intel Core Ultra X7 358H and Linux Preinstalled](#item-9) ⭐️ 5.5/10
-10. [Steam Deck Plugin Brings PS5 and Xbox Series UI to Handheld Gaming](#item-10) ⭐️ 5.5/10
-11. [研究人员开发法医方法来追踪 3D 打印的 PLA 幽灵枪支](#item-11) ⭐️ 5.5/10
+1. [Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages](#item-1) ⭐️ 8.5/10
+2. [NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives](#item-2) ⭐️ 7.5/10
+3. [HackerTube: YouTube built from videos recommended by HN](#item-3) ⭐️ 7.0/10
+4. [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](#item-4) ⭐️ 7.0/10
+5. [开源 UEFI 工具绕过英伟达 Windows 下 GPU AI 半速限制器](#item-5) ⭐️ 6.5/10
+6. [HackerBooks：AI 构建的网站汇总了 Hacker News 上提到的 16500 本书](#item-6) ⭐️ 6.0/10
+7. [联想指纹 U 盘被证实仅为未加密的 SD 卡](#item-7) ⭐️ 6.0/10
+8. [Linux Mint 重新引入休眠并推出新的电源管理图形界面](#item-8) ⭐️ 5.5/10
+9. [Biwin M560 2TB SSD Review: The DRAM-less drive to beat](#item-9) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives](https://www.servethehome.com/nvidia-updates-rubin-gpu-specs-as-first-production-hardware-arrives/) ⭐️ 9.5/10
+## [Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers) ⭐️ 8.5/10
 
-NVIDIA has finalized and updated the specifications for its Rubin GPU platform just as the first production units begin shipping to customers.
+OpenAI CEO Sam Altman met with Samsung executives in South Korea to secure additional RAM supplies for AI data centers amid severe global memory chip shortages.
 
-rss · ServeTheHome · 11月1日 03:00
+rss · Tom's Hardware · 11月1日 14:21
 
-**标签**: `#NVIDIA Rubin`, `#AI Accelerators`, `#Data Center`, `#Hardware Architecture`, `#GPU`
+**标签**: `#AI Infrastructure`, `#Semiconductors`, `#OpenAI`, `#Samsung`, `#Supply Chain`
 
 ---
 
 <a id="item-2"></a>
-## [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) ⭐️ 9.0/10
+## [NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives](https://www.servethehome.com/nvidia-updates-rubin-gpu-specs-as-first-production-hardware-arrives/) ⭐️ 7.5/10
 
-A critical use-after-free vulnerability in the Linux kernel's TCP stack (CVE-2026-98432) is discussed with insights into its exploitability and mitigation strategies.
+NVIDIA has revised the technical specifications of its Rubin GPU platforms as the first production units begin shipping.
 
-hackernews · oger · 10月31日 19:16 · [社区讨论](https://news.ycombinator.com/item?id=50319143)
+rss · ServeTheHome · 11月1日 03:00
 
-**标签**: `#Linux`, `#Security`, `#CVE`, `#Network`, `#Kernel`
+**标签**: `#NVIDIA`, `#GPU`, `#Hardware`, `#AI Infrastructure`
 
 ---
 
 <a id="item-3"></a>
-## [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4) ⭐️ 9.0/10
+## [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) ⭐️ 7.0/10
 
-Jepsen analysis reveals that ParticleDB 1.1.4, despite claiming formal proof, suffers from severe transactional anomalies and data loss, prompting recommendations to halt deployment and migrate data.
+Andrej Karpathy presents HackerTube, a YouTube-style interface that curates 6,000+ videos generated from highly-rated Hacker News comments, sparking discussion on personalized feed disaggregation and alternative social discovery models.
 
-hackernews · aphyr · 10月31日 13:39 · [社区讨论](https://news.ycombinator.com/item?id=50316100)
+hackernews · karpathy · 10月31日 19:56 · [社区讨论](https://news.ycombinator.com/item?id=50319510)
 
-**标签**: `#distributed-systems`, `#database-reliability`, `#jepsen`, `#ai-code-quality`, `#software-engineering`
+**标签**: `#data-aggregation`, `#natural-language-processing`, `#generative-video`, `#hacker-news`, `#web-development`
 
 ---
 
 <a id="item-4"></a>
-## [算一算账：我们如何接管了 ChatGPT 账户](https://www.parameter.ai/labs/we-found-a-gap-at-openai) ⭐️ 8.0/10
+## [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) ⭐️ 7.0/10
 
-Parameter AI Labs 的技术分析揭示了他们如何利用 OpenAI 前端的漏洞接管 ChatGPT 账户，这一事件引发了关于安全赏金和系统复杂性的激烈讨论。
+A Brazilian court sanctioned lawyers for using prompt injection in filings, sparking a Hacker News discussion on AI security defenses and the ethics of manipulating machine outputs.
 
-hackernews · armcat · 10月31日 10:30 · [社区讨论](https://news.ycombinator.com/item?id=50314699)
+hackernews · doodlesdev · 11月1日 02:19 · [社区讨论](https://news.ycombinator.com/item?id=50322173)
 
-**标签**: `#cybersecurity`, `#web-security`, `#openai`, `#bug-bounty`, `#software-engineering`
+**标签**: `#prompt-injection`, `#ai-security`, `#legal-tech`, `#adversarial-ml`, `#case-study`
 
 ---
 
 <a id="item-5"></a>
-## [美国司法部捣毁价值两亿美元的 AI 学生贷款身份诈骗团伙](https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for) ⭐️ 7.5/10
+## [开源 UEFI 工具绕过英伟达 Windows 下 GPU AI 半速限制器](https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops) ⭐️ 6.5/10
 
-美国司法部宣布，"捉鬼行动"成功捣毁了一个价值两亿美元的诈骗团伙，该团伙利用了未上大学的高中毕业生的被盗身份。 此次打击行动凸显了 AI 辅助身份盗窃和金融欺诈日益严峻的威胁，展示了技术如何降低大规模网络犯罪的门槛，并导致无辜受害者背负巨额学生债务。 犯罪分子专门针对未上大学的高中毕业生，利用 AI 工具模拟在线考勤，使被盗身份看起来像是正在积极修读课程的学生。
+名为 nv-uefi-unlocker 的开源 UEFI 工具绕过了英伟达在 Windows 系统下对 RTX 20、30 和 40 系列 GPU 的 Tensor 速率限制。这一变通方法可将 FP16 AI 性能提升最多 65%。 该工具为 AI 从业者和游戏玩家提供了一免费方法，使其无需等待新驱动发布即可在现有硬件上最大化推理性能。它解决的是软件层面的显著限制，而非要求根本性的硬件升级。 具体的 65%性能提升适用于 FP16 AI 工作负载，现代神经网络推理大量依赖此类计算。该工具通过 UEFI 层运行，专门解除在 Windows 系统下的台式机和笔记本中的限制。
 
-rss · Tom's Hardware · 10月31日 15:37
+rss · Tom's Hardware · 11月1日 14:00
 
-**背景**: 学生贷款身份欺诈发生在犯罪分子使用被盗个人信息以获取教育贷款时，这一过程通常不会立即把钱存入学校的账户。在这种情况下，骗子会拦截本应给"学生"但未用于交学费的多余资金。随着人工智能技术的进步，它可用于生成逼真的数字痕迹，例如伪造的考勤记录或虚拟存在，以绕过在线教育行业的身份验证检查。
+**背景**: 英伟达的“半速 GPU AI 限制器”指的是 Windows 系统软件中限制 Tensor 处理单元速率的限制，从而限制了 FP16 性能。UEFI 是现代固件界面，允许在操作系统加载前进行高级硬件配置。FP16 是一种 16 位浮点数据格式，广泛用于 AI 领域以平衡速度和精度。
 
-**标签**: `#cybersecurity`, `#ai-misuse`, `#fraud`, `#identity-theft`, `#legal-enforcement`
+**标签**: `#GPU`, `#Nvidia`, `#AI-Performance`, `#Hardware-Tweaks`, `#Windows`
 
 ---
 
 <a id="item-6"></a>
-## [PivotLake 指出内存延迟是软件性能的关键瓶颈](https://pivotlake.io/blog/its-the-memory-latency-stupid/) ⭐️ 7.0/10
+## [HackerBooks：AI 构建的网站汇总了 Hacker News 上提到的 16500 本书](https://hackerbooks.org/) ⭐️ 6.0/10
 
-PivotLake 的一篇新博客文章指出，内存延迟而非原始计算能力是严重影响软件性能的主要因素。文章提出使用分层数据结构来缓解这些延迟问题并提高数据局部性。 这一分析对系统工程师和开发者具有重要意义，因为它将焦点从 CPU 优化转移到了内存架构上，而后者在现代硬件中由于缓存与主存之间的速度差距巨大而变得至关重要。它为设计高性能应用程序和嵌入式系统提供了可行的见解。 文章通过建议将经常访问的数据保留在处理单元附近的具体分层数据结构，明确指出了当前硬件的局限性。它指出，在延迟敏感的工作负载中，数据布局的微小变化可能会产生不成比例的性能影响。
+一位开发者使用 Claude Opus 5.5 构建了 HackerBooks 网站，该网站汇总了从 2007 年至今在 Hacker News 评论中至少被提及两次的 16,500 本书。 该项目展示了 AI 编码助手在极少人工干预下构建完整数据管道和网站的能力，同时也为发现社区推荐的书籍提供了有价值的资源。 网站统计的是提及次数而非情感倾向，这意味着赞美和批评被同等对待，导致像《我的奋斗》这样的争议书籍被列为经常被“推荐”；数据可从关于页面下载。
 
-hackernews · ntur1337 · 10月31日 18:38 · [社区讨论](https://news.ycombinator.com/item?id=50318720)
+hackernews · roansh · 11月1日 15:58 · [社区讨论](https://news.ycombinator.com/item?id=50326821)
 
-**背景**: 内存延迟是指 CPU 从主存检索数据所需的时间，这比访问 CPU 缓存要慢得多。随着 CPU 时钟速度趋于停滞，内存带宽和延迟成为主要瓶颈，从而催生了旨在最大化缓存效率的专用数据结构和编程技术。
+**背景**: Karpathy 的 HackerTube 是一个类似的项目，汇总了 Hacker News 上提到的 YouTube 视频。HackerBooks 将相同的聚合逻辑应用于 Hacker News 社区中经常讨论的书籍推荐，并利用现代大语言模型自动化开发流程。
 
-**社区讨论**: 社区讨论强调了嵌入式环境中的实际挑战，一名用户对比了在资源有限的 STM32 芯片上标准 C++容器与自定义优化替代方案的 performance。其他人则质疑所提方案的新颖性，认为其类似于 DuckDB 和 ClickHouse 等工具中已有的簇状哈希表或聚合技术。
+**社区讨论**: 评论者普遍称赞了网站的实用性，但批评了缺乏情感分析，指出争议书籍被错误地显示为推荐。其他人讨论了使用的具体工具，将 Claude Code Desktop 的功能与传统 IDE 和终端进行了比较，一些人还建议改进，例如通过本地图书馆可用性进行过滤。
 
-**标签**: `#performance`, `#memory-architecture`, `#data-structures`, `#systems-programming`, `#embedded-systems`
+**标签**: `#Show-HN`, `#Data-Engineering`, `#AI-Assisted-Coding`, `#Information-Retrieval`, `#Community-Insight`
 
 ---
 
 <a id="item-7"></a>
-## [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) ⭐️ 6.0/10
+## [联想指纹 U 盘被证实仅为未加密的 SD 卡](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/) ⭐️ 6.0/10
 
-A new project called Memdoor demonstrates that a team of five local Qwen3.8-27B models can outperform Fable 5 on a subset of LiveCodeBench Hard, sparking debate about the practical viability of local models versus proprietary AI.
+研究人员发现联想 ThinkPlus FU100 指纹 U 盘实际上只是一个装在保护壳里的未加密 SD 卡。这一发现揭开了该设备的安全机制伪装，硬件中根本不存在实际的加密和密钥管理功能。 此次事件削弱了消费者对硬件安全供应商的信任，表明物理设备上的“安全”标签可能并不反映实际的加密保护措施。它突显了在未经过独立验证的情况下，依赖硬件供应商存储敏感数据的风险。 ThinkPlus FU100 的安全缺陷于 2025 年 8 月被识别，并于 2026 年 1 月发布了 CVE-2025-13453。该产品最早于 2019 年发布，主要在中国市场销售，这也解释了安全漏洞公开披露为何延迟。
 
-hackernews · guregodevo · 10月31日 22:46 · [社区讨论](https://news.ycombinator.com/item?id=50320995)
+hackernews · entryleveljobsc · 11月1日 14:34 · [社区讨论](https://news.ycombinator.com/item?id=50326099)
 
-**标签**: `#Local-LLM`, `#Multi-Agent-Systems`, `#Coding-Benchmarks`, `#Qwen`, `#Open-Source-AI`
-
----
-
-<a id="item-8"></a>
-## [Linux Mint Announces Hibernation Re-Implementation and New System Apps](https://www.techpowerup.com/354366/linux-mint-announces-hibernation-re-implementation-and-new-system-apps) ⭐️ 5.5/10
-
-Linux Mint has re-implemented hibernation support to address battery drain issues and introduced new system administration apps in its upcoming update.
-
-rss · TechPowerUp News · 10月31日 21:16
-
-**标签**: `#Linux Mint`, `#Linux`, `#System Administration`, `#Power Management`, `#Open Source`
-
----
-
-<a id="item-9"></a>
-## [Tuxedo Nano Pro Gen15 Mini PC Launches With Intel Core Ultra X7 358H and Linux Preinstalled](https://www.techpowerup.com/354362/tuxedo-nano-pro-gen15-mini-pc-launches-with-intel-core-ultra-x7-358h-and-linux-preinstalled) ⭐️ 5.5/10
-
-Tuxedo Nano Pro Gen15 is a new Linux-preinstalled mini PC featuring Intel Core Ultra X7 358H, targeting developers and home lab users for local LLM workloads.
-
-rss · TechPowerUp News · 10月31日 19:39
-
-**标签**: `#Hardware`, `#Linux`, `#Mini PC`, `#Local LLM`, `#Intel`
-
----
-
-<a id="item-10"></a>
-## [Steam Deck Plugin Brings PS5 and Xbox Series UI to Handheld Gaming](https://www.techpowerup.com/354356/steam-deck-plugin-brings-ps5-and-xbox-series-ui-to-handheld-gaming) ⭐️ 5.5/10
-
-New Decky Loader plugins allow Steam Deck users to replace the default Steam UI with custom interfaces mimicking the PlayStation 5 and Xbox Series X|S home screens.
-
-rss · TechPowerUp News · 10月31日 17:23
-
-**标签**: `#Steam Deck`, `#UI/UX`, `#Open Source`, `#Hardware Modding`, `#Console Emulation`
-
----
-
-<a id="item-11"></a>
-## [研究人员开发法医方法来追踪 3D 打印的 PLA 幽灵枪支](https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product) ⭐️ 5.5/10
-
-澳大利亚科廷大学的研究人员展示了一种法医方法，可以识别用于 3D 打印枪支的 PLA 丝材的具体制造商。在测试中，他们成功地将 28 个 3D 打印的 PLA 样品中的 26 个匹配到了其原始商业产品来源。 幽灵枪支缺乏序列号，使得它们在刑事调查中极难追踪，并引发了公众安全方面的担忧。这项研究为执法部门提供了一种可行的材料科学工具，能够将查获的 3D 打印枪支与特定的丝材来源联系起来，从而增强了法医追踪能力。 该方法依赖于分析各种商业 PLA 丝材品牌之间独特且固有的材料特性差异。28 个样品中 26 个的高识别率表明，这些微小的材料变异具有足够的一致性，可以作为打印对象的可靠法医指纹。
-
-rss · Tom's Hardware · 10月31日 11:00
-
-**背景**: “幽灵枪支”是由个人而非授权生产商组装的枪支，通常没有序列号，且不会记录在 FBI 的国家枪支追踪系统中。在消费级 3D 打印中，聚乳酸（PLA）是最常用的热塑性丝材。虽然不同品牌的 PLA 在视觉上相似，但由于具体的制造工艺和使用的添加剂，它们的化学成分和物理特性可能存在微小差异。
+**背景**: 支持指纹识别的 U 盘旨在用生物识别访问取代传统的密码认证，以提供更便捷的数据安全。然而，真正的硬件加密需要安全元件（Secure Element）来存储密钥，而许多消费级设备使用的是基于软件的加密，如果物理存储介质未受保护，这种加密很容易被绕过。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Polylactic_acid">Polylactic acid - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/technology/ghost-gun">Ghost gun | Definition , Shootings, & Laws | Britannica</a></li>
-<li><a href="https://www.vedderholsters.com/blog/what-is-a-ghost-gun/">What Is a Ghost Gun ? Everything You Need to... - Vedder Holsters</a></li>
+<li><a href="https://tech.yahoo.com/cybersecurity/articles/lenovos-encrypted-fingerprint-usb-drive-130000578.html">Lenovo's 'encrypted' fingerprint USB drive is just an ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#3D-Printing`, `#Forensics`, `#Materials-Science`, `#Public-Safety`, `#Research`
+**社区讨论**: 评论者表达了深刻的怀疑，质疑如此基础的设计缺陷如何能通过任何形式的安全审查或设计批准。讨论中强调了使用开源软件加密而非专有硬件解决方案的偏好，许多人指出由于该产品在中国以外地区的销售范围有限，这一问题可能因此被忽视了。
+
+**标签**: `#Security`, `#Hardware`, `#Supply Chain`, `#Cryptography`
+
+---
+
+<a id="item-8"></a>
+## [Linux Mint 重新引入休眠并推出新的电源管理图形界面](https://www.techpowerup.com/354366/linux-mint-announces-hibernation-re-implementation-and-new-system-apps) ⭐️ 5.5/10
+
+Linux Mint 已重新实现了休眠支持，并推出了带有图形界面的系统管理应用程序。新工具允许用户配置挂起、休眠、混合挂起等睡眠模式，并自动检测配置问题。 此次更新通过提供挂起模式的可靠替代方案，显著提升了 Linux Mint 笔记本用户的电池续航和实用性，因为挂起模式通常会导致电池快速耗尽。这使该发行版在移动和电源敏感计算场景中更加实用。 新的系统管理工具包含一个专门的图形界面页面，提供具体睡眠模式的开关以及一个自动检测问题的诊断部分。这种用户友好的方法帮助初学者在不使用命令行干预的情况下修复休眠问题。
+
+rss · TechPowerUp News · 10月31日 21:16
+
+**背景**: Linux Mint 是一个基于 Ubuntu 构建的用户友好型 Linux 发行版，常用于引导 Windows 用户。休眠模式将系统状态保存到硬盘以省电，而挂起模式将其保存到易失性内存，几天内可能耗尽电池。
+
+**标签**: `#Linux`, `#System Administration`, `#Power Management`, `#Linux Mint`
+
+---
+
+<a id="item-9"></a>
+## [Biwin M560 2TB SSD Review: The DRAM-less drive to beat](https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review) ⭐️ 5.5/10
+
+A review of the Biwin M560 2TB DRAM-less SSD, highlighting its strong responsiveness and efficiency despite average post-cache write speeds.
+
+rss · Tom's Hardware · 11月1日 15:00
+
+**标签**: `#Hardware`, `#SSD`, `#Storage`, `#Consumer Electronics`
 
 ---
