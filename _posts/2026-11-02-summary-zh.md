@@ -5,173 +5,230 @@ date: 2026-11-02
 lang: zh
 ---
 
-> 从 47 条内容中筛选出 10 条重要资讯。
+> 从 89 条内容中筛选出 14 条重要资讯。
 
 ---
 
-1. [马斯克宣称 Neuralink 的 Blindsight 准备恢复视力](#item-1) ⭐️ 9.5/10
-2. [陶哲轩认为数学家应重视理解 AI 生成的证明而非独立创作](#item-2) ⭐️ 9.0/10
-3. [高数值孔径极紫外光刻技术仍具关键性](#item-3) ⭐️ 9.0/10
-4. [Google AI Mode disrupts web traffic, AI power strains grid, Hubble rescue bid issued](#item-4) ⭐️ 8.3/10
-5. [Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages](#item-5) ⭐️ 7.5/10
-6. [Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows](#item-6) ⭐️ 7.5/10
-7. [研究人员利用 JEPAs 证明并改进柏拉图表示假说](#item-7) ⭐️ 7.0/10
-8. [OmniDiff：Rust 编写的快速、内容感知的开源 Git diff 工具](#item-8) ⭐️ 6.0/10
-9. [Flexcompute 首席执行官探讨半导体设计的物理世界模型方法](#item-9) ⭐️ 6.0/10
-10. [Police Chief physically unplugs Flock cameras after the company ignores contract cancellation](#item-10) ⭐️ 5.5/10
+1. [Marvell 以 1150 亿美元收购 Lumentum](#item-1) ⭐️ 9.5/10
+2. [高通验证 HBC 芯片，2027 年 Dragonfly AI250 样品将至](#item-2) ⭐️ 8.5/10
+3. [AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it](#item-3) ⭐️ 8.5/10
+4. [Oracle files to sell $20B in new stock, bonds to finance AI buildout](#item-4) ⭐️ 8.0/10
+5. [Stack Overflow 表示它还活着](#item-5) ⭐️ 7.3/10
+6. [Subvocal 推出基于射频感知的无声语音智能眼镜](#item-6) ⭐️ 7.0/10
+7. [Anthropic 新增 Claude Code 限制以阻止游戏 IP 克隆](#item-7) ⭐️ 6.5/10
+8. [华硕服务器在 OCP 2026 上展示液冷 NVIDIA NVL72 机架](#item-8) ⭐️ 6.5/10
+9. [Apple Intelligence 随 iOS 27.3 登陆中国](#item-9) ⭐️ 6.3/10
+10. [WTF Ubuntu?](#item-10) ⭐️ 6.0/10
+11. [Andes Waits For Market Momentum For Cuzco CPU](#item-11) ⭐️ 6.0/10
+12. [杰文斯悖论与硅路线图决定 AI 芯片战略走向](#item-12) ⭐️ 6.0/10
+13. [AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio](#item-13) ⭐️ 6.0/10
+14. [黑客声称窃取俄罗斯统计机构 23TB 数据，包括乌克兰战争伤亡数字](#item-14) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [马斯克宣称 Neuralink 的 Blindsight 准备恢复视力](https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see) ⭐️ 9.5/10
+## [Marvell 以 1150 亿美元收购 Lumentum](https://www.techpowerup.com/354410/marvell-acquires-lumentum-for-usd-115-billion-all-stock-deal) ⭐️ 9.5/10
 
-埃隆·马斯克宣布，Neuralink 的第二款产品 Blindsight 目前已准备就绪，只需等待监管批准即可投放市场。该设备专门针对完全失明或从未见过光的个体。 这一宣布意义重大，因为它为重大医学难题提供了技术解决方案，可能让那些此前没有视觉历史的盲人重见光明。这标志着 Neuralink 在主要脑机接口业务之外，拓展了针对神经学领域关键生活质量问题的解决能力。 Blindsight 设备旨在绕过完整的眼睛或视神经的需求，为严重的视力丧失提供了有希望的选择方案。它的市场可用性完全取决于获得卫生机构全面监管批准的下一步。
+Marvell 宣布与 Lumentum 达成最终收购协议，以全股票形式交易，估值达 1150 亿美元。Lumentum 的股东每持有一股将获得 4.500 股 Marvell 股票。 此次收购整合了关键的光网络技术资产，以在铜连接遇到物理极限之际增强 AI 基础设施领域。合并后的实体将能够针对扩展复杂的 AI 架构提供高度集成的光解决方案。 该交易隐含的企业价值为 1150 亿美元，折合每股 1,132 美元，较 2026 年 10 月 28 日的最后未受影响收盘价溢价 23.9%。交易完成后，按完全稀释计算，Marvell 股东将持有合并后公司的 67% 股权，Lumentum 股东将持有 33% 股权。
 
-rss · Tom's Hardware · 11月1日 13:30
+rss · TechPowerUp News · 11月2日 16:53
 
-**背景**: Neuralink 是一家由埃隆·马斯克创立的神经技术公司，专门开发将人脑与数字技术相连接的脑机接口（BCI）。其原始产品旨在为瘫痪患者恢复运动控制，而 Blindsight 则将他们的技术专长扩展到了视觉感知领域，代表了其医疗设备产品组合的第二大支柱。
+**背景**: Lumentum 是光通信和数据中心基础设施的关键供应商，而 Marvell 专注于数据和 AI 的半导体解决方案。随着 AI 集群的增长，行业正在从模块化组件转向集成的光技术，需要对电气和光学系统进行协同设计，以提升带宽和效率。
 
-**标签**: `#Neuralink`, `#Neurotechnology`, `#Medical Device`, `#AI`, `#Hardware`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ca.investing.com/news/swot-analysis/lumentum-holdings-swot-analysis-optical-tech-stock-eyes-ai-boom-93CH-4644787">Lumentum Holdings ’ SWOT analysis: optical tech stock eyes AI boom...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#AI infrastructure`, `#M&A`, `#optical networking`
 
 ---
 
 <a id="item-2"></a>
-## [陶哲轩认为数学家应重视理解 AI 生成的证明而非独立创作](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/) ⭐️ 9.0/10
+## [高通验证 HBC 芯片，2027 年 Dragonfly AI250 样品将至](https://www.techpowerup.com/354409/qualcomm-validates-hbc-silicon-samples-appear-in-first-half-of-2027) ⭐️ 8.5/10
 
-陶哲轩认为数学界正经历范式转变，指出数学家的价值现在在于选择问题和理解由 AI 生成的证明，而非独立产出这些证明。 这位菲尔兹奖得主的声明重塑了数学家的学术身份，表明人类专家的角色将从手工技艺转向战略性的问题选择和结果消化。 根据该观点，即使研究人员本人没有为原始证明提供任何新素材，只要他们能够成功消化并扩展 AI 生成的结果，也应当获得实质性认可。
+高通成功验证了其高带宽计算（HBC）芯片，该芯片将 LPDDR 层堆叠在基础计算晶片上以实现 AI 推理。相关的 Dragonfly AI250 芯片样品预计将于 2027 年上半年出货。 这一里程碑使高通创新的存算集成技术从概念转化为实物证明，为边缘和移动 AI 工作负载提供了比传统 HBM 更节能的替代方案。通过减少数据移动，它有望在电池受限的设备上提供更高的每瓦带宽。 第一代 HBC 在圣迭戈实验室完成了具有完整读写和近内存计算能力的硅片验证。通过将计算单元直接嵌入内存堆叠下方，该架构声称比当前 HBM 规范提高了 6 倍的每瓦带宽。
 
-hackernews · smilelamp · 11月1日 18:28 · [社区讨论](https://news.ycombinator.com/item?id=50328251)
+rss · TechPowerUp News · 11月2日 16:11
 
-**背景**: 陶哲轩是国际知名的数学家和菲尔兹奖得主，在探索人工智能与数学的交叉领域非常活跃。在历史上，数学的核心价值依赖于从零开始构建严谨且优雅的证明的能力，这也是衡量研究人员技能和创造力的主要标准。
+**背景**: 高带宽内存（HBM）通常使用硅通孔（TSV）技术堆叠标准 DDR 芯片以提高带宽，但功耗较高。高通的 HBC 采用低功耗的 LPDDR 芯片，将其垂直堆叠在执行近内存计算逻辑晶片之上。该方法旨在结合 3D 堆叠的带宽优势和 LPDDR 的能效优势，专门针对 AI 推理任务。
 
-**社区讨论**: 社区讨论的核心在于 AI 能力是否最终会超越单纯的定理证明，并涵盖问题选择和科学解释等人类目前仍承担的角色，有评论者认为这些现有的人类角色最终也会被自动化。此外，从业者的抱怨主要集中在当前 AI 生成的证明往往冗长、杂乱且难以理解，尽管也有人认为随着学科的成熟，数学的优雅性通常会随之出现。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.qualcomm.com/news/onq/2026/07/hbc-vs-hbm-vs-sram-ai-inference-memory">HBC vs. HBM vs. SRAM: AI Memory Architecture Compared</a></li>
 
-**标签**: `#mathematics`, `#AI`, `#research`, `#Tao`, `#AI-in-math`
+</ul>
+</details>
+
+**标签**: `#Hardware`, `#Semiconductors`, `#Memory Architecture`, `#AI Inference`, `#LPDDR`
 
 ---
 
 <a id="item-3"></a>
-## [高数值孔径极紫外光刻技术仍具关键性](https://semiwiki.com/semiconductor-manufacturers/375803-high-nas-obituary-was-premature/) ⭐️ 9.0/10
+## [AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom) ⭐️ 8.5/10
 
-近期分析反驳了高数值孔径极紫外（High-NA EUV）技术过时的观点，强调其在亚 2 纳米制造中的持续必要性，尽管扫描仪成本高且采用延迟。文章认为，即便客户正在优化现有设备，该技术的价值依然完好。 这一观点对半导体行业的路线图至关重要，因为它让利益相关方确信高数值孔径极紫外光刻技术仍用于突破当前节点极限。它影响代工厂和芯片制造商的战略投资，因为它们必须在经济约束与长期技术扩展要求之间寻求平衡。 文中提到的具体挑战包括昂贵的扫描仪、较小的曝光场以及使客户倾向于延长低数值孔径工具寿命的高昂经济性。争论还涉及掩模成本上升以及需要在总流程成本和量产策略之间权衡光刻技术选择。
+An experimental project embeds a 32-bit RISC-V CPU directly into the weights of the Qwen 3.5 4B LLM, enabling the model to execute processor arithmetic and run the game DOOM.
 
-rss · SemiWiki · 11月1日 18:00
+rss · Tom's Hardware · 11月2日 13:30
 
-**背景**: 高数值孔径极紫外（High-NA EUV）是一种先进的光刻技术，通过提高透镜系统的数值孔径来改善亚 2 纳米芯片的分辨率。尽管低数值孔径（Low-NA）EUV 是当前的标准，但高数值孔径系统提供更高的分辨率，然而其设备成本和运行成本显著更高，使其采用成为行业的一大经济障碍。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://semiwiki.com/wikis/industry-wikis/high-na-euv-lithography-wiki/">High-NA EUV Lithography Wiki - SemiWiki</a></li>
-<li><a href="https://semiengineering.com/mask-economics-shape-high-na-euv-adoption/">Mask Economics Shape High-NA EUV Adoption</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Semiconductors`, `#EUV-Lithography`, `#Manufacturing`, `#Hardware-Design`, `#Tech-Analysis`
+**标签**: `#RISC-V`, `#LLM Architecture`, `#Inference`, `#Computer Architecture`, `#Experimental Research`
 
 ---
 
 <a id="item-4"></a>
-## [Google AI Mode disrupts web traffic, AI power strains grid, Hubble rescue bid issued](https://www.solidot.org/story?sid=85767) ⭐️ 8.3/10
+## [Oracle files to sell $20B in new stock, bonds to finance AI buildout](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html) ⭐️ 8.0/10
 
-报告显示，谷歌 AI Mode 通过生成答案而非提供链接的方式，显著减少了流向 Reddit 等网站的引荐流量，同时新的分析警告称数据中心能源需求将逆转美国电力行业的减排进展。此外，NASA 已发布信息请求（RFI），寻求商业竞标以提升哈勃太空望远镜轨道并延长其寿命。 搜索结果的生成方式向 AI 转变，威胁着传统网络出版的经济可行性，迫使 Reddit 等公司采用更封闭和付费墙的模式。与此同时，AI 基础设施日益增长的电力需求引发了关于可持续性以及扩大这些技术的长期环境成本的严重问题。 Reddit 首席执行官史蒂夫·霍夫曼确认了流量下降，促使公司强制要求所有用户登录；同时，到 2030 年，数据中心的离网发电设施可能产生超过 4.6 亿公吨的二氧化碳。对于哈勃望远镜，目标是将轨道从 470 公里提升回 600 公里，以防止其在 2030 年代中期重新进入大气层。
+Oracle is filing to raise $20 billion through stock and bonds to fund its AI infrastructure buildout, sparking debate on financial risk, technology depreciation, and potential systemic instability.
 
-rss · Solidot · 11月1日 16:46
+hackernews · smartmic · 11月2日 19:27 · [社区讨论](https://news.ycombinator.com/item?id=50342284)
 
-**背景**: 传统上，像谷歌这样的搜索引擎通过提供链接将用户引导至外部网站，从而为出版商和在线社区带来稳定的引荐流量。谷歌的 AI Mode 改变了这一模式，通过在搜索结果中直接生成摘要，可以完全绕过原始网站。在天文学领域，哈勃太空望远镜依赖国际空间站的定期任务来对抗大气阻力以提升轨道；然而，随着航天飞机的退役，必须开发替代性的商业方法。
-
-**标签**: `#AI Infrastructure`, `#Web Traffic`, `#Sustainability`, `#Space Exploration`
+**标签**: `#AI Infrastructure`, `#Corporate Finance`, `#Oracle`, `#Tech Industry`, `#Market Analysis`
 
 ---
 
 <a id="item-5"></a>
-## [Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers) ⭐️ 7.5/10
+## [Stack Overflow 表示它还活着](https://www.solidot.org/story?sid=85769) ⭐️ 7.3/10
 
-OpenAI CEO Sam Altman met with Samsung leadership to discuss securing memory chip supplies for AI data centers amidst global DRAM shortages and high demand.
+Stack Overflow reports it remains vital as a source for AI training data despite declining user visits for simple queries, while a separate study explains why crocodiles survived the dinosaur extinction by tracking warm climates.
 
-rss · Tom's Hardware · 11月1日 14:21
+rss · Solidot · 11月2日 06:08
 
-**标签**: `#AI Infrastructure`, `#Hardware Supply Chain`, `#DRAM`, `#OpenAI`, `#Data Centers`
+**标签**: `#AI`, `#Developer Tools`, `#Stack Overflow`, `#Data Science`, `#Geology`
 
 ---
 
 <a id="item-6"></a>
-## [Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows](https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops) ⭐️ 7.5/10
+## [Subvocal 推出基于射频感知的无声语音智能眼镜](https://news.ycombinator.com/item?id=50340088) ⭐️ 7.0/10
 
-An open-source UEFI tool called nv-uefi-unlocker removes Nvidia's half-speed AI limiter on Windows, boosting FP16 tensor performance by up to 65% on RTX 20, 30, and 40-series GPUs.
+Subvocal 公司宣布推出消费级智能眼镜，利用射频（RF）感知技术将无声的低语转化为文本。创始人从不可靠的肌电信号（EMG）电极转向基于射频的系统，可以在不移动嘴唇或不发出声音的情况下读取内部语音运动。 该设备支持在图书馆和办公室等对静音要求高的环境中进行免提和无声输入，解决了当前语音助手的关键局限。它推动了人机交互的前沿发展，并引发了关于无声数据收集的严重隐私问题。 该系统通过发射穿过面部的射频波进行工作，这些波会被舌头和嘴唇调制，然后利用基础模型进行解码。该技术甚至可以检测到“内部语音”，即用户闭着嘴口述单词的情况，但这并非无意识的自动思考。
 
-rss · Tom's Hardware · 11月1日 14:00
+hackernews · aarushyadav · 11月2日 17:16
 
-**标签**: `#GPU`, `#Nvidia`, `#AI-Performance`, `#Open-Source`, `#Hardware-Tuning`
+**背景**: 低语（Subvocalization）是指在不发出可听见的声音的情况下，静默地移动发音器官来表达单词。虽然射频感知在过去十年的学术研究中（如 MIT 的 AlterEgo 系统）已有应用，但将这些实验室实验转化为坚固的消费级可穿戴产品，需要克服信号干扰并确保其适用于面部结构不同的用户。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Subvocal_recognition">Subvocal recognition - Wikipedia</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/10479055">Human Voice Sensing Through Radio Frequency Technologies: A ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区对在嘈杂环境（如车库）中工作的实际用途感到非常兴奋，但也对隐私侵犯有着强烈的担忧，特别是被动情绪数据被广告商收集的风险。此外，用户指出了硬件设计的挑战，建议提供可调节的鼻垫以适应不同的面部特征，并询问有关信号处理方式更多的透明度。
+
+**标签**: `#Hardware`, `#HCI`, `#Subvocal Communication`, `#Privacy`, `#Y Combinator`
 
 ---
 
 <a id="item-7"></a>
-## [研究人员利用 JEPAs 证明并改进柏拉图表示假说](https://arxiv.org/abs/2610.39302) ⭐️ 7.0/10
+## [Anthropic 新增 Claude Code 限制以阻止游戏 IP 克隆](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks) ⭐️ 6.5/10
 
-研究人员使用联合嵌入预测架构（JEPAs）开发了更健壮的柏拉图表示假说证明。该工作包括一个具有 3300 万参数的文本 JEPA 模型，其在基准任务上取得了良好的性能。 该研究通过表明 JEPAs 在学习通用潜在表示方面优于自回归模型，增强了自监督学习的理论基础。它验证了 JEPAs 在构建高效且具有收敛性的 AI 架构中的可行性。 该 3300 万参数的文本 JEPA 模型在柏拉图表示假说论文的基准测试中达到.125 的性能，与更大的自回归模型相比具有优势。该 3300 万参数的模型只需更少的训练样本即可达到与 Qwen2.5-3B 和-7B 相当的性能。
+Anthropic 在 Claude Code 中实施了新的政策限制，明确禁止复制游戏知识产权。公司正在积极迭代这些规则，以防止用户利用该工具克隆或逆向工程特定的游戏资产。 这项更新凸显了 AI 编程助手处理知识产权方式的重大转变，可能会影响依赖这些工具进行复杂逆向工程任务的开发人员。它反映了行业趋势，即在 AI 实用性与数字内容保护的法律和伦理界限之间寻求平衡。 用户报告称，包括 Opus 5.5 在内的特定模型正在主动阻止与逆向工程相关的任务。Anthropic 已确认这些更改，但仍在完善实施细节，以确保功能性与知识产权保护之间的正确平衡。
 
-hackernews · Anon84 · 11月1日 13:24 · [社区讨论](https://news.ycombinator.com/item?id=50325454)
+rss · Tom's Hardware · 11月2日 12:30
 
-**背景**: 柏拉图表示假说认为，随着神经网络的规模扩大，其内部表示会收敛到对基础现实的相似统计模型。联合嵌入预测架构（JEPAs）是一种自监督学习框架，它通过在潜在空间中预测输入的抽象表示，而不是重建原始数据或生成词元。
+**背景**: Claude Code 是由 Anthropic 开发的基于终端的 AI 编程助手，旨在帮助开发人员编写、调试和管理代码。随着生成式 AI 能力增强，其被用于知识产权侵权（如自动化克隆复杂游戏资产或专有软件组件）的问题也日益凸显。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2405.07987">[2405.07987] The Platonic Representation Hypothesis - arXiv.org</a></li>
-<li><a href="https://www.emergentmind.com/topics/joint-embedding-predictive-architecture-jepa-41bafa09-93c5-4193-a0b5-83ff9cad5760">JEPA: Joint-Embedding Predictive Architecture</a></li>
+<li><a href="https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/">Claude’s new rules against game cloning won’t stop the AI ...</a></li>
+<li><a href="https://tech-insider.org/claude-game-rule-reverse-engineering-false-positives-5-claims-2026/">Claude Blocks Game Cloning: 5 Unverified Refusals [2026]</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区对 JEPAs 持乐观态度，认为它们优于自回归模型，特别是因为它们训练所需的样本更少。关于柏拉图假说是深刻的还是仅仅描述了大模型更容易近似最佳降维的争论正在发生，有些人建议使用束论作为更好的数学框架。
-
-**标签**: `#Machine Learning`, `#JEPAs`, `#Representation Learning`, `#Platonic Hypothesis`, `#Neural Networks`
+**标签**: `#AI`, `#Anthropic`, `#Claude`, `#Intellectual Property`, `#LLM`
 
 ---
 
 <a id="item-8"></a>
-## [OmniDiff：Rust 编写的快速、内容感知的开源 Git diff 工具](https://github.com/ivankovic/omnidiff) ⭐️ 6.0/10
+## [华硕服务器在 OCP 2026 上展示液冷 NVIDIA NVL72 机架](https://www.servethehome.com/liquid-cooled-nvidia-servers-at-the-asrock-rack-ocp-2026-booth/) ⭐️ 6.5/10
 
-OmniDiff 是一款基于 Rust 开发的开源 Git difftool，专为超过 25 种编程语言、图片和 PDF 文件提供快速的内容感知 diff。该工具目前处于 0.3.0 版本，宣称能在 100ms 内处理大型 C++ 文件。 该工具为现有的差异查看器（如 Delta）提供了面向性能的替代方案，专门针对复杂的合并冲突以及轻量级可执行文件对多文件类型的支持。它使开发人员能够更快地获取反馈，提高开发和代码审查的效率。 OmniDiff 采用 AGPLv3 协议，其开发基于对 7,400 个 Gentoo 仓库中 2,000 个真实差异样本的手动解决经验。它支持作为 `git difftool` 进行配置，并包含 Web 版本及 CI 流水线以确保持续的稳健性。
+华硕服务器在 OCP 2026 展台上展示了一系列服务器，包括完全集成的英伟达 NVL72 机架和液冷网络交换机。此次展示突显了该供应商专为高密度 AI 计算环境设计的最新基础设施。 液冷技术正成为下一代 AI 数据中心应对高密度英伟达服务器极端热负荷的必需手段。此次展示标志着 ODM 解决方案在将这些高功耗机架整合进商用数据中心部署方面趋于成熟。 关键的技术特性是英伟达 NVL72 机架和配套网络交换机均采用了全液冷设计。对于维持英伟达最强大的 GPU 阵列的性能，这种散热方式必不可少。
 
-hackernews · FabCH · 11月1日 13:02 · [社区讨论](https://news.ycombinator.com/item?id=50325253)
+rss · ServeTheHome · 11月2日 04:00
 
-**背景**: Git difftool 是一种用于可视化 Git 仓库变更的外部命令，用于替代默认的终端输出。标准工具通常将所有文本视为相同，而内容感知工具则使用特定逻辑来解析代码结构。Delta 是一种流行的基于 Python 的替代方案，提供语法高亮和并排显示功能。
+**背景**: 英伟达 NVL72 机架是一个采用液冷的计算平台，将 72 个英伟达 Grace 和 Blackwell GPU 集成在一个单元中，以最大化 AI 性能。OCP（开放计算项目）是数据中心基础设施的行业标准，ODM（原始设计制造商）公司基于这些标准为 f 企业客户构建硬件。
 
-**社区讨论**: 讨论氛围积极且侧重于技术，`git difftool` 的原始创建者主动联系提供上游支持。用户指出了实际集成需求，例如通过 `git diff | omnidiff` 进行管道处理，以及缺乏类似 Delta 的 'diff-so-fancy' 字符高亮功能。
-
-**标签**: `#Rust`, `#Git`, `#Developer Tools`, `#Diff`, `#OpenSource`
+**标签**: `#Hardware`, `#NVIDIA`, `#Data Center`, `#Liquid Cooling`, `#ASRock Rack`
 
 ---
 
 <a id="item-9"></a>
-## [Flexcompute 首席执行官探讨半导体设计的物理世界模型方法](https://semiwiki.com/ceo-interviews/375564-ceo-interview-with-vera-yang-of-flexcompute/) ⭐️ 6.0/10
+## [Apple Intelligence 随 iOS 27.3 登陆中国](https://sspai.com/post/118191) ⭐️ 6.3/10
 
-Flexcompute 联合创始人 Vera Yang 介绍了该公司开发的一种“物理世界模型”，该模型将数据驱动的 AI 与物理定律相结合，以解决光子芯片和先进封装设计中的复杂模拟难题。 这种方法代表了从纯数据驱动 AI 向物理约束 AI 的重大转变，对于物理定律无法仅通过文本数据推导出来的硬件领域至关重要。 Flexcompute 最近获得了三星风险投资和应用材料公司的战略投资，以构建这一专业基础设施，强调硬件系统是由物理定律而非文本所支配的。
+Apple Intelligence 将随 iOS 27.3 更新登陆中国市场。该消息出自一份科技简报，简报中同时提及了 Claude Code 的安全漏洞和币安巨额被盗事件。 Apple Intelligence 登陆中国标志着人工智能在该全球最大科技市场之一的普及迈出了重要一步。此举可能会重塑国内 AI 及云服务的竞争格局。 新闻摘要还重点报道了一起关键网络安全事件，一个恶意扩展被注入 Claude Code，可能影响了 Windows 和 macOS 上多达 5,000 名用户。此外，还报道了币安 63 亿美元的盗窃案。
 
-rss · SemiWiki · 11月1日 19:00
+rss · 少数派 · 11月1日 23:22
 
-**背景**: 物理世界模型将传统 AI 与物理约束相结合，以确保在科学和工程领域的准确预测。在硬件设计中，光子芯片和先进封装面临复杂的物理限制，标准的机器学习在不结合物理学的情况下难以解决这些问题。
+**背景**: Apple Intelligence 是苹果公司的一系列端侧和云端 AI 功能。由于合规要求和数据本地化政策，它此前在中国受到限制。iOS 更新是交付这些新功能的主要机制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hs.flexcompute.com/news/flexcompute-raises-strategic-investment-from-samsung-ventures-and-applied-ventures-to-build-the-physics-world-model">Flexcompute Raises Strategic Investment From Samsung Ventures ...</a></li>
-<li><a href="https://www.ainvest.com/news/samsung-applied-materials-funding-physics-world-model-2610/">Why Samsung and Applied Materials Are Funding a "Physics ...</a></li>
+<li><a href="https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html">Official Claude Code Extension on Cursor Marketplace ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI for Science`, `#Semiconductors`, `#Physics Simulation`, `#Photonic Chips`, `#Startup`
+**标签**: `#Tech News`, `#AI Security`, `#Apple`, `#Cybersecurity`, `#Daily Digest`
 
 ---
 
 <a id="item-10"></a>
-## [Police Chief physically unplugs Flock cameras after the company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies) ⭐️ 5.5/10
+## [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu) ⭐️ 6.0/10
 
-Plymouth City Council physically disconnected Flock surveillance cameras after the company failed to comply with a contract cancellation order due to privacy controversies.
+A critique of Ubuntu's handling of a high-priority Linux kernel CVE, where community members discuss patch availability in proposed repos and debate the actual exploitability versus the assigned CVSS score.
 
-rss · Tom's Hardware · 11月1日 13:55
+hackernews · chalmovsky · 11月2日 14:52 · [社区讨论](https://news.ycombinator.com/item?id=50337608)
 
-**标签**: `#Surveillance`, `#Privacy`, `#Civic Tech`, `#Law Enforcement`, `#Policy`
+**标签**: `#Linux`, `#Security`, `#Ubuntu`, `#Kernel`, `#Vulnerability Management`
+
+---
+
+<a id="item-11"></a>
+## [Andes Waits For Market Momentum For Cuzco CPU](https://www.eetimes.com/andes-waits-for-market-momentum-for-cuzco-cpu/) ⭐️ 6.0/10
+
+Andes has decided to delay the commercial launch of its high-end RISC-V CPU, the Cuzco, to wait for stronger market momentum.
+
+rss · EE Times · 11月2日 12:00
+
+**标签**: `#RISC-V`, `#Hardware`, `#Processor Design`, `#Industry News`
+
+---
+
+<a id="item-12"></a>
+## [杰文斯悖论与硅路线图决定 AI 芯片战略走向](https://www.eetimes.com/jevon-paradox-and-the-silicon-roadmap/) ⭐️ 6.0/10
+
+一篇 EE Times 的文章指出，虽然杰文斯悖论推动了 AI 计算需求的指数级增长，但不断演进的硅路线图将决定哪些芯片架构能保持价值，哪些会变得过时。 这一观点很重要，因为它强调了经济原理不再仅仅是理论，而是正在直接塑造半导体行业的硬件开发策略和资本分配。 文章使用“搁浅资产”的概念警示称，当效率提升速度超过需求增长时，一些当前的芯片设计可能会失去价值，需要适应性架构选择。
+
+rss · EE Times · 11月2日 08:58
+
+**背景**: 杰文斯悖论指出，当某种资源的使用变得更有效率时，可能会导致总体消耗增加而非节约，这一原理现在被应用于 AI 领域的能源和计算资源。“硅路线图”指的是半导体制造和设计技术随时间演进的计划。
+
+**标签**: `#AI`, `#Semiconductors`, `#Hardware`, `#Economics`, `#Trends`
+
+---
+
+<a id="item-13"></a>
+## [AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio](https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/) ⭐️ 6.0/10
+
+Macronix is expanding its flash memory portfolio to address growing demand for high-bandwidth memory in AI-driven applications.
+
+rss · EE Times · 11月2日 05:00
+
+**标签**: `#AI Hardware`, `#Memory Architecture`, `#Flash Storage`, `#Semiconductor Industry`
+
+---
+
+<a id="item-14"></a>
+## [黑客声称窃取俄罗斯统计机构 23TB 数据，包括乌克兰战争伤亡数字](https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks) ⭐️ 5.5/10
+
+俄罗斯统计机构 Rosstat 承认遭受协同网络攻击，黑客声称已窃取 23TB 数据，其中包括敏感的战时伤亡数字。
+
+rss · Tom's Hardware · 11月2日 12:41
+
+**标签**: `#Cybersecurity`, `#Data Breach`, `#Russia`, `#Geopolitics`, `#Information Security`
 
 ---
