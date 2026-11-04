@@ -5,397 +5,316 @@ date: 2026-11-04
 lang: zh
 ---
 
-> 从 81 条内容中筛选出 20 条重要资讯。
+> 从 84 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [Marvell 以 1150 亿美元收购 Lumentum 以引领 AI 连接](#item-1) ⭐️ 10.0/10
-2. [英伟达据称要求云服务商限制中国客户](#item-2) ⭐️ 9.5/10
-3. [谷歌发布 Gemini 4 Carbon，在基准测试中险胜 Claude Opus 5.5](#item-3) ⭐️ 9.5/10
-4. [Qwen 3.8 27B 展示了本地模型权重的可解释性](#item-4) ⭐️ 9.0/10
-5. [博世计划将半导体部门独立为代工厂](#item-5) ⭐️ 9.0/10
-6. [AMD 2026 年第三季度营收创 134 亿美元历史新高](#item-6) ⭐️ 8.5/10
-7. [中国发布全球首个商用 800V DC AI 数据中心](#item-7) ⭐️ 8.5/10
-8. [Postman 因静默安装 AI 插件和数据外泄遭批评](#item-8) ⭐️ 8.0/10
-9. [AI 硬件的隐藏成本：供应链中的资本积累](#item-9) ⭐️ 8.0/10
-10. [英特尔发布 14A PDK 0.9 版本，确认迈向 2028 年量产](#item-10) ⭐️ 7.5/10
-11. [走私商利用海关监管漏洞向中国输送被禁的高带宽内存](#item-11) ⭐️ 7.5/10
-12. [因关键提案被拒及复杂性担忧，C++26 未能获批](#item-12) ⭐️ 7.0/10
-13. [Stringman, an $800 open-source room scale gripper robot](#item-13) ⭐️ 7.0/10
-14. [工程师弃用氛围编码，转向手工编写工具以提升可靠性](#item-14) ⭐️ 7.0/10
-15. [Ceva 新一代 NeuPro 架构开启 AI 无限可能](#item-15) ⭐️ 7.0/10
-16. [先进封装是光模块共封装(CPO)的关键推动力](#item-16) ⭐️ 7.0/10
-17. [Windows 11 Optimizations Bring Up to 40% Faster Multitasking to 8 GB PCs](#item-17) ⭐️ 6.5/10
-18. [OpenAI 推出电网保护计划以管理 AI 数据中心能源](#item-18) ⭐️ 6.5/10
-19. [8 台改造喷气发动机为 xAI 数据中心提供动力，企业寻求新能源](#item-19) ⭐️ 6.5/10
-20. [AI 数据中心需求推动消费级内存成本激增 330 亿美元](#item-20) ⭐️ 6.5/10
+1. [AMD expects to outsell Intel in Q4 for the first time in history](#item-1) ⭐️ 9.5/10
+2. [AMD Guidance Points to Its First Quarter Ever With More Revenue Than Intel](#item-2) ⭐️ 9.5/10
+3. [A new Go API for JSON](#item-3) ⭐️ 9.0/10
+4. [Progress on provable inference for large language models](#item-4) ⭐️ 9.0/10
+5. [美光公布高数值孔径光刻内存及 AI 定制芯片路线图](#item-5) ⭐️ 8.5/10
+6. [AI 加速偿还数十年技术债务及修复安全漏洞](#item-6) ⭐️ 8.0/10
+7. [硅光子技术势头增强，Salience Labs 融资 1.25 亿美元](#item-7) ⭐️ 8.0/10
+8. [量子计算收入突破 10 亿美元，商业路线图仍未兑现](#item-8) ⭐️ 8.0/10
+9. [(PR) AMD Reports Record $13.4B Third Quarter 2026 Revenue](#item-9) ⭐️ 7.5/10
+10. [Nintendo ROM chip supplier Macronix quits to focus on chips for AI data centers, reports indicate](#item-10) ⭐️ 7.5/10
+11. [Team Group CEO warns memory crisis could reach point where 'even money can't buy goods' — will get worse next year, with 'no downward trend in price whatsoever'](#item-11) ⭐️ 7.5/10
+12. [Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals](#item-12) ⭐️ 7.5/10
+13. [美军成功试飞采用 3D 打印混合电动发动机的 VICTOR 无人机](#item-13) ⭐️ 7.5/10
+14. [英伟达 RTX Spark 加密固件导致 Linux 推理速度下降](#item-14) ⭐️ 7.0/10
+15. [腾讯开源 Hy4 基础模型用于科学研究](#item-15) ⭐️ 7.0/10
+16. [STMicroelectronics 扩展 STM32 路线图以支持云 AI 和物理 AI](#item-16) ⭐️ 7.0/10
+17. [AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments](#item-17) ⭐️ 6.5/10
+18. [Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?](#item-18) ⭐️ 6.0/10
+19. [(PR) SEMI Reports Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026](#item-19) ⭐️ 5.5/10
+20. [T-Mobile 发布 90 美元 5Gbps 光纤方案，承诺 10 年价格锁定](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Marvell 以 1150 亿美元收购 Lumentum 以引领 AI 连接](https://www.electronicsweekly.com/news/business/marvell-buys-lumentum-2026-11/) ⭐️ 10.0/10
+## [AMD expects to outsell Intel in Q4 for the first time in history](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections) ⭐️ 9.5/10
 
-Marvell 宣布以 1150 亿美元收购光子技术专家 Lumentum。该交易旨在通过协同设计光收发器用的网络处理器和激光器，打造 AI 连接领域的行业领导者。 半导体和光子领域的这一重大整合是对 AI 数据中心及高带宽计算基础设施持续扩张的战略性押注。这表明行业正转向集成硬件解决方案，其中光连接对于大规模 GPU 集群至关重要。 该收购专门针对网络处理器和激光器的协同设计，这些是数据中心高速光收发器的关键组件。这一战略举措使 Marvell 能够将上游光子制造与其现有的半导体能力进行整合。
+AMD is projected to outsell Intel in Q4 for the first time in history, driven by strong sales of its Instinct AI accelerators and favorable guidance that exceeds Intel's projections.
 
-rss · Electronics Weekly · 11月3日 06:13
+hackernews · Tom's Hardware · 11月4日 15:38 · [社区讨论](https://news.ycombinator.com/item?id=50367125)
 
-**背景**: Lumentum 是全球光学和光子技术领导者，其产品为 AI、云计算和下一代通信提供动力。随着 AI 数据中心的扩张，对高带宽光互连的需求增加，以便在数千个 GPU 之间比铜缆更有效地传输数据。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.lumentum.com/en/company">Company | Lumentum</a></li>
-<li><a href="https://www.gate.com/learn/articles/what-is-lumentum-lite-a-comprehensive-guide-to-the-optical-communications-leader-and-ai-interconnect-supply-chain">What Is Lumentum (LITE)? Optical Communications... | Gate Learn</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Marvell`, `#Lumentum`, `#M&A`, `#AI Infrastructure`, `#Photonics`
+**标签**: `#AMD`, `#Intel`, `#CPU Market`, `#AI Accelerators`, `#Hardware`
 
 ---
 
 <a id="item-2"></a>
-## [英伟达据称要求云服务商限制中国客户](https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits) ⭐️ 9.5/10
+## [AMD Guidance Points to Its First Quarter Ever With More Revenue Than Intel](https://www.techpowerup.com/354470/amd-guidance-points-to-its-first-quarter-ever-with-more-revenue-than-intel) ⭐️ 9.5/10
 
-英伟达据称正在实施新的全球限制措施，要求数据中心运营商确保其业务中来自中国客户的比例低于 50%。 该政策通过限制对中国 AI 关键硬件基础设施的访问，严重影响中国跟上全球 AI 热潮的能力。 该限制据称要求使用英伟达产品的数据中心运营商的总业务中，非中国机构必须占至少 51%。
+AMD's forward guidance projects quarterly revenue exceeding $17 billion, surpassing Intel's expected $15-16 billion for the first time, driven by surging data center and AI GPU demand.
 
-rss · Tom's Hardware · 11月3日 13:31
+rss · TechPowerUp News · 11月4日 18:04
 
-**背景**: 随着中美地缘政治紧张局势加剧，美国对先进计算技术的出口管制日益严格。英伟达的 GPU 对于训练大语言模型至关重要，因此成为中美科技竞争焦点。
-
-**标签**: `#Nvidia`, `#Geopolitics`, `#AI Infrastructure`, `#Export Controls`, `#China`
+**标签**: `#Semiconductors`, `#Hardware`, `#AI/ML Infrastructure`, `#Market Analysis`, `#AMD vs Intel`
 
 ---
 
 <a id="item-3"></a>
-## [谷歌发布 Gemini 4 Carbon，在基准测试中险胜 Claude Opus 5.5](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim) ⭐️ 9.5/10
+## [A new Go API for JSON](https://go.dev/blog/jsonv2) ⭐️ 9.0/10
 
-谷歌于 2026 年 10 月 28 日发布了其最新的 AI 模型 Gemini 4 Carbon，该模型目前位居通用智能排行榜榜首，并旨在与竞品相比降低幻觉率。新模型略微优于 Anthropic 在 9 月发布的 Claude Opus 5.5。 这一发布加剧了主要 AI 实验室对最强大模型的竞争，将推动网络安全和长程智能体任务的创新。通过减少幻觉，Gemini 4 Carbon 旨在增加对高风险应用的信任，可能加速企业采用。 Gemini 4 Carbon 发布于其前代模型 Gemini 4 Argon 之后的仅仅 15 天，其先进的网络安全和长程能力得到了特别强调。其基准测试结果涵盖了广泛的领域，包括 Gray Swan IPI、SWE-sweep 和 RiemannBench 等。
+Go announces a new experimental JSON API in its standard library, sparking community discussion about its development timeline, feature rollout strategy, and performance implications compared to specialized parsers.
 
-rss · Tom's Hardware · 11月3日 13:00
+hackernews · olexsmir · 11月4日 17:52 · [社区讨论](https://news.ycombinator.com/item?id=50369106)
 
-**背景**: 前沿 AI 模型代表了主要科技公司发布的最先进的大型语言模型。竞争模型如 Claude Opus 5.5 也宣称是其系列中的首个模型，并接受了严格的外部评估。“微弱优势”的胜利表明，在一个顶级模型之间性能差异日益缩小的市场中，竞争非常激烈。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Introducing Gemini 4 Carbon - The Keyword</a></li>
-<li><a href="https://aireleasetracker.com/model/google/gemini-4-carbon">Gemini 4 Carbon — Benchmarks, Specs & Release Date</a></li>
-<li><a href="https://www.anthropic.com/claude-opus-5-5">Introducing Claude Opus 5.5 \ Anthropic</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Google Gemini`, `#LLM`, `#Model Release`, `#Artificial Intelligence`
+**标签**: `#Go`, `#JSON`, `#Standard Library`, `#Data Parsing`, `#Language Design`
 
 ---
 
 <a id="item-4"></a>
-## [Qwen 3.8 27B 展示了本地模型权重的可解释性](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) ⭐️ 9.0/10
+## [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference) ⭐️ 9.0/10
 
-一个 Hacker News 讨论探讨了开源权重的 Qwen 3.8 27B 模型如何能够在标准笔记本电脑上运行，原生地解释和编辑神经网络权重。这一能力是在一篇题为“权重空间编程的火花”的论文之后被观察到的，该论文证明了大型语言模型可以直接读写权重。 这一进展通过让消费者硬件能够进行高能力的模型可解释性分析，从而改变了范式，并有可能减少对昂贵的先进 API 服务在模型审计和调试等任务上的依赖。这表明，如果强大的开源权重模型能在本地执行复杂的自编辑和分析，专有先进模型的价值主张可能会受到挑战。 讨论的具体模型是 Qwen 3.8 27B，一个基于 Apache 2.0 许可证的稠密视觉语言模型。关键的技术考量包括区分模型在特定神经元编辑上的训练能力，与其利用转向向量或 LoRA 等概念真正理解和泛化权重变化的能力之间的差异。
+Anthropic introduces a method for provable inference in large language models to allow clients to verify which weights are being used, generating significant discussion on cryptographic efficiency and attribution to prior research.
 
-hackernews · theanonymousone · 11月3日 17:40 · [社区讨论](https://news.ycombinator.com/item?id=50355251)
+hackernews · ltononro · 11月4日 17:17 · [社区讨论](https://news.ycombinator.com/item?id=50368626)
 
-**背景**: 模型可解释性是指人类能够理解 AI 模型决策过程的程度。历史上，这需要专门的工具，并经常是事后的分析，但最近关于“权重空间编程”的研究表明，足够大的 LLM 可以原生地读写其自身的神经网络参数，而无需外部框架。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">Qwen 3.8 27B on my laptop can interpret model weights, too</a></li>
-<li><a href="https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/">LLMs are not superhuman at reading and writing neural network weights</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区辩论的核心在于观察到的可解释性是真正的理解还是仅仅是一种经过训练的经验法则，一些用户将其比作莎士比亚名言中关于召唤幽灵的说法。另一些人则认为，尽管目前的能力有限，但该趋势指向一个范式转变，即本地开放模型能够在结构化任务上与先进模型匹敌，从而从根本上改变 AI 经济学。
-
-**标签**: `#AI-ML`, `#Model-Interpretability`, `#Qwen`, `#Self-Editing`, `#Frontier-Models`
+**标签**: `#AI Security`, `#Zero-Knowledge Proofs`, `#LLM Transparency`, `#Cryptography`, `#Anthropic`
 
 ---
 
 <a id="item-5"></a>
-## [博世计划将半导体部门独立为代工厂](https://www.electronicsweekly.com/news/business/bosch-to-spin-off-semis-2026-11/) ⭐️ 9.0/10
+## [美光公布高数值孔径光刻内存及 AI 定制芯片路线图](https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback) ⭐️ 8.5/10
 
-博世宣布计划于 2028 年 1 月剥离其半导体部门。此次举措涉及将该部门重组为专门运营的代工厂业务。 这一战略转变标志着半导体供应链的重大变化，可能会改变代工厂和无厂芯片设计公司的市场格局。作为汽车行业的巨头，博世的这一举措可能会影响全球芯片采购和生产结构。 剥离计划定于 2028 年 1 月执行。主要目标是将半导体部门专门运营为代工厂业务。
+美光公布了其 DRAM 和 3D NAND 闪存的未来路线图，包括采用高数值孔径（High-NA）EUV 光刻技术以及新型材料。该公司还预示着定制硅芯片将大幅复兴，以解决当前内存解决方案在 AI 开发中的局限性。 此路线图对于理解未来硬件扩展至关重要，因为行业正在向先进光刻节点过渡。它直接影响内存制造商满足 AI 应用日益增长的高性能存储需求的能力。 该路线图强调了向新材料和高数值孔径 EUV 技术的转变，以突破当前内存密度的物理极限。定制硅芯片作为一种主要策略卷土重来，旨在克服 AI 开发者在标准内存配置中遇到的瓶颈。
 
-rss · Electronics Weekly · 11月3日 11:39
+rss · Tom's Hardware · 11月4日 14:00
 
-**背景**: 博世是一家著名的德国工业公司，以汽车零部件和传感器技术闻名。在半导体行业中，代工厂模式指为其他公司制造芯片，这与既设计又生产自家芯片的垂直整合模式有所不同。
+**背景**: 高数值孔径 EUV 是下一代用于制造更高密度和更快集成电路的极紫外光刻技术。随着 AI 模型规模的扩大，标准的 DRAM 和 NAND 架构面临扩展限制，促使制造商探索定制硅芯片和新材料以保持性能提升。
 
-**标签**: `#semiconductors`, `#industry-news`, `#business-strategy`, `#hardware`
+**标签**: `#Semiconductors`, `#DRAM`, `#NAND Flash`, `#EUV Lithography`, `#AI Hardware`
 
 ---
 
 <a id="item-6"></a>
-## [AMD 2026 年第三季度营收创 134 亿美元历史新高](https://www.techpowerup.com/354446/amd-reports-record-usd-13-4b-third-quarter-2026-revenue) ⭐️ 8.5/10
+## [AI 加速偿还数十年技术债务及修复安全漏洞](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) ⭐️ 8.0/10
 
-AMD 宣布其 2026 年第三季度创下 134 亿美元的历史性营收纪录，主要得益于数据中心业务销售额同比接近翻倍。该公司实现毛利率 54%，按 GAAP 会计准则净利润达 24 亿美元。 数据中心销售额接近翻倍标志着市场格局的重要转变，表明 AMD 正积极挑战英伟达在 AI 硬件领域的主导地位。它有关 Helios 和 Venice 生产规模扩大的信息，为基础设施规划提供了关键信号。 首席执行官表示，随着 Helios AI 基础设施和采用台积电 2 纳米工艺制造的 Venice EPYC 处理器生产规模扩大，第四季度增长有望加速。非 GAAP 摊薄每股收益达 2.09 美元，超过指引的上限。
+近期一场参与度极高的讨论强调了 AI 目前正被用于积极偿还数十年积累的遗留代码库技术债务。这一趋势是由 AI 能够识别和修复此前修复成本过高的一些错误（如 off-by-one 错误）及其他漏洞的能力所驱动的。 这种转变标志着软件维护的潜在变革，允许开发者在一天内清除数年的研究与测试积压工作。同时它也引发了关于 AI 驱动持续打补丁的可持续性的重要问题，以及它是否仅仅创造了一个无休止的维护工作 treadmill。 虽然 AI 能有效地处理外科手术般的低复杂度修复，但解决复杂漏洞通常仍需手动进行代码重构。该讨论还涉及了这一过程如何让开源项目的安全审计民主化，弥补了这些项目过去缺乏专门资源进行彻底代码审查的不足。
 
-rss · TechPowerUp News · 11月3日 22:33
+hackernews · pseudolus · 11月4日 11:52 · [社区讨论](https://news.ycombinator.com/item?id=50364336)
 
-**背景**: AMD 在数据中心 GPU 市场与英伟达竞争，主要产品为 Instinct GPU 和 EPYC 服务器处理器。“Helios”生态系统指 AMD 将 Instinct GPU、EPYC 处理器和 Pensando 网络相结合的集成 AI 基础设施。“Venice”是第六代 EPYC 处理器，也是业内首个实现台积电先进 2 纳米工艺量产的 HPC 产品。
+**背景**: 技术债务是指采用快速简单的解决方案而非耗费时长的优质方案所导致的未来开发成本。在开源生态系统中，一种常见的漏洞风险是代码通常只经过少数贡献者的松散审查，从而造成了“虚假的安全感”。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/amds-enterprise-cpu-and-gpu-roadmap-venice-verano-zen-6-helios-and-cdna">AMD's Enterprise CPU and GPU roadmap: Venice, Verano, Zen 6 ...</a></li>
-<li><a href="https://ir.amd.com/news-events/press-releases/detail/1287/amd-announces-production-ramp-of-next-generation-amd-epyc-processor-venice-on-tsmc-2nm-process-technology">AMD Announces Production Ramp of Next-Generation AMD EPYC ...</a></li>
-<li><a href="https://www.amd.com/en/products/accelerators/instinct.html">AMD Instinct™ GPUs</a></li>
+**社区讨论**: 评论者总体上对 AI 审计带来的长期安全收益持乐观态度，指出它实现了开源软件历史以来的同行评审承诺。然而，不少少数观点认为这一趋势并非“偿还”债务，而是开启了一个开发者必须不断追赶的强制性、无止境的、功能不变的维护跑步机。
 
-</ul>
-</details>
-
-**标签**: `#AMD`, `#Data Center`, `#Financial Results`, `#AI Hardware`, `#Semiconductors`
+**标签**: `#AI`, `#Security`, `#Technical Debt`, `#Software Engineering`, `#Open Source`
 
 ---
 
 <a id="item-7"></a>
-## [中国发布全球首个商用 800V DC AI 数据中心](https://www.tomshardware.com/tech-industry/data-centers/china-deploys-worlds-first-800-volt-dc-power-system-for-massive-ai-data-center-seeks-to-quench-power-needs-with-higher-conversion-and-efficiency-inside-a-smaller-footprint) ⭐️ 8.5/10
+## [硅光子技术势头增强，Salience Labs 融资 1.25 亿美元](https://www.eetimes.com/silicon-photonics-hits-the-big-time/) ⭐️ 8.0/10
 
-中国一家公司宣布完成了全球首个商用数据中心部署，采用集成 800 伏直流（DC）供电系统，以应对大规模 AI 基础设施的电力需求。 这一工程变革通过提高转换效率和减小设施占地面积，解决了 AI 负载面临的严峻功率密度挑战，为 AI 行业关键的基础设施瓶颈提供了切实可行的解决方案。 该 800 伏直流架构允许将电网电力转换为直流母线并在设施内分配，通过将电压降低至 48 伏，可与当前代系统进行协同运行。
+行业正显著向硅光子技术转型，以克服铜互连的功耗限制，其中 Salience Labs 为光电路交换融资 1.25 亿美元成为重要里程碑。 该投资解决了现代计算中铜互连遭遇的“功耗墙”这一关键瓶颈，表明光技术对于扩展高性能 AI 数据中心至关重要。 Salience Labs 的光电路交换机为光信号建立直接传输路径，而非将其转换为电信号，其背后有 AMD Ventures 和 Intel Capital 等投资者支持。
 
-rss · Tom's Hardware · 11月3日 12:40
+rss · EE Times · 11月4日 19:51
 
-**背景**: 传统数据中心使用交流（AC）电，涉及多个转换步骤从而导致能量损失。高密度 AI 计算正在推动全球行业向高压直流（HVDC）转型，伊顿（Eaton）与英伟达（Nvidia）等合作伙伴正携手推动这一针对下一代系统的转变。
+**背景**: 随着数据传输速度提高，铜互连在功耗和延迟方面面临严重限制，尤其是在每通道 200 Gbps 的瓶颈处。硅光子技术使用光（光子）在硅基底上传输数据，而非使用电子，从而大幅降低高密度计算环境（如 AI 数据中心）的能耗和热量产生。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://spectrum.ieee.org/data-center-dc">Data Center DC Embraces 800 V Power Shift - IEEE Spectrum</a></li>
-<li><a href="https://www.datacenterknowledge.com/energy-power-supply/current-debate-will-the-data-center-of-the-future-be-ac-or-dc">Current Debate: Will the Data Center of the Future Be AC or DC?</a></li>
+<li><a href="https://thenextweb.com/news/salience-labs-125m-optical-switching">Salience Labs raises $125M for optical AI switches , then expands in...</a></li>
+<li><a href="https://annasviews.com/silicon-photonics-ai-data-centers-explained/">Silicon Photonics vs . Copper Interconnects : Solving the AI Data ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Data Centers`, `#Power Infrastructure`, `#AI Hardware`, `#Electrical Engineering`, `#China`
+**标签**: `#Silicon Photonics`, `#Optical Computing`, `#Hardware`, `#Networking`, `#Datacenter`
 
 ---
 
 <a id="item-8"></a>
-## [Postman 因静默安装 AI 插件和数据外泄遭批评](https://github.com/postmanlabs/postman-app-support/issues/14370) ⭐️ 8.0/10
+## [量子计算收入突破 10 亿美元，商业路线图仍未兑现](https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/) ⭐️ 8.0/10
 
-开发人员发现 Postman 桌面应用程序在未经用户明确同意的情况下，静默自动安装了 Codex 和 Claude 等 AI 插件。此外，该工具还被发现会通过其日志端点将敏感的 API 数据（包括硬编码的秘密）外泄到远程服务器。 该事件对企业安全和合规（尤其是医疗等受监管行业）有严重影响，因为这些领域要求 API 密钥和患者数据必须保持机密。因此，许多开发团队已弃用 Postman，转而使用注重隐私的开源替代品（如 Bruno），这导致开发者工具市场发生显著变动。 数据外泄机制依赖于 Postman 的遥测功能，它会将包含实际秘密值的模板化查询参数发送到远程端点；如果阻断此网络流量，应用程序将无法正常工作。该问题在 GitHub 上获得了 1,118 个赞，突显了软件估值与其对用户数据的激进商业化之间的紧张关系。
+2025 年，量子计算行业的收入突破 10 亿美元，标志着该领域实现了重要的财务里程碑。然而，市场未能达到激进的商业预期，突显了技术交付能力与实际承诺之间持续存在的差距。 这种现实评估对投资者和企业至关重要，因为它表明虽然量子生态系统正在成熟，但硬件的可靠性和可扩展性仍是最主要的瓶颈。更清晰地理解这一差距有助于将长期战略规划与技术演进的实际节奏保持一致。 路线图与交付之间的差异是一个主要关注点，因为量子硬件公司过去常将里程碑作为愿景文件，缺乏问责。突破 10 亿美元的营收门槛表明，早期商业化价值（如安全通信）正在大规模通用量子计算之前得到实现。
 
-hackernews · sidgarimella · 11月3日 17:22 · [社区讨论](https://news.ycombinator.com/item?id=50354960)
+rss · EE Times · 11月4日 09:11
 
-**背景**: Postman 是领先的 API 开发和测试工具，而 Bruno 是一个开源的 Git 原生 API 客户端，它将集合存储为本地纯文本文件，无需云端同步。软件外泄是指未经授权将数据从本地系统传输到远程服务器的行为，这是一种关键漏洞，可能会暴露机密密钥和业务逻辑。Bruno 等开源替代品因其透明度而吸引开发人员，因为其代码可以被审计，以验证数据不会离开用户机器。
+**背景**: 量子计算机利用量子态以经典计算机无法实现的方式处理信息，但它们极易受到环境噪声的干扰。量子纠错和容错技术对于构建稳定、大规模的系统至关重要，其开发目前仍是实现实际、大规模量子计算应用的主要障碍。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/postmanlabs/postman-app-support/issues/14370">[SEVERE] Desktop auto - installs Codex/Claude plugins ; installer...</a></li>
-<li><a href="https://www.usebruno.com/">Bruno - The Git-Native API Client</a></li>
+<li><a href="https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/">Quantum Roadmaps Are Finally Meeting Reality - EE Times</a></li>
+<li><a href="https://postquantum.com/quantum-computing-companies/quantum-computing-companies-roadmaps/">What 60+ Quantum Hardware Roadmaps Actually Tell Us</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区对 Postman 的企业化转型普遍持批评态度，认为它已从一个深受喜爱的开发者工具演变成一个臃肿的平台，强制登录并收集数据，以证明其十亿美元估值的合理性。医疗行业人士报告称，其安全团队已取消 Postman 的认证，促使团队连夜大规模迁移到 Bruno，也有其他人指出该工具的性能问题日益严重。
-
-**标签**: `#security`, `#privacy`, `#postman`, `#devtools`, `#data-exfiltration`
+**标签**: `#Quantum Computing`, `#Hardware Market`, `#Industry Analysis`, `#Technology Roadmap`
 
 ---
 
 <a id="item-9"></a>
-## [AI 硬件的隐藏成本：供应链中的资本积累](https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/) ⭐️ 8.0/10
+## [(PR) AMD Reports Record $13.4B Third Quarter 2026 Revenue](https://www.techpowerup.com/354446/amd-reports-record-usd-13-4b-third-quarter-2026-revenue) ⭐️ 7.5/10
 
-一篇 EE Times 文章通过分析 Alphabet 的 TPU 库存建设和英特尔的制造权衡，考察了资本在 AI 硬件供应链中的积累过程。它揭示了从下单到获得可用算力之间存在的隐藏经济成本。 文中引用的具体例子包括 Alphabet TPU 库存积累对现金流的影响，以及设备供应商资产负债表所反映的情况。该分析侧重于原始硬件采购与功能性 AI 算力实际部署之间的摩擦。
+AMD reported record Q3 2026 revenue of $13.4 billion, driven by a near-doubling of Data Center sales and increased demand for its Instinct and EPYC products.
 
-rss · EE Times · 11月3日 14:08
+rss · TechPowerUp News · 11月3日 22:33
 
-**背景**: 在 AI 硬件行业中，从购买设备到数据中心投入运营之间，往往存在巨大的时间和财务延迟。这种“隐藏成本”包括库存管理、电力基础设施准备以及软件集成。Alphabet 和英特尔等科技巨头必须在不损害资产负债表的情况下应对这些复杂情况。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.crypto-headlines.com/articles/1291059-alphabet-says-tpu-inventory-build-is-weighing-on-its-cash-flow">Alphabet says TPU inventory build is weighing on... | Crypto-Headlines</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Hardware`, `#Supply Chain`, `#Semiconductors`, `#Capital Expenditure`
+**标签**: `#AMD`, `#Financials`, `#Data Center`, `#Hardware`, `#AI Infrastructure`
 
 ---
 
 <a id="item-10"></a>
-## [英特尔发布 14A PDK 0.9 版本，确认迈向 2028 年量产](https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027) ⭐️ 7.5/10
+## [Nintendo ROM chip supplier Macronix quits to focus on chips for AI data centers, reports indicate](https://www.tomshardware.com/video-games/nintendo/nintendo-rom-chip-supplier-macronix-quits-to-focus-on-chips-for-ai-data-centers-game-key-cards-may-be-more-available-as-large-game-storage-chips-become-more-expensive) ⭐️ 7.5/10
 
-英特尔为其下一代 14A 节点发布了 0.9 版本的工艺设计套件（PDK），其中包含了基于硅片验证的模型。这一里程碑表明，该工艺已达到其当前开发阶段预期的性能和良率成熟度。 PDK 0.9 的发布向代工厂客户表明，英特尔 14A 节点即将具备量产条件，这可能会重塑英特尔与台积电等成熟代工厂之间的竞争格局。这对于英特尔代工（Intel Foundry）吸引外部客户并确立自身作为主要 AI 芯片制造商的地位至关重要。 计划于 2027 年第一季度发布 PDK 1.0 版本，以验证其量产（HVM）准备情况。英特尔预计将于 2028 年开始大规模生产采用 14A 工艺的芯片。
+Macronix is ceasing production of Nintendo ROM chips to redirect its manufacturing capacity towards NOR and NAND flash chips for the booming AI data center market.
 
-rss · Tom's Hardware · 11月3日 15:20
+rss · Tom's Hardware · 11月4日 17:10
 
-**背景**: 工艺设计套件（PDK）是半导体行业中用于为设计集成电路的设计工具建模制造工艺的一组文件。从 PDK 0.9 到 PDK 1.0 的演进，代表着从基于硅片验证的设计环境向具备完整商业化量产能力状态的过渡。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry/what-is-the-intel-14a-pdk-0-9-and-why-it-matters.html">What Is the Intel 14A PDK 0.9, and Why Does It Matter to ...</a></li>
-<li><a href="https://www.gate.com/news/detail/INTC/intel-14a-pdk-09-uses-silicon-validation-pdk-10-set-for-2027-25388551">Intel 14A PDK 0.9 Uses Silicon Validation, PDK 1.0 Set for ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Intel`, `#Semiconductors`, `#Process Nodes`, `#Manufacturing`, `#Hardware`
+**标签**: `#Supply Chain`, `#AI Hardware`, `#Semiconductors`, `#Gaming Industry`, `#Market Shift`
 
 ---
 
 <a id="item-11"></a>
-## [走私商利用海关监管漏洞向中国输送被禁的高带宽内存](https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports) ⭐️ 7.5/10
+## [Team Group CEO warns memory crisis could reach point where 'even money can't buy goods' — will get worse next year, with 'no downward trend in price whatsoever'](https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever) ⭐️ 7.5/10
 
-走私商正在利用海关检查漏洞，将被限制的高带宽内存（HBM）与不受制裁的低端处理器绑定，以规避美国对先进 AI 硬件的出口管制。这一做法使得来自韩国的被禁内存芯片能够合法出口并运入中国。 这一规避技术通过利用性能规格检查的漏洞，严重削弱了美国半导体制裁的有效性并增加了国际出口管制的执行难度。它为中国的 AI 发展提供了关键的供应链通道，直接影响了全球 AI 芯片市场的平衡。 该漏洞的核心机制在于，海关当局目前仅检查服务器处理器的性能规格，而不会深入检查其配对的内存。因此，将昂贵且被禁的高带宽内存与廉价且不受制裁的处理器绑定，可将货物重新归类为合法出口品。
+Team Group CEO warns of an impending DRAM memory crisis where prices will not drop, indicating a severe supply shortage that will persist into next year.
 
-rss · Tom's Hardware · 11月3日 12:04
+rss · Tom's Hardware · 11月4日 15:28
 
-**背景**: 高带宽内存（HBM）是一种先进的 3D 堆叠动态随机存取存储器（DRAM）技术，可提供超过每秒 1TB 的带宽，是当今 AI 加速器和数据中心的必备组件。自 2018 年以来，美国政府实施了严格的出口管制，以限制中国获取先进半导体技术并限制其 AI 计算能力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R48642/R48642.2.pdf">U.S. Export Controls and China: Advanced Semiconductors</a></li>
-<li><a href="https://www.wevolver.com/article/what-is-high-bandwidth-memory-3-hbm3-complete-engineering-guide-2025">What is High Bandwidth Memory 3 ( HBM 3): Complete Engineering...</a></li>
-<li><a href="https://www.squirepattonboggs.com/media/frihh54m/the-bureau-of-industry-and-security-bis-issues-concurrent-rules.pdf">The Bureau of Industry and Security (BIS) Issues Concurrent ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Hardware`, `#Semiconductors`, `#Supply Chain`, `#Sanctions`, `#HBM`
+**标签**: `#DRAM`, `#Supply Chain`, `#Hardware`, `#Semiconductors`, `#Economics`
 
 ---
 
 <a id="item-12"></a>
-## [因关键提案被拒及复杂性担忧，C++26 未能获批](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) ⭐️ 7.0/10
+## [Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals](https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy) ⭐️ 7.5/10
 
-C++26 未获得标准委员会的正式批准，主要原因是包括合约（Contracts）在内的关键提案未能通过。这引发了开发者社区关于语言日益复杂化以及控制新增特性的必要性的激烈讨论。 主要 C++ 版本未能获批是 C++ 社区的重要事件，因为它阻止了合约（Contracts）等预期特性纳入标准。这促使社区反思语言的发展路径，表明当前趋势更倾向于保持简洁与稳定，而非持续增加新功能。 C++26 被拒凸显了标准化过程中的分歧，像使用 contract_assert 等关键字的合约特性遭到反对。支持现状的开发者认为，现有的 C++20 概念和高可靠性 C++ 标准惯用写法已能满足需求，新增语法并非必要。
+Google discovered and removed an unauthorized backdoor in 1.3 million Videostrong set-top boxes that was used to facilitate a botnet for ad fraud and residential proxy access.
 
-hackernews · thatxliner · 11月4日 00:33 · [社区讨论](https://news.ycombinator.com/item?id=50360164)
+rss · Tom's Hardware · 11月4日 11:00
 
-**背景**: C++ 合约是一项拟议中的语言特性，旨在为函数指定前置条件和后置条件，以辅助高可靠性软件开发。C++ 标准化过程涉及严格的投票和共识构建，单个关键提案的失败可能导致整个发布版本未能获批。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cppstories.com/2026/cpp26_contracts/">C+ + 26 Contracts : Introduction to Preconditions and Postconditions</a></li>
-<li><a href="https://devblogs.microsoft.com/cppblog/c17-feature-removals-and-deprecations/">C+ +17 Feature Removals And Deprecations - C++ Team Blog</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区讨论对合约特性的实用性表示怀疑，许多人认为 C++20 概念和现有惯用写法已能满足高可靠性需求。强烈的情绪认为 C++ 应专注于简化语言和修复现有问题，而非增加新的复杂特性，部分评论指出该语言正因自身的负担而“不堪重负”。
-
-**标签**: `#C++`, `#Programming Standards`, `#Language Design`, `#Software Engineering`
+**标签**: `#Cybersecurity`, `#Android TV`, `#Supply Chain Security`, `#Botnet`, `#IoT Security`
 
 ---
 
 <a id="item-13"></a>
-## [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) ⭐️ 7.0/10
+## [美军成功试飞采用 3D 打印混合电动发动机的 VICTOR 无人机](https://www.tomshardware.com/tech-industry/drones/us-army-successfully-flies-a-hybrid-electric-drone-with-3d-printed-heavy-fuel-rotary-engine-400v-motor-generator-uses-advanced-engineering-to-ditch-a-bulky-liquid-cooling-system) ⭐️ 7.5/10
 
-Stringman is an $800 open-source room-scale robot that uses tension-controlled cables to assist with daily tasks, sparking significant community discussion on its design, safety, and potential applications.
+美国陆军成功试飞了 VICTOR 无人机，该无人机采用了混合电动推进系统，配备了 3D 打印的重油转子发动机。这一设计利用先进工程技术摒弃了传统的笨重液体冷却系统，转而采用更紧凑的结构。 这一成就证明了增材制造在高功率密度军事航空领域的应用可行性，使复杂发动机部件的快速原型开发成为可能。它有望加速部署那些具备更长续航时间和重型物流能力的无人机，从而支持野外作战行动。 该发动机使用重油，与标准航空汽油相比，这一特性提高了安全性和操作灵活性。在混合电动系统中集成 400V 电机发电机，凸显了该系统对高功率密度和热管理效率的关注。
 
-hackernews · nharada · 11月3日 16:47 · [社区讨论](https://news.ycombinator.com/item?id=50354358)
+rss · Tom's Hardware · 11月4日 10:30
 
-**标签**: `#OpenSource`, `#Robotics`, `#Hardware`, `#Maker`, `#AssistiveTechnology`
+**背景**: 转子发动机以高功重比著称，但传统上存在热管理难题，通常需要复杂的液体冷却回路。混合电动无人机将内燃机与电动机结合，以优化燃油效率和静音飞行模式。金属 3D 打印允许制作复杂的内部几何结构，从而实现直接风冷或集成散热，无需外部散热器和泵。
+
+**标签**: `#aerospace-engineering`, `#3d-printing`, `#drone-technology`, `#us-army`, `#thermal-management`
 
 ---
 
 <a id="item-14"></a>
-## [工程师弃用氛围编码，转向手工编写工具以提升可靠性](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/) ⭐️ 7.0/10
+## [英伟达 RTX Spark 加密固件导致 Linux 推理速度下降](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop) ⭐️ 7.0/10
 
-软件工程师 Ben Stolovitz 发布了关于使用 AI 工具的最新方法论，指出他最成功的项目是用几百行手工代码替换了约 4,000 行“氛围编码”实现，从而提升了灵活性和可测试性。 这一务实的转变凸显了行业内日益加剧的矛盾：开发人员正从盲目依赖 AI 智能体转向一种混合模式，该模式保留了人类对代码的理解力和质量控制能力。 作者明确认为，对于复杂系统的阅读和测试能力优于快速生成 AI 代码，并指出尽管 AI 工具在速度上具有优势，但手工编写的实现在通用性方面依然更胜一筹。
+英伟达新款 RTX Spark 笔记本电脑搭载了加密固件，导致在 Linux 系统上 GPU 性能受到限制，本地 AI 推理速度降至 35%。此问题源于该以 Windows 为优先的硬件平台缺乏适当的驱动程序支持。 这一硬件限制影响了依赖 Linux 进行本地 AI 开发的开发者和爱好者，可能会迫使他们转向专有的 Windows 环境或云端解决方案。这凸显了闭源专有驱动程序与开源 Linux 生态系统之间持续存在的紧张关系。 这种性能限制具体出现在使用 RTX Spark 平台的微星 Prestige 笔记本电脑上，并非英伟达故意推动云端的举措。该平台采用 Blackwell GPU 和 Grace CPU 架构，配有统一的 LPDDR5X 内存，并运行于 Arm 架构的 Windows 11 系统。
 
-hackernews · citelao · 11月3日 18:11 · [社区讨论](https://news.ycombinator.com/item?id=50355767)
+hackernews · novaRom · 11月4日 08:46 · [社区讨论](https://news.ycombinator.com/item?id=50362905)
 
-**背景**: “氛围编码”（Vibe Coding）是一个术语，用于描述一种快速迭代的开发流程，在此流程中，工程师严重依赖 AI 智能体根据高层自然语言提示生成代码，而不深入阅读每一行代码。Claude Code 是一款流行的基于终端的 AI 工具，允许开发者直接在开发环境中与 AI 模型交互，以编写、编辑和调试代码。
+**背景**: 英伟达的 RTX Spark 是一款专为 AI 工作负载设计的新型笔记本电脑和小型台式机产品线，其核心为 N1X 片上系统。“主权 AI”是指国家或地区通过掌控 AI 能力并减少对国外提供商的依赖而采取的行动，由于本地 AI 开发需要高性能硬件，因此这一概念与此相关。这些以 Windows 为优先的设备没有官方出厂 Linux 支持，用户需要自行安装自定义驱动程序或内核。
 
-**社区讨论**: 评论者表达了强烈的认知失调，认为软件中人类的“品味”正是源于编写和阅读代码的过程，而缺乏深度理解的 AI 依赖会引入难以调试的隐含假设。讨论还强调了观点的分化：有人担心 AI 会因个人关注度下降而降低整体质量，而非仅仅提升非专家的下限。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/Th0rgal/awesome-rtx-spark">GitHub - Th0rgal/awesome-rtx-spark: Independent community ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sovereign_AI">Sovereign AI</a></li>
+<li><a href="https://www.nvidia.com/en-us/products/rtx-spark/specifications/">RTX Spark N1X Laptop & Desktop Specifications | NVIDIA</a></li>
 
-**标签**: `#AI-Tools`, `#Software-Engineering`, `#Developer-Productivity`, `#Code-Quality`, `#Future-of-Coding`
+</ul>
+</details>
+
+**社区讨论**: 社区讨论最初误认为这是公司推动云端依赖的举措，但懂行的用户澄清这只是新型基于 Windows 的硬件平台缺乏 Linux 驱动程序支持的问题。评论者还批评了英伟达历史上对专有闭源驱动程序的使用，探讨了使用新的“氛围编码”（vibecoded）发行版进行测试的合理性，并表达了对科技新闻中 AI 生成内容泛滥的厌倦。
+
+**标签**: `#Nvidia`, `#Linux`, `#AI`, `#Hardware`, `#OpenSource`
 
 ---
 
 <a id="item-15"></a>
-## [Ceva 新一代 NeuPro 架构开启 AI 无限可能](https://semiwiki.com/ip/ceva/375670-cevas-next-neupro-generation-opens-new-possibilities-across-ai/) ⭐️ 7.0/10
+## [腾讯开源 Hy4 基础模型用于科学研究](https://hy.tencent.ai/research/hy4) ⭐️ 7.0/10
 
-Ceva 宣布推出新一代 NeuPro NPU 产品组合，通过统一架构和软件，全面赋能传感器、边缘及云端 AI 应用。
+腾讯已根据 Apache 2.0 许可证开源了 Hy4 基础模型，这是一个拥有 7700 亿参数的混合专家（MoE）系统，支持 100 万 token 上下文。该发布还包括专门的科学模型 HyCell 和 HyPDE，以及针对虚幻引擎和 Unity 等游戏开发引擎的特定适配。 此次发布通过提供用于科学计算和开发的高性能模型，显著加强了开源人工智能生态系统。它为专有模型提供了可行的替代方案，特别是对于那些需要在自己的基础设施上运行科学工作负载的研究人员而言。 尽管 Hy4 在内部科学基准测试中位居开源权重模型之首，但腾讯承认其在研究级数学和高级视觉问答方面与顶级专有系统仍存在显著的性能差距。独立测试表明，该模型速度极慢且资源密集，在处理每个任务时可能会运行数十次查询。
 
-rss · SemiWiki · 11月3日 16:00
+hackernews · Philpax · 11月4日 14:11 · [社区讨论](https://news.ycombinator.com/item?id=50365780)
 
-**标签**: `#Semiconductor`, `#AI Hardware`, `#NPU`, `#Embedded Systems`, `#Ceva`
+**背景**: Hy4 是一个大语言模型，专为深度推理和长程执行而设计，针对科学研究和软件工程中的复杂任务。相关模型 HyCell 和 HyPDE 分别专门用于单细胞生物学表征和物理场建模。与许多美国限制先进工具访问的企业策略不同，此次发布优先考虑面向全球研究社区的开放权重可访问性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.eesel.ai/blog/tencent-hy4-review">Tencent Hy 4 review: is the 770B open-weight model worth it? | eesel AI</a></li>
+<li><a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">Tencent Launches Hy4, Joining the Ranks of the World's ...</a></li>
+<li><a href="https://hy.tencent.ai/research/hy4">Tencent Hy</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反响总体积极，用户称赞科学工具的开源举措，将其视为与限制研究人员访问的美国企业趋势形成文明对比的亮点。独立评估指出，尽管 Hy4 在数据分析基准测试中详尽且准确性极高，但由于其大量使用推理步骤，其执行速度明显慢于竞争对手。
+
+**标签**: `#open-source-ai`, `#foundation-models`, `#tencent`, `#game-development`, `#scientific-ml`
 
 ---
 
 <a id="item-16"></a>
-## [先进封装是光模块共封装(CPO)的关键推动力](https://www.eetimes.com/five-things-you-didnt-know-about-co-packaged-optics/) ⭐️ 7.0/10
+## [STMicroelectronics 扩展 STM32 路线图以支持云 AI 和物理 AI](https://www.eetimes.com/stmicroelectronics-expands-stm32-roadmap-for-cloud-ai-and-physical-ai/) ⭐️ 7.0/10
 
-一篇《电子工程时报》(EETimes) 的文章认为，光模块共封装(CPO)的商业成功在很大程度上依赖于能够有效大规模集成、连接和保护组件的先进封装技术。该简报强调了封装在该光子技术突破中常被忽视的重要性。 理解封装的关键作用对于数据中心基础设施至关重要，因为它决定了可扩展、节能的 CPO 解决方案能否可靠地进行大规模生产。这将半导体制造流程与下一代 AI 和网络架构紧密联系起来。 提供的文本是一篇简短的总结，表明封装技术与光学技术突破本身在商业可行性上同样重要。该摘录中没有详细说明具体的技术参数。
+STMicroelectronics 扩展了其 STM32 微控制器路线图，新增了汽车级 STM32A 和功率型 STM32G5 型号。这些新增产品明确针对云 AI 和物理 AI 应用。 此次更新意义重大，因为它统一了 STM32 平台以支持高可靠性的汽车环境和先进的动力系统。它使得能够感知、决策并在物理世界中实时行动的“物理 AI”设备的开发成为可能。 STM32G5 系列具备运行频率最高可达 280 MHz 的 Arm Cortex-M33 核心，并集成了混合信号处理功能和内置安全特性。STM32A 系列旨在满足汽车电子产品严苛的要求。
 
-rss · EE Times · 11月3日 14:00
+rss · EE Times · 11月4日 14:37
 
-**背景**: 光模块共封装(CPO) 是一种新兴的互连技术，它将光引擎与交换 ASIC 或计算芯片直接集成在同一个封装内。为了实现这一目标，它依赖于先进的 2.5D 和 3D 封装技术，将硅光子组件与 CMOS 电子元件进行垂直或水平共集成。
+**背景**: STMicroelectronics 的 STM32 系列是广泛用于嵌入式系统的基于 Arm 架构的 32 位微控制器平台。物理 AI 是边缘 AI 的演进，要求嵌入式系统能够在机器人和车辆等物理设备中实时感知、决策和行动。汽车级微控制器必须满足如 ISO 26262 等严苛的安全和可靠性标准。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://dev.to/aicplight/lpo-vs-npo-vs-cpo-the-evolution-of-optical-interconnects-in-ai-data-centers-33ha">LPO vs NPO vs CPO : The Evolution of Optical ... - DEV Community</a></li>
-<li><a href="https://www.lovechip.com/blog/silicon-photonic-packaging-technology">Silicon Photonic Packaging Technology: A Comprehensive Guide</a></li>
+<li><a href="https://www.st.com/en/microcontrollers-microprocessors/stellar-32-bit-automotive-mcus.html">Stellar 32-bit automotive MCUs - STMicroelectronics</a></li>
+<li><a href="https://www.youtube.com/watch?v=ASwqGyU7K30">STM 32 G 5 : new mixed-signal MCUs for digital power and... - YouTube</a></li>
+<li><a href="https://www.electronicspecifier.com/products/artificial-intelligence/what-physical-ai-really-means-for-embedded-systems/">What Physical AI really means for embedded systems</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Co-Packaged Optics`, `#Advanced Packaging`, `#Photonics`, `#Semiconductor Industry`, `#Data Center Infrastructure`
+**标签**: `#Embedded Systems`, `#Microcontrollers`, `#STMicroelectronics`, `#Physical AI`, `#Automotive Electronics`
 
 ---
 
 <a id="item-17"></a>
-## [Windows 11 Optimizations Bring Up to 40% Faster Multitasking to 8 GB PCs](https://www.techpowerup.com/354441/windows-11-optimizations-bring-up-to-40-faster-multitasking-to-8-gb-pcs) ⭐️ 6.5/10
+## [AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments](https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments) ⭐️ 6.5/10
 
-Microsoft has released Windows 11 optimizations for 8GB RAM systems that improve multitasking performance by up to 40% by retaining more active application data in memory.
+US voters overwhelmingly rejected 45 local ballot measures related to AI data center development during the midterm elections, signaling strong public opposition to new infrastructure projects.
 
-rss · TechPowerUp News · 11月3日 19:07
+rss · Tom's Hardware · 11月4日 13:13
 
-**标签**: `#Windows 11`, `#System Optimization`, `#Performance`, `#Microsoft`, `#Hardware`
+**标签**: `#AI Infrastructure`, `#Regulation`, `#Data Centers`, `#Public Opinion`
 
 ---
 
 <a id="item-18"></a>
-## [OpenAI 推出电网保护计划以管理 AI 数据中心能源](https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia) ⭐️ 6.5/10
+## [Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?](https://www.eetimes.com/is-there-room-for-small-scale-osats-in-india-chip-packaging-boom/) ⭐️ 6.0/10
 
-OpenAI 推出了电网保护计划，这是为了支持其所在社区可靠电力而开展的全国性举措，通过在电网高峰时段有意降低电力需求来实现目标。该计划目前正在佐治亚州的数据中心进行测试。 该计划通过主动管理负载而非仅仅消耗电力，缓解了庞大的 AI 数据中心对区域电网日益增加的压力。其目的是降低当地家庭和商业的能源成本并提高电网稳定性。 该计划利用负载削减技术（一种最初在 20 世纪 70 年代开发的技术），在需求高峰期间临时断开非关键负载。这是针对防止系统过载和停电而设计的、对电力需求进行控制的有意减少。
+A consultant estimates that small-scale OSATs in India require approximately $15.8–$21 million to start, highlighting the challenges of securing anchor customers and skilled staff in the growing chip packaging market.
 
-rss · Tom's Hardware · 11月3日 15:56
+rss · EE Times · 11月3日 23:30
 
-**背景**: 负载削减是一种紧急电力控制保护方法，用于电力供需出现巨大失衡的情况。在数据中心，这通常意味着临时暂停特定工作负载以缓解电网压力，尽管传统定义通常指公用事业公司强制性的断电。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Load_shedding">Load shedding - Wikipedia</a></li>
-<li><a href="https://openai.com/uk-UA/index/grid-protectors-program/">Introducing the Grid Protectors Program | OpenAI</a></li>
-<li><a href="https://boltdigitaltech.com/glossary/load-shedding/">Load Shedding for Data Centers: A Growing Concern - Bolt ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Infrastructure`, `#Energy Efficiency`, `#OpenAI`, `#Data Centers`
+**标签**: `#Semiconductors`, `#OSAT`, `#India`, `#Supply Chain`, `#Industry Analysis`
 
 ---
 
 <a id="item-19"></a>
-## [8 台改造喷气发动机为 xAI 数据中心提供动力，企业寻求新能源](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide) ⭐️ 6.5/10
+## [(PR) SEMI Reports Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026](https://www.techpowerup.com/354472/semi-reports-worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026) ⭐️ 5.5/10
 
-xAI 利用 8 台改造后的喷气发动机涡轮为其位于密西西比州的数据中心供电，此举因污染物排放引发的环境和健康担忧而受到关注。
+SEMI reported that worldwide silicon wafer shipments increased by 13.4% year-on-year in Q3 2026, driven by expanding AI demand and strengthening industrial sectors like robotics and power devices.
 
-rss · Tom's Hardware · 11月3日 15:02
+rss · TechPowerUp News · 11月4日 18:43
 
-**标签**: `#AI Infrastructure`, `#Energy`, `#Data Centers`, `#xAI`, `#Sustainability`
+**标签**: `#semiconductors`, `#supply-chain`, `#silicon-wafer`, `#industry-report`, `#ai-demand`
 
 ---
 
 <a id="item-20"></a>
-## [AI 数据中心需求推动消费级内存成本激增 330 亿美元](https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027) ⭐️ 6.5/10
+## [T-Mobile 发布 90 美元 5Gbps 光纤方案，承诺 10 年价格锁定](https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee) ⭐️ 5.5/10
 
-人工智能数据中心需求激增促使内存制造商优先生产高利润的服务器产品，导致短缺和价格上涨，使苹果等公司的制造成本增加了 330 亿美元。 这一转变威胁到消费电子硬件制造商在关键的假日季度及 2027 年期间的利润空间，可能导致未来消费设备价格更高或性能降低。 较小的制造商如公平手机受到严重冲击，由于零部件短缺，内存占其部分手机物料清单成本的比例已接近 60%。
+T-Mobile 推出了一款新光纤互联网服务，提供最高 5 Gbps 的网速，月费为 90 美元。该方案包含 10 年价格保证。 此举使超高速光纤连接对消费者来说更实惠且可预测。通过结合高性能与长期成本确定性，加剧了互联网服务提供商之间的竞争。 该方案专门针对希望在无突然涨价风险的情况下获得显著网速提升的用户。5 Gbps 的网速比 T-Mobile 之前最高档提供的速度提升了 2.5 倍。
 
-rss · Tom's Hardware · 11月3日 14:28
+rss · Tom's Hardware · 11月4日 16:50
 
-**背景**: 高带宽内存是一种专门用于服务器和 AI 加速器的高性能 3D 堆叠架构。传统 DRAM 和 NAND 闪存是消费设备使用的标准内存和存储。AI 基础设施需要大量快速、高容量的内存，促使制造商优先考虑这些服务器级组件而非消费级产品。
+**背景**: 光纤互联网是一种利用玻璃光纤中的光传输数据的技术，提供高速度和低延迟。互联网服务提供商正越来越通过价格和可靠性来争夺宽带市场的客户。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.micron.com/products/memory/hbm">High - bandwidth memory ( HBM ) | Micron Technology Inc.</a></li>
-<li><a href="https://www.wikiwand.com/en/High_Bandwidth_Memory">High Bandwidth Memory - Wikiwand</a></li>
-<li><a href="https://memoryindex.io/dram-vs-nand">DRAM vs NAND Prices — DDR5, DDR4 vs NAND Flash & SSD</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Hardware`, `#Supply Chain`, `#AI Infrastructure`, `#DRAM`, `#Economics`
+**标签**: `#Telecommunications`, `#Fiber Internet`, `#T-Mobile`, `#ISP`, `#Network Speeds`
 
 ---
