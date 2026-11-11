@@ -5,391 +5,342 @@ date: 2026-11-11
 lang: en
 ---
 
-> From 110 items, 20 important content pieces were selected
+> From 96 items, 20 important content pieces were selected
 
 ---
 
-1. [Torvalds Credits AI for Major Linux Kernel Progress](#item-1) ⭐️ 9.5/10
-2. [AMD Launches EPYC 9006 'Venice' Platform with Zen 6 Architecture](#item-2) ⭐️ 9.5/10
-3. [Alice Huang's alleged links to Nvidia CEO tied to massive banned AI chip shipments to China](#item-3) ⭐️ 8.5/10
-4. [Anthropic Glasswing AI Security Findings Spark Controversy](#item-4) ⭐️ 8.0/10
-5. [AlphaProof Code](#item-5) ⭐️ 8.0/10
-6. [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](#item-6) ⭐️ 8.0/10
-7. [CPO Transition: Aligning Optical Performance with Manufacturing Yield](#item-7) ⭐️ 8.0/10
-8. [Weebit Nano Launches Matrix Program for In-Memory AI Research](#item-8) ⭐️ 8.0/10
-9. [Rapidus fails to produce functional 2nm SRAM, jeopardizing mass production timeline](#item-9) ⭐️ 8.0/10
-10. [(PR) Otto Introduces Otto One: the Personal AI Computer for Autonomous Agents](#item-10) ⭐️ 7.5/10
-11. [AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking](#item-11) ⭐️ 7.5/10
-12. [Frontier Model Forum Proposes Standardized AI Jailbreak Rating Framework](#item-12) ⭐️ 7.5/10
-13. [Mac Studio M5 Ultra vs Nvidia DGX Spark for High-End Local AI Inference](#item-13) ⭐️ 7.5/10
-14. [Terafab Targets One Million Wafers Monthly](#item-14) ⭐️ 7.5/10
-15. [Study Shows DALL-E 3 Romantically Biases Industrial Farming Images](#item-15) ⭐️ 7.3/10
-16. [Community Strategies for Internet-Independent Smart Home Automation](#item-16) ⭐️ 7.0/10
-17. [The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?](#item-17) ⭐️ 7.0/10
-18. [What It Takes to Let a Farm Robot Work Alone](#item-18) ⭐️ 7.0/10
-19. [Reports Suggest NVIDIA May Reduce TSMC Orders Amid Security and Export Concerns](#item-19) ⭐️ 6.5/10
-20. [Intel and Altera partner for real-time AI sensor bridges](#item-20) ⭐️ 6.5/10
+1. [AMD Unveils Zen 6 and Zen 6c CPU Architectural Details](#item-1) ⭐️ 9.3/10
+2. [IBM Unveils Nighthawk r3 Processor and 1,000-Qubit Roadmap](#item-2) ⭐️ 8.5/10
+3. [In Memoriam: Passing of Tim Peters, Python Core Developer and Author of the Zen of Python](#item-3) ⭐️ 8.0/10
+4. [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](#item-4) ⭐️ 8.0/10
+5. [Using voltage glitching to unleash the A100 in my mining card](#item-5) ⭐️ 8.0/10
+6. [NVHBM: Can Custom HBM Change Who Builds the Memory Stack?](#item-6) ⭐️ 8.0/10
+7. [STMicros’ Maria Heriz on Moving All Its MCUs to One STM32 Platform](#item-7) ⭐️ 8.0/10
+8. [Credo Unveils 1.6T ZeroFlap ALC for Reliable AI Interconnects at OCP 2026](#item-8) ⭐️ 8.0/10
+9. [Google Cloud integrates TPU 8i Max with Arm Neoverse Axion processors](#item-9) ⭐️ 8.0/10
+10. [Imec Establishes Silicon Interposer Flows in NanoIC Pilot Line](#item-10) ⭐️ 8.0/10
+11. [Linux memory management reviewer steps down over flood of AI slop patches](#item-11) ⭐️ 7.5/10
+12. [AMD MEXT Achieves 95% Performance with Half DRAM on 145 Servers](#item-12) ⭐️ 7.5/10
+13. [Musk's xAI faces Texas approval for $24B gas-powered AI data center](#item-13) ⭐️ 7.5/10
+14. [Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts](#item-14) ⭐️ 7.5/10
+15. [AWS Finally Built Its Own AWS Emulator](#item-15) ⭐️ 7.0/10
+16. [Can a Linear Program Do Weight-Space Programming?](#item-16) ⭐️ 7.0/10
+17. [Pharo in the Browser with WebAssembly](#item-17) ⭐️ 7.0/10
+18. [SemiWiki Explains the Role of Silicon Substrates and SOI in Transistors](#item-18) ⭐️ 7.0/10
+19. [Mobilint and Chips&Media Mass-Produce Edge AI Chips for Humanoid Robots](#item-19) ⭐️ 7.0/10
+20. [Norway deploys 3,500 AI laser drones to protect salmon](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Torvalds Credits AI for Major Linux Kernel Progress](https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports) ⭐️ 9.5/10
+## [AMD Unveils Zen 6 and Zen 6c CPU Architectural Details](https://www.solidot.org/story?sid=85852) ⭐️ 9.3/10
 
-Linus Torvalds stated that AI-generated fixes drove most of the progress in Linux kernel version 7.4rc2. He specifically noted that the BPF subsystem received more AI-written patches than human bug reports. This signals a paradigm shift in open-source maintenance, where AI now significantly reduces the noise of low-quality reports while boosting code quality and throughput. It forces maintainers to adapt their workflows to manage a surge in high-quality automated contributions. The concentration of AI impact in the BPF subsystem highlights that specialized, complex code areas are most conducive to automated assistance. This data point suggests that AI is transitioning from a mere reviewer to a primary driver of kernel code evolution.
+AMD disclosed the Zen 6 and Zen 6c CPU microarchitectures, revealing a 3-3.5ns branch misprediction penalty, dual decode clusters, and a 27% overall IPC uplift for server workloads. The new design introduces a significant architectural differentiation between the high-frequency Zen 6 core and the high-density, wider out-of-order execution Zen 6c core. This major architectural pivot restructures AMD's core designs significantly, similar to the leap from Zen 1 to Zen 2, setting a new performance baseline for next-generation CPUs. It impacts high-performance computing, cloud services, and consumer desktops by delivering substantially higher instructions per clock and expanded cache structures. Zen 6 features 12-core CCDs with 48MB of L3 cache, while the high-density Zen 6c uses 32-core CCDs with 128MB of L3 cache. Integer multiplication units were reduced from three to two to save silicon area, though the wider execution window improved 64-bit addition throughput to 5.96 per cycle.
 
-rss · Tom's Hardware · Nov 10, 12:40
+rss · Solidot · Nov 11, 06:25
 
-**Background**: The Linux kernel is the operating system's core, managed by a global team of maintainers who traditionally rely on human-generated bug reports to drive development. BPF (Berkeley Packet Filter) is a Linux kernel framework that enables efficient code execution in networking, tracing, and security contexts. Historically, kernel maintainers have grappled with a flood of low-quality, AI-generated 'slop' reports, making the shift to high-quality AI fixes a notable change.
+**Background**: AMD uses Core Complex Dies (CCDs) to package its CPU cores, which connect to a central I/O die via high-speed links. Zen 5 previously offered classic and dense cores that were nearly identical in architecture but differed in cache and core count. The newer TAGE-based branch predictor and larger out-of-order execution windows represent fundamental shifts in how complex integer and floating-point instructions are handled.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://chanalyse.org/articles/articles/linus-torvalds-reaffirms-ai-tools-welcome-in-linux-kernel-development">What Torvalds Actually Said About AI in the Kernel — and What He...</a></li>
-<li><a href="https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/?td=rt-3a">Linux kernel czar says AI bug reports aren't slop anymore</a></li>
-<li><a href="https://master--cilium-docs.netlify.app/bpf">BPF and XDP Reference Guide — Cilium 1.8.90 documentation</a></li>
+<li><a href="https://www.techpowerup.com/review/amd-zen-6-technical-deep-dive/">AMD Zen 6 Technical Deep Dive - TechPowerUp</a></li>
+<li><a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">AMD’s Zen 6 Family: Feeding the Beast - by George Cozma</a></li>
+<li><a href="https://wccftech.com/amd-zen-6-architecture-ipc-cores-memory-performance-epyc-venice/">AMD Zen 6 Architecture Brings A Phenomenal 27% IPC Increase...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux`, `#Open Source`, `#AI`, `#DevOps`, `#Software Engineering`
+**Tags**: `#CPU Architecture`, `#AMD Zen 6`, `#Microarchitecture`, `#Branch Prediction`, `#Computer Hardware`
 
 ---
 
 <a id="item-2"></a>
-## [AMD Launches EPYC 9006 'Venice' Platform with Zen 6 Architecture](https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/) ⭐️ 9.5/10
+## [IBM Unveils Nighthawk r3 Processor and 1,000-Qubit Roadmap](https://www.techpowerup.com/354696/ibm-announces-quantum-nighthawk-r3-processor-plans-to-scale-beyond-1-000-qubits-in-2027) ⭐️ 8.5/10
 
-AMD announced the general availability of its 6th generation EPYC server SP7 processors based on the new Zen 6 architecture. The 'Venice' platform introduces up to 256 cores and 512 threads per socket, specifically designed for AI and high-density computing. The 'Venice' platform extends AMD's historical server CPU performance leadership, enabling enterprises and cloud providers to deploy next-gen data center infrastructure. This is critical for running AI agents and critical workloads with high memory bandwidth and compute density. The CPUs feature up to 1.6 TB/s of memory bandwidth and PCIe Gen 6 connectivity on TSMC's 2nm process. Systems from leading server vendors are currently in the shipping phase, with SP8 platforms planned for early 2027.
+IBM has announced its next-generation Quantum Nighthawk r3 processor, engineered to execute 10,000 quantum operations across 520 qubits. The company further plans to link two of these units into a single 1,040-qubit system by 2027. This milestone moves IBM's quantum architecture toward the complexity threshold required for industry-relevant problem solving while maintaining competitive execution speeds. Scaling beyond 1,000 qubits is a critical step for enabling applications that demand millions to billions of samples. The Nighthawk r3 design prioritizes the ability to run deep quantum circuits of 10,000 operations to ensure computations finish within practical timeframes and at reasonable costs. It maintains the high-speed performance profile of the current generation Nighthawk system while increasing qubit count and circuit depth.
 
-rss · ServeTheHome · Nov 10, 17:00
+rss · TechPowerUp News · Nov 11, 16:18
 
-**Background**: AMD EPYC processors are a leading series of server CPUs that have repeatedly set benchmarks in the data center industry for performance and energy efficiency. The transition to the new LGA 7536 SP7 socket represents a significant generational leap in socket and architecture standards.
+**Background**: Quantum computers operate by sampling the results of quantum circuits, where each run returns a single result that requires statistical aggregation over millions of trials. Unlike some trapped-ion competitors, IBM relies on superconducting qubits which offer much higher execution speeds, allowing for faster sample generation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/amd-epyc-9006-venice-full-sp7-lineup-pricing-architecture-explained-vzyoe">AMD EPYC 9006 ' Venice ': Full SP7 Lineup, Pricing, and Architecture...</a></li>
-<li><a href="https://www.techpowerup.com/forums/threads/amd-publishes-full-epyc-9006-venice-specs-and-pricing-8-core-at-700-256-core-at-14-904.353209/">AMD Publishes Full EPYC 9006 " Venice " Specs and Pricing: 8-Core...</a></li>
+<li><a href="https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/">IBM Plans 1,040-Qubit Quantum System with Next-Generation ...</a></li>
+<li><a href="https://www.fool.com/investing/2026/10/26/ibm-continues-to-plug-along-its-quantum-computing/">IBM Continues to Plug Along, but Its Quantum ... | The Motley Fool</a></li>
+<li><a href="https://www.ibm.com/think/news/ibm-goes-big-keep-quantum-computers-cold">IBM goes big to keep quantum computers cold | IBM</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#EPYC`, `#Server Hardware`, `#Zen 6`, `#Data Center`
+**Tags**: `#quantum-computing`, `#ibm`, `#hardware`, `#scalability`
 
 ---
 
 <a id="item-3"></a>
-## [Alice Huang's alleged links to Nvidia CEO tied to massive banned AI chip shipments to China](https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200) ⭐️ 8.5/10
+## [In Memoriam: Passing of Tim Peters, Python Core Developer and Author of the Zen of Python](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) ⭐️ 8.0/10
 
-Reports indicate that Alice Huang, an alleged Chinese spy with a personal relationship with Nvidia CEO Jensen Huang, facilitated the import of over $7.5 billion in banned Nvidia AI GPUs into China. This activity, conducted through a network of Chinese and Singaporean companies, resulted in the movement of 240,000 restricted chips, primarily H100 and H200 models, over a three-year period. This exposure of a personal backdoor in export controls threatens the integrity of US-China tech competition and may force Washington to tighten regulations and corporate compliance audits. It also casts a shadow over Nvidia's relationship with Beijing and the broader global AI supply chain. The alleged smuggling network involved Alice Huang, her husband, and her sister, utilizing companies across China and Singapore to acquire restricted hardware. The chips primarily affected were the H100 and H200, which are key components in large-scale AI data center infrastructure, highlighting specific vulnerabilities in current licensing regimes.
+Tim Peters, a prominent CPython core developer and author of 'The Zen of Python,' has died. The Python community is gathering in tribute, remembering his extensive technical and community contributions. His passing marks a significant loss for the programming ecosystem, particularly because he helped shape the fundamental design philosophy of Python and created the Timsort algorithm used in many modern languages. He was a legendary figure whose mentorship and code have deeply influenced generations of developers. Besides 'The Zen of Python' (PEP 20) and the Timsort sorting algorithm, he co-developed the successful SpamBayes program and co-authored 'The Python Cookbook'. He has been a CPython core developer since the early 2000s.
 
-rss · Tom's Hardware · Nov 10, 16:50
+hackernews · ayhanfuat · Nov 11, 07:03 · [Discussion](https://news.ycombinator.com/item?id=50450488)
 
-**Background**: The US Bureau of Industry and Security (BIS) imposes strict export controls on advanced AI semiconductors, such as Nvidia's H100 and H200 GPUs, to prevent their proliferation to China. Nvidia had previously designed specialized, downgraded models like the H800 and A800 to comply with earlier regulations, but subsequent tightening of rules forced the company to stop selling these to China, resulting in billions in lost revenue.
+**Background**: Tim Peters was a highly influential software engineer in the Python ecosystem who served as a CPython core developer. He is universally recognized for writing 'The Zen of Python' in 1999, a set of guiding aphorisms for Python's design that can be accessed by typing 'import this' in a Python interpreter. In programming, Timsort is the highly efficient hybrid sorting algorithm he created, which is the standard implementation in languages like Python and Java.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200">Alice Huang reportedly instrumental in securing over... | Tom's Hardware</a></li>
-<li><a href="https://www.freemalaysiatoday.com/category/business/2026/11/10/nvidia-ceo-s-affair-with-alleged-spy-aided-us-7-5bil-in-china-chip-shipments">Nvidia CEO’s affair with alleged spy aided US$7.5bil in China chip...</a></li>
-<li><a href="https://whatledto.com/events/nvidia-china-export-controls">US Export Controls on Nvidia AI Chips to China — Timeline</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer)">Tim Peters (software engineer) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Hardware`, `#Export Controls`, `#Nvidia`, `#Geopolitics`, `#Supply Chain`
+**Discussion**: Community members shared deep personal reflections, recounting his generous, mentoring approach to coding and discussions that broadened their understanding. Many posted specific technical tributes, such as executing 'import this' to display his poem, and highlighted his foundational work on SpamBayes and his educational impact through the Python Cookbook.
+
+**Tags**: `#Python`, `#Community`, `#Milestone`, `#Obituary`, `#CPython`
 
 ---
 
 <a id="item-4"></a>
-## [Anthropic Glasswing AI Security Findings Spark Controversy](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) ⭐️ 8.0/10
+## [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) ⭐️ 8.0/10
 
-Seven months after launch, Anthropic's Project Glasswing update highlights a discrepancy between its impressive AI-driven security findings in proprietary systems and its limited public CVE disclosures. The tool, powered by the Mythos model, has identified subtle vulnerabilities that remain invisible in public databases but are actively mitigating major risks in partner codebases. This discussion challenges the industry's reliance on public CVE numbers as the sole metric for AI security impact, emphasizing that the most critical flaws often reside in private, proprietary code where they never receive public identifiers. It forces maintainers and enterprises to rethink how they validate the efficacy of advanced AI auditing tools in real-world, closed environments. The tool has demonstrated a 0% false positive rate in specific security contexts, with users reporting that all identified issues were genuine bugs, though proposed fixes often required manual adaptation. While the public 'ledger' shows modest results, the private initiative has found subtle logic flaws that are difficult to exploit manually.
+Google deployed 48 AI agents to analyze NASA LIDAR data, identifying an unmapped Maya pyramid within 72 hours, sparking debate on the scalability of AI-driven archaeological discoveries.
 
-hackernews · panic · Nov 10, 22:17 · [Discussion](https://news.ycombinator.com/item?id=50447074)
+hackernews · eyvindn · Nov 11, 12:05 · [Discussion](https://news.ycombinator.com/item?id=50452455)
 
-**Background**: Project Glasswing is an Anthropic initiative that deploys the unreleased Mythos model to hunt for security flaws in critical infrastructure, supported by up to $100M in usage credits. In cybersecurity, a CVE (Common Vulnerabilities and Exposures) is a public identifier assigned to a security issue; however, private companies rarely assign CVEs to internal bugs that are patched without public disclosure. AI security auditing uses large language models to scan codebases for vulnerabilities that human reviewers might miss.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.anthropic.com/glasswing">Project Glasswing : Securing critical software for the AI era \ Anthropic</a></li>
-<li><a href="https://toolwise.ai/news/anthropic-glasswing-ai-cybersecurity-too-dangerous">AI Cyber Tool Too Dangerous for Public Release | ToolWise</a></li>
-<li><a href="https://www.cisa.gov/resources-tools/programs/coordinated-vulnerability-disclosure-cvd-program">The Coordinated Vulnerability Disclosure (CVD) Program - CISA</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters argue that focusing on public CVEs is misleading because Glasswing's primary value lies in finding vulnerabilities within private, proprietary code that will never generate public news. Users emphasize that the tool's ability to identify high-impact, subtle logic flaws in closed environments far outweighs its lack of public recognition, with one expert noting a 100% hit rate on reported issues.
-
-**Tags**: `#AI Security`, `#Anthropic`, `#Vulnerability Management`, `#Code Audit`, `#HN Discussion`
+**Tags**: `#AI`, `#Archaeology`, `#LIDAR`, `#Computer Vision`, `#Google`
 
 ---
 
 <a id="item-5"></a>
-## [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) ⭐️ 8.0/10
+## [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) ⭐️ 8.0/10
 
-DeepMind introduces AlphaProof Code, an AI system that automatically generates formal proofs to verify the correctness of complex software libraries, sparking debate on the reliability and scope of AI-driven verification.
+A detailed post explains using voltage glitching to unlock the full 80GB of HBM memory on NVIDIA A100-based mining cards, with community discussion exploring risks, alternatives, and the economics behind the hardware binning.
 
-hackernews · ilreb · Nov 10, 12:11 · [Discussion](https://news.ycombinator.com/item?id=50439193)
+hackernews · lae · Nov 11, 10:48 · [Discussion](https://news.ycombinator.com/item?id=50451903)
 
-**Tags**: `#Formal Verification`, `#DeepMind`, `#AI Agents`, `#Software Engineering`, `#Lean`
+**Tags**: `#hardware-hacking`, `#nvidia`, `#reverse-engineering`, `#gpu`, `#hbm`
 
 ---
 
 <a id="item-6"></a>
-## [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) ⭐️ 8.0/10
+## [NVHBM: Can Custom HBM Change Who Builds the Memory Stack?](https://semiwiki.com/semiconductor-manufacturers/376093-nvhbm-can-custom-hbm-change-who-builds-the-memory-stack/) ⭐️ 8.0/10
 
-A Chrome-led initiative, collaborated with MDN and Firefox, provides a library of 200+ hand-crafted guides to help coding agents default to modern native web primitives instead of legacy JavaScript patterns.
+NVIDIA's NVHBM initiative may reshape the semiconductor industry by altering how high-bandwidth memory is designed, manufactured, and qualified among key suppliers.
 
-hackernews · paulirish · Nov 10, 18:01 · [Discussion](https://news.ycombinator.com/item?id=50443812)
+rss · SemiWiki · Nov 11, 16:00
 
-**Tags**: `#web-development`, `#ai-coding-assistants`, `#browser-apis`, `#frontend-engineering`, `#javascript`
+**Tags**: `#NVIDIA`, `#HBM`, `#Semiconductor Supply Chain`, `#Memory`, `#SK Hynix`
 
 ---
 
 <a id="item-7"></a>
-## [CPO Transition: Aligning Optical Performance with Manufacturing Yield](https://semiwiki.com/3dic/376055-cpos-next-challenge-turning-optical-performance-into-manufacturable-systems/) ⭐️ 8.0/10
+## [STMicros’ Maria Heriz on Moving All Its MCUs to One STM32 Platform](https://www.eetimes.com/stmicros-maria-heriz-on-moving-all-its-mcus-to-one-stm32-platform/) ⭐️ 8.0/10
 
-Co-Packaged Optics (CPO) is shifting its focus from proving optical performance metrics in the lab to solving commercial deployment challenges in AI infrastructure. The core engineering task now involves aligning integration boundaries and assembly strategies to ensure scalable manufacturing yield as switch bandwidths increase. This transition addresses a critical bottleneck in modern data centers, where traditional pluggable modules limit bandwidth scaling and power efficiency. Success in manufacturing CPO is essential for the semiconductor and systems engineering sectors to meet the exponential demand for AI compute infrastructure. The key technical challenge is that integration boundaries and assembly strategies must be engineered together rather than treated as separate stages. This holistic approach is necessary to balance high-speed optical performance with the physical constraints of semiconductor packaging yield.
+STMicroelectronics executive Maria Heriz discusses the strategic decision to unify all company MCUs under the STM32 platform, while also addressing preparation for EU cyber regulations and the integration of RISC-V, AI agents, and robotics technologies.
 
-rss · SemiWiki · Nov 10, 18:00
+rss · EE Times · Nov 11, 18:28
 
-**Background**: Co-Packaged Optics (CPO) is an advanced packaging technique that integrates optical transmitters and receivers (optical engines) directly with ASICs like network switch chips within a single package. This replaces conventional pluggable optical transceiver modules, significantly reducing interconnect power consumption and increasing bandwidth density in AI data centers. As monolithic scaling slows, heterogeneous integration is redefining where system value is created, making manufacturing yield a primary concern over pure device performance.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Co-packaged_optics">Co-packaged optics - Wikipedia</a></li>
-<li><a href="https://www.simon-kucher.com/en/insights/integration-boundary-where-semiconductor-value-consolidating">The integration boundary: Where semiconductor value is ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Co-Packaged Optics`, `#Semiconductor Manufacturing`, `#AI Infrastructure`, `#Data Center`, `#Systems Engineering`
+**Tags**: `#STMicroelectronics`, `#STM32`, `#Microcontrollers`, `#Embedded Systems`, `#RISC-V`
 
 ---
 
 <a id="item-8"></a>
-## [Weebit Nano Launches Matrix Program for In-Memory AI Research](https://semiwiki.com/ip/weebit-nano/375980-weebit-nano-launches-matrix-research-program-to-test-ai-computing-inside-memory/) ⭐️ 8.0/10
+## [Credo Unveils 1.6T ZeroFlap ALC for Reliable AI Interconnects at OCP 2026](https://www.eetimes.com/credo-at-ocp-2026-micro-emitter-optics-and-ai-interconnect-reliability/) ⭐️ 8.0/10
 
-Weebit Nano has launched the Weebit Matrix In-Memory Compute Research Program, providing academic and industry partners with direct access to its ReRAM-based hardware. This initiative enables researchers to prototype AI algorithms and explore novel compute-in-memory architectures. This program addresses critical bottlenecks in modern AI inference by enabling computation directly within memory, which can significantly improve energy efficiency. It accelerates the development of new semiconductor architectures by granting external partners access to specialized ReRAM platforms. The research program specifically focuses on exploiting ReRAM crossbars to perform matrix-vector multiplication in the analog domain, reducing data movement energy. It targets the prototyping of AI algorithms and the exploration of memory programming techniques.
+Credo’s Don Barnetson presented the 1.6T ZeroFlap Active Light Cable (ALC) at OCP 2026, which utilizes micro-emitter optics to deliver 1.6Tb/s connectivity for AI clusters. The technology provides copper-class reliability in a 10x lighter optical cable, reaching up to 50 meters to support row-scale scale-out networks. The new interconnects are vital for scaling up modern AI data centers, as they mitigate the latency and reliability risks associated with traditional pluggable optics in high-speed networks. By providing robust, cost-effective connectivity at 50m reaches, Credo is helping AI system architects build more efficient and stable cluster infrastructures. The 1.6T ZeroFlap transceivers integrate Credo’s Kfir200 SiPho PIC and PILOT diagnostics into a single device within a standard OSFP pluggable form factor. This architecture uses many small, low-power channels to spread data, building in redundancy and offering up to 10x higher bandwidth compared to traditional copper backplanes in scale-up scenarios.
 
-rss · SemiWiki · Nov 10, 16:00
+rss · EE Times · Nov 11, 18:01
 
-**Background**: Weebit Nano is an Israeli semiconductor IP company founded in 2015 that develops Resistive Random-Access Memory (ReRAM) technologies. ReRAM is a non-volatile memory type that supports compute-in-memory architectures, where data is processed within the memory array rather than being shuttled to a separate processor. This approach leverages the physical properties of ReRAM devices to perform arithmetic operations efficiently.
+**Background**: Optical interconnects are becoming critical bottlenecks in modern AI data centers as the demand for high-speed, low-latency communication between compute nodes grows. The Open Compute Project (OCP) is an industry standard that focuses on designing and building open, scalable infrastructure, where Credo's 1.6T ZeroFlap ALC was showcased to address these specific hardware integration needs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Weebit_Nano">Weebit Nano - Wikipedia</a></li>
-<li><a href="https://next.gr/tutorials/digital-logic-design/resistive-random-access-memory-reram-tutorial">Resistive Random Access Memory ( ReRAM ) | Next Electronics</a></li>
+<li><a href="https://credosemi.com/blogs/zeroflap-optics-expands-to-1-6t-why-combining-our-best-optical-technologies-changes-the-reliability-equation-for-ai/">ZeroFlap Optics Expands to 1.6T: Why Combining Our Best ...</a></li>
+<li><a href="https://www.ico-optics.org/credos-zeroflap-alc-redefines-ai-data-center-reliability/">Credo’s ZeroFlap ALC Redefines AI Data Center Reliability</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#In-Memory Computing`, `#ReRAM`, `#AI Hardware`, `#Computer Architecture`, `#Semiconductor Research`
+**Tags**: `#AI Infrastructure`, `#High-Speed Interconnects`, `#Optical Computing`, `#Hardware`, `#Data Centers`
 
 ---
 
 <a id="item-9"></a>
-## [Rapidus fails to produce functional 2nm SRAM, jeopardizing mass production timeline](https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/) ⭐️ 8.0/10
+## [Google Cloud integrates TPU 8i Max with Arm Neoverse Axion processors](https://www.electronicsweekly.com/news/business/goggle-pairs-tpu-with-arm-2026-11/) ⭐️ 8.0/10
 
-Japan's state-backed semiconductor company Rapidus has reportedly failed to produce a functional 2nm SRAM, which jeopardizes its target of entering mass production of next-generation chips by 2027. This setback challenges the industry's race to produce cutting-edge chips for AI and high-performance computing, highlighting the extreme technical difficulties of shrinking transistors to the 2nm node while maintaining stability and performance. SRAM (Static Random Access Memory) acts as a critical benchmark for advanced process nodes because it must be stable at very low voltages; a failure here suggests broader integration challenges for the 2nm GAA (Gate-All-Around) architecture.
+Google Cloud is pairing its TPU 8i Max systems with Arm-based Axion processors. These processors are specifically custom Arm Neoverse-based CPUs designed for data centers. This strategic hardware integration represents a significant architectural shift toward an Arm-centric cloud data center infrastructure. It reinforces Google's commitment to custom silicon for AI workloads and enhances cloud infrastructure performance. The integration utilizes Axion, a custom Arm Neoverse-based CPU, to work alongside the TPU 8i Max system. This specific pairing is part of Google's effort to extend the use of Axion in its cloud offerings.
 
-rss · Electronics Weekly · Nov 10, 07:36
+rss · Electronics Weekly · Nov 11, 06:32
 
-**Background**: Rapidus is a key initiative in Japan's effort to rebuild its semiconductor industry, aiming to compete with major players like TSMC. The 2nm node represents the latest frontier in chip manufacturing, utilizing complex transistor designs to achieve higher density and performance.
+**Background**: TPUs, or Tensor Processing Units, are custom chips designed by Google for machine learning computations, while Axion are CPUs based on the Arm Neoverse architecture. In cloud computing, combining specialized accelerator chips like TPUs with efficient general-purpose CPUs creates a balanced infrastructure for running complex AI tasks.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Rapidus">Rapidus - Wikipedia</a></li>
-<li><a href="https://www.allpcb.com/allelectrohub/sram-power-and-performance-challenges-in-advanced-nodes">SRAM Power and Performance Challenges in Advanced Nodes</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#Rapidus`, `#2nm`, `#manufacturing`, `#chip industry`
+**Tags**: `#Hardware`, `#AI Infrastructure`, `#Cloud Computing`, `#Google`, `#Arm`
 
 ---
 
 <a id="item-10"></a>
-## [(PR) Otto Introduces Otto One: the Personal AI Computer for Autonomous Agents](https://www.techpowerup.com/354658/otto-introduces-otto-one-the-personal-ai-computer-for-autonomous-agents) ⭐️ 7.5/10
+## [Imec Establishes Silicon Interposer Flows in NanoIC Pilot Line](https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/) ⭐️ 8.0/10
 
-Otto introduces Otto One, a screenless, dedicated computer designed to host and run autonomous AI agents for personal and professional tasks.
+Imec has successfully established baseline manufacturing flows for silicon interposers within its NanoIC pilot line. This provides an early technical view of a key technology for chiplet integration in advanced packaging. This milestone is significant for the semiconductor industry as it advances the development of advanced packaging, which is critical for improving chiplet scalability and integration. It provides early technical insights for hardware and systems engineering professionals. The delivery of baseline flows represents an incremental step toward developing the interposer platform, rather than a finished product or mass production. The NanoIC pilot line is specifically designed for developing beyond-2nm systems-on-chip and is supported by the EU Chips Act.
 
-rss · TechPowerUp News · Nov 10, 18:13
+rss · Electronics Weekly · Nov 11, 06:10
 
-**Tags**: `#AI Agents`, `#Hardware`, `#Autonomous Systems`, `#Product Launch`, `#Personal AI`
+**Background**: A silicon interposer is an electrical interface used in advanced packaging to provide high-density connections between processors, accelerator chiplets, and high-bandwidth memory. It is made of silicon instead of conventional laminates to support finer pitch I/O density and Through-Silicon Via (TSV) formation. The NanoIC pilot line, hosted by imec in Belgium, is a key R&D infrastructure supported by the Flemish Government and the EU Chips Joint Undertaking.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Interposer">Interposer - Wikipedia</a></li>
+<li><a href="https://www.manufacturingmag.com/article/silicon-interposers-and-the-gap-in-us-advanced-packaging">What Is a Silicon Interposer? CoWoS and the US Supply Chain</a></li>
+<li><a href="https://www.imec-int.com/en/what-we-offer/nanoic-pilot-line-accelerating-beyond-2nm-innovation-across-europe">NanoIC pilot line | imec</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Silicon Interposers`, `#Advanced Packaging`, `#Imec`, `#Chiplets`, `#Semiconductors`
 
 ---
 
 <a id="item-11"></a>
-## [AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera) ⭐️ 7.5/10
+## [Linux memory management reviewer steps down over flood of AI slop patches](https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back) ⭐️ 7.5/10
 
-An in-depth analysis of the AMD Zen 6 'Venice' EPYC architecture featuring initial benchmarks that demonstrate up to a 93% generational performance gain and competitive positioning against NVIDIA's Vera chip.
+A senior Linux kernel reviewer has formally resigned from their memory management duties. The decision was driven by an unsustainable influx of low-quality AI-generated patches that overwhelm the team's limited manpower. This marks a critical breaking point where AI-generated code volume exceeds open-source maintenance capacity. It serves as a cautionary tale for the broader software industry regarding the sustainability of AI coding trends. The core issue is not a single bug, but the overwhelming ratio of low-quality submissions to available reviewer manpower. This volume of 'AI slop' makes the current maintenance model for critical kernel infrastructure like memory management structurally unsustainable.
 
-rss · Tom's Hardware · Nov 10, 17:00
+rss · Tom's Hardware · Nov 11, 12:30
 
-**Tags**: `#AMD EPYC`, `#CPU Architecture`, `#Benchmarking`, `#Zen 6`, `#Data Center`
+**Background**: The Linux kernel is a massive, collaborative project where code patches from the community must be manually reviewed by specialized maintainers before being integrated. Memory management is one of the most complex subsystems in the kernel, requiring rigorous review standards to prevent system crashes. As AI coding tools have become more accessible, the volume of automated and semi-automated code submissions has surged, often lacking the contextual understanding of kernel developers.
+
+**Tags**: `#Linux`, `#AI Coding`, `#Open Source`, `#Kernel Development`
 
 ---
 
 <a id="item-12"></a>
-## [Frontier Model Forum Proposes Standardized AI Jailbreak Rating Framework](https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models) ⭐️ 7.5/10
+## [AMD MEXT Achieves 95% Performance with Half DRAM on 145 Servers](https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027) ⭐️ 7.5/10
 
-The Frontier Model Forum has introduced a Jailbreak Rating Framework that assesses AI model vulnerabilities based on capability gains, scope of impact, and deployment difficulty. This initiative aims to create a standardized, CVSS-style rating system for evaluating security risks in new AI models. This standardized framework addresses a critical gap in AI safety governance by providing a common language for engineers and researchers to quantify model risks. It facilitates more consistent risk assessments across different organizations developing frontier AI models. The framework specifically evaluates how much a jailbreak accelerates capabilities compared to public information and the ease with which the exploit can be deployed. It mirrors the structure of traditional software vulnerability scoring systems used in cybersecurity.
+AMD is deploying its acquired MEXT technology in its internal IT infrastructure, claiming that servers can run at 50% DRAM capacity while retaining 95% performance in certain workloads. The company currently has 145 servers running with MEXT and plans to expand this deployment to 2,000 servers by 2027. This innovation provides a cost-effective workaround for data center operators facing severe DRAM supply shortages and rising prices, significantly reducing hardware costs for AI and general-purpose computing. It demonstrates a shift from relying purely on silicon manufacturing advancements to AI-driven software memory optimization for solving infrastructure bottlenecks. MEXT utilizes AI to predict memory needs by offloading cold pages to flash storage and proactively moving soon-to-be-needed pages back to DRAM. In extreme scenarios, the technology could reduce physical DRAM needs by up to 75%, effectively tripling available memory capacity at a much lower cost than adding physical chips.
 
-rss · Tom's Hardware · Nov 10, 13:40
+rss · Tom's Hardware · Nov 11, 12:00
 
-**Background**: The Frontier Model Forum is a consortium of major AI developers dedicated to establishing best practices for model safety and security. In the cybersecurity industry, the Common Vulnerability Scoring System (CVSS) is a widely used open framework for rating the severity of computer vulnerabilities. AI jailbreaking refers to techniques that bypass safety filters to make language models produce prohibited or harmful outputs.
+**Background**: MEXT is an AI-driven memory optimization technology that AMD acquired to address data center bottlenecks without requiring hardware changes. DRAM currently accounts for up to 75% of total server costs, making supply chain shortages a critical issue for scaling cloud infrastructure. By using predictive software to manage memory tiering, companies can achieve near-full performance using cheaper and more abundant flash storage in the tier below DRAM.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.frontiermodelforum.org/">Frontier Model Forum</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System">Common Vulnerability Scoring System - Wikipedia</a></li>
-<li><a href="http://vibekk.com/archives/ai-jailbreak-severity-scoring-framework">How Severe Is an AI Jailbreak? CJS, JEF, and CVSS Scoring ...</a></li>
+<li><a href="https://wccftech.com/amd-mext-memory-solution-flash-repaces-dram-same-performance/">AMD Unveils MEXT Memory Solution: Leverages Flash ... - Wccftech</a></li>
+<li><a href="https://www.trendforce.com/news/2026/11/11/news-amd-taps-flash-based-mext-amid-memory-crunch-aims-to-cut-dram-needs-by-up-to-75/">[News] AMD Taps Flash-Based MEXT amid Memory Crunch, Aims to ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI-Safety`, `#LLM-Security`, `#Standardization`, `#Jailbreaking`, `#Risk-Assessment`
+**Tags**: `#AMD`, `#MEXT`, `#DRAM`, `#Server Performance`, `#Memory Optimization`
 
 ---
 
 <a id="item-13"></a>
-## [Mac Studio M5 Ultra vs Nvidia DGX Spark for High-End Local AI Inference](https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures) ⭐️ 7.5/10
+## [Musk's xAI faces Texas approval for $24B gas-powered AI data center](https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor) ⭐️ 7.5/10
 
-Tom's Hardware published an in-depth technical analysis comparing the Apple Mac Studio with M5 Ultra against the Nvidia DGX Spark. The article evaluates their suitability for building local AI inference setups that cost over $10,000. This comparison is crucial for engineering professionals deciding between high-power-consumption rack systems and efficient desktop units for local AI. It highlights the viability of Apple's ecosystem for running compute-intensive frontier AI models on-device. The M5 Ultra chip features a 64-core GPU, a 32-core Neural Engine, and a memory bandwidth of 1.2TB/s, which is specifically designed for high-end workloads. The analysis also focuses on the maturation of the MLX software stack, which is mandatory for larger model inference.
+Elon Musk is seeking approval for a $24 billion gas-powered AI data center in Starbase, Texas. The project, which could face headwinds from local officials and new state regulations, is a major step for xAI's computing infrastructure. This project highlights the massive power demands of large-scale AI training and the reliance on natural gas as a transition fuel for data centers. The regulatory uncertainty in Texas could set a precedent for future AI infrastructure approvals. xAI has already secured power capacity from five 380-megawatt natural gas turbines to support its supercomputers. Starbase is a Type C city in Texas, a designation that restricts its ability to levy certain taxes and regulate complex projects.
 
-rss · Tom's Hardware · Nov 10, 13:20
+rss · Tom's Hardware · Nov 11, 11:30
 
-**Background**: The Apple M5 Ultra is part of Apple's ARM-based SoC family, integrating a CPU, GPU, and NPU in a single package with unified memory. In contrast, the Nvidia DGX Spark is a compact personal AI supercomputer running on a Linux-based DGX OS, marketed as a low-power alternative to rack-based GPU systems.
+**Background**: Starbase is a rapidly growing community in South Texas centered around SpaceX's Starship launch site. As AI workloads grow, data centers increasingly turn to natural gas turbines for quick, high-capacity power due to grid bottlenecks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Apple_M5">Apple M5 - Wikipedia</a></li>
-<li><a href="https://www.cpu-monkey.com/en/cpu-apple_m5_ultra_30_cpu_64_gpu">Apple M5 Ultra (30-CPU 64-GPU) - Benchmarks & Specs</a></li>
-<li><a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">Personal AI Supercomputer Powered by Blackwell | NVIDIA DGX Spark</a></li>
+<li><a href="https://www.bbc.com/news/articles/c39j8rj4nmmo">Elon Musk's Starbase in Texas will officially become a city</a></li>
+<li><a href="https://www.techtimes.com/articles/313840/20260107/elon-musks-xai-secures-massive-power-infrastructure-five-380-mw-natural-gas-turbines.htm">Elon Musk's xAI Secures Massive Power Infrastructure with Five 380...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Local AI`, `#Hardware Benchmarking`, `#Apple Silicon`, `#Nvidia`, `#MLX`
+**Tags**: `#AI Infrastructure`, `#Data Centers`, `#Energy`, `#Elon Musk`, `#Hardware`
 
 ---
 
 <a id="item-14"></a>
-## [Terafab Targets One Million Wafers Monthly](https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-targets-1-million-wafers-a-month-after-2032-planned-700-000-monthly-memory-wafers-could-rival-samsungs-entire-estimated-dram-production-capacity) ⭐️ 7.5/10
+## [Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts](https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling) ⭐️ 7.5/10
 
-Tesla and SpaceX's Terafab has announced plans to scale its production to one million wafers per month by 2032, with roughly 700,000 of those specifically dedicated to memory. This ambitious target significantly disrupts the semiconductor landscape by threatening the traditional dominance of memory giants like Samsung, as the planned capacity could rival their entire DRAM production. The timeline is quite far in the future, as the milestone is targeted for the post-2032 period, and the massive output of 700,000 memory wafers a month represents an extreme industrial scale-up.
+Ukrainian drone manufacturers are facing significant supply chain disruptions and cost increases for jam-proof drones due to a global fiber optic cable shortage driven by AI data center expansion.
 
-rss · Tom's Hardware · Nov 10, 13:00
+rss · Tom's Hardware · Nov 11, 11:00
 
-**Background**: Terafab is a joint venture between Tesla and SpaceX, and the 'wafer' is the silicon slice used in the fabrication of semiconductors and memory chips like DRAM. Currently, memory production is an oligopoly controlled by South Korean giants, making a new entry of this magnitude a major industry shock.
-
-**Tags**: `#semiconductors`, `#Terafab`, `#manufacturing`, `#hardware`, `#future-tech`
+**Tags**: `#Supply Chain`, `#AI Infrastructure`, `#Defense Technology`, `#Fiber Optics`, `#Geopolitics`
 
 ---
 
 <a id="item-15"></a>
-## [Study Shows DALL-E 3 Romantically Biases Industrial Farming Images](https://www.solidot.org/story?sid=85847) ⭐️ 7.3/10
+## [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator) ⭐️ 7.0/10
 
-Research published in 'Technology in Society' demonstrates that OpenAI's DALL-E 3 uses its prompt revision mechanism to romanticize intensive livestock farming, generating pastoral scenes instead of realistic indoor facilities. This finding is significant because it reveals how safety-driven AI features can inadvertently sanitize controversial topics, potentially misinforming the public and hindering meaningful societal discussions about agricultural practices. The bias was specifically observed in images of North American, European, and Australasian farms, which consistently depicted cows grazing and pigs in mud regardless of the region. Disabling the prompt revision feature resulted in images that were more accurately reflective of modern intensive farming realities.
+AWS has released its own open-source AWS emulator, prompting discussion about its utility compared to existing tools like Moto and LocalStack for testing and development.
 
-rss · Solidot · Nov 10, 11:04
+hackernews · super_linear · Nov 11, 18:21 · [Discussion](https://news.ycombinator.com/item?id=50456631)
 
-**Background**: Text-to-image models like DALL-E 3 incorporate 'prompt revision' to improve safety and diversity by silently rewriting user inputs. Intensive livestock farming refers to high-density animal production, typically involving indoor housing, which contrasts sharply with the traditional pastoral imagery often associated with agriculture.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.y617.com/articles/489">NET Native AOT 发布后程序集缺失如何解决？ 深入分析Trim...</a></li>
-<li><a href="https://paulyu.net/articles/123">NET 10 Native AOT ... - PaulYu 博客</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Generative AI`, `#AI Ethics`, `#Bias`, `#DALL-E`, `#Technical Analysis`
+**Tags**: `#cloud-computing`, `#aws`, `#devops`, `#testing`, `#infrastructure-as-code`
 
 ---
 
 <a id="item-16"></a>
-## [Community Strategies for Internet-Independent Smart Home Automation](https://docodethatmatters.com/home-automation-overnight-success/) ⭐️ 7.0/10
+## [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/) ⭐️ 7.0/10
 
-A highly upvoted discussion advocates for internet-independent smart home devices, featuring community-shared strategies for achieving local-first automation using Zigbee, Z-Wave, and Home Assistant. Commenters share specific hardware rules and software workflows to ensure their home networks function reliably without cloud connectivity. This discussion addresses a significant industry pain point by highlighting the risks of cloud dependency in consumer IoT. It offers actionable alternatives that prioritize user data privacy, system resilience, and lower subscription costs for homeowners. Technically minded users are advised to strictly prefer offline-only protocols like Zigbee or Z-Wave over WiFi-only devices unless the firmware is open source. Recommended setups include using a Single-Board Computer (SBC) or NAS to run Home Assistant, where users filter integrations based on 'Local Push' versus 'Cloud Polling' classes.
+An analysis proposing that Linear Programming can be used to edit neural network weights by defining linear constraints in weight-space, offering a structured alternative to gradient-based optimization for specific model modification tasks.
 
-hackernews · skittleson · Nov 10, 15:25 · [Discussion](https://news.ycombinator.com/item?id=50441707)
+hackernews · emschwartz · Nov 11, 12:30 · [Discussion](https://news.ycombinator.com/item?id=50452655)
 
-**Background**: Smart home ecosystems traditionally rely on cloud servers to communicate with devices, which can fail during internet outages. Zigbee and Z-Wave are low-power, sub-GHz radio protocols that form local mesh networks, allowing devices to communicate directly with a home gateway without external internet access. Home Assistant is an open-source platform that aggregates these local devices, enabling autonomous automations that execute instantly on the local network.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.smarthomeperfected.com/zigbee-vs-z-wave/">Zigbee vs Z-Wave: Which Protocol Wins in 2026?</a></li>
-<li><a href="https://www.home-assistant.io/">Home Assistant</a></li>
-<li><a href="https://myhomeio.com/diy-projects/local-first-rf-architecture-zigbee-matter-thread-coexistence/">Local - First RF Architecture : Zigbee, Matter, and... - My Home IO</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community consensus strongly favors using specific hardware protocols like Zigbee or Z-Wave combined with Home Assistant to maintain full functionality during outages. Users share 'rules of thumb' such as refusing non-open-source WiFi-only devices and utilizing Single-Board Computers or NAS servers for local hosting. There is also a notable sentiment among some users to minimize reliance on LLMs when configuring these setups, preferring to handle local-first firmware tweaks manually.
-
-**Tags**: `#Smart Home`, `#Local-First Software`, `#IoT Security`, `#Home Automation`, `#Network Architecture`
+**Tags**: `#Linear Programming`, `#Neural Networks`, `#Model Editing`, `#Optimization`, `#AI Research`
 
 ---
 
 <a id="item-17"></a>
-## [The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?](https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/) ⭐️ 7.0/10
+## [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html) ⭐️ 7.0/10
 
-An analysis of how electricity access and grid capacity are becoming major financial and strategic barriers to AI expansion in the U.S. and China.
+A demonstration of the Pharo Smalltalk virtual machine running in a web browser using WebAssembly, allowing users to interact with a live coding environment directly online.
 
-rss · EE Times · Nov 10, 15:00
+hackernews · xkriva11 · Nov 11, 14:21 · [Discussion](https://news.ycombinator.com/item?id=50453763)
 
-**Tags**: `#AI Infrastructure`, `#Energy Policy`, `#Geopolitics`, `#Technology Economics`
+**Tags**: `#WebAssembly`, `#Smalltalk`, `#Pharo`, `#Interpreter`, `#Browser`
 
 ---
 
 <a id="item-18"></a>
-## [What It Takes to Let a Farm Robot Work Alone](https://www.eetimes.com/what-it-takes-to-let-a-farm-robot-work-alone/) ⭐️ 7.0/10
+## [SemiWiki Explains the Role of Silicon Substrates and SOI in Transistors](https://semiwiki.com/semiconductor-manufacturers/soitec/376187-semiconductors-and-soi-from-bulk-wafers-to-engineered-substrates/) ⭐️ 7.0/10
 
-This article explores the technical and safety requirements necessary to enable agricultural robots to operate autonomously.
+An in-depth article on SemiWiki explains how silicon substrate properties, such as its 1.12 eV bandgap and high-quality native SiO2 oxide, determine the performance of modern transistors. The piece outlines the transition from standard bulk wafers to engineered Silicon-on-Insulator (SOI) substrates. This educational resource helps industry professionals and students understand the material science constraints that drive chip design evolution. It clarifies why substrate engineering is critical for reducing leakage and improving power efficiency in advanced semiconductor nodes. The article highlights that while the active transistor is located in the top few hundred nanometers of the crystal, the rest of the wafer can act as a mechanical liability. It specifically cites Silicon's moderate bandgap (1.12 eV) and excellent native oxide quality as the primary reasons for its dominance in the industry.
 
-rss · EE Times · Nov 10, 08:32
+rss · SemiWiki · Nov 11, 18:00
 
-**Tags**: `#Robotics`, `#Agricultural Technology`, `#Safety`, `#Autonomous Systems`, `#Embedded Systems`
+**Background**: In standard semiconductor manufacturing, bulk silicon wafers are used as the base material for building chips. As transistors shrink, the electrical interference from the underlying bulk silicon becomes a major obstacle, leading to the development of Silicon-on-Insulator (SOI) technology. SOI wafers use an insulating layer (typically silicon dioxide) between the active silicon layer and the substrate, which significantly reduces parasitic effects and power consumption.
+
+**Tags**: `#Semiconductors`, `#SOI`, `#Material Science`, `#Transistors`, `#Wafer Technology`
 
 ---
 
 <a id="item-19"></a>
-## [Reports Suggest NVIDIA May Reduce TSMC Orders Amid Security and Export Concerns](https://www.techpowerup.com/354666/nvidia-may-cut-tsmc-chip-orders-amid-mounting-pressure-report-claims) ⭐️ 6.5/10
+## [Mobilint and Chips&Media Mass-Produce Edge AI Chips for Humanoid Robots](https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/) ⭐️ 7.0/10
 
-According to a single-source report from Commercial Times, NVIDIA may slow down its chip orders at TSMC due to mounting internal pressures, including a board investigation into the CEO's security, and external constraints from tightening export controls. A potential reduction in orders would significantly impact upstream suppliers like TSMC and ASE, creating an opportunity for competing chipmakers like AMD and Broadcom to secure freed-up foundry capacity for their AI accelerators. The report does not specify which products or manufacturing nodes are affected, and neither NVIDIA nor TSMC has officially confirmed or denied these claims, leaving the supply chain impact unverified.
+South Korean companies Mobilint and Chips&Media announced on November 4 the mass production of next-generation edge AI chips that integrate Chips&Media's video codec technology. These chips are specifically designed to handle the high-bandwidth video streams generated by multi-camera humanoid robots. As humanoid robots rely on multiple cameras to navigate complex environments, efficient on-device video processing is critical to managing bandwidth and latency. This integration of specialized codec IP into edge AI chips addresses a key bottleneck in scaling robotics applications to commercial production. The collaboration between Mobilint and Chips&Media focuses on integrating video codec IP directly into edge AI silicon to process data locally rather than offloading it. The specific target application is multi-camera humanoid robots, which generate video data exceeding the capacity of traditional system handling.
 
-rss · TechPowerUp News · Nov 10, 20:21
+rss · SemiWiki · Nov 11, 14:00
 
-**Background**: NVIDIA is a primary consumer of TSMC's advanced foundry and packaging capacity for its AI processors. TSMC, along with ASE, acts as a critical upstream supplier in this ecosystem. The current geopolitical climate has led to strict export controls, creating friction between chip manufacturers and foreign markets, particularly China.
+**Background**: Edge AI refers to running artificial intelligence models on local hardware devices rather than in the cloud, which reduces latency and bandwidth usage. In robotics, particularly for humanoids, visual perception from multiple cameras generates massive amounts of data, requiring specialized hardware like video codecs to compress and process this information efficiently.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trendforce.com/news/2026/11/10/news-nvidia-order-cuts-reportedly-loom-amid-huang-controversy-amd-asic-rivals-may-gain-tsmc-capacity/">[News] NVIDIA Order Cuts Reportedly Loom Amid Huang ...</a></li>
-<li><a href="https://cybersecuritynews.com/nvidia-investigates-chinese-spy-operation/">NVIDIA Investigates Suspected Chinese Spy Operation Targeting ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#TSMC`, `#Supply Chain`, `#Semiconductors`
+**Tags**: `#robotics`, `#edge-ai`, `#video-processing`, `#hardware`, `#chips`
 
 ---
 
 <a id="item-20"></a>
-## [Intel and Altera partner for real-time AI sensor bridges](https://www.techpowerup.com/354652/intel-and-altera-partner-for-edge-and-physical-ai-development) ⭐️ 6.5/10
+## [Norway deploys 3,500 AI laser drones to protect salmon](https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths) ⭐️ 6.5/10
 
-Intel and Altera announced a collaboration to develop a flexible, real-time sensor bridge for edge and physical AI applications. The system combines Intel compute and connectivity with Altera FPGAs to process complex sensor data for healthcare, aerospace, and robotics industries. The partnership addresses the critical engineering challenge of managing timing and performance in sensor-rich edge environments. This is significant for OEMs building autonomous systems that require rapid, reliable data streaming from diverse hardware to AI processors. The solution specifically targets the need for high bandwidth and flexible form factors where input/output is located away from the main compute board. It allows sensor data to be streamed rapidly into memory for host Intel processors to use across various workloads.
+Stingray Marine Solutions has expanded its deployment of underwater AI laser drones in Norwegian salmon farms to 3,500 units, now protecting 112 million fish. These autonomous submarines operate 24/7 to eliminate sea lice without the use of harsh chemical baths. This chemical-free approach significantly reduces environmental risk and fish mortality associated with traditional reactive treatments in the aquaculture industry. It represents a major step toward sustainable, automated pest control that minimizes ecosystem impact. The drones utilize stereo cameras and blue-light illumination to distinguish parasites from fish skin, firing precision laser pulses that coagulate lice while leaving the host unharmed. Each unit can deliver up to five laser pulses to effectively remove individual parasites.
 
-rss · TechPowerUp News · Nov 10, 16:44
+rss · Tom's Hardware · Nov 11, 10:00
 
-**Background**: Physical AI refers to systems that use machine intelligence to drive physical actuators in robots and autonomous vehicles. In these systems, Field-Programmable Gate Arrays (FPGAs) are often used to handle real-time data synchronization from multiple heterogeneous sensors before it reaches the main CPU for processing.
+**Background**: Sea lice are parasites that feed on farmed salmon, weakening the fish and triggering the need for stressful treatments like chemical baths or mechanical removal. Optical delousing is an emerging technology that uses machine vision and targeted lasers to kill parasites on freely swimming fish, offering a continuous and less invasive alternative to traditional methods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.altera.com/solutions/physical-ai">Physical AI FPGA Sensor Processing | Altera | Altera</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Field-programmable_gate_array">Field-programmable gate array - Wikipedia</a></li>
+<li><a href="https://thefishsite.com/articles/interest-grows-in-new-salmon-licezapping-laser">Interest Grows in New Salmon Lice -Zapping Laser | The Fish Site</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0044848625007963">Control of salmon lice through optical delousing in ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Intel`, `#Altera`, `#FPGA`, `#Edge AI`, `#Robotics`
+**Tags**: `#Autonomous Systems`, `#AI Application`, `#Robotics`, `#Agricultural Technology`, `#Sustainability`
 
 ---
