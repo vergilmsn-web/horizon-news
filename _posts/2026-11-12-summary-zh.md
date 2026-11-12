@@ -5,369 +5,341 @@ date: 2026-11-12
 lang: zh
 ---
 
-> 从 97 条内容中筛选出 20 条重要资讯。
+> 从 94 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [英伟达据称准备因丑闻解雇 CEO 黄仁勋](#item-1) ⭐️ 9.0/10
-2. [AMD MEXT 在 50% DRAM 容量下保持 95% 性能](#item-2) ⭐️ 8.5/10
-3. [This is the Meta MetaRoCE Network Adapter](#item-3) ⭐️ 8.5/10
-4. [AMD 公布 Zen 6 CPU 细节](#item-4) ⭐️ 8.3/10
-5. [Tim Peters has died](#item-5) ⭐️ 8.0/10
-6. [AWS emulator](#item-6) ⭐️ 8.0/10
-7. [意法半导体将全系列微控制器整合至单一 STM32 平台](#item-7) ⭐️ 8.0/10
-8. [欧盟《数字公平法》草案针对战利品宝箱与成瘾性设计](#item-8) ⭐️ 7.5/10
-9. [EmuFive 模拟器让 PS4 可运行 PS5 游戏](#item-9) ⭐️ 7.5/10
-10. [国会威胁因间谍案强制传唤英伟达首席执行官](#item-10) ⭐️ 7.5/10
-11. [Cyanogen 联合创始人推出 Kora Linux OS，支持 AI 模型拆分](#item-11) ⭐️ 7.5/10
-12. [Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches](#item-12) ⭐️ 7.5/10
-13. [Lock Your GitHub Actions](#item-13) ⭐️ 7.0/10
-14. [Gemini Decisions API](#item-14) ⭐️ 7.0/10
-15. [Emacs in the Age of Magic](#item-15) ⭐️ 7.0/10
-16. [Credo 发布 1.6T 微型发射器光学技术用于 AI 互连](#item-16) ⭐️ 7.0/10
-17. [微软 Auto SR 在 Xbox Ally 掌机开启 120 FPS 模式](#item-17) ⭐️ 6.5/10
-18. [GTA VI 主机预加载文件揭示支持 FSR 4.1.2 技术](#item-18) ⭐️ 6.5/10
-19. [软银取消价值 37 亿美元的 AI 数据中心燃气轮机订单](#item-19) ⭐️ 6.5/10
-20. [任天堂对 144 个开源 Switch 破解工具发起 DMCA 下架令](#item-20) ⭐️ 6.5/10
+1. [NVIDIA 首席执行官兼联合创始人 Jensen Huang 即刻辞职](#item-1) ⭐️ 10.0/10
+2. [英伟达 CEO 黄仁勋在争议中辞职](#item-2) ⭐️ 9.0/10
+3. [谷歌推出 Gemini 4 Hydrogen 作为新的入门级模型](#item-3) ⭐️ 9.0/10
+4. [Axelera AI 推出 Titania 芯片 let 架构用于 AI 推理](#item-4) ⭐️ 8.5/10
+5. [UCIe 4.0 规格扩展至芯片粒子系统级集成](#item-5) ⭐️ 8.5/10
+6. [This is the Meta MetaRoCE Network Adapter](#item-6) ⭐️ 8.5/10
+7. [Gemini 4 Hydrogen and Orchestrator](#item-7) ⭐️ 8.0/10
+8. [I'm making LLMs work on small and old devices](#item-8) ⭐️ 8.0/10
+9. [Talking Zen 6 with Mike Clark at AMD In-Depth](#item-9) ⭐️ 8.0/10
+10. [尤瓦尔·赫拉利在 Gartner 研讨会上敦促暂停开发超级人工智能](#item-10) ⭐️ 8.0/10
+11. [疑似中国间谍 Alice Huang 在北京再次现身引发争议](#item-11) ⭐️ 7.5/10
+12. [Hacker News 探讨软件正确性与实际可用性的辩论](#item-12) ⭐️ 7.0/10
+13. [What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation](#item-13) ⭐️ 7.0/10
+14. [Can Machines See a Sick Plant Before a Farmer Can?](#item-14) ⭐️ 7.0/10
+15. [Connecting AI to the Physical World](#item-15) ⭐️ 7.0/10
+16. [Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI](#item-16) ⭐️ 7.0/10
+17. [Apex Compute 神经渲染技术性能与画质超越英伟达 DLSS](#item-17) ⭐️ 6.5/10
+18. [Valve 发布 64 位 Linux 版 Steam 客户端与成就管理功能](#item-18) ⭐️ 6.5/10
+19. [Zigzag：开源应用替代专有绣花机软件](#item-19) ⭐️ 6.0/10
+20. [数百万用户遭遇微软 Outlook 及状态页服务中断](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [英伟达据称准备因丑闻解雇 CEO 黄仁勋](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) ⭐️ 9.0/10
+## [NVIDIA 首席执行官兼联合创始人 Jensen Huang 即刻辞职](https://www.servethehome.com/nvidia-ceo-and-co-founder-jensen-huang-resigns-effective-immediately/) ⭐️ 10.0/10
 
-根据最新报道，由于严重的个人行为争议，包括涉嫌与中国间谍发生关系以及被指控向中国非法销售芯片，英伟达正准备解雇首席执行官黄仁勋。 全球最关键的 AI 硬件公司发生这一领导层变动，可能会显著改变全球 AI 生态系统，并加剧围绕出口管制和国家安全的地缘政治紧张局势。 关于黄仁勋知晓非法对华销售行为的指控尤为严重，并已促使美国国会议员推动制定更严格的法律，以限制中国获取先进的 AI 芯片。
+NVIDIA 首席执行官兼联合创始人 Jensen Huang 已正式向公司辞职，即刻生效。这一辞职举动标志着该公司发生了突然而关键的领导层变动。 作为 NVIDIA 在 AI 和图形领域占据主导地位的核心缔造者，Huang 的离职是一个范式转移级别的事件，给科技行业带来了即时的不确定性。这是关键转折点，很可能会扰乱 NVIDIA 的战略方向和市场估值。 该辞职被描述为立即生效，且未指定过渡期。提供的内容非常简短，仅包含辞职的宣布，没有关于原因或继任者的进一步细节。
 
-hackernews · jbredeche · 11月11日 22:31 · [社区讨论](https://news.ycombinator.com/item?id=50459703)
+rss · ServeTheHome · 11月12日 15:08
 
-**背景**: 黄仁勋通过早期对 GPU 通用计算的投资，在将英伟达从显卡制造商转型为主导性的 AI 芯片供应商方面发挥了关键作用。自 2022 年以来，该公司因未能遵守美国出口管制而受到密切关注，这些管制措施旨在防止向中方转让先进硬件。
+**背景**: Jensen Huang 一直是 NVIDIA 的公众形象代表，领导公司从显卡制造商转型为人工智能计算硬件的主导供应商。他的领导对于该公司在当前的 AI 热潮中确立地位至关重要。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/">Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s ...</a></li>
-<li><a href="https://cryptobriefing.com/nvidia-spy-allegations-congress-china-chips/">Nvidia spy allegations prompt Congress to tighten China’s ...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区成员表达了复杂的感受，一些人认为黄仁勋与涉嫌中国间谍的关系以及其可能知晓非法销售行为的指控，远比他的其他个人不当行为更为严重。另一些人则强调黄仁勋对英伟达乃至整个 AI 行业的关键作用，警告将他撤职可能会对公司的战略方向产生严重的负面影响。
-
-**标签**: `#Nvidia`, `#Jensen Huang`, `#AI Infrastructure`, `#Geopolitics`, `#Leadership`
+**标签**: `#NVIDIA`, `#Leadership`, `#AI`, `#Industry News`, `#Jensen Huang`
 
 ---
 
 <a id="item-2"></a>
-## [AMD MEXT 在 50% DRAM 容量下保持 95% 性能](https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027) ⭐️ 8.5/10
+## [英伟达 CEO 黄仁勋在争议中辞职](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) ⭐️ 9.0/10
 
-AMD 透露，其 MEXT 技术允许服务器在仅使用一半 DRAM 容量的情况下，保持完整 DRAM 系统 95% 的峰值性能。该公司已在超过 100 台内部服务器上部署该方案，并计划在 2027 年扩展到 2,000 台服务器。 这一进展有助于 IT 基础设施管理者在不显著牺牲服务器性能的情况下，缓解关键的 DRAM 短缺和内存成本上升问题。通过利用 AI 管理内存层级，它改变了数据中心内存密集型工作负载的成本效益。 MEXT 使用 AI 驱动的预测软件将很少访问的数据从 DRAM 迁移到 NVMe 闪存存储，有效地充当内存扩展。虽然 95% 的性能指标适用于特定应用程序，但该技术使 AMD 能够避免 82% 的 DRAM 扩展成本，同时增加 20% 的可用内存。
+黄仁勋已正式辞去英伟达总裁、首席执行官及董事会成员职务，即日生效。 此次高管离职对全球 AI 行业具有重大影响，引发了关于英伟达战略方向及监管合规的激烈讨论。 此次辞职发生在美国对中国的出口限制加剧的敏感时期，这限制了英伟达在该市场的近期数据中心算力收入。
 
-rss · Tom's Hardware · 11月11日 12:00
+hackernews · lldb · 11月12日 13:52 · [社区讨论](https://news.ycombinator.com/item?id=50467087)
 
-**背景**: DRAM（动态随机存取存储器）是服务器的主要系统内存，但其高昂的成本和供应短缺是数据中心扩展的重大瓶颈。MEXT 是一种 AI 驱动的内存优化技术，最初由 MEXT Inc. 开发，AMD 于 2026 年收购该公司以增强其 EPYC 服务器生态系统。该技术使用机器学习预测数据访问模式，使廉价的闪存存储能够在特定工作负载下像更高层级的 DRAM 一样工作。
+**背景**: 英伟达是当前 AI 热潮核心驱动力量的顶尖硬件供应商。出于国家安全考虑，该公司面临美国政府对其向中国出售先进芯片的持续限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html">AMD Acquires MEXT to Advance Memory Optimization</a></li>
-<li><a href="https://www.amd.com/en/resources/case-studies/amd-it-avoids-82-of-dram-expansion-costs.html">AMD IT Avoids 82% of DRAM Expansion Costs with AMD MEXT™ Software</a></li>
-<li><a href="https://www.notebookcheck.net/AMD-s-new-trick-lets-servers-use-half-as-much-DRAM-with-minimal-performance-loss.1448188.0.html">AMD's new trick lets servers use half as much DRAM with ...</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition">NVIDIA Announces CEO Transition | NVIDIA Newsroom</a></li>
+<li><a href="https://www.bitrue.com/blog/nvidia-q2-earnings-preview-2026">Nvidia Q2 Earnings Preview: Can NVDA Beat Expectations?</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#Memory Optimization`, `#Server Infrastructure`, `#MEXT`, `#Hardware`
+**社区讨论**: 社区对于此次辞职是否主要源于个人丑闻或非法规避中国出口禁令存在巨大分歧。批评者认为该公司规避了出口管制，而支持者则坚称其销售是与政府合作合法进行的。
+
+**标签**: `#NVIDIA`, `#AI Infrastructure`, `#Executive Leadership`, `#Export Controls`, `#Tech News`
 
 ---
 
 <a id="item-3"></a>
-## [This is the Meta MetaRoCE Network Adapter](https://www.servethehome.com/this-is-the-meta-metaroce-network-adapter/) ⭐️ 8.5/10
+## [谷歌推出 Gemini 4 Hydrogen 作为新的入门级模型](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) ⭐️ 9.0/10
 
-Meta unveiled its MetaRoCE network adapter at OCP Summit 2026, designed to support scaling to million-GPU training clusters.
+谷歌正式推出 Gemini 4 Hydrogen，这一新型 AI 模型已立即取代了其服务中的 3.8 Flash 等旧版本。该发布未进行大规模预告，模型直接出现在用户界面中替换旧版。 这种立即上线的做法表明了谷歌模型阵容的战略转变，可能通过用更强大的“氢”变体取代低层级模型，降低先进 AI 能力的入门门槛。它通过改变日常 AI 任务的定价结构和性能预期，影响开发者和用户。 社区推测 Gemini 4 Hydrogen 定位为一种新的入门级模型，其速度比 3.8 Flash 快约 2.5 倍，但定价却与较高层级的 3.8 Flash 相似。使用“氢”等化学元素命名的方案因在比较不同模型层级时造成混淆而受到批评。
 
-rss · ServeTheHome · 11月12日 04:51
+hackernews · dvaplima · 11月12日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=50471431)
 
-**标签**: `#Networking`, `#AI Infrastructure`, `#Meta`, `#Hardware`, `#GPU Clusters`
+**背景**: Gemini 是谷歌主要的大语言模型系列，取代了 PaLM 系列，并与 OpenAI 的 GPT 模型竞争。在此类模型架构中，公司通常会发布多个层级（如 Flash 或 Pro）以平衡成本、速度和能力。“Flash”变体通常指代更快、更便宜的模型，而更高层级则提供更强的推理能力。
+
+**社区讨论**: 社区讨论指出对新命名方案的困惑，并担心定价可能与该模型“入门级”的速度宣称不再匹配。用户还表达了对 Gemini 在 iOS 上应用稳定性及其与 OpenAI 生态系统相比缺乏集成的不满，同时有人预测该模型将成为未来 AI 应用的关键主力。
+
+**标签**: `#AI`, `#Gemini`, `#Google`, `#LLM`, `#Release`
 
 ---
 
 <a id="item-4"></a>
-## [AMD 公布 Zen 6 CPU 细节](https://www.solidot.org/story?sid=85852) ⭐️ 8.3/10
+## [Axelera AI 推出 Titania 芯片 let 架构用于 AI 推理](https://www.techpowerup.com/354736/axelera-ai-unveils-titania-architecture) ⭐️ 8.5/10
 
-AMD revealed Zen 6 CPU architecture details, featuring internal refactoring, improved branch prediction, and a new divergence between high-frequency and high-density core designs.
+Axelera AI 公布了其第三代芯片 let 架构 Titania，宣称其每瓦吞吐量比当前数据中心级服务器高出最多 7 倍。 这意义重大，因为它提供了一种类比 100 千瓦液冷 GPU 系统的高能效替代方案，可将总拥有成本降低多达 20 倍，并契合现有的风冷数据中心。 每个 Titania 系统级封装 (SiP) 包含两个芯片 let，并可提供 PCIe 及符合 OCP 标准的 UBB 封装形式，带有最多八个通过扩展网络连接的 OAM 模块。
 
-rss · Solidot · 11月11日 06:25
+rss · TechPowerUp News · 11月12日 15:46
 
-**标签**: `#AMD`, `#CPU Architecture`, `#Zen 6`, `#Microarchitecture`, `#Hardware`
+**背景**: 芯片 let 架构将复杂的系统级芯片划分为更小的功能模块，然后集成到单一封装中。这种模块化方法提高了制造良率，并允许进行高性能的 AI 加速，而无需依赖大规模的专用散热基础设施。OAM 模块是高密度的加速器形式，平放在通用基板上，以在数据中心的多个处理器之间提供低延迟互连。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.opencompute.org/documents/universal-baseboard-design-specification-v1p5-final-20220223-docx-pdf/">OCP Universal Baseboard (UBB) Design Specification v1.5</a></li>
+<li><a href="https://connectorselection.com/articles/ocp-oam-connectors-accelerator-module-interconnect-design/">OCP OAM Connectors Explained: AI Accelerator Interconnect</a></li>
+<li><a href="https://en.wikipedia.org/wiki/System_on_a_chip">System on a chip - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Hardware`, `#Chip Design`, `#Axelera AI`, `#Data Center Efficiency`, `#Silicon`
 
 ---
 
 <a id="item-5"></a>
-## [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) ⭐️ 8.0/10
+## [UCIe 4.0 规格扩展至芯片粒子系统级集成](https://www.techpowerup.com/354735/ucie-consortium-advances-from-chiplet-connectivity-to-system-level-integration-with-ucie-4-0-specification) ⭐️ 8.5/10
 
-Announcement of the death of Tim Peters, a prominent Python core developer and author of 'The Zen of Python', sparking community tribute on Hacker News.
+UCIe 联盟发布了 UCIe 4.0 规格，该规范将标准范围从基础的芯片粒度互连扩展至系统级集成。新规格引入了跨多芯片粒度系统的可管理性、安全性、资源效率、内存连接及可靠性能力。 此次发布意义重大，因为它解决了构建复杂异构系统的关键瓶颈，其中多个芯片粒度需要被统一地管理、保护和监控。它帮助硬件架构师在先进的芯片粒度架构中高效利用功耗、芯片面积和封装资源。 UCIe 4.0 规格主要致力于解决将计算、加速器及内存芯片粒度集成到连贯的封装内系统的要求。它特别针对封装资源的优化以及系统组件的监控。
 
-hackernews · ayhanfuat · 11月11日 07:03 · [社区讨论](https://news.ycombinator.com/item?id=50450488)
+rss · TechPowerUp News · 11月12日 15:39
 
-**标签**: `#Python`, `#Obituary`, `#Software Engineering`, `#Community`
+**背景**: 通用芯片粒度互连标准（UCIe）是一个开放的行业标准，定义了单个芯片粒度（即小型芯片碎片）在单个封装内部如何相互通信。传统版本的 UCIe 主要关注物理层，以实现高带宽、低功耗的芯片间电信号传输。随着芯片粒度架构变得更加复杂，对于统一系统级标准的需求日益增长，以确保这些模块化组件能够安全、高效地协同工作。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.edge-ai-vision.com/2026/03/ucie-chiplets-a-practical-guide-to-modular-soc-design/">UCIe & Chiplets : A Practical Guide to Modular SoC Design - Edge AI...</a></li>
+<li><a href="https://semiengineering.com/what-is-ucie/">What Is UCIe ?</a></li>
+<li><a href="https://www.uciexpress.org/specifications">Specifications | UCIe Consortium</a></li>
+
+</ul>
+</details>
+
+**标签**: `#chiplets`, `#hardware`, `#interconnect`, `#UCIe`, `#systems-integration`
 
 ---
 
 <a id="item-6"></a>
-## [AWS emulator](https://github.com/aws/aws-emulator) ⭐️ 8.0/10
+## [This is the Meta MetaRoCE Network Adapter](https://www.servethehome.com/this-is-the-meta-metaroce-network-adapter/) ⭐️ 8.5/10
 
-AWS releases an open-source emulator for its cloud services, notably highlighting that it was built by autonomous AI agents, sparking debate on the future of engineering and the tool's security limitations.
+Meta unveiled the MetaRoCE network adapter at OCP Summit 2026, an innovation designed to support scalable training clusters with a million GPUs.
 
-hackernews · super_linear · 11月11日 18:21 · [社区讨论](https://news.ycombinator.com/item?id=50456631)
+rss · ServeTheHome · 11月12日 04:51
 
-**标签**: `#AWS`, `#AI Agents`, `#Cloud Infrastructure`, `#DevTools`
+**标签**: `#Meta`, `#AI Infrastructure`, `#Networking`, `#GPU Clusters`, `#OCP`
 
 ---
 
 <a id="item-7"></a>
-## [意法半导体将全系列微控制器整合至单一 STM32 平台](https://www.eetimes.com/stmicros-maria-heriz-on-moving-all-its-mcus-to-one-stm32-platform/) ⭐️ 8.0/10
+## [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) ⭐️ 8.0/10
 
-意法半导体正在推行一项战略转型，计划将其所有微控制器整合到统一的 STM32 平台，以简化其产品线。 这种整合显著提升了嵌入式系统开发者的软件可移植性和生态系统健康度，减少了对多个不同代码基础的维护需求。 该战略还将遵守即将出台的欧盟网络安全法规，并探索将 RISC-V 和人工智能代理等新兴技术整合到平台中。
+Announcement of Gemini 4 Hydrogen and its Orchestrator feature, facilitating the management of multi-model pipelines with community discussion on implementation comparisons and delegation reliability.
 
-rss · EE Times · 11月11日 18:28
+hackernews · jonbaer · 11月12日 18:52 · [社区讨论](https://news.ycombinator.com/item?id=50472260)
 
-**背景**: STM32 是意法半导体推出的一个广泛使用的 32 位微控制器系列。在过去，许多嵌入式设计人员需要为不同的微控制器架构管理独立的开发工具库和软件库，这增加了产品开发和长期维护的复杂性。RISC-V 是一种开源指令集架构，作为 ARM 等专有架构的替代方案，在半导体行业正变得越来越流行。
-
-**标签**: `#Embedded Systems`, `#STMicroelectronics`, `#MCU`, `#Semiconductor Industry`, `#RISC-V`
+**标签**: `#AI-Architecture`, `#Multi-Agent-Systems`, `#LLM`, `#Gemini`, `#Model-Orchestration`
 
 ---
 
 <a id="item-8"></a>
-## [欧盟《数字公平法》草案针对战利品宝箱与成瘾性设计](https://www.techpowerup.com/354705/eu-draft-digital-fairness-act-details-new-restrictions-on-loot-boxes-and-addictive-design) ⭐️ 7.5/10
+## [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) ⭐️ 8.0/10
 
-欧洲委员会正式发布了《数字公平法》草案，该草案建议对游戏机制（如战利品宝箱）和“成瘾性设计”实施新的限制。该草案旨在解决在线不公平商业行为，要求对游戏内消费进行更高的透明度披露。 该立法将通过迫使开发者重新设计货币化系统（尤其是战利品宝箱和付费随机奖励）对游戏行业产生重大影响。违规者可能面临高达全球营业额 6%的罚款，这将影响主要发行商和平台。 根据该草案，游戏公司必须显示虚拟物品的真实货币价值，并披露战利品宝箱中获得奖励的概率，且此类系统将对未成年人关闭。此外，“成瘾性设计和注意力最大化功能”将受到新规则的约束，甚至涵盖 AI 伴侣和通用对话机器人。
+A developer shares an open-source project that enables 16B parameter LLMs to run efficiently on legacy devices with minimal memory, providing kernels and model variants for community reproduction.
 
-rss · TechPowerUp News · 11月11日 21:23
+hackernews · mrashad74 · 11月12日 15:23 · [社区讨论](https://news.ycombinator.com/item?id=50468888)
 
-**背景**: 战利品宝箱是玩家可以开启以获取随机奖励的虚拟物品，通常可以用真实现金购买，长期以来一直是游戏中颇具争议的商业化模式。“停止关闭游戏”（Stop Killing Games）倡议曾游说该法案包含游戏许可保护条款，但该特定内容最终被草案排除在外。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://shattered.io/digital-fairness-act-leak-loot-boxes-minors-6-percent-fines-2026/">Digital Fairness Act Draft: 6% Fines, Loot Box Curbs [2026]</a></li>
-<li><a href="https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection">Loot boxes , influencers, and addictive features face an EU crackdown</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Regulation`, `#Gaming Industry`, `#EU`, `#Digital Fairness Act`, `#Compliance`
+**标签**: `#LLM`, `#Edge-AI`, `#Optimization`, `#Local-LLM`, `#Open-Source`
 
 ---
 
 <a id="item-9"></a>
-## [EmuFive 模拟器让 PS4 可运行 PS5 游戏](https://www.techpowerup.com/354710/ps5-games-now-boot-on-a-ps4-through-emufive-emulator) ⭐️ 7.5/10
+## [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at) ⭐️ 8.0/10
 
-开发者 Chokri Hammedi 发布了 EmuFive，这是一个通过最小化 Linux 系统将 KytyPS5 PS5 模拟器移植到越狱 PS4 上的实验性系统。该设置实现了《战神：斯巴达之子》等 2D 游戏可玩的帧率。 在 PS4 上运行现代 PS5 模拟器展示了系统研究方面的重大进展，证明了使用基于 Linux 的 chroot 环境进行跨代硬件模拟的可行性。这突显了自制软件模拟社区日益增长的能力。 由于 PS4 的 CPU 缺乏运行 PS5 代码所需的 AVX2 和 FMA 扩展，Hammedi 的补丁在加载时将指令翻译为旧的 SSE4.2 等效指令以保持功能。此翻译过程增加了大量开销，导致 3D 标题在 PS4 上仍无法游玩或运行极度缓慢。
+An in-depth interview with AMD's Mike Clark discussing the architecture and design decisions behind the upcoming Zen 6 CPU core.
 
-rss · TechPowerUp News · 11月11日 19:49
+hackernews · dverlaeckt80 · 11月12日 14:12 · [社区讨论](https://news.ycombinator.com/item?id=50467460)
 
-**背景**: KytyPS5 是一款 PS5 模拟器，它将 x86-64 游戏代码直接传递给主机 CPU，而非完全模拟处理器，这要求现代 CPU 特性以实现高性能。PS4 使用的是比 PS5 的 Zen 2 架构更旧且速度慢得多的定制 Jaguar CPU。通过 GoldHEN 在越狱 PS4 上安装 Linux chroot，允许在主机固件旁边运行非原生操作系统。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/blue0x1/EmuFive">GitHub - blue0x1/EmuFive</a></li>
-<li><a href="https://github.com/blue0x1/ps4-multiboot">GitHub - blue0x1/ps4-multiboot: One menu to install and boot ...</a></li>
-<li><a href="https://windowsforum.com/news/anyps5-loads-ps5-game-menu-but-crashes-before-play-begins.445786/">AnyPS5 Loads PS 5 Game Menu but Crashes Before Play Begins</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Emulation`, `#PS5`, `#PS4`, `#Homebrew`, `#Systems Research`
+**标签**: `#CPU-Architecture`, `#AMD`, `#Hardware-Design`, `#Zen-6`, `#Computer-Systems`
 
 ---
 
 <a id="item-10"></a>
-## [国会威胁因间谍案强制传唤英伟达首席执行官](https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage) ⭐️ 7.5/10
+## [尤瓦尔·赫拉利在 Gartner 研讨会上敦促暂停开发超级人工智能](https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/) ⭐️ 8.0/10
 
-三位国会委员会主席向英伟达首席执行官黄仁勋发出最后通牒，警告称如果他不就公司防范外国对手间谍活动的安全协议进行闭门简报，国会将向其发出传票。 此举标志着国会前所未有地介入大型科技公司的治理，将国内安全问题与人工智能芯片供应链挂钩，提高了硬件制造商的合规风险。 对闭门简报的要求反映了与情报相关报告的敏感性，其中包含一名前中情局特工声称这位首席执行官已成为目标的说法。
+哲学家尤瓦尔·赫拉利在 2026 年 Gartner IT Symposium/Xpo 上向科技领导者发出警告，呼吁推迟开发人工智能超级智能。他指出，此类系统威胁会削弱人类自主权和民主主权。 这一公开呼吁为人工智能伦理辩论增添了重大压力，凸显了快速技术进步与民主控制需求之间的政策冲突。对于制定先进人工智能系统治理策略的行业利益相关者来说，这一立场至关重要。 赫拉利特别呼吁推迟追求超级智能，而非完全停止人工智能研究，其焦点在于失去人类自主权对社会的影响。这一讨论发生在一个以 IT 基础设施和商业战略为主要关注点的大型科技行业会议上——Gartner。
 
-rss · Tom's Hardware · 11月11日 13:04
+rss · EE Times · 11月12日 08:30
 
-**背景**: 这种政治压力的背景是英伟达董事会最近针对其首席执行官被外国情报机构针对的报道启动了独立调查。报告称，涉嫌的间谍活动涉及“金蝉脱壳”场景，即首席执行官与相关资产发展了个人关系。随着董事会调查这些指控，英伟达股价近期下跌，市值蒸发逾 1920 亿美元。
+**背景**: 尤瓦尔·赫拉利是一位以人工智能和人类社会进化研究而闻名的著名历史学家和哲学家。'人工智能超级智能'（AI superintelligence）是指一种假设的先进系统，其能力远超人类的认知能力。关于其开发的争论已成为技术政策和哲学中的核心议题。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techrepublic.com/article/news-nvidia-jensen-huang-espionage-inquiry-apac-china/">Nvidia Backs Huang as Board Reviews Espionage Reports</a></li>
-<li><a href="https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1">Nvidia shares fall as it probes alleged Chinese spy scandal</a></li>
-<li><a href="https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang">Nvidia CEO Jensen Huang admits affair as company... | CNN Business</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Nvidia`, `#Tech Policy`, `#National Security`, `#Hardware Security`, `#Congress`
+**标签**: `#AI Ethics`, `#Superintelligence`, `#Policy`, `#Philosophy`
 
 ---
 
 <a id="item-11"></a>
-## [Cyanogen 联合创始人推出 Kora Linux OS，支持 AI 模型拆分](https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first) ⭐️ 7.5/10
+## [疑似中国间谍 Alice Huang 在北京再次现身引发争议](https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips) ⭐️ 7.5/10
 
-由 Cyanogen 联合创始人开发的新 Linux 桌面操作系统 Kora，将内置 AI 模型和智能体，支持在 CPU、GPU 和 NPU 之间拆分推理任务。该系统计划于 2027 年发布，并首先支持 Snapdragon X2 Elite 设备。 该系统通过高效利用异构硬件实现本地代理式 AI，这对数据隐私和减少对云服务的依赖具有重要意义。它代表了 PC 生态向端侧智能转变的趋势。 Kora 优先考虑面向代理式工作负载的本地推理，并将成为首个全面支持即将发布的 Snapdragon X2 Elite 及其 Hexagon NPU 的操作系统。该产品目前处于前瞻阶段，定于 2027 年发布。
+疑似中国情报人员、Megaspeed 前高管 Alice Huang 在 2025 年于新加坡被拘留后，近期在北京再次现身。这一 NVIDIA CEO Jensen Huang 事件核心人物的出现，引发了美国官方对国家安全泄露问题的重新审查。 与主要 AI 硬件领导者之间的潜在间谍联系，引发了对全球半导体供应链安全的关键担忧。如果出口管制可通过个人关系被规避，将对西方技术竞争力构成重大战略威胁。 据悉，Alice Huang 被中国国家安全部招募，并在为 NVIDIA 直接竞争对手华为提供算力的公司中持有股份。有报道称，她在 2025 年在新加坡被问询后失踪，随后现身北京。
 
-rss · Tom's Hardware · 11月11日 13:00
+rss · Tom's Hardware · 11月12日 12:53
 
-**背景**: 代理式 AI 是指能够自主理解目标并执行复杂任务的系统，通常需要巨大的计算能力。神经网络处理单元（NPU）是一种专用的硬件加速器，旨在比通用 CPU 和 GPU 更高效地加速 AI 和机器学习应用。Snapdragon X2 Elite 是高通推出的下一代基于 ARM 架构的 PC 芯片，内置了这些 AI 加速器。
+**背景**: 美国对包括 NVIDIA 生产的先进 AI 芯片在内的关键科技产品实施了严格的出口管制。这些法规旨在限制中国扩展其 AI 硬件生态系统的能力，因此非法走私被禁组件成为联邦起诉的重点目标。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.asus.com/blog/arm-architecture-on-windows-pcs-the-new-snapdragon-x2-elite-platform/">ARM Architecture on Windows PCs: The New Snapdragon X2 Elite ...</a></li>
-<li><a href="https://ecrionix.org/how-ai-chips-work-npu/">How AI Chips Work — Inside an NPU (Neural Processing Unit)</a></li>
-<li><a href="https://iterate.ai/ai-glossary/agentic-inference">Agentic Inference - iterate.ai</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jensen_Huang_spying_scandal">Jensen Huang spying scandal - Wikipedia</a></li>
+<li><a href="https://www.imd.org/ibyimd/geopolitics/the-long-way-to-china-what-chip-smuggling-reveals-about-trade-today/">Semiconductor export controls: What chip smuggling reveals ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Linux`, `#AI`, `#System Architecture`, `#Local AI`, `#Snapdragon`
+**标签**: `#NVIDIA`, `#Geopolitics`, `#Supply Chain`, `#Cybersecurity`, `#Semiconductors`
 
 ---
 
 <a id="item-12"></a>
-## [Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches](https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back) ⭐️ 7.5/10
+## [Hacker News 探讨软件正确性与实际可用性的辩论](https://pron.github.io/posts/correctness-and-complexity) ⭐️ 7.0/10
 
-A senior Linux kernel memory management reviewer has resigned from their duties, citing the overwhelming volume of low-quality, AI-generated patches and insufficient team resources to maintain code quality.
+一篇在 Hacker News 上广泛传播的文章引发了 320 分的热烈讨论，探讨了定义软件正确性的根本难度。社区辩论的核心焦点在于抽象数学证明与实际功能实用性之间的张力。 这次讨论突显了软件工程中的一个核心挑战：决定何时采用形式化方法和数学证明的高昂成本是合理的，而何时实用可用性应占据主导地位。在日益复杂的现实世界数据输入时代，这影响着工程师如何设计可靠的系统。 讨论中的显著洞察包括软件类似于“合同法律”的观点，即定义可接受的输入和输出在本质上是非常困难的。此外，评论者明确指出，哥德尔不完备定理具体否定了存在一个单一有效形式框架来解决所有数学问题的可能性。
 
-rss · Tom's Hardware · 11月11日 12:30
+hackernews · AriFordsham · 11月12日 10:28 · [社区讨论](https://news.ycombinator.com/item?id=50465352)
 
-**标签**: `#Linux Kernel`, `#AI Impact`, `#Open Source`, `#Code Review`
+**背景**: 软件工程中形式化方法是用于指定和验证系统是否按预期运行的数学技术，它可以消除漏洞但通常被视为成本高昂。哥德尔不完备定理是数理逻辑中的基本结果，表明某些复杂且一致的形式系统无法证明其内部可表达的所有真理。软件中的“正确性”通常意味着程序能够根据其规范准确执行其预期任务。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Formal_methods">Formal methods - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区普遍认为，对于大多数现实世界软件组件（如 CLI 人体工学或维护脚本）而言，数学上的正确性很少有用。几位用户纠正了对哥德尔定理确切范围的常见误解。其他人则使用软件与合同法律的类比，来解释为什么尽管开发人员尽了最大努力，软件仍然会出现 Bug。
+
+**标签**: `#Software Engineering`, `#Formal Methods`, `#Correctness`, `#Complexity`, `#Computer Science Theory`
 
 ---
 
 <a id="item-13"></a>
-## [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/) ⭐️ 7.0/10
+## [What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation](https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/) ⭐️ 7.0/10
 
-Hugo van der Woude proposes locking GitHub Actions to prevent supply chain attacks, while comments debate the technical limitations of current lockfiles and the trust trade-offs involved.
+Arteris has reached a milestone of 1,000 customer silicon design starts, underscoring the growing importance of efficient data interconnects in modern chip architecture.
 
-hackernews · gslin · 11月11日 22:16 · [社区讨论](https://news.ycombinator.com/item?id=50459485)
+rss · SemiWiki · 11月12日 17:00
 
-**标签**: `#Security`, `#DevOps`, `#GitHub Actions`, `#Supply Chain`, `#CI/CD`
+**标签**: `#Semiconductors`, `#Interconnect`, `#IP`, `#Arteris`, `#Hardware`
 
 ---
 
 <a id="item-14"></a>
-## [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) ⭐️ 7.0/10
+## [Can Machines See a Sick Plant Before a Farmer Can?](https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/) ⭐️ 7.0/10
 
-Google launches the Gemini Decisions API, which allows developers to query models for probability-weighted decisions and structured outputs, sparking debate over pricing and utility compared to existing competitors.
+Soybean disease research demonstrates the potential of hyperspectral imaging for early detection, while semiconductor advancements may soon make this technology affordable for widespread agricultural use.
 
-hackernews · iamdelirium · 11月11日 18:32 · [社区讨论](https://news.ycombinator.com/item?id=50456791)
+rss · EE Times · 11月12日 13:00
 
-**标签**: `#Google`, `#API`, `#LLM`, `#Gemini`, `#Developer Tools`
+**标签**: `#Hyperspectral Imaging`, `#Agriculture`, `#Semiconductors`, `#Sensing Technology`, `#AgTech`
 
 ---
 
 <a id="item-15"></a>
-## [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt) ⭐️ 7.0/10
+## [Connecting AI to the Physical World](https://www.eetimes.com/connecting-ai-to-the-physical-world/) ⭐️ 7.0/10
 
-An essay and subsequent Hacker News discussion exploring how the rise of LLMs challenges traditional open-source principles in Emacs, leading to calls for 'human-only' forks and new architectural strategies for maintaining AI-generated code.
+This article argues that Software-Defined Radio (SDR) and specialized wireless devices are critical infrastructure for connecting AI models to physical environments and intelligent machines.
 
-hackernews · ggcr · 11月11日 20:26 · [社区讨论](https://news.ycombinator.com/item?id=50458208)
+rss · EE Times · 11月12日 10:20
 
-**标签**: `#emacs`, `#llm`, `#open-source`, `#software-engineering`, `#philosophy`
+**标签**: `#AIoT`, `#Wireless Communications`, `#SDR`, `#Embedded Systems`, `#EE`
 
 ---
 
 <a id="item-16"></a>
-## [Credo 发布 1.6T 微型发射器光学技术用于 AI 互连](https://www.eetimes.com/credo-at-ocp-2026-micro-emitter-optics-and-ai-interconnect-reliability/) ⭐️ 7.0/10
+## [Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI](https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/) ⭐️ 7.0/10
 
-Credo 在 OCP 2026 上展示了其 1.6T ZeroFlap 有源光缆（ALC）技术，该技术利用微型发射器光学组件，为 AI 数据中心提供行级宽并行光学互连。 该技术旨在显著提高 AI 集群网络中的可靠性和能效，这对于 AI 模型规模扩大和数千个加速器对更高带宽的需求至关重要。 ZeroFlap ALC 使用密集的微型发射器（微 VCSEL 或微 LED）和光电探测器阵列，在可插拔形式下每端功耗仅为 12W，支持更高带宽密度的 AI 扩展网络。
+A session overview introducing Artificial Chip Intelligence (ACI), a physics-informed foundation model that transforms chiplet development from a manual process into an AI-driven conversational workflow.
 
-rss · EE Times · 11月11日 18:01
+rss · EE Times · 11月11日 23:00
 
-**背景**: 传统光缆链路通常将少数几个信道推向极限数据传输速率，而微型发射器光学技术则使用微米级光源阵列来更可靠、更高效地传输大量数据。开放计算项目（OCP）是一个全球性的论坛，各公司在此合作推进数据中心基础设施的开放标准，包括针对 AI 工作负载的专业网络设计。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.opencompute.org/projects/semi-private-workstreams/short-reach-micro-emitter-optics-srmo/">Short-Reach Micro-Emitter Optics (SRMO) - Open Compute Project</a></li>
-<li><a href="https://credosemi.com/products/zeroflapalc/">ZeroFlap ALCs with Micro-Emitter Optics - Credo</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Infrastructure`, `#High-Speed Interconnects`, `#Optics`, `#Credo`, `#OCP`
+**标签**: `#Chiplets`, `#AI-driven Design`, `#Hardware Engineering`, `#Foundational Models`, `#VLSI`
 
 ---
 
 <a id="item-17"></a>
-## [微软 Auto SR 在 Xbox Ally 掌机开启 120 FPS 模式](https://www.techpowerup.com/354715/microsofts-auto-sr-upscaler-goes-handheld-on-xbox-ally-x-and-x20-gains-120-fps-mode) ⭐️ 6.5/10
+## [Apex Compute 神经渲染技术性能与画质超越英伟达 DLSS](https://www.techpowerup.com/354727/apex-neural-rendering-beats-nvidia-dlss-in-both-image-quality-and-performance) ⭐️ 6.5/10
 
-微软已在 ROG Xbox Ally X 和 X20 掌机上启用 Auto SR 超分辨率技术，现已支持在内置屏幕上使用，并新增了 120 FPS 性能模式。 该更新展示了基于 NPU 的 AI 超分辨率在掌上游戏领域的实际可行性，为 Windows 11 掌机带来了原生的性能提升。 NPU 承担了 AI 处理任务，从而避免占用 GPU 的帧时间，使帧率上限从 60-75 FPS 提升至 120 FPS。
+一家名为 Apex Compute 的公司开发了神经渲染套件（ANR），据称在图像质量和延迟方面击败了英伟达的 DLSS。其帧生成（ANR FG）Beta 版注入器已在《霍格沃茨之遗》等大作中运行，展现出比 DLSS FG 更低的内存占用和更快的单帧处理速度。 通过提供具有优越效率和视觉保真度的开源替代方案，此举打破了英伟达在高性能超分和帧生成领域的垄断。如果这些声明得到独立验证，可能会促使整个行业转向更优化的高质量 AI 渲染管线。 在 RTX 5090 上的技术基准测试显示，ANR FG 在 4K/2x 分辨率下仅需 214 MB 内存（DLSS FG 为 562 MB），且延迟为 1.01 ms（DLSS FG 为 1.26 ms）。ANR FG 的神经网络权重仅为 0.17 MB，且该系统基于开源的 OptiScaler 引擎构建为 Beta 版注入器。
 
-rss · TechPowerUp News · 11月12日 00:04
+rss · TechPowerUp News · 11月12日 09:19
 
-**背景**: Auto SR 是微软的系统级 AI 超分辨率技术，可自动调整游戏分辨率以保持流畅的性能。它与依赖显卡计算核心的传统 GPU 超分技术不同，而是运行在 NPU 上以提高效率。
+**背景**: 英伟达 DLSS 是一套标准的 AI 驱动渲染技术，使用专用的 Tensor Core 来提高游戏的帧率和图像质量。Apex Compute 的 ANR 方法利用开源的 OptiScaler 项目和神经网络来复制并改进这些帧生成任务，且不受专有英伟达硬件生态系统的限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.digitalfoundry.net/articles/digitalfoundry-2024-microsoft-auto-super-resolution-tested-a-new-ai-upscaler-has-arrived">Microsoft Auto Super Resolution tested: a new AI... | Digital Foundry</a></li>
-<li><a href="https://wccftech.com/microsoft-showcases-auto-sr-automatic-super-resolution-the-first-os-integrated-ai-upscaling-technology-powered-by-npus/">Microsoft Showcases Auto SR " Automatic Super Resolution", The...</a></li>
+<li><a href="https://github.com/apex-compute/ANR">GitHub - apex-compute/ANR: Apex Neural Rendering (ANR) by ...</a></li>
+<li><a href="https://apexcompute.com/neural-rendering">ANR: Apex Neural Rendering | Apex Compute</a></li>
+<li><a href="https://developer.nvidia.com/rtx/dlss">NVIDIA DLSS | NVIDIA Developer</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gaming`, `#DirectX`, `#Performance`, `#Handheld`, `#AI-upscaling`
+**标签**: `#Neural Rendering`, `#DLSS`, `#GPU Optimization`, `#AI/ML`, `#Computer Graphics`
 
 ---
 
 <a id="item-18"></a>
-## [GTA VI 主机预加载文件揭示支持 FSR 4.1.2 技术](https://www.techpowerup.com/354701/grand-theft-auto-vi-for-xbox-packs-fsr-4-1-2-but-not-enabled-at-launch) ⭐️ 6.5/10
+## [Valve 发布 64 位 Linux 版 Steam 客户端与成就管理功能](https://www.techpowerup.com/353772/linux-finally-gets-64-bit-steam-client-and-new-game-achievements-management) ⭐️ 6.5/10
 
-《侠盗猎车手 VI》在 Xbox 上的预加载文件表明，该游戏包含了 AMD FSR 4.1.2 超分辨率技术。尽管如此，在发售时启用的唯一技术是索尼的 PlayStation 光谱超分辨率（PSSR）。 包含 FSR 4.1.2 表明开发商极可能会在发售后的补丁中使用该技术。这凸显了机器学习超分辨率技术在竞争激烈的游戏主机平台上的快速普及情况。 Xbox 版本包含 amd_fidelityfx_loader_xbox.dll 和 amd_fidelityfx_upscaler_xbox.dll 文件。PSSR 需要在发售时拥有 PS5 Pro 主机才能启用，因为标准版 PS5 并不支持该技术。
+Valve 为 Linux 平台发布了 Steam 客户端的 64 位测试版本，结束了长期依赖 32 位架构的历史。同时，公司推出了全新的成就集合功能，允许开发者对基础游戏和 DLC 的成就进行分类管理。 向 64 位客户端的过渡是一次重大的架构现代化升级，不仅提升了性能，也推动了 Linux 游戏生态的发展。此外，它还通过改善游戏成就的追踪与整理功能，优化了用户体验。 此次更新紧随 2026 年初发布的 RT3 客户端测试版，后者旨在提供跨不同 Linux 发行版的一致性能体验。成就集合功能已于 11 月 11 日正式推送至稳定通道，并伴随多项性能与稳定性优化。
 
-rss · TechPowerUp News · 11月11日 20:38
+rss · TechPowerUp News · 11月12日 05:17
 
-**背景**: AMD FSR 4.1.2 最近通过微软的游戏开发工具包（GDK）在 Xbox Series X 和 S 主机上正式可用。该技术为开发者提供了两种机器学习模型：一种全尺寸的 INT8 模型和一种效率更高的 Lite INT8 模型。
+**背景**: 尽管 Valve 已将其其他主要平台客户端迁移至 64 位架构，但长期以来一直为 Linux 保留 32 位客户端。64 位系统提供更大的内存寻址能力，这对于高效运行现代资源密集型游戏和应用至关重要。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://videocardz.com/newz/amd-fsr-4-1-2-brings-machine-learning-upscaling-to-xbox-series-x-and-s-consoles">AMD FSR 4.1.2 brings machine learning upscaling to Xbox ...</a></li>
-<li><a href="https://developer.microsoft.com/en-us/games/articles/2026/11/amd-fsr-upscaling-4-is-now-available-for-xbox/">AMD FSR™ Upscaling 4 Is Now Available for XBOX Developers</a></li>
-<li><a href="https://wccftech.com/the-mark-cerny-qa-we-ask-about-vrr-improvements-pssr-fg-path-tracing-and-ml-project-with-amd/">The Mark Cerny Q&A - We Ask About VRR Improvements, PSSR FG...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Gaming`, `#AMD FSR`, `#Console Hardware`, `#GTA VI`, `#Graphics Technology`
+**标签**: `#Linux`, `#Steam`, `#Gaming`, `#Client Architecture`, `#Valve`
 
 ---
 
 <a id="item-19"></a>
-## [软银取消价值 37 亿美元的 AI 数据中心燃气轮机订单](https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity) ⭐️ 6.5/10
+## [Zigzag：开源应用替代专有绣花机软件](https://github.com/simpsoka/zigzag) ⭐️ 6.0/10
 
-软银在低估未来电力需求后，取消了总额达 37 亿美元的用于 AI 数据中心扩建的燃气轮机订单。此举发生在该公司刚刚明确否认类似合同存在违约行为之后不久。 取消 13 吉瓦的电力容量标志着激进的 AI 基础设施建设叙事面临重大调整，并影响当前资本支出趋势的可持续性。此举很可能会对重工业制造商产生显著的财务和供应链连锁反应。 被取消的容量相当于超过六个胡佛大坝的发电量，代表了公司战略资源的重大重新分配。软银表示，此前其在扩大雄心勃勃的 AI 数据中心项目时，错误地超额订购了电力设备。
+一位开发者发布了 Zigzag，这是一款开源应用程序，允许用户在本地生成机器原生文件，从而规避一台 300 美元绣花机的强制订阅服务。 该项目解决了消费者日益增长的对低端硬件 SaaS 锁定的不满情绪，展示了现代开发工具（很可能是 LLM 辅助的）如何赋能用户构建实用的嵌入式软件替代方案。 该应用专注于为绣花机生成特定的文件格式（如 .exp），确保设计有效且不会引发断针或针脚重叠等硬件问题。
 
-rss · Tom's Hardware · 11月11日 14:29
+hackernews · simpsoka · 11月12日 17:02 · [社区讨论](https://news.ycombinator.com/item?id=50470488)
 
-**背景**: 燃气轮机越来越多地被用于现代数据中心的现场发电，以提供传统电网在 AI 算力峰值时可能无法支持的极高可用性和冗余性。软银是一家知名的日本电信与科技巨头，一直在全球积极投资 AI 数据中心基础设施和能源解决方案。
+**背景**: 如今，许多低价消费电子产品的基本功能都依赖专有的云服务，要求用户支付订阅费才能使用文件转换等功能。绣花机通常使用特定的文件格式，这些格式往往被昂贵的软件许可证锁定，因此本地开源解决方案对爱好者和小型企业来说极具价值。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.gevernova.com/gas-power/industries/data-centers">Gas Power Technology for Data Centers | GE Vernova</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SoftBank_Group">SoftBank Group - Wikipedia</a></li>
+**社区讨论**: 社区成员对该项目表达了热情，强调这是 LLM 赋能用户绕过专有限制的有力例证。他们讨论了验证文件完整性以防止机器损坏的重要性，并为对绣花软件感兴趣的人推荐了 InkStitch 和 StitchSlop 等替代工具。
 
-</ul>
-</details>
-
-**标签**: `#AI Infrastructure`, `#SoftBank`, `#Data Centers`, `#Energy`, `#Tech Industry`
+**标签**: `#open-source`, `#hardware`, `#embroidery`, `#LLM-applications`, `#diy`
 
 ---
 
 <a id="item-20"></a>
-## [任天堂对 144 个开源 Switch 破解工具发起 DMCA 下架令](https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory) ⭐️ 6.5/10
+## [数百万用户遭遇微软 Outlook 及状态页服务中断](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/) ⭐️ 6.0/10
 
-在近期的刑事审判胜诉后，任天堂对 144 个与 Switch 硬件破解芯片相关的开源工具和固件发起了大规模 DMCA 下架行动。这一法律行动导致包括 Picofly、SX Core 和 Hwfly 在内的知名项目在托管平台上被禁用。 这种激进的法律执行突显了专有硬件制造商与开源社区之间日益加剧的冲突，可能威胁到嵌入式硬件修改项目的可持续性。它为知识产权法在生态系统爱好者和开发者工具中的应用确立了先例。 下架行动特别针对与硬件破解芯片相关的固件和实用工具，而不仅仅是软件模拟器。hwfly-nx/firmware 和 THZoria/NX_Firmware 等项目被点名在受影响的仓库中，表明执法范围广泛。
+2026 年 11 月 12 日，微软 Outlook 及官方状态页面发生大规模中断，并在 Downdetector 上引发了大量用户故障报告。该服务中断还影响到了合作伙伴中心，包括应用商店的应用上传功能。 Outlook 是关键的企业合作通讯工具，状态页的同步不可用导致试图评估故障范围的 IT 管理员和陷入混乱。这一事件凸显了微软服务监控基础设施的单点故障风险。 微软 RSS 订阅更新显示，受影响的服务器未能通过自动健康检查，这极有可能导致它们被标记为不可用。社区报告确认，AWS 和 Gmail 等外部服务在线，从而排除了全球互联网故障的可能性。
 
-rss · Tom's Hardware · 11月11日 13:42
+hackernews · dkpk · 11月12日 18:20 · [社区讨论](https://news.ycombinator.com/item?id=50471731)
 
-**背景**: 任天堂历来对未经授权的主机修改采取激进的法律诉讼，以防止盗版并保护其知识产权。DMCA（数字千年版权法）允许权利人要求平台删除受版权保护的材料。开源破解芯片是绕过安全措施以允许使用自定义固件的硬件设备，通常托管在 GitHub 上，任天堂现在主张这侵犯了其版权。
+**背景**: Downdetector 是一个在线平台，通过汇总实时用户报告的数据来显示全球服务故障情况。当标准网页界面不可用时，通常会通过状态页或 RSS 订阅来获取服务中断的更新信息。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep">Nintendo Takes Down Switch Mod Chip Firmware in GitHub ... - IGN</a></li>
-<li><a href="https://github.com/hwfly-nx/firmware/releases">Releases · hwfly-nx/firmware · GitHub</a></li>
-<li><a href="https://github.com/THZoria/NX_Firmware/releases">Releases · THZoria/NX_Firmware · GitHub</a></li>
+<li><a href="https://downdetector.com/">Downdetector - Check real-time service problems and outages | US</a></li>
+<li><a href="https://grokipedia.com/page/Downdetector">Downdetector — Grokipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Open Source`, `#Legal`, `#Hardware`, `#Gaming`, `#Intellectual Property`
+**社区讨论**: 用户分享了关于虽然 Downdetector 显示多个服务大面积中断，但实际上仅为微软健康检查故障的观点。部分用户还反映，由于服务问题，Outlook 桌面版客户端无法连接到他们的自托管邮件服务器。
+
+**标签**: `#Microsoft`, `#Outlook`, `#Service Outage`, `#Cloud Services`, `#Status Page`
 
 ---
