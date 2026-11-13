@@ -5,368 +5,287 @@ date: 2026-11-13
 lang: en
 ---
 
-> From 94 items, 20 important content pieces were selected
+> From 85 items, 16 important content pieces were selected
 
 ---
 
-1. [NVIDIA CEO Jensen Huang Resigns Amid Export and Misconduct Allegations](#item-1) ⭐️ 10.0/10
-2. [Rust 1.100 release features custom allocators and never type stabilization](#item-2) ⭐️ 9.0/10
-3. [Apple releases Foundation Models framework for on-device LLMs on iOS](#item-3) ⭐️ 8.0/10
-4. [Apex Compute Unveils Neural Rendering to Challenge NVIDIA DLSS](#item-4) ⭐️ 7.5/10
-5. [Google reworks TPU silicon into specialized systems for agents and security](#item-5) ⭐️ 7.5/10
-6. [Gemini 4 Hydrogen and Orchestrator](#item-6) ⭐️ 7.0/10
-7. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](#item-7) ⭐️ 7.0/10
-8. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](#item-8) ⭐️ 7.0/10
-9. [Nvidia Employees Petition to Reinstate Jensen Huang](#item-9) ⭐️ 7.0/10
-10. [Open-source project enables 16B LLMs on sub-1GB devices](#item-10) ⭐️ 7.0/10
-11. [Hyperspectral Imaging Advances Early Soybean Disease Detection](#item-11) ⭐️ 7.0/10
-12. [Vicinity Technologies Links AI to Physical World via SDR](#item-12) ⭐️ 7.0/10
-13. [Keychron Announces Open-Source MKF Firmware for Magnetic Keyboards](#item-13) ⭐️ 6.5/10
-14. [AMD Cuts Gaming GPU Supply in China by Up to 50%](#item-14) ⭐️ 6.5/10
-15. [Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM](#item-15) ⭐️ 6.5/10
-16. [Hobbyist turns $45 USB-C hub into a working Nintendo Switch 2 dock by patching its firmware](#item-16) ⭐️ 6.5/10
-17. [Service degradation on Microsoft 365](#item-17) ⭐️ 6.0/10
-18. [Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications](#item-18) ⭐️ 6.0/10
-19. [AMD Siren Halo APU Rumored with Hybrid GDDR7 and LPDDR Memory](#item-19) ⭐️ 5.5/10
-20. [Noctua Launches Carbice Carbon Nanotube Thermal Pad for AM5](#item-20) ⭐️ 5.5/10
+1. [Reverse-Engineering Coway Air Purifiers to Eliminate Cloud Dependency](#item-1) ⭐️ 8.0/10
+2. [AI Decodes Gödel's Notebooks: Hundreds of Unpublished Theorems Revealed](#item-2) ⭐️ 8.0/10
+3. [Imec and ASRA publish ACIR standard for automotive chiplets](#item-3) ⭐️ 8.0/10
+4. [Long-Time Linux Kernel Maintainer Inundated With AI-Generated Submissions Steps Down](#item-4) ⭐️ 7.5/10
+5. [macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64](#item-5) ⭐️ 7.5/10
+6. [A technical vision for the Haskell ecosystem](#item-6) ⭐️ 7.0/10
+7. [electronica 2026 Showcases Semiconductor Shift Toward AI and Physical Robots](#item-7) ⭐️ 7.0/10
+8. [AMD Reportedly Cuts Gaming GPU Supply in China by 50%](#item-8) ⭐️ 6.5/10
+9. [Practical case study: 600 experiments on JEPA world models for robotics](#item-9) ⭐️ 6.0/10
+10. [Caixa Insurer Breach Exposes 7.6M Customer Names and Tax IDs](#item-10) ⭐️ 6.0/10
+11. [Quilter CEO Discusses Physics-Driven AI for Automated PCB Layout](#item-11) ⭐️ 6.0/10
+12. [NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions](#item-12) ⭐️ 6.0/10
+13. [Panmesia and Intel hook up on CXL](#item-13) ⭐️ 6.0/10
+14. [Intel ISA Reference Reveals Razor Lake and Coral Rapids Model IDs](#item-14) ⭐️ 5.5/10
+15. [AI Reverse-Engineers 1994 Jeep Cherokee ECU to Pass Smog Tests](#item-15) ⭐️ 5.5/10
+16. [Yandex Cloud restores 97% of data after drone strikes](#item-16) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [NVIDIA CEO Jensen Huang Resigns Amid Export and Misconduct Allegations](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) ⭐️ 10.0/10
+## [Reverse-Engineering Coway Air Purifiers to Eliminate Cloud Dependency](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) ⭐️ 8.0/10
 
-NVIDIA CEO Jensen Huang has announced his resignation following reports of personal misconduct and allegations that he skirted US export restrictions. This announcement triggers a major leadership transition at the world's leading AI chipmaker. The departure of Jensen Huang, the central figure of the current AI boom, could significantly disrupt the semiconductor industry's trajectory. The allegations of violating export controls raise major geopolitical and national security concerns for the US. The resignation is reportedly linked to allegations of skirting export bans, a national security issue, and personal misconduct involving connections to Chinese government officials. The exact details and official rationale remain partially unclear pending corporate statements.
+A user detailed the process of reverse engineering a Coway air purifier to remove its proprietary cloud connections. This allows the device to operate independently, significantly improving privacy and security. This work highlights the security vulnerabilities inherent in IoT cloud dependencies, specifically the risk of man-in-the-middle attacks via plain HTTP. It empowers users to take back control of their hardware through open-source solutions. The device was found to download its root CA certificate over plain HTTP, making it vulnerable to interception. Additionally, large language models are now being used to accelerate the tedious parts of security analysis and reverse engineering.
 
-hackernews · lldb · Nov 12, 13:52 · [Discussion](https://news.ycombinator.com/item?id=50467087)
+hackernews · scottjg · Nov 12, 22:03 · [Discussion](https://news.ycombinator.com/item?id=50474959)
 
-**Background**: Jensen Huang has led NVIDIA for decades, driving its transition into the leading provider of AI accelerators. US export restrictions limit the sale of advanced AI chips to China, making NVIDIA a focal point of geopolitical tensions.
+**Background**: Internet of Things (IoT) devices often rely on manufacturer clouds for communication and authentication, which can pose privacy risks and single points of failure. Reverse engineering is the process of analyzing a device to discover its design, architecture, and vulnerabilities. Man-in-the-middle (MitM) attacks exploit insecure communications, such as unencrypted HTTP, to intercept data or certificates.
 
-**Discussion**: Community discussion is divided, with some arguing that the real reason is skirting export bans rather than personal affairs. Others theorize that the resignation is a preemptive move by competitors or a PR spectacle to benefit specific parties.
+**Discussion**: Commenters noted that LLMs are making the tedious aspects of reverse engineering more accessible to a broader audience. Others recommended practical alternatives like the Corsi-Rosenthal box for efficient air filtration or modifying smart home HVAC systems using ESP32 and ESPHome for superior control.
 
-**Tags**: `#NVIDIA`, `#Jensen Huang`, `#AI Industry`, `#Geopolitics`, `#Leadership`
+**Tags**: `#reverse-engineering`, `#iot-security`, `#self-hosting`, `#llm-application`, `#diy-hardware`
 
 ---
 
 <a id="item-2"></a>
-## [Rust 1.100 release features custom allocators and never type stabilization](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 9.0/10
+## [AI Decodes Gödel's Notebooks: Hundreds of Unpublished Theorems Revealed](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) ⭐️ 8.0/10
 
-Rust 1.100.0 is a milestone release that stabilizes the never type and introduces stable custom allocators. The version also includes enhanced Cargo features such as minimum publish age configurations for dependency management and unused dependency warnings. This release is monumental for the Rust ecosystem because it finally lands long-pending architectural features, significantly expanding the language's utility for complex systems programming and AI workloads. It improves supply chain security and code hygiene through stricter dependency management and tooling updates. Cargo now reports unused dependencies by default, and the minimum publish age feature (RFC 3923) allows resolvers to ignore recently published versions to prevent dependency cooldown attacks. Additionally, minor stable API additions like bool::toggle() and Box::map() were included but omitted from the primary blog post.
+Finnish logician Jan von Plato utilized Anthropic's AI model Claude to successfully decipher 1,009 pages of Kurt Gödel's 1940s notebooks written in obsolete Gabelsberger shorthand. The AI-assisted analysis led to the discovery of 663 verified theorems and 14 previously unexplored logical themes. The discovery significantly expands the known body of Gödel's work, revealing that his unpublished notes contained conclusive insights that he likely intended to publish later. This breakthrough not only deepens mathematical understanding but also demonstrates the practical utility of large language models in decoding complex, historical documents. Gödel's notes were written in Gabelsberger shorthand, a system so obscure that very few living experts could read it, making AI transcription a critical enabling technology. To ensure mathematical rigor, the AI's results were subsequently cross-checked by a specialized proof assistant.
 
-hackernews · mbStavola · Nov 12, 18:39 · [Discussion](https://news.ycombinator.com/item?id=50472038)
+hackernews · bookofjoe · Nov 13, 17:30 · [Discussion](https://news.ycombinator.com/item?id=50486748)
 
-**Background**: Rust is a systems programming language known for memory safety and performance. The 'never type' (!) represents computations that never complete, while 'custom allocators' allow developers to control memory allocation beyond the default global allocator. These features address core limitations in writing high-performance and domain-specific memory management applications.
+**Background**: Kurt Gödel was a 20th-century Austrian logician who profoundly influenced mathematics, philosophy, and computer science with his incompleteness theorems. Gabelsberger shorthand is an obsolete form of stenography that was officially replaced by the 'unified German shorthand' but remained a preferred personal tool for some individuals. Historians of mathematics, like Jan von Plato, have long documented the challenges of deciphering Gödel's notoriously meticulous personal notes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Announcing Rust 1.100.0 | Rust Blog</a></li>
-<li><a href="https://doc.rust-lang.org/std/primitive.never.html">never - Rust</a></li>
-<li><a href="https://iifx.dev/en/articles/457134612/from-c-pmr-to-rust-s-generics-understanding-custom-memory-management">From C++ PMR to Rust 's Generics: Understanding Custom Memory...</a></li>
+<li><a href="https://thegoodnewsbrief.com/stories/ai-deciphers-g-del-s-shorthand-notebooks-revealing-hundreds-of-unknown-t-e1hzgj">AI deciphers Gödel's shorthand notebooks, revealing hundreds ...</a></li>
+<li><a href="https://explainx.ai/blog/claude-godel-notebooks-von-plato-663-theorems-coq-what-is-verified-2026">Claude and Gödel's Notebooks: 663 Theorems Checked - explainx.ai</a></li>
+<li><a href="https://daily.dev/posts/ai-unlocks-g-del-s-notebooks-said-to-contain-hundreds-of-proved-theorems-necqynj3b">AI unlocks Gödel's notebooks, said to contain hundreds...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reaction is highly positive, with core team member Steve Klabnik calling it a 'monostal' release. Users highlight the never type and dependency cooldowns as personal favorites, while also noting the release's impact on AI code generation. However, some users point out that useful new standard library functions were not mentioned in the official blog post.
+**Discussion**: Community responses highlight a mixture of fascination with the AI's capability and historical skepticism regarding Gödel's perfectionism, with some arguing he rarely published unfinished work. Commenters also discuss the rarity of Gabelsberger shorthand, noting anecdotal evidence that few people globally could still read it in the modern era.
 
-**Tags**: `#Rust`, `#Programming Language`, `#Release`, `#Cargo`, `#Systems Programming`
+**Tags**: `#Gödel`, `#AI-Historical-Reconstruction`, `#Mathematical-Logic`, `#Computational-History`, `#Manuscript-Studies`
 
 ---
 
 <a id="item-3"></a>
-## [Apple releases Foundation Models framework for on-device LLMs on iOS](https://developer.apple.com/foundation-models-framework/) ⭐️ 8.0/10
+## [Imec and ASRA publish ACIR standard for automotive chiplets](https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/) ⭐️ 8.0/10
 
-Apple has officially unveiled its Foundation Models framework, providing developers with a Swift API to integrate on-device large language models into iOS applications. This framework enables local AI processing powered by Apple Intelligence without requiring cloud API calls. This release is a significant milestone for mobile AI, allowing developers to create privacy-centric applications where data never leaves the user's device. It solidifies Apple's position in local computing by lowering the barrier for on-device AI integration. The framework specifically targets the on-device model powering Apple Intelligence, which runs on the Apple Neural Engine and is available on iOS 26 and later. Additionally, developers enrolled in specific programs can access Private Cloud Compute features at no extra cost.
+Imec and Japan's ASRA have jointly published the Automotive Chiplet Interoperability Requirement (ACIR), establishing a common set of architectural requirements for interoperable automotive chiplets. This initiative creates a standardized framework for integrating chiplets from different vendors in automotive systems. This standard addresses a critical gap in the semiconductor industry by enabling an open, multi-vendor ecosystem for automotive chiplets. It is particularly significant for safety-critical automotive systems where interoperability and reliability are paramount. The ACIR document complements existing standards by defining architectural requirements specifically tailored for automotive applications. It is part of a broader effort to support chiplet SoC solutions for next-generation vehicles.
 
-hackernews · kermatt · Nov 12, 21:13 · [Discussion](https://news.ycombinator.com/item?id=50474361)
+rss · Electronics Weekly · Nov 13, 06:13
 
-**Background**: On-device AI refers to running machine learning models directly on a user's hardware, such as smartphones, rather than sending data to external servers. Apple Intelligence is Apple's integrated AI system that leverages on-device models for language understanding and task execution within the iOS ecosystem.
+**Background**: Chiplets are smaller integrated circuits that are combined to form larger system-on-chip (SoC) designs, offering flexibility and performance benefits. ASRA, or Advanced SoC Research for Automotive, is a consortium of twelve Japanese companies, including six OEMs, three Tier 1 suppliers, and five semiconductor firms, focused on developing high-performance digital semiconductors for the automotive sector. Imec is a leading nanoelectronics research institute. The automotive industry is increasingly adopting chiplet architectures to address the growing complexity of vehicle electronics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.apple.com/documentation/foundationmodels">Foundation Models | Apple Developer Documentation</a></li>
-<li><a href="https://medium.com/@yenatlij/getting-started-with-apples-foundation-models-framework-22255113de24">Getting Started with Apple ’s Foundation Models Framework | Medium</a></li>
-<li><a href="https://ztabs.co/blog/on-device-llms-mobile-2026">On - Device LLMs for Mobile (2026): Apple Intelligence... | ZTABS</a></li>
+<li><a href="https://acir.imec-int.com/">Automotive Chiplet Interoperability Requirements · imec × ASRA</a></li>
+<li><a href="https://www.imec-int.com/en/press/asra-and-imec-release-joint-architectural-requirements-interoperable-automotive-chiplets">ASRA and imec release joint architectural requirements</a></li>
+<li><a href="https://www.design-reuse.com/news/15374-led-by-automakers-12-companies-in-japan-form-advanced-soc-research-for-automotive/">Led by automakers, 12 companies in Japan form Advanced SoC ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members highlighted several related developments, noting that Apple's CoreAI project is adapting open-weight models to run natively in Swift. Users also shared practical examples of local AI on low-memory Macs and mentioned Anthropic's Claude App Attest support for iOS.
-
-**Tags**: `#Apple`, `#On-Device AI`, `#LLM`, `#iOS Development`, `#Privacy`
+**Tags**: `#automotive`, `#chiplets`, `#standards`, `#semiconductors`, `#interoperability`
 
 ---
 
 <a id="item-4"></a>
-## [Apex Compute Unveils Neural Rendering to Challenge NVIDIA DLSS](https://www.techpowerup.com/354727/apex-neural-rendering-beats-nvidia-dlss-in-both-image-quality-and-performance) ⭐️ 7.5/10
+## [Long-Time Linux Kernel Maintainer Inundated With AI-Generated Submissions Steps Down](https://www.techpowerup.com/354764/long-time-linux-kernel-maintainer-inundated-with-ai-generated-submissions-steps-down) ⭐️ 7.5/10
 
-Apex Compute has introduced Apex Neural Rendering (ANR), a new framework that claims to outperform NVIDIA DLSS in both latency and GPU memory efficiency. It offers a 1.01 ms frame generation latency and utilizes only 214 MB of memory on an RTX 5090, compared to DLSS's 1.26 ms and 562 MB. By achieving lower latency and significantly less memory consumption than the industry-leading DLSS, ANR provides a more efficient alternative for real-time AI-accelerated rendering. This breakthrough is particularly valuable for gamers and developers seeking to optimize high-end gaming hardware. ANR is currently a beta injector that relies on NVIDIA OptiScaler, allowing it to function seamlessly in any game that supports NVIDIA DLSS Frame Generation. Its neural network weights are highly efficient, requiring only 0.17 MB of space.
+Linux kernel memory management maintainer Lorenzo Stoakes is stepping down from responsibilities due to the overwhelming volume of low-quality, AI-generated code submissions.
 
-rss · TechPowerUp News · Nov 12, 09:19
+rss · TechPowerUp News · Nov 13, 03:56
 
-**Background**: NVIDIA DLSS is a widely adopted AI-driven upscaling and frame generation technology for PC gaming that heavily impacts GPU performance. Apex Neural Rendering operates on a similar conceptual level but uses a different software implementation to achieve comparable or better results. Because the technology runs as an injector over OptiScaler, it bypasses the need for developers to explicitly add ANR support to their games.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://apexcompute.com/neural-rendering">ANR: Apex Neural Rendering | Apex Compute</a></li>
-<li><a href="https://www.gamingonlinux.com/2026/11/apex-compute-revealed-apex-neural-rendering-anr-their-cross-platform-answer-to-nvidia-dlss/">Apex Compute revealed Apex Neural Rendering ... | GamingOnLinux</a></li>
-<li><a href="https://github.com/apex-compute/ANR">GitHub - apex - compute /ANR: Apex Neural Rendering (ANR) by...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#neural-rendering`, `#DLSS`, `#GPU-optimization`, `#computer-graphics`, `#AI-acceleration`
+**Tags**: `#Linux Kernel`, `#Open Source`, `#AI Impact`, `#Maintainers`, `#Code Quality`
 
 ---
 
 <a id="item-5"></a>
-## [Google reworks TPU silicon into specialized systems for agents and security](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc) ⭐️ 7.5/10
+## [macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64](https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable) ⭐️ 7.5/10
 
-Google has introduced two new specialized TPU systems, TPU 8i Max for long-context agent workloads and TPU 8tx for confidential inference using AMD EPYC hosts.
+A new translator enables macOS to run on x86-64 PCs by emulating Apple Silicon architecture, revitalizing the Hackintosh project despite current performance and stability limitations.
 
-rss · Tom's Hardware · Nov 12, 11:00
+rss · Tom's Hardware · Nov 13, 10:00
 
-**Tags**: `#Google TPU`, `#AI Hardware`, `#AI Agents`, `#Silicon Design`, `#Inference Security`
+**Tags**: `#macOS`, `#Apple Silicon`, `#Emulation`, `#Open Source`, `#System Architecture`
 
 ---
 
 <a id="item-6"></a>
-## [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) ⭐️ 7.0/10
+## [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
 
-Google Antigravity announces Gemini 4 Hydrogen and an Orchestrator mode, which community members discuss in terms of performance comparisons to existing models and the technical implications of multi-model pipeline caching.
+A Hacker News discussion analyzing a technical vision for the Haskell ecosystem, debating its potential fit for AI coding agents versus its competitive position relative to Rust and Lean in formal verification and general-purpose usage.
 
-hackernews · jonbaer · Nov 12, 18:52 · [Discussion](https://news.ycombinator.com/item?id=50472260)
+hackernews · cosmic_quanta · Nov 13, 14:43 · [Discussion](https://news.ycombinator.com/item?id=50484235)
 
-**Tags**: `#Gemini`, `#LLM`, `#Model Orchestration`, `#Google AI`, `#Developer Tools`
+**Tags**: `#Haskell`, `#AI`, `#Programming Languages`, `#Software Engineering`, `#Community Discussion`
 
 ---
 
 <a id="item-7"></a>
-## [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) ⭐️ 7.0/10
+## [electronica 2026 Showcases Semiconductor Shift Toward AI and Physical Robots](https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/) ⭐️ 7.0/10
 
-Edge0-145B is introduced as a 145B-parameter AI model designed for local inference on consumer hardware, achieving low memory footprints through expert matrix sharing and demonstrating advanced tool-use capabilities.
+The electronica 2026 trade show highlights a significant shift where chipmakers are moving up the technology stack to develop integrated AI platforms. This transition is driven by the rapidly expanding demands of data centers, edge AI, and physical AI in robotics. This strategic pivot matters because it accelerates the integration of silicon directly into AI and robotics infrastructure. It reshapes industry value chains as data centers and physical AI become the central forces dictating power and silicon design standards. The analysis notes that this high-level market observation lacks deep technical novelty or specific research breakthroughs, focusing instead on macro industry trends. The key changes involve specific alterations in both power delivery and silicon architecture to support these emerging AI applications.
 
-hackernews · sroussey · Nov 12, 23:06 · [Discussion](https://news.ycombinator.com/item?id=50475713)
+rss · EE Times · Nov 13, 14:47
 
-**Tags**: `#AI/ML`, `#Edge Computing`, `#Large Language Models`, `#Model Compression`, `#Local Inference`
+**Background**: electronica is a prominent trade show that serves as a major hub for the global electronics and semiconductor industry. 'Moving up the stack' in this context refers to chipmakers expanding their focus from isolated components to comprehensive integrated platforms. Physical AI describes advanced robotics systems that interact with and adapt to their real-world environments autonomously.
+
+**Tags**: `#Chip Design`, `#AI Hardware`, `#Data Centers`, `#Trade Shows`, `#Semiconductor Industry`
 
 ---
 
 <a id="item-8"></a>
-## [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) ⭐️ 7.0/10
+## [AMD Reportedly Cuts Gaming GPU Supply in China by 50%](https://www.techpowerup.com/354757/amd-reportedly-cuts-gaming-gpu-supply-in-china-by-up-to-50) ⭐️ 6.5/10
 
-A developer built a custom app for their $300 embroidery machine to avoid a subscription fee, showcasing the practical use of LLMs in automating niche hardware.
+According to reports, AMD has cut its gaming GPU supply in China by up to 50% since October. This supply reduction makes Radeon availability comparable to NVIDIA's shortage, impacting AIB partners and driving up consumer prices. The shortage is attributed to rising memory and GPU costs, and is expected to remain tight until January.
 
-hackernews · simpsoka · Nov 12, 17:02 · [Discussion](https://news.ycombinator.com/item?id=50470488)
+rss · TechPowerUp News · Nov 12, 21:14
 
-**Tags**: `#hardware`, `#AI-Tools`, `#IOT`, `#OpenSource`, `#HackerNews`
+**Background**: AIB (add-in board) partners are companies that manufacture and sell gaming GPUs using silicon from AMD or NVIDIA. The Chinese PC market is one of the largest for gaming hardware, and supply-chain shifts there can signal global trends.
+
+**Tags**: `#AMD`, `#GPU Supply`, `#China Market`, `#Hardware Pricing`, `#Tech Industry News`
 
 ---
 
 <a id="item-9"></a>
-## [Nvidia Employees Petition to Reinstate Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) ⭐️ 7.0/10
+## [Practical case study: 600 experiments on JEPA world models for robotics](https://haddyalchaer.com/jepa) ⭐️ 6.0/10
 
-Nvidia employees have launched an internal petition calling for the reinstatement of former CEO Jensen Huang following his departure. The move has triggered a polarized debate across corporate and online communities regarding his ethical lapses. This event signals a significant corporate governance crisis, highlighting the friction between a leader's operational success and their compliance failures under strict international export control laws. It raises critical questions about board accountability and risk management. Critics highlight that Huang's alleged conduct extends beyond standard personal mistakes to a systemic pattern, involving relationships with foreign entities attempting to evade ITAR restrictions. Supporters argue for his exceptional leadership capabilities and right to a second chance.
+The post details 600 empirical experiments applying Joint Embedding Predictive Architecture (JEPA) to robotics world models, focusing on goal specification and action planning. It presents a hands-on case study of how the system handles tasks with arbitrary start and goal states. It provides valuable practical insights into using JEPA for physical AI and robotics autonomy. It connects abstract representation learning architectures to tangible robotic tasks, aiding researchers and developers in applying these concepts. A notable aspect of the experiments is the strong reliance on demonstration examples, where goals are often frames from expert demonstrations. The work explores hierarchical planning and sub-goals within the context of these empirical trials.
 
-hackernews · lavendermon · Nov 13, 02:16 · [Discussion](https://news.ycombinator.com/item?id=50477231)
+hackernews · halcdev · Nov 13, 17:55 · [Discussion](https://news.ycombinator.com/item?id=50487185)
 
-**Background**: Jensen Huang recently stepped down as the Chief Executive Officer of Nvidia, a move that is still unfolding in terms of public details. ITAR is a United States federal regulation that strictly limits the export of defense-related items, and facilitating their evasion by foreign entities carries severe legal implications.
+**Background**: JEPA is a predictive architecture proposed by Yann LeCun for building world models, which predicts high-level semantic information rather than pixel-level details. It contrasts with traditional pixel-level autoencoders and aims to represent unseen states in an embedding space. In robotics, world models are crucial for planning and action prediction in physical environments.
 
-**Discussion**: The community is deeply divided; while some defend Jensen citing his past successes, others argue that his interactions with entities evading export controls reveal a reckless pattern of behavior. Many express concern over potential corporate vulnerabilities and the board's failure to address these risks.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://rohitbandaru.github.io/blog/JEPA-Deep-Dive/">Deep Dive into Yann LeCun’s JEPA | Rohit Bandaru</a></li>
+<li><a href="https://github.com/vivek-v-ingle/jepa-world-model-control">GitHub - vivek-v-ingle/ jepa -world-model-control: One-Shot Visual...</a></li>
+<li><a href="https://www.turingpost.com/p/jepa">JEPA : Joint Embedding Predictive Architecture Explained</a></li>
 
-**Tags**: `#Nvidia`, `#Corporate Governance`, `#Jensen Huang`, `#Ethics`, `#Tech Leadership`
+</ul>
+</details>
+
+**Discussion**: The community debate centers on whether the post presents novel findings or is a personal recap of known concepts like hierarchical planning. Some readers questioned the heavy reliance on expert demonstrations, while others emphasized the importance of hands-on learning in the AI era.
+
+**Tags**: `#JEPA`, `#World Models`, `#Robotics`, `#Reinforcement Learning`, `#AI Research`
 
 ---
 
 <a id="item-10"></a>
-## [Open-source project enables 16B LLMs on sub-1GB devices](https://github.com/hyperionaidev/smolmaxxing/) ⭐️ 7.0/10
+## [Caixa Insurer Breach Exposes 7.6M Customer Names and Tax IDs](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e) ⭐️ 6.0/10
 
-An open-source initiative has successfully enabled 16B parameter LLMs to run on extremely constrained devices, such as the first-generation iPad Air and Xiaomi TV boxes, which have less than 1GB of usable memory. The project achieves this through optimized inference kernels, model modifications, and shared resources on Hugging Face. This breakthrough significantly expands the accessibility of large language models to legacy and low-power hardware, proving that edge AI does not require high-end resources. It aligns with broader industry trends aimed at reducing the computational footprint of inference engines, fostering a more inclusive and distributed AI ecosystem. The project relies on custom-developed kernels and modified model weights to bypass traditional memory bottlenecks. While it achieves "decent speeds" given the hardware limits, the primary challenge in deploying such systems remains the availability of physical hardware rather than the computational logic itself, which reduces to basic operations like multiplication.
+Brazil's Caixa insurer suffered a significant data breach that exposed the names and tax IDs of all 7.6 million of its customers. The leak occurred without the release of associated financial information. This incident is a significant security event affecting millions of users, serving as a critical case study for how to assess the risk of personal data leaks. The context that Brazilian tax IDs are already widely exposed locally highlights a new paradigm in data privacy impact assessment. Critically, the breach was limited to names and CPF tax IDs, with no financial information leaked. In Brazil, CPFs are a ubiquitous identifier often required for trivial purchases, meaning the identifier itself may already be widely accessible on the dark web.
 
-hackernews · mrashad74 · Nov 12, 15:23 · [Discussion](https://news.ycombinator.com/item?id=50468888)
+hackernews · dvaplima · Nov 13, 15:52 · [Discussion](https://news.ycombinator.com/item?id=50485295)
 
-**Background**: Large language models typically require significant memory (often measured in gigabytes) to store model parameters during inference. Running them on devices with less than 1GB of RAM requires aggressive techniques like model quantization, which reduces the numerical precision of weights, and custom inference kernels that optimize CPU memory access. These modifications allow the entire computation to fit within the constrained memory limits of legacy mobile and TV hardware.
+**Background**: The CPF (Cadastro de Pessoas Físicas) is Brazil's tax and identification number for individuals. Due to widespread integration into banking, government services, and even retail transactions, the number is often treated as semi-public information, and databases containing them are a known threat on the black market.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cast.ai/blog/demystifying-quantizations-llms/">LLM Quantization Methods: GPTQ, AWQ, GGUF - Cast AI</a></li>
-<li><a href="https://www.linkedin.com/posts/martinuke0_optimizing-local-inference-a-guide-to-running-activity-7459953891997249536-cg5R">Optimizing 100B Parameter Models on Edge Hardware | LinkedIn</a></li>
+**Discussion**: Community members largely agree that the severity of this breach is mitigated by the fact that Brazilian CPFs are heavily exposed in public and commercial contexts. However, they point out that the combination of names and phone numbers remains a dangerous vector for phishing and identity verification fraud.
 
-</ul>
-</details>
-
-**Discussion**: Community members express enthusiasm for the project and share parallel achievements, such as running LLMs on retro Dreamcast hardware via Windows CE. The discussion highlights how modern inference engines are primarily bottlenecked by memory and basic compute, making the availability of hardware the new barrier to entry rather than algorithmic complexity.
-
-**Tags**: `#LLM`, `#Edge AI`, `#Hardware Optimization`, `#Open Source`, `#Inference`
+**Tags**: `#data-breach`, `#cybersecurity`, `#privacy`, `#brazil`, `#security-incident`
 
 ---
 
 <a id="item-11"></a>
-## [Hyperspectral Imaging Advances Early Soybean Disease Detection](https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/) ⭐️ 7.0/10
+## [Quilter CEO Discusses Physics-Driven AI for Automated PCB Layout](https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/) ⭐️ 6.0/10
 
-Soybean disease research highlights the use of hyperspectral imaging for early detection of plant ailments. Semiconductor advances are now enabling chip-scale spectral sensing systems to become affordable for widespread farming use. Early detection of crop diseases can significantly reduce yield losses and optimize resource use in agriculture. Making this technology affordable is crucial for democratizing precision agriculture and improving global food security. Practical application of hyperspectral sensors in field and greenhouse conditions for precision farming remains a challenge. Emerging technologies focus on CMOS-integrated, low-cost multispectral and polarization sensing.
+Sergiy Nesterenko, CEO of Quilter, detailed in an interview how his company leverages physics-driven AI to automate printed circuit board (PCB) placement and routing.
 
-rss · EE Times · Nov 12, 13:00
+The approach allows designers to generate review-ready layout candidates in hours by uploading schematics and board outlines, working natively with tools like Altium and Cadence. This technology addresses critical bottlenecks in hardware development by replacing manual, time-consuming layout processes with automated, physics-aware solutions.
 
-**Background**: Hyperspectral imaging captures detailed spectral data across many narrow bands, allowing it to detect subtle plant health changes invisible to the human eye. Machine learning algorithms process this data to identify specific disease symptoms early.
+It could significantly reduce time-to-market for electronics and minimize human error, impacting industries that rely on rapid hardware iteration such as aerospace and automotive. Quilter's AI is built on deep first-principles physics, distinguishing it from generic generative models by ensuring outputs comply with electromagnetic compatibility (EMI/EMC) constraints.
+
+The platform supports major EDA file formats including Altium, Cadence Allegro, Siemens Xpedition, and KiCAD.
+
+rss · SemiWiki · Nov 13, 17:00
+
+**Background**: PCB layout is a complex engineering task where manual placement and routing of components often take weeks, frequently causing delays in hardware projects.
+
+Electromagnetic Interference and Compatibility (EMI/EMC) refers to the challenge of ensuring electronic devices function correctly without interfering with each other or external fields.
+
+Physics-driven AI applies the laws of physics, such as electromagnetism and heat transfer, directly to machine learning algorithms to guide design decisions that purely data-driven models might miss.
+
+Nesterenko's background includes working in SpaceX's EMI/EMC group during the Falcon 9 development, bringing practical high-stakes hardware experience to the company.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.iis.fraunhofer.de/en/ff/sse/sensor-solutions/optnanostruktcmos.html">nanoSPECTRAL: Multispectral and Polarization Sensors</a></li>
-<li><a href="https://www.mdpi.com/2073-4395/12/6/1451">Hyperspectral Sensing of Plant Diseases: Principle and Methods</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8983301/">A review of hyperspectral image analysis techniques for plant ...</a></li>
+<li><a href="https://www.quilter.ai/">Quilter - Physics-Driven AI for Electronics Design</a></li>
+<li><a href="https://www.quilter.ai/about">About Quilter : Physics-Driven AI for PCB Design</a></li>
+<li><a href="https://resources.pcb.cadence.com/blog/2024-pcb-design-guidelines-for-emi">PCB Design Guidelines for EMI Reduction and EMC Optimization EMI and EMC in Electronics Design: How to Prevent Problems ... Designing for Board Level Electromagnetic Compatibility EMI and EMC Reduction Techniques in PCB Design EMC/EMI Mitigation Solutions at the Design and ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Hyperspectral Imaging`, `#Precision Agriculture`, `#Sensors`, `#Semiconductors`
+**Tags**: `#EDA`, `#AI`, `#Hardware Design`, `#PCB Layout`, `#Physics-Based AI`
 
 ---
 
 <a id="item-12"></a>
-## [Vicinity Technologies Links AI to Physical World via SDR](https://www.eetimes.com/connecting-ai-to-the-physical-world/) ⭐️ 7.0/10
+## [NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions](https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/) ⭐️ 6.0/10
 
-An article by the CEO of Vicinity Technologies argues that specialized wireless devices and SDR IP are critical for connecting AI to the physical world. The piece highlights how these components are essential for the next generation of intelligent machines. This perspective is significant because it bridges the gap between digital AI and physical reality, identifying specialized hardware as the necessary conduit for intelligent systems. It highlights a key dependency for the deployment of advanced IoT and autonomous systems. The author represents Vicinity Technologies, indicating the content serves as thought leadership or industry analysis with a specific commercial angle. The analysis focuses on the role of SDR software IP rather than just hardware, emphasizing software-defined flexibility.
+The article describes a method for tailoring radiation reliability requirements for NOR Flash memory in NewSpace missions by analyzing total ionizing dose and single-event effects on specific circuit components.
 
-rss · EE Times · Nov 12, 10:20
+rss · EE Times · Nov 13, 15:00
 
-**Background**: Software-Defined Radio (SDR) replaces traditional analog hardware components with software on embedded systems, allowing for programmable and flexible radio communication. By integrating AI with SDR, machines can dynamically sense, analyze, and respond to physical spectral conditions, which is crucial for modern IoT environments.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Software-defined_radio">Software-defined radio - Wikipedia</a></li>
-<li><a href="https://ieeexplore.ieee.org/abstract/document/11456026">Artificial Intelligence in Software Defined Radio: A Survey</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#IoT`, `#SDR`, `#Hardware`, `#Wireless`
+**Tags**: `#Embedded Systems`, `#Space Tech`, `#Hardware Design`, `#Reliability Engineering`
 
 ---
 
 <a id="item-13"></a>
-## [Keychron Announces Open-Source MKF Firmware for Magnetic Keyboards](https://www.techpowerup.com/354759/keychron-launches-open-source-magnetic-keyboard-firmware) ⭐️ 6.5/10
+## [Panmesia and Intel hook up on CXL](https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/) ⭐️ 6.0/10
 
-Keychron has announced MKF, an open-source firmware project for TMR and Hall effect gaming keyboards that outlines features like 8kHz polling, Rapid Trigger, and controller emulation. The project is currently just a landing page without any public code contributions. Open-sourcing magnetic keyboard firmware aligns with the broader open-hardware movement, allowing enthusiasts to customize features like custom response curves and PDO. It provides a community-driven foundation that could rival closed firmware in high-end gaming peripherals. Initial support is planned for wired connectivity only, but the firmware will include advanced features like PDO, which sends more keypresses based on how deeply a key is held. The project explicitly invites community contributions for features outside of competitive gaming.
+Korean AI infrastructure developer Panmesia has signed a memorandum of understanding with Intel Korea to collaborate on CXL-based server solutions.
 
-rss · TechPowerUp News · Nov 12, 21:34
+rss · Electronics Weekly · Nov 13, 06:14
 
-**Background**: Magnetic keyboards use TMR or Hall effect sensors to detect switch position, allowing for adjustable actuation and rapid trigger. Rapid Trigger resets a key when released, while SOCD (Simultaneous Opposing Cardinal Directions) helps resolve conflicts when opposing directions are pressed at once. These features are critical for competitive FPS gaming.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://unikeyboards.com/blogs/weekeebpedia/tmr-vs-hall-effect">TMR vs Hall Effect: Which Magnetic Keyboard Technology Is ...</a></li>
-<li><a href="https://gameperipherals.com/blogs/all-posts/rapid-trigger-adjustable-actuation-and-socd-explained">Rapid Trigger, Adjustable Actuation and SOCD Explained</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#hardware`, `#firmware`, `#open-source`, `#keyboards`, `#input-devices`
+**Tags**: `#CXL`, `#AI Infrastructure`, `#Hardware`, `#Intel`, `#Business Partnership`
 
 ---
 
 <a id="item-14"></a>
-## [AMD Cuts Gaming GPU Supply in China by Up to 50%](https://www.techpowerup.com/354757/amd-reportedly-cuts-gaming-gpu-supply-in-china-by-up-to-50) ⭐️ 6.5/10
+## [Intel ISA Reference Reveals Razor Lake and Coral Rapids Model IDs](https://www.techpowerup.com/354804/intels-isa-reference-confirms-razor-lake-desktop-and-laptop-model-ids) ⭐️ 5.5/10
 
-AMD has reportedly reduced gaming GPU supply in China by at least 20% to 50% since the start of the fourth quarter, leading to tighter allocations and rising prices for Radeon cards. These changes are expected to persist until January as supply chains continue to shrink. This supply contraction significantly impacts gamers and PC builders in China by increasing the difficulty of obtaining affordable Radeon graphics cards. The rising prices and limited availability reflect broader memory and GPU cost pressures across the global hardware industry. AMD is expected to keep raising the prices of GPU and GDDR6 kits, while competitors like NVIDIA are also facing supply limits on high-end models. The market is seeing graphics cards sell on average 44% above their MSRP, making new releases significantly more expensive for consumers.
+Intel's latest ISA reference document confirms specific model IDs for the upcoming Razor Lake and Coral Rapids processors. It also introduces new features like separate speculative execution control and an instruction for quantum-resistant signatures. This provides low-level developers and performance enthusiasts with concrete hardware specifications, enabling software preparation for the new architectures. It also indicates Intel's progress in implementing post-quantum security features into its hardware roadmap. Razor Lake will share the same ISA feature set as Nova Lake, including AVX10.2 and APX, while Coral Rapids adds a new instruction called VPMLDSABFLYDQ for the ML-DSA standard. Both new families will also support APIC-Timer Virtualization for virtual machines.
 
-rss · TechPowerUp News · Nov 12, 21:14
+rss · TechPowerUp News · Nov 13, 19:51
 
-**Background**: Graphics card manufacturers work with add-in board (AIB) partners to produce retail products, and fluctuations in supply directly affect these distributors. GDDR6 is a type of memory used in modern GPUs, and its cost is a major factor in the final retail price of gaming hardware.
+**Background**: The Architecture Instruction Set Extensions Programming Reference is a key document that developers use to understand and program for the specific instruction sets of upcoming Intel CPUs. Model IDs are internal hardware identifiers used by software to detect and differentiate between specific processor generations and capabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://hwbusters.com/news/amd-reportedly-plans-another-radeon-price-increase-for-november-as-gddr6-keeps-climbing/">AMD Reportedly Plans Another Radeon Price Increase for November...</a></li>
-<li><a href="https://grokipedia.com/page/Add-in_board">Add-in board — Grokipedia</a></li>
-<li><a href="https://pcbstore.com.bd/glossary/aib-partner-card">What is AIB Partner Card? Custom GPU Basics Explained</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Hardware`, `#Supply Chain`, `#AMD`, `#GPU`, `#China`
+**Tags**: `#Intel`, `#CPU Architecture`, `#ISA`, `#Hardware`, `#Razor Lake`
 
 ---
 
 <a id="item-15"></a>
-## [Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM](https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules) ⭐️ 6.5/10
+## [AI Reverse-Engineers 1994 Jeep Cherokee ECU to Pass Smog Tests](https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control) ⭐️ 5.5/10
 
-A technician used voltage glitching techniques to disable fuses on an Nvidia CMP-170HX mining card, effectively unlocking its full 80GB VRAM and shader capabilities to create a high-performance equivalent of an A100 GPU.
+An enthusiast successfully reverse-engineered and modified the electronic control unit (ECU) of a 1994 Jeep Cherokee to pass California smog tests using the assistance of Claude AI. This achievement was accomplished with minimal hardware, requiring only about $15 in components and basic electronics wiring skills. This case study highlights the versatility of large language models in solving complex, niche hardware diagnostics problems, demonstrating that AI can assist in reverse engineering legacy automotive systems. It provides an interesting example of how advanced AI tools are becoming accessible to hobbyists for practical, real-world engineering tasks. The reverse engineering targeted a 32-year-old ECU, a system that predates modern CAN bus and complex automotive networks. The intervention involved using Claude AI to interpret diagnostic data and guide physical modifications, allowing the vehicle to meet strict California environmental emission standards.
 
-rss · Tom's Hardware · Nov 12, 10:30
+rss · Tom's Hardware · Nov 13, 10:30
 
-**Tags**: `#GPU`, `#Hardware Mod`, `#AI Hardware`, `#Nvidia`, `#Cryptocurrency Mining`
+**Background**: A 1994 Jeep Cherokee utilizes an older generation of electronic control units (ECU) that manage engine performance and emissions. California smog tests are rigorous, legally mandated inspections that check a vehicle's tailpipe emissions to ensure it meets state environmental regulations. Reverse engineering an ECU is a complex process where one must understand the proprietary logic and hardware to modify the system without manufacturer support.
+
+**Tags**: `#AI`, `#Automotive`, `#Embedded Systems`, `#Reverse Engineering`, `#DIY`
 
 ---
 
 <a id="item-16"></a>
-## [Hobbyist turns $45 USB-C hub into a working Nintendo Switch 2 dock by patching its firmware](https://www.tomshardware.com/video-games/nintendo/hobbyist-turns-usd45-usb-c-hub-into-a-working-nintendo-switch-2-dock-by-patching-its-firmware-consoles-proprietary-handshake-needs-about-540-bytes-of-code-to-answer) ⭐️ 6.5/10
+## [Yandex Cloud restores 97% of data after drone strikes](https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default) ⭐️ 5.5/10
 
-A hobbyist successfully patched the firmware of a $45 USB-C hub to function as a Nintendo Switch 2 dock, enabling TV mode and HDR support by emulating the proprietary handshake.
+Yandex Cloud reported that it successfully restored access to 97% of customer data following Ukrainian drone strikes on three of its data centers. The company implemented default backup rules and opened secret availability zones to enhance future resilience. This incident highlights the physical vulnerability of cloud infrastructure to geopolitical conflict and drone warfare. It serves as a critical case study for systems engineers regarding disaster recovery and the importance of redundant data backup strategies in hostile environments. Approximately 2.84% of customer data was permanently lost because critical equipment was damaged and some customers had not enabled backup tools. Yandex Cloud subsequently enabled backup rules by default for all users to prevent similar unrecoverable losses in the future.
 
-rss · Tom's Hardware · Nov 12, 09:00
+rss · Tom's Hardware · Nov 12, 21:00
 
-**Tags**: `#Hardware Hacking`, `#Nintendo Switch`, `#Firmware`, `#Reverse Engineering`, `#USB-C`
-
----
-
-<a id="item-17"></a>
-## [Service degradation on Microsoft 365](https://status.cloud.microsoft/) ⭐️ 6.0/10
-
-A major service degradation affecting Microsoft 365 worldwide, with community members sharing real-time updates on status page issues, mitigation steps, and the impact on enterprise email and communication tools.
-
-hackernews · dkpk · Nov 12, 18:20 · [Discussion](https://news.ycombinator.com/item?id=50471731)
-
-**Tags**: `#Microsoft 365`, `#Outage`, `#IT Operations`, `#Cloud Services`, `#Reliability`
-
----
-
-<a id="item-18"></a>
-## [Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications](https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/) ⭐️ 6.0/10
-
-A design guide explaining how to implement energy harvesting in safety and security devices to eliminate the need for manual battery maintenance.
-
-rss · EE Times · Nov 12, 15:00
-
-**Tags**: `#Energy Harvesting`, `#Hardware Design`, `#IoT`, `#Embedded Systems`, `#Power Management`
-
----
-
-<a id="item-19"></a>
-## [AMD Siren Halo APU Rumored with Hybrid GDDR7 and LPDDR Memory](https://www.techpowerup.com/354765/amd-siren-halo-apu-rumored-to-pair-dedicated-gddr7-with-lpddr-memory) ⭐️ 5.5/10
-
-A leak from X suggests that AMD's next-generation 'Siren Halo' APU will feature a hybrid memory architecture pairing dedicated GDDR7 VRAM with standard LPDDR system memory. The leaker also claimed that Siren Halo will follow the Medusa Halo design and that Siren Point is essentially a Medusa refresh. This hybrid design would mark a significant departure from AMD's current unified-memory APUs, potentially boosting iGPU gaming performance by providing higher memory bandwidth while keeping separate system memory for AI and general workloads. It signals AMD's continued evolution of high-performance integrated graphics. No specific details regarding memory capacities, bus widths, or launch timing for the Siren Halo have been disclosed in this leak. The APU is rumored to be linked to AMD's Project Magnus, which is associated with Microsoft's Project Helix console hardware.
-
-rss · TechPowerUp News · Nov 13, 00:37
-
-**Background**: AMD's current high-end APUs, like the Strix Halo, use a shared pool of LPDDR5X memory for both the CPU and iGPU, a design popular for local LLMs. GDDR7 is a newer, high-bandwidth memory standard recently adopted in discrete GPUs, and AMD has already added GDDR7 driver support in preparation for its RDNA 5 GPU architecture.
+**Background**: Yandex Cloud is a major Russian cloud computing service provider. In this context, 'availability zones' are isolated infrastructure environments designed to ensure fault tolerance and protect data from hardware or software failures in other zones. 'Default backup rules' refer to automated mechanisms that store redundant copies of data without requiring manual user intervention.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/354765/amd-siren-halo-apu-rumored-to-pair-dedicated-gddr7-with-lpddr-memory">AMD "Siren Halo" APU Rumored to Pair Dedicated GDDR7 With ...</a></li>
+<li><a href="https://www.gate.com/news/detail/yandex-cloud-reports-284-data-loss-after-ukraine-drone-strikes-25587645">Yandex Cloud Reports 2.84% Data Loss After Ukraine Drone Strikes</a></li>
+<li><a href="https://yandex.cloud/en/docs/overview/concepts/geo-scope">Availability zones | Yandex Cloud - Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#APU`, `#GDDR7`, `#Hardware Rumor`, `#GPU Architecture`
-
----
-
-<a id="item-20"></a>
-## [Noctua Launches Carbice Carbon Nanotube Thermal Pad for AM5](https://www.techpowerup.com/354729/noctua-introduces-nt-cp1-carbice-carbon-nanotube-thermal-pad-for-am5) ⭐️ 5.5/10
-
-Noctua has released the NT-CP1, a premium carbon nanotube thermal pad designed for AMD AM5 and AM4 processors. Utilizing Carbice technology, the pad claims to improve heat transfer performance over hundreds to thousands of thermal cycles rather than degrading like traditional thermal pastes. This product addresses a critical reliability concern in high-performance computing by eliminating the maintenance cycle of reapplying thermal paste. It offers enthusiasts a durable, 'set-and-forget' solution that prevents performance degradation due to pump-out and delamination. The NT-CP1 uses a sturdy aluminum backbone and a phase-change polymer coating to ensure ease of installation and electrical non-conductivity on contact surfaces. Once the initial activation phase of conforming to surface microstructures is complete, it maintains stable performance for years.
-
-rss · TechPowerUp News · Nov 12, 10:25
-
-**Background**: Thermal pads are solid thermal interface materials used to bridge the gap between a processor's Integrated Heat Spreader (IHS) and a cooler. Traditional thermal pastes often suffer from 'pump-out,' where thermal cycling forces the fluid material to migrate away from the interface, increasing thermal resistance. Carbon nanotube technology is increasingly being adopted to create more stable, long-lasting thermal interfaces.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.noctua.at/en/news/noctua-introduces-nt-cp1-carbon-nanotube-thermal-pad-for-am5">Noctua introduces NT-CP1 Carbice ® carbon nanotube thermal pad ...</a></li>
-<li><a href="https://carbice.com/technology/how-it-works">How Carbice Works | Carbice</a></li>
-<li><a href="https://www.lenecold.com/resources/thermal-pad-pump-out.html">What Is TIM Pump-Out? Why Thermal Grease Fails in Cycling ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Hardware`, `#Thermal Management`, `#AMD`, `#PC Cooling`, `#Product Release`
+**Tags**: `#cloud-infrastructure`, `#geopolitics`, `#data-recovery`, `#disaster-resilience`, `#yandex`
 
 ---
