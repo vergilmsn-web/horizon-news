@@ -5,291 +5,241 @@ date: 2026-11-14
 lang: en
 ---
 
-> From 68 items, 16 important content pieces were selected
+> From 45 items, 15 important content pieces were selected
 
 ---
 
-1. [Shanghai Couple Orchestrates $7.5B Nvidia GPU Smuggling Ring](#item-1) ⭐️ 9.5/10
-2. [GlobalFoundries Breaks Ground on U.S.-Japan Initiative Semiconductor Fab](#item-2) ⭐️ 8.5/10
-3. [Malaysia and Singapore Intensify Investigations into Nvidia AI Chip Smuggling](#item-3) ⭐️ 8.5/10
-4. [NVIDIA Allegedly Funded AI Startups to Artificially Sustain GPU Scarcity](#item-4) ⭐️ 7.5/10
-5. [SemiAnalysis Tracks 1.5 GW of Smuggled Nvidia GPUs in China](#item-5) ⭐️ 7.5/10
-6. [Cell-Free Terminal Borders Challenge TUI Frameworks and Emulator Standards](#item-6) ⭐️ 7.0/10
-7. [Perplexity Decider v1.3: Training, eval, and use cases](#item-7) ⭐️ 7.0/10
-8. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](#item-8) ⭐️ 6.0/10
-9. [FM-1 Workbench](#item-9) ⭐️ 6.0/10
-10. [Found: A protein that drives ageing without unleashing inflammation](#item-10) ⭐️ 6.0/10
-11. [Developer shares insights from 600 JEPA world model robotics experiments](#item-11) ⭐️ 6.0/10
-12. [Jonathan Blow Argues AI Coding Has Not Yet Changed Fundamental Software Processes](#item-12) ⭐️ 6.0/10
-13. [Microsoft 365 Outage Enters Second Day](#item-13) ⭐️ 5.5/10
-14. [Pearl Abyss Confirms AI Use Across Development Pipeline Excluding Art](#item-14) ⭐️ 5.5/10
-15. [Microsoft Turns On Memory Integrity for More Windows 11 PCs With November Update](#item-15) ⭐️ 5.5/10
-16. [Unannounced Intel Core Ultra 7 260K CPU Spotted in Newegg Prebuilts](#item-16) ⭐️ 5.5/10
+1. [ggml 1.0.0 Released as Foundational Backend for Local AI Inference](#item-1) ⭐️ 9.0/10
+2. [US Treasury Secretary questions Nvidia's GPU sales to shell companies](#item-2) ⭐️ 8.5/10
+3. [GlobalFoundries Breaks Ground on First U.S.-Japan Semiconductor Fab in New York](#item-3) ⭐️ 7.5/10
+4. [Nvidia board reportedly approached Arm CEO Rene Haas during replacement search](#item-4) ⭐️ 7.5/10
+5. [微软云服务宕机持续逾 24 小时](#item-5) ⭐️ 7.3/10
+6. [PyPI's redesigned project pages with clearer security signals are now live](#item-6) ⭐️ 7.0/10
+7. [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](#item-7) ⭐️ 7.0/10
+8. [GDC survey: 40% use AI, 55% view it negatively](#item-8) ⭐️ 6.5/10
+9. [Intel Confirms Razor Lake and Coral Rapids CPU Model IDs](#item-9) ⭐️ 6.5/10
+10. [Gears of War E-Day uses SSD streaming to save multiple GBs of system RAM](#item-10) ⭐️ 6.5/10
+11. [Documentary reveals the history and community culture of KDE desktop environment](#item-11) ⭐️ 6.0/10
+12. [CachyOS Becomes More Beginner-Friendly With New Package Installer 2.0](#item-12) ⭐️ 5.5/10
+13. [AMD Loses Desktop CPU Share for the First Time in Months, Intel Regains Ground](#item-13) ⭐️ 5.5/10
+14. [Mechatronics student builds 3D printer made from 92% LEGO for less than $180](#item-14) ⭐️ 5.5/10
+15. [AI Helps Fix Decade-Old Video Bug in Ancient AMD Linux Drivers](#item-15) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Shanghai Couple Orchestrates $7.5B Nvidia GPU Smuggling Ring](https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant) ⭐️ 9.5/10
+## [ggml 1.0.0 Released as Foundational Backend for Local AI Inference](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) ⭐️ 9.0/10
 
-A recent report revealed that a Shanghai fund manager and his wife facilitated a massive $7.5 billion operation to smuggle NVIDIA AI GPUs. The scheme involved bypassing US export restrictions, with the wife allegedly introduced to NVIDIA CEO Jensen Huang by her husband. This discovery exposes a major vulnerability in global semiconductor export control regimes, posing a significant geopolitical risk to US AI infrastructure dominance. It undermines the effectiveness of sanctions designed to limit the proliferation of advanced computing hardware. The smuggling ring specifically targeted high-performance AI GPUs, totaling an estimated value of $7.5 billion. The operation leveraged personal connections to high-profile corporate figures to navigate complex regulatory landscapes.
+ggml released its v1.0.0 stable version, marking a significant milestone for the lightweight tensor library. This update improves performance and memory handling for efficient local AI inference. As the core engine underpinning llama.cpp and the GGUF format, a stable 1.0.0 release ensures better reliability and performance for millions of users running local LLMs. It cements ggml's position as the foundational infrastructure for the open-source local AI ecosystem. The update enables efficient local inference with improved memory handling, allowing users to cache less-frequently used model experts in host memory rather than failing to load. It continues to deliver incremental performance boosts of 5-10% on existing hardware with each upgrade.
 
-rss · Tom's Hardware · Nov 13, 11:00
+hackernews · cobychapple · Nov 14, 02:28 · [Discussion](https://news.ycombinator.com/item?id=50493062)
 
-**Background**: NVIDIA AI GPUs are critical components in the development of large language models and advanced artificial intelligence systems. In response to national security concerns, the United States implemented strict export controls to prevent these advanced chips from being diverted to certain countries, such as China. Smuggling these components allows entities to build powerful AI capabilities despite government restrictions.
+**Background**: ggml is a portable C/C++ tensor library designed specifically for machine learning inference with minimal dependencies. It serves as the computational backend for llama.cpp, a popular open-source tool that allows running large language models on consumer hardware.
 
-**Tags**: `#NVIDIA`, `#AI Hardware`, `#Export Controls`, `#Cybersecurity`, `#Geopolitics`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/ggml-org/ggml">GitHub - ggml -org/ ggml: Tensor library for machine learning</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">GitHub - ggml-org/ llama . cpp : LLM inference in C/C++ · GitHub</a></li>
+<li><a href="https://deepwiki.com/ggml-org/llama.cpp/4-ggml-tensor-library">GGML Tensor Library | ggml -org/llama.cpp | DeepWiki</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is highly positive, with users praising the continuous performance improvements on existing hardware over time. Specific insights mention the ability to run MoE models exceeding GPU limits by caching experts in host memory, and the library's ability to make even basic AMD Vulkan cards usable.
+
+**Tags**: `#AI`, `#Machine Learning`, `#Local Inference`, `#System Software`, `#Open Source`
 
 ---
 
 <a id="item-2"></a>
-## [GlobalFoundries Breaks Ground on U.S.-Japan Initiative Semiconductor Fab](https://www.techpowerup.com/354803/globalfoundries-breaks-ground-on-first-new-semiconductor-fab-under-landmark-u-s-japan-initiative) ⭐️ 8.5/10
+## [US Treasury Secretary questions Nvidia's GPU sales to shell companies](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that) ⭐️ 8.5/10
 
-GlobalFoundries has broken ground on a new 300 mm semiconductor manufacturing facility in Malta, New York, as the first project under a landmark U.S.-Japan initiative. The groundbreaking marks the start of construction for a joint venture where Japan provides the investment and GF contributes technology and operational expertise. This development is highly significant as it secures up to $21 billion in funding to expand trusted domestic semiconductor capacity, directly supporting growing demand in automotive, industrial, and connected infrastructure markets. It represents a strategic shift in global supply chains by fostering a new U.S.-Japan economic and technological partnership model. An initial investment of approximately $10 billion, backed by $570 million in incentives from New York State, is accelerating the construction of the first fab, which is expected to come online in 2029. An additional $10 billion is planned for a second fab as the project advances.
+U.S. Treasury Secretary Scott Bessent has publicly questioned whether Nvidia's management knowingly sold restricted AI GPUs to shell companies. This signal of direct corporate accountability could reshape export control enforcement and significantly impact the global AI chip supply chain. Bessent emphasized that anyone at the company must be held accountable for compliance failures, though he did not specifically single out CEO Jensen Huang by name.
 
-rss · TechPowerUp News · Nov 13, 19:20
+rss · Tom's Hardware · Nov 14, 15:35
 
-**Background**: GlobalFoundries is a leading pure-play foundry and technology provider, while a foundry refers to a specialized company that manufactures semiconductors for other firms without designing them itself. The 'trusted' capacity mentioned in the news refers to semiconductor manufacturing from reliable partners, which is crucial for nations to ensure the security of their defense, automotive, and infrastructure supply chains against geopolitical risks.
+**Background**: U.S. export controls restrict the sale of advanced AI chips, such as the H100 and H200, to China.
 
-**Tags**: `#Semiconductors`, `#Manufacturing`, `#Geopolitics`, `#GlobalFoundries`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1.5 million Nvidia AI GPUs ... | Tom's Hardware</a></li>
+<li><a href="https://wccftech.com/after-nvidia-pushes-out-jensen-huang-alice-huangs-spy-credentials-suddenly-start-to-crack-leading-to-pronouncements-of-a-coup/">After NVIDIA Pushes Out Jensen Huang, Alice Huang's Spy...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Nvidia`, `#Export Controls`, `#AI Hardware`, `#Regulation`, `#Geopolitics`
 
 ---
 
 <a id="item-3"></a>
-## [Malaysia and Singapore Intensify Investigations into Nvidia AI Chip Smuggling](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus) ⭐️ 8.5/10
+## [GlobalFoundries Breaks Ground on First U.S.-Japan Semiconductor Fab in New York](https://www.techpowerup.com/354803/globalfoundries-breaks-ground-on-first-new-semiconductor-fab-under-landmark-u-s-japan-initiative) ⭐️ 7.5/10
 
-Malaysia and Singapore have intensified their investigations into the circumvention of U.S. export controls on advanced AI hardware. Singapore has officially charged an executive for the suspicious purchase of 917 AI servers, while Malaysia probes the potential re-export of Nvidia GPUs to Chinese entities. These enforcement actions significantly raise the stakes for AI chip supply chain integrity and signal a much stricter global enforcement of U.S. export controls. The involvement of a firm linked to the ongoing Jensen Huang controversy could lead to major regulatory shifts in how Southeast Asia manages cross-border data center operations. The Singapore investigation specifically targets a $390 million fraud involving unauthorized server exports, while Malaysian authorities note that although their domestic law does not classify Nvidia chips as 'controlled goods,' the country is cooperating with the U.S. to monitor sensitive trade.
+GlobalFoundries has broken ground on a new 300mm semiconductor fab at its Malta, New York site under a landmark U.S.-Japan partnership. This initiative is backed by up to $21 billion in funding, with Japan providing the investment and GlobalFoundries operating the facility to expand trusted U.S. manufacturing capacity. This $21 billion investment marks a major shift in the global semiconductor supply chain, diversifying production away from Asia and bolstering North American manufacturing. It addresses critical demand for automotive and industrial chips, securing a stable supply of essential technologies for infrastructure and advanced vehicle applications. An initial $10 billion investment, bolstered by $570 million in incentives from New York State, will accelerate the construction of the first fab, which is scheduled to come online in 2029. A second fab, supported by an additional $10 billion, will follow as the project expands.
 
-rss · Tom's Hardware · Nov 13, 16:15
+rss · TechPowerUp News · Nov 13, 19:20
 
-**Background**: The U.S. government strictly restricts the export of advanced AI chips, such as Nvidia's H100 and H200, to China to prevent the militarization of artificial intelligence. Because direct shipments are blocked, Chinese entities have increasingly relied on Southeast Asian countries like Malaysia and Singapore to host data centers that indirectly provide remote computing access to Chinese researchers and firms.
+**Background**: GlobalFoundries is a leading contract manufacturer of semiconductor chips that produces chips for various markets, including automotive and industrial sectors. A 300mm fab is a cutting-edge facility designed to produce large-diameter wafers, which are the physical base for manufacturing advanced microchips, allowing for higher density and lower cost per chip.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/singapore-court-grants-bail-to-trio-accused-in-usd390-million-nvidia-chip-smuggling-case">Singapore court grants bail to trio accused in $390... | Tom's Hardware</a></li>
-<li><a href="https://www.datacenterdynamics.com/en/news/malaysia-investigating-chinese-companys-potential-usage-of-nvidia-chips/">Malaysia investigating Chinese company’s potential usage of Nvidia ...</a></li>
-<li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher...</a></li>
+<li><a href="https://www.nist.gov/chips/globalfoundries-new-york-malta">GlobalFoundries ( New York ) | NIST</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#export controls`, `#Nvidia`, `#AI infrastructure`, `#geopolitics`, `#supply chain`
+**Tags**: `#Semiconductors`, `#GlobalFoundries`, `#Supply Chain`, `#Geopolitics`, `#Manufacturing`
 
 ---
 
 <a id="item-4"></a>
-## [NVIDIA Allegedly Funded AI Startups to Artificially Sustain GPU Scarcity](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) ⭐️ 7.5/10
+## [Nvidia board reportedly approached Arm CEO Rene Haas during replacement search](https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void) ⭐️ 7.5/10
 
-A Wall Street Journal report alleges that former NVIDIA CEO Jensen Huang and his leadership team engineered GPU shortages by investing in AI startups that purchased their chips. This alleged circular financing strategy undermines trust in the AI hardware supply chain and raises serious questions about corporate governance and market integrity within the tech industry. The report details a conflict where CFO Colette Kress pushed to reduce circular financing, prompting Huang to criticize her stance while he advocated for further investment in small cloud providers to absorb TSMC's oversupplied silicon.
+Nvidia's board reportedly approached Arm CEO Rene Haas as a potential candidate to replace Jensen Huang following the company's urgent search for new leadership.
 
-rss · TechPowerUp News · Nov 13, 22:31 · [Discussion](https://news.ycombinator.com/item?id=50493251)
+rss · Tom's Hardware · Nov 13, 21:00
 
-**Background**: TSMC is the world's largest independent semiconductor foundry, acting as the primary manufacturing partner for advanced AI chips.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Foundry_model">Foundry model - Wikipedia</a></li>
-<li><a href="https://www.inboundlogistics.com/articles/circular-supply-chain-definition-components-and-benefits/">What Is a Circular Supply Chain? Benefits, Definition & Model</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community discussions on Hacker News highlight skepticism regarding the neutrality of the report, with some users arguing that circular financing is a known industry practice rather than a new revelation.
-
-**Tags**: `#NVIDIA`, `#AI-Hardware`, `#Market-Strategy`, `#Supply-Chain`, `#Corporate-Governance`
+**Tags**: `#Nvidia`, `#Arm`, `#CEO Succession`, `#Tech Industry`, `#Corporate News`
 
 ---
 
 <a id="item-5"></a>
-## [SemiAnalysis Tracks 1.5 GW of Smuggled Nvidia GPUs in China](https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls) ⭐️ 7.5/10
+## [微软云服务宕机持续逾 24 小时](https://www.solidot.org/story?sid=85886) ⭐️ 7.3/10
 
-SemiAnalysis reports that it has tracked approximately 1.5 gigawatts of banned Nvidia AI accelerators entering China despite export controls. Some analysts have linked this smuggling ring to claims that CEO Jensen Huang is departing the company. This massive evasion of US export controls represents a significant security risk for the US government and could undermine Nvidia's compliance framework. The narrative linking the hardware smuggling to a CEO departure creates serious market volatility and confusion among investors. The report specifies that the smuggled chips amount to 1.5 gigawatts of AI computing power, indicating a multi-million unit transfer of banned hardware. The connection between this smuggling and Jensen Huang's leadership status is based on unverified analyst claims and market rumors.
+A global Microsoft Cloud outage lasting over 24 hours disrupted services in dozens of countries, affecting government and enterprise operations and highlighting the risks of dependence on major tech companies.
 
-rss · Tom's Hardware · Nov 13, 11:00
+rss · Solidot · Nov 14, 13:55
 
-**Background**: Nvidia is a dominant provider of high-end AI accelerators, such as the H100 and H200, which are critical for large-scale machine learning. Following the AI boom, the US government implemented strict export controls to prevent advanced computing hardware from reaching certain regions, including China, leading to global supply chain complexities.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1 . 5 million Nvidia AI GPUs could be the...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Hardware`, `#Export Controls`, `#Nvidia`, `#Geopolitics`, `#Supply Chain`
+**Tags**: `#cloud-infrastructure`, `#microsoft`, `#reliability`, `#outage`, `#cybersecurity`
 
 ---
 
 <a id="item-6"></a>
-## [Cell-Free Terminal Borders Challenge TUI Frameworks and Emulator Standards](https://www.joshka.net/cell-borders/) ⭐️ 7.0/10
+## [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
 
-A new technical approach allows terminal borders to be drawn without occupying text cells, sparking a debate on terminal emulator standards. This innovation aims to solve a specific limitation in TUI development by altering how border elements are rendered in the grid. This development is significant because it could lead to more flexible and visually dense terminal user interfaces, although it raises concerns about compatibility and fragmentation for frameworks like Ratatui. Wider adoption would require changes to terminal emulator protocols, impacting how developers design and maintain cross-platform TUI applications. The core issue is that most terminals currently have special handling for box drawing characters, making consistent cross-emulator support difficult. Critics argue that relying on this new method could fragment user interfaces, leading some application authors to prefer disabling it for consistency.
+PyPI has launched redesigned project pages that emphasize security through clearer provenance signals, sparking community discussion about the trade-offs between centralized trust, keyless signing standards, and supply chain security.
 
-hackernews · vinhnx · Nov 13, 23:06 · [Discussion](https://news.ycombinator.com/item?id=50491423)
+hackernews · rbanffy · Nov 14, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50497892)
 
-**Background**: Terminal User Interfaces (TUIs) traditionally operate within a grid system where each character occupies a fixed cell. Frameworks like Ratatui, a popular Rust library for building TUIs, manage widgets and layouts based on this grid constraint. The new 'cell-free' border concept attempts to bypass this limitation by allowing borders to be drawn in a way that does not consume dedicated grid spaces, potentially enabling more complex visual designs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://ratatui.rs/">Ratatui | Ratatui</a></li>
-<li><a href="https://terminfo.dev/framework/ratatui">Ratatui — TUI Framework Terminal Compatibility | Terminfo.dev</a></li>
-<li><a href="https://github.com/ratatui/awesome-ratatui">GitHub - ratatui /awesome- ratatui : A curated list of TUI apps and...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community is divided, with some praising the innovation and others preferring alternative solutions like overstrike mode (DECSET 20) for greater compatibility. There are concerns that terminals are evolving into lightweight browsers, losing their traditional charm, though some appreciate the freedom this provides.
-
-**Tags**: `#Terminal`, `#TUI`, `#Ratatui`, `#UI-Design`, `#CLI`
+**Tags**: `#supply-chain-security`, `#python`, `#sigstore`, `#pyPI`, `#devops`
 
 ---
 
 <a id="item-7"></a>
-## [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider) ⭐️ 7.0/10
+## [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) ⭐️ 7.0/10
 
-Perplexity releases Decider v1.3, a specialized model for fast decision-making, prompting debate on HN about its benchmark performance relative to previous versions and its fit within the broader LLM landscape.
+A controversial discussion about the normalization of AI recorders in professional meetings and the ethical/legal implications for personal privacy.
 
-hackernews · gmays · Nov 13, 19:24 · [Discussion](https://news.ycombinator.com/item?id=50488464)
+hackernews · gslin · Nov 14, 12:45 · [Discussion](https://news.ycombinator.com/item?id=50496602)
 
-**Tags**: `#PerplexityAI`, `#LLM`, `#DecisionModels`, `#Benchmarks`, `#HackerNews`
+**Tags**: `#Privacy`, `#AI Ethics`, `#Surveillance`, `#Legal Rights`
 
 ---
 
 <a id="item-8"></a>
-## [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) ⭐️ 6.0/10
+## [GDC survey: 40% use AI, 55% view it negatively](https://www.techpowerup.com/354820/video-game-workers-and-ai-40-use-it-but-55-think-its-bad-news) ⭐️ 6.5/10
 
-A live demonstration of a GPU-accelerated SDR system that decodes and transcribes the entire VHF airband in real-time, capturing live communications related to a regional ground stop.
+The latest GDC State of the Industry survey revealed that 40% of game workers use generative AI, but 55% believe it is harmful to the industry. The survey collected responses from over 2,600 professionals across the video game sector. The data highlights a critical gap between daily tool usage and industry sentiment, which will likely influence future studio policies and the adoption of AI in game development pipelines. It signals a resistance trend where many workers reject AI even if their companies allow it. AI usage varies by role and game type, with mobile studio workers reporting a 70% usage rate while older indie studios reported only 29%. Notably, 23% of respondents reported that AI tools were explicitly banned at their studios.
 
-hackernews · mmaunder · Nov 13, 22:04 · [Discussion](https://news.ycombinator.com/item?id=50490593)
+rss · TechPowerUp News · Nov 14, 04:48
 
-**Tags**: `#SDR`, `#Signal Processing`, `#CUDA`, `#Aviation`, `#Real-time Systems`
+**Background**: The Game Developers Conference (GDC) holds annual 'State of the Industry' surveys to gauge the health of the video game market and workforce. Generative AI tools are increasingly used in asset creation, but have sparked intense debate over originality and labor practices.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.gamedeveloper.com/business/gdc-2025-state-of-the-game-industry-devs-weigh-in-on-layoffs-ai-and-more">GDC 2025 State of the Game Industry : Devs weigh in on layoffs, AI...</a></li>
+<li><a href="https://windowsforum.com/windows-news.4/gdc-2026-ai-usage-rises-as-industry-sentiment-turns-negative.399633/">GDC 2026: AI usage rises as industry sentiment turns negative</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Generative AI`, `#Game Industry`, `#Survey`, `#Workforce`
 
 ---
 
 <a id="item-9"></a>
-## [FM-1 Workbench](https://open.m-vave.com/fm1-workbench) ⭐️ 6.0/10
+## [Intel Confirms Razor Lake and Coral Rapids CPU Model IDs](https://www.techpowerup.com/354804/intels-isa-reference-confirms-razor-lake-desktop-and-laptop-model-ids) ⭐️ 6.5/10
 
-The FM-1 Workbench is a popular modular synthesizer controller with a thriving ecosystem of open-source firmware and community-driven creative applications.
+Intel's latest ISA Programming Reference (Revision 063) officially confirms the model IDs for upcoming Razor Lake client chips and Coral Rapids Xeon processors. This update details specific hardware codes and introduces new instruction set features for these architectures. This confirmation is crucial for software developers and system integrators as it allows them to prepare optimized compilers, operating systems, and applications for the next generation of Intel processors. It specifically provides the model identifiers needed for CPU feature detection in low-level code. Razor Lake is assigned family 18 model values, while Coral Rapids Xeon uses family 13 codes, and the new features include separate speculative memory control (SSBD_PSFD_U_S) and a quantum-resistant instruction for ML-DSA. The document also implies that Razor Lake will carry over AVX10.2 and APX support from Nova Lake.
 
-hackernews · simonebrunozzi · Nov 13, 19:14 · [Discussion](https://news.ycombinator.com/item?id=50488325)
+rss · TechPowerUp News · Nov 13, 19:51
 
-**Tags**: `#Hardware`, `#Generative Art`, `#Synthesizer`, `#Open Source`, `#Creative Coding`
+**Background**: The Architecture Instruction Set Extensions (ISA) Programming Reference is a critical document published by Intel that details the capabilities of its upcoming and recent processors. Model IDs are unique numerical codes used by the CPUID instruction to identify specific processor stepping and revisions, which is essential for software to determine which microarchitectural features are supported.
+
+**Tags**: `#Intel`, `#CPU Architecture`, `#ISA`, `#Hardware`, `#Benchmarking`
 
 ---
 
 <a id="item-10"></a>
-## [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 6.0/10
+## [Gears of War E-Day uses SSD streaming to save multiple GBs of system RAM](https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage) ⭐️ 6.5/10
 
-A new study identifies the protein Granzyme K as a driver of tissue aging that is distinct from immune aging and systemic inflammation.
+Gears of War: E-Day utilizes storage-optimized technology to stream assets directly from high-speed SSDs, effectively reducing system RAM usage. This approach allows the game to save several gigabytes of system memory by bypassing the need to cache all data in RAM. This technology significantly lowers the hardware barrier for playing graphically intensive games, making them more accessible on systems with limited RAM. It highlights a broader industry trend where developers are increasingly exploiting high-speed NVMe SSDs to optimize memory efficiency. According to the analysis, achieving up to 3.7 GB/s of SSD streaming speed is critical for the game to successfully save several gigabytes of system RAM. The effectiveness of this technique relies on the drive being fast enough to stream assets directly to the GPU without causing frame drops.
 
-hackernews · gumby · Nov 13, 19:25 · [Discussion](https://news.ycombinator.com/item?id=50488470)
+rss · Tom's Hardware · Nov 14, 15:30
 
-**Tags**: `#Biology`, `#Aging`, `#Immunology`, `#Research`, `#Nature`
+**Background**: Traditionally, games load textures and models into system RAM before the GPU can use them, which requires large amounts of memory. Modern storage-optimized engines like DirectStorage allow data to be streamed directly from the SSD to the GPU, bypassing the CPU and reducing the RAM footprint.
+
+**Tags**: `#PC Gaming`, `#Storage Technology`, `#System RAM`, `#Hardware Optimization`, `#Gears of War`
 
 ---
 
 <a id="item-11"></a>
-## [Developer shares insights from 600 JEPA world model robotics experiments](https://haddyalchaer.com/jepa) ⭐️ 6.0/10
+## [Documentary reveals the history and community culture of KDE desktop environment](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) ⭐️ 6.0/10
 
-A developer detailed their experience running 600 experiments with JEPA world models for robotic manipulation, emphasizing the practical importance of goal selection and the creation of interactive demos.
-This post serves as a hands-on case study documenting the iterative process of applying this advanced architecture to physical robotics tasks. This report provides valuable practical insights into the challenges of applying latent-space world models to real-world robotics, which is a key trend in modern AI planning.
-It helps the community understand the specific pitfalls and necessary engineering steps, such as hierarchical planning and sub-goal generation, when moving from simulation to physical manipulation. The technical findings suggest that the benefits of the JEPA architecture are highly dependent on how goals are selected and presented in the learning environment.
-Critics noted that concepts like action chunking and hierarchical planning are well-established, indicating the post is more of a personal learning transcript than a novel research breakthrough.
+A new documentary video has been released that chronicles the history of the KDE desktop environment. It specifically highlights the development challenges, community culture, and the significant early split with the GNOME project. This documentary offers valuable technical context on C++ desktop environments and open-source community dynamics, which is essential for understanding the evolution of Unix-like systems. It provides insight into how complex software ecosystems are built and maintained by diverse global communities. The film covers the distinct eras of KDE 3, 4, and 5, including specific software components like Amarok and Konqueror that defined the user experience. It also explores the licensing conflicts that caused the initial separation from GNOME.
 
-hackernews · halcdev · Nov 13, 17:55 · [Discussion](https://news.ycombinator.com/item?id=50487185)
+hackernews · mrkn1 · Nov 14, 13:43 · [Discussion](https://news.ycombinator.com/item?id=50496976)
 
-**Background**: JEPA (Joint Embedding Predictive Architecture) is a world model that learns representations in a latent space, allowing agents to predict future states without reconstructing pixels, which is highly efficient for robotic planning. Model Predictive Control (MPC) is a related field where a system model is used to optimize actions over a planning horizon, which this work parallels by using a neural network as the system model.
+**Background**: KDE is a leading open-source desktop environment primarily written in C++ and built upon the Qt framework, serving as a major alternative to GNOME on Linux systems. The early history of Linux desktops saw a significant split where GNOME developers moved away from the KDE project due to licensing disagreements, resulting in two dominant desktop ecosystems.
 
-**Discussion**: Community discussion focused on the novelty of the work, with some comparing it directly to Model Predictive Control and others criticizing the reliance on expert demonstrations for goal setting. A significant portion of the feedback addressed the subjective nature of the findings and suggested that the insights were not groundbreaking but rather a documentation of a personal learning journey.
+**Discussion**: Community members, including long-time users and contributors, express deep appreciation for the documentary and the resilience of the KDE community. They reflect on the brutal transition to KDE 4, the early appeal of integrated tools like K3b, and the surprising lack of communication between GNOME and KDE founders during the initial split.
 
-**Tags**: `#JEPA`, `#World Models`, `#Robotics`, `#Machine Learning`, `#Planning`
+**Tags**: `#KDE`, `#Desktop Environments`, `#Open Source`, `#Qt`, `#Linux`
 
 ---
 
 <a id="item-12"></a>
-## [Jonathan Blow Argues AI Coding Has Not Yet Changed Fundamental Software Processes](https://www.youtube.com/watch?v=IRK8h67ol7Q) ⭐️ 6.0/10
+## [CachyOS Becomes More Beginner-Friendly With New Package Installer 2.0](https://www.techpowerup.com/354826/cachyos-becomes-more-beginner-friendly-with-new-package-installer-2-0) ⭐️ 5.5/10
 
-Indie game developer Jonathan Blow published a video arguing that despite advancements in AI coding tools, fundamental software development processes and cultural habits have remained largely stagnant. The video sparked a high-engagement debate on Hacker News regarding whether tools have changed without organizational methodologies catching up. This discussion is significant for the software engineering industry because it highlights a critical gap between technological capability and organizational adoption. It prompts developers and tech leaders to examine if they are truly leveraging AI to improve workflows or just using it to produce more of the same, faster. Blow’s core argument is that AI is an optimization tool that accelerates existing workflows without inherently changing the underlying cultural or organizational structure of software engineering companies. The community's anecdotal examples, such as the rise in high-quality indie games and new AWS tools, suggest that individual developers and small teams are already experiencing drastic changes in their personalized software development.
+CachyOS released Package Installer 2.0, a modern GUI tool replacing Octopi that supports AUR, Flatpak, and themes to make the Arch-based distribution more beginner-friendly.
 
-hackernews · helloplanets · Nov 13, 15:08 · [Discussion](https://news.ycombinator.com/item?id=50484658)
+rss · TechPowerUp News · Nov 14, 05:20
 
-**Background**: Jonathan Blow is a prominent independent game developer, best known for his work on Braid and The Witness, whose critique carries significant weight in the software community. AI coding assistants have seen rapid evolution in the last two years, transitioning from unreliable tools to capable partners for solving complex programming tasks. The concept of 'software engineering culture' refers to the established organizational habits, methodologies, and optimization goals that dictate how development teams function.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Jonathan_Blow">Jonathan Blow - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2605.23135v1">The Impact of AI Coding Assistants on Software Engineering: A ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The Hacker News community presents a nuanced debate, with some agreeing that AI merely accelerates existing goals without changing corporate culture, while others point to the rapidly changing landscape of AI capabilities over the past six months. A counter-argument from a game developer highlights that the industry has actually advanced significantly, citing the rise of complex, high-quality indie games, challenging Blow's view of stagnation. Further evidence of AI's impact is seen in developers building highly personalized software to replace subscription services.
-
-**Tags**: `#software-engineering`, `#ai`, `#discussion`, `#industry-criticism`
+**Tags**: `#Linux`, `#CachyOS`, `#Desktop`, `#Software`, `#GUI`
 
 ---
 
 <a id="item-13"></a>
-## [Microsoft 365 Outage Enters Second Day](https://www.techpowerup.com/354799/microsoft-365-outage-enters-second-day-as-outlook-and-teams-struggle-to-recover) ⭐️ 5.5/10
+## [AMD Loses Desktop CPU Share for the First Time in Months, Intel Regains Ground](https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground) ⭐️ 5.5/10
 
-The Microsoft 365 outage affecting Outlook, Teams, and Copilot has entered its second day, beginning on Thursday, November 12. Microsoft attributed the issue to unexpectedly unavailable servers and has ruled out cyberattacks. This prolonged outage disrupts critical enterprise operations by impacting email, communications, and AI assistants, affecting a massive global user base. It highlights the fragility of critical cloud dependencies and the ongoing risks of widespread service outages. The outage caused around 130,000 reports at its peak across 74 countries. Although core Teams calls and chats largely kept working, Copilot's access to mail and files was impaired, and AI connectors for OpenAI and Anthropic were also broken.
+AMD's desktop CPU market share declined to 29.9% in Q3 2026, while Intel recovered ground to 70.1%, likely due to supply chain adjustments from weak laptop demand.
 
-rss · TechPowerUp News · Nov 13, 18:37
+rss · TechPowerUp News · Nov 14, 01:16
 
-**Background**: Microsoft 365 is a suite of productivity and collaboration applications, including Outlook, Word, and Teams, widely used by enterprises and individuals globally. In July 2024, the CrowdStrike software update incident caused a massive global outage, serving as a notable precedent for enterprise cloud failures.
-
-**Tags**: `#Microsoft 365`, `#Outage`, `#Enterprise IT`, `#Cloud Services`, `#Incident Response`
+**Tags**: `#CPU Market Share`, `#Intel`, `#AMD`, `#Hardware Industry`
 
 ---
 
 <a id="item-14"></a>
-## [Pearl Abyss Confirms AI Use Across Development Pipeline Excluding Art](https://www.techpowerup.com/354798/crimson-desert-developer-goes-all-in-on-ai-for-game-development-but-not-art) ⭐️ 5.5/10
+## [Mechatronics student builds 3D printer made from 92% LEGO for less than $180](https://www.tomshardware.com/3d-printing/mechatronics-student-builds-3d-printer-made-from-92-percent-lego-for-less-than-usd180-lego-leadscrews-and-print-bed-can-print-a-decent-benchy-in-1-25-hours) ⭐️ 5.5/10
 
-Pearl Abyss officially stated in an earnings report that it integrates generative AI for development productivity across the entire pipeline, explicitly excluding art assets to avoid prior backlash. This policy shift provides a significant data point for the gaming industry, showing how major studios can leverage AI for efficiency while maintaining trust by keeping creative assets human-made. The studio disclosed that AI is used for automating repetitive tasks, supporting content creation, and optimizing tests, following the removal of AI-generated placeholders from Crimson Desert.
+A mechatronics student constructed a functional, open-source 3D printer using 92% LEGO components for under $180, capable of printing a decent benchy in 1.25 hours.
 
-rss · TechPowerUp News · Nov 13, 18:22
+rss · Tom's Hardware · Nov 14, 11:30
 
-**Background**: Crimson Desert is a 2026 action-adventure game by Pearl Abyss that initially faced consumer criticism for including undisclosed AI-generated art. Generative AI is increasingly being adopted in game development for various non-creative or backend tasks to improve workflow efficiency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Crimson_Desert">Crimson Desert - Wikipedia</a></li>
-<li><a href="https://dl.acm.org/doi/full/10.1145/3772318.3791206">Generative AI in Game Development: A Qualitative Research ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Game Development`, `#Generative AI`, `#Pearl Abyss`, `#Industry News`, `#AI Ethics`
+**Tags**: `#3D Printing`, `#Engineering`, `#Maker`, `#Low-Cost`, `#Education`
 
 ---
 
 <a id="item-15"></a>
-## [Microsoft Turns On Memory Integrity for More Windows 11 PCs With November Update](https://www.techpowerup.com/354789/microsoft-turns-on-memory-integrity-for-more-windows-11-pcs-with-november-update) ⭐️ 5.5/10
+## [AI Helps Fix Decade-Old Video Bug in Ancient AMD Linux Drivers](https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug) ⭐️ 5.5/10
 
-Microsoft's November Patch Tuesday update will automatically enable Memory Integrity (HVCI) on eligible Windows 11 devices, applying security changes originally previewed in October without affecting manually disabled settings.
+A new kernel contributor utilized AI to develop a patch that fixes corrupted video playback issues on Linux for AMD Radeon HD 2000 and 3000 series GPUs. This update highlights the practical application of AI in solving complex, legacy driver bugs that have persisted for nearly 20 years, potentially benefiting a small but dedicated user base with old hardware. The specific technical issue addressed is a UVD (Unified Video Decoder) bug that caused video corruption on these ancient graphics cards within the Linux kernel ecosystem.
 
-rss · TechPowerUp News · Nov 13, 16:44
+rss · Tom's Hardware · Nov 14, 11:00
 
-**Tags**: `#Windows 11`, `#Security Update`, `#HVCI`, `#Memory Integrity`, `#Patch Tuesday`
+**Background**: The AMD Radeon HD 2000 and 3000 series represent some of the oldest AMD graphics cards still supported in various Linux environments, dating back to the mid-2000s. The UVD hardware acceleration component is responsible for decoding video streams, and bugs in this area often cause visible artifacts or total failure of video playback. Linux kernel drivers for such legacy hardware are often maintained by the community rather than the original vendor, making complex debugging challenging.
 
----
-
-<a id="item-16"></a>
-## [Unannounced Intel Core Ultra 7 260K CPU Spotted in Newegg Prebuilts](https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip) ⭐️ 5.5/10
-
-The unannounced Intel Core Ultra 7 260K processor has appeared in two prebuilt ABS gaming desktops sold on Newegg. Intel has not yet provided official specifications or a formal launch announcement for this chip. This discovery confirms the existence of a new Arrow Lake desktop CPU that will likely be sold as a retailer-exclusive product. It offers early insight into Intel's strategy for the Arrow Lake generation before its official debut. Known details are limited to information from the Newegg product listings, as no official data is currently available. This chip appears to be part of the exclusive lineup for ABS gaming systems on the platform.
-
-rss · Tom's Hardware · Nov 13, 16:30
-
-**Background**: Intel's Arrow Lake-S Core Ultra 200 desktop CPUs were reported to officially debut in October. The 260K model is a new addition to this family, which is distinct from the previously confirmed SKUs. Arrow Lake processors use a new architecture and socket, and are known for discontinuing the hyperthreading feature found in previous high-end models.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://videocardz.com/newz/intel-core-ultra-7-260k-launches-as-newegg-exclusive-cpu-now-available-in-prebuilt-gaming-pcs">Intel Core Ultra 7 260K launches as Newegg-exclusive CPU, now ...</a></li>
-<li><a href="https://wccftech.com/intel-arrow-lake-core-ultra-200-desktop-cpus-debut-10th-october/">Intel Arrow Lake -S " Core Ultra 200 " Desktop CPUs To Debut on 10th...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Intel`, `#CPUs`, `#Arrow Lake`, `#Prebuilt PCs`, `#Leak`
+**Tags**: `#Linux`, `#AMD`, `#GPU Drivers`, `#AI in Development`, `#Kernels`
 
 ---
