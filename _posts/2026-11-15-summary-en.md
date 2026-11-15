@@ -5,224 +5,228 @@ date: 2026-11-15
 lang: en
 ---
 
-> From 45 items, 12 important content pieces were selected
+> From 50 items, 14 important content pieces were selected
 
 ---
 
-1. [SpaceX successfully catches Starship vehicle during Flight 15 test](#item-1) ⭐️ 9.0/10
-2. [Lovable apps expose sensitive passport data and private messages](#item-2) ⭐️ 8.0/10
-3. [PyPI Launches Redesign with Clearer Security Provenance Signals](#item-3) ⭐️ 8.0/10
-4. [U.S. Treasury Secretary questions Nvidia's sales of AI GPUs to shell companies](#item-4) ⭐️ 7.5/10
-5. [We tested the RAM-saving storage tech in Gears of War: E-Day](#item-5) ⭐️ 7.5/10
-6. [Nvidia deliberately kept GPU prices high through circular financing deals](#item-6) ⭐️ 7.0/10
-7. [Show HN: DeepSeek V3 in ~200 lines of pure Jax](#item-7) ⭐️ 7.0/10
-8. [Advancing science and engineering with Antigravity's /teamwork](#item-8) ⭐️ 7.0/10
-9. [AMD Launches EPYC Embedded 9006 with Zen 6 Venice](#item-9) ⭐️ 6.5/10
-10. [Microsoft Cloud Outage Lasts Over 24 Hours, Disrupting Global Services](#item-10) ⭐️ 6.3/10
-11. [GDC Survey: 40% of Game Workers Use AI, Yet 55% View It Negatively](#item-11) ⭐️ 5.5/10
-12. [Malaysia to Use Data Center Power Metrics to Detect AI GPU Smuggling](#item-12) ⭐️ 5.5/10
+1. [Nvidia announces abrupt CEO transition to interim CFO Colette Kress](#item-1) ⭐️ 10.0/10
+2. [FBI Disrupts North Korean FaceStealer Campaign Using AI Deepfakes](#item-2) ⭐️ 9.5/10
+3. [SpaceX catches the Starship to end Flight 15](#item-3) ⭐️ 9.0/10
+4. [Understanding Positional Embeddings in Modern LLMs](#item-4) ⭐️ 8.0/10
+5. [SK hynix Bets on HBM4 Demand Beyond NVIDIA With New Equipment Orders](#item-5) ⭐️ 7.5/10
+6. [TSMC Confirms Employee Data Leak, Points to Cloud Provider](#item-6) ⭐️ 7.5/10
+7. [Nvidia engineer resigns over CEO transition transparency concerns](#item-7) ⭐️ 7.5/10
+8. [Coway Air Purifier De-clouded Using HTTP Certificate Flaw](#item-8) ⭐️ 7.5/10
+9. [Italy Fines Meta 805 Million Euros for Privacy Violations](#item-9) ⭐️ 7.3/10
+10. [Opinion piece argues all AI-generated code should be open source](#item-10) ⭐️ 7.0/10
+11. [Community Debates PWM Flicker Frequency in New MacBook OLED Displays](#item-11) ⭐️ 7.0/10
+12. [Court denies motion to dismiss DRAM price fixing case](#item-12) ⭐️ 7.0/10
+13. [CEO Interview with Daisuke Okanohara of Matlantis](#item-13) ⭐️ 7.0/10
+14. [Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO](#item-14) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [SpaceX successfully catches Starship vehicle during Flight 15 test](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
+## [Nvidia announces abrupt CEO transition to interim CFO Colette Kress](https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/) ⭐️ 10.0/10
 
-SpaceX conducted Starship Flight 15, a 22-hour test mission designed to catch both the Super Heavy booster and the Starship upper stage at the launch pad. The company successfully caught the Starship vehicle, marking a significant step toward their fully reusable space transport system. Achieving a successful catch transitions reusable space technology from a theoretical concept to a demonstrated operational capability. This breakthrough promises to drastically lower launch costs, potentially enabling mass-production economies of scale and opening a new era of spaceflight economics. During Flight 15, it was noted that had SpaceX carried a few more tonnes of propellant and oxidizer, they might have successfully caught both the booster and the ship. The success of the heat shield is a critical prerequisite, as it enables the vehicle to be reflynned for subsequent missions.
+On November 12, 2026, Nvidia announced that founder and CEO Jensen Huang resigned effective immediately, with CFO Colette Kress taking over as interim CEO. The company will report its quarterly results on November 17 without its original founder leading the executive team. This leadership shift creates a potential window for Nvidia's rivals to gain market share while raising concerns among suppliers who rely on Nvidia's specific supply chain management and long-term roadmaps. It represents a pivotal moment for the AI infrastructure sector as Nvidia navigates this transition without its long-time leader. Colette Kress, who joined Nvidia in 2013 and has served as CFO for over a decade, will serve as interim CEO. Longtime director Harvey Jones has been appointed as the board's first chair, adding another layer of governance change during this critical period.
 
-hackernews · ls612 · Nov 14, 21:22 · [Discussion](https://news.ycombinator.com/item?id=50500963)
+rss · SemiWiki · Nov 15, 14:00
 
-**Background**: SpaceX is developing the Starship program, a super-heavy-lift launch system consisting of a reusable Super Heavy booster and a reusable second-stage spacecraft. Unlike previous systems like the Space Shuttle, Starship is manufactured on an assembly line to achieve mass production. The goal of catching the vehicle on the launch pad is to avoid traditional landing legs and achieve full reusability.
+**Background**: Nvidia is a dominant force in the semiconductor industry, primarily due to its AI chips that power data centers and consumer GPUs. Its supply chain ecosystem relies on deep relationships with partners like TSMC and Micron. Jensen Huang has led the company since its founding in 1993, making his departure an unprecedented event in the firm's history.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SpaceX_Starship">SpaceX Starship - Wikipedia</a></li>
-<li><a href="https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/">SpaceX launches milestone Starship flight to... - CBS News</a></li>
-<li><a href="https://www.basenor.com/blogs/news/starship-flight-15-6-details-that-matter-for-todays-launch">Starship Flight 15 : 6 Details That Matter for Today's Launch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Colette_Kress">Colette Kress - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/about-nvidia/governance/management-team/colette-kress/">Colette Kress - NVIDIA</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussion is highly enthusiastic, comparing Starship to a properly executed version of the Space Shuttle that avoids previous structural compromises and uses assembly-line manufacturing. Users emphasized that if the heat shield holds up, the next milestone will be double-catches and re-flying the same ships to make orbital payloads significantly cheaper.
-
-**Tags**: `#SpaceX`, `#Aerospace`, `#Starship`, `#Reusability`, `#Engineering`
+**Tags**: `#Nvidia`, `#Semiconductors`, `#AI Industry`, `#Leadership`, `#Corporate News`
 
 ---
 
 <a id="item-2"></a>
-## [Lovable apps expose sensitive passport data and private messages](https://www.crissyfield.de/research/lovable-en/) ⭐️ 8.0/10
+## [FBI Disrupts North Korean FaceStealer Campaign Using AI Deepfakes](https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software) ⭐️ 9.5/10
 
-Researchers discovered that multiple Lovable-generated applications exposed over 200,000 private messages and sensitive passport details due to insufficient Row-Level Security configurations. The vulnerability allowed unauthorized access to sensitive user data through basic browser network inspection. This breach highlights significant systemic security risks in AI-generated applications that rely on cloud infrastructure defaults. It impacts thousands of users by exposing personally identifiable information and sensitive communications, potentially leading to identity theft and privacy violations. Lovable’s security team stated that their automated scanning and auto-fix features are designed to catch such issues before apps are published, offering users tools to resolve security findings in the background. The root cause was identified as a configuration choice in the underlying database system that prioritized easier onboarding over secure defaults.
+The US FBI and Department of Justice announced the disruption of the North Korean 'FaceStealer' campaign, seizing cloud infrastructure containing 900 videos of targeted technology workers. Authorities revealed that the attackers used AI deepfakes to steal $400 million in cryptocurrency over the past 18 months. This incident demonstrates a critical escalation in supply chain security threats, where state-sponsored actors use AI mimicry to bypass traditional verification methods. The compromise of open-source software and major exchanges like Binance highlights the systemic risk to the global tech ecosystem and the urgent need for robust AI detection frameworks. The Department of Justice noted that the hackers utilized 'super intelligence' (SI) to develop deepfake videos of influential figures in the cryptocurrency and web3 industries to enhance the effectiveness of their social engineering. The seized infrastructure revealed the scale of reconnaissance efforts, including hundreds of recorded interactions with potential targets.
 
-hackernews · armcat · Nov 14, 17:43 · [Discussion](https://news.ycombinator.com/item?id=50499017)
+rss · Tom's Hardware · Nov 15, 16:30
 
-**Background**: Lovable is an AI-powered platform that allows users to build web applications by describing their requirements in natural language. It often utilizes Supabase as a backend service, which includes Row-Level Security (RLS) as a method to restrict database access on a per-user basis. Misconfigured RLS is a common source of data leaks in modern web development when security rules are not properly implemented.
+**Background**: An Advanced Persistent Threat (APT) is a long-term, targeted cyberattack typically carried out by state-sponsored groups that maintain unauthorized access to sensitive systems for espionage or theft. The FaceStealer campaign specifically utilized a four-stage deepfake social engineering chain: reconnaissance, synthesis, delivery, and exploitation, where AI collapses the cost and skill barriers for creating convincing fake video calls to trick victims into transferring funds.
 
-**Discussion**: Community sentiment largely agrees that this is a "canary in the coalmine" issue, with many users criticizing Supabase for its insecure default configurations that have been present for years. There is significant debate about whether the primary responsibility lies with the AI platform generating the code or the infrastructure provider, with some arguing that AI apps are now easier, mass-produced targets for basic security exploits.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.fbi.gov/investigate/cyber/facestealer-cryptocurrency-theft-scheme">FaceStealer Cryptocurrency Theft Scheme — FBI</a></li>
+<li><a href="https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html">FBI Says North Korean Hackers Stole Over $400 Million in Crypto...</a></li>
+<li><a href="https://www.adaptivesecurity.com/blog/deepfake-social-engineering-how-ai-cyberattacks-work">Understanding Deepfake Social Engineering Attacks</a></li>
 
-**Tags**: `#Security`, `#AI`, `#Data Breach`, `#Supabase`, `#Lovable`
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#apt`, `#north-korea`, `#ai-deepfakes`, `#supply-chain-security`
 
 ---
 
 <a id="item-3"></a>
-## [PyPI Launches Redesign with Clearer Security Provenance Signals](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 8.0/10
+## [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
 
-PyPI has released redesigned project pages that explicitly surface security provenance signals for published packages. This update makes it easier for users to verify which packages are built in trusted environments. This is a critical step in hardening the Python supply chain against recent attacks like the Telnyx backdoor and compromised CI pipelines. By making provenance metadata visible, developers can make more informed decisions about whether a package is safe to use. Current trusted publishers are limited to major commercial CI/CD platforms, potentially excluding open-source tools like Codeberg or self-hosted solutions. Community members also highlighted the need for support of Sigstore-style keyless signatures and reusable workflows.
+SpaceX successfully caught the Starship upper stage during Flight 15, marking a historic milestone in reusable heavy-lift launch technology.
 
-hackernews · rbanffy · Nov 14, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50497892)
+hackernews · ls612 · Nov 14, 21:22 · [Discussion](https://news.ycombinator.com/item?id=50500963)
 
-**Background**: PyPI is the standard package registry for the Python ecosystem, and 'provenance' refers to data that certifies where and how a package was built. In a supply chain attack, an attacker compromises the build system to inject malicious code, so verifying provenance helps ensure a package hasn't been tampered with during creation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.appsecure.security/blog/telnyx-pypi-backdoor-sbom">Supply Chain Attacks : The Telnyx PyPI Backdoor and Why SBOM...</a></li>
-<li><a href="https://terminalwars.com/posts/supply-chain-attacks-litellm-pypi-axios/">Supply Chain Attacks : LiteLLM, PyPI , and Axios · Terminal Wars</a></li>
-
-</ul>
-</details>
-
-**Discussion**: While many users welcomed the improved security signals, others expressed concern that the current model is too centralized, favoring proprietary US cloud services over open or self-hosted alternatives. Users also proposed expanding support to Sigstore's keyless signatures and allowing the use of reusable workflows for trusted publishing.
-
-**Tags**: `#PyPI`, `#Security`, `#Supply Chain`, `#Python`, `#Provenance`
+**Tags**: `#SpaceX`, `#Starship`, `#Reusable Rockets`, `#Space Exploration`, `#Engineering`
 
 ---
 
 <a id="item-4"></a>
-## [U.S. Treasury Secretary questions Nvidia's sales of AI GPUs to shell companies](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that) ⭐️ 7.5/10
+## [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) ⭐️ 8.0/10
 
-U.S. Treasury Secretary Scott Bessent raised questions about whether Nvidia knowingly sold restricted AI GPUs to shell companies. He emphasized that the company and its management are responsible for ensuring compliance with export controls. The involvement of the U.S. Treasury Secretary in questioning Nvidia's export control compliance signals a stricter government accountability stance for AI hardware distribution. This development has direct implications for the global AI supply chain and corporate compliance strategies. Bessent specifically questioned whether Nvidia's management had knowledge of the sales to shell companies, but did not directly blame CEO Jensen Huang for the situation. The focus remains on the need for internal corporate accountability and responsibility.
+An in-depth technical exploration of positional embeddings in modern LLMs by Sebastian Raschka, featuring community discussion that extends into advanced mathematical theory like group representations.
 
-rss · Tom's Hardware · Nov 14, 15:35
+hackernews · vismit2000 · Nov 15, 12:14 · [Discussion](https://news.ycombinator.com/item?id=50506376)
 
-**Background**: Nvidia is a leading developer of AI GPUs, which are critical hardware components for advanced computing. To prevent the transfer of military-grade technology to certain countries, the U.S. government imposes strict export controls on specific high-performance AI processors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Hardware`, `#Export Controls`, `#Nvidia`, `#Regulation`, `#Geopolitics`
+**Tags**: `#LLMs`, `#Transformers`, `#Positional-Encodings`, `#AI-Research`, `#Deep-Learning`
 
 ---
 
 <a id="item-5"></a>
-## [We tested the RAM-saving storage tech in Gears of War: E-Day](https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage) ⭐️ 7.5/10
+## [SK hynix Bets on HBM4 Demand Beyond NVIDIA With New Equipment Orders](https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders) ⭐️ 7.5/10
 
-An analysis of how Gears of War: E-Day utilizes high-speed SSD streaming technology to reduce system RAM usage by up to 3.7 GB, optimizing performance for systems with limited memory.
+SK hynix is expanding HBM4 production capacity by 20,000 wafers per month at its Cheongju fab to meet demand from customers beyond NVIDIA, with new back-end equipment installation targeted for early 2027.
 
-rss · Tom's Hardware · Nov 14, 15:30
+rss · TechPowerUp News · Nov 15, 16:37
 
-**Tags**: `#SSD`, `#RAM Optimization`, `#Game Performance`, `#Hardware`, `#Gears of War`
+**Tags**: `#HBM`, `#SK hynix`, `#Semiconductors`, `#AI Hardware`, `#Supply Chain`
 
 ---
 
 <a id="item-6"></a>
-## [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) ⭐️ 7.0/10
+## [TSMC Confirms Employee Data Leak, Points to Cloud Provider](https://www.techpowerup.com/354835/tsmc-confirms-employee-data-leak-points-to-cloud-provider) ⭐️ 7.5/10
 
-A report and subsequent community discussion analyze allegations that Nvidia engaged in circular financing with AI startups to create artificial scarcity and keep GPU prices elevated.
+TSMC confirmed the unauthorized disclosure of 46,000 employee records containing sensitive PII, attributing the leak to a cloud provider and noting the data was offered for sale on the dark web.
 
-hackernews · madihaa · Nov 14, 22:26 · [Discussion](https://news.ycombinator.com/item?id=50501631)
+rss · TechPowerUp News · Nov 14, 20:37
 
-**Tags**: `#Nvidia`, `#Market Manipulation`, `#GPU Pricing`, `#Semiconductors`, `#AI Industry`
+**Tags**: `#cybersecurity`, `#tsmc`, `#data-breach`, `#pii`, `#cloud-security`
 
 ---
 
 <a id="item-7"></a>
-## [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
+## [Nvidia engineer resigns over CEO transition transparency concerns](https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures) ⭐️ 7.5/10
 
-A Show HN post showcasing a minimal ~200-line JAX implementation of the DeepSeek V3 model, praised for its educational value and compatibility with local ROCm hardware.
+An Nvidia engineer resigned from the company citing a lack of transparency regarding the CEO transition involving Jensen Huang, and joined a petition with over 150,000 signatures demanding the reinstatement of the former CEO. This event signals significant internal dissatisfaction and potential trust deficits in Nvidia's corporate leadership, which could impact employee morale and the company's culture during a critical period of CEO succession. The petition calling for the reinstatement of the former CEO has passed 150,000 signatures, indicating widespread discontent among disgruntled staff members who felt that the company's communication regarding the leadership change was insufficient.
 
-hackernews · VaibhaavTiwari · Nov 14, 15:04 · [Discussion](https://news.ycombinator.com/item?id=50497589)
+rss · Tom's Hardware · Nov 15, 17:56
 
-**Tags**: `#LLM`, `#Jax`, `#OpenSource`, `#LocalLLM`, `#MachineLearning`
+**Background**: Jensen Huang is a long-time and highly respected CEO of Nvidia, a leading semiconductor and AI technology company. A transition in such a pivotal role often requires clear communication to maintain team trust. Corporate governance and transparency are crucial for employee retention in high-stakes tech environments.
+
+**Tags**: `#Tech Industry`, `#Leadership`, `#Nvidia`, `#Corporate Culture`, `#Workplace Dynamics`
 
 ---
 
 <a id="item-8"></a>
-## [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
+## [Coway Air Purifier De-clouded Using HTTP Certificate Flaw](https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways) ⭐️ 7.5/10
 
-Google details how its Antigravity /teamwork feature enables AI teams to collaborate on complex scientific and engineering tasks, with community discussion highlighting the trade-offs and resource constraints in multi-agent workflows.
+A developer reverse-engineered the Coway Airmega IconS air purifier to operate locally within Home Assistant, completely bypassing the manufacturer's cloud service. This was achieved by exploiting a security flaw where the device downloads its security certificate over plain HTTP. This breakthrough provides a path for users to reclaim local control over their smart home devices, enhancing privacy and removing dependence on third-party servers. It highlights a critical vulnerability in IoT security that manufacturers must address to protect user data. The technical core of the hack relies on the air purifier fetching its TLS certificate via unencrypted HTTP, allowing a home server to impersonate Coway's cloud. This enables the device to be managed entirely locally by Home Assistant without internet access to the vendor.
 
-hackernews · acossta · Nov 14, 13:20 · [Discussion](https://news.ycombinator.com/item?id=50496811)
+rss · Tom's Hardware · Nov 15, 12:30
 
-**Tags**: `#AI_Agents`, `#Multi-Agent_Systems`, `#Google_Antigravity`, `#Engineering_Tools`, `#LLM_Workflows`
+**Background**: Most modern smart home devices, such as air purifiers, rely on cloud servers for remote control and data logging. Home Assistant is a popular open-source home automation platform that allows users to control devices directly on their local network. A 'de-clouded' device operates entirely on the local network, offering better security and reliability compared to cloud-dependent setups.
+
+**Tags**: `#IoT Security`, `#Home Automation`, `#Reverse Engineering`, `#Cybersecurity`, `#Smart Home`
 
 ---
 
 <a id="item-9"></a>
-## [AMD Launches EPYC Embedded 9006 with Zen 6 Venice](https://www.servethehome.com/amd-launches-epyc-embedded-9006-venice-gets-an-early-start-in-embedded/) ⭐️ 6.5/10
+## [Italy Fines Meta 805 Million Euros for Privacy Violations](https://www.solidot.org/story?sid=85892) ⭐️ 7.3/10
 
-AMD has launched its next-generation EPYC Embedded 9006 platform, featuring new Zen 6 'Venice' silicon targeted at the embedded market. The platform scales from 64 to 256 cores, with specific SKUs like the 128-core version scheduled for release in November 2026. This launch brings high-core-count server-grade performance to stability-focused embedded segments such as semiconductor test equipment and networking. It allows embedded systems to leverage the latest compute efficiency while maintaining long-term platform stability. The EPYC Embedded 9006 series utilizes the SP7 socket and offers next-generation I/O capabilities. AMD notes that performance claims for these processors are internal estimates, and the platform is designed for specific industrial applications.
+Italy's data protection regulator fined Meta 805 million euros for its Facebook Android app accessing users' photo galleries without explicit consent. The regulator ordered Meta to disable the feature within 60 days to require proper user permission. This landmark penalty serves as a critical warning to global tech companies that regulators are actively enforcing consent mechanisms. It significantly raises the compliance costs and legal risks for apps that use bundled permissions to access user data. Investigations revealed that the feature was enabled by default and Meta bundled multiple functions into a single authorization request. Meta has officially stated that it will appeal the decision.
 
-rss · ServeTheHome · Nov 14, 19:00
+rss · Solidot · Nov 15, 13:51
 
-**Background**: EPYC is AMD's brand of multi-core x86-64 microprocessors originally designed for server and embedded markets. The 'Zen 6' or 'Venice' architecture represents the next iteration of AMD's CPU design, focusing on improved performance and efficiency. Embedded systems often prioritize long-term support and stability over the latest consumer-grade features.
+**Background**: Mobile operating systems like Android use a permission system to protect user data, requiring apps to request access to specific resources like the camera or storage. The principle of consent is fundamental in data protection law, which mandates that users must be explicitly informed about the purpose of data collection before granting permission. Bundled permissions, where a single request grants access for multiple unrelated features, are increasingly under scrutiny by privacy regulators worldwide.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Epyc">Epyc - Wikipedia</a></li>
-<li><a href="https://www.amd.com/en/products/embedded/epyc/9006-series.html">AMD EPYC ™ Embedded 9006 Series SP7 Processors</a></li>
-<li><a href="https://shiftdelete.net/en/amd-epyc-embedded-9006-processors">AMD Moves 256-Core EPYC From Servers Into Embedded Systems</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD`, `#Embedded Systems`, `#Hardware`, `#EPYC`, `#Zen 6`
+**Tags**: `#Regulation`, `#Space`, `#Cybersecurity`, `#AI`, `#Privacy`
 
 ---
 
 <a id="item-10"></a>
-## [Microsoft Cloud Outage Lasts Over 24 Hours, Disrupting Global Services](https://www.solidot.org/story?sid=85886) ⭐️ 6.3/10
+## [Opinion piece argues all AI-generated code should be open source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) ⭐️ 7.0/10
 
-Microsoft confirmed that a major global service outage affecting Microsoft 365, Teams, and Copilot has ended after lasting for over 24 hours. The company attributed the 24-hour disruption to server failures without external interference, restoring services for affected regions. This incident highlights the critical dependency of global governments and businesses on a few major technology providers, revealing significant operational risks. The 24-hour duration makes it one of the longest outages in Microsoft's history, impacting essential services like healthcare and national IT infrastructure. Microsoft explicitly ruled out external interference, tracing the issue to internal server faults. The impact was severe enough to force the UK's National Health Service (NHS) to revert to paper records and disrupt Japan's government IT systems.
+A controversial opinion piece was published arguing that all AI-generated code should be released as open source, citing intellectual property and licensing concerns. The post sparked a high-engagement debate, receiving 746 points and numerous substantive comments on legal rights and software engineering values. This discussion is significant because it addresses the evolving legal landscape surrounding large language models (LLMs) and code generation, where US copyright law currently does not protect purely AI-generated works. The debate connects broader industry trends in AI-assisted programming with fundamental questions about software ownership and intellectual property rights. Critics in the comments argue that the premise confuses simple code writing with the broader discipline of software engineering, where humans take ownership of business outcomes. Legal citations in the thread, such as Doe v. GitHub and Thaler v. Perlmutter, indicate that current case law suggests LLM output does not automatically inherit open-source licenses or copyright protection.
 
-rss · Solidot · Nov 14, 13:55
+hackernews · jcubic · Nov 15, 14:46 · [Discussion](https://news.ycombinator.com/item?id=50507303)
 
-**Background**: This news digest also covered unrelated topics, including a resurgence of measles in the US due to declining vaccination rates, and China's Tianwen-4 mission, which will explore Jupiter and its moon Callisto. It additionally noted a separate FAA ground-stop in the US caused by outdated communication systems.
+**Background**: Large language models (LLMs) are AI systems that can generate computer code based on natural language prompts, raising complex questions about intellectual property and software licensing. In the United States, the Copyright Office has issued guidance stating that works generated solely by AI without meaningful human authorship are not eligible for copyright protection, as copyright law requires human creativity. This legal backdrop creates a gray zone for developers using AI tools, where generated code may be public domain or face infringement risks without clear ownership rights.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Tianwen-4">Tianwen - 4 - Wikipedia</a></li>
-<li><a href="https://www.gavi.org/vaccineswork/what-does-it-mean-lose-measles-free-status-and-can-countries-get-it-back">What does it mean to lose ‘ measles -free’ status and can countries get...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright">Artificial intelligence and copyright - Wikipedia</a></li>
+<li><a href="https://www.recordinglaw.com/us-laws/ai-copyright-laws/ai-generated-code-copyright-infringement/">Is AI-Generated Code Copyright Infringement? (2026)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cloud-infra`, `#microsoft-outage`, `#space-mission`, `#public-health`, `#reliability`
+**Discussion**: The community discussion was heated, with some users sharing personal experiences of having their proprietary code cloned by LLMs after initial licensing violations. Other commenters pushed back against the article's core argument, asserting that the use of AI tools does not strip developers of their intellectual property rights, and cited specific US court cases to argue that LLM output is not automatically open source or copyrightable.
+
+**Tags**: `#AI`, `#Open Source`, `#Intellectual Property`, `#Software Engineering`, `#Copyright`
 
 ---
 
 <a id="item-11"></a>
-## [GDC Survey: 40% of Game Workers Use AI, Yet 55% View It Negatively](https://www.techpowerup.com/354820/video-game-workers-and-ai-40-use-it-but-55-think-its-bad-news) ⭐️ 5.5/10
+## [Community Debates PWM Flicker Frequency in New MacBook OLED Displays](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ⭐️ 7.0/10
 
-A GDC State of the Game Industry survey of over 2,600 workers found that 40% use generative AI in their jobs, while 55% believe AI is bad news for the gaming industry. This survey highlights the significant tension and uncertainty within the gaming industry, where widespread adoption of AI tools does not translate into a positive industry sentiment among workers. This split opinion will likely shape future AI policy, hiring practices, and creative direction in game development. AI usage varies significantly by job role, with mobile studio workers (70%) and business operations staff (63%) leading in adoption, while older indie studios (29%) show the lowest usage. Furthermore, 23% of respondents reported that AI was banned at their studios, compared to only 1% who were required to use it.
+A technical discussion emerged regarding the PWM flicker issues in the new MacBook Pro OLED displays, focusing on whether the effective frequency is 240Hz, 480Hz, or 960Hz due to tandem OLED configurations. This issue is significant for users sensitive to flicker and eye strain, as it impacts the usability of premium display technologies and highlights potential health-related drawbacks of high-end OLED implementations. Technical analysis suggests that tandem OLED layers may PWM at 480Hz out of phase to achieve an effective 960Hz for usable brightness, contrasting with initial claims of 240Hz.
 
-rss · TechPowerUp News · Nov 14, 04:48
+hackernews · MacAnorak · Nov 15, 13:15 · [Discussion](https://news.ycombinator.com/item?id=50506719)
 
-**Background**: Generative AI refers to tools that can create text, images, or other media, which have become increasingly integrated into game development workflows for tasks like coding and asset creation. The GDC State of the Game Industry survey is a comprehensive annual report released by the Game Developers Conference (GDC) that analyzes trends, opinions, and economic data across the global video game industry.
-
-**Tags**: `#gaming-industry`, `#ai-adoption`, `#worker-sentiment`, `#survey`, `#game-development`
-
----
-
-<a id="item-12"></a>
-## [Malaysia to Use Data Center Power Metrics to Detect AI GPU Smuggling](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity) ⭐️ 5.5/10
-
-Malaysia proposes a new law requiring data center operators to track power consumption as a proxy for detecting illicit AI GPU imports and hardware smuggling. The regulation also mandates that operators pay for unused electricity capacity to prevent underreporting of installed power draw. This policy introduces a novel infrastructure-level monitoring approach to controlling global AI hardware supply chains. It highlights the growing trend of nations using energy and grid metrics to police semiconductor exports and protect domestic AI capabilities. The effectiveness of this law may be limited by practical challenges, such as real-world TDP variance and the lack of mandatory physical hardware audits. Furthermore, the requirement for operators to pay for unused electricity capacity could increase operating costs for data centers.
-
-rss · Tom's Hardware · Nov 14, 15:10
-
-**Background**: Governments have increasingly tightened export controls on advanced AI GPUs to prevent high-end hardware from falling into restricted markets. Data center power consumption is often used as a proxy metric to estimate the number of GPUs installed, but TDP represents a maximum theoretical heat dissipation limit that does not always align perfectly with real-world operational power draw. This discrepancy makes power-consumption tracking a complex tool for pinpointing specific hardware smuggling.
+**Background**: Pulse Width Modulation (PWM) is a method used to control display brightness by rapidly turning pixels or backlights on and off. While LCDs typically use PWM frequencies above 1000Hz, OLED screens often operate between 50Hz and 500Hz, which can be perceived as flicker by some users. Tandem OLEDs stack multiple layers to increase brightness, creating complex modulation patterns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Thermal_design_power">Thermal design power - Wikipedia</a></li>
-<li><a href="https://www.securityscientist.net/blog/12-questions-and-answers-about-gpu-smuggling/">12 Questions and Answers About gpu smuggling</a></li>
+<li><a href="https://www.dxomark.com/flicker-the-display-affliction/">Flicker , the display affliction - DXOMARK</a></li>
+<li><a href="https://pixelburn.tech/en/understanding-pwm-flicker-in-oled-screens-eye-comfort-frequency-solutions">PWM Flicker in OLED Screens: Eye Comfort, Frequency & Tips</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Policy`, `#Hardware Security`, `#Data Centers`, `#Malaysia`, `#Chip Smuggling`
+**Discussion**: Users are debating the exact PWM frequencies, with some arguing for a 960Hz effective rate based on out-of-phase tandem layers. Additionally, the discussion expands to broader eye comfort issues, including sensitivity to CRI in lighting and motion blur on LCDs, with one user noting that their personal sensitivity to flicker increased over time.
+
+**Tags**: `#OLED`, `#Display Technology`, `#PWM`, `#MacBook Pro`, `#UX Design`
+
+---
+
+<a id="item-12"></a>
+## [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) ⭐️ 7.0/10
+
+A court denied a motion to dismiss a price-fixing lawsuit against major DRAM manufacturers, triggering a heated discussion on the economic implications for hardware pricing and market competition.
+
+hackernews · ybathaee · Nov 15, 01:18 · [Discussion](https://news.ycombinator.com/item?id=50502988)
+
+**Tags**: `#semiconductors`, `#legal`, `#AI-hardware`, `#supply-chain`, `#DRAM`
+
+---
+
+<a id="item-13"></a>
+## [CEO Interview with Daisuke Okanohara of Matlantis](https://semiwiki.com/ceo-interviews/376079-ceo-interview-with-daisuke-okanohara-of-matlantis/) ⭐️ 7.0/10
+
+An interview with Daisuke Okanohara, co-founder of Preferred Networks and CEO of Matlantis, discussing his career and current technological ventures.
+
+rss · SemiWiki · Nov 15, 16:00
+
+**Tags**: `#AI`, `#CEO Interview`, `#Preferred Networks`, `#Matlantis`, `#Leadership`
+
+---
+
+<a id="item-14"></a>
+## [Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO](https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return) ⭐️ 6.5/10
+
+An online petition signed by Elon Musk and over 91,000 others is calling for the reinstatement of Jensen Huang as Nvidia's CEO.
+
+rss · Tom's Hardware · Nov 15, 12:00
+
+**Tags**: `#Nvidia`, `#Corporate Governance`, `#AI Industry`, `#Jensen Huang`, `#Elon Musk`
 
 ---
