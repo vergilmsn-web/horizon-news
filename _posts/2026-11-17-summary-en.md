@@ -5,343 +5,339 @@ date: 2026-11-17
 lang: en
 ---
 
-> From 100 items, 20 important content pieces were selected
+> From 95 items, 20 important content pieces were selected
 
 ---
 
-1. [Jensen Huang Ousting Signals US Chip Supply Restrictions](#item-1) ⭐️ 10.0/10
-2. [(PR) AMD Completes Acquisition of World Labs](#item-2) ⭐️ 9.5/10
-3. [(PR) NVIDIA Announces Rubin HPC GPU to Accelerate Agents for Science, Engineering and Analytics](#item-3) ⭐️ 9.5/10
-4. [Nvidia amassed $530 billion in financial guarantees to corner the AI market](#item-4) ⭐️ 9.5/10
-5. [San Francisco Agreement on secure supply chains signed](#item-5) ⭐️ 9.0/10
-6. [Nvidia taps Rene Haas for CEO](#item-6) ⭐️ 9.0/10
-7. [US BIS issues rule restricting remote access to AI servers for Chinese firms](#item-7) ⭐️ 8.5/10
-8. [Fable 5.2 generates 96 KB browser demo from 40-line prompt](#item-8) ⭐️ 8.5/10
-9. [Microsoft Attributes Global Outage to Hidden Windows Lock Contention Bug](#item-9) ⭐️ 8.3/10
-10. [Optimizely breach delivered malware to major brands via CDN](#item-10) ⭐️ 8.0/10
-11. [Jiff 1.0: A Stable and Usable Datetime Library for Rust](#item-11) ⭐️ 8.0/10
-12. [DRAM companies fail to get price-fixing case dismissed](#item-12) ⭐️ 8.0/10
-13. [TSMC to set up venture arm](#item-13) ⭐️ 8.0/10
-14. [(PR) AMD-Powered Lux Supercomputer Opens to Scientific Users at Oak Ridge](#item-14) ⭐️ 7.5/10
-15. [Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second](#item-15) ⭐️ 7.5/10
-16. [Developer Creates a Valid ZIP File That Is Also a BIOS-Bootable OS](#item-16) ⭐️ 7.5/10
-17. [CMU launches CS Learn for free full-course lectures](#item-17) ⭐️ 7.0/10
-18. [yieldWerx PhotonX Traces Photonic Module Failures to Die](#item-18) ⭐️ 7.0/10
-19. [Top 500 HPC List Records Fewest New Systems in 33 Years](#item-19) ⭐️ 6.5/10
-20. [40 Amazon Project Kuiper Satellites Lost in ULA Vulcan Rocket Failure](#item-20) ⭐️ 6.5/10
+1. [GPT‑6.2 Astra and Sol](#item-1) ⭐️ 9.0/10
+2. [Solid 2.0](#item-2) ⭐️ 9.0/10
+3. [Now’s the time to rethink the GPU/datacentre model says Penn](#item-3) ⭐️ 9.0/10
+4. [Nvidia launches Rubin HPC with 50k CUDA cores](#item-4) ⭐️ 9.0/10
+5. [NVIDIA Launches Board-Level National Security and Export Control Committee](#item-5) ⭐️ 8.5/10
+6. [NVIDIA Announces Rubin HPC GPU for Science Computing in 2028](#item-6) ⭐️ 8.5/10
+7. [Microsoft Releases MAI Code 2 and Flash for Enhanced AI Coding](#item-7) ⭐️ 8.0/10
+8. [Nvidia Stops Disclosing $104B Singapore Subsidiary Sales Amid Export Scrutiny](#item-8) ⭐️ 8.0/10
+9. [Why Increased HBM Bandwidth Is Not Enough to Solve AI Memory Bottlenecks](#item-9) ⭐️ 8.0/10
+10. [(PR) AMD Completes Acquisition of Taalas to Advance AI Inference Innovation](#item-10) ⭐️ 7.5/10
+11. [(PR) Q.ANT Unveils NPU Gen 2+: Photonic Fourier Transforms Power Large Language Model](#item-11) ⭐️ 7.5/10
+12. [Nvidia claims its Vera CPU can gain up to 39% performance boost via software optimization at SC26 — architectural fine-tuning is needed to fully unleash custom Olympus cores](#item-12) ⭐️ 7.5/10
+13. [Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned fabs](#item-13) ⭐️ 7.5/10
+14. [Harvard study quantifies massive energy use and emissions of US hyperscale data centers](#item-14) ⭐️ 7.5/10
+15. [J-35 Developers 3D-Print Massive Load-Bearing Aircraft Structures](#item-15) ⭐️ 7.5/10
+16. [Outage hits highly classified US national security communications network](#item-16) ⭐️ 7.0/10
+17. [Community Debate: Is Agent Harness Selection More Critical Than the LLM Model?](#item-17) ⭐️ 7.0/10
+18. [Alloy CSS creates dialogs and tabs without JavaScript](#item-18) ⭐️ 7.0/10
+19. [Melexis launches fingertip modules for humanoid robots](#item-19) ⭐️ 7.0/10
+20. [Intel Prepares "Razor Lake" in Three Flavors: S, U, and L](#item-20) ⭐️ 6.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Jensen Huang Ousting Signals US Chip Supply Restrictions](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-undoing-of-jensen-2026-11/) ⭐️ 10.0/10
+## [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) ⭐️ 9.0/10
 
-An analysis from Electronics Weekly suggests that the ousting of NVIDIA CEO Jensen Huang is a political move by Washington intended to tighten the supply of advanced chips to China. The framing indicates that this leadership change is part of a broader geopolitical strategy rather than a purely corporate event. If Jensen Huang's departure is linked to US government efforts to restrict AI hardware exports, it could significantly alter the US-China technological landscape and impact the global AI chip market. The removal of a key figure in the semiconductor industry highlights the intersection of corporate leadership and national security policy. The analysis specifically links the ousting of Huang to a strategy for providing reasons and methods for restricting advanced chip supplies to China. This suggests that the move is seen not just as an internal corporate decision, but as a tool for broader geopolitical supply chain management.
+GPT‑6.2 Astra and Sol
 
-rss · Electronics Weekly · Nov 16, 14:00
+hackernews · jasondavies · Nov 17, 17:46 · [Discussion](https://news.ycombinator.com/item?id=50535230)
 
-**Background**: Jensen Huang is the CEO of NVIDIA, a dominant company in the AI and graphics processing unit (GPU) market, whose chips are essential for training advanced artificial intelligence models. The US government has been actively restricting the export of high-performance chips to China to prevent the country from rapidly advancing its AI and computing capabilities. Leadership changes in top semiconductor firms can influence public perception of compliance with and effectiveness of export controls.
-
-**Tags**: `#NVIDIA`, `#AI Hardware`, `#Geopolitics`, `#Semiconductors`, `#Jensen Huang`
+**Tags**: `#LLM`, `#OpenAI`, `#Benchmarks`, `#AI Release`, `#Model Comparison`
 
 ---
 
 <a id="item-2"></a>
-## [(PR) AMD Completes Acquisition of World Labs](https://www.techpowerup.com/354902/amd-completes-acquisition-of-world-labs) ⭐️ 9.5/10
+## [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/) ⭐️ 9.0/10
 
-AMD has completed its acquisition of World Labs, integrating a top-tier AI research team led by Fei-Fei Li to co-optimize compute platforms and models for the open AI ecosystem.
+Solid 2.0 introduces a major framework overhaul with seamless server RPC, live state management, and agent-optimized architecture, gaining significant praise from the community for resolving frontend-backend integration challenges.
 
-rss · TechPowerUp News · Nov 16, 17:22
+hackernews · pier25 · Nov 17, 18:56 · [Discussion](https://news.ycombinator.com/item?id=50536387)
 
-**Tags**: `#AMD`, `#World Labs`, `#AI Acquisition`, `#Hardware-Model Co-Optimization`, `#Fei-Fei Li`
+**Tags**: `#SolidJS`, `#JavaScript Frameworks`, `#Full-Stack Development`, `#AI Integration`, `#Reactive Programming`
 
 ---
 
 <a id="item-3"></a>
-## [(PR) NVIDIA Announces Rubin HPC GPU to Accelerate Agents for Science, Engineering and Analytics](https://www.techpowerup.com/354900/nvidia-announces-rubin-hpc-gpu-to-accelerate-agents-for-science-engineering-and-analytics) ⭐️ 9.5/10
+## [Now’s the time to rethink the GPU/datacentre model says Penn](https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/) ⭐️ 9.0/10
 
-NVIDIA announced the Rubin HPC GPU at SC26, a new chip in the Vera Rubin platform designed to accelerate simulations and data processing for scientific, engineering, and analytics agents.
+An article argues that current market conditions present a timely opportunity to rethink the standard GPU-based datacenter model in light of investor concerns and industry dynamics.
 
-rss · TechPowerUp News · Nov 16, 16:44
+rss · Electronics Weekly · Nov 17, 06:15
 
-**Tags**: `#NVIDIA`, `#HPC`, `#GPU`, `#AI`, `#Architecture`
+**Tags**: `#Datacenter Architecture`, `#AI Infrastructure`, `#GPU`, `#Systems Design`, `#Industry Trends`
 
 ---
 
 <a id="item-4"></a>
-## [Nvidia amassed $530 billion in financial guarantees to corner the AI market](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter) ⭐️ 9.5/10
+## [Nvidia launches Rubin HPC with 50k CUDA cores](https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/) ⭐️ 9.0/10
 
-Nvidia has secured $530 billion in financial guarantees and supply commitments to solidify its dominance in the AI hardware market.
+Nvidia unveils its next-generation Rubin HPC GPU, featuring over 50,000 CUDA cores and targeted for availability in 2028.
 
-rss · Tom's Hardware · Nov 16, 11:00
+rss · Electronics Weekly · Nov 17, 06:14
 
-**Tags**: `#Nvidia`, `#AI Industry`, `#Supply Chain`, `#Market Analysis`, `#Finance`
+**Tags**: `#Nvidia`, `#GPU`, `#HPC`, `#AI Hardware`, `#CUDA`
 
 ---
 
 <a id="item-5"></a>
-## [San Francisco Agreement on secure supply chains signed](https://www.electronicsweekly.com/news/business/san-francisco-agreement-on-secure-supply-chains-signed-2026-11/) ⭐️ 9.0/10
+## [NVIDIA Launches Board-Level National Security and Export Control Committee](https://www.techpowerup.com/354939/nvidia-establishes-national-security-and-export-control-oversight-committee) ⭐️ 8.5/10
 
-The United States and nine Pax Silica participants signed the San Francisco Declaration to strengthen secure supply chains.
+NVIDIA established a new standing board committee dedicated to overseeing national security policies and export control compliance. This committee will directly supervise the company's specialized security and trade compliance teams, meeting at least quarterly. Elevating export control oversight to the board level signals a strategic shift to proactively manage global trade risks that could impact chip availability. It directly affects software and AI developers reliant on NVIDIA hardware, as compliance changes dictate which products are accessible in different regions. The committee is chaired by director Suzanne Nora Johnson and will coordinate with independent legal and national security experts. Existing compliance teams will report to both this committee and Interim CEO Colette Kress for day-to-day operations.
 
-rss · Electronics Weekly · Nov 16, 10:49
+rss · TechPowerUp News · Nov 17, 13:55
 
-**Tags**: `#supply-chain`, `#geopolitics`, `#security`, `#electronics`, `#strategy`
+**Background**: Export controls are government regulations that restrict the transfer of sensitive technology and hardware, particularly semiconductors, to specific regions due to geopolitical or security concerns. In the semiconductor industry, Global Trade Compliance functions ensure that product sales and customer interactions strictly adhere to these national security laws to avoid severe financial penalties.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://explainx.ai/blog/nvidia-board-national-security-export-control-committee-november-2026">Nvidia Board Export Control Committee (Nov 17, 2026 ...</a></li>
+<li><a href="https://www.unite.ai/nvidia-adds-standing-committee-for-security-and-trade-oversight/">NVIDIA Adds Standing Committee for Security and Trade Oversight</a></li>
+<li><a href="https://www.politico.com/news/2026/11/17/nvidia-creates-board-committee-to-oversee-export-controls">Nvidia creates board committee to oversee export controls</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#Export-Controls`, `#Corporate-Governance`, `#Hardware-Supply`, `#Geopolitics`
 
 ---
 
 <a id="item-6"></a>
-## [Nvidia taps Rene Haas for CEO](https://www.electronicsweekly.com/news/business/nvidia-taps-rene-haas-for-ceo-2026-11/) ⭐️ 9.0/10
+## [NVIDIA Announces Rubin HPC GPU for Science Computing in 2028](https://www.servethehome.com/nvidia-announces-rubin-hpc-science-focused-server-gpu-to-arrive-in-2028/) ⭐️ 8.5/10
 
-Reports indicate that Nvidia's board is considering appointing Arm CEO Rene Haas as the new CEO of Nvidia.
+At SC26, NVIDIA announced the Rubin HPC, a new science-focused server GPU featuring over 50,000 CUDA cores that is scheduled to arrive in 2028. This announcement marks a strategic refocus on high-performance computing and simulation workloads, providing long-term roadmap visibility for systems architects and researchers planning infrastructure upgrades. The Rubin HPC utilizes the NVIDIA Vera Rubin platform with sixth-generation NVLink interconnects to accelerate data processing, offering the highest CUDA core count in a single GPU to date.
 
-rss · Electronics Weekly · Nov 16, 06:15
+rss · ServeTheHome · Nov 17, 15:45
 
-**Tags**: `#Nvidia`, `#Leadership`, `#Semiconductors`, `#Corporate News`, `#AI`
+**Background**: CUDA is a proprietary parallel computing platform that allows GPUs to perform general-purpose processing for scientific simulations and data analytics. Supercomputing (SC) is a major international conference dedicated to advancing high-performance computing, networking, and storage.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techpowerup.com/354900/nvidia-announces-rubin-hpc-gpu-to-accelerate-agents-for-science-engineering-and-analytics">NVIDIA Announces Rubin HPC GPU to Accelerate... | TechPowerUp</a></li>
+<li><a href="https://wccftech.com/nvidia-rubin-hpc-gpu-50000-cuda-cores-2028/">NVIDIA Rubin HPC GPU Packs Over 50,000 CUDA Cores, All...</a></li>
+<li><a href="https://percepture.com/data-centers-insights/sc26-supercomputing-2026/">SC26 / Supercomputing 2026: Event Guide for Leaders</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#HPC`, `#GPU Architecture`, `#Roadmap`, `#Scientific Computing`
 
 ---
 
 <a id="item-7"></a>
-## [US BIS issues rule restricting remote access to AI servers for Chinese firms](https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls) ⭐️ 8.5/10
+## [Microsoft Releases MAI Code 2 and Flash for Enhanced AI Coding](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) ⭐️ 8.0/10
 
-The US Bureau of Industry and Security has issued a new interim final rule to prevent Chinese firms from bypassing GPU export controls by remotely accessing AI servers located in foreign data centers. This rule addresses a critical loophole in the global AI hardware supply chain, ensuring that physical export restrictions remain effective against digital access methods. The regulation specifically targets the 'cloud rental' workaround, closing the gap that allowed access to restricted compute resources despite physical shipment bans.
+Microsoft has announced the release of MAI Code 2 and MAI Code 2 Flash, a new generation of large language models specialized in code generation and visual coding. These updates represent a significant step in the rapid evolution of Microsoft's in-house AI capabilities. This launch intensifies competition with leading AI labs like OpenAI and Anthropic, as community feedback suggests these models are closing the performance gap in coding tasks. It demonstrates that Microsoft is scaling its proprietary AI stack to remain a top-tier player in the enterprise AI market. The MAI Code 2 Flash variant is noted for generating visual outputs that are preferred over previous versions in over 60% of cases, highlighting a focus on UI generation. Users also value the continued publication of in-depth technical reports, such as those for MAI-Thinking-1, which aid external researchers.
 
-rss · Tom's Hardware · Nov 16, 21:50
+hackernews · lemonish97 · Nov 17, 18:25 · [Discussion](https://news.ycombinator.com/item?id=50535885)
 
-**Background**: Following the initial restrictions on physical semiconductor shipments, companies began using remote data center access to circumvent the rules. This new rule ensures that compute power is regulated as a strategic asset, not just as physical hardware.
+**Background**: Large Language Models (LLMs) are artificial neural networks trained on massive text datasets to perform tasks like code generation and dialogue. Microsoft's MAI series refers to their in-house development efforts, distinct from models acquired through partnerships with other labs. Competitors in this space typically release models that excel at specific domains, with coding benchmarks serving as a key performance indicator.
 
-**Tags**: `#AI Regulation`, `#Export Controls`, `#Geopolitics`, `#Hardware`, `#Cloud Computing`
+**Discussion**: The community discussion highlights a tenuous competitive lead for OpenAI and Anthropic, with users noting that Microsoft is catching up rapidly, possibly through model distillation. There is also a call for more transparency in visual coding comparisons against top-tier models and continued technical documentation.
+
+**Tags**: `#Microsoft`, `#LLM`, `#Code Generation`, `#AI Competitors`, `#Model Release`
 
 ---
 
 <a id="item-8"></a>
-## [Fable 5.2 generates 96 KB browser demo from 40-line prompt](https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps) ⭐️ 8.5/10
+## [Nvidia Stops Disclosing $104B Singapore Subsidiary Sales Amid Export Scrutiny](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) ⭐️ 8.0/10
 
-The Fable 5.2 AI agent generates a high-performance underwater world demo running at 180 fps within a browser using a mere 96 KB of code. This complex interactive experience was produced from a concise 40-line prompt. This achievement marks a major milestone in autonomous coding by demonstrating extreme efficiency in resource usage and performance optimization. It highlights the rapid evolution of AI agents capable of producing sophisticated, executable software with minimal input. The system achieves a 96 KB footprint and 180 fps frame rate, demonstrating strong agent agency in code efficiency and browser-based rendering. The entire process relies on a 40-line prompt rather than traditional, extensive specification writing.
+Nvidia has stopped individually disclosing its Singapore subsidiary's revenue in recent quarterly financial filings, which accounted for $104 billion in fiscal year 2025 and previously represented up to 22% of the company's total quarterly revenue. The company replaced the specific geographic revenue breakdown for Singapore with a broader regional categorization, obscuring the specific sales volume of its largest non-US entity. The reporting change has drawn significant scrutiny because the Singapore subsidiary has been at the center of a high-profile 'Megaspeed' investigation into the potential illegal diversion of advanced AI chips to China, which is prohibited under U.S. export controls. By ceasing to highlight the scale of its Singapore-based revenue, Nvidia raises concerns about the transparency of its supply chain routing and compliance with international trade restrictions. According to community analysis of SEC EDGAR filings, Nvidia's Singapore revenue peaked at $10.2 billion in the quarter ending July 2025, a figure that subsequently disappeared from the 'Geographic Revenue based upon Customer Billing Location' table in subsequent filings. It is important to note that this revenue reflects external sales invoiced through the Singapore entity, often routed via OEMs and resellers, rather than directly identifying the final end-customer locations.
 
-rss · Tom's Hardware · Nov 16, 11:30
+hackernews · louiereederson · Nov 17, 17:12 · [Discussion](https://news.ycombinator.com/item?id=50534631)
 
-**Background**: Fable 5.2 is an advanced AI model from Anthropic released in November 2026, specifically designed for difficult technical and scientific challenges. It is characterized by its ability to handle ambiguous problems over long periods, verify its own work, and orchestrate subagents for complex engineering tasks.
+**Background**: The U.S. government has imposed strict export controls on advanced AI semiconductors, requiring special licenses to export certain chips to China. Because end customers typically buy through a complex network of global resellers, U.S. authorities are increasingly focusing on third-country transit hubs like Singapore to prevent the 'diversion' of chips to sanctioned Chinese entities. The 'Megaspeed' case is a specific legal probe into a Singapore-based intermediary accused of illegally purchasing and exporting Nvidia chips, making the company's financial reporting in that region a focal point of compliance risk.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Introducing Claude Fable 5.2 and Claude Mythos 5.2</a></li>
-<li><a href="https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system">Claude Fable 5.2 builds a working OS with 1,000 agents in ...</a></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-abruptly-changed-reported-revenue-004426232.html?fr=sycsrp_catchall">Nvidia abruptly changed how it reported revenue in Singapore ...</a></li>
+<li><a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180">Nvidia’s Disappearing Singapore Sales Deepen Mystery Around ...</a></li>
+<li><a href="https://wccftech.com/the-u-s-shuts-chinas-access-to-advanced-chips-via-singapore-brazil-indonesia-malaysia-and-thailand-as-scott-bessent-gives-nvidia-10-days-to-show-it-did-not-goose-its-revenues/">The U . S . Shuts China's Access To Advanced Chips Via Singapore ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Agents`, `#Web Development`, `#Performance Optimization`, `#Generative Coding`
+**Discussion**: Community discussions feature sharp disagreements: some users argue the revenue change is a standard accounting practice to avoid hiding information, while others point to specific EDGAR filings showing the abrupt removal of Singapore data. A minority, influenced by the 'Megaspeed' probe, express suspicion that the financial shift is an intentional attempt to obscure the scale of chip sales being routed to China, though this remains a matter of speculation and public scrutiny.
+
+**Tags**: `#Nvidia`, `#Finance`, `#Geopolitics`, `#Supply Chain`, `#Regulation`
 
 ---
 
 <a id="item-9"></a>
-## [Microsoft Attributes Global Outage to Hidden Windows Lock Contention Bug](https://www.solidot.org/story?sid=85903) ⭐️ 8.3/10
+## [Why Increased HBM Bandwidth Is Not Enough to Solve AI Memory Bottlenecks](https://semiwiki.com/3dic/376277-can-faster-hbm-solve-ais-memory-bottleneck/) ⭐️ 8.0/10
 
-Microsoft disclosed that a hidden lock contention bug in Windows, introduced by a July 2025 update to its Microsoft 365 network gateway servers, triggered a global outage lasting over 24 hours. The failure was caused by specific traffic conditions that exhausted CPU and memory resources, a flaw that evaded prior testing on low-performance hardware. This incident highlights a critical reliability lesson: subtle concurrency bugs can remain latent on low-power hardware but manifest catastrophically on high-core-count systems under specific traffic loads. It underscores the importance of testing at scale to prevent cascading failures in global cloud infrastructure. The bug was triggered by two combined conditions: Teams traffic shifting to a primary gateway and 14% of gateway capacity being offline due to an unrelated issue. At the peak of the incident, over 80% of servers became unresponsive as automated failover mechanisms propagated the failure across regions.
+A SemiWiki analysis argues that simply increasing HBM4 bandwidth is insufficient to resolve AI memory bottlenecks, emphasizing the critical need for custom architectures and optimized interconnects. This insight is crucial for AI systems engineers and hardware designers, as it redirects focus from raw memory throughput to architectural efficiency and inter-chip communication. The analysis highlights that while HBM4 offers higher bandwidth, custom base dies and co-designed die-to-die interfaces are required to maximize compute area and reduce latency.
 
-rss · Solidot · Nov 16, 15:00
+rss · SemiWiki · Nov 17, 18:00
 
-**Background**: Lock contention occurs when multiple concurrent tasks compete for access to a shared resource, which can lead to system resource exhaustion if not managed correctly. In large-scale cloud environments, hardware scaling—increasing the number of CPU cores—can significantly alter concurrency behavior, potentially exposing latent bugs that remain invisible on smaller machines.
+**Background**: The 'memory wall' refers to the growing discrepancy between compute capabilities and memory bandwidth that limits AI accelerator performance. High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology used in AI chips, and HBM4 is its latest iteration with wider interfaces.
 
-**Tags**: `#System Reliability`, `#Microsoft 365`, `#Root Cause Analysis`, `#Concurrency Bugs`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.marvell.com/blogs/custom-hbm-system-base-die-power-thermals-ai-accelerators.html">Custom HBM as a System: Co-designing the Base Die, Die-to-Die ...</a></li>
+<li><a href="https://arxiv.org/html/2403.14123v1">AI and Memory Wall - arXiv.org</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#HBM4`, `#AI Accelerators`, `#Memory Bandwidth`, `#Hardware Architecture`
 
 ---
 
 <a id="item-10"></a>
-## [Optimizely breach delivered malware to major brands via CDN](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) ⭐️ 8.0/10
+## [(PR) AMD Completes Acquisition of Taalas to Advance AI Inference Innovation](https://www.techpowerup.com/354943/amd-completes-acquisition-of-taalas-to-advance-ai-inference-innovation) ⭐️ 7.5/10
 
-Attacker compromised Optimizely's platform and used its CDN to serve malware to major websites like Zoom and GitLab. Optimizely confirmed that its own customer and login pages were also affected. The attack demonstrated a severe supply-chain vulnerability in web analytics and marketing tools that are widely adopted. The compromise of major platforms highlights systemic risks when critical web dependencies are underwritten to third parties. The exact vector of the breach is unknown, though a recent report suggests it was caused by a voice phishing attack. The compromise occurred in the source content being served by the CDN, not in the delivery infrastructure itself.
+AMD has completed the acquisition of Taalas, a company specializing in AI inference silicon, to enhance its full-stack AI portfolio and meet the growing demand for efficient inference solutions.
 
-hackernews · kristjansson · Nov 16, 23:00 · [Discussion](https://news.ycombinator.com/item?id=50524767)
+rss · TechPowerUp News · Nov 17, 14:51
 
-**Background**: Content Delivery Networks (CDNs) are used to distribute web assets globally to improve speed and reliability. Third-party web analytics and marketing tags are frequently integrated into major sites to monitor user behavior and run ad campaigns. Supply-chain attacks bypass the target's own security perimeter by compromising a trusted third-party vendor.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://checkmarx.com/learn/supply-chain-security/how-supply-chain-attacks-work-real-examples-impact-mitigation/">Supply Chain Attacks: How They Work, Examples & Defense</a></li>
-<li><a href="https://dailysecurityreview.com/phishing/optimizely-suffers-a-data-breach-through-a-voice-phishing-attack/">Optimizely Suffers a Data Breach Through a Voice Phishing ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Critics argue that the lack of accountability and security checks in third-party vendors allows preventable attacks to happen. Users emphasize the need for browser-level security measures to mitigate the risks of heavy JavaScript dependencies on websites.
-
-**Tags**: `#security`, `#supply-chain`, `#web-dev`, `#incident-response`, `#third-party-risk`
+**Tags**: `#AMD`, `#AI`, `#Inference`, `#Hardware`, `#M&A`
 
 ---
 
 <a id="item-11"></a>
-## [Jiff 1.0: A Stable and Usable Datetime Library for Rust](https://burntsushi.net/jiff/) ⭐️ 8.0/10
+## [(PR) Q.ANT Unveils NPU Gen 2+: Photonic Fourier Transforms Power Large Language Model](https://www.techpowerup.com/354936/q-ant-unveils-npu-gen-2-photonic-fourier-transforms-power-large-language-model) ⭐️ 7.5/10
 
-Jiff 1.0, a stable datetime library created by renowned Rust developer burntsushi, has been officially released. It offers a modern alternative to existing libraries with a strong focus on usability and stability. This release addresses a long-standing pain point in the Rust ecosystem regarding complex datetime library APIs, potentially reducing the fragmentation among developers currently stuck with older tools. A stable API from a respected engineer encourages broader ecosystem adoption. Jiff includes several crate features that allow customizing support for Rust's standard library and Serde, as well as optionally embedding a copy of the Time Zone Database into the binary. The library explicitly acknowledges that it is not the right tool for every use case.
+Q.ANT unveiled its NPU Gen 2+ at SC26, featuring photonic discrete Fourier transforms to accelerate AI models and HPC applications.
 
-hackernews · burntsushi · Nov 16, 16:53 · [Discussion](https://news.ycombinator.com/item?id=50519744)
+rss · TechPowerUp News · Nov 17, 13:35
 
-**Background**: In the Rust ecosystem, datetime manipulation is often fraught with complexity due to varying time zones and historical standards. The two most prominent libraries, chrono and time, have historically faced criticism from developers for their unstable APIs and the difficulty of upgrading between major versions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/BurntSushi/jiff">GitHub - BurntSushi/ jiff : A datetime library for Rust that encourages...</a></li>
-<li><a href="https://news.ycombinator.com/item?id=41031037">Jiff : Datetime library for Rust | Hacker News</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion highlights a strong endorsement for the library's professional stance on acknowledging its own limitations. A former maintainer of chrono explained that burnout from resisting API improvements motivated him to step back, expressing gratitude for Jiff's approach. Users are expressing eagerness to replace older, problematic libraries in their projects.
-
-**Tags**: `#Rust`, `#datetime`, `#libraries`, `#chrono`, `#systems`
+**Tags**: `#Photonic Computing`, `#AI Hardware`, `#NPU`, `#HPC`, `#Optical Processing`
 
 ---
 
 <a id="item-12"></a>
-## [DRAM companies fail to get price-fixing case dismissed](https://www.electronicsweekly.com/news/business/dram-companies-sued-for-price-fixing-2026-11/) ⭐️ 8.0/10
+## [Nvidia claims its Vera CPU can gain up to 39% performance boost via software optimization at SC26 — architectural fine-tuning is needed to fully unleash custom Olympus cores](https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores) ⭐️ 7.5/10
 
-A US judge has rejected the dismissal of a class-action price-fixing lawsuit against major DRAM companies including Samsung, Hynix, and Micron.
+Nvidia demonstrated at SC26 that its Vera CPU, featuring custom Olympus Arm cores, can achieve up to a 39% performance boost through specific software optimizations.
 
-rss · Electronics Weekly · Nov 16, 06:16
+rss · Tom's Hardware · Nov 17, 17:30
 
-**Tags**: `#Semiconductors`, `#Antitrust Law`, `#DRAM`, `#Business News`, `#Legal`
+**Tags**: `#Nvidia`, `#CPU Architecture`, `#Arm Processors`, `#Performance Optimization`, `#HPC`
 
 ---
 
 <a id="item-13"></a>
-## [TSMC to set up venture arm](https://www.electronicsweekly.com/news/business/tsmc-to-set-up-venture-arm-2026-11/) ⭐️ 8.0/10
+## [Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned fabs](https://www.tomshardware.com/tech-industry/semiconductors/samsung-sk-hynix-and-micron-form-unlikely-alliance-to-standardize-robot-charging-as-chipmakers-push-toward-unmanned-chip-fabs-standard-specs-would-allow-manufacturer-agnostic-charging-equipment) ⭐️ 7.5/10
 
-TSMC is launching a $500m venture arm to invest in device startups, suppliers, and customers within its supply chain.
+Samsung, SK hynix, and Micron are collaborating to standardize battery charging infrastructure for mobile robots to facilitate the deployment of larger, mixed fleets in automated semiconductor fabs.
 
-rss · Electronics Weekly · Nov 16, 06:14
+rss · Tom's Hardware · Nov 17, 11:30
 
-**Tags**: `#semiconductors`, `#TSMC`, `#venture-capital`, `#supply-chain`, `#business-strategy`
+**Tags**: `#Semiconductors`, `#Automation`, `#Industrial Robotics`, `#Supply Chain`, `#Chip Manufacturing`
 
 ---
 
 <a id="item-14"></a>
-## [(PR) AMD-Powered Lux Supercomputer Opens to Scientific Users at Oak Ridge](https://www.techpowerup.com/354907/amd-powered-lux-supercomputer-opens-to-scientific-users-at-oak-ridge) ⭐️ 7.5/10
+## [Harvard study quantifies massive energy use and emissions of US hyperscale data centers](https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates) ⭐️ 7.5/10
 
-The AMD-powered Lux supercomputer, ranked 14th on the TOP500 list and equipped with Instinct MI355X GPUs, has opened to scientific users at Oak Ridge National Laboratory as part of the DOE's Genesis Mission.
+A Harvard-led study published in Nature Sustainability estimates that 403 US hyperscale data centers consumed approximately 82 terawatt-hours of electricity between May 2024 and April 2025. The research also determined that these facilities generated 25.7 million metric tons of carbon dioxide during the same period. This study provides the first peer-reviewed estimates of carbon emissions from America's largest data centers since the artificial intelligence boom began, highlighting the urgent need for sustainability strategies. It connects infrastructure expansion directly to measurable environmental impacts, influencing policy discussions on energy sourcing for AI. According to the study, over 50% of the electricity consumed by these data centers was derived from natural gas and coal. The total consumption of 82 terawatt-hours exceeds 80% of the entire annual electricity usage of the state of Michigan.
 
-rss · TechPowerUp News · Nov 16, 19:23
+rss · Tom's Hardware · Nov 17, 10:30
 
-**Tags**: `#HPC`, `#AMD`, `#AI Infrastructure`, `#Supercomputing`, `#DOE`
+**Background**: Hyperscale data centers are massive facilities that house the computational hardware required to support large-scale AI models and cloud services. Terawatt-hours (TWh) are a unit of energy used to measure large-scale electricity consumption, where one TWh equals 1,000,000 megawatt-hours.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html">Carbon Emissions of Biggest U.S. Data Centers Already Rival Entire...</a></li>
+<li><a href="https://www.newsmax.com/newsfront/harvard-study-data-centers/2026/11/16/id/1276511/">Harvard Study: Data Centers Use 1.8% of US Electricity</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Data Centers`, `#Sustainability`, `#AI Infrastructure`, `#Energy Consumption`, `#Environmental Impact`
 
 ---
 
 <a id="item-15"></a>
-## [Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second](https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu) ⭐️ 7.5/10
+## [J-35 Developers 3D-Print Massive Load-Bearing Aircraft Structures](https://www.tomshardware.com/3d-printing/china-engineers-behind-j-35-fighter-jet-pioneer-3d-printed-load-bearing-structures-in-military-aircraft-behemoth-16-4-foot-part-uses-segmented-printing-and-fusion-techniques) ⭐️ 7.5/10
 
-An open-source project called Garlic LLM enables running Alibaba's Qwen3.5-9B model offline on a jailbroken PS4 by bypassing standard drivers to directly utilize the GPU.
+Engineers from China's first aircraft research institute, responsible for the J-35 fighter jet, have successfully 3D-printed a primary load-bearing component exceeding 16.4 feet in length. This breakthrough significantly reduces the need for bolted joints in military aircraft, thereby streamlining manufacturing and accelerating the research and development cycle for advanced aerospace platforms. The 16.4-foot component was produced using advanced segmented printing and fusion techniques, which are necessary to build large, complex structures that exceed standard additive manufacturing bed sizes.
 
-rss · Tom's Hardware · Nov 16, 13:00
+rss · Tom's Hardware · Nov 17, 10:00
 
-**Tags**: `#LLM-Inference`, `#Embedded-Systems`, `#PS4-Hacking`, `#Qwen`, `#OpenSource`
+**Background**: In aerospace engineering, primary load-bearing structures form the rigid framework that an aircraft must withstand heavy forces during flight. Additive manufacturing, or 3D printing, allows these complex, integrated structures to be created without the need for thousands of separate fasteners. As a result, airframes can be lighter and stronger, while assembly times are drastically reduced compared to traditional machining and joining methods.
+
+**Tags**: `#Additive Manufacturing`, `#Aerospace Engineering`, `#Military Technology`, `#3D Printing`, `#Structural Engineering`
 
 ---
 
 <a id="item-16"></a>
-## [Developer Creates a Valid ZIP File That Is Also a BIOS-Bootable OS](https://www.tomshardware.com/software/operating-systems/developer-creates-a-100-percent-valid-zip-file-that-doubles-as-a-bios-bootable-operating-system-hiding-bios-boot-flags-inside-uncompressed-files-and-turning-file-headers-into-cpu-instructions) ⭐️ 7.5/10
+## [Outage hits highly classified US national security communications network](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) ⭐️ 7.0/10
 
-A developer engineered a ZIP file that is simultaneously a valid archive, a BIOS-bootable image, and a Multiboot kernel by encoding BIOS boot flags within uncompressed file data and transforming file headers into executable CPU instructions. This creates a polyglot file that satisfies multiple strict format requirements at once. This proof-of-concept demonstrates a deep understanding of data structures, filesystems, and x86 assembly, serving as an impressive showcase for the systems programming and low-level engineering community. It highlights the potential for creative and efficient resource utilization in constrained environments. The key technical achievement lies in repurposing non-executable parts of the ZIP format, such as file headers, as CPU instructions, and hiding the BIOS boot sector flags inside uncompressed data. This allows the file to be parsed correctly by ZIP tools and by a BIOS bootloader simultaneously.
+A highly classified US national security communications network experienced an outage on November 17, 2026. Cybersecurity experts are currently speculating that the incident may be linked to AI-driven attacks or industry-wide workforce reductions. The disruption of a classified network raises critical concerns about the resilience of critical national infrastructure against emerging cyber threats. It highlights the potential security trade-offs resulting from recent workforce reductions in sensitive technical sectors. The incident has prompted specific discussions regarding whether the outage was caused by advanced AI-assisted exploits or a general decline in maintenance capacity due to layoffs. There is also significant debate over the appropriateness of publicly announcing the status of a classified system.
 
-rss · Tom's Hardware · Nov 16, 10:00
+hackernews · monkeydust · Nov 17, 15:38 · [Discussion](https://news.ycombinator.com/item?id=50532849)
 
-**Background**: The Multiboot specification is an open standard describing how a boot loader can load an x86 operating system kernel, used by bootloaders like GRUB. A polyglot file in computing is a file written in a valid form of multiple programming languages or file formats. The ZIP file format is a standard for lossless data compression and archiving.
+**Background**: Highly classified communications networks are used by governments to transmit sensitive national security information, requiring the highest levels of protection against external interference and internal errors. In the technology sector, workforce reductions have been a trend, which cybersecurity experts argue can lead to increased vulnerability due to less expert oversight and maintenance of complex systems. AI-driven attacks refer to malicious operations that utilize artificial intelligence to accelerate the discovery and exploitation of software vulnerabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Multiboot_Specification">Multiboot specification - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Polyglot_(computing)">Polyglot (computing) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/ZIP_(file_format)">ZIP (file format) - Wikipedia</a></li>
+**Discussion**: Community members debated whether the announcement of a classified network outage is procedurally surprising, suggesting it should only be public after the system is secure. Some users speculated that recent workforce cuts in technical roles may have contributed to the failure, while others pointed to the rising threat of AI-assisted offensive hacking as a more likely cause.
 
-</ul>
-</details>
-
-**Tags**: `#systems-programming`, `#zip-architecture`, `#bootable-os`, `#polyglot-code`, `#low-level`
+**Tags**: `#national-security`, `#cybersecurity`, `#incident-response`, `#ai-security`, `#infrastructure`
 
 ---
 
 <a id="item-17"></a>
-## [CMU launches CS Learn for free full-course lectures](https://www.cs.cmu.edu/learn/) ⭐️ 7.0/10
+## [Community Debate: Is Agent Harness Selection More Critical Than the LLM Model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/) ⭐️ 7.0/10
 
-Carnegie Mellon University launched 'CS Learn', a free YouTube platform offering full-semester computer science lectures from the Griffin School of Computer Science. The platform releases one new course daily, with additional courses and courseware scheduled for release in January. By democratizing access to top-tier computer science education, CMU helps students globally build essential fundamentals that allow them to leverage AI as a power tool rather than being replaced by it. This open-access initiative significantly reduces barriers for those seeking high-quality CS knowledge. Student-built tools automate much of the production workflow, and the platform includes high-interest advanced topics such as ML Systems, Probability, and Distributed Systems. The course includes full lecture series, slides, and notes, with projects and feedback mechanisms expected in the coming months.
+The blog post from runta.com analyzed the performance of various agent harnesses on Terminal-Bench tasks, sparking a community discussion about the interplay between orchestration layers and underlying models. The debate centers on whether the agent harness is becoming a more significant factor for task success than the LLM itself. As language models become more capable, the focus of AI engineering shifts from pure model benchmarking to system design and harness orchestration. This shift is highly relevant for practitioners who need to optimize agent performance in complex, real-world environments rather than relying solely on raw model intelligence. A key technical insight is that harnesses are generally simple loops, yet their impact is highly dependent on the specific problem domain and tool constraints rather than just the model's raw capabilities. Furthermore, 64% of spending in the analyzed runs was on tasks that failed to pass the Terminal-Bench verifiers, raising questions about the efficiency of current agent workflows.
 
-hackernews · pcompeau · Nov 16, 20:43 · [Discussion](https://news.ycombinator.com/item?id=50522980)
+hackernews · Edward40 · Nov 17, 14:53 · [Discussion](https://news.ycombinator.com/item?id=50532191)
 
-**Background**: CS Learn is hosted on YouTube, allowing global access to CMU's real classroom lectures. While MIT has been offering similar online course materials for 25 years, CMU's release represents the latest major push in open educational resources.
+**Background**: An AI agent harness is a software framework that orchestrates, monitors, and manages large language models to perform multi-step tasks autonomously. Terminal-Bench is a comprehensive benchmark developed by Stanford University and the Laude Institute that evaluates agents on difficult, real-world terminal-based tasks such as software engineering and system administration. The relationship between harness and model involves how effectively the orchestration layer translates user intent into tool calls and manages the execution loop.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youtube.com/channel/UCqvooOJo8792T83va7LMMSA">CS Learn at Carnegie Mellon - YouTube</a></li>
+<li><a href="https://www.tbench.ai/">TERMINAL-BENCH</a></li>
+<li><a href="https://atlan.com/know/best-ai-agent-harness-tools-2026/">Best AI Agent Harness Tools and Frameworks 2026</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is enthusiastic, particularly about advanced courses like ML Systems and Probability, while some emphasize the need for accompanying projects and feedback mechanisms to make the lectures truly effective. Alumni and professionals agree that mastering CS fundamentals is crucial for leveraging AI successfully.
+**Discussion**: Practitioners disagree on the importance of harnesses; some argue that for advanced models like Claude Opus, different harnesses yield nearly identical results, making the model the primary factor. Others contend that the best harness is strictly dependent on the specific problem domain and tooling, suggesting that orchestration design is becoming increasingly critical as models improve.
 
-**Tags**: `#Computer Science`, `#Education`, `#Carnegie Mellon`, `#Open Access`, `#Machine Learning`
+**Tags**: `#AI Agents`, `#LLM Evaluation`, `#Harness Design`, `#Coding Agents`
 
 ---
 
 <a id="item-18"></a>
-## [yieldWerx PhotonX Traces Photonic Module Failures to Die](https://semiwiki.com/eda/yieldwerx/375995-yieldwerxs-photonx-traces-photonic-module-failures-back-to-the-die/) ⭐️ 7.0/10
+## [Alloy CSS creates dialogs and tabs without JavaScript](https://alloyhtml.com/example.html) ⭐️ 7.0/10
 
-yieldWerx has presented PhotonX, a tool designed to trace failures in photonic modules back to the specific die. This tool addresses the challenge of identifying root causes when modules fail after assembly or burn-in, even if they passed initial wafer-level tests. This solution is significant for the photonic integration industry by improving cross-supplier traceability and reducing post-assembly yield loss. It provides critical data for manufacturers to manage complex supply chains involving multiple test records and identifiers. The tool specifically targets failures that occur after a photonic module has passed wafer-level tests, linking evidence across different suppliers who use their own identifiers. It was presented at PIC Summit Europe 2026, highlighting its relevance to advanced optical interconnect manufacturing.
+Alloy CSS is a new framework that enables developers to build interactive UI components like dialogs, menus, and tabs using only HTML and CSS. It eliminates the need for JavaScript for these common patterns. This approach enhances web security by reducing the attack surface associated with client-side scripting and improves accessibility. It addresses a significant gap in modern web development where simple interactions often rely on heavy JavaScript dependencies. The library uses many CSS classes with common names, which can cause style conflicts when integrating into existing projects with established style guides. It is best suited for greenfield projects or when used with a CSS builder that supports prefixing.
 
-rss · SemiWiki · Nov 16, 16:00
+hackernews · prafandy · Nov 17, 15:07 · [Discussion](https://news.ycombinator.com/item?id=50532385)
 
-**Background**: A photonic integrated circuit (PIC) is a microchip that uses light to process information, while a semiconductor die is a block of material on which a circuit is fabricated. In manufacturing, post-assembly yield loss refers to defects that emerge only after components are combined, making it difficult to pinpoint which specific die or supplier caused the failure.
+**Background**: Traditionally, interactive UI elements like modals and tabs require JavaScript to handle state changes and user input. Alloy CSS leverages modern CSS features and HTML elements to mimic this behavior without scripting. While CSS has improved, it remains limited in handling complex, dynamic interactions compared to JavaScript.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Photonic_integrated_circuit">Photonic integrated circuit - Wikipedia</a></li>
-<li><a href="https://ieeexplore.ieee.org/document/6894396/">Applying a redundancy scheme to address post - assembly yield loss ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Die_(integrated_circuit)">Die (integrated circuit) - Wikipedia</a></li>
+<li><a href="https://github.com/topics/css-components">css - components · GitHub Topics · GitHub</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:focus-within">:focus-within CSS pseudo-class - CSS | MDN - MDN Web Docs</a></li>
+<li><a href="https://css-tricks.com/accessible-forms-with-pseudo-classes/">Accessible Forms with Pseudo Classes - CSS-Tricks</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Photonics`, `#Semiconductor Yield`, `#EDA`, `#Optical Interconnects`, `#Manufacturing`
+**Discussion**: Commenters generally support the idea of reducing JavaScript dependency for security and simplicity, noting that many complex CSS layouts are tedious and bug-prone. However, users raised concerns about class name conflicts in existing projects and questioned the practicality of maintaining such components without JS for highly dynamic interfaces.
+
+**Tags**: `#css`, `#frontend`, `#accessibility`, `#web-standards`, `#no-js`
 
 ---
 
 <a id="item-19"></a>
-## [Top 500 HPC List Records Fewest New Systems in 33 Years](https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years) ⭐️ 6.5/10
+## [Melexis launches fingertip modules for humanoid robots](https://www.electronicsweekly.com/news/business/melexis-launches-fingertip-modules-for-humanoid-robots-2026-11/) ⭐️ 7.0/10
 
-The latest Top 500 supercomputer list reports the fewest new system entries in its 33-year history. This indicates that compute infrastructure investments are significantly diverting away from traditional HPC towards AI data centers. This structural shift signals a broader industry trend where AI is consuming most new hardware, impacting future HPC supply chains. It highlights the growing divergence between traditional scientific computing and modern AI workloads. The drop in new entries reflects the rise of AI factories that prioritize high-memory and large-scale GPU clusters over traditional HPC benchmarks like HPL. This trend could affect the availability of specialized HPC hardware for non-AI tasks.
+Melexis has launched the MLX90901 Tactile Fingertip Module, a mechatronic component enabling 3D force sensing for humanoid robotic hands.
 
-rss · Tom's Hardware · Nov 16, 22:17
+rss · Electronics Weekly · Nov 17, 06:07
 
-**Background**: The Top 500 list is published twice a year to rank the fastest non-distributed supercomputers. Historically, it tracks major scientific advancements, but recent updates show fewer new systems entering the ranking compared to previous decades.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/TOP500">TOP 500 - Wikipedia</a></li>
-<li><a href="https://www.datacenters.com/news/inside-the-ai-data-center-what-makes-it-different-from-traditional-facilities">AI Data Centers vs. Traditional Data Centers: Key Differences</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Supercomputing`, `#AI Infrastructure`, `#HPC`, `#Industry Trends`, `#Data Centers`
+**Tags**: `#Robotics`, `#Humanoid Robots`, `#Tactile Sensing`, `#Embedded Systems`, `#Melexis`
 
 ---
 
 <a id="item-20"></a>
-## [40 Amazon Project Kuiper Satellites Lost in ULA Vulcan Rocket Failure](https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday) ⭐️ 6.5/10
+## [Intel Prepares "Razor Lake" in Three Flavors: S, U, and L](https://www.techpowerup.com/354941/intel-prepares-razor-lake-in-three-flavors-s-u-and-l) ⭐️ 6.5/10
 
-Amazon's Project Kuiper suffered a major setback when 40 low-Earth-orbit satellites were destroyed in a failed United Launch Alliance (ULA) Vulcan rocket launch. An anomaly occurred just 10 minutes after launch, ruining what was meant to be the largest payload for Amazon's satellite initiative. This failure significantly delays Amazon's competitive threat to SpaceX's Starlink, the current market leader in direct-to-consumer satellite internet. It also represents a major reliability concern for ULA, marking the first total mission failure in its 20-year history and raising doubts about its upcoming commercial launch schedule. The rocket used was the Vulcan Centaur VC6L configuration, equipped with the shorter Centaur V upper stage and six solid rocket boosters. The anomaly struck at roughly T+10 minutes, meaning the satellites failed to reach orbit and the hardware was lost.
+Linux kernel patches reveal that Intel is preparing four variants of its next-generation 'Razor Lake' platform, designated S, U, L, and an unsuffixed version, spanning desktop and mobile segments.
 
-rss · Tom's Hardware · Nov 16, 13:30
+rss · TechPowerUp News · Nov 17, 16:27
 
-**Background**: Amazon's Project Kuiper, recently rebranded as Amazon Leo, aims to deploy a massive constellation of over 3,000 low Earth orbit satellites to provide broadband internet globally, especially in underserved regions. United Launch Alliance (ULA), a joint venture of Lockheed Martin and Boeing, developed the Vulcan Centaur rocket to compete in the commercial launch market, with its first flight occurring in 2024.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Amazon_Leo">Amazon Leo - Wikipedia</a></li>
-<li><a href="https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/">Vulcan rocket fails during launch, dealing major blow to ...</a></li>
-<li><a href="https://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/">ULA Vulcan Rocket Suffers Anomaly During First Amazon Leo Launch</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Space Industry`, `#Amazon`, `#Satellite Internet`, `#Engineering Failure`, `#Tech News`
+**Tags**: `#Intel`, `#Razor Lake`, `#Hardware`, `#Linux Kernel`, `#CPU Architecture`
 
 ---
