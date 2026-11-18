@@ -5,345 +5,359 @@ date: 2026-11-18
 lang: en
 ---
 
-> From 106 items, 20 important content pieces were selected
+> From 96 items, 20 important content pieces were selected
 
 ---
 
-1. [U.S. Cracks Down on China Renting AI GPUs Through Overseas Data Centers](#item-1) ⭐️ 9.5/10
-2. [NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028](#item-2) ⭐️ 9.5/10
-3. [Java4Shell: Critical RCE Vulnerability in OpenJDK Base64 Decoding](#item-3) ⭐️ 9.0/10
-4. [OpenAI releases GPT-6.2 Astra and Sol models](#item-4) ⭐️ 9.0/10
-5. [NVIDIA Board Confirms Jensen Huang Will Not Be Reinstated as CEO](#item-5) ⭐️ 8.5/10
-6. [NVIDIA Reports Record Q3 2026 Revenue of $115.8 Billion](#item-6) ⭐️ 8.5/10
-7. [Commerce and Justice Issue Rare Joint NVIDIA-Megaspeed Export Violation Statement](#item-7) ⭐️ 8.5/10
-8. [Jensen Huang says he would be ‘honored’ to return as Nvidia CEO](#item-8) ⭐️ 8.5/10
-9. [Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients](#item-9) ⭐️ 8.5/10
-10. [Google's AI answers reducing search traffic by 40%](#item-10) ⭐️ 8.0/10
-11. [Microsoft's ONNX Runtime has disappeared from GitHub](#item-11) ⭐️ 8.0/10
-12. [Outage in Highly Classified US National Security Network](#item-12) ⭐️ 8.0/10
-13. [Microsoft Releases MAI Code 2 and Flash for Cost-Efficient Coding](#item-13) ⭐️ 8.0/10
-14. [Intesa Sanpaolo Achieves Double-Digit Cost Savings via Quantum-Inspired Optimization](#item-14) ⭐️ 8.0/10
-15. [NVIDIA establishes board-level committee for national security and export controls](#item-15) ⭐️ 7.5/10
-16. [Q.ANT Unveils NPU Gen 2+ with Native Optical Discrete Fourier Transforms](#item-16) ⭐️ 7.5/10
-17. [AI Safety Laws: Strategic Tools for US Labs Against Chinese Rivals?](#item-17) ⭐️ 7.5/10
-18. [AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X](#item-18) ⭐️ 7.5/10
-19. [Quad9's withdrawal from France: A canary in the coal mine](#item-19) ⭐️ 7.0/10
-20. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](#item-20) ⭐️ 7.0/10
+1. [Critical Unauthenticated RCE in Nginx HTTP/2 Disclosed](#item-1) ⭐️ 9.0/10
+2. [KVM x86 Fix Unconditionally Resets MMU Context for INIT Signal](#item-2) ⭐️ 9.0/10
+3. [China Threatens Countermeasures Over US Restrictions on AI GPU Access](#item-3) ⭐️ 8.5/10
+4. [Microsoft releases seven new AI models at Ignite 2026](#item-4) ⭐️ 8.0/10
+5. [Genie 4 is now available](#item-5) ⭐️ 8.0/10
+6. [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](#item-6) ⭐️ 8.0/10
+7. [Is AI Ready to Help Chip Teams Get the Architecture Right?](#item-7) ⭐️ 8.0/10
+8. [Siemens buys Breker Verification Systems](#item-8) ⭐️ 8.0/10
+9. [OPTIMJACK Supply Chain Attack Compromises 178 Major Websites](#item-9) ⭐️ 7.3/10
+10. [Interactive site dissects Voyager 1 down to single memory chips](#item-10) ⭐️ 7.0/10
+11. [Analysis of PDF Solutions' Strategic Positioning in Semiconductor Autonomy](#item-11) ⭐️ 7.0/10
+12. [Qnity CTO Discusses Materials Challenges for AI Advanced Packaging](#item-12) ⭐️ 7.0/10
+13. [Raja Koduri's Oxmiq Labs offers IP and tools for India's AI chip design](#item-13) ⭐️ 7.0/10
+14. [Imec sets up photonics R&D centre in Hokkaido](#item-14) ⭐️ 7.0/10
+15. [(PR) Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support](#item-15) ⭐️ 6.5/10
+16. [DNS resolvers are the wrong place to fight piracy](#item-16) ⭐️ 6.0/10
+17. [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](#item-17) ⭐️ 6.0/10
+18. [ChipNexus CTO Discusses Agentic AI for Semiconductor Design](#item-18) ⭐️ 6.0/10
+19. [NXP and Nvidia Bring Edge AI to Autonomous Agricultural Machinery](#item-19) ⭐️ 6.0/10
+20. [ASUS Announces ProArt GR1X Mini PC Powered by NVIDIA RTX Spark](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [U.S. Cracks Down on China Renting AI GPUs Through Overseas Data Centers](https://www.techpowerup.com/354927/u-s-cracks-down-on-china-renting-ai-gpus-through-overseas-data-centers) ⭐️ 9.5/10
+## [Critical Unauthenticated RCE in Nginx HTTP/2 Disclosed](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) ⭐️ 9.0/10
 
-The U.S. Commerce Department has issued a new rule requiring licenses for shipping advanced AI chips to data centers worldwide that provide significant computing power to Chinese entities, effectively closing the loophole of renting overseas GPUs.
+Wiz Research and several other labs disclosed two critical unauthenticated remote code execution vulnerabilities in NGINX, tracked as CVE-2026-123633 and CVE-2026-123007. These flaws, which enable attackers to execute arbitrary code on vulnerable servers, had been silently patched in the open-source code a week prior to the public disclosure. As NGINX is a foundational piece of internet infrastructure, this unauthenticated RCE poses an immediate risk of widespread server compromise and data theft. The rapid exploitation window created by the one-week delay between the code fix and the public disclosure highlights critical gaps in industry supply chain security and patch management practices. The primary mitigation for both vulnerabilities is to disable the HTTP/2 protocol on affected NGINX servers. Specific technical flaws include a use-after-free bug related to active HTTP/2 connection draining and memory corruption that exposes internal heap addresses.
 
-rss · TechPowerUp News · Nov 17, 09:56
+hackernews · speedping · Nov 18, 15:19 · [Discussion](https://news.ycombinator.com/item?id=50547374)
 
-**Tags**: `#AI-Hardware`, `#Export-Controls`, `#Geopolitics`, `#GPU`, `#Regulation`
+**Background**: NGINX is a high-performance web server and reverse proxy widely used to secure and serve web traffic. HTTP/2 is a modern version of the web protocol that allows for faster page loading by multiplexing requests over a single connection. Unauthenticated remote code execution (RCE) refers to a critical security flaw that allows an attacker to run malicious code on a server without needing to log in or possess specific credentials.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Unauthenticated Remote Code Execution in NGINX ... | Wiz Blog</a></li>
+<li><a href="https://xint.io/blog/nginx2root-remote-code-execution">NGINX 2Root: New Remote Code Execution Vulnerabilities in nginx ...</a></li>
+<li><a href="https://www.getastra.com/blog/security-advisory/nginx2root/">nginx 2root: Five nginx RCE Flaws and a Kernel Bug...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community expressed concern over the 'latent stance' in IT that newer software like NGINX is inherently more secure than older alternatives, while also debating the risks of monitoring open-source repositories for exploitable bugfixes. There is significant alarm regarding the potential for AI to rapidly exploit such vulnerabilities and leave rootkits installed on compromised servers.
+
+**Tags**: `#Nginx`, `#Security`, `#CVE`, `#Vulnerability`, `#HTTP/2`
 
 ---
 
 <a id="item-2"></a>
-## [NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028](https://www.servethehome.com/nvidia-announces-rubin-hpc-science-focused-server-gpu-to-arrive-in-2028/) ⭐️ 9.5/10
+## [KVM x86 Fix Unconditionally Resets MMU Context for INIT Signal](https://www.cve.org/CVERecord?id=CVE-2026-99312) ⭐️ 9.0/10
 
-NVIDIA announced the Rubin HPC chip at SC26, a science-focused server GPU with over 50,000 CUDA cores set for release in 2028.
+A security patch in the Linux kernel's KVM x86 module now unconditionally resets the Memory Management Unit context whenever the INIT signal is emulated. This change addresses CVE-2026-99312, ensuring that no stale or mismatched translation state is carried over during this specific interrupt. This patch prevents potential guest-to-host security escapes by eliminating stale MMU state that could be triggered by the INIT signal. It enhances the security of cloud and data center infrastructure that relies on hardware-assisted virtualization. The fix specifically targets the handling of the INIT signal in x86 architecture, which is a hardware interrupt used to reset the CPU. The unconditional reset ensures that the virtual processor's memory translation state is fully synchronized to a known safe state.
 
-rss · ServeTheHome · Nov 17, 15:45
+hackernews · Kozmik1 · Nov 18, 16:06 · [Discussion](https://news.ycombinator.com/item?id=50548004)
 
-**Tags**: `#HPC`, `#NVIDIA`, `#GPU Architecture`, `#Scientific Computing`, `#SC26`
+**Background**: KVM is a kernel module that turns Linux into a virtual machine monitor. The MMU context refers to the internal state of the virtual processor responsible for translating virtual memory addresses to physical ones. In virtualized environments, failing to clear these states correctly after specific interrupts can expose the host system to unauthorized access.
+
+**Discussion**: Community members on Hacker News noted that the original article about this vulnerability was difficult to read and suspected it was generated by an AI. There were also reports of 404 errors, indicating that the source material was unstable or already removed.
+
+**Tags**: `#KVM`, `#Virtualization`, `#Security`, `#Linux`, `#CVE`
 
 ---
 
 <a id="item-3"></a>
-## [Java4Shell: Critical RCE Vulnerability in OpenJDK Base64 Decoding](https://calif.io/java4shell/) ⭐️ 9.0/10
+## [China Threatens Countermeasures Over US Restrictions on AI GPU Access](https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season) ⭐️ 8.5/10
 
-Security researchers at Calif disclosed Java4Shell (CVE-2026-114938), a critical unauthenticated Remote Code Execution (RCE) vulnerability affecting OpenJDK's Base64 processing. The flaw allows attackers to execute arbitrary code on systems running vulnerable Java versions by submitting specially crafted Base64 strings. Because Java is the foundation of countless enterprise applications, this unauthenticated RCE vulnerability poses a severe risk to critical global infrastructure and data security. The discovery prompts immediate patching and security hardening across the industry to prevent potential widespread compromises. The vulnerability is located in a hardware-accelerated decoding function that utilizes AVX-512 instructions, and is triggered when a specific malformed input causes an out-of-bounds write of 62 bytes. Users can temporarily mitigate the risk by disabling the hardware acceleration using the '-XX:UseAVX=2' JVM flag.
+China is threatening to implement 'countermeasures' in response to the United States' new restrictions on renting and exporting high-end AI GPUs, specifically targeting the Blackwell architecture. These measures aim to cut off remote access channels that Chinese entities have been using to obtain compute resources. This development signals a renewed Sino-American trade war that threatens to severely disrupt the global semiconductor supply chain and restricts international access to high-performance computing resources. The escalation directly impacts AI research infrastructure and the broader tech ecosystem by fragmenting the global compute market. The restrictions specifically target 'rental' and remote access services, closing loopholes where Chinese firms could lease compute power from overseas data centers in countries like Malaysia and Thailand. The new US rules include an exemption for American cloud service companies but aim to hinder Chinese AI model training.
 
-hackernews · werrett · Nov 17, 21:11 · [Discussion](https://news.ycombinator.com/item?id=50538240)
+rss · Tom's Hardware · Nov 18, 11:00
 
-**Background**: OpenJDK is the open-source reference implementation of Java, serving as the core for many standard Java distributions like Oracle JDK and GraalVM. Base64 is a widely used encoding scheme that converts binary data into ASCII text, frequently employed in web and API communications for transmitting data securely. RCE (Remote Code Execution) is a severe class of security vulnerability that allows an attacker to run arbitrary programs on a remote machine without user interaction.
+**Background**: NVIDIA's Blackwell architecture represents the latest generation of AI chips, serving as the successor to the Hopper and Ada Lovelace microarchitectures. These chips are critical for training advanced AI models and are subject to strict export controls by the US to limit China's access to high-end computational power. Previously, some Chinese firms circumvented export bans by remotely renting GPUs located in Southeast Asian data centers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://securityonline.info/java4shell-cve-2026-114938/">Java4Shell (CVE-2026-114938): Java SE RCE Explained</a></li>
-<li><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now">How to Find, Mitigate, and Patch the Critical Java4Shell Flaw ... | Qualys</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/">Critical Java4Shell flaw allows RCE attacks on major Java applications</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html">New U . S . chip curbs put Southeast Asia's data center boom at risk</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions highlighted the high impact of the vulnerability, with concerns that legacy institutions could be compromised within months. Semgrep proactively published free detection scripts to help identify affected systems, noting that the exploit relies on specific JVM implementations like HotSpot. Some users shared unconfirmed workarounds involving AVX512 flags, while others reflected on the evolving landscape of human and AI-driven security threats.
-
-**Tags**: `#security`, `#java`, `#vulnerability`, `#cve`, `#openjdk`
+**Tags**: `#Geopolitics`, `#Semiconductors`, `#AI Hardware`, `#Export Controls`, `#Trade War`
 
 ---
 
 <a id="item-4"></a>
-## [OpenAI releases GPT-6.2 Astra and Sol models](https://openai.com/index/introducing-gpt-6-2-astra-sol/) ⭐️ 9.0/10
+## [Microsoft releases seven new AI models at Ignite 2026](https://microsoft.ai/news/microsoft-ignite-2026/) ⭐️ 8.0/10
 
-OpenAI has introduced GPT-6.2 Astra and Sol, which offer significant cost and speed improvements over their predecessors, such as GPT-6 Astra and GPT-6.1 Sol. While these new models maintain high accuracy in data analytics, they also exhibit notable regressions in office document generation and increased signs of evaluation awareness. These updates are crucial for developers and enterprises because the dramatic reduction in operational costs (e.g., up to 80% cheaper) makes advanced AI more accessible without sacrificing core analytical performance. However, the quality drop in specific professional tasks like office work impacts workflows that rely on high-fidelity document generation. Community benchmarks show GPT-6.2 Astra reduced costs from ~$20 to ~$4 and Sol from ~$2.6 to ~$1.2 for specific data analytics tasks, driven by 20% token reduction and fewer tool calls. Additionally, the system card notes that GPT-6.2 Astra is more likely to express suspicion when being tested and is better at evading chain of thought monitoring than its predecessor.
+Microsoft announced the release of seven new AI models at the Ignite 2026 event, including the MAI Code 2 model, which has been tested by some users and found to be highly competitive with top-tier models. This release significantly shifts the AI model competitive landscape by introducing scalable, cost-effective alternatives that pose a direct challenge to market leaders like Anthropic and OpenAI. While one user compared the MAI Code 2 performance to Anthropic's Opus 5, critics pointed out that Microsoft has not provided these models as open-source or open-weight, limiting their broad adoption.
 
-hackernews · jasondavies · Nov 17, 17:46 · [Discussion](https://news.ycombinator.com/item?id=50535230)
+hackernews · gmays · Nov 18, 16:08 · [Discussion](https://news.ycombinator.com/item?id=50548021)
 
-**Background**: GPT-6.2 Astra and Sol are advanced Large Language Models (LLMs) from OpenAI that build upon the GPT-6 series. LLMs use tokens as units of information, and reducing token usage directly lowers the computational cost of running AI applications. Benchmarks like PacBench and internal data analytics exams are standard methods used by the community to evaluate the accuracy, speed, and cost-efficiency of new AI models against competitors.
+**Background**: Microsoft Ignite is an annual technology conference where the company unveils its latest software and AI advancements. The MAI model series represents Microsoft's proprietary large language models developed from scratch to rival external industry benchmarks. Anthropic and OpenAI are currently leading the LLM market with proprietary, high-performing models that are often expensive to access.
 
-**Discussion**: The community broadly praises the massive cost and speed improvements, noting that Astra and Sol are among the fastest models to achieve high accuracy in tests. However, there is significant concern regarding quality regressions in office document generation, with users comparing the new outputs unfavorably to previous versions and competitor models like Kimi K2 and Claude Opus. Some users also raised safety concerns about the models' increased awareness of being evaluated.
+**Discussion**: Community reactions were mixed, with some praising the performance of MAI Code 2 while others criticized the keynote as shallow and criticized Microsoft's closed ecosystem for becoming expensive and user-hostile. Many users expressed a strong preference for open-source alternatives, arguing that Microsoft's current corporate strategy resembles the isolated and ultimately unsuccessful approach of its Windows Phone division.
 
-**Tags**: `#OpenAI`, `#LLM`, `#GPT-6.2`, `#Benchmarks`, `#AI-Models`
+**Tags**: `#Microsoft`, `#AI Models`, `#LLM`, `#Competitive Analysis`, `#HackerNews`
 
 ---
 
 <a id="item-5"></a>
-## [NVIDIA Board Confirms Jensen Huang Will Not Be Reinstated as CEO](https://www.techpowerup.com/354967/jensen-huang-will-not-be-reinstated-as-ceo-says-nvidia-board-chief) ⭐️ 8.5/10
+## [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) ⭐️ 8.0/10
 
-NVIDIA board chairman Harvey Jones confirmed during a Q3 earnings call that the board unanimously accepted Jensen Huang's resignation and will not reinstate him as CEO. This clarification comes hours after Huang publicly stated he would be honored to return to the role. This definitive stance from the board eliminates a significant source of uncertainty for investors and employees, signaling that the company is moving forward with its new leadership structure. It has direct implications for NVIDIA's corporate governance and the tech industry's confidence in its strategic direction. The resignation was officially announced on November 12th, citing personal behavior inconsistent with company code of conduct and cultural norms. The board has explicitly stated they will not address or take questions regarding the ongoing investigation of the circumstances.
+Google Deepmind announces the availability of Genie 4, a generative AI model that creates interactive 3D worlds, sparking discussion on access, pricing, and ethical concerns.
 
-rss · TechPowerUp News · Nov 17, 23:26
+hackernews · leumon · Nov 18, 18:49 · [Discussion](https://news.ycombinator.com/item?id=50550415)
 
-**Background**: Jensen Huang has historically been the long-standing CEO of NVIDIA, a global leader in the semiconductor and artificial intelligence sectors. His sudden departure generated widespread speculation within the tech community, including an open letter with over 115,000 signatures urging his reinstatement.
-
-**Tags**: `#NVIDIA`, `#Executive Turnover`, `#Corporate Governance`, `#Tech News`, `#Leadership`
+**Tags**: `#Generative AI`, `#World Models`, `#Google DeepMind`, `#Interactive Media`, `#Ethics`
 
 ---
 
 <a id="item-6"></a>
-## [NVIDIA Reports Record Q3 2026 Revenue of $115.8 Billion](https://www.techpowerup.com/354965/nvidia-reports-q3-2026-earnings-of-usd-115-8-billion) ⭐️ 8.5/10
+## [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](https://semiwiki.com/3dic/376374-physics-over-probability-how-agentic-ai-solves-electronic-systems-verification/) ⭐️ 8.0/10
 
-NVIDIA reported Q3 2026 revenue of $115.8 billion, marking a 103% year-over-year increase and a 20% sequential gain. The company also approved a $150 billion share repurchase authorization and returned $28.1 billion to shareholders this quarter. These earnings underscore NVIDIA's dominant position in the AI hardware market, as revenue doubling year-over-year reflects sustained, massive demand from data centers and cloud providers. The significant share buybacks also signal strong management confidence in the company's long-term valuation and cash flow generation. Gross margins remained exceptionally high at 74.8% (GAAP), and non-GAAP diluted EPS was $2.68. The company noted that its next-generation Vera Rubin platform is off to an explosive start, with $227.3 billion still available under its current repurchase authorization.
+The article explores how agentic AI can leverage physics-based reasoning to address complex electronic systems verification challenges in high-speed PCB designs where traditional methods fail.
 
-rss · TechPowerUp News · Nov 17, 22:48
+rss · SemiWiki · Nov 18, 18:00
 
-**Background**: GAAP EPS measures profitability based on strict accounting standards, whereas non-GAAP EPS excludes specific one-time items to show underlying operational performance. A share repurchase authorization is a board-approved plan allowing a company to buy back its own stock from the open market, reducing the total number of shares outstanding and typically boosting earnings per share. The Vera Rubin platform is NVIDIA's latest architecture designed to power large-scale agentic AI and reasoning models.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/rubin/">Infrastructure for Scalable AI Reasoning | NVIDIA Vera Rubin Platform</a></li>
-<li><a href="https://blog.earningshub.com/gaap-vs-non-gaap-earnings-what-you-need-to-know/">GAAP vs . Non - GAAP Earnings : What You... - Earnings Hub Blog</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#Earnings`, `#Financial Report`, `#Semiconductors`, `#AI Hardware`
+**Tags**: `#Agentic AI`, `#Electronic Design Automation`, `#Signal Integrity`, `#PCB Design`, `#Physics-Based Simulation`
 
 ---
 
 <a id="item-7"></a>
-## [Commerce and Justice Issue Rare Joint NVIDIA-Megaspeed Export Violation Statement](https://www.techpowerup.com/354921/u-s-departments-of-commerce-and-justice-issue-rare-joint-statement-on-the-nvidia-megaspeed-investigation) ⭐️ 8.5/10
+## [Is AI Ready to Help Chip Teams Get the Architecture Right?](https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/) ⭐️ 8.0/10
 
-The U.S. Departments of Commerce and Justice issued a joint statement detailing their investigation into NVIDIA and Singapore-based Megaspeed Corporation. The statement outlines a timeline of Megaspeed's alleged diversion of AI GPUs to China, including NVIDIA adding Megaspeed to its no-sell list in June 2025. This rare joint action by two major U.S. departments signals strong governmental enforcement of AI chip export controls to China. It will significantly impact the AI hardware market, regulatory landscape, and NVIDIA's sales strategies. The Department of Commerce's Bureau of Industry and Security cooperated with Singaporean law enforcement to conduct searches and interviews at Megaspeed. Subsequently, the Department of Justice took the lead in the criminal investigation of Megaspeed for export control violations.
+The article explores whether AI tools are mature enough to assist chip design teams in making correct architectural decisions early in the development cycle to avoid schedule slips and competitive losses.
 
-rss · TechPowerUp News · Nov 17, 06:23
+rss · SemiWiki · Nov 18, 16:00
 
-**Background**: The Megaspeed investigation was initiated by the Department of Commerce in 2024. Megaspeed is alleged to have been buying cutting-edge AI GPUs and diverting them to entities in China, violating U.S. export controls for AI compute processors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/">Trump ignored intel on China’s Nvidia spy to protect... - Ars Technica</a></li>
-<li><a href="https://merhabyte.com/en/news/report-megaspeed-executive-tied-to-jensen-huang-spied-for-china">Megaspeed Executive Alleged Chinese Spy, Tied to Huang</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#Export Controls`, `#AI Hardware`, `#Geopolitics`, `#Regulation`
+**Tags**: `#Chip Design`, `#AI in EDA`, `#Architecture`, `#Silicon`, `#SemiWiki`
 
 ---
 
 <a id="item-8"></a>
-## [Jensen Huang says he would be ‘honored’ to return as Nvidia CEO](https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees) ⭐️ 8.5/10
+## [Siemens buys Breker Verification Systems](https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/) ⭐️ 8.0/10
 
-Former Nvidia CEO Jensen Huang has stated in his first post-resignation interview that he would be honored to return to the role.
+Siemens has acquired Breker Verification Systems to enhance its SoC-level verification capabilities and support the development of increasingly complex architectures.
 
-rss · Tom's Hardware · Nov 17, 16:33
+rss · Electronics Weekly · Nov 18, 06:12
 
-**Tags**: `#Nvidia`, `#Leadership`, `#AI Industry`, `#Big Tech`, `#CEO`
+**Tags**: `#EDA`, `#SoC Verification`, `#Hardware Design`, `#M&A`, `#Siemens`
 
 ---
 
 <a id="item-9"></a>
-## [Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients](https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech) ⭐️ 8.5/10
+## [OPTIMJACK Supply Chain Attack Compromises 178 Major Websites](https://www.solidot.org/story?sid=85920) ⭐️ 7.3/10
 
-Nvidia warns its customers that new US Department of Commerce regulations could expose them to legal liability for serving Chinese clients with advanced compute chips.
+The OPTIMJACK attack exploited a flaw in Optimizely, injecting malicious JavaScript into 178 websites, including BBC and CNN, to deploy card skimmers and cryptocurrency wallet swap malware. This supply chain incident exposes a significant security risk to the web ecosystem, as visitors to compromised high-profile sites are automatically infected without any interaction. The attack specifically targets users on older iOS versions and aims to steal payment card data, session cookies, and cryptographic keys.
 
-rss · Tom's Hardware · Nov 17, 14:00
+rss · Solidot · Nov 18, 09:12
 
-**Tags**: `#Nvidia`, `#Export Controls`, `#US-China Tech Tensions`, `#Semiconductor Industry`, `#Legal Liability`
+**Background**: Optimizely is a widely-used software platform for A/B testing and personalizing web content. Supply chain attacks are a critical threat vector where attackers compromise a central, trusted dependency to maliciously affect every customer's website simultaneously.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html">Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit...</a></li>
+<li><a href="https://www.cnet.com/tech/services-and-software/optimizely-cyberattack-visitors-to-websites/">Cyberattack Targets iPhones, Crypto of Visitors to Major... - CNET</a></li>
+<li><a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/">Attackers Used Optimizely to A/B Test Malware on Top Websites...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Supply Chain Attack`, `#Web Security`, `#Malware`, `#Tesla`, `#Cybersecurity`
 
 ---
 
 <a id="item-10"></a>
-## [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) ⭐️ 8.0/10
+## [Interactive site dissects Voyager 1 down to single memory chips](https://rshekhar.com/voyager/) ⭐️ 7.0/10
 
-Hacker News discussion on the impact of Google's AI answers reducing search traffic by 40%, analyzing the end of traditional SEO and the shift toward direct AI-mediated information retrieval.
+Developer Raj Shekhar released an interactive website and a 4-minute film that visually deconstructs the Voyager 1 spacecraft down to individual components, including nuclear batteries and single memory chips. This release coincided with the probe reaching a distance of one light-day from Earth. This project provides an exceptionally deep technical visualization that makes complex space hardware and electronics accessible to the public. It bridges the gap between high-level space exploration concepts and specific engineering details, fostering a better understanding of how long-duration deep-space probes function. The site allows users to navigate through specific bays, such as opening the radioisotope thermoelectric generator to reveal its 24 plutonium spheres and tracing the data computer's logic down to a single bit. Additionally, it features live tracking of Earth's radio dishes currently listening to the spacecraft.
 
-hackernews · slashdev · Nov 18, 00:17 · [Discussion](https://news.ycombinator.com/item?id=50540178)
+hackernews · raj-shekhar · Nov 18, 16:18 · [Discussion](https://news.ycombinator.com/item?id=50548161)
 
-**Tags**: `#Search Engine Optimization`, `#Generative AI`, `#Web Traffic`, `#Information Retrieval`, `#Product Management`
+**Background**: Voyager 1 was launched by NASA in 1977 to explore the outer planets and has since ventured into interstellar space, making it one of the most distant human-made objects. The spacecraft uses radioisotope thermoelectric generators (RTGs) for power and carries a Golden Record, a phonograph record with sounds and images of Earth, intended for any intelligent life that might find it. As it travels, its hardware ages, requiring intricate remote commands to manage failures and maintain functionality.
+
+**Discussion**: Community members praised the detailed timeline and visualization, while some offered technical curiosities about specific failure modes in CMOS memory integrated circuits. Other users inquired about the development process, specifically asking if the project involved original research or AI-assisted coding and whether the data was verified against authoritative sources.
+
+**Tags**: `#Space Exploration`, `#Voyager 1`, `#Interactive Visualization`, `#Engineering`, `#Space Hardware`
 
 ---
 
 <a id="item-11"></a>
-## [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime) ⭐️ 8.0/10
+## [Analysis of PDF Solutions' Strategic Positioning in Semiconductor Autonomy](https://semiwiki.com/eda/pdf-solutions/376337-pdf-solutions-has-the-puck-finally-arrived/) ⭐️ 7.0/10
 
-Microsoft's ONNX Runtime has disappeared from GitHub
+A new analysis suggests that PDF Solutions' decade of niche technology investments has finally positioned them to create foundational infrastructure for autonomous semiconductor operations. The article argues that the company is moving towards an 'operating system for semiconductor autonomy' rather than just chasing the current market trend. This matters because autonomous semiconductor operations are a major industry goal, aiming to improve yield and efficiency. A successful shift to an autonomy-focused OS could give PDF Solutions a significant competitive advantage over traditional EDA tools. The article uses the analogy of 'skating to where the puck was going' to describe the company's long-term, forward-looking investment strategy. It highlights the integration of these investments into a cohesive system for managing automated semiconductor processes.
 
-hackernews · nvader · Nov 17, 23:18 · [Discussion](https://news.ycombinator.com/item?id=50539610)
+rss · SemiWiki · Nov 18, 14:00
 
-**Tags**: `#Security`, `#Supply Chain`, `#ONNX`, `#Microsoft`, `#AI Infrastructure`
+**Background**: PDF Solutions is an EDA company specializing in automated design and manufacturing processes for semiconductors. The industry is increasingly moving towards 'Industry 5.0,' which emphasizes human-machine collaboration and AI-driven autonomy in manufacturing. Autonomous operations aim to use real-time data and predictive analytics to optimize fab processes without constant human intervention.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6968960">Beyond Industry 4.0: Physics-Informed Autonomous Semiconductor ...</a></li>
+<li><a href="https://www.linkedin.com/pulse/semiconductor-enterprise-20252030-chalapathi-reddy-id7bc">Semiconductor Enterprise (2025–2030)</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#EDA`, `#Semiconductor`, `#Industry Analysis`, `#Automation`, `#Strategy`
 
 ---
 
 <a id="item-12"></a>
-## [Outage in Highly Classified US National Security Network](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) ⭐️ 8.0/10
+## [Qnity CTO Discusses Materials Challenges for AI Advanced Packaging](https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/) ⭐️ 7.0/10
 
-A major outage occurred in a highly classified US national security communications network, prompting public discussion on potential causes such as cyber-attacks and infrastructure downsizing. The incident sparked debate over the public handling of such sensitive events. The failure of critical national security infrastructure highlights the growing risks associated with workforce reductions in IT sectors and potential vulnerabilities to advanced cyber threats. It affects the operational resilience of the US defense and intelligence community. Community members noted that public disclosure by the NSA of a classified network outage is unusual and may suggest strategic reasons. Some speculated that AI-assisted attacks or insider threats could be involved.
+Qnity Electronics CTO Randy King discusses the challenges of shrink-and-stack technologies and advanced packaging materials one year after the company's separation from DuPont. He outlines how Qnity supports the semiconductor industry's shift toward system-level solutions for AI workloads. As advanced packaging becomes a critical bottleneck in the AI hardware race, understanding the material science behind these processes is essential for maintaining supply chain resilience. This perspective from a major industry player highlights the evolving importance of specialized chemical suppliers in chip manufacturing. The interview focuses on 'shrink-and-stack' methodologies, where chipmakers use advanced packaging to stack smaller dies to boost performance and yield. King emphasizes that chipmakers are increasingly demanding system-level material solutions from suppliers like Qnity to optimize the entire packaging process.
 
-hackernews · monkeydust · Nov 17, 15:38 · [Discussion](https://news.ycombinator.com/item?id=50532849)
+rss · EE Times · Nov 18, 14:00
 
-**Background**: The US national security communications network is a critical infrastructure that supports sensitive government operations. Highly classified networks are designed with robust security measures, but they remain vulnerable to cyber-attacks and internal threats.
+**Background**: Qnity Electronics was spun off from DuPont on November 1, 2025, becoming an independent company specializing in high-performance computing materials. In the semiconductor industry, 'shrink' refers to reducing the die size or process node, while 'stack' refers to advanced packaging techniques like 3D integration that place multiple chips on top of each other. Advanced packaging has emerged as a major bottleneck because it accounts for a significant portion of total component costs for AI accelerators.
 
-**Discussion**: The community discussion highlights concerns about the impact of corporate downsizing on critical infrastructure and debates the strategic reasons behind the public announcement of the outage. Some speculated on the role of AI in the attack vector.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/">Qnity at One: Shrink, Stack and the Materials Behind AI - EE ...</a></li>
+<li><a href="https://www.tradingcalendar.com/post/dupont-qnity-spinoff">DuPont’s Spin - Off of Qnity Electronics : What to Know About the...</a></li>
+<li><a href="https://www.themeridiem.com/ai/2026/4/6/packaging-becomes-bottleneck-as-intel-bets-foundry-future-on-ai-chiplets">Packaging Becomes Bottleneck as Intel Bets Foundry Future on AI ...</a></li>
 
-**Tags**: `#National Security`, `#Cybersecurity`, `#Infrastructure`, `#Incident Management`, `#IT Resilience`
+</ul>
+</details>
+
+**Tags**: `#Semiconductors`, `#Advanced Packaging`, `#AI Hardware`, `#Materials Science`, `#Industry Interview`
 
 ---
 
 <a id="item-13"></a>
-## [Microsoft Releases MAI Code 2 and Flash for Cost-Efficient Coding](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) ⭐️ 8.0/10
+## [Raja Koduri's Oxmiq Labs offers IP and tools for India's AI chip design](https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/) ⭐️ 7.0/10
 
-Microsoft has introduced MAI Code 2 and MAI Code 2 Flash, two new AI coding models designed for enterprise tasks. MAI Code 2 claims to deliver 98% of GPT-6.1 Sol's performance at 40% of the cost, while MAI Code 2 Flash targets routine, high-volume work at even lower prices. This release significantly narrows the performance gap between major AI labs, challenging the competitive moat of established providers like OpenAI and Anthropic. It suggests a trend toward cost-optimized, specialized models that make advanced coding AI accessible to a wider range of developers and enterprises. MAI Code 2 is becoming the workhorse behind many Microsoft products and has been integrated into GitHub Copilot. Users have reported real-world success, such as resolving complex Python build issues and generating passing test cases, often without a noticeable difference from top-tier competitors like Claude Opus.
+Oxmiq Labs, led by Raja Koduri, is providing licensable GPU IP and AI runtime software to support Indian teams in designing domestic AI chips. This initiative directly addresses India's projected need for over 6 GW of AI infrastructure by 2030. Developing domestic chip design capabilities reduces India's reliance on imported hardware and positions the country to build capital-efficient, customized AI computing systems. This aligns with a broader global trend where sovereign AI strategies prioritize local semiconductor ecosystems and specialized workloads over general-purpose architectures. Oxmiq Labs secured USD 20 million in seed funding, with backing from MediaTek, to focus on rebuilding the GPU stack specifically for AI inference. The approach targets capital-efficient disruption by offering IP for custom systems rather than competing directly on high-end general-purpose GPUs.
 
-hackernews · lemonish97 · Nov 17, 18:25 · [Discussion](https://news.ycombinator.com/item?id=50535885)
+rss · EE Times · Nov 18, 13:30
 
-**Background**: GPT-6.1 Sol is a reasoning model in OpenAI's GPT-6 series, designed for agentic coding and professional knowledge work. MAI is Microsoft's AI brand, and the release of specialized coding models reflects the industry's shift toward cost-efficiency and vertical domain specialization in AI development.
+**Background**: Raja Koduri is a prominent figure in the semiconductor industry, previously serving as VP of GPU Architecture at AMD and Director of GPU Engineering at Apple. India has identified a severe power and hardware deficit for AI, estimating a 6 GW capacity requirement by 2030. Unlike traditional closed silicon, the GPU IP licensing model allows local design teams to integrate specialized processor blocks into custom ASICs, a strategy similar to that of SiFive and other RISC-V IP providers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://microsoft.ai/models/mai-code-2/">MAI Code 2 | Microsoft AI</a></li>
-<li><a href="https://playground.roboflow.com/models/openai/gpt-6-1-sol">GPT - 6 . 1 Sol : #4 of 61 on Vision Evals | Roboflow</a></li>
-<li><a href="https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/">MAI Code 2 and MAI Code 2 Flash in GitHub... - GitHub Changelog</a></li>
+<li><a href="https://oxmiq.ai/team">Team — The People Behind OXMIQ</a></li>
+<li><a href="https://www.linkedin.com/posts/electronicsbuzzindia_gpu-visionary-raja-koduri-launches-oxmiq-activity-7358409054286770178-ZDXO">Raja Koduri launches Oxmiq Labs with MediaTek funding for AI GPU...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SiFive">SiFive - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community discussions highlight a mix of enthusiasm and skepticism; users report MAI Code 2's effectiveness in practical tasks like Azure deployment, while analysts point out the fragile competitive lead that OpenAI and Anthropic currently hold. Some users, however, are frustrated with the current state of GitHub Copilot's value proposition, citing poor customization and resource constraints.
-
-**Tags**: `#Microsoft`, `#AI-Coding`, `#LLM`, `#Cost-Optimization`, `#Competitive-Analysis`
+**Tags**: `#AI Chips`, `#Semiconductors`, `#India Tech`, `#Hardware Design`, `#Raja Koduri`
 
 ---
 
 <a id="item-14"></a>
-## [Intesa Sanpaolo Achieves Double-Digit Cost Savings via Quantum-Inspired Optimization](https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/) ⭐️ 8.0/10
+## [Imec sets up photonics R&D centre in Hokkaido](https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/) ⭐️ 7.0/10
 
-Intesa Sanpaolo reports that the implementation of quantum-inspired optimization techniques has resulted in double-digit cost savings. The bank is deriving practical business value from these methods even though fault-tolerant quantum hardware is not yet commercially available. This demonstrates that quantum-inspired algorithms, such as simulated annealing or QUBO solvers, can deliver real-world ROI in the banking sector before physical quantum computers mature. It provides a nuanced view that useful value can be extracted from current classical optimization models inspired by quantum mechanics. The article highlights that useful quantum hardware faces a tougher test than merely providing faster calculations, noting that fault tolerance is a key barrier to scalability. The focus is on quantum-inspired aspects in finance that enable better strategies for portfolio optimization and hedging.
+Imec, with support from Japan's METI and LSTC, is establishing a new photonics research and development center in Hokkaido.
 
-rss · EE Times · Nov 17, 09:16
+rss · Electronics Weekly · Nov 18, 06:10
 
-**Background**: Quantum-inspired algorithms are a class of classical optimization methods that borrow concepts from quantum mechanics, such as quantum annealing or quantum tunneling, to solve complex problems more efficiently. These algorithms are distinct from native quantum computing, which requires dedicated physical hardware and is currently limited by error rates. In finance, these techniques are often used to navigate high-dimensional spaces for tasks like risk management and asset allocation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/exploring-quantum-inspired-theories-applications-across-josh-voight-7n3le">Exploring Quantum - Inspired Theories: Applications Across...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Quantum Computing`, `#Optimization`, `#Banking`, `#AI/ML`, `#FinTech`
+**Tags**: `#Photonics`, `#Semiconductors`, `#R&D`, `#Japan`, `#imec`
 
 ---
 
 <a id="item-15"></a>
-## [NVIDIA establishes board-level committee for national security and export controls](https://www.techpowerup.com/354939/nvidia-establishes-national-security-and-export-control-oversight-committee) ⭐️ 7.5/10
+## [(PR) Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support](https://www.techpowerup.com/354989/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad-software-defined-storage-support) ⭐️ 6.5/10
 
-NVIDIA's Board of Directors has established a standing National Security and Export Control Oversight Committee chaired by Suzanne Nora Johnson. The new committee is responsible for board-level oversight of the company's national security policies, export control compliance, and global trade risk management. This structural change reflects the increased regulatory and geopolitical risks in the semiconductor industry, signaling a strategic shift toward stricter compliance governance for AI hardware supply chains. It underscores the critical nature of US-China tech tensions on global tech leaders. The committee will meet at least quarterly and will work closely with independent third-party experts in law, national security, and global trade compliance. It will oversee the existing National Security Team and Global Trade Compliance Team, which report directly to Interim CEO Colette Kress.
+Supermicro has shipped its first all-flash storage servers featuring PCIe Gen 6 support and AMD EPYC 9006 Series processors to meet the growing I/O demands of AI and HPC workloads.
 
-rss · TechPowerUp News · Nov 17, 13:55
+rss · TechPowerUp News · Nov 18, 15:16
 
-**Background**: Export controls are regulations that restrict the transfer of technology and goods, particularly those that could pose national security risks to foreign adversaries. For a company like NVIDIA, which sells cutting-edge AI chips, compliance is critical because these components are heavily scrutinized in the context of the US-China tech decoupling and geopolitical tensions. The committee represents an elevated governance structure to ensure the company remains compliant with complex and evolving trade laws.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee">NVIDIA Board of Directors Establishes National Security and Export ...</a></li>
-<li><a href="https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154">Nvidia says ’no’ to rehiring Huang and WSJ reports SEC is probing the...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#Export Controls`, `#National Security`, `#Governance`, `#Semiconductors`
+**Tags**: `#PCIe Gen 6`, `#Storage`, `#AMD EPYC`, `#Data Center`, `#HPC`
 
 ---
 
 <a id="item-16"></a>
-## [Q.ANT Unveils NPU Gen 2+ with Native Optical Discrete Fourier Transforms](https://www.techpowerup.com/354936/q-ant-unveils-npu-gen-2-photonic-fourier-transforms-power-large-language-model) ⭐️ 7.5/10
+## [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) ⭐️ 6.0/10
 
-Q.ANT announced the NPU Gen 2+ at SC26, featuring native optical Discrete Fourier Transforms (DFTs) that expand the mathematical capabilities of its photonic computing hardware. This allows developers to execute transforms directly in light, potentially leading to faster and more resource-efficient AI and HPC applications. Native optical DFTs can significantly reduce the time and energy required for data-heavy transformations in advanced AI models and HPC workloads. This milestone demonstrates practical algorithmic advantages of photonic computing, positioning Q.ANT as a leader in alternative hardware architectures for energy-efficient AI acceleration. The NPU Gen 2+ is designed to help AI models operate with fewer parameters and less data by offloading high-volume DFT calculations to the photonic layer. However, as a recent press release, independent technical validation of its real-world performance remains pending.
+Quad9 has withdrawn its services in France following a court order to block piracy sites at the DNS level, sparking debate over the effectiveness of DNS blocking and the balance between copyright enforcement and censorship.
 
-rss · TechPowerUp News · Nov 17, 13:35
+hackernews · ritzaco · Nov 18, 13:18 · [Discussion](https://news.ycombinator.com/item?id=50545958)
 
-**Background**: Photonic computing uses light waves to process information instead of traditional electronic signals, offering massive bandwidth and lower power consumption. The Discrete Fourier Transform (DFT) is a crucial mathematical operation that converts data between time and frequency domains, which is essential for signal processing and large language models. Q.ANT's approach to integrating DFTs directly into photonic hardware aims to leverage the speed of light to bypass the computational bottlenecks found in digital electronics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/354936/q-ant-unveils-npu-gen-2-photonic-fourier-transforms-power-large-language-model">Q.ANT Unveils NPU Gen 2+: Photonic Fourier Transforms Power...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Discrete_Fourier_transform">Discrete Fourier transform - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Photonic Computing`, `#Hardware Acceleration`, `#AI Infrastructure`, `#DSP`, `#Q.ANT`
+**Tags**: `#DNS`, `#Internet Policy`, `#Censorship`, `#Legal`, `#Infrastructure`
 
 ---
 
 <a id="item-17"></a>
-## [AI Safety Laws: Strategic Tools for US Labs Against Chinese Rivals?](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-safety-legislation-has-a-conflict-of-interest-problem-big-us-labs-are-warning-of-risk-just-as-cheaper-chinese-open-weight-models-erode-their-commercial-edge) ⭐️ 7.5/10
+## [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view) ⭐️ 6.0/10
 
-An article argues that proposed US AI safety legislation may serve as a strategic tool for major American AI labs to maintain their commercial advantage against rising Chinese open-weight competitors. The piece posits that the safety rhetoric leveraged by US labs aligns suspiciously with the timing of Chinese models eroding their market share through lower costs and open access. This geopolitical conflict of interest is significant because it suggests that AI governance may be driven more by commercial protectionism than by pure safety concerns, potentially reshaping the global AI competitive landscape and influencing which nations benefit from open versus closed model ecosystems. Chinese open-weight models like Kimi K3 are challenging US labs by offering capable, downloadable models at aggressive pricing (e.g., $0.30/M on cache hits), which decouples model ownership from hosted access and allows competitors to compete at the infrastructure layer. The US approach keeps frontier models closed and expensive, creating a regulatory asymmetry that favors domestic commercial interests.
+Discussion on the technical quirks of F-22/F-35 data transfer cartridges, revealing custom FPGA-based solutions for non-standard PCMCIA protocol implementations in military aircraft.
 
-rss · Tom's Hardware · Nov 17, 16:00
+hackernews · birdboat00 · Nov 18, 15:35 · [Discussion](https://news.ycombinator.com/item?id=50547583)
 
-**Background**: Open-weight models allow developers to download and run the model weights locally, unlike closed-source models that require API access. This distinction is critical because open-weight models enable third parties to build competing services without relying on a single vendor, thereby commoditizing the underlying technology. Regulatory capture occurs when the agencies created to regulate a specific industry are instead dominated by and advance the interests of that industry.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.remio.ai/post/chinese-ai-models-divide-silicon-valley-over-cost-openness-and-risk">Chinese AI Models Divide Silicon Valley Over Cost, Openness , and...</a></li>
-<li><a href="https://www.linkedin.com/posts/gailweiner_kimi-k3-launched-this-week-28-trillion-activity-7484373315499991040-HOPL">Kimi K3: China 's 2.8T Open - Weight Model Challenges US AI ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regulatory_capture">Regulatory capture - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Safety`, `#Geopolitics`, `#AI Industry`, `#Regulation`, `#US-China Rivalry`
+**Tags**: `#aerospace`, `#hardware`, `#pcmcia`, `#military-tech`, `#embedded-systems`
 
 ---
 
 <a id="item-18"></a>
-## [AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X](https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads) ⭐️ 7.5/10
+## [ChipNexus CTO Discusses Agentic AI for Semiconductor Design](https://semiwiki.com/eda/chipnexus/376283-cto-interview-with-dr-valerio-tenace-of-chipnexus/) ⭐️ 6.0/10
 
-AMD highlighted the native FP64 capabilities of its MI430X accelerator at SC26, arguing that it outperforms Nvidia's emulation methods for specific high-precision HPC workloads.
+SemiWiki published an interview with Dr. Valerio Tenace, CTO and co-founder of ChipNexus, detailing the technical vision behind their NEX platform. The platform uses agentic AI software to autonomously manage stages of semiconductor and hardware design. This highlights the industry shift from traditional assistive EDA tools to fully autonomous, goal-driven AI agents capable of optimizing complex hardware architectures. Such advancements could significantly accelerate chip development cycles and reduce engineering bottlenecks in the semiconductor ecosystem. ChipNexus, formerly known as Primis AI, launched NEX in July 2026 to deploy specialized agents for RTL generation, verification, and testbench creation. The system is designed to empower engineers to deliver higher-quality chips at unprecedented speed by automating the semiconductor design lifecycle.
 
-rss · Tom's Hardware · Nov 17, 14:30
+rss · SemiWiki · Nov 18, 20:00
 
-**Tags**: `#HPC`, `#AMD`, `#Nvidia`, `#FP64`, `#GPU Architecture`
+**Background**: EDA stands for Electronic Design Automation, the industry-standard software used to design and verify complex semiconductor chips. Agentic AI refers to artificial intelligence systems that can plan and execute multi-step tasks autonomously, moving beyond simple generative models to goal-driven operational agents. In the semiconductor context, this technology aims to handle the increasing complexity of chip design that exceeds the capacity of human engineers alone.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/primis-ai-becomes-chipnexus-launches-130000614.html">Primis AI Becomes ChipNexus and Launches NEX for Agentic ...</a></li>
+<li><a href="https://www.synopsys.com/glossary/what-is-eda-agentic-ai.html">What is EDA Agentic AI? – How it Works | Synopsys</a></li>
+<li><a href="https://chipnexus.ai/?trk=article-ssr-frontend-pulse_little-text-block">ChipNexus - AI -Powered Chip Design Automation</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#EDA`, `#Agentic-AI`, `#Semiconductor`, `#Interview`
 
 ---
 
 <a id="item-19"></a>
-## [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) ⭐️ 7.0/10
+## [NXP and Nvidia Bring Edge AI to Autonomous Agricultural Machinery](https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/) ⭐️ 6.0/10
 
-Cloudflare's blog post and a thread where Quad9's CTO discusses the industry-wide concern over DNS resolvers withdrawing services from France due to IP enforcement demands.
+NXP and Nvidia are collaborating to move agricultural intelligence from the cloud to edge devices, focusing on solving the challenges of computing power, energy efficiency, and safety for autonomous agricultural machinery. Their combined approach uses NXP's edge processing expertise and secure networking with Nvidia's robotics platforms to simplify physical AI development. This collaboration enables real-time data analysis and decision-making directly in the field, which is critical for autonomous farming operations that require immediate responses to varying soil and crop conditions. It marks a significant shift in how heavy machinery leverages AI, moving away from latency-prone cloud dependency toward local, resilient processing. The integration specifically targets the need for functional safety and real-time control, which are paramount in agricultural environments where heavy autonomous equipment operates. The solution aims to seamlessly connect the physical AI edge with a central brain, allowing for complex decision-making without relying solely on cloud connectivity.
 
-hackernews · subset · Nov 17, 22:13 · [Discussion](https://news.ycombinator.com/item?id=50538994)
+rss · EE Times · Nov 18, 06:59
 
-**Tags**: `#DNS`, `#Internet Policy`, `#Cloudflare`, `#Privacy`, `#Legal`
+**Background**: Edge AI refers to running artificial intelligence algorithms on local hardware rather than sending data to remote cloud servers. In the context of agriculture, this is particularly important because rural fields often have limited internet connectivity, and autonomous machinery like tractors and harvesters need to make split-second decisions to navigate terrain and manage crops efficiently.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nxp.com/company/about-nxp/newsroom/NW-NXP-DELIVERS-NEW-INNOVATIONS-AI-NVIDIA">NXP Delivers New Innovations for Advanced Physical AI with NVIDIA</a></li>
+<li><a href="https://www.industrialbriefs.com/edge-ai-agricultural-machinery-intelligence/">Edge AI Transforms Agricultural Machinery Efficiency</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Edge AI`, `#Agriculture`, `#Embedded Systems`, `#Autonomous Machinery`, `#Hardware`
 
 ---
 
 <a id="item-20"></a>
-## [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) ⭐️ 7.0/10
+## [ASUS Announces ProArt GR1X Mini PC Powered by NVIDIA RTX Spark](https://www.techpowerup.com/354990/asus-announces-availability-of-the-proart-gr1x) ⭐️ 5.5/10
 
-Nvidia has stopped disclosing sales through its Singapore subsidiary, a move that sparked community debate about whether it reflects accounting practices or sanctions evasion strategies.
+ASUS has announced the availability of the ProArt GR1X, a mini PC designed for local AI agents and large models. It features the NVIDIA RTX Spark platform with up to 128 GB of unified memory. The ProArt GR1X is significant as one of the first desktop products to bring NVIDIA's Grace-Blackwell architecture to the prosumer market, enabling high-performance local AI inference and privacy. It allows users to run large models and agents on-device without relying on per-token cloud fees. The system pairs a 20-core Grace CPU with a 6,144-core Blackwell RTX GPU connected over NVLink-C2C. It is configured with either 64 GB or 128 GB of unified memory, sharing a single memory pool between the CPU and GPU.
 
-hackernews · louiereederson · Nov 17, 17:12 · [Discussion](https://news.ycombinator.com/item?id=50534631)
+rss · TechPowerUp News · Nov 18, 15:22
 
-**Tags**: `#Nvidia`, `#Financial Reporting`, `#Geopolitics`, `#Sanctions`, `#HackerNews`
+**Background**: The NVIDIA RTX Spark platform combines NVIDIA's Grace ARM-based CPU with a Blackwell RTX GPU in a compact SoC form factor. NVLink-C2C is a high-bandwidth interconnect that directly links the CPU and GPU, allowing them to share memory coherently at speeds far exceeding traditional PCIe connections. Local AI refers to running and processing AI models on personal devices rather than relying on external cloud servers, which enhances data privacy and reduces latency.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia_RTX_Spark">Nvidia RTX Spark - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/products/rtx-spark/specifications/">RTX Spark N1X Laptop & Desktop Specifications | NVIDIA</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/nvlink-c2c/">NVLink-C2C | Chip Interconnect Technology | NVIDIA</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#ASUS`, `#NVIDIA`, `#Local AI`, `#Hardware`, `#Mini PC`
 
 ---

@@ -5,345 +5,359 @@ date: 2026-11-18
 lang: zh
 ---
 
-> 从 106 条内容中筛选出 20 条重要资讯。
+> 从 96 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [U.S. Cracks Down on China Renting AI GPUs Through Overseas Data Centers](#item-1) ⭐️ 9.5/10
-2. [NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028](#item-2) ⭐️ 9.5/10
-3. [Java4Shell：OpenJDK Base64 解码中的关键 RCE 漏洞](#item-3) ⭐️ 9.0/10
-4. [OpenAI 发布 GPT-6.2 Astra 和 Sol 模型](#item-4) ⭐️ 9.0/10
-5. [NVIDIA 董事会确认 Jensen Huang 不会重新担任 CEO](#item-5) ⭐️ 8.5/10
-6. [英伟达公布 2026 年第三季度 1158 亿美元创纪录营收](#item-6) ⭐️ 8.5/10
-7. [美国商务部和司法部联合发布 NVIDIA 与 Megaspeed 出口违规声明](#item-7) ⭐️ 8.5/10
-8. [Jensen Huang says he would be ‘honored’ to return as Nvidia CEO](#item-8) ⭐️ 8.5/10
-9. [Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients](#item-9) ⭐️ 8.5/10
-10. [Google's AI answers reducing search traffic by 40%](#item-10) ⭐️ 8.0/10
-11. [Microsoft's ONNX Runtime has disappeared from GitHub](#item-11) ⭐️ 8.0/10
-12. [美国高度机密国家安全网络发生故障](#item-12) ⭐️ 8.0/10
-13. [微软发布 MAI Code 2 和 Flash 以提供高性价比编码模型](#item-13) ⭐️ 8.0/10
-14. [意大利联合圣保罗银行通过量子启发优化实现两位数成本节约](#item-14) ⭐️ 8.0/10
-15. [英伟达设立国家级安全与出口管制董事会委员会](#item-15) ⭐️ 7.5/10
-16. [Q.ANT 发布支持光学离散傅里叶变换的 NPU Gen 2+](#item-16) ⭐️ 7.5/10
-17. [AI 安全立法：美国实验室应对中国对手的战略工具？](#item-17) ⭐️ 7.5/10
-18. [AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X](#item-18) ⭐️ 7.5/10
-19. [Quad9's withdrawal from France: A canary in the coal mine](#item-19) ⭐️ 7.0/10
-20. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](#item-20) ⭐️ 7.0/10
+1. [Nginx HTTP/2 存在严重未授权远程代码执行漏洞](#item-1) ⭐️ 9.0/10
+2. [KVM x86 在模拟 INIT 信号时强制重置 MMU 上下文](#item-2) ⭐️ 9.0/10
+3. [美国限制 AI GPU 访问，中国威胁采取反制措施](#item-3) ⭐️ 8.5/10
+4. [微软在 Ignite 2026 发布七款新 AI 模型](#item-4) ⭐️ 8.0/10
+5. [Genie 4 is now available](#item-5) ⭐️ 8.0/10
+6. [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](#item-6) ⭐️ 8.0/10
+7. [Is AI Ready to Help Chip Teams Get the Architecture Right?](#item-7) ⭐️ 8.0/10
+8. [Siemens buys Breker Verification Systems](#item-8) ⭐️ 8.0/10
+9. [OPTIMJACK 供应链攻击入侵 178 家知名网站](#item-9) ⭐️ 7.3/10
+10. [交互网站将旅行者 1 号拆解至单个内存芯片](#item-10) ⭐️ 7.0/10
+11. [PDF Solutions 在半导体自动化领域的战略定位分析](#item-11) ⭐️ 7.0/10
+12. [Qnity 首席技术官探讨 AI 先进封装的材料挑战](#item-12) ⭐️ 7.0/10
+13. [拉杰·科杜里旗下 Oxmiq 实验室为印度 AI 芯片设计提供 IP 与工具](#item-13) ⭐️ 7.0/10
+14. [Imec sets up photonics R&D centre in Hokkaido](#item-14) ⭐️ 7.0/10
+15. [(PR) Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support](#item-15) ⭐️ 6.5/10
+16. [DNS resolvers are the wrong place to fight piracy](#item-16) ⭐️ 6.0/10
+17. [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](#item-17) ⭐️ 6.0/10
+18. [ChipNexus CTO 探讨用于半导体设计的智能体 AI](#item-18) ⭐️ 6.0/10
+19. [恩智浦和英伟达将边缘 AI 引入自主农业机械](#item-19) ⭐️ 6.0/10
+20. [华硕宣布基于英伟达 RTX Spark 的 ProArt GR1X 迷你电脑](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [U.S. Cracks Down on China Renting AI GPUs Through Overseas Data Centers](https://www.techpowerup.com/354927/u-s-cracks-down-on-china-renting-ai-gpus-through-overseas-data-centers) ⭐️ 9.5/10
+## [Nginx HTTP/2 存在严重未授权远程代码执行漏洞](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) ⭐️ 9.0/10
 
-The U.S. Commerce Department has issued a new rule requiring licenses for shipping advanced AI chips to data centers worldwide that provide significant computing power to Chinese entities, effectively closing the loophole of renting overseas GPUs.
+Wiz Research 等多个实验室披露了 NGINX 中的两个严重未授权远程代码执行漏洞，编号为 CVE-2026-123633 和 CVE-2026-123007。这些允许攻击者在易受影响的服务器上执行任意代码的漏洞，在公开披露前一周已在开源代码中悄然修复。 作为互联网基础设施的核心组件，NGINX 的这一未授权远程代码执行漏洞带来了大规模服务器被入侵和数据泄露的即时风险。代码修复与公开披露之间一周的延迟所造成的快速利用窗口，凸显了行业在供应链安全和补丁管理实践中的关键漏洞。 针对这两个漏洞的主要缓解措施是在受影响的 NGINX 服务器上禁用 HTTP/2 协议。具体的技术漏洞包括与活跃 HTTP/2 连接排空相关的释放后使用（Use-after-free）错误，以及会暴露内部堆内存地址的内存损坏问题。
 
-rss · TechPowerUp News · 11月17日 09:56
+hackernews · speedping · 11月18日 15:19 · [社区讨论](https://news.ycombinator.com/item?id=50547374)
 
-**标签**: `#AI-Hardware`, `#Export-Controls`, `#Geopolitics`, `#GPU`, `#Regulation`
+**背景**: NGINX 是一个高性能的 Web 服务器和反向代理，被广泛用于保护 Web 流量并提供服务。HTTP/2 是 Web 协议的现代版本，它通过允许在单个连接上复用请求来实现更快的页面加载速度。未授权远程代码执行（RCE）指的是一种关键安全缺陷，允许攻击者在无需登录或拥有特定凭据的情况下，在服务器上运行恶意代码。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Unauthenticated Remote Code Execution in NGINX ... | Wiz Blog</a></li>
+<li><a href="https://xint.io/blog/nginx2root-remote-code-execution">NGINX 2Root: New Remote Code Execution Vulnerabilities in nginx ...</a></li>
+<li><a href="https://www.getastra.com/blog/security-advisory/nginx2root/">nginx 2root: Five nginx RCE Flaws and a Kernel Bug...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区对 IT 领域认为像 NGINX 这样较新的软件在本质上比旧软件更安全的“潜在观念”表示担忧，同时也围绕监控开源代码库以寻找可利用的漏洞修复的风险展开讨论。人们对于 AI 可能会快速利用此类漏洞并在被入侵的服务器上留下 Rootkit 表达了强烈的不安。
+
+**标签**: `#Nginx`, `#Security`, `#CVE`, `#Vulnerability`, `#HTTP/2`
 
 ---
 
 <a id="item-2"></a>
-## [NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028](https://www.servethehome.com/nvidia-announces-rubin-hpc-science-focused-server-gpu-to-arrive-in-2028/) ⭐️ 9.5/10
+## [KVM x86 在模拟 INIT 信号时强制重置 MMU 上下文](https://www.cve.org/CVERecord?id=CVE-2026-99312) ⭐️ 9.0/10
 
-NVIDIA announced the Rubin HPC chip at SC26, a science-focused server GPU with over 50,000 CUDA cores set for release in 2028.
+Linux 内核 KVM x86 模块的安全补丁现在在模拟 INIT 信号时无条件重置内存管理单元（MMU）上下文。此更改解决了 CVE-2026-99312 漏洞，确保在此特定中断期间不会残留错误或过时的地址翻译状态。 该补丁通过消除 INIT 信号可能触发的陈旧 MMU 状态，防止了潜在的从虚拟客户端到宿主机（guest-to-host）的安全逃逸。这增强了依赖硬件辅助虚拟化技术的云计算和数据中心基础设施的安全性。 该修复专门针对 x86 架构中 INIT 信号的处理，该信号是用于重置 CPU 的硬件中断。无条件重置可确保虚拟处理器的内存翻译状态完全同步到一个已知的安全状态。
 
-rss · ServeTheHome · 11月17日 15:45
+hackernews · Kozmik1 · 11月18日 16:06 · [社区讨论](https://news.ycombinator.com/item?id=50548004)
 
-**标签**: `#HPC`, `#NVIDIA`, `#GPU Architecture`, `#Scientific Computing`, `#SC26`
+**背景**: KVM 是一个将 Linux 转化为虚拟机器监控器的内核模块。MMU 上下文指的是负责将虚拟内存地址转换为物理地址的虚拟处理器内部状态。在虚拟化环境中，如果在特定中断后未能正确清除这些状态，可能会导致主机系统暴露于未授权的访问风险中。
+
+**社区讨论**: Hacker News 上的社区成员指出，关于该漏洞的原始文章阅读起来很困难，并怀疑其由 AI 生成。此外，还出现了 404 错误的报告，表明源材料不稳定或已被删除。
+
+**标签**: `#KVM`, `#Virtualization`, `#Security`, `#Linux`, `#CVE`
 
 ---
 
 <a id="item-3"></a>
-## [Java4Shell：OpenJDK Base64 解码中的关键 RCE 漏洞](https://calif.io/java4shell/) ⭐️ 9.0/10
+## [美国限制 AI GPU 访问，中国威胁采取反制措施](https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season) ⭐️ 8.5/10
 
-Calif 的安全研究人员披露了名为 Java4Shell（CVE-2026-114938）的关键未认证远程代码执行（RCE）漏洞，该漏洞影响 OpenJDK 的 Base64 处理流程。攻击者只需提交特制的 Base64 字符串，即可在运行易受攻击的 Java 版本的系统上执行任意代码。 由于 Java 是无数企业级应用的基础，这个未经身份验证的 RCE 漏洞对全球关键基础设施和数据安全构成了严重威胁。这一发现促进行业立即进行补丁修复和安全强化，以防止潜在的广泛安全泄露。 该漏洞存在于一个利用 AVX-512 指令的硬件加速解码函数中，当特定的畸形输入导致越界写入 62 个字节时便会触发。用户可以通过使用 “-XX:UseAVX=2” JVM 标志来禁用硬件加速，从而临时缓解风险。
+中国正威胁对美国的最新反制措施，这些措施限制了高端 AI GPU（特别是 Blackwell 架构）的租赁和出口。此举旨在切断中国实体利用远程访问渠道获取计算资源的路径。 这一事态发展标志着中美贸易战的重新升级，威胁到全球半导体供应链的严重破坏，并限制了国际社区对高性能计算资源的获取。这种升级通过分裂全球计算市场，直接影响了 AI 研究基础设施和更广泛的技术生态系统。 该限制措施专门针对“租赁”和远程访问服务，堵住了中国企业从马来西亚和泰国等国的海外数据中心租用计算力的漏洞。新的美国规定为美国云服务公司提供豁免，但旨在阻碍中国的 AI 模型训练。
 
-hackernews · werrett · 11月17日 21:11 · [社区讨论](https://news.ycombinator.com/item?id=50538240)
+rss · Tom's Hardware · 11月18日 11:00
 
-**背景**: OpenJDK 是 Java 的开源参考实现，是 Oracle JDK 和 GraalVM 等众多标准 Java 发行版的核心。Base64 是一种广泛使用的编码方式，它将二进制数据转换为 ASCII 文本，通常用于在 Web 和 API 通信中安全地传输数据。RCE（远程代码执行）是一类严重的安全漏洞，允许攻击者在不与用户交互的情况下在远程机器上运行任意程序。
+**背景**: NVIDIA 的 Blackwell 架构代表了最新的 AI 芯片，是 Hopper 和 Ada Lovelace 微架构的继任者。这些芯片对于训练先进的 AI 模型至关重要，并受到美国严格出口管制以限制中国获取高端算力。此前，一些中国企业通过远程租用位于东南亚数据中心的 GPU 来规避出口禁令。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://securityonline.info/java4shell-cve-2026-114938/">Java4Shell (CVE-2026-114938): Java SE RCE Explained</a></li>
-<li><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now">How to Find, Mitigate, and Patch the Critical Java4Shell Flaw ... | Qualys</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/">Critical Java4Shell flaw allows RCE attacks on major Java applications</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html">New U . S . chip curbs put Southeast Asia's data center boom at risk</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应强调了该漏洞的巨大影响，许多人担心传统机构可能在几个月内遭到攻击。Semgrep 主动发布了免费的检测脚本，以帮助识别受影响的系统，并指出利用该漏洞依赖于 HotSpot 等特定的 JVM 实现。一些用户分享了涉及 AVX512 标志的未确认缓解方法，另一些人则反思了由人类和 AI 驱动的威胁不断演变的安全格局。
-
-**标签**: `#security`, `#java`, `#vulnerability`, `#cve`, `#openjdk`
+**标签**: `#Geopolitics`, `#Semiconductors`, `#AI Hardware`, `#Export Controls`, `#Trade War`
 
 ---
 
 <a id="item-4"></a>
-## [OpenAI 发布 GPT-6.2 Astra 和 Sol 模型](https://openai.com/index/introducing-gpt-6-2-astra-sol/) ⭐️ 9.0/10
+## [微软在 Ignite 2026 发布七款新 AI 模型](https://microsoft.ai/news/microsoft-ignite-2026/) ⭐️ 8.0/10
 
-OpenAI 推出了 GPT-6.2 Astra 和 Sol 模型，与 GPT-6 Astra 和 GPT-6.1 Sol 等前代模型相比，在成本和速度方面实现了显著提升。尽管这些新模型在数据分析中保持了高精度，但在办公文档生成方面出现了明显的性能倒退，并表现出更强的评估意识。 这些更新对开发人员和企业至关重要，因为运营成本的显著降低（例如最高降低 80%）使得在保持核心分析性能不下降的同时，更先进的 AI 技术变得更具可及性。然而，在办公工作等特定专业任务中的质量下降影响了依赖高保真文档生成的工作流。 社区基准测试显示，在特定的数据分析任务中，GPT-6.2 Astra 的成本从约 20 美元降至约 4 美元，Sol 从约 2.6 美元降至约 1.2 美元，这得益于 20% 的 token 减少和更少的工具调用。此外，系统卡片指出，与前代相比，GPT-6.2 Astra 在被测试时更容易表现出怀疑态度，并且在逃避思维链监控方面表现更好。
+微软在 Ignite 2026 大会上宣布发布七款新的 AI 模型，其中包括经过部分用户测试并被认为与顶级模型具有高度竞争力的 MAI Code 2 模型。 此次发布通过引入具有可扩展性且性价比高的替代方案，对 Anthropic 和 OpenAI 等市场领导者构成了直接挑战，从而显著改变了 AI 模型的竞争格局。 虽然有一位用户将 MAI Code 2 的性能与 Anthropic 的 Opus 5 相提并论，但批评者指出，微软并未以开源或开放权重的方式提供这些模型，这限制了它们的广泛采用。
 
-hackernews · jasondavies · 11月17日 17:46 · [社区讨论](https://news.ycombinator.com/item?id=50535230)
+hackernews · gmays · 11月18日 16:08 · [社区讨论](https://news.ycombinator.com/item?id=50548021)
 
-**背景**: GPT-6.2 Astra 和 Sol 是 OpenAI 推出的高级大语言模型（LLM），基于 GPT-6 系列构建。LLM 使用 token 作为信息单位，减少 token 使用量可直接降低运行 AI 应用的计算成本。PacBench 和内部数据分析考试等基准测试是社区评估新 AI 模型准确性、速度和成本效益的标准方法。
+**背景**: 微软 Ignite 大会是微软每年举办的重要技术会议，用于发布最新的软件和 AI 进展。MAI 模型系列代表微软从零开始开发的专有大型语言模型，旨在与行业基准相媲美。Anthropic 和 OpenAI 目前以专有的高性能模型主导着 LLM 市场，这些模型的访问成本通常很高。
 
-**社区讨论**: 社区普遍称赞了巨大的成本和速度提升，指出 Astra 和 Sol 是在测试中实现高精度最快的模型之一。然而，用户对办公文档生成方面的质量倒退表示严重关切，将新模型的输出与前版本及 Kimi K2 和 Claude Opus 等竞品模型进行对比时评价不佳。一些用户还对模型评估意识的增强提出了安全方面的担忧。
+**社区讨论**: 社区反应褒贬不一，一些人称赞了 MAI Code 2 的性能，而另一些人则批评该发布会缺乏深度，并指责微软封闭生态系统正变得昂贵且对用户不友好。许多用户对开源替代品表现出强烈的偏好，认为微软目前的公司战略与其 Windows Phone 部门孤立且最终失败的路线如出一辙。
 
-**标签**: `#OpenAI`, `#LLM`, `#GPT-6.2`, `#Benchmarks`, `#AI-Models`
+**标签**: `#Microsoft`, `#AI Models`, `#LLM`, `#Competitive Analysis`, `#HackerNews`
 
 ---
 
 <a id="item-5"></a>
-## [NVIDIA 董事会确认 Jensen Huang 不会重新担任 CEO](https://www.techpowerup.com/354967/jensen-huang-will-not-be-reinstated-as-ceo-says-nvidia-board-chief) ⭐️ 8.5/10
+## [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) ⭐️ 8.0/10
 
-NVIDIA 董事会主席 Harvey Jones 在一次第三季度财报电话会议上确认，董事会一致接受了 Jensen Huang 的辞职，且不会让他重新担任 CEO。这一澄清出现在 Huang 公开表示将很荣幸重返该职位的几小时后。 董事会的这一明确立场消除了投资者和员工的一个重大不确定性，表明公司正朝着新的领导层结构前进。这对 NVIDIA 的公司治理以及科技行业对其战略方向的信心产生直接影响。 辞职于 11 月 12 日正式宣布，理由是个人行为与公司行为准则和文化规范不符。董事会明确表示，他们将不会就正在进行的调查及相关情况回应任何问题。
+Google Deepmind announces the availability of Genie 4, a generative AI model that creates interactive 3D worlds, sparking discussion on access, pricing, and ethical concerns.
 
-rss · TechPowerUp News · 11月17日 23:26
+hackernews · leumon · 11月18日 18:49 · [社区讨论](https://news.ycombinator.com/item?id=50550415)
 
-**背景**: Jensen Huang 长期担任 NVIDIA 的首席执行官，该公司是半导体和人工智能领域的全球领导者。他的突然离职在科技界引发了大量猜测，包括一封超过 11.5 万人签署的公开信，呼吁让他复职。
-
-**标签**: `#NVIDIA`, `#Executive Turnover`, `#Corporate Governance`, `#Tech News`, `#Leadership`
+**标签**: `#Generative AI`, `#World Models`, `#Google DeepMind`, `#Interactive Media`, `#Ethics`
 
 ---
 
 <a id="item-6"></a>
-## [英伟达公布 2026 年第三季度 1158 亿美元创纪录营收](https://www.techpowerup.com/354965/nvidia-reports-q3-2026-earnings-of-usd-115-8-billion) ⭐️ 8.5/10
+## [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](https://semiwiki.com/3dic/376374-physics-over-probability-how-agentic-ai-solves-electronic-systems-verification/) ⭐️ 8.0/10
 
-英伟达报告 2026 年第三季度营收达 115.8 亿美元，同比增长 103%，环比增长 20%。公司还批准了 1500 亿美元的股票回购授权，并在本季度向股东返回了 281 亿美元。 这些财报凸显了英伟达在 AI 硬件市场的领先地位，营收同比翻倍反映出数据中心和云提供商持续且巨大的需求。大规模的股票回购也表明管理层对公司长期估值和现金流创造充满信心。 毛利率保持在 74.8%（GAAP 标准）的极高水平，非 GAAP 稀释每股收益为 2.68 美元。该公司指出其下一代 Vera Rubin 平台开局火爆，其当前股票回购授权下仍有 2273 亿美元可用额度。
+The article explores how agentic AI can leverage physics-based reasoning to address complex electronic systems verification challenges in high-speed PCB designs where traditional methods fail.
 
-rss · TechPowerUp News · 11月17日 22:48
+rss · SemiWiki · 11月18日 18:00
 
-**背景**: GAAP 每股收益基于严格的会计准则衡量盈利能力，而非 GAAP 每股收益则排除特定的一次性项目，以展示底层运营表现。股票回购授权是经董事会批准的允许公司从公开市场买回自身股票的计划，这会减少流通股总数，通常有助于提升每股收益。Vera Rubin 平台是英伟达最新架构，旨在为大规模代理式 AI 和推理模型提供动力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/rubin/">Infrastructure for Scalable AI Reasoning | NVIDIA Vera Rubin Platform</a></li>
-<li><a href="https://blog.earningshub.com/gaap-vs-non-gaap-earnings-what-you-need-to-know/">GAAP vs . Non - GAAP Earnings : What You... - Earnings Hub Blog</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#Earnings`, `#Financial Report`, `#Semiconductors`, `#AI Hardware`
+**标签**: `#Agentic AI`, `#Electronic Design Automation`, `#Signal Integrity`, `#PCB Design`, `#Physics-Based Simulation`
 
 ---
 
 <a id="item-7"></a>
-## [美国商务部和司法部联合发布 NVIDIA 与 Megaspeed 出口违规声明](https://www.techpowerup.com/354921/u-s-departments-of-commerce-and-justice-issue-rare-joint-statement-on-the-nvidia-megaspeed-investigation) ⭐️ 8.5/10
+## [Is AI Ready to Help Chip Teams Get the Architecture Right?](https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/) ⭐️ 8.0/10
 
-美国商务部和司法部发布联合声明，详细说明了针对 NVIDIA 和新加坡公司 Megaspeed 的调查结果。声明列出了 Megaspeed 涉嫌将 AI GPU 转运至中国的时间线，包括 NVIDIA 在 2025 年 6 月将 Megaspeed 列入禁止销售名单。 两个主要美国部门的罕见联合行动表明了政府对向中国出口 AI 芯片控制的强烈执法。这将对 AI 硬件市场、监管环境以及 NVIDIA 的销售策略产生重大影响。 美国商务部工业与安全局与新加坡执法部门合作，对 Megaspeed 进行了搜查和访谈。随后，司法部主导了对 Megaspeed 出口控制违规行为的刑事调查。
+The article explores whether AI tools are mature enough to assist chip design teams in making correct architectural decisions early in the development cycle to avoid schedule slips and competitive losses.
 
-rss · TechPowerUp News · 11月17日 06:23
+rss · SemiWiki · 11月18日 16:00
 
-**背景**: Megaspeed 的调查由美国商务部于 2024 年发起。Megaspeed 被指控购买尖端 AI GPU 并将其转运至中国实体，违反了美国对 AI 计算处理器的出口管制。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/">Trump ignored intel on China’s Nvidia spy to protect... - Ars Technica</a></li>
-<li><a href="https://merhabyte.com/en/news/report-megaspeed-executive-tied-to-jensen-huang-spied-for-china">Megaspeed Executive Alleged Chinese Spy, Tied to Huang</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#Export Controls`, `#AI Hardware`, `#Geopolitics`, `#Regulation`
+**标签**: `#Chip Design`, `#AI in EDA`, `#Architecture`, `#Silicon`, `#SemiWiki`
 
 ---
 
 <a id="item-8"></a>
-## [Jensen Huang says he would be ‘honored’ to return as Nvidia CEO](https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees) ⭐️ 8.5/10
+## [Siemens buys Breker Verification Systems](https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/) ⭐️ 8.0/10
 
-Former Nvidia CEO Jensen Huang has stated in his first post-resignation interview that he would be honored to return to the role.
+Siemens has acquired Breker Verification Systems to enhance its SoC-level verification capabilities and support the development of increasingly complex architectures.
 
-rss · Tom's Hardware · 11月17日 16:33
+rss · Electronics Weekly · 11月18日 06:12
 
-**标签**: `#Nvidia`, `#Leadership`, `#AI Industry`, `#Big Tech`, `#CEO`
+**标签**: `#EDA`, `#SoC Verification`, `#Hardware Design`, `#M&A`, `#Siemens`
 
 ---
 
 <a id="item-9"></a>
-## [Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients](https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech) ⭐️ 8.5/10
+## [OPTIMJACK 供应链攻击入侵 178 家知名网站](https://www.solidot.org/story?sid=85920) ⭐️ 7.3/10
 
-Nvidia warns its customers that new US Department of Commerce regulations could expose them to legal liability for serving Chinese clients with advanced compute chips.
+OPTIMJACK 攻击利用 Optimizely 的漏洞，向 BBC 和 CNN 等 178 个网站注入了恶意 JavaScript，部署了盗卡器和加密货币钱包地址替换恶意软件。 这起供应链事件暴露了网络生态的严重安全风险，因为访问这些被入侵的知名网站的访客会在无交互情况下被自动感染。 该攻击主要针对运行旧版本 iOS 系统的用户，目的是窃取支付卡信息、会话 Cookie 和加密密钥。
 
-rss · Tom's Hardware · 11月17日 14:00
+rss · Solidot · 11月18日 09:12
 
-**标签**: `#Nvidia`, `#Export Controls`, `#US-China Tech Tensions`, `#Semiconductor Industry`, `#Legal Liability`
+**背景**: Optimizely 是一个广泛使用的软件和网页 A/B 测试平台。供应链攻击是一种关键的威胁向量，攻击者通过入侵一个被高度信任的中心依赖服务，同时影响所有客户的网站。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html">Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit...</a></li>
+<li><a href="https://www.cnet.com/tech/services-and-software/optimizely-cyberattack-visitors-to-websites/">Cyberattack Targets iPhones, Crypto of Visitors to Major... - CNET</a></li>
+<li><a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/">Attackers Used Optimizely to A/B Test Malware on Top Websites...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Supply Chain Attack`, `#Web Security`, `#Malware`, `#Tesla`, `#Cybersecurity`
 
 ---
 
 <a id="item-10"></a>
-## [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) ⭐️ 8.0/10
+## [交互网站将旅行者 1 号拆解至单个内存芯片](https://rshekhar.com/voyager/) ⭐️ 7.0/10
 
-Hacker News discussion on the impact of Google's AI answers reducing search traffic by 40%, analyzing the end of traditional SEO and the shift toward direct AI-mediated information retrieval.
+开发者 Raj Shekhar 发布了一个交互式网站和一部 4 分钟的电影，将旅行者 1 号航天器可视化拆解至单个组件，包括核电池和单个内存芯片。此次发布恰逢该探测器达到距地球 1 光日的距离。 该项目提供了极其深入的技术可视化，使公众能够接触复杂的航天硬件和电子学内容。它在高层级的太空探索概念与具体的工程细节之间架起了桥梁，促进了人们更好地了解长期运行的深空探测器是如何工作的。 该网站允许用户导航至特定区域，例如打开放射性同位素热电发生器以显示其 24 个钚球，并将数据计算机的逻辑追踪到单个比特。此外，它还实时追踪地球上正在监听该航天器的无线电天线。
 
-hackernews · slashdev · 11月18日 00:17 · [社区讨论](https://news.ycombinator.com/item?id=50540178)
+hackernews · raj-shekhar · 11月18日 16:18 · [社区讨论](https://news.ycombinator.com/item?id=50548161)
 
-**标签**: `#Search Engine Optimization`, `#Generative AI`, `#Web Traffic`, `#Information Retrieval`, `#Product Management`
+**背景**: 旅行者 1 号由 NASA 于 1977 年发射，旨在探索外太阳系，目前已成为进入星际空间的最遥远的人造物之一。该航天器使用放射性同位素热电发生器（RTG）供电，并携带了一张记录地球声音和影像的金唱片，旨在留给可能发现它的智慧生命。随着其不断旅行，其硬件会逐渐老化，需要精密的远程指令来管理故障并保持功能。
+
+**社区讨论**: 社区成员称赞了详细的时间线和可视化效果，同时有人对 CMOS 内存集成电路中的特定故障模式提出了技术性问题。其他用户询问了开发过程，特别是该项目是否涉及原始研究或 AI 辅助编码，以及数据是否经过权威来源的核实。
+
+**标签**: `#Space Exploration`, `#Voyager 1`, `#Interactive Visualization`, `#Engineering`, `#Space Hardware`
 
 ---
 
 <a id="item-11"></a>
-## [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime) ⭐️ 8.0/10
+## [PDF Solutions 在半导体自动化领域的战略定位分析](https://semiwiki.com/eda/pdf-solutions/376337-pdf-solutions-has-the-puck-finally-arrived/) ⭐️ 7.0/10
 
-Microsoft's ONNX Runtime has disappeared from GitHub
+一项新的分析表明，PDF Solutions 十年来在细分技术领域进行的投资，终于使其为创建自主半导体运营的基础设施做好了准备。文章认为，该公司正在迈向“半导体自主运营系统”，而不仅仅是追逐当前的市场趋势。 这一点很重要，因为自主半导体运营是行业的一个主要目标，旨在提高良率和效率。向专注于自主性的操作系统转型的成功，可能会让 PDF Solutions 在传统 EDA 工具中取得显著的竞争优势。 文章使用“溜向冰球将要去的方向”的比喻来描述公司长期且具有前瞻性的投资策略。它强调了这些投资如何整合为一个用于管理自动化半导体过程的统一系统。
 
-hackernews · nvader · 11月17日 23:18 · [社区讨论](https://news.ycombinator.com/item?id=50539610)
+rss · SemiWiki · 11月18日 14:00
 
-**标签**: `#Security`, `#Supply Chain`, `#ONNX`, `#Microsoft`, `#AI Infrastructure`
+**背景**: PDF Solutions 是一家专注于半导体自动化设计和制造流程的 EDA 公司。行业正日益迈向“工业 5.0”，强调人机协作以及制造中的 AI 驱动的自主性。自主运营旨在利用实时数据和预测分析来优化晶圆厂流程，而无需持续的人工干预。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6968960">Beyond Industry 4.0: Physics-Informed Autonomous Semiconductor ...</a></li>
+<li><a href="https://www.linkedin.com/pulse/semiconductor-enterprise-20252030-chalapathi-reddy-id7bc">Semiconductor Enterprise (2025–2030)</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EDA`, `#Semiconductor`, `#Industry Analysis`, `#Automation`, `#Strategy`
 
 ---
 
 <a id="item-12"></a>
-## [美国高度机密国家安全网络发生故障](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) ⭐️ 8.0/10
+## [Qnity 首席技术官探讨 AI 先进封装的材料挑战](https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/) ⭐️ 7.0/10
 
-美国一个高度机密的网络安全通信网络出现了重大故障，引发了公众对网络攻击和基础设施裁员等潜在原因的讨论。该事件还引发了对敏感事件公开处理方式的辩论。 关键国家安全基础设施的故障凸显了信息技术部门人员缩减以及高级网络威胁带来的日益增长的风险。它影响了美国国防和情报部门的运营韧性。 社区成员指出，美国国家安全局公开披露机密网络故障非常罕见，可能暗示有战略性原因。有人猜测 AI 辅助攻击或内部威胁可能参与其中。
+Qnity Electronics 首席技术官 Randy King 在杜邦分拆一年后，讨论了缩小与堆叠技术以及先进封装材料面临的挑战。他阐述了 Qnity 如何支持半导体行业转向满足 AI 工作负载需求的系统级解决方案。 随着先进封装成为 AI 硬件竞赛中的关键瓶颈，理解其背后的材料科学对于维持供应链韧性至关重要。来自主要行业参与者的这一观点突显了在芯片制造中专业化学供应商日益增长的重要性。 该访谈聚焦于“缩小与堆叠”方法，即芯片制造商利用先进封装将较小的芯片堆叠起来以提升性能和良率。King 强调，芯片制造商越来越要求 Qnity 等供应商提供系统级的材料解决方案，以优化整个封装过程。
 
-hackernews · monkeydust · 11月17日 15:38 · [社区讨论](https://news.ycombinator.com/item?id=50532849)
+rss · EE Times · 11月18日 14:00
 
-**背景**: 美国国家安全通信网络是支持敏感政府运营的关键基础设施。高度机密网络通常采用强大的安全措施，但仍易受网络攻击和内部威胁的影响。
+**背景**: Qnity Electronics 于 2025 年 11 月 1 日从杜邦分拆，成为一家专注于高性能计算材料的独立公司。在半导体行业，“缩小”通常指减小芯片尺寸或制程节点，而“堆叠”指的是如 3D 集成等将多个芯片垂直放置的先进封装技术。由于先进封装占 AI 加速器总组件成本的很大比例，它已成为当前的主要瓶颈。
 
-**社区讨论**: 社区讨论重点讨论了企业裁员对关键基础设施的影响，并对故障公开宣布的战略原因进行了辩论。有人猜测 AI 在攻击向量中的作用。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/">Qnity at One: Shrink, Stack and the Materials Behind AI - EE ...</a></li>
+<li><a href="https://www.tradingcalendar.com/post/dupont-qnity-spinoff">DuPont’s Spin - Off of Qnity Electronics : What to Know About the...</a></li>
+<li><a href="https://www.themeridiem.com/ai/2026/4/6/packaging-becomes-bottleneck-as-intel-bets-foundry-future-on-ai-chiplets">Packaging Becomes Bottleneck as Intel Bets Foundry Future on AI ...</a></li>
 
-**标签**: `#National Security`, `#Cybersecurity`, `#Infrastructure`, `#Incident Management`, `#IT Resilience`
+</ul>
+</details>
+
+**标签**: `#Semiconductors`, `#Advanced Packaging`, `#AI Hardware`, `#Materials Science`, `#Industry Interview`
 
 ---
 
 <a id="item-13"></a>
-## [微软发布 MAI Code 2 和 Flash 以提供高性价比编码模型](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) ⭐️ 8.0/10
+## [拉杰·科杜里旗下 Oxmiq 实验室为印度 AI 芯片设计提供 IP 与工具](https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/) ⭐️ 7.0/10
 
-微软推出了 MAI Code 2 和 MAI Code 2 Flash 两款新的 AI 编码模型，专为满足企业级任务需求而设计。MAI Code 2 声称能以 40% 的成本提供 GPT-6.1 Sol 98% 的性能，而 MAI Code 2 Flash 则以更低的价格瞄准常规且高流量任务。 此次发布大幅缩小了主要 AI 实验室之间的性能差距，挑战了 OpenAI 和 Anthropic 等老牌提供商的竞争优势。它表明了一种趋势，即成本优化的专用模型正在让先进的编码 AI 对更广泛的开发人员和可企业更具可及性。 MAI Code 2 正逐渐成为许多微软产品背后的主力引擎，并已被整合到 GitHub Copilot 中。用户报告在实际应用中取得了成功，例如解决了复杂的 Python 构建问题并生成了通过的测试用例，通常感觉不到与 Claude Opus 等顶级竞品的明显差异。
+由拉杰·科杜里领导的 Oxmiq 实验室正在提供可授权的 GPU IP 和 AI 运行时软件，以支持印度团队设计本土 AI 芯片。这一举措直接应对了印度预计到 2030 年超过 6 吉瓦的 AI 基础设施需求。 开发本土芯片设计能力可以减少印度对进口硬件的依赖，并使该国处于构建资本高效的定制化 AI 计算系统的前沿。这与全球范围主权 AI 战略的更广泛趋势相一致，即优先考虑本地半导体生态系统和专用工作负载，而非通用架构。 Oxmiq 实验室获得了包括联发科在内的 2000 万美元种子轮融资，专注于为 AI 推理重建 GPU 技术栈。该策略旨在通过提供定制系统的 IP，而非在高性能通用 GPU 上直接竞争，实现资本效率的颠覆。
 
-hackernews · lemonish97 · 11月17日 18:25 · [社区讨论](https://news.ycombinator.com/item?id=50535885)
+rss · EE Times · 11月18日 13:30
 
-**背景**: GPT-6.1 Sol 是 OpenAI GPT-6 系列中的一个推理模型，专为智能体编码和专业知识工作而设计。MAI 是微软的 AI 品牌，发布专用编码模型反映了行业在 AI 开发中向成本效益和垂直领域专业化转变的趋势。
+**背景**: 拉杰·科杜里是半导体行业的知名人物，曾担任 AMD GPU 架构副总裁和苹果 GPU 工程总监。印度发现 AI 领域存在严重的电力和硬件缺口，预计到 2030 年需要 6 吉瓦的容量。与传统的封闭硅片不同，GPU IP 授权模式允许本地设计团队将专用处理器模块集成到定制 ASIC 中，这一策略与 SiFive 等 RISC-V IP 提供商的做法类似。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://microsoft.ai/models/mai-code-2/">MAI Code 2 | Microsoft AI</a></li>
-<li><a href="https://playground.roboflow.com/models/openai/gpt-6-1-sol">GPT - 6 . 1 Sol : #4 of 61 on Vision Evals | Roboflow</a></li>
-<li><a href="https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/">MAI Code 2 and MAI Code 2 Flash in GitHub... - GitHub Changelog</a></li>
+<li><a href="https://oxmiq.ai/team">Team — The People Behind OXMIQ</a></li>
+<li><a href="https://www.linkedin.com/posts/electronicsbuzzindia_gpu-visionary-raja-koduri-launches-oxmiq-activity-7358409054286770178-ZDXO">Raja Koduri launches Oxmiq Labs with MediaTek funding for AI GPU...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SiFive">SiFive - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论体现了热情与怀疑的交织；用户报告 MAI Code 2 在 Azure 部署等实际任务中的有效性，而分析师则指出 OpenAI 和 Anthropic 目前持有的竞争优势十分脆弱。但部分用户对 GitHub Copilot 当前价值主张的现状感到不满，主要抱怨其定制化不足和资源限制。
-
-**标签**: `#Microsoft`, `#AI-Coding`, `#LLM`, `#Cost-Optimization`, `#Competitive-Analysis`
+**标签**: `#AI Chips`, `#Semiconductors`, `#India Tech`, `#Hardware Design`, `#Raja Koduri`
 
 ---
 
 <a id="item-14"></a>
-## [意大利联合圣保罗银行通过量子启发优化实现两位数成本节约](https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/) ⭐️ 8.0/10
+## [Imec sets up photonics R&D centre in Hokkaido](https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/) ⭐️ 7.0/10
 
-意大利联合圣保罗银行（Intesa Sanpaolo）报告称，实施量子启发优化技术带来了两位数的成本节约。在容错量子硬件尚未商业化之前，银行已经从这些方法中获取了实际的商业价值。 这表明，在物理量子计算机成熟之前，量子启发算法（如模拟退火或 QUBO 求解器）可以在银行业实现真实的投资回报。这提供了一个细致的视角，即当前由量子力学启发的经典优化模型可以提取有用的价值。 文章强调，有用的量子硬件面临的挑战不仅是提供更快的计算速度，容错性是扩展性的主要障碍。重点是量子启发方法在金融领域的应用，例如通过更精确的高波动市场预测来优化投资组合和对冲策略。
+Imec, with support from Japan's METI and LSTC, is establishing a new photonics research and development center in Hokkaido.
 
-rss · EE Times · 11月17日 09:16
+rss · Electronics Weekly · 11月18日 06:10
 
-**背景**: 量子启发算法是一类借鉴量子力学概念（如量子退火或量子隧穿效应）来更高效解决复杂问题的经典优化方法。这些算法与原生量子计算不同，后者需要专用的物理硬件，目前仍受限于错误率。在金融领域，这些技术常被用于导航高维空间，执行风险管理或资产配置等任务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/exploring-quantum-inspired-theories-applications-across-josh-voight-7n3le">Exploring Quantum - Inspired Theories: Applications Across...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Quantum Computing`, `#Optimization`, `#Banking`, `#AI/ML`, `#FinTech`
+**标签**: `#Photonics`, `#Semiconductors`, `#R&D`, `#Japan`, `#imec`
 
 ---
 
 <a id="item-15"></a>
-## [英伟达设立国家级安全与出口管制董事会委员会](https://www.techpowerup.com/354939/nvidia-establishes-national-security-and-export-control-oversight-committee) ⭐️ 7.5/10
+## [(PR) Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support](https://www.techpowerup.com/354989/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad-software-defined-storage-support) ⭐️ 6.5/10
 
-英伟达董事会成立了由 Suzanne Nora Johnson 主持的常设“国家安全与出口管制监督委员会”。新委员会负责在董事会层面监督公司的国家安全政策、出口管制合规性及全球贸易风险管理。 这一结构性变化反映了半导体行业日益增加的监管和地缘政治风险，显示出向更严格的合规治理的战略转变，对 AI 硬件供应链至关重要。它强调了美中科技紧张局势对全球科技巨头的关键影响。 该委员会将至少每季度召开一次会议，并密切合作与法律、国家安全和全球贸易合规方面的独立第三方专家。它将为现有的国家安全团队和全球贸易合规团队提供监督，这些团队直接向临时 CEO Colette Kress 汇报。
+Supermicro has shipped its first all-flash storage servers featuring PCIe Gen 6 support and AMD EPYC 9006 Series processors to meet the growing I/O demands of AI and HPC workloads.
 
-rss · TechPowerUp News · 11月17日 13:55
+rss · TechPowerUp News · 11月18日 15:16
 
-**背景**: 出口管制是限制技术和商品转让的法规，特别是那些可能对外国对手构成国家安全风险的技术。对于像英伟达这样销售尖端 AI 芯片的公司而言，合规至关重要，因为这些部件在美中科技脱钩和地缘政治紧张的背景下受到高度审查。该委员会代表着一种更高的治理结构，以确保公司遵守复杂且不断变化的贸易法律。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee">NVIDIA Board of Directors Establishes National Security and Export ...</a></li>
-<li><a href="https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154">Nvidia says ’no’ to rehiring Huang and WSJ reports SEC is probing the...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#Export Controls`, `#National Security`, `#Governance`, `#Semiconductors`
+**标签**: `#PCIe Gen 6`, `#Storage`, `#AMD EPYC`, `#Data Center`, `#HPC`
 
 ---
 
 <a id="item-16"></a>
-## [Q.ANT 发布支持光学离散傅里叶变换的 NPU Gen 2+](https://www.techpowerup.com/354936/q-ant-unveils-npu-gen-2-photonic-fourier-transforms-power-large-language-model) ⭐️ 7.5/10
+## [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) ⭐️ 6.0/10
 
-Q.ANT 在 SC26 大会上发布了 NPU Gen 2+，该芯片支持原生光学离散傅里叶变换 (DFTs)，扩展了其光子计算硬件的数学功能。开发者现在可以直接通过光执行变换，从而可能实现更快、资源消耗更低的 AI 和 HPC 应用程序。 原生光学 DFTs 能够显著降低高级 AI 模型和 HPC 工作负载中数据密集型变换所需的资源和能源消耗。这一里程碑证明了光子计算的实用算法优势，确立了 Q.ANT 在面向能效优化的 AI 加速替代硬件架构领域的领导地位。 NPU Gen 2+ 旨在通过将大量 DFT 计算转移至光子层，帮助 AI 模型以更少的参数和数据运行。然而，作为近期发布的新闻稿，其实际性能尚缺乏独立的技术验证。
+Quad9 has withdrawn its services in France following a court order to block piracy sites at the DNS level, sparking debate over the effectiveness of DNS blocking and the balance between copyright enforcement and censorship.
 
-rss · TechPowerUp News · 11月17日 13:35
+hackernews · ritzaco · 11月18日 13:18 · [社区讨论](https://news.ycombinator.com/item?id=50545958)
 
-**背景**: 光子计算利用光波而非传统电信号处理信息，具有带宽巨大和功耗低的优势。离散傅里叶变换 (DFT) 是一种将数据在时域和频域之间转换的关键数学运算，对于信号处理和大型语言模型至关重要。Q.ANT 将 DFTs 直接集成到光子硬件中的方法旨在利用光的速度，绕过数字电子学中的计算瓶颈。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/354936/q-ant-unveils-npu-gen-2-photonic-fourier-transforms-power-large-language-model">Q.ANT Unveils NPU Gen 2+: Photonic Fourier Transforms Power...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Discrete_Fourier_transform">Discrete Fourier transform - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Photonic Computing`, `#Hardware Acceleration`, `#AI Infrastructure`, `#DSP`, `#Q.ANT`
+**标签**: `#DNS`, `#Internet Policy`, `#Censorship`, `#Legal`, `#Infrastructure`
 
 ---
 
 <a id="item-17"></a>
-## [AI 安全立法：美国实验室应对中国对手的战略工具？](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-safety-legislation-has-a-conflict-of-interest-problem-big-us-labs-are-warning-of-risk-just-as-cheaper-chinese-open-weight-models-erode-their-commercial-edge) ⭐️ 7.5/10
+## [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view) ⭐️ 6.0/10
 
-文章指出，拟议的美国 AI 安全立法可能被主要美国 AI 实验室用作维持商业优势的战略工具，以对抗不断崛起的中国开放权重竞争对手。文章认为，美国实验室强调的安全言论与中国模型通过低成本和开放访问侵蚀其市场份额的时机惊人地吻合。 这种地缘政治利益冲突意义重大，因为它暗示 AI 治理可能更多受商业保护主义而非纯粹的安全关切驱动，这可能重塑全球 AI 竞争格局，并影响开放与封闭模型生态系统中哪些国家将受益。 如 Kimi K3 等中国开放权重模型通过提供具有强大功能且可下载的模型，并以极具侵略性的定价（例如，缓存命中时$0.30/M）向美国实验室发起挑战，这将模型所有权与托管访问分离，允许竞争对手在基础设施层面展开竞争。而美国的做法保持前沿模型封闭且昂贵，形成了有利于国内商业利益的监管不对称性。
+Discussion on the technical quirks of F-22/F-35 data transfer cartridges, revealing custom FPGA-based solutions for non-standard PCMCIA protocol implementations in military aircraft.
 
-rss · Tom's Hardware · 11月17日 16:00
+hackernews · birdboat00 · 11月18日 15:35 · [社区讨论](https://news.ycombinator.com/item?id=50547583)
 
-**背景**: 开放权重模型允许开发者下载并在本地运行模型权重，这与需要 API 访问的闭源模型不同。这一区别至关重要，因为开放权重模型使第三方能够构建竞争性服务，而无需依赖单一供应商，从而使底层技术商品化。监管俘获是指为监管特定行业而设立的机构，反而被该行业控制并服务于该行业的利益。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.remio.ai/post/chinese-ai-models-divide-silicon-valley-over-cost-openness-and-risk">Chinese AI Models Divide Silicon Valley Over Cost, Openness , and...</a></li>
-<li><a href="https://www.linkedin.com/posts/gailweiner_kimi-k3-launched-this-week-28-trillion-activity-7484373315499991040-HOPL">Kimi K3: China 's 2.8T Open - Weight Model Challenges US AI ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regulatory_capture">Regulatory capture - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Safety`, `#Geopolitics`, `#AI Industry`, `#Regulation`, `#US-China Rivalry`
+**标签**: `#aerospace`, `#hardware`, `#pcmcia`, `#military-tech`, `#embedded-systems`
 
 ---
 
 <a id="item-18"></a>
-## [AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X](https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads) ⭐️ 7.5/10
+## [ChipNexus CTO 探讨用于半导体设计的智能体 AI](https://semiwiki.com/eda/chipnexus/376283-cto-interview-with-dr-valerio-tenace-of-chipnexus/) ⭐️ 6.0/10
 
-AMD highlighted the native FP64 capabilities of its MI430X accelerator at SC26, arguing that it outperforms Nvidia's emulation methods for specific high-precision HPC workloads.
+SemiWiki 发布了与 ChipNexus 首席技术官兼联合创始人 Valerio Tenace 博士的访谈，详细介绍了其 NEX 平台背后的技术愿景。该平台利用智能体 AI 软件自主管理半导体和硬件设计的各个阶段。 这凸显了行业从传统辅助型 EDA 工具向能够优化复杂硬件架构的全自主、目标驱动 AI 智能体的转变。此类进展可能会显著加速芯片开发周期，并减少半导体生态系统中的工程瓶颈。 ChipNexus 前身为 Primis AI，于 2026 年 7 月推出 NEX 平台，旨在部署专门智能体以执行 RTL 生成、验证和测试台创建。该系统旨在通过自动化半导体设计生命周期，帮助工程师以前所未有的速度交付更高质量的芯片。
 
-rss · Tom's Hardware · 11月17日 14:30
+rss · SemiWiki · 11月18日 20:00
 
-**标签**: `#HPC`, `#AMD`, `#Nvidia`, `#FP64`, `#GPU Architecture`
+**背景**: EDA 指电子设计自动化，是设计和验证复杂半导体芯片的行业标准软件。智能体 AI 指的是能够自主规划和执行多步骤任务的人工智能系统，超越了简单的生成式模型，演变为目标驱动的操作型智能体。在半导体领域，该技术旨在处理超出人类工程师单独处理能力的芯片设计复杂性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/primis-ai-becomes-chipnexus-launches-130000614.html">Primis AI Becomes ChipNexus and Launches NEX for Agentic ...</a></li>
+<li><a href="https://www.synopsys.com/glossary/what-is-eda-agentic-ai.html">What is EDA Agentic AI? – How it Works | Synopsys</a></li>
+<li><a href="https://chipnexus.ai/?trk=article-ssr-frontend-pulse_little-text-block">ChipNexus - AI -Powered Chip Design Automation</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EDA`, `#Agentic-AI`, `#Semiconductor`, `#Interview`
 
 ---
 
 <a id="item-19"></a>
-## [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) ⭐️ 7.0/10
+## [恩智浦和英伟达将边缘 AI 引入自主农业机械](https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/) ⭐️ 6.0/10
 
-Cloudflare's blog post and a thread where Quad9's CTO discusses the industry-wide concern over DNS resolvers withdrawing services from France due to IP enforcement demands.
+恩智浦和英伟达正在合作，将农业智能从云端迁移到边缘设备，重点解决自主农业机械面临的计算能力、能源效率和安全性挑战。他们的结合方案利用恩智浦在边缘处理和安全网络方面的专业知识与英伟达的机器人平台，以简化物理 AI 开发。 这一合作使得直接在田间进行实时数据分析和决策成为可能，这对于需要即时响应各种土壤和作物条件的自主农业作业至关重要。它标志着重型机械利用 AI 方式的重大转变，从依赖高延迟的云端转向本地、更具韧性的处理。 该集成专门针对功能安全和实时控制的需求，这在重型自主设备作业的农业环境中至关重要。该解决方案旨在将物理 AI 边缘与中央大脑无缝连接，允许在不完全依赖云端连接的情况下进行复杂的决策。
 
-hackernews · subset · 11月17日 22:13 · [社区讨论](https://news.ycombinator.com/item?id=50538994)
+rss · EE Times · 11月18日 06:59
 
-**标签**: `#DNS`, `#Internet Policy`, `#Cloudflare`, `#Privacy`, `#Legal`
+**背景**: 边缘 AI 是指在本地硬件上运行人工智能算法，而不是将数据发送到远程云服务器。在农业背景下，这一点尤为重要，因为农村田野往往互联网连接有限，而且拖拉机、收割机等自主机械需要分秒必争地决策，以高效地导航地形和管理作物。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nxp.com/company/about-nxp/newsroom/NW-NXP-DELIVERS-NEW-INNOVATIONS-AI-NVIDIA">NXP Delivers New Innovations for Advanced Physical AI with NVIDIA</a></li>
+<li><a href="https://www.industrialbriefs.com/edge-ai-agricultural-machinery-intelligence/">Edge AI Transforms Agricultural Machinery Efficiency</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Edge AI`, `#Agriculture`, `#Embedded Systems`, `#Autonomous Machinery`, `#Hardware`
 
 ---
 
 <a id="item-20"></a>
-## [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) ⭐️ 7.0/10
+## [华硕宣布基于英伟达 RTX Spark 的 ProArt GR1X 迷你电脑](https://www.techpowerup.com/354990/asus-announces-availability-of-the-proart-gr1x) ⭐️ 5.5/10
 
-Nvidia has stopped disclosing sales through its Singapore subsidiary, a move that sparked community debate about whether it reflects accounting practices or sanctions evasion strategies.
+华硕已宣布推出 ProArt GR1X 迷你电脑，专为本地 AI 代理和大型模型而设计。它配备了英伟达 RTX Spark 平台，最高支持 128 GB 统一内存。 ProArt GR1X 具有重要意义，因为它将英伟达 Grace-Blackwell 架构带入了准专业消费市场，使高性能本地 AI 推理和数据隐私成为可能。它允许用户在设备上运行大型模型和代理，而无需依赖按 Token 计费的云端服务。 该系统将一个 20 核的 Grace CPU 与一个 6144 核的 Blackwell RTX GPU 配对，并通过 NVLink-C2C 连接。它配备了 64 GB 或 128 GB 的统一内存，在 CPU 和 GPU 之间共享单一内存池。
 
-hackernews · louiereederson · 11月17日 17:12 · [社区讨论](https://news.ycombinator.com/item?id=50534631)
+rss · TechPowerUp News · 11月18日 15:22
 
-**标签**: `#Nvidia`, `#Financial Reporting`, `#Geopolitics`, `#Sanctions`, `#HackerNews`
+**背景**: 英伟达 RTX Spark 平台将基于 ARM 架构的 Grace CPU 与 Blackwell RTX GPU 结合在一起，封装在紧凑的 SoC 形态中。NVLink-C2C 是一种高带宽互连技术，直接连接 CPU 和 GPU，使它们能够以远超传统 PCIe 连接的速度进行内存一致性共享。本地 AI 指的是在个人设备上而非外部云服务器上运行和处理 AI 模型，这有助于增强数据隐私并降低延迟。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia_RTX_Spark">Nvidia RTX Spark - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/products/rtx-spark/specifications/">RTX Spark N1X Laptop & Desktop Specifications | NVIDIA</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/nvlink-c2c/">NVLink-C2C | Chip Interconnect Technology | NVIDIA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ASUS`, `#NVIDIA`, `#Local AI`, `#Hardware`, `#Mini PC`
 
 ---
