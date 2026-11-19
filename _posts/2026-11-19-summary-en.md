@@ -5,327 +5,326 @@ date: 2026-11-19
 lang: en
 ---
 
-> From 94 items, 20 important content pieces were selected
+> From 93 items, 20 important content pieces were selected
 
 ---
 
-1. [Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter](#item-1) ⭐️ 9.5/10
-2. [Unauthenticated remote code execution in Nginx](#item-2) ⭐️ 9.0/10
-3. [Seven new models at scalable price-performance](#item-3) ⭐️ 9.0/10
-4. [Genie 4 is now available](#item-4) ⭐️ 9.0/10
-5. [Global semiconductor market hits $481 billion in Q3 2026](#item-5) ⭐️ 9.0/10
-6. [Nvidia Q3 Revenue Hits $115.8B as Chairman Comments on Jensen Huang](#item-6) ⭐️ 9.0/10
-7. [China Threatens Countermeasures Over New US AI GPU Export Restrictions](#item-7) ⭐️ 8.5/10
-8. [Optimizely OPTIMJACK Attack Compromises Major Websites Including BBC and CNN](#item-8) ⭐️ 8.3/10
-9. [Gemini 4 Neon](#item-9) ⭐️ 8.0/10
-10. [Gemini 4 Neon looks like an Opus 5.5 competitor](#item-10) ⭐️ 8.0/10
-11. [Multiple vulnerabilities in Regexp and String case conversion](#item-11) ⭐️ 8.0/10
-12. [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](#item-12) ⭐️ 8.0/10
-13. [KPMG Study: AI Agents Outperform Accountants in Audit Questions](#item-13) ⭐️ 7.0/10
-14. [Reporter Details OpenAleph and FollowTheMoney Tech Stack for Deutsche Bank Investigation](#item-14) ⭐️ 7.0/10
-15. [Leveraging LLMs to accelerate reverse engineering and protocol analysis](#item-15) ⭐️ 7.0/10
-16. [RadixArk Releases Open-Weights DaisyRose-27B Model](#item-16) ⭐️ 7.0/10
-17. [Siemens buys Breker Verification Systems](#item-17) ⭐️ 7.0/10
-18. [Latest NVIDIA Drivers Might Cause Excessive SSD Writing](#item-18) ⭐️ 6.5/10
-19. [SSDs, laptops, and phones may get cheaper as consumer NAND spot pricing drops 20%](#item-19) ⭐️ 6.5/10
-20. [Dissing Datacentres](#item-20) ⭐️ 6.0/10
+1. [Nvidia launches Vera CPU for scientific discovery](#item-1) ⭐️ 10.0/10
+2. [Intel 18A yields hit 70% as company signs Microsoft as EMIB customer](#item-2) ⭐️ 9.5/10
+3. [Anthropic hits $2T in Nasdaq debut](#item-3) ⭐️ 9.0/10
+4. [Claude solves two open problems in the physics of black holes](#item-4) ⭐️ 9.0/10
+5. [Ruby2ßhell: Critical Pre-Auth RCE in Ruby Rails](#item-5) ⭐️ 9.0/10
+6. [Anthropic Secures $107.3bn Funding at $1.5tn Valuation](#item-6) ⭐️ 9.0/10
+7. [UK Admits Secret Order Forced Apple to Break End-to-End Encryption](#item-7) ⭐️ 8.0/10
+8. [Debate over LLM discovery of Java 4 Shell vulnerability](#item-8) ⭐️ 8.0/10
+9. [Souring Datacentre Sentiment](#item-9) ⭐️ 8.0/10
+10. [Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink](#item-10) ⭐️ 7.5/10
+11. [Pancreatic cancer halted by virus injection in three patients](#item-11) ⭐️ 7.0/10
+12. [Pete warden on local AI, open models, voice interfaces, the future of hardware](#item-12) ⭐️ 7.0/10
+13. [European Commission Deploys Matrix Chat Platform to Over 40,000 Staff Members](#item-13) ⭐️ 7.0/10
+14. [PHP 8.6 Introduces ZTS Performance and Type System Improvements](#item-14) ⭐️ 7.0/10
+15. [Thermal and EMI challenges in high-density GaN power converters](#item-15) ⭐️ 7.0/10
+16. [Three used V100 GPUs achieve 100 tokens per second on Qwen 3.6 35B](#item-16) ⭐️ 6.5/10
+17. [Making 8-page foldable zines from a single A4 sheet in the browser](#item-17) ⭐️ 6.0/10
+18. [ST set to double MCU revenues](#item-18) ⭐️ 6.0/10
+19. [SI expects 60-80% semi growth in 2026](#item-19) ⭐️ 6.0/10
+20. [AMD "Zen 6" for Desktop Reportedly Pushed to Computex 2027](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised) ⭐️ 9.5/10
+## [Nvidia launches Vera CPU for scientific discovery](https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/) ⭐️ 10.0/10
 
-Nvidia reported record quarterly revenue of $115.8 billion, driven by $20 billion in sales from its new Vera Rubin platform and a raised supplier commitment total to $540 billion.
+Nvidia has announced the Vera CPU, its first fully custom datacenter processor designed for high-performance computing and scientific discovery.
 
-rss · Tom's Hardware · Nov 18, 13:00
+rss · Electronics Weekly · Nov 19, 06:07
 
-**Tags**: `#Nvidia`, `#AI Hardware`, `#Financial Results`, `#Data Centers`, `#Semiconductors`
+**Tags**: `#Nvidia`, `#CPU`, `#HPC`, `#Hardware`, `#Datacenter`
 
 ---
 
 <a id="item-2"></a>
-## [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) ⭐️ 9.0/10
+## [Intel 18A yields hit 70% as company signs Microsoft as EMIB customer](https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology) ⭐️ 9.5/10
 
-Wiz Security disclosed unauthenticated RCE vulnerabilities in Nginx's HTTP/2 implementation, prompting a high-priority patch and discussion on the risks of delayed public safety announcements.
+Intel achieves 70% yields on its 18A process node and signs a major deal with Microsoft for Xeon supply and EMIB packaging technology.
 
-hackernews · speedping · Nov 18, 15:19 · [Discussion](https://news.ycombinator.com/item?id=50547374)
+rss · Tom's Hardware · Nov 19, 13:00
 
-**Tags**: `#Security`, `#Nginx`, `#Vulnerability`, `#RCE`, `#DevOps`
+**Tags**: `#Intel 18A`, `#Semiconductors`, `#Microsoft`, `#EMIB`, `#Foundry`
 
 ---
 
 <a id="item-3"></a>
-## [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) ⭐️ 9.0/10
+## [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) ⭐️ 9.0/10
 
-Microsoft announces seven new AI models at Ignite 2026, claiming performance competitive with top-tier models like Anthropic's Opus, sparking significant discussion on market competition and open-source strategy.
+Anthropic's historic Nasdaq debut at a $2 trillion valuation sparks intense debate about the economic, environmental, and social impacts of the AI boom, with community discussions highlighting concerns over housing affordability, job displacement for engineers, and the misallocation of capital away from sectors like healthcare.
 
-hackernews · gmays · Nov 18, 16:08 · [Discussion](https://news.ycombinator.com/item?id=50548021)
+hackernews · wslh · Nov 19, 17:02 · [Discussion](https://news.ycombinator.com/item?id=50562754)
 
-**Tags**: `#LLM`, `#Microsoft`, `#AI`, `#ModelRelease`, `#OpenSource`
+**Tags**: `#AI`, `#Finance`, `#Market Trends`, `#Anthropic`, `#Economic Impact`
 
 ---
 
 <a id="item-4"></a>
-## [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) ⭐️ 9.0/10
+## [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) ⭐️ 9.0/10
 
-Google DeepMind announces the availability of Genie 4, a new AI model capable of generating interactive world environments, sparking debate on accessibility and implications for gaming and AI research.
+Anthropic announced that their model Claude solved two open problems in black hole physics, a feat now considered significant enough to be featured in frontier model launch announcements, sparking debate on AI capabilities and scientific reproducibility.
 
-hackernews · leumon · Nov 18, 18:49 · [Discussion](https://news.ycombinator.com/item?id=50550415)
+hackernews · cybermango · Nov 19, 17:30 · [Discussion](https://news.ycombinator.com/item?id=50563148)
 
-**Tags**: `#AI`, `#Google DeepMind`, `#World Models`, `#Generative AI`, `#Game Development`
+**Tags**: `#AI`, `#Physics`, `#Scientific Breakthrough`, `#Claude`, `#Anthropic`
 
 ---
 
 <a id="item-5"></a>
-## [Global semiconductor market hits $481 billion in Q3 2026](https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/) ⭐️ 9.0/10
+## [Ruby2ßhell: Critical Pre-Auth RCE in Ruby Rails](https://verialabs.com/ruby2shell/) ⭐️ 9.0/10
 
-According to WSTS data, the global semiconductor market reached $481 billion in Q3 2026, marking a 129% year-over-year increase driven primarily by AI demand and Nvidia's performance. This growth rate exceeded the previous record of 110% YoY growth seen in Q2 2026. This record-breaking growth rate signals a fundamental shift in the semiconductor industry, confirming that AI is now the dominant force reshaping market dynamics and global economic infrastructure. Investors and manufacturers face a new paradigm of high-growth sustainability and supply chain expansion. The 27% quarter-over-quarter growth from Q2 2026 to Q3 2026 indicates that the acceleration of AI hardware demand is not just a one-time spike but a sustained trajectory. WSTS identifies this period as the highest year-over-year growth in its historical records.
+Researchers discovered a critical pre-authentication remote code execution (RCE) vulnerability in stock Ruby on Rails, known as ruby2ßhell. This flaw is a one-byte heap buffer overflow in Ruby's string case-conversion code that allows attackers to compromise systems without credentials. This vulnerability is critical because it affects the widely used Ruby on Rails framework and enables remote code execution without authentication. It highlights the growing risk of memory-safety flaws in interpreted languages and the increasing speed at which AI-assisted tools can weaponize low-level bugs. The flaw, tracked as CVE-2026-132825, affects Ruby's case-conversion functions like upcase and downcase due to a heap overflow that can be exploited to read one byte beyond the buffer. Fixes are available in Ruby versions 3.3.14, 3.4.13, and 4.0.10, and the code dating back to Ruby 2.4.0 is vulnerable.
 
-rss · SemiWiki · Nov 18, 22:00
+hackernews · jdns · Nov 19, 05:09 · [Discussion](https://news.ycombinator.com/item?id=50556287)
 
-**Background**: WSTS (World Semiconductor Trade Statistics) is the primary industry body that compiles and publishes consensus market data for the global semiconductor sector. AI accelerators, particularly high-performance GPUs from companies like Nvidia, have become the primary drivers of semiconductor revenue growth in recent years due to the explosion of generative AI workloads.
+**Background**: Ruby on Rails is a popular web application framework built on the Ruby programming language, which is known for its dynamic typing and object-oriented syntax. While Ruby insulates developers from manual memory management, its underlying virtual machine (VM) and native extensions interact with C code, which is susceptible to memory-safety issues like buffer overflows. Pre-authentication RCE vulnerabilities are particularly dangerous because they allow unauthenticated remote attackers to gain full control of a server.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/company/wsts-world-semiconductor-trade-statistics">World Semiconductor Trade Statistics | LinkedIn</a></li>
+<li><a href="https://cybersecuritynews.com/ruby2shell-rce/">ruby2ßhell: Critical One-Byte Heap Overflow in Ruby Could ...</a></li>
+<li><a href="https://orca.security/resources/blog/ruby2shell-ruby-heap-overflow-rce/">ruby2ßhell: CVE-2026-132825 Ruby Heap Overflow RCE</a></li>
+<li><a href="https://www.getastra.com/blog/security-advisory/ruby2shell/">Ruby2shell (CVE-2026-132825): Critical Ruby Heap Overflow ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Semiconductor Industry`, `#Market Analysis`, `#AI Hardware`, `#Economic Trends`, `#Nvidia`
+**Discussion**: Community discussions highlight a debate on whether AI is making it easier to convert single-byte overflows into RCEs, prompting calls for stricter memory safety across software stacks. Some users expressed frustration at the increasing frequency of 'Rails2Shell' variants, questioning if individual CVEs should still be treated as major news in the AI era. Technical interest focused on the difficulty of weaponizing a single-byte overflow for remote code execution.
+
+**Tags**: `#Ruby`, `#Rails`, `#Security`, `#RCE`, `#MemorySafety`
 
 ---
 
 <a id="item-6"></a>
-## [Nvidia Q3 Revenue Hits $115.8B as Chairman Comments on Jensen Huang](https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/) ⭐️ 9.0/10
+## [Anthropic Secures $107.3bn Funding at $1.5tn Valuation](https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/) ⭐️ 9.0/10
 
-Nvidia reported Q3 revenue of $115.8 billion with a 74.8% gross margin and net profit of $65.3 billion. The company's Chairman also addressed leadership continuity, specifically mentioning the situation of CEO Jensen Huang. These record-breaking financial results demonstrate Nvidia's dominant position in the AI semiconductor market, directly influencing global AI infrastructure expansion and stock market valuations. The leadership update provides crucial insight into the stability of the world's second-most valuable company during a period of immense technological transition. Datacenter revenue, the primary driver of these earnings, grew by 110% to $107.6 billion. The financial report indicates that over 92% of the total quarterly revenue is now derived from datacenter segments, highlighting a massive shift in the company's business model.
+Anthropic raised a combined $107.3 billion in a mixed offering that included a $26 billion private placement backed by Google, Nvidia, AMD, and Microsoft. The company achieved a $1.5 trillion valuation through this significant capital raise. This funding milestone signals strong industry consolidation and heavy investment in AI infrastructure by major tech firms. It positions Anthropic as a dominant player capable of competing with other leading AI labs in the global market. The capital raise was structured as a combination of an IPO and a private placement, with the latter totaling $26 billion from institutional investors. This dual approach allowed Anthropic to secure substantial funding while maintaining strategic ties with major technology companies.
 
-rss · Electronics Weekly · Nov 18, 06:16
+rss · Electronics Weekly · Nov 19, 06:16
 
-**Background**: Nvidia is a leading semiconductor company that designs graphics processing units (GPUs) now widely used for training and running artificial intelligence models. Jensen Huang is the co-founder and longtime CEO, who previously played a major role in leading the company's strategic shift towards AI infrastructure and reportedly had up to 200 people directly reporting to him.
+**Background**: An Initial Public Offering (IPO) is when a company offers shares to the public market for the first time, while a private placement involves selling securities directly to a targeted group of investors. Anthropic is an artificial intelligence company known for developing the Claude family of models, operating as a public benefit corporation dedicated to AI safety.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached">Jensen Huang built an AI kingdom. Now he’s gone, will... | The Guardian</a></li>
-<li><a href="https://www.bbc.com/news/articles/c68798vdprwpo">How important are Nvidia and Jensen Huang to the US economy?</a></li>
+<li><a href="https://www.investopedia.com/ask/answers/021015/what-difference-between-ipo-and-private-placement.asp">IPO vs. Private Placement: Which Is Right for Your Company? Private Placement vs. IPO - Eqvista IPO vs. Private Placement - What's the Difference? | This vs ... Private Placement vs IPO: Which Path Is Right? Private Placement vs IPO: The Investor's Guide to Public vs ... How a Private Placement Memorandum Differs from an Initial ... IPO or Private Placement: What Does It Mean for You as an ...</a></li>
+<li><a href="https://www.britannica.com/money/Anthropic-PBC">Anthropic | History, Controversies, & Claude AI | Britannica Money</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#Financials`, `#AI Infrastructure`, `#Semiconductors`, `#Business News`
+**Tags**: `#Anthropic`, `#AI Funding`, `#Venture Capital`, `#IPO`, `#Tech Industry`
 
 ---
 
 <a id="item-7"></a>
-## [China Threatens Countermeasures Over New US AI GPU Export Restrictions](https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season) ⭐️ 8.5/10
+## [UK Admits Secret Order Forced Apple to Break End-to-End Encryption](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) ⭐️ 8.0/10
 
-Beijing has warned it will take countermeasures against new US restrictions on AI GPU rentals and exports, signaling a potential renewal of the Sino-American trade war. The escalation could severely disrupt the global AI hardware supply chain and limit access to high-performance compute resources in key markets. The new export controls reportedly target NVIDIA Blackwell-class GPUs, representing the current state-of-the-art in AI hardware technology.
+The UK government legally acknowledged through the Investigatory Powers Tribunal that it issued a secret Technical Capability Notice to Apple under the Investigatory Powers Act. This admission confirms that governments can legally compel private companies to weaken their security infrastructure, undermining user trust in end-to-end encryption services. It raises significant privacy and national security implications for the entire tech industry. Apple responded to the order by withdrawing its most secure Advanced Data Protection service in the UK. The specific details of the encryption order remain classified, but it mandated a backdoor for law enforcement access to cloud storage.
 
-rss · Tom's Hardware · Nov 18, 11:00
+hackernews · Terretta · Nov 19, 16:21 · [Discussion](https://news.ycombinator.com/item?id=50562113)
 
-**Background**: The US government implements export controls to restrict the transfer of advanced semiconductor technologies to specific countries for national security reasons. High-end AI accelerators, such as the NVIDIA Blackwell architecture, are critical components for training large language models. Geopolitical tensions often lead to reciprocal trade restrictions affecting global technology availability.
+**Background**: A Technical Capability Notice allows governments to force companies to modify their systems to access encrypted data. End-to-end encryption is a security model where data is only readable by the communicating parties. An encryption backdoor is a deliberate vulnerability that allows third parties, such as law enforcement, to bypass standard security measures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.techpolicy.press/uk-encryption-crackdown-imperils-privacy-security-free-speech/">UK Encryption Crackdown Imperils Privacy... | TechPolicy.Press</a></li>
+<li><a href="https://www.ft.com/content/186a9bb6-9e62-47ce-b974-ce52a2d73e9f?syn-25a6b1a6=1">UK pressure on Apple for data access could leave the majority less safe</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Hardware`, `#Export Controls`, `#Geopolitics`, `#NVIDIA`, `#Supply Chain`
+**Discussion**: The community expresses strong skepticism about Apple's shifted security assurances, highlighting the technical risk that a Key Encryption Key (KEK) compromise allows access to the actual data keys. Many users argue that the UK's overt surveillance approach warrants migrating to alternatives like GrapheneOS to maintain trust in their personal privacy.
+
+**Tags**: `#security`, `#privacy`, `#legal`, `#apple`, `#surveillance`
 
 ---
 
 <a id="item-8"></a>
-## [Optimizely OPTIMJACK Attack Compromises Major Websites Including BBC and CNN](https://www.solidot.org/story?sid=85920) ⭐️ 8.3/10
+## [Debate over LLM discovery of Java 4 Shell vulnerability](https://github.com/openjdk/jdk/pull/32781) ⭐️ 8.0/10
 
-Attackers exploited the OPTIMJACK vulnerability in Optimizely's Web Experimentation service to inject malicious JavaScript into 178 websites, including BBC, CNN, and Zoom. The malicious code distributed various payloads, such as card skimmers, crypto wallet swappers, and iOS exploit kits, to visitors' devices. This major supply chain attack turns trusted, high-traffic websites into vectors for malware distribution, severely compromising the digital infrastructure of global brands. It highlights the severe security risks associated with third-party web experimentation tools and the potential for widespread credential theft across the internet. The attackers specifically targeted vulnerabilities in the Optimizely Experimentation feature to inject malicious scripts, and while Optimizely claims the flaw is patched, the extent of successful infections remains unknown. The payloads targeted multiple platforms, including older versions of iOS on Apple devices.
+Security researchers at Calif disclosed Java 4 Shell, a critical RCE vulnerability in OpenJDK's Base64 decoder. A Hacker News discussion questions whether an LLM-assisted researcher independently discovered the bug or simply retrieved prior public knowledge. This incident highlights the growing role of AI in security research while raising concerns about attribution, originality, and the reliability of LLM-generated vulnerability reports. It prompts the industry to define new standards for validating AI-assisted findings. The vulnerability is tracked as CVE-2026-114938 with a CVSS 4.0 score of 9.2. The research focused on the JIT compiler, intrinsics, and widely accessible APIs, but it remains unclear if the LLM truly understood the exploitability.
 
-rss · Solidot · Nov 18, 09:12
+hackernews · notmine1337 · Nov 19, 11:47 · [Discussion](https://news.ycombinator.com/item?id=50558906)
 
-**Background**: Supply chain attacks occur when threat actors compromise trusted third-party software or services, allowing them to distribute malicious code to a massive number of end-users simultaneously. Optimizely's Web Experimentation service is a widely used tool for A/B testing that allows websites to modify content and layouts without altering the core code. Because this tool is integrated into many of the web's most prominent sites, a vulnerability in its delivery pipeline presents a massive security risk.
+**Background**: Java 4 Shell is a memory corruption vulnerability in OpenJDK that allows remote code execution via malformed Base64 input. Responsible disclosure norms require researchers to coordinate with vendors like Oracle before public release to prevent immediate exploitation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html">Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit...</a></li>
-<li><a href="https://www.cnet.com/tech/services-and-software/optimizely-cyberattack-visitors-to-websites/">Cyberattack Targets iPhones, Crypto of Visitors to Major... - CNET</a></li>
+<li><a href="https://www.sentinelone.com/blog/java4shell-vulnerability-in-openjdk-enables-rce-on-avx-512-cpus/">Defending Against Java 4 Shell : Vulnerability in OpenJDK Enables...</a></li>
+<li><a href="https://www.helpnetsecurity.com/2022/05/12/publishing-cve/">How to avoid headaches when publishing a CVE - Help Net Security</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cybersecurity`, `#Supply Chain Attack`, `#Web Development`, `#Autonomous Vehicles`, `#News`
+**Discussion**: The community debates whether the LLM had prior knowledge of similar bug reports from open repositories. While some argue that understanding criticality still requires human supervision, others suspect the model simply copied details from previous PRs or issues.
+
+**Tags**: `#Security`, `#AI/ML`, `#Java`, `#OpenSource`, `#VulnerabilityManagement`
 
 ---
 
 <a id="item-9"></a>
-## [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) ⭐️ 8.0/10
+## [Souring Datacentre Sentiment](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/souring-datacentre-sentiment-2026-11/) ⭐️ 8.0/10
 
-A discussion on Hacker News analyzing the release of Gemini 4 Neon, focusing on its performance relative to Anthropic's models and the confusion caused by new AI model naming schemes.
+The article explores the potential economic risks and sentiment shifts surrounding the projected $10.3 trillion global AI infrastructure investment cycle from 2025 to 2032.
 
-hackernews · yigitdemirag · Nov 18, 21:34 · [Discussion](https://news.ycombinator.com/item?id=50552424)
+rss · Electronics Weekly · Nov 19, 01:01
 
-**Tags**: `#Gemini`, `#LLM`, `#Model-Release`, `#Competitive-Analysis`
+**Tags**: `#AI Infrastructure`, `#Data Centers`, `#Economics`, `#Hardware Supply Chain`, `#Technology Trends`
 
 ---
 
 <a id="item-10"></a>
-## [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/) ⭐️ 8.0/10
+## [Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink](https://www.tomshardware.com/networking/ukraine-deploys-homemade-flying-modems-in-daring-drone-attack-to-destroy-crimean-bridge-ditching-elon-musks-starlink-airborne-relay-stations-allow-pilots-to-dodge-russian-air-defences-to-deliver-1-200kg-payload) ⭐️ 7.5/10
 
-Gemini 4 Neon looks like an Opus 5.5 competitor
+Ukrainian forces employed a network of homemade 'flying modems' to create an airborne relay system, enabling live video feeds during an attack on the Crimean Bridge while evading Russian jamming of Starlink signals.
 
-hackernews · seizethecheese · Nov 19, 00:29 · [Discussion](https://news.ycombinator.com/item?id=50554374)
+rss · Tom's Hardware · Nov 19, 11:11
 
-**Tags**: `#Gemini`, `#LLM-Coding`, `#Model-Comparison`, `#AI-Engineering`
+**Tags**: `#Networking`, `#Military Technology`, `#Satellite Communications`, `#Signal Jamming`, `#Innovation`
 
 ---
 
 <a id="item-11"></a>
-## [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) ⭐️ 8.0/10
+## [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) ⭐️ 7.0/10
 
-The post reports on C-based memory corruption vulnerabilities in Ruby's Regexp and String case conversion, highlighting critical security gaps in established software that are increasingly being discovered by AI.
+A new study demonstrates that viral injections can halt pancreatic cancer in a small patient group, sparking community discussion that provides links to underlying research and critical analysis of the early-stage results.
 
-hackernews · runesoerensen · Nov 18, 23:52 · [Discussion](https://news.ycombinator.com/item?id=50554038)
+hackernews · cybermango · Nov 19, 17:25 · [Discussion](https://news.ycombinator.com/item?id=50563066)
 
-**Tags**: `#security`, `#ruby`, `#memory-safety`, `#vulnerability`, `#ai-security`
+**Tags**: `#Medical Research`, `#Cancer`, `#Oncolytic Virus`, `#Biotechnology`, `#Clinical Trials`
 
 ---
 
 <a id="item-12"></a>
-## [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](https://semiwiki.com/3dic/376374-physics-over-probability-how-agentic-ai-solves-electronic-systems-verification/) ⭐️ 8.0/10
+## [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/) ⭐️ 7.0/10
 
-The article explores how Agentic AI is being applied to solve complex electronic systems verification challenges in high-speed PCB designs by prioritizing physical constraints over probabilistic methods.
+A discussion on Pete Warden's views regarding local AI and hardware, complemented by user reports on the feasibility and performance of running large language models on consumer GPUs.
 
-rss · SemiWiki · Nov 18, 18:00
+hackernews · datascientist · Nov 19, 15:38 · [Discussion](https://news.ycombinator.com/item?id=50561508)
 
-**Tags**: `#Agentic AI`, `#Electronic Design Automation`, `#Signal Integrity`, `#Hardware Verification`, `#PCB Design`
+**Tags**: `#Local AI`, `#On-Device AI`, `#Hardware`, `#LLM`, `#Consumer Tech`
 
 ---
 
 <a id="item-13"></a>
-## [KPMG Study: AI Agents Outperform Accountants in Audit Questions](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) ⭐️ 7.0/10
+## [European Commission Deploys Matrix Chat Platform to Over 40,000 Staff Members](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) ⭐️ 7.0/10
 
-A self-conducted study by KPMG reveals that AI agents generate more comprehensive audit questions than human accountants in a trial setting. This benchmarking exercise highlights the potential of LLMs to match or exceed human performance in specialized professional workflows. This finding is significant because it suggests that AI can augment or potentially replace routine professional tasks, impacting the structure of Big Four accounting firms. However, the self-benchmarking nature of the study raises concerns about objectivity and real-world reliability in complex audit environments. The experiment was conducted by KPMG itself, which is similar to 'the fox guarding the henhouse' and may lead to over-optimistic results compared to independent benchmarks. The task involved generating audit questions, a domain known for tedious, detailed, and high-variance human performance.
+The European Commission successfully rolled out the decentralized communication protocol Matrix to more than 40,000 staff members. The deployment prompted significant internal technical adjustments, including the disabling of live presence features to mitigate server performance degradation. This large-scale deployment serves as a critical case study for the viability of open-source infrastructure in government and enterprise environments. It highlights the practical challenges of managing real-time communication protocols at scale, influencing how architects approach enterprise adoption of Matrix. The platform's end-to-end encryption capabilities remain a point of significant debate among security researchers, particularly regarding the implementation status of the MLS protocol. Performance bottlenecks in live presence tracking and the fragmented client landscape were identified as notable technical limitations.
 
-hackernews · Betelbuddy · Nov 18, 15:49 · [Discussion](https://news.ycombinator.com/item?id=50547777)
+hackernews · liotier · Nov 19, 10:58 · [Discussion](https://news.ycombinator.com/item?id=50558533)
 
-**Background**: Audit trials involve verifying financial statements and identifying potential risks, a process traditionally reliant on human expertise and checklists. In recent years, Large Language Models (LLMs) have been applied to such tasks, but their reliability in complex, unstructured professional contexts remains a subject of debate among industry experts.
+**Background**: Matrix is an open-source protocol for secure, real-time communication that aims to be a decentralized alternative to proprietary messaging apps. It operates on a distributed server architecture, allowing entities to self-host their own homeservers and communicate across the global network.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://n8n.io/ai-agents/">AI Workflow Automation Platform - n8n</a></li>
+**Discussion**: The community is divided, with users appreciating the privacy benefits of self-hosting but critical users expressing frustration over security flaws and frequent encryption errors. Some skeptics predict a high churn rate for institutional users due to the platform's current usability limitations and slow development pace.
 
-</ul>
-</details>
-
-**Discussion**: Community comments criticize the big firm accounting model as exploitative and argue that a single, consistent AI agent has a massive advantage over humans who vary in experience and fatigue levels. Users also note that while AI lacks creativity, its superior memory and attention to detail make it ideal for tedious audit tasks, though the self-benchmarking nature of the KPMG study is viewed with skepticism.
-
-**Tags**: `#AI-Agents`, `#Accounting-Audit`, `#LLM-Applications`, `#KPMG`, `#Human-AI-Collaboration`
+**Tags**: `#Matrix`, `#OpenSource`, `#EnterpriseIT`, `#Security`, `#DistributedSystems`
 
 ---
 
 <a id="item-14"></a>
-## [Reporter Details OpenAleph and FollowTheMoney Tech Stack for Deutsche Bank Investigation](https://www.inside-db.com/) ⭐️ 7.0/10
+## [PHP 8.6 Introduces ZTS Performance and Type System Improvements](https://www.php.net/releases/8.6/en.php) ⭐️ 7.0/10
 
-A reporter involved in the 'Inside Deutsche Bank' investigation disclosed the technical infrastructure used to process 15 million documents, specifically highlighting the use of OpenAleph and the FollowTheMoney data schema. The system was designed to analyze mostly Outlook mailbox exports to uncover connections and financial crime patterns. This disclosure provides rare insight into the specific open-source tools driving modern big data journalism, demonstrating how investigative teams handle massive unstructured datasets. It highlights the growing reliance on specialized schemas like FollowTheMoney for standardizing financial crime analysis. The OpenAleph platform is maintained by DARC and is built on top of ElasticSearch, serving as the primary engine for searching documents and structured data. The raw data will not be published online, with reporters continuing to evaluate the material journalistically over the coming months.
+PHP 8.6 releases several significant updates including ZTS performance improvements and enhancements to the type system. The release specifically highlights the introduction of function partials and a reduction in overhead for ZTS mode. The reduction in ZTS overhead could pave the way for native asynchronous support, enabling more efficient multithreading in PHP applications. This update is significant for web developers seeking to improve performance and security in their server-side codebases. A notable technical improvement allows for backward-compatible function arity checking, addressing a long-standing feature request to limit arguments for user-defined functions. Developers should note that recent critical vulnerabilities affect PHP 8.5 and later, meaning users on 8.3-8.4 remain safe from those specific CVEs.
 
-hackernews · gyre007 · Nov 18, 15:38 · [Discussion](https://news.ycombinator.com/item?id=50547620)
+hackernews · netol · Nov 19, 09:27 · [Discussion](https://news.ycombinator.com/item?id=50557870)
 
-**Background**: OpenAleph is an open-source fork of the previously maintained Aleph project, designed for investigative newsrooms to explore vast amounts of documents and datasets. The FollowTheMoney schema is a data model developed specifically for financial crime investigations and document forensics, allowing journalists to organize complex entity relationships and transactions.
+**Background**: PHP ZTS stands for Zend Thread Safety, a mode allowing PHP to run in multithreaded environments, though it typically incurs performance overhead compared to non-ZTS. The `parallel` extension currently offers limited concurrency, and ZTS improvements are seen as a stepping stone toward deeper native asynchronous capabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openaleph.org/">Welcome - OpenAleph</a></li>
-<li><a href="https://aleph.discourse.group/t/openaleph-5-release/310">OpenAleph 5 release - Community Projects - OCCRP Aleph Pro</a></li>
+**Discussion**: The community is most excited about the ZTS overhead reduction, viewing it as a potential enabler for native async support similar to the existing parallel extension. There is also disappointment regarding the lack of a simple way to limit user-defined function arguments in the type system, despite proposals for backward-compatible solutions. Users are advising those on newer PHP versions to upgrade quickly due to recent critical vulnerabilities, while noting that older versions like 8.3-8.4 are currently safe.
 
-</ul>
-</details>
-
-**Discussion**: Community members discussed the importance of data accessibility, with some criticizing the decision not to publish raw data and arguing that selective omission of facts can be just as misleading as lies. Other comments focused on the need for better summary points on the project page to help readers quickly grasp the major points of the scandal without dedicating extensive time to linked articles.
-
-**Tags**: `#DataJournalism`, `#ElasticSearch`, `#InvestigativeReporting`, `#BigData`, `#TechInfrastructure`
+**Tags**: `#PHP`, `#Web Development`, `#Programming Languages`, `#Performance Optimization`
 
 ---
 
 <a id="item-15"></a>
-## [Leveraging LLMs to accelerate reverse engineering and protocol analysis](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) ⭐️ 7.0/10
+## [Thermal and EMI challenges in high-density GaN power converters](https://www.electronicsweekly.com/news/business/thermal-and-emi-challenges-in-high-density-gan-power-converters-2026-11/) ⭐️ 7.0/10
 
-The article highlights practical workflows where Large Language Models are used to rapidly decode proprietary network protocols and inspect closed-source code, a process previously requiring extensive manual debugging. This capability significantly lowers the technical barrier for reverse engineering, enabling users and developers to audit and interface with undocumented hardware or software components much more efficiently. Key methodologies include isolating traffic with network namespaces for precise packet capture and forcing AI to use a systematic, scientific-method approach to prevent it from falling into redundant guessing loops.
+An article in Electronics Weekly emphasizes that maximizing the benefits of GaN design requires treating switching behavior, EMI, PCB design, and thermal management as interconnected problems. It argues that these factors cannot be addressed in isolation to achieve optimal performance in high-density applications. This guidance is critical for power electronics engineers designing next-generation high-density converters, as ignoring the interplay between thermal and EMI factors can lead to device failure or compliance issues. It highlights the complexity of moving from silicon to wide-bandgap technologies like GaN. The article notes that GaN devices exhibit high switching frequencies and low losses due to small parasitic capacitances. However, these characteristics make the system highly sensitive to electromagnetic interference and heat dissipation on the printed circuit board.
 
-hackernews · ioma8 · Nov 18, 22:29 · [Discussion](https://news.ycombinator.com/item?id=50553225)
+rss · Electronics Weekly · Nov 19, 12:00
 
-**Background**: Reverse engineering is the process of disassembling or decompiling a system to understand its design and function, often targeting closed-source software or hardware. Traditional methods are time-intensive, usually relying on manual analysis of assembly code and live network traffic.
-
-**Discussion**: Community members successfully used LLMs to quickly reverse-engineer closed-source items like CCTV camera connections and abandoned audio plugins, proving the technology's utility for those without deep reverse engineering experience. Additionally, users pointed out that applying a structured, experimental approach is crucial to stop AI agents from hallucinating or looping.
-
-**Tags**: `#LLM`, `#Reverse Engineering`, `#Security`, `#Networking`, `#Tooling`
-
----
-
-<a id="item-16"></a>
-## [RadixArk Releases Open-Weights DaisyRose-27B Model](https://www.radixark.com/blog/daisyrose-27b) ⭐️ 7.0/10
-
-RadixArk has released DaisyRose-27B, its first model, which is a post-trained variant of the Qwen3.8-27B architecture. It was fine-tuned using reinforcement learning via a tool called Miles to enhance its performance on specific benchmarks. This release lowers the barrier for local and edge AI deployment because the 27B parameter size is small enough to run on consumer hardware like Macs. It also demonstrates the growing trend of smaller companies performing competitive post-training on open base models. The model requires significant compute for training, reported to take 18 days on 144 H200 GPUs, and currently lacks immediate GGUF format support for some users. A competitor model named Sabi-noema, also based on the Qwen3.8 architecture, has been highlighted in the same release window.
-
-hackernews · de_sty · Nov 18, 19:39 · [Discussion](https://news.ycombinator.com/item?id=50551046)
-
-**Background**: Post-training involves taking a large base language model and fine-tuning it on specialized data to improve specific capabilities like coding or logical reasoning. Open-weight models allow developers to download, run, and further customize AI models locally on their own hardware. The Qwen 27B model is a dense 270-million parameter model released by the Qwen team that is designed to balance strong performance with hardware efficiency.
+**Background**: Gallium nitride is a wide-bandgap semiconductor that enables power electronics to operate at much higher frequencies and temperatures than traditional silicon devices. Because of these high frequencies, managing electromagnetic interference and preventing thermal overload in compact, high-density designs becomes significantly more complex.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.radixark.com/blog/daisyrose-27b">DaisyRose - 27 B : Pushing the Frontier of Post-Training... | RadixArk Blog</a></li>
-<li><a href="https://huggingface.co/RadixArk/Qwen3.8-27B-NVFP4">RadixArk /Qwen3.8- 27 B -NVFP4 · Hugging Face</a></li>
-<li><a href="https://www.cnblogs.com/sing1ee/p/22498000">Qwen3.8-27B（2026）：Qwen 新 27B 视觉语言模型完整指南 - 见路非道 ...</a></li>
+<li><a href="https://www.flywing-tech.com/blog/sic-vs-gan-comparison-2026/">SiC vs GaN : Which One Should You Choose in 2026?</a></li>
+<li><a href="https://www.infineon.com/assets/row/public/documents/24/42/infineon-icl8830-high-frequency-gan-controller-for-led-lighting-applicationnotes-en.pdf">ICL8830 high - frequency GaN controller for LED</a></li>
+<li><a href="https://www.geeksforgeeks.org/electronics-engineering/electromagnetic-interference/">Electromagnetic Interference - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community expressed excitement about running 27B models on local hardware, with users comparing DaisyRose against other fine-tunes like Fireworks' Ember-1. There was critical discussion regarding the trade-offs of overfitting to specific benchmark datasets, as well as surprise at the heavy hardware requirements needed to train on the base model. Some users noted that GGUF formats were not immediately available for easy local testing.
+**Tags**: `#GaN`, `#Power Electronics`, `#Thermal Management`, `#EMI`, `#PCB Design`
 
-**Tags**: `#open-source-ai`, `#model-finetuning`, `#llm`, `#local-ai`, `#radixark`
+---
+
+<a id="item-16"></a>
+## [Three used V100 GPUs achieve 100 tokens per second on Qwen 3.6 35B](https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts) ⭐️ 6.5/10
+
+A homelab builder demonstrated that a $1,042 rig using three decommissioned Nvidia Tesla V100 GPUs can achieve 100 tokens per second on the Qwen 3.6 35B model. This configuration outperforms the more expensive M5 Max Mac Studio at long contexts. This result proves that affordable, repurposed 'e-waste' enterprise GPUs remain a highly competitive solution for local large language model inference. It offers a practical, cost-effective alternative to high-end consumer hardware for developers and enthusiasts who need long-context performance. The Qwen 3.6 35B is a Mixture-of-Experts model released in April 2026, and this benchmark specifically highlights its performance at long contexts where traditional consumer hardware often slows down. The V100 is based on the older Volta architecture, showing its continued relevance for sustained inference tasks.
+
+rss · Tom's Hardware · Nov 19, 11:00
+
+**Background**: The Nvidia V100 is a data-center GPU based on the Volta architecture, originally designed for AI and high-performance computing in large-scale facilities. Qwen 3.6 35B is an advanced Large Language Model that utilizes Mixture-of-Experts (MoE) to optimize inference efficiency. Homelabbing refers to building personal hardware setups to self-host software, providing privacy and customizability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://llm-stats.com/models/qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Benchmarks, Pricing & Context Window</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/v100.md/">NVIDIA V100 | NVIDIA</a></li>
+<li><a href="https://dasroot.net/posts/2026/05/qwen-3-6-35b-a3b-mtp-frozen-backbones-speedup/">Qwen 3.6 35B A3B & MTP: 7.8x Speedup with Frozen Backbones</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#homelab`, `#LLM-inference`, `#used-GPU`, `#Qwen`, `#nvidia`
 
 ---
 
 <a id="item-17"></a>
-## [Siemens buys Breker Verification Systems](https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/) ⭐️ 7.0/10
+## [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/) ⭐️ 6.0/10
 
-Siemens is acquiring Breker Verification Systems to integrate SoC-level technologies that accelerate the verification of complex SoC architectures.
+A Hacker News discussion about a tool for generating foldable 8-page zines from a single A4 sheet, featuring community insights on paper imposition, historical folding techniques, and related software tools.
 
-rss · Electronics Weekly · Nov 18, 06:12
+hackernews · krthr · Nov 19, 13:18 · [Discussion](https://news.ycombinator.com/item?id=50559719)
 
-**Tags**: `#EDA`, `#SoC Verification`, `#Acquisition`, `#Hardware Design`, `#Siemens`
+**Tags**: `#PrintMedia`, `#WebDevelopment`, `#CreativeTools`, `#PaperFolding`, `#Impositioning`
 
 ---
 
 <a id="item-18"></a>
-## [Latest NVIDIA Drivers Might Cause Excessive SSD Writing](https://www.techpowerup.com/354996/latest-nvidia-drivers-might-cause-excessive-ssd-writing) ⭐️ 6.5/10
+## [ST set to double MCU revenues](https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/) ⭐️ 6.0/10
 
-Recent NVIDIA GeForce drivers (versions 621.14 and 621.24) are reported to cause excessive SSD write activity, potentially reaching 30 GB/hour, due to continuous logging to the nvlog.nvlgstg file.
+STMicroelectronics expects to double its microcontroller revenues between 2005 and 2028, according to its president.
 
-rss · TechPowerUp News · Nov 18, 20:59
+rss · Electronics Weekly · Nov 19, 06:15
 
-**Tags**: `#NVIDIA`, `#Drivers`, `#Hardware`, `#SSD`, `#Bug`
+**Tags**: `#STMicroelectronics`, `#Microcontrollers`, `#Semiconductor Industry`, `#Business News`
 
 ---
 
 <a id="item-19"></a>
-## [SSDs, laptops, and phones may get cheaper as consumer NAND spot pricing drops 20%](https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition) ⭐️ 6.5/10
+## [SI expects 60-80% semi growth in 2026](https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/) ⭐️ 6.0/10
 
-Consumer NAND flash memory spot prices have dropped by 20% due to declining demand and increased production, potentially leading to cheaper SSDs, laptops, and phones.
+Semiconductor Intelligence forecasts 60-80% global market growth for 2026 in a newsletter from Bill Jewell's retirement.
 
-rss · Tom's Hardware · Nov 18, 12:00
+rss · Electronics Weekly · Nov 19, 06:14
 
-**Tags**: `#Hardware`, `#Market Trends`, `#NAND Flash`, `#Consumer Electronics`, `#Pricing`
+**Tags**: `#Semiconductor Market`, `#Industry Forecast`, `#Business`, `#Tech Trends`
 
 ---
 
 <a id="item-20"></a>
-## [Dissing Datacentres](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/datacentre-dislike-2026-11/) ⭐️ 6.0/10
+## [AMD "Zen 6" for Desktop Reportedly Pushed to Computex 2027](https://www.techpowerup.com/355030/amd-zen-6-for-desktop-reportedly-pushed-to-computex-2027) ⭐️ 5.5/10
 
-A blog post notes that public concern and backlash against datacenter expansion are widespread in the UK, similar to sentiments in the US, based on a Statista survey.
+AMD's desktop 'Zen 6' (Olympic Ridge) processors are reportedly delayed to Computex 2027 to utilize TSMC's N2X node for higher clock speeds, while EPYC lines stick to the standard N2 node.
 
-rss · Electronics Weekly · Nov 18, 14:20
+rss · TechPowerUp News · Nov 19, 17:22
 
-**Tags**: `#datacenters`, `#public-perception`, `#ai-infrastructure`, `#survey`, `#electronics`
+**Tags**: `#AMD`, `#CPU`, `#TSMC`, `#Hardware`, `#Roadmap`
 
 ---

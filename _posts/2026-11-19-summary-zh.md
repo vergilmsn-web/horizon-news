@@ -5,327 +5,326 @@ date: 2026-11-19
 lang: zh
 ---
 
-> 从 94 条内容中筛选出 20 条重要资讯。
+> 从 93 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter](#item-1) ⭐️ 9.5/10
-2. [Unauthenticated remote code execution in Nginx](#item-2) ⭐️ 9.0/10
-3. [Seven new models at scalable price-performance](#item-3) ⭐️ 9.0/10
-4. [Genie 4 is now available](#item-4) ⭐️ 9.0/10
-5. [2026 年第三季度全球半导体市场规模达 4810 亿美元](#item-5) ⭐️ 9.0/10
-6. [英伟达第三季度营收达 1158 亿美元，董事长对黄仁贤发表评论](#item-6) ⭐️ 9.0/10
-7. [中国威胁因美国新 AI 芯片出口限制实施反制措施](#item-7) ⭐️ 8.5/10
-8. [Optimizely OPTIMJACK 供应链攻击波及 BBC 等 178 个知名网站](#item-8) ⭐️ 8.3/10
-9. [Gemini 4 Neon](#item-9) ⭐️ 8.0/10
-10. [Gemini 4 Neon looks like an Opus 5.5 competitor](#item-10) ⭐️ 8.0/10
-11. [Multiple vulnerabilities in Regexp and String case conversion](#item-11) ⭐️ 8.0/10
-12. [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](#item-12) ⭐️ 8.0/10
-13. [毕马威研究：AI 智能体在审计提问上优于会计师](#item-13) ⭐️ 7.0/10
-14. [记者详解德银调查项目中 OpenAleph 与 FollowTheMoney 技术架构](#item-14) ⭐️ 7.0/10
-15. [利用大语言模型加速逆向工程与协议分析](#item-15) ⭐️ 7.0/10
-16. [RadixArk 发布开源权重的 DaisyRose-27B 模型](#item-16) ⭐️ 7.0/10
-17. [Siemens buys Breker Verification Systems](#item-17) ⭐️ 7.0/10
-18. [Latest NVIDIA Drivers Might Cause Excessive SSD Writing](#item-18) ⭐️ 6.5/10
-19. [随着消费级 NAND 现货价格下跌 20%，SSD、笔记本电脑和手机可能会降价](#item-19) ⭐️ 6.5/10
-20. [抨击数据中心](#item-20) ⭐️ 6.0/10
+1. [Nvidia launches Vera CPU for scientific discovery](#item-1) ⭐️ 10.0/10
+2. [Intel 18A yields hit 70% as company signs Microsoft as EMIB customer](#item-2) ⭐️ 9.5/10
+3. [Anthropic hits $2T in Nasdaq debut](#item-3) ⭐️ 9.0/10
+4. [Claude solves two open problems in the physics of black holes](#item-4) ⭐️ 9.0/10
+5. [Ruby2ßhell：Ruby Rails 关键预认证 RCE 漏洞](#item-5) ⭐️ 9.0/10
+6. [Anthropic 以 1.5 万亿美元估值完成 1073 亿美元融资](#item-6) ⭐️ 9.0/10
+7. [英国政府承认曾向苹果发出解密加密服务的秘密指令](#item-7) ⭐️ 8.0/10
+8. [围绕 Java 4 Shell 漏洞由 LLM 发现的争议](#item-8) ⭐️ 8.0/10
+9. [Souring Datacentre Sentiment](#item-9) ⭐️ 8.0/10
+10. [Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink](#item-10) ⭐️ 7.5/10
+11. [Pancreatic cancer halted by virus injection in three patients](#item-11) ⭐️ 7.0/10
+12. [皮特·沃登谈本地 AI、开源模型、语音界面及硬件的未来](#item-12) ⭐️ 7.0/10
+13. [欧盟委员会向 4 万余名员工部署 Matrix 聊天平台](#item-13) ⭐️ 7.0/10
+14. [PHP 8.6 带来 ZTS 性能与类型系统改进](#item-14) ⭐️ 7.0/10
+15. [高密度氮化镓电源转换器的热管理和电磁干扰挑战](#item-15) ⭐️ 7.0/10
+16. [三块二手 V100 GPU 在 Qwen 3.6 35B 模型上实现每秒 100 个 token](#item-16) ⭐️ 6.5/10
+17. [Making 8-page foldable zines from a single A4 sheet in the browser](#item-17) ⭐️ 6.0/10
+18. [ST set to double MCU revenues](#item-18) ⭐️ 6.0/10
+19. [SI expects 60-80% semi growth in 2026](#item-19) ⭐️ 6.0/10
+20. [AMD 桌面级“Zen 6”处理器传将推迟至 2027 年台北电脑展发布](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised) ⭐️ 9.5/10
+## [Nvidia launches Vera CPU for scientific discovery](https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/) ⭐️ 10.0/10
 
-Nvidia reported record quarterly revenue of $115.8 billion, driven by $20 billion in sales from its new Vera Rubin platform and a raised supplier commitment total to $540 billion.
+Nvidia has announced the Vera CPU, its first fully custom datacenter processor designed for high-performance computing and scientific discovery.
 
-rss · Tom's Hardware · 11月18日 13:00
+rss · Electronics Weekly · 11月19日 06:07
 
-**标签**: `#Nvidia`, `#AI Hardware`, `#Financial Results`, `#Data Centers`, `#Semiconductors`
+**标签**: `#Nvidia`, `#CPU`, `#HPC`, `#Hardware`, `#Datacenter`
 
 ---
 
 <a id="item-2"></a>
-## [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) ⭐️ 9.0/10
+## [Intel 18A yields hit 70% as company signs Microsoft as EMIB customer](https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology) ⭐️ 9.5/10
 
-Wiz Security disclosed unauthenticated RCE vulnerabilities in Nginx's HTTP/2 implementation, prompting a high-priority patch and discussion on the risks of delayed public safety announcements.
+Intel achieves 70% yields on its 18A process node and signs a major deal with Microsoft for Xeon supply and EMIB packaging technology.
 
-hackernews · speedping · 11月18日 15:19 · [社区讨论](https://news.ycombinator.com/item?id=50547374)
+rss · Tom's Hardware · 11月19日 13:00
 
-**标签**: `#Security`, `#Nginx`, `#Vulnerability`, `#RCE`, `#DevOps`
+**标签**: `#Intel 18A`, `#Semiconductors`, `#Microsoft`, `#EMIB`, `#Foundry`
 
 ---
 
 <a id="item-3"></a>
-## [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) ⭐️ 9.0/10
+## [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) ⭐️ 9.0/10
 
-Microsoft announces seven new AI models at Ignite 2026, claiming performance competitive with top-tier models like Anthropic's Opus, sparking significant discussion on market competition and open-source strategy.
+Anthropic's historic Nasdaq debut at a $2 trillion valuation sparks intense debate about the economic, environmental, and social impacts of the AI boom, with community discussions highlighting concerns over housing affordability, job displacement for engineers, and the misallocation of capital away from sectors like healthcare.
 
-hackernews · gmays · 11月18日 16:08 · [社区讨论](https://news.ycombinator.com/item?id=50548021)
+hackernews · wslh · 11月19日 17:02 · [社区讨论](https://news.ycombinator.com/item?id=50562754)
 
-**标签**: `#LLM`, `#Microsoft`, `#AI`, `#ModelRelease`, `#OpenSource`
+**标签**: `#AI`, `#Finance`, `#Market Trends`, `#Anthropic`, `#Economic Impact`
 
 ---
 
 <a id="item-4"></a>
-## [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) ⭐️ 9.0/10
+## [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) ⭐️ 9.0/10
 
-Google DeepMind announces the availability of Genie 4, a new AI model capable of generating interactive world environments, sparking debate on accessibility and implications for gaming and AI research.
+Anthropic announced that their model Claude solved two open problems in black hole physics, a feat now considered significant enough to be featured in frontier model launch announcements, sparking debate on AI capabilities and scientific reproducibility.
 
-hackernews · leumon · 11月18日 18:49 · [社区讨论](https://news.ycombinator.com/item?id=50550415)
+hackernews · cybermango · 11月19日 17:30 · [社区讨论](https://news.ycombinator.com/item?id=50563148)
 
-**标签**: `#AI`, `#Google DeepMind`, `#World Models`, `#Generative AI`, `#Game Development`
+**标签**: `#AI`, `#Physics`, `#Scientific Breakthrough`, `#Claude`, `#Anthropic`
 
 ---
 
 <a id="item-5"></a>
-## [2026 年第三季度全球半导体市场规模达 4810 亿美元](https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/) ⭐️ 9.0/10
+## [Ruby2ßhell：Ruby Rails 关键预认证 RCE 漏洞](https://verialabs.com/ruby2shell/) ⭐️ 9.0/10
 
-根据 WSTS 的数据，2026 年第三季度全球半导体市场规模达到 4810 亿美元，同比增长 129%，主要受 AI 需求和英伟达（Nvidia）表现驱动。这一增速超过了 2026 年第二季度 110%的同比历史最高纪录。 这一创纪录的增长率标志着半导体行业的根本性转变，确认了 AI 现在是重塑市场格局和全球经济基础设施的主导力量。投资者和制造商面临着一个新的高增长可持续性和供应链扩张的范式。 从 2026 年第二季度到第三季度的 27%环比增长表明，AI 硬件需求的加速并非一次性激增，而是持续的趋势。WSTS 指出，这是其历史纪录中最快的同比增长。
+研究人员在原版 Ruby on Rails 中发现了一个关键的预认证远程代码执行（RCE）漏洞，名为 ruby2ßhell。该漏洞是 Ruby 字符串大小写转换代码中的一次单字节堆缓冲区溢出，允许攻击者在无需凭据的情况下入侵系统。 该漏洞之所以关键，是因为它影响了广泛使用的 Ruby on Rails 框架，并允许在无认证的情况下进行远程代码执行。它凸显了解释型语言中内存安全缺陷日益增长的风险，以及 AI 辅助工具武器化底层漏洞速度加快的趋势。 该缺陷被列为 CVE-2026-132825，影响 Ruby 的 upcase 和 downcase 等大小写转换函数，由于堆溢出可被利用来读取缓冲区外的一个字节。Ruby 3.3.14、3.4.13 和 4.0.10 版本已提供修复，且自 Ruby 2.4.0 以来的相关代码均存在漏洞。
 
-rss · SemiWiki · 11月18日 22:00
+hackernews · jdns · 11月19日 05:09 · [社区讨论](https://news.ycombinator.com/item?id=50556287)
 
-**背景**: WSTS（世界半导体贸易统计组织）是负责汇编和发布全球半导体行业共识市场数据的主要行业机构。近年来，由于生成式 AI 工作负载的爆发，AI 加速器（尤其是英伟达等公司的高性能 GPU）已成为半导体收入增长的主要驱动力。
+**背景**: Ruby on Rails 是基于 Ruby 编程语言构建的流行 Web 应用框架，Ruby 以动态类型和面向对象语法著称。虽然 Ruby 将开发者从手动内存管理中隔离开来，但其底层虚拟机（VM）和本机扩展与 C 代码交互，容易受到缓冲区溢出等内存安全问题影响。预认证 RCE 漏洞尤为危险，因为未经验证的远程攻击者可以借此完全控制服务器。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/company/wsts-world-semiconductor-trade-statistics">World Semiconductor Trade Statistics | LinkedIn</a></li>
+<li><a href="https://cybersecuritynews.com/ruby2shell-rce/">ruby2ßhell: Critical One-Byte Heap Overflow in Ruby Could ...</a></li>
+<li><a href="https://orca.security/resources/blog/ruby2shell-ruby-heap-overflow-rce/">ruby2ßhell: CVE-2026-132825 Ruby Heap Overflow RCE</a></li>
+<li><a href="https://www.getastra.com/blog/security-advisory/ruby2shell/">Ruby2shell (CVE-2026-132825): Critical Ruby Heap Overflow ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Semiconductor Industry`, `#Market Analysis`, `#AI Hardware`, `#Economic Trends`, `#Nvidia`
+**社区讨论**: 社区讨论重点在于 AI 是否使单字节溢出更容易转化为 RCE，从而呼吁在软件栈中实施更严格的内存安全措施。一些用户对“Rails2Shell”变体频率增加感到沮丧，质疑在 AI 时代单个 CVE 是否还应被视为重大新闻。技术兴趣集中在武器化单字节溢出以实现远程代码执行的难度上。
+
+**标签**: `#Ruby`, `#Rails`, `#Security`, `#RCE`, `#MemorySafety`
 
 ---
 
 <a id="item-6"></a>
-## [英伟达第三季度营收达 1158 亿美元，董事长对黄仁贤发表评论](https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/) ⭐️ 9.0/10
+## [Anthropic 以 1.5 万亿美元估值完成 1073 亿美元融资](https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/) ⭐️ 9.0/10
 
-英伟达报告第三季度营收达 115.8 亿美元，毛利率为 74.8%，净利润为 65.3 亿美元。该公司董事长还就领导层连续性发表了评论，特别提到了 CEO 黄仁贤的处境。 这些创纪录的财务业绩展示了英伟达在 AI 半导体市场的主导地位，直接影响全球 AI 基础设施的扩张和股市估值。关于领导层的更新为了解这家世界第二大公司在此期间技术转型的稳定性的提供了关键洞见。 数据中心收入是这些收益的主要驱动力，增长了 110%，达到 107.6 亿美元。财务报告表明，季度总收入的 92%以上现在来自数据中心部门，突显了公司业务模式的巨大转变。
+Anthropic 通过混合融资（包括由 Google、Nvidia、AMD 和 Microsoft 支持的 260 亿美元私募配售）共筹集了 1073 亿美元。通过此次巨额资本募集，该公司的估值达到了 1.5 万亿美元。 这一融资里程碑表明行业整合强劲，且主要科技公司在人工智能基础设施上的投资力度巨大。这使 Anthropic 成为能够与全球市场其他领先人工智能实验室竞争的支配性参与者。 此次资本募集被结构化为 IPO 和私募配售的组合，其中后者来自机构投资者，总额达 260 亿美元。这种双重途径使 Anthropic 能够在保持与主要科技公司战略关系的同时，获得巨额资金。
 
-rss · Electronics Weekly · 11月18日 06:16
+rss · Electronics Weekly · 11月19日 06:16
 
-**背景**: 英伟达是一家领先的半导体公司，其设计的图形处理单元（GPU）现广泛用于训练和运行人工智能模型。黄仁贤是联合创始人和长期担任的 CEO，他此前在领导公司向 AI 基础设施的战略转变中发挥了主要作用，据报道最多有 200 人直接向他汇报。
+**背景**: 首次公开募股（IPO）是指公司首次向公共市场发行股份，而私募配售是指向特定的投资者群体直接出售证券。Anthropic 是一家人工智能公司，以开发 Claude 系列模型而闻名，它是一家致力于人工智能安全的公共受益公司。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached">Jensen Huang built an AI kingdom. Now he’s gone, will... | The Guardian</a></li>
-<li><a href="https://www.bbc.com/news/articles/c68798vdprwpo">How important are Nvidia and Jensen Huang to the US economy?</a></li>
+<li><a href="https://www.investopedia.com/ask/answers/021015/what-difference-between-ipo-and-private-placement.asp">IPO vs. Private Placement: Which Is Right for Your Company? Private Placement vs. IPO - Eqvista IPO vs. Private Placement - What's the Difference? | This vs ... Private Placement vs IPO: Which Path Is Right? Private Placement vs IPO: The Investor's Guide to Public vs ... How a Private Placement Memorandum Differs from an Initial ... IPO or Private Placement: What Does It Mean for You as an ...</a></li>
+<li><a href="https://www.britannica.com/money/Anthropic-PBC">Anthropic | History, Controversies, & Claude AI | Britannica Money</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#Financials`, `#AI Infrastructure`, `#Semiconductors`, `#Business News`
+**标签**: `#Anthropic`, `#AI Funding`, `#Venture Capital`, `#IPO`, `#Tech Industry`
 
 ---
 
 <a id="item-7"></a>
-## [中国威胁因美国新 AI 芯片出口限制实施反制措施](https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season) ⭐️ 8.5/10
+## [英国政府承认曾向苹果发出解密加密服务的秘密指令](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) ⭐️ 8.0/10
 
-北京警告将对美国关于 AI 芯片租赁和出口的新限制措施采取反制行动，预示中美贸易战可能重启。 局势的升级可能会严重扰乱全球人工智能硬件供应链，并限制关键市场获取高性能计算资源。 新的出口管制据报道针对英伟达 Blackwell 级别的 GPU，代表了当前人工智能硬件技术的最新水平。
+通过英国调查权限法庭，英国政府承认曾在《调查权限法》下向苹果发布了一项秘密的技术能力通知。 这一承认表明政府可以合法强制私营企业削弱其安全基础设施，从而破坏用户对端到端加密服务的信任。这对整个科技行业的隐私和国家安全都具有重大影响。 苹果通过在英国撤出其最安全的“高级数据保护”服务来应对该指令。加密令的具体细节仍处于保密状态，但要求为执法部门访问云存储提供后门。
 
-rss · Tom's Hardware · 11月18日 11:00
+hackernews · Terretta · 11月19日 16:21 · [社区讨论](https://news.ycombinator.com/item?id=50562113)
 
-**背景**: 美国政府出于国家安全原因实施出口管制，限制先进半导体技术向特定国家转移。高端 AI 加速器（如 NVIDIA Blackwell 架构）是训练大语言模型的关键组件。地缘政治紧张局势通常会导致相互间的贸易限制，影响全球技术的可用性。
+**背景**: “技术能力通知”允许政府强制企业修改系统以访问加密数据。端到端加密是一种安全模型，数据仅由通信双方可读。加密后门是人为留下的脆弱性，允许执法部门等第三方绕过标准安全措施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.techpolicy.press/uk-encryption-crackdown-imperils-privacy-security-free-speech/">UK Encryption Crackdown Imperils Privacy... | TechPolicy.Press</a></li>
+<li><a href="https://www.ft.com/content/186a9bb6-9e62-47ce-b974-ce52a2d73e9f?syn-25a6b1a6=1">UK pressure on Apple for data access could leave the majority less safe</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Hardware`, `#Export Controls`, `#Geopolitics`, `#NVIDIA`, `#Supply Chain`
+**社区讨论**: 社区对苹果安全保证的变动表示强烈怀疑，并指出“密钥加密密钥”（KEK）泄露会导致实际数据密钥被访问的技术风险。许多用户认为，英国公开的监视方式让人们转向 GrapheneOS 等替代品，以维护对个人隐私的信任。
+
+**标签**: `#security`, `#privacy`, `#legal`, `#apple`, `#surveillance`
 
 ---
 
 <a id="item-8"></a>
-## [Optimizely OPTIMJACK 供应链攻击波及 BBC 等 178 个知名网站](https://www.solidot.org/story?sid=85920) ⭐️ 8.3/10
+## [围绕 Java 4 Shell 漏洞由 LLM 发现的争议](https://github.com/openjdk/jdk/pull/32781) ⭐️ 8.0/10
 
-黑客利用 Optimizely 网页实验服务中的 OPTIMJACK 漏洞，向包括 BBC、CNN 和 Zoom 在内的 178 个网站注入了恶意 JavaScript 代码。这些恶意代码向访问者设备的分发载荷包括银行卡窃取器、加密货币钱包地址替换程序和 iOS 漏洞利用工具。 此次大规模供应链攻击将知名且高流量的网站变成了恶意软件分发的载体，严重威胁了全球品牌的数字基础设施安全。它突显了第三方网页实验工具带来的严重安全风险，以及互联网范围内凭证被盗的潜在风险。 攻击者专门针对 Optimizely 实验功能中的漏洞注入恶意脚本，尽管 Optimizely 声称漏洞已修复，但成功感染的具体设备数量仍不清楚。这些恶意载荷针对多个平台，其中包括 Apple 设备上的旧版 iOS 系统。
+Calif 的安全研究人员披露了 OpenJDK Base64 解码器中的一个关键 RCE 漏洞“Java 4 Shell”。Hacker News 上的讨论质疑这位借助 LLM 的研究人员是独立发现了漏洞，还是仅仅检索了先前的公开信息。 这一事件凸显了 AI 在安全研究中日益增长的作用，同时也引发了关于归属权、原创性以及 LLM 生成漏洞报告可靠性的担忧。它促使行业为验证 AI 辅助发现制定新标准。 该漏洞被记录为 CVE-2026-114938，CVSS 4.0 评分为 9.2。研究重点包括 JIT 编译器、内部函数和广泛可访问的 API，但目前尚不清楚 LLM 是否真正理解漏洞的可利用性。
 
-rss · Solidot · 11月18日 09:12
+hackernews · notmine1337 · 11月19日 11:47 · [社区讨论](https://news.ycombinator.com/item?id=50558906)
 
-**背景**: 供应链攻击是指威胁者破坏受信任的第三方软件或服务，从而能够同时向海量最终用户分发恶意代码的网络安全事件。Optimizely 的 Web Experimentation 服务是一种广泛使用的 A/B 测试工具，允许网站在不修改核心代码的情况下调整网页的内容和布局。由于该工具被集成到许多全球知名网站中，其分发管道中的任何漏洞都会带来巨大的安全风险。
+**背景**: “Java 4 Shell”是 OpenJDK 中的一个内存损坏漏洞，允许通过畸形 Base64 输入进行远程代码执行。负责任披露规范要求在公开发布前与安全厂商（如 Oracle）协调，以防止被立即利用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html">Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit...</a></li>
-<li><a href="https://www.cnet.com/tech/services-and-software/optimizely-cyberattack-visitors-to-websites/">Cyberattack Targets iPhones, Crypto of Visitors to Major... - CNET</a></li>
+<li><a href="https://www.sentinelone.com/blog/java4shell-vulnerability-in-openjdk-enables-rce-on-avx-512-cpus/">Defending Against Java 4 Shell : Vulnerability in OpenJDK Enables...</a></li>
+<li><a href="https://www.helpnetsecurity.com/2022/05/12/publishing-cve/">How to avoid headaches when publishing a CVE - Help Net Security</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Cybersecurity`, `#Supply Chain Attack`, `#Web Development`, `#Autonomous Vehicles`, `#News`
+**社区讨论**: 社区正在辩论 LLM 是否事先知晓开放仓库中类似的漏洞报告。虽然有人认为理解漏洞的严重性仍需人工监督，但也有人怀疑模型只是复制了之前 PR 或 issue 中的细节。
+
+**标签**: `#Security`, `#AI/ML`, `#Java`, `#OpenSource`, `#VulnerabilityManagement`
 
 ---
 
 <a id="item-9"></a>
-## [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) ⭐️ 8.0/10
+## [Souring Datacentre Sentiment](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/souring-datacentre-sentiment-2026-11/) ⭐️ 8.0/10
 
-A discussion on Hacker News analyzing the release of Gemini 4 Neon, focusing on its performance relative to Anthropic's models and the confusion caused by new AI model naming schemes.
+The article explores the potential economic risks and sentiment shifts surrounding the projected $10.3 trillion global AI infrastructure investment cycle from 2025 to 2032.
 
-hackernews · yigitdemirag · 11月18日 21:34 · [社区讨论](https://news.ycombinator.com/item?id=50552424)
+rss · Electronics Weekly · 11月19日 01:01
 
-**标签**: `#Gemini`, `#LLM`, `#Model-Release`, `#Competitive-Analysis`
+**标签**: `#AI Infrastructure`, `#Data Centers`, `#Economics`, `#Hardware Supply Chain`, `#Technology Trends`
 
 ---
 
 <a id="item-10"></a>
-## [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/) ⭐️ 8.0/10
+## [Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink](https://www.tomshardware.com/networking/ukraine-deploys-homemade-flying-modems-in-daring-drone-attack-to-destroy-crimean-bridge-ditching-elon-musks-starlink-airborne-relay-stations-allow-pilots-to-dodge-russian-air-defences-to-deliver-1-200kg-payload) ⭐️ 7.5/10
 
-Gemini 4 Neon looks like an Opus 5.5 competitor
+Ukrainian forces employed a network of homemade 'flying modems' to create an airborne relay system, enabling live video feeds during an attack on the Crimean Bridge while evading Russian jamming of Starlink signals.
 
-hackernews · seizethecheese · 11月19日 00:29 · [社区讨论](https://news.ycombinator.com/item?id=50554374)
+rss · Tom's Hardware · 11月19日 11:11
 
-**标签**: `#Gemini`, `#LLM-Coding`, `#Model-Comparison`, `#AI-Engineering`
+**标签**: `#Networking`, `#Military Technology`, `#Satellite Communications`, `#Signal Jamming`, `#Innovation`
 
 ---
 
 <a id="item-11"></a>
-## [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) ⭐️ 8.0/10
+## [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) ⭐️ 7.0/10
 
-The post reports on C-based memory corruption vulnerabilities in Ruby's Regexp and String case conversion, highlighting critical security gaps in established software that are increasingly being discovered by AI.
+A new study demonstrates that viral injections can halt pancreatic cancer in a small patient group, sparking community discussion that provides links to underlying research and critical analysis of the early-stage results.
 
-hackernews · runesoerensen · 11月18日 23:52 · [社区讨论](https://news.ycombinator.com/item?id=50554038)
+hackernews · cybermango · 11月19日 17:25 · [社区讨论](https://news.ycombinator.com/item?id=50563066)
 
-**标签**: `#security`, `#ruby`, `#memory-safety`, `#vulnerability`, `#ai-security`
+**标签**: `#Medical Research`, `#Cancer`, `#Oncolytic Virus`, `#Biotechnology`, `#Clinical Trials`
 
 ---
 
 <a id="item-12"></a>
-## [Physics Over Probability: How Agentic AI Solves Electronic Systems Verification](https://semiwiki.com/3dic/376374-physics-over-probability-how-agentic-ai-solves-electronic-systems-verification/) ⭐️ 8.0/10
+## [皮特·沃登谈本地 AI、开源模型、语音界面及硬件的未来](https://thedataexchange.media/pete-warden-moonshine/) ⭐️ 7.0/10
 
-The article explores how Agentic AI is being applied to solve complex electronic systems verification challenges in high-speed PCB designs by prioritizing physical constraints over probabilistic methods.
+本内容探讨了皮特·沃登对本地 AI 及硬件的观点，并辅以用户报告，分析了在消费级 GPU 上运行大语言模型的可行性与性能。
 
-rss · SemiWiki · 11月18日 18:00
+hackernews · datascientist · 11月19日 15:38 · [社区讨论](https://news.ycombinator.com/item?id=50561508)
 
-**标签**: `#Agentic AI`, `#Electronic Design Automation`, `#Signal Integrity`, `#Hardware Verification`, `#PCB Design`
+**标签**: `#Local AI`, `#On-Device AI`, `#Hardware`, `#LLM`, `#Consumer Tech`
 
 ---
 
 <a id="item-13"></a>
-## [毕马威研究：AI 智能体在审计提问上优于会计师](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) ⭐️ 7.0/10
+## [欧盟委员会向 4 万余名员工部署 Matrix 聊天平台](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) ⭐️ 7.0/10
 
-毕马威进行的一项自我评估研究表明，在试用环境中，AI 智能体生成的审计问题比人类会计师更全面。此次基准测试凸显了大型语言模型在专业化工作流程中匹配或超越人类表现的可能性。 这一发现意义重大，因为它表明 AI 可以增强甚至替代常规专业任务，从而影响四大会计师事务所的架构。然而，研究的自我评估性质引发了关于客观性以及复杂审计环境中实际可靠性的担忧。 该实验由毕马威自行开展，类似于“狐狸守鸡窝”，其结果可能比独立基准测试更为乐观。任务涉及生成审计问题，该领域以繁琐、细节繁多且人类表现方差大而闻名。
+欧盟委员会成功向超过 40,000 名员工部署了去中心化通信协议 Matrix。此次部署引发了大量的内部技术调整，包括为了缓解服务器性能下降而禁用了在线状态功能。 这种大规模部署为评估开源基础设施在政府和企业环境中的可行性提供了一个关键案例研究。它强调了在规模化部署实时通信协议时的实际挑战，进而影响了架构师对 Matrix 企业级应用的看法。 该平台的端到端加密能力在安全研究人员中仍存在重大争议，尤其是关于 MLS 协议的实施状态。在线状态跟踪中的性能瓶颈和碎片化的客户端生态系统被认为是值得注意的技术限制。
 
-hackernews · Betelbuddy · 11月18日 15:49 · [社区讨论](https://news.ycombinator.com/item?id=50547777)
+hackernews · liotier · 11月19日 10:58 · [社区讨论](https://news.ycombinator.com/item?id=50558533)
 
-**背景**: 审计试验涉及核实财务报表并识别潜在风险，这一过程传统上依赖人类专业知识和检查清单。近年来，大型语言模型（LLMs）已应用于此类任务，但其复杂且非结构化的专业背景下的可靠性仍是业内专家争论的焦点。
+**背景**: Matrix 是一个开源的安全实时通信协议，旨在成为专有消息应用的去中心化替代品。它采用分布式服务器架构，允许实体自行托管自己的服务器，并在全球网络中进行通信。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://n8n.io/ai-agents/">AI Workflow Automation Platform - n8n</a></li>
+**社区讨论**: 社区观点分裂，用户赞赏自托管带来的隐私优势，但批评者对安全漏洞和频繁的加密错误感到沮丧。部分怀疑论者由于平台当前的易用性限制和缓慢的开发进度，预测机构用户的流失率会很高。
 
-</ul>
-</details>
-
-**社区讨论**: 社区评论批评大型会计师事务所的模式具有剥削性，并认为单一且一致的 AI 智能体相比存在经验差异和疲劳水平波动的人类具有巨大优势。用户还指出，虽然 AI 缺乏创造力，但其卓越的细节关注度使其成为繁琐审计任务的理想选择，但人们对毕马威研究的自我评估性质持怀疑态度。
-
-**标签**: `#AI-Agents`, `#Accounting-Audit`, `#LLM-Applications`, `#KPMG`, `#Human-AI-Collaboration`
+**标签**: `#Matrix`, `#OpenSource`, `#EnterpriseIT`, `#Security`, `#DistributedSystems`
 
 ---
 
 <a id="item-14"></a>
-## [记者详解德银调查项目中 OpenAleph 与 FollowTheMoney 技术架构](https://www.inside-db.com/) ⭐️ 7.0/10
+## [PHP 8.6 带来 ZTS 性能与类型系统改进](https://www.php.net/releases/8.6/en.php) ⭐️ 7.0/10
 
-参与“德意志银行内幕”调查的记者披露了用于处理 1500 万份文件的技术基础设施，重点强调了 OpenAleph 和 FollowTheMoney 数据模式的应用。该系统旨在分析主要源自 Outlook 邮箱导出的文件，以揭示关联关系和金融犯罪模式。 此次披露为深入了解驱动现代大数据新闻业的特定开源工具提供了难得的机会，展示了调查团队如何处理海量非结构化数据集。它凸显了对 FollowTheMoney 等专用模式在标准化金融犯罪分析中日益增长的需求。 OpenAleph 平台由 DARC 维护，构建在 ElasticSearch 之上，作为搜索文档和结构化数据的核心引擎。原始数据不会在线发布，记者们将在未来几个月内继续进行新闻评估。
+PHP 8.6 推出了几项重要更新，包括 ZTS 性能改进和类型系统增强。此次发布特别强调了函数偏置（function partials）的引入以及 ZTS 模式下开销的降低。 ZTS 开销的降低可能为原生异步支持铺平道路，使 PHP 应用程序能实现更高效的多线程处理。此更新对于希望提升服务器端代码库性能和安全性的 Web 开发人员具有重要意义。 一项值得关注的技术改进实现了向后兼容的函数参数数量检查，解决了限制用户定义函数参数数量的长期需求。开发人员请注意，近期严重漏洞影响的是 PHP 8.5 及更高版本，这意味着 8.3 至 8.4 版本的用户不受这些特定 CVE 的影响。
 
-hackernews · gyre007 · 11月18日 15:38 · [社区讨论](https://news.ycombinator.com/item?id=50547620)
+hackernews · netol · 11月19日 09:27 · [社区讨论](https://news.ycombinator.com/item?id=50557870)
 
-**背景**: OpenAleph 是之前维护的 Aleph 项目的开源分叉，专为调查新闻室探索海量文档和数据集而设计。FollowTheMoney 模式是专门为金融犯罪调查和文档取证开发的数据模型，允许记者整理复杂的实体关系和交易。
+**背景**: PHP ZTS 代表 Zend 线程安全，是一种允许 PHP 在多线程环境中运行的模式，但与传统非 ZTS 模式相比通常存在性能开销。目前 `parallel` 扩展提供的并发功能有限，而 ZTS 的改进被视为迈向更深层次原生异步能力的重要一步。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openaleph.org/">Welcome - OpenAleph</a></li>
-<li><a href="https://aleph.discourse.group/t/openaleph-5-release/310">OpenAleph 5 release - Community Projects - OCCRP Aleph Pro</a></li>
+**社区讨论**: 社区对 ZTS 开销的降低最感兴趣，认为这可能像现有的并行扩展一样，为原生异步支持提供动力。尽管有向后兼容解决方案的提议，但类型系统中仍缺乏限制用户定义函数参数的简单方法，这让人感到遗憾。用户建议运行较新 PHP 版本的开发者迅速升级，以应对近期严重漏洞，同时指出 8.3 至 8.4 等旧版本目前不受影响。
 
-</ul>
-</details>
-
-**社区讨论**: 社区成员讨论了数据可及性的重要性，一些人批评不发布原始数据的决定，并认为选择性省略事实与谎言同样具有误导性。其他评论则集中在项目页面需要更好的要点总结上，以帮助读者在不花大量时间阅读链接文章的情况下快速了解丑闻的主要要点。
-
-**标签**: `#DataJournalism`, `#ElasticSearch`, `#InvestigativeReporting`, `#BigData`, `#TechInfrastructure`
+**标签**: `#PHP`, `#Web Development`, `#Programming Languages`, `#Performance Optimization`
 
 ---
 
 <a id="item-15"></a>
-## [利用大语言模型加速逆向工程与协议分析](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) ⭐️ 7.0/10
+## [高密度氮化镓电源转换器的热管理和电磁干扰挑战](https://www.electronicsweekly.com/news/business/thermal-and-emi-challenges-in-high-density-gan-power-converters-2026-11/) ⭐️ 7.0/10
 
-文章展示了使用大语言模型快速解析专有网络协议和检查闭源代码的实用工作流程，这一过程过去需要大量手动调试。 这种能力大幅降低了逆向工程的技术门槛，使用户和开发者能更高效地审计并连接未记录的硬件或软件组件。 关键方法包括使用网络命名空间进行流量隔离以实现精确的数据包捕获，并强制 AI 使用系统化的科学方法，以防止其陷入冗余的猜测循环。
+《每周电子报》的一篇文章强调，要充分发挥氮化镓设计的优势，必须将开关特性、电磁干扰、PCB 设计和管理热视为相互关联的问题。文章认为，在实现高密度应用的优化性能时，这些因素不能孤立地处理。 这对设计下一代高密度转换器的电力电子工程师至关重要，因为忽略热因素和电磁干扰因素之间的相互作用可能导致器件故障或合规性问题。它凸显了从硅技术向氮化镓等宽禁带技术过渡的复杂性。 文章指出，氮化镓器件由于寄生电容小，具有高频开关和低损耗特性。然而，这些特性使得系统对印刷电路板上的电磁干扰和热量耗散极为敏感。
 
-hackernews · ioma8 · 11月18日 22:29 · [社区讨论](https://news.ycombinator.com/item?id=50553225)
+rss · Electronics Weekly · 11月19日 12:00
 
-**背景**: 逆向工程是将系统反编译或反汇编以了解其设计和功能的过程，通常针对闭源软件或硬件。传统方法耗时较长，通常依赖于手动分析汇编代码和实时网络流量。
-
-**社区讨论**: 社区成员成功使用大语言模型快速逆向了闭源项目（如监控摄像头的连接和废弃的音频插件），证明了该技术对于缺乏深厚逆向工程经验的人的价值。此外，用户指出采用结构化的实验方法对于防止 AI 幻觉或循环至关重要。
-
-**标签**: `#LLM`, `#Reverse Engineering`, `#Security`, `#Networking`, `#Tooling`
-
----
-
-<a id="item-16"></a>
-## [RadixArk 发布开源权重的 DaisyRose-27B 模型](https://www.radixark.com/blog/daisyrose-27b) ⭐️ 7.0/10
-
-RadixArk 发布了 DaisyRose-27B，这是其推出的首个基于 Qwen3.8-27B 架构的后训练模型。该模型使用名为 Miles 的工具通过强化学习进行微调，以提升其在特定基准测试中的表现。 此次发布降低了本地和边缘 AI 部署的门槛，因为 270 亿参数的小模型尺寸可以在 Mac 等消费级硬件上运行。它还展示了越来越多的公司基于开源底模进行具有竞争力后训练的趋势。 该模型的训练需要大量算力，据报道在 144 张 H200 GPU 上耗时 18 天，且目前部分用户无法立即获取 GGUF 格式。同一发布窗口内还出现了名为 Sabi-noema 的竞争对手模型，同样基于 Qwen3.8 架构。
-
-hackernews · de_sty · 11月18日 19:39 · [社区讨论](https://news.ycombinator.com/item?id=50551046)
-
-**背景**: 后训练是指获取大型基础语言模型并使用专门的数据进行微调，以提升编程或逻辑推理等特定能力。开放权重的模型允许开发者在自己的硬件上下载、运行并进一步定制 AI 模型。Qwen 27B 是 Qwen 团队发布的 2.7 亿参数稠密模型，旨在平衡强大的性能与硬件效率。
+**背景**: 氮化镓是一种宽禁带半导体，使电力电子能够以远高于传统硅器件的频率和温度运行。由于这些高频率，在紧凑、高密度设计中管理电磁干扰和防止热过载变得复杂得多。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.radixark.com/blog/daisyrose-27b">DaisyRose - 27 B : Pushing the Frontier of Post-Training... | RadixArk Blog</a></li>
-<li><a href="https://huggingface.co/RadixArk/Qwen3.8-27B-NVFP4">RadixArk /Qwen3.8- 27 B -NVFP4 · Hugging Face</a></li>
-<li><a href="https://www.cnblogs.com/sing1ee/p/22498000">Qwen3.8-27B（2026）：Qwen 新 27B 视觉语言模型完整指南 - 见路非道 ...</a></li>
+<li><a href="https://www.flywing-tech.com/blog/sic-vs-gan-comparison-2026/">SiC vs GaN : Which One Should You Choose in 2026?</a></li>
+<li><a href="https://www.infineon.com/assets/row/public/documents/24/42/infineon-icl8830-high-frequency-gan-controller-for-led-lighting-applicationnotes-en.pdf">ICL8830 high - frequency GaN controller for LED</a></li>
+<li><a href="https://www.geeksforgeeks.org/electronics-engineering/electromagnetic-interference/">Electromagnetic Interference - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区对能在本地硬件上运行 27B 模型表示兴奋，用户将 DaisyRose 与其他微调模型如 Fireworks 的 Ember-1 进行了对比。人们就针对特定基准测试数据集过度拟合的利弊展开了批评性讨论，同时也对训练基础模型所需的大量硬件资源感到惊讶。一些用户指出，用于轻松本地测试的 GGUF 格式未能立即提供。
+**标签**: `#GaN`, `#Power Electronics`, `#Thermal Management`, `#EMI`, `#PCB Design`
 
-**标签**: `#open-source-ai`, `#model-finetuning`, `#llm`, `#local-ai`, `#radixark`
+---
+
+<a id="item-16"></a>
+## [三块二手 V100 GPU 在 Qwen 3.6 35B 模型上实现每秒 100 个 token](https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts) ⭐️ 6.5/10
+
+家庭实验室搭建者证明，使用三块退役的 Nvidia Tesla V100 GPU 组成的 1,042 美元配置，在 Qwen 3.6 35B 模型上实现了每秒 100 个 token 的输出速度。该配置在长上下文场景下优于更昂贵的 M5 Max 版 Mac Studio。 这一结果证明了价格低廉且经过改装的“电子废弃物”级企业级 GPU 在本地大语言模型推理中依然极具竞争力。它为需要长上下文性能的开发者和技术爱好者提供了一种实用的、成本效益极高的替代高端消费级硬件的方案。 Qwen 3.6 35B 是于 2026 年 4 月发布的混合专家模型，该基准测试特别强调了其在长上下文下的性能，而在这些场景下传统消费级硬件通常会变慢。V100 基于较旧的 Volta 架构，展示了其在持续推理任务中的持久生命力。
+
+rss · Tom's Hardware · 11月19日 11:00
+
+**背景**: Nvidia V100 是一款基于 Volta 架构的数据中心 GPU，最初专为大型设施中的 AI 和 HPC 设计。Qwen 3.6 35B 是一款先进的大语言模型，利用混合专家（MoE）技术来优化推理效率。家庭实验室（Homelab）是指构建个人硬件设备以自托管软件，从而提供隐私保护和高度可定制性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://llm-stats.com/models/qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Benchmarks, Pricing & Context Window</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/v100.md/">NVIDIA V100 | NVIDIA</a></li>
+<li><a href="https://dasroot.net/posts/2026/05/qwen-3-6-35b-a3b-mtp-frozen-backbones-speedup/">Qwen 3.6 35B A3B & MTP: 7.8x Speedup with Frozen Backbones</a></li>
+
+</ul>
+</details>
+
+**标签**: `#homelab`, `#LLM-inference`, `#used-GPU`, `#Qwen`, `#nvidia`
 
 ---
 
 <a id="item-17"></a>
-## [Siemens buys Breker Verification Systems](https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/) ⭐️ 7.0/10
+## [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/) ⭐️ 6.0/10
 
-Siemens is acquiring Breker Verification Systems to integrate SoC-level technologies that accelerate the verification of complex SoC architectures.
+A Hacker News discussion about a tool for generating foldable 8-page zines from a single A4 sheet, featuring community insights on paper imposition, historical folding techniques, and related software tools.
 
-rss · Electronics Weekly · 11月18日 06:12
+hackernews · krthr · 11月19日 13:18 · [社区讨论](https://news.ycombinator.com/item?id=50559719)
 
-**标签**: `#EDA`, `#SoC Verification`, `#Acquisition`, `#Hardware Design`, `#Siemens`
+**标签**: `#PrintMedia`, `#WebDevelopment`, `#CreativeTools`, `#PaperFolding`, `#Impositioning`
 
 ---
 
 <a id="item-18"></a>
-## [Latest NVIDIA Drivers Might Cause Excessive SSD Writing](https://www.techpowerup.com/354996/latest-nvidia-drivers-might-cause-excessive-ssd-writing) ⭐️ 6.5/10
+## [ST set to double MCU revenues](https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/) ⭐️ 6.0/10
 
-Recent NVIDIA GeForce drivers (versions 621.14 and 621.24) are reported to cause excessive SSD write activity, potentially reaching 30 GB/hour, due to continuous logging to the nvlog.nvlgstg file.
+STMicroelectronics expects to double its microcontroller revenues between 2005 and 2028, according to its president.
 
-rss · TechPowerUp News · 11月18日 20:59
+rss · Electronics Weekly · 11月19日 06:15
 
-**标签**: `#NVIDIA`, `#Drivers`, `#Hardware`, `#SSD`, `#Bug`
+**标签**: `#STMicroelectronics`, `#Microcontrollers`, `#Semiconductor Industry`, `#Business News`
 
 ---
 
 <a id="item-19"></a>
-## [随着消费级 NAND 现货价格下跌 20%，SSD、笔记本电脑和手机可能会降价](https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition) ⭐️ 6.5/10
+## [SI expects 60-80% semi growth in 2026](https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/) ⭐️ 6.0/10
 
-由于需求下降和产量增加，消费级 NAND 闪存现货价格下跌了 20%，这可能导致 SSD、笔记本电脑和手机的价格降低。
+Semiconductor Intelligence forecasts 60-80% global market growth for 2026 in a newsletter from Bill Jewell's retirement.
 
-rss · Tom's Hardware · 11月18日 12:00
+rss · Electronics Weekly · 11月19日 06:14
 
-**标签**: `#Hardware`, `#Market Trends`, `#NAND Flash`, `#Consumer Electronics`, `#Pricing`
+**标签**: `#Semiconductor Market`, `#Industry Forecast`, `#Business`, `#Tech Trends`
 
 ---
 
 <a id="item-20"></a>
-## [抨击数据中心](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/datacentre-dislike-2026-11/) ⭐️ 6.0/10
+## [AMD 桌面级“Zen 6”处理器传将推迟至 2027 年台北电脑展发布](https://www.techpowerup.com/355030/amd-zen-6-for-desktop-reportedly-pushed-to-computex-2027) ⭐️ 5.5/10
 
-根据 Statista 的调查结果，一篇博客文章指出，英国公众对数据中心扩张的担忧和反弹情绪十分普遍，这与美国的情况相似。
+据报道，AMD 的桌面级“Zen 6”（Olympic Ridge）处理器将推迟至 2027 年台北电脑展发布，以采用台积电 N2X 工艺节点实现更高频率，而 EPYC 系列则继续采用标准 N2 工艺。
 
-rss · Electronics Weekly · 11月18日 14:20
+rss · TechPowerUp News · 11月19日 17:22
 
-**标签**: `#datacenters`, `#public-perception`, `#ai-infrastructure`, `#survey`, `#electronics`
+**标签**: `#AMD`, `#CPU`, `#TSMC`, `#Hardware`, `#Roadmap`
 
 ---
