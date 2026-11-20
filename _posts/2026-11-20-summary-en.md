@@ -5,333 +5,330 @@ date: 2026-11-20
 lang: en
 ---
 
-> From 89 items, 20 important content pieces were selected
+> From 86 items, 20 important content pieces were selected
 
 ---
 
-1. [Anthropic raises $107bn at $1.5tn valuation](#item-1) ⭐️ 10.0/10
-2. [Nvidia Unveils Custom Vera CPU for HPC and Scientific Discovery](#item-2) ⭐️ 10.0/10
-3. [Claude solves two open problems in the physics of black holes](#item-3) ⭐️ 9.0/10
-4. [Someone reported java4shell bug in September 2026](#item-4) ⭐️ 9.0/10
-5. [The AI Chip Boom’s Uncomfortable Arithmetic](#item-5) ⭐️ 9.0/10
-6. [Intel 18A Reaches 70% Yield as Microsoft Commits to EMIB](#item-6) ⭐️ 8.5/10
-7. [IEA: AI Drives 70% Data Center Carbon Emissions Rise](#item-7) ⭐️ 8.3/10
-8. [AI Reshapes Memory R&D Through High-Stakes Industry Partnerships](#item-8) ⭐️ 8.0/10
-9. [SI expects 60-80% semi growth in 2027](#item-9) ⭐️ 8.0/10
-10. [TSMC Audits Customer Finances and Demands Upfront Payments](#item-10) ⭐️ 7.5/10
-11. [Intel Diamond Rapids shows signs of life in SC26 demo running live server](#item-11) ⭐️ 7.5/10
-12. [Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig](#item-12) ⭐️ 7.5/10
-13. [DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 — JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot](#item-13) ⭐️ 7.5/10
-14. [Gemini 4 Neon Tops Models Engineering Index Amid Benchmarking](#item-14) ⭐️ 7.0/10
-15. [Silicon Motion demos SM8466 PCIe 6.0 SSD controller ahead of 2028](#item-15) ⭐️ 6.5/10
-16. [Oncolytic Virus Injection Halts Pancreatic Cancer in Three Patients](#item-16) ⭐️ 6.0/10
-17. [Paid advertising compared to a value-extracting slot machine](#item-17) ⭐️ 6.0/10
-18. [TrendForce predicts NAND Flash prices to drop in 2027 on Chinese order cuts](#item-18) ⭐️ 6.0/10
-19. [Ceva and Mobilint Bring Physical AI Closer to Everyday Devices](#item-19) ⭐️ 6.0/10
-20. [Debian Linux Forms Gaming Hardware Team for Handheld and Bleeding Edge Hardware Testing](#item-20) ⭐️ 5.5/10
+1. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](#item-1) ⭐️ 10.0/10
+2. [Hurried Announcement: Alessandro Masullo GRH](#item-2) ⭐️ 9.0/10
+3. [Thinking Machines releases locally-optimized Inkling 2 Mini with novel looped transformer architecture](#item-3) ⭐️ 9.0/10
+4. [Mathematician claims formal proof of Generalized Riemann Hypothesis using AI](#item-4) ⭐️ 9.0/10
+5. [Finite-time blow-up demonstrated for unforced Navier-Stokes equations](#item-5) ⭐️ 9.0/10
+6. [Architect Labs Unveils Frostbite, an AI-Designed CPU Architecture](#item-6) ⭐️ 9.0/10
+7. [Anthropic's IPO Analysis: B2D Strategy Mirrors Nvidia CUDA](#item-7) ⭐️ 9.0/10
+8. [Phison reveals SSD with NPU and 64GB memory for on-drive AI inference](#item-8) ⭐️ 8.5/10
+9. [Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers](#item-9) ⭐️ 8.5/10
+10. [Language Models Can Rewrite Their Own Weights](#item-10) ⭐️ 8.0/10
+11. [(PR) TCL CSOT Announces World's First Mass Production of Ultrahigh-Mobility Oxide Panels at DTC2026](#item-11) ⭐️ 7.5/10
+12. [Debian Linux Forms Gaming Hardware Team for Handheld and Bleeding Edge Hardware Testing](#item-12) ⭐️ 6.5/10
+13. [Anthropic Mathematician Claims AI-Assisted Proof of Riemann Hypothesis](#item-13) ⭐️ 6.5/10
+14. [VAST: Petabyte SSDs Require Global Declustering Over Standard RAID](#item-14) ⭐️ 6.5/10
+15. [Hacker News Debate on AI Promoting Developers to System Architects](#item-15) ⭐️ 6.0/10
+16. [Google Workers Petition Employer to Stop Forcing AI on Schools](#item-16) ⭐️ 6.0/10
+17. [Memory R&D Is a High-Stakes Game](#item-17) ⭐️ 6.0/10
+18. [TI’s multiprotocol comms SoM connects factories](#item-18) ⭐️ 6.0/10
+19. [AI-native chip development platform connects intent, knowledge and execution](#item-19) ⭐️ 6.0/10
+20. [New Windows Search Finally Arrives in Windows 11 Update](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Anthropic raises $107bn at $1.5tn valuation](https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/) ⭐️ 10.0/10
+## [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) ⭐️ 10.0/10
 
-Anthropic secured $107.3bn in an IPO and private placement, reaching a $1.5tn valuation with backing from major tech firms including Google, Nvidia, and Microsoft.
+Terry Tao discusses potential breakthroughs in solving the Navier-Stokes regularity problem and the Generalized Riemann Hypothesis, highlighting the role of modern formal verification and AI in generating these proofs.
 
-rss · Electronics Weekly · Nov 19, 06:16
+hackernews · archon1410 · Nov 20, 17:21 · [Discussion](https://news.ycombinator.com/item?id=50578358)
 
-**Tags**: `#AI`, `#Business`, `#Anthropic`, `#Funding`, `#Tech Industry`
+**Tags**: `#Mathematics`, `#AI`, `#Navier-Stokes`, `#Riemann Hypothesis`, `#Formal Verification`
 
 ---
 
 <a id="item-2"></a>
-## [Nvidia Unveils Custom Vera CPU for HPC and Scientific Discovery](https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/) ⭐️ 10.0/10
+## [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) ⭐️ 9.0/10
 
-Nvidia has officially launched the Vera CPU rack-scale platform, which introduces its first fully custom data center CPU specifically engineered for high-performance computing. This new hardware is designed to drive extreme efficiency and throughput for state-of-the-art scientific modeling, simulation, and agentic science. This launch marks a major paradigm shift in HPC architecture by challenging established incumbents like AMD and Intel in the general-purpose data center CPU market. It provides a highly efficient, integrated infrastructure that supports complex reinforcement learning and agentic AI systems alongside traditional scientific workloads. The Vera CPU is built as the maximum single-threaded CPU at scale, featuring high performance and energy efficiency to keep GPUs fed and training loops moving. As a host or standalone CPU, it handles tool use, code execution, sandboxing, and data processing essential for agentic AI workloads.
+A 940-page manuscript claiming a proof of the Generalized Riemann Hypothesis was hurriedly published by Alessandro Masullo, sparking intense debate on Hacker News regarding its validity and timing in relation to recent AI developments.
 
-rss · Electronics Weekly · Nov 19, 06:07
+hackernews · jasondavies · Nov 20, 18:33 · [Discussion](https://news.ycombinator.com/item?id=50579568)
 
-**Background**: Traditionally, data centers rely on x86 architecture CPUs from companies like AMD and Intel for general-purpose computing, while specialized hardware handles specific AI tasks. With the rise of reinforcement learning and agentic AI, these systems require massive CPU resources to execute code, evaluate results, and run sandbox environments. Nvidia is integrating its new custom CPU with its gold-standard HPC networking to create a dense, liquid-cooled infrastructure for 'AI factories.'
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery">NVIDIA Expands Vera CPU Platform to Accelerate Scientific ...</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#High-Performance Computing`, `#CPU Architecture`, `#Data Center`, `#HPC`
+**Tags**: `#Mathematics`, `#GRH`, `#Research`, `#Artificial Intelligence`, `#Pure Math`
 
 ---
 
 <a id="item-3"></a>
-## [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) ⭐️ 9.0/10
+## [Thinking Machines releases locally-optimized Inkling 2 Mini with novel looped transformer architecture](https://thinkingmachines.ai/news/inkling-2-mini/) ⭐️ 9.0/10
 
-Anthropic announces that Claude solved two open problems in black hole physics, including proving a mass limit for a black hole consistent with a given central charge, marking a major milestone in AI's ability to handle advanced theoretical physics.
+Thinking Machines has released Inkling 2 Mini, a compact Large Language Model specifically optimized for local deployment. The release features a novel looped transformer architecture and end-to-end training in NVFP4 quantization. This release represents a significant shift towards efficient LLM design by achieving performance comparable to larger models like Qwen3.8-27B while remaining small enough for consumer hardware. It lowers the barrier to entry for local AI inference and offers a practical alternative to cloud-based LLMs. The model is specifically sized based on community requests for local usability, and Thinking Machines provides a 'varlooped' variant for research purposes. Notably, this is considered one of the first public examples of a looped transformer model good enough for real-world use cases.
 
-hackernews · cybermango · Nov 19, 17:30 · [Discussion](https://news.ycombinator.com/item?id=50563148)
+hackernews · jasondavies · Nov 20, 20:12 · [Discussion](https://news.ycombinator.com/item?id=50581260)
 
-**Tags**: `#AI`, `#Physics`, `#Anthropic`, `#Black Holes`, `#Quantum Gravity`
+**Background**: Looped transformers are an architectural variant of the standard Transformer where certain layers are repeated or 'looped' to increase model depth without proportionally increasing the parameter count, effectively sharing weights. NVFP4 is a low-precision data format that allows large models to be quantized to use less memory and computational power, making them suitable for local devices like consumer GPUs.
+
+**Discussion**: The community is highly enthusiastic, noting that the model's benchmarks rival larger models like Qwen3.8-27B, which is impressive for a local model. Users appreciate the company's responsiveness to community requests regarding model sizing and express excitement about the novel looped architecture. Some caution that real-world performance needs to hold up against the benchmarks and note that waiting for hardware costs to cool down is beneficial for local adoption.
+
+**Tags**: `#Thinking Machines`, `#LLM Architecture`, `#Looped Transformer`, `#Local AI`, `#Quantization`
 
 ---
 
 <a id="item-4"></a>
-## [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781) ⭐️ 9.0/10
+## [Mathematician claims formal proof of Generalized Riemann Hypothesis using AI](https://alpo.ge/remark.pdf) ⭐️ 9.0/10
 
-A critical 'java4shell' RCE vulnerability in the JDK was disclosed and patched by Oracle, with community discussion analyzing the race to discovery between independent researchers and AI-assisted tools.
+Levent Alpöge, a mathematician at Anthropic, has published a claim of a formal proof for the Generalized Riemann Hypothesis, verified using AI and the Lean theorem prover. The proof is massive, reportedly 1.3GB and approximately 15 million lines of code. This breakthrough would solve one of the most famous unsolved problems in mathematics, fundamentally altering how complex mathematical theories are verified and validated. It signifies a major shift in the paradigm of mathematical research through the integration of large language models and formal logic. The proof's validity rests on its formalization in a system capable of checking logical consistency, distinguishing it from traditional human-written mathematical papers. A separate comment suggests a purely human proof of a related aspect also exists, complicating the timeline of discovery.
 
-hackernews · notmine1337 · Nov 19, 11:47 · [Discussion](https://news.ycombinator.com/item?id=50558906)
+hackernews · iamronaldo · Nov 20, 14:16 · [Discussion](https://news.ycombinator.com/item?id=50574968)
 
-**Tags**: `#Java`, `#Security`, `#RCE`, `#Vulnerability`, `#JDK`
+**Background**: The Generalized Riemann Hypothesis is a profound conjecture in number theory that has remained unsolved for over 150 years. Formal proof in mathematics involves expressing a theorem in a precise logical language that can be checked by a computer program, such as the Lean theorem prover.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/">Anthropic mathematician claims AI-assisted proof of... | New Scientist</a></li>
+<li><a href="https://www.clarin.com/us-news/who-is-levent-alpoge-the-anthropic-mathematician-who-claims-solved-the-riemann-hypothesis-with-claude_0_2WdGvYKBVM.html">Who is Levent Alpöge ? The Anthropic mathematician who claims he...</a></li>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove... | Scientific American</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members note the extraordinary scale of the AI-generated proof, while simultaneously citing Terence Tao's skepticism that current AI capabilities might require 2050 to tackle such problems. There is also debate regarding attribution, with some feeling the headline unfairly shifts credit from the mathematician to the AI company.
+
+**Tags**: `#AI`, `#Mathematics`, `#Riemann Hypothesis`, `#Formal Verification`, `#Breakthrough`
 
 ---
 
 <a id="item-5"></a>
-## [The AI Chip Boom’s Uncomfortable Arithmetic](https://semiwiki.com/semiconductor-services/future-horizons/376470-the-ai-chip-booms-uncomfortable-arithmetic/) ⭐️ 9.0/10
+## [Finite-time blow-up demonstrated for unforced Navier-Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/) ⭐️ 9.0/10
 
-The piece argues that the semiconductor industry faces significant risks by misinterpreting revenue growth driven by rising prices as sustainable volume demand, which could lead to dangerous over-expansion of capacity.
+Mathematicians have established a proof of finite-time blow-up for the unforced Navier-Stokes equations. This result represents a major shift from previous findings that relied on external forcing mechanisms. Solving the unforced version of this problem is a critical step toward resolving one of the Clay Millennium Prize problems, fundamentally altering our understanding of fluid stability and turbulence. This breakthrough specifically addresses the unforced equations, making the result more realistic than OpenAI's concurrent discovery of blow-up under external force. It is noted as a simultaneous major milestone with the Generalized Riemann Hypothesis.
 
-rss · SemiWiki · Nov 19, 16:00
+hackernews · trotro · Nov 20, 15:34 · [Discussion](https://news.ycombinator.com/item?id=50576232)
 
-**Tags**: `#semiconductor industry`, `#AI market analysis`, `#capacity planning`, `#economic sustainability`
+**Background**: The Navier-Stokes equations describe the motion of fluids, and determining whether solutions remain smooth or develop singularities is a classic unsolved problem. The Clay Mathematics Institute lists this regularity question as one of seven Millennium Prize problems, offering a one-million-dollar reward for a correct solution.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Millennium_Prize_Problems">Millennium Prize Problems - Wikipedia</a></li>
+<li><a href="https://www.claymath.org/millennium-problems/">The Millennium Prize Problems - Clay Mathematics Institute</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members express excitement about the magnitude of the result, describing it as the most significant day in mathematics history alongside the Generalized Riemann Hypothesis. There is a sense of sympathy for researchers Buckmaster and Alpoge regarding the 'scooping' drama, while others call for physical demonstrations of the fluid instability.
+
+**Tags**: `#Mathematics`, `#Navier-Stokes`, `#Millennium Prize`, `#Fluid Dynamics`, `#AI Research`
 
 ---
 
 <a id="item-6"></a>
-## [Intel 18A Reaches 70% Yield as Microsoft Commits to EMIB](https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology) ⭐️ 8.5/10
+## [Architect Labs Unveils Frostbite, an AI-Designed CPU Architecture](https://architectlabs.com/blog/frostbite) ⭐️ 9.0/10
 
-Intel has reached a 70% manufacturing yield on its 18A process node and officially signed Microsoft as a customer for its EMIB packaging technology, securing a long-term supply agreement for Xeon chips. Securing Microsoft as a public commitment to Intel's new packaging technology and achieving a 70% yield on the 18A node are critical milestones that demonstrate Intel is regaining manufacturing credibility and gaining traction in its foundry strategy. The 70% yield rate on the advanced 18A node indicates successful production scaling, while Microsoft's agreement marks the first time the company has publicly committed to utilizing Intel's new EMIB packaging.
+Architect Labs has announced Frostbite, a novel CPU architecture that was designed and verified by AI. This release introduces a new hardware design paradigm built around 'interaction nets.' The claim of a fully AI-designed and verified CPU architecture represents a significant shift in hardware engineering and AI capabilities. It could dramatically lower the cost of productizing complex laboratory ideas, changing the industry landscape. Community discussion points out that Frostbite's baseline is an in-order CPU compared to modern out-of-order designs, and that dataflow architectures were explored over 20 years ago. Skeptics note that the system is tested on a small amount of programs.
 
-rss · Tom's Hardware · Nov 19, 13:00
+hackernews · shioyama · Nov 20, 10:01 · [Discussion](https://news.ycombinator.com/item?id=50572503)
 
-**Background**: Intel 18A is one of the company's most advanced process nodes, utilizing gate-all-around (GAA) transistors to improve performance and power efficiency. EMIB (Embedded Multi-die Interconnect Bridge) is an advanced packaging technology designed to connect different chiplets together, which is essential for modern high-performance computing. High yield rates are a key metric for semiconductor foundries, as they determine manufacturing costs and overall business profitability.
+**Background**: CPU architectures define how a computer processor executes instructions. The traditional design process relies heavily on human experts, and recent advances involve AI models that can synthesize research literature to engineer complex hardware systems. 'Interaction nets' refer to a programming paradigm fundamentally different from standard Harvard architectures.
 
-**Tags**: `#Intel`, `#Semiconductors`, `#Foundry`, `#Packaging`, `#Microsoft`
+**Discussion**: Users express skepticism regarding the novelty of Frostbite, arguing that AI is merely synthesizing decades of existing research rather than inventing new concepts. Some point out that the baseline in-order CPU design is not competitive with modern out-of-order architectures and that the testing scope is limited.
+
+**Tags**: `#AI`, `#CPU Architecture`, `#Hardware Engineering`, `#Automation`, `#Innovation`
 
 ---
 
 <a id="item-7"></a>
-## [IEA: AI Drives 70% Data Center Carbon Emissions Rise](https://www.solidot.org/story?sid=85930) ⭐️ 8.3/10
+## [Anthropic's IPO Analysis: B2D Strategy Mirrors Nvidia CUDA](https://www.eetimes.com/anthropic-ipo-and-the-b2d-strategy/) ⭐️ 9.0/10
 
-The International Energy Agency warned that data center carbon emissions will rise by 70% by 2030 due to AI power demands, which will double the sector's total electricity consumption. Additionally, the European Commission has adopted the Matrix protocol and Element client for secure, institutional communication. The rapid growth in AI infrastructure significantly outpaces current energy planning, posing challenges to sustainability goals and energy infrastructure. Meanwhile, a major EU body adopting the open-source Matrix protocol validates it as a robust, secure enterprise solution. By 2030, AI data centers will consume an additional 350 TWh of electricity annually, an amount that exceeds the UK's total annual consumption. Furthermore, a single compromised agent-framework package hosted on PyPI by Microsoft is currently maliciously stealing user credentials and environment variables.
+An EE Times analysis examines Anthropic's IPO strategy through the lens of its 'Build to Dev' (B2D) approach, specifically the use of Claude Code to drive enterprise adoption. The analysis compares this developer-focused model to Nvidia's CUDA ecosystem, highlighting how developer tools can translate into massive enterprise hardware sales. This analysis is significant for AI strategists and investors as it illustrates a critical path for large language model companies to monetize their technology. It frames the debate around whether developer enthusiasm can reliably predict enterprise revenue in the rapidly evolving AI market. The article notes that while the conversion from developer adoption to enterprise sales is challenging, it is a proven model in hardware sectors. The B2D strategy specifically leverages developer tools like Claude Code to create a sticky user base that eventually demands more powerful and expensive enterprise-grade capabilities.
 
-rss · Solidot · Nov 19, 07:55
+rss · EE Times · Nov 20, 09:43
 
-**Background**: Data centers are heavily dependent on electricity, and the rapid proliferation of AI models requires massive compute resources that demand unprecedented energy grids. The Matrix protocol is an open standard for decentralized communication, while Element is a prominent Matrix client that supports end-to-end encrypted messaging and secure collaboration across different instances.
+**Background**: The 'Build to Dev' (B2D) strategy is a business model where a company prioritizes developer tools and programming interfaces to cultivate a large, engaged community before aggressively pursuing enterprise contracts. Nvidia is the most famous historical example, where its free CUDA programming library created a massive developer ecosystem that locked in customers to its expensive GPU hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://matrix.org/">Matrix , the open protocol for secure decentralised communications</a></li>
-<li><a href="https://element.io/">Element | Secure collaboration and messaging</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Claude_(AI)">Claude (AI) - Wikipedia</a></li>
+<li><a href="https://claude.com/">Claude by Anthropic | The AI for problem solvers</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Infrastructure`, `#Sustainability`, `#Energy Consumption`, `#Matrix Protocol`, `#European Commission`
+**Tags**: `#AI Business`, `#Anthropic`, `#Developer Ecosystem`, `#IPO`, `#B2D Strategy`
 
 ---
 
 <a id="item-8"></a>
-## [AI Reshapes Memory R&D Through High-Stakes Industry Partnerships](https://www.eetimes.com/memory-rd-is-a-high-stakes-game/) ⭐️ 8.0/10
+## [Phison reveals SSD with NPU and 64GB memory for on-drive AI inference](https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller) ⭐️ 8.5/10
 
-AI demand is fundamentally reshaping the research and development agenda of the memory industry, forcing manufacturers to form strategic partnerships. These alliances are designed to share the massive financial burden and risks associated with developing advanced process nodes. This shift in industry strategy is critical for the semiconductor supply chain, as it directly impacts the availability and cost of high-performance memory essential for modern AI hardware infrastructure. High-level cost-sharing partnerships help mitigate the extreme economic pressures of advanced chip development. The focus is on moving beyond the immediate next process node, indicating a long-term view of technology scaling. The primary challenge addressed is the exorbitant cost and technical risk inherent in cutting-edge memory fabrication.
+At SC26, Phison unveiled a computational-storage SSD equipped with a built-in NPU and 64GB of memory that supports AI frameworks like Llama.cpp for on-drive inference. A second design features a mixed-media architecture combining pSLC and QLC NAND behind a single controller to balance performance and capacity. This innovation moves AI inference directly to the storage layer, enabling data locality for large models without occupying host GPU resources. It provides a new hardware pathway for edge AI and data center efficiency, allowing smaller models to be hosted locally on the drive. The drive specifically targets running AI frameworks like Llama.cpp on the NPU itself rather than the host CPU. The mixed-media variant optimizes for dual roles, using pSLC for fast caching and QLC for high-capacity storage under one controller.
 
-rss · EE Times · Nov 19, 22:21
+rss · Tom's Hardware · Nov 20, 14:00
 
-**Background**: Memory chips are fundamental components in computer systems, used for storing and retrieving data. As AI workloads grow, the demand for high-speed, high-capacity memory, such as High Bandwidth Memory (HBM), has surged. Developing new semiconductor manufacturing processes to support these demands requires billions of dollars in investment and carries the risk of technological failure.
+**Background**: Computational storage integrates processing power directly into the storage device, allowing data to be processed where it resides. pSLC is a performance-boosting mode for TLC NAND, while QLC provides high-capacity but slower storage; combining them in a single drive balances speed and density for specific workloads.
 
-**Tags**: `#semiconductors`, `#ai-infrastructure`, `#memory-technology`, `#industry-analysis`, `#hardware`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.flexxon.com/nand-flash-explained/">NAND Flash Explained: SLC, MLC, TLC, QLC , and pSLC ... - Flexxon</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/ssds/phison-pascari-x201p-15-36tb-ssd-review">Phison Pascari X201P 15.36TB SSD Review: Fast... | Tom's Hardware</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Computational Storage`, `#Edge AI`, `#SSD Technology`, `#Hardware Innovation`, `#NPU`
 
 ---
 
 <a id="item-9"></a>
-## [SI expects 60-80% semi growth in 2027](https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/) ⭐️ 8.0/10
+## [Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers](https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions) ⭐️ 8.5/10
 
-Semiconductor Intelligence forecasts a major 60-80% growth in the global semiconductor market for 2027, marking a significant industry shift as long-time analyst Bill Jewell retires.
+Power and cooling constraints are forcing the AI industry to design clusters with over 100,000 accelerators across multiple data centers rather than single facilities.
 
-rss · Electronics Weekly · Nov 19, 06:14
+rss · Tom's Hardware · Nov 20, 11:30
 
-**Tags**: `#semiconductors`, `#market-forecast`, `#industry-news`, `#business`
+**Tags**: `#AI Infrastructure`, `#HPC`, `#Data Center Architecture`, `#Networking`, `#Systems Design`
 
 ---
 
 <a id="item-10"></a>
-## [TSMC Audits Customer Finances and Demands Upfront Payments](https://www.techpowerup.com/355020/tsmc-reportedly-reviews-customer-finances-asks-some-chip-buyers-to-pay-upfront) ⭐️ 7.5/10
+## [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) ⭐️ 8.0/10
 
-TSMC is now auditing its customers' financial health, including debt defaults and liquidity, to establish individual credit lines. Orders exceeding these limits require upfront cash payments to secure production capacity. This shift in payment terms signals heightened financial risk management in the semiconductor supply chain, particularly amid concerns over AI-driven circular financing. It impacts major chip buyers who may face tighter funding requirements. The standard 'first come, first served' allocation rule remains in place; TSMC is only changing the payment settlement method, not the supply allocation logic. The audit includes data on data center construction stages and industry position.
+A paper demonstrates that a language model can improve its own performance by rewriting its weights through reasoning and self-testing, bypassing traditional gradient-based training.
 
-rss · TechPowerUp News · Nov 19, 09:29
+hackernews · lwhsiao · Nov 20, 16:29 · [Discussion](https://news.ycombinator.com/item?id=50577265)
 
-**Background**: TSMC is the world's largest contract foundry, producing leading-edge chips for major tech companies like NVIDIA. In the current AI boom, 'circular financing' refers to a cycle where customers raise capital partly to pay their chip supplier, which then reinvests in the customer. To protect against a potential market downturn, TSMC is ensuring its orders are fully secured financially.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://aifront-page.com/taiwan-ai-supply-chain/">Why Taiwan is the Most Critical Node in AI's Supply Chain</a></li>
-<li><a href="https://asiaaifyi.beehiiv.com/p/nvidia-ousts-jensen-huang-the-supply-chain-and-governance-shock-for-global-ai">Nvidia Ousts Jensen Huang: The Supply Chain and Governance...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#TSMC`, `#Supply Chain`, `#Semiconductor Industry`, `#Financial Risk`, `#NVIDIA`
+**Tags**: `#LLM`, `#Self-Improvement`, `#Weight-Editing`, `#AI-Research`, `#HackerNews`
 
 ---
 
 <a id="item-11"></a>
-## [Intel Diamond Rapids shows signs of life in SC26 demo running live server](https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel) ⭐️ 7.5/10
+## [(PR) TCL CSOT Announces World's First Mass Production of Ultrahigh-Mobility Oxide Panels at DTC2026](https://www.techpowerup.com/355059/tcl-csot-announces-worlds-first-mass-production-of-ultrahigh-mobility-oxide-panels-at-dtc2026) ⭐️ 7.5/10
 
-Intel's next-gen Xeon Diamond Rapids processors were spotted running on live servers at partner booths during SC26, marking the first public signs of life for the upcoming platform.
+TCL CSOT has announced the world's first mass production of ultrahigh-mobility oxide panels on an 8.6-generation line, enabling premium displays with improved performance without traditional trade-offs.
 
-rss · Tom's Hardware · Nov 19, 11:30
+rss · TechPowerUp News · Nov 20, 17:25
 
-**Tags**: `#Intel`, `#Xeon`, `#HPC`, `#Data Center`, `#Hardware`
+**Tags**: `#Display Technology`, `#Semiconductors`, `#Manufacturing`, `#TCL CSOT`, `#Hardware`
 
 ---
 
 <a id="item-12"></a>
-## [Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig](https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts) ⭐️ 7.5/10
+## [Debian Linux Forms Gaming Hardware Team for Handheld and Bleeding Edge Hardware Testing](https://www.techpowerup.com/355046/debian-linux-forms-gaming-hardware-team-for-handheld-and-bleeding-edge-hardware-testing) ⭐️ 6.5/10
 
-A budget homelab rig using three used Nvidia V100 GPUs achieves 100 tokens per second on Qwen 3.6 35B, outperforming a much more expensive Mac Studio at long contexts.
+Debian has officially established a Gaming Hardware Team focused on supporting handheld devices and bleeding-edge hardware to enhance its position in the Linux gaming space.
 
-rss · Tom's Hardware · Nov 19, 11:00
+rss · TechPowerUp News · Nov 20, 05:09
 
-**Tags**: `#LLM Inference`, `#Homelab`, `#GPU`, `#Cost-Optimization`, `#Hardware`
+**Tags**: `#Debian`, `#Linux Gaming`, `#Hardware Support`, `#Open Source`
 
 ---
 
 <a id="item-13"></a>
-## [DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 — JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot](https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot) ⭐️ 7.5/10
+## [Anthropic Mathematician Claims AI-Assisted Proof of Riemann Hypothesis](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed) ⭐️ 6.5/10
 
-JEDEC has previewed the DDR6 memory standard, which reduces module size by 44% and increases bandwidth to 12.8 GT/s, offering up to 1TB capacity per slot compared to DDR5.
+Levent Alpöge, a mathematician at Anthropic, announced a possible ~250,000-page AI-assisted proof of the generalized Riemann hypothesis (GRH). This announcement was made on November 20, 2026, leveraging the capabilities of the Claude AI model. Solving the Riemann Hypothesis would be a monumental breakthrough in pure mathematics, potentially reshaping our understanding of prime numbers and cryptography. This event marks a significant milestone in AI-assisted mathematical discovery, demonstrating the potential of large language models to tackle centuries-old unsolved problems. The proof claims to address the generalized Riemann hypothesis (GRH) rather than just the standard hypothesis, and it spans approximately 250,000 pages. Notably, the result remains unconfirmed and lacks peer-reviewed verification from the mathematical community.
 
-rss · Tom's Hardware · Nov 19, 10:00
+rss · Tom's Hardware · Nov 20, 16:30
 
-**Tags**: `#hardware`, `#memory`, `#ddr6`, `#je dec`, `#pc components`
+**Background**: The Riemann Hypothesis, proposed in 1859, is one of the most famous unsolved problems in mathematics, concerning the distribution of prime numbers. It is one of the seven Millennium Prize Problems, offering a US$1 million reward for a correct solution. AI-assisted mathematical discovery is an emerging field that combines machine learning and symbolic reasoning to verify or generate new mathematical theorems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis</a></li>
+<li><a href="https://www.emergentmind.com/topics/ai-assisted-mathematical-discovery">AI - Assisted Math Discovery</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI-ML`, `#Mathematics`, `#Claude`, `#Anthropic`, `#Research`
 
 ---
 
 <a id="item-14"></a>
-## [Gemini 4 Neon Tops Models Engineering Index Amid Benchmarking](https://git-aarvin.github.io/mei/) ⭐️ 7.0/10
+## [VAST: Petabyte SSDs Require Global Declustering Over Standard RAID](https://www.tomshardware.com/pc-components/ssds/vast-data-says-petabyte-ssds-will-outgrow-raid-in-todays-parallel-file-systems-simulation-of-a-900-pb-system-puts-data-loss-odds-at-1-in-11-over-10-years) ⭐️ 6.5/10
 
-Google released Gemini 4 Neon on November 8, 2026, positioning it as a frontier-level model for complex coding and analysis that immediately claimed the top spot on the Models Engineering Index. This ranking shift signals a major disruption in the enterprise AI market, as Gemini 4 Neon demonstrates that frontier-level intelligence can be delivered at a lower cost than competing premium models like Claude Opus 5.5 and GPT-4 Turbo. Gemini 4 Neon offers superior speed and coding performance, effectively competing with higher-tier models like Opus 5.5 and Fable while maintaining a competitive price point that encourages developers to switch their production workloads.
+VAST Data presented a simulation showing that in a 900 PB SSD system, standard RAID leaves a 1-in-11 data-loss risk over ten years, which global declustering and added parity can mitigate. As data centers adopt massive SSD arrays, this work highlights that traditional RAID protections are no longer sufficient for petabyte-scale reliability, reshaping how next-generation parallel file systems must be engineered. VAST specifically advocates a global declustering approach rather than fixed RAID 60, adding additional parity to address the compounding failure risk that scales with array size.
 
-hackernews · hn-aarvin · Nov 19, 23:35 · [Discussion](https://news.ycombinator.com/item?id=50568130)
+rss · Tom's Hardware · Nov 20, 15:00
 
-**Background**: The Models Engineering Index is a community-driven benchmarking resource that compares language model performance on specific engineering tasks based on cost and token usage. The release of Gemini 4 Neon is part of Google's expanded Gemini 4 series, which includes sibling models like Carbon and Hydrogen, each targeting different balance points between speed, intelligence, and price.
+**Background**: RAID (Redundant Array of Independent Disks) traditionally uses striping, mirroring, or parity to protect data across multiple disks; however, as array sizes grow into the petabytes, the statistical probability of multiple simultaneous failures skyrockets. To counter this, modern storage architectures move toward global declustering, which distributes data and parity across the entire system rather than fixed local groups, reducing the window of unrecoverable data loss.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://git-aarvin.github.io/mei/">Models Engineering Index</a></li>
-<li><a href="https://deepmind.google/blog/introducing-gemini-4-neon/">Introducing Gemini 4 Neon - deepmind.google</a></li>
-<li><a href="https://grokipedia.com/page/Gemini_4_Neon">Gemini 4 Neon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RAID">RAID - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Standard_RAID_levels">Standard RAID levels - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community feedback highlights that while access barriers exist, users find Neon to be a significant productivity win over Claude, specifically praising its speed and ability to handle long-running language porting tasks in large monorepos. Commenters agree that for developers with Google's AI plan, the inclusion of Neon and Hydrogen quotas makes the subscription far more worthwhile, as Neon reliably performs on par with or better than Claude for documentation and coding tasks.
-
-**Tags**: `#AI Models`, `#Benchmarking`, `#LLM`, `#Coding Assistants`, `#Hacker News`
+**Tags**: `#data-storage`, `#raid`, `#ssd`, `#reliability`, `#vast-data`
 
 ---
 
 <a id="item-15"></a>
-## [Silicon Motion demos SM8466 PCIe 6.0 SSD controller ahead of 2028](https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent) ⭐️ 6.5/10
+## [Hacker News Debate on AI Promoting Developers to System Architects](https://manidoraisamy.com/developer-to-architect.html) ⭐️ 6.0/10
 
-Silicon Motion has taped out its SM8466 PCIe 6.0 SSD controller, which is expected to ship in late 2027 or early 2028. The chip was showcased at the SC26 conference and features an improved quality of service engine for data center applications. This milestone signifies the rapid transition of PCIe 6.0 storage technology from roadmap to silicon, providing a concrete timeline for next-generation data center infrastructure. The emphasis on QoS indicates a growing need for predictable low latency to support demanding AI workloads. The SM8466 controller is designed to deliver up to 28 GB/s sequential throughput and utilizes Silicon Motion's patented PerformaShape QoS Engine. It is specifically optimized for enterprise data center storage and is not targeted for consumer client SSDs.
+A Hacker News discussion is exploring the concept of developers being 'promoted to architects' by AI tools. The debate focuses on the practicality of this shift and its impact on team dynamics and career responsibilities. This discussion highlights significant changes in software engineering roles and team structures. It reflects the broader impact of AI on career trajectories and job responsibilities in the tech industry. The discussion lacks a specific technical breakthrough or novel solution. It focuses more on organizational design and the evolving responsibilities of software developers and architects.
 
-rss · Tom's Hardware · Nov 19, 12:00
+hackernews · QueensGambit · Nov 20, 18:17 · [Discussion](https://news.ycombinator.com/item?id=50579331)
 
-**Background**: PCIe 6.0 is the sixth generation of the PCI Express standard, using PAM4 signaling to double the speed of the previous PCIe 5.0 specification. SSD controllers manage the flow of data between the storage media and the host system, where quality of service (QoS) refers to the system's ability to maintain consistent performance and latency under heavy or variable loads.
+**Background**: In software development, an architect designs the system and makes high-level decisions, while developers implement specific features. The idea that AI might elevate developers to architects is a new trend, suggesting that AI handles the coding while developers handle design and oversight.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent">Silicon Motion demos SM 8466 PCIe 6.0 SSD controller , expected to...</a></li>
-<li><a href="https://www.techpowerup.com/354742/silicon-motion-showcases-next-generation-enterprise-storage-solutions-at-sc26">Silicon Motion Showcases Next-Generation... | TechPowerUp</a></li>
-<li><a href="https://pcisig.com/pci-express-6.0-specification">PCI Express 6.0 Specification - PCI-SIG</a></li>
+**Discussion**: Community members express varied opinions, with some questioning the practicality of this shift and others emphasizing the need for developers to continue playing multiple roles. There is concern that this change might devalue junior and mid-level positions and that AI's impact on architecture is comparable to its impact on software engineering.
 
-</ul>
-</details>
-
-**Tags**: `#SSD`, `#PCIe 6.0`, `#Silicon Motion`, `#Storage Hardware`, `#Semiconductor`
+**Tags**: `#Software Engineering`, `#AI Impact`, `#Career Development`, `#Team Dynamics`, `#System Architecture`
 
 ---
 
 <a id="item-16"></a>
-## [Oncolytic Virus Injection Halts Pancreatic Cancer in Three Patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) ⭐️ 6.0/10
+## [Google Workers Petition Employer to Stop Forcing AI on Schools](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/) ⭐️ 6.0/10
 
-A new study reports that injecting an oncolytic virus directly into tumors successfully halted the progression of pancreatic cancer in three patients. This preliminary finding suggests that targeted viral therapies can effectively stop the growth of this difficult-to-treat malignancy. Pancreatic cancer is notoriously difficult to treat with conventional methods and has a very high mortality rate. A therapy that can halt tumor progression could offer new survival hope for patients and open a pathway for further clinical trials in oncology. The study involves a very small cohort of three patients, indicating that this is a preliminary or case-report stage of research. The mechanism involves using a virus to selectively infect and destroy cancer cells while simultaneously triggering an immune response.
+Google workers have submitted a petition to their employer, Alphabet, urging the company to stop pressuring schools to use AI features within its products. This internal action highlights a growing debate over whether dominant tech platforms should maintain non-AI alternatives for users who refuse to opt into generative AI. This dispute signals a significant shift in how educational institutions navigate the increasing dominance of AI-first product strategies from major tech corporations. It raises critical questions about user agency and the practical availability of viable alternatives in a market where AI is becoming the default standard for digital tools. The core technical friction stems from Google’s integration of LLMs into core search and productivity tools, leaving schools that wish to avoid AI with no native, official option to disable these features. Community analysis suggests that while non-AI alternatives like other search engines exist, they are often not seamlessly integrated into the specific hardware ecosystems, such as Chromebooks, that many schools rely on.
 
-hackernews · cybermango · Nov 19, 17:25 · [Discussion](https://news.ycombinator.com/item?id=50563066)
+hackernews · cdrnsf · Nov 20, 16:59 · [Discussion](https://news.ycombinator.com/item?id=50577901)
 
-**Background**: Oncolytic viruses are genetically modified or naturally occurring viruses that selectively infect and kill cancer cells without harming healthy tissue. In pancreatic cancer, these viruses are often injected directly into the tumor, where they replicate to lyse cancer cells and release viral particles, which can then infect neighboring cells and stimulate the body's immune system to attack the tumor.
+**Background**: Alphabet's Google division has increasingly embedded artificial intelligence, specifically Large Language Models (LLMs), into its primary consumer-facing products like search and email. This 'AI-first' strategy aims to make AI a ubiquitous part of the user experience, but it has sparked concerns among privacy advocates, educators, and some consumers who desire traditional, non-AI-driven interfaces. Educational institutions, in particular, face pressure to adopt these technologies due to their integration into the digital infrastructure provided by major tech companies.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5084676/">Oncolytic virus therapy: A new era of cancer treatment at dawn - PMC</a></li>
-<li><a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1383978/full">Frontiers | Frontiers and future of immunotherapy for pancreatic ...</a></li>
+**Discussion**: The community is divided on whether the complaint about 'punishing' schools is valid, with some arguing it is a misframing of Google's legitimate business decision to not maintain a second, non-AI version of its products. Other users emphasize that the lack of a native, non-AI option on mandated hardware like Chromebooks forces a 'second-best' solution, while others point out that schools can technically install different browsers or switch to non-AI search engines, though this is not a seamless experience.
 
-</ul>
-</details>
-
-**Discussion**: The community discussion is highly emotional, with several users sharing personal stories of losing loved ones to pancreatic cancer. While expressing hope that this research may help future patients, one user pointed out the lack of specific trial details and provided links to relevant clinical trials and review articles for context.
-
-**Tags**: `#biotech`, `#oncology`, `#cancer-research`, `#oncolytic-therapy`, `#medical-advances`
+**Tags**: `#AI Ethics`, `#Education Tech`, `#Corporate Responsibility`, `#Google`, `#Search Engines`
 
 ---
 
 <a id="item-17"></a>
-## [Paid advertising compared to a value-extracting slot machine](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) ⭐️ 6.0/10
+## [Memory R&D Is a High-Stakes Game](https://www.eetimes.com/memory-rd-is-a-high-stakes-game/) ⭐️ 6.0/10
 
-An article published by Global Commerce Graph argues that paid digital advertising functions like a slot machine that extracts value from advertisers. This provocative analogy has generated significant engagement and debate regarding the economic nature of ad platforms. The debate challenges the conventional understanding of ad marketplaces as simple connections between buyers and sellers, potentially influencing how businesses view the return on ad spend and platform fees. It highlights ongoing tensions between ad platforms and their advertisers regarding transparency and value delivery. Critics argue that the slot machine analogy is fundamentally flawed because ad auctions serve as marketplaces where value is created through third-party connections, unlike casinos which are engineered for the house to win. Proponents or skeptics of the status quo suggest that the debate over whether internet advertising actually works is not new and has been discussed since 2019.
+AI demand is dictating the R&D priorities of memory manufacturers, who are increasingly relying on partnerships to mitigate the high costs and risks of developing post-next-generation process nodes.
 
-hackernews · dev1one1 · Nov 19, 18:35 · [Discussion](https://news.ycombinator.com/item?id=50564159)
+rss · EE Times · Nov 19, 22:21
 
-**Background**: Paid digital advertising involves businesses paying platforms like search engines or social media sites to display ads, with costs typically determined by auction mechanisms like cost-per-click. Historically, debates have surrounded whether these ads drive actual sales or merely extract fees, a question that gained traction in academic and business circles in the late 2010s.
-
-**Discussion**: Community comments reflect a divided sentiment, with some users rejecting the analogy as flawed due to the nature of ad auctions versus casino mechanics, while others argue the topic is repetitive. Some industry veterans suggest that successful advertising requires skill in creative execution and funnel optimization rather than blaming the platforms themselves.
-
-**Tags**: `#digital advertising`, `#marketing`, `#economics`, `#business-models`
+**Tags**: `#AI`, `#Memory Technology`, `#Semiconductors`, `#R&D Strategy`
 
 ---
 
 <a id="item-18"></a>
-## [TrendForce predicts NAND Flash prices to drop in 2027 on Chinese order cuts](https://www.dramexchange.com/WeeklyResearch/Post/2/12895.html) ⭐️ 6.0/10
+## [TI’s multiprotocol comms SoM connects factories](https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/) ⭐️ 6.0/10
 
-TrendForce forecasts that global NAND Flash prices will decrease in 2027 as order reductions from Chinese cloud service providers outweigh demand growth from North America. This marks a reversal in the supply-demand dynamics of the storage market. This forecast is significant for hardware manufacturers and IT infrastructure planning, as cheaper storage costs could accelerate AI data deployment. It also signals a shift in global technology demand centers away from rapid growth regions toward more conservative Chinese markets. According to TrendForce, the NAND Flash market was undersupplied throughout 2026 due to AI demand, but the supply-demand balance is expected to turn positive in the second half of 2027, easing current constraints.
+Texas Instruments has launched a multiprotocol communications system-on-module and a dual-channel IO-Link device to support complex factory automation and Industrial IoT systems.
 
-rss · DRAMeXchange (TrendForce) · Nov 19, 15:41
+rss · Electronics Weekly · Nov 20, 11:50
 
-**Background**: NAND Flash is the most common type of non-volatile storage used in devices ranging from SSDs to mobile phones, with prices heavily influenced by the balance of manufacturing supply and regional demand. 'CSP' stands for Cloud Service Provider, a company that provides cloud storage and computing services to businesses. TrendForce is a market research firm that specializes in providing data on the global supply chain of electronics and semiconductors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trendforce.com/presscenter/news/20260721-13148.html">NAND Flash Supply Growth to Outpace Demand in 2027, Easing ...</a></li>
-<li><a href="https://www.eetasia.com/trendforce-nand-flash-supply-growth-to-outpace-demand-in-2027/">TrendForce: NAND Flash Supply Growth to Outpace Demand in 2027</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NAND Flash`, `#Hardware Supply Chain`, `#Market Forecast`, `#Semiconductors`, `#TrendForce`
+**Tags**: `#Embedded Systems`, `#Industrial IoT`, `#Hardware`, `#Factory Automation`
 
 ---
 
 <a id="item-19"></a>
-## [Ceva and Mobilint Bring Physical AI Closer to Everyday Devices](https://semiwiki.com/ip/ceva/375820-ceva-and-mobilint-bring-physical-ai-closer-to-everyday-devices/) ⭐️ 6.0/10
+## [AI-native chip development platform connects intent, knowledge and execution](https://www.electronicsweekly.com/news/ai-native-chip-development-platform-connects-intent-knowledge-and-execution-2026-11/) ⭐️ 6.0/10
 
-Ceva and Mobilint have announced a new edge AI SoC called REGULUS that integrates Ceva's SensPro DSP and NeuPro-Nano NPU, marking the first production deployment of this 'physical AI' solution in everyday devices.
+AidaChip announces an AI-native platform that integrates intent, knowledge, and execution across all roles in the chip development process from architecture to production.
 
-rss · SemiWiki · Nov 19, 18:00
+rss · Electronics Weekly · Nov 20, 09:13
 
-**Tags**: `#Edge AI`, `#Semiconductors`, `#IoT`, `#Hardware`
+**Tags**: `#Chip Design`, `#AI in EDA`, `#Semiconductor Industry`, `#Hardware Development`, `#Automated Engineering`
 
 ---
 
 <a id="item-20"></a>
-## [Debian Linux Forms Gaming Hardware Team for Handheld and Bleeding Edge Hardware Testing](https://www.techpowerup.com/355046/debian-linux-forms-gaming-hardware-team-for-handheld-and-bleeding-edge-hardware-testing) ⭐️ 5.5/10
+## [New Windows Search Finally Arrives in Windows 11 Update](https://www.techpowerup.com/355054/new-windows-search-finally-arrives-in-windows-11-update) ⭐️ 5.5/10
 
-Debian has officially formed a Gaming Hardware Team to improve support for handheld and bleeding-edge gaming devices, responding to the growing popularity of Linux gaming platforms.
+Microsoft released an update to Windows 11 that overhauls the Search interface with a new WinUI 3-based design, introducing voice/typed command quick actions and improved performance.
 
-rss · TechPowerUp News · Nov 20, 05:09
+rss · TechPowerUp News · Nov 20, 10:46
 
-**Tags**: `#Debian`, `#Linux`, `#Gaming`, `#Open Source`
+**Tags**: `#Windows 11`, `#WinUI 3`, `#Operating System`, `#UI/UX`, `#Microsoft`
 
 ---
