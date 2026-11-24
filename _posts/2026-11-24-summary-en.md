@@ -5,350 +5,351 @@ date: 2026-11-24
 lang: en
 ---
 
-> From 100 items, 20 important content pieces were selected
+> From 108 items, 20 important content pieces were selected
 
 ---
 
-1. [Nvidia Board Reinstates Jensen Huang as CEO Following Brief Resignation](#item-1) ⭐️ 10.0/10
-2. [Jensen Huang Reinstated as CEO of NVIDIA Following US Government Support](#item-2) ⭐️ 9.5/10
-3. [US Export Controls Accelerate Global Sovereign AI Computing Efforts](#item-3) ⭐️ 9.0/10
-4. [Analysis of SoftBank's Hypothetical $1 Trillion SK Hynix Acquisition](#item-4) ⭐️ 9.0/10
-5. [Ladybird Browser Engine Reaches Alpha Milestone](#item-5) ⭐️ 8.0/10
-6. [Ladybird, an Independent Web Browser Engine, Reaches Alpha Release](#item-6) ⭐️ 7.5/10
-7. [Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links](#item-7) ⭐️ 7.5/10
-8. [Stalwart is now a drop-in replacement for Microsoft Exchange](#item-8) ⭐️ 7.0/10
-9. [GPUI is getting its own repository](#item-9) ⭐️ 7.0/10
-10. [Per Arm's request, this site will be discontinued on 4 December 2026 :(](#item-10) ⭐️ 7.0/10
-11. [Acorn Technologies Demonstrates Buried Stressor Benefits in FDSOI and RF-SOI](#item-11) ⭐️ 7.0/10
-12. [GTA VI Sells 45 Million Copies and Earns $4 Billion](#item-12) ⭐️ 6.5/10
-13. [NVIDIA Board Unanimously Reinstates Jensen Huang as CEO](#item-13) ⭐️ 6.5/10
-14. [MacBook modder turns Apple’s Force Touch trackpad into a speaker using haptic engine](#item-14) ⭐️ 6.5/10
-15. [天文学家首次观察到恒星吞噬伴星并爆炸的过程](#item-15) ⭐️ 6.3/10
-16. [Optocoupler for automotive SSR applications](#item-16) ⭐️ 6.0/10
-17. [HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network](#item-17) ⭐️ 5.5/10
-18. [Samsung Unveils World's First 1,100Hz Gaming Monitor](#item-18) ⭐️ 5.5/10
-19. [Intel Bartlett Lake-S CPUs Boot on MSI Z690/Z790 Boards](#item-19) ⭐️ 5.5/10
-20. [Co Print Quadro raises $500K on Kickstarter for $899 multi-head 3D printer](#item-20) ⭐️ 5.5/10
+1. [Why Peak FLOPS is the Wrong Yardstick for Inference Hardware](#item-1) ⭐️ 9.0/10
+2. [Windows Server 2028 Removes 32-bit WoW64 Compatibility by Default](#item-2) ⭐️ 8.3/10
+3. [Ternary Bonsai 2.5 27B brings agentic coding to consumer Macs](#item-3) ⭐️ 8.0/10
+4. [GreyNoise Reports Active Intrusion Campaign Targeting Check Point Security Servers](#item-4) ⭐️ 8.0/10
+5. [Hacker News Debates AI Coding Agents Enabling 2035-Tech Now](#item-5) ⭐️ 8.0/10
+6. [Cloudflare hides shortcomings of the underlying infrastructure](#item-6) ⭐️ 8.0/10
+7. [Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips](#item-7) ⭐️ 8.0/10
+8. [Why Siemens’ Breker Deal Matters for the Next Generation of AI Chips](#item-8) ⭐️ 8.0/10
+9. [JEDEC Publishes JESD209-6: LPDDR6 Standard Updated for AI and Mobile](#item-9) ⭐️ 8.0/10
+10. [OpenAI employee found with covert device recording confidential meetings](#item-10) ⭐️ 7.5/10
+11. [Songe: Open-source engine for local LLM dreaming and fine-tuning](#item-11) ⭐️ 7.0/10
+12. [Quad9 Pulls DNS Service in France Over Legal Blockade Mandate](#item-12) ⭐️ 7.0/10
+13. [Acorn and UCLouvain advance buried stressor technology for FDSOI and RF-SOI](#item-13) ⭐️ 7.0/10
+14. [US DOJ Seizes $17 Billion and 14,000 Devices in Global Anti-Scam Operation](#item-14) ⭐️ 6.5/10
+15. [Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims](#item-15) ⭐️ 6.5/10
+16. [Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees](#item-16) ⭐️ 6.5/10
+17. [Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim](#item-17) ⭐️ 6.5/10
+18. [Vehicle-to-Grid Faces Significant Practical and Technical Barriers](#item-18) ⭐️ 6.0/10
+19. [Vehicle-to-Grid: Great Idea or Unrealistic Dream?](#item-19) ⭐️ 6.0/10
+20. [AMD AGESA 1.3.0.1f Patch Limits Ryzen 8000 Max Core Voltage to 1.4V](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia Board Reinstates Jensen Huang as CEO Following Brief Resignation](https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo/) ⭐️ 10.0/10
+## [Why Peak FLOPS is the Wrong Yardstick for Inference Hardware](https://semiwiki.com/semiconductor-manufacturers/vsora/376702-why-peak-flops-is-the-wrong-yardstick-for-inference-hardware/) ⭐️ 9.0/10
 
-NVIDIA's board of directors has formally reinstated Jensen Huang as the company's Chief Executive Officer after a brief period of resignation. This move signals a return to business as usual following a one-week disruption in executive leadership. As a cornerstone of the global semiconductor and AI hardware industries, NVIDIA's leadership stability is critical for market confidence and strategic execution. The swift reinstatement of its founder and long-time leader helps mitigate potential uncertainty and keeps the company on track with its aggressive AI chip roadmap. The reinstatement occurred approximately one week after the initial resignation announcement, a timeline that suggests a deliberate and rapid governance response. The specific internal triggers for the brief resignation and reinstatement remain a focal point for corporate transparency observers.
+The article argues that peak FLOPS is an inadequate metric for evaluating AI inference hardware because inference workloads differ fundamentally from training, requiring a shift in how hardware is benchmarked.
 
-rss · EE Times · Nov 23, 18:17
+rss · SemiWiki · Nov 24, 14:00
 
-**Background**: Jensen Huang is the founder and long-time CEO of NVIDIA, a company that has become the dominant force in GPU technology and the AI chip market. Corporate governance standards generally require clear communication regarding executive transitions, especially for high-profile tech companies with significant public market valuations.
-
-**Tags**: `#NVIDIA`, `#Corporate Leadership`, `#Semiconductor Industry`, `#AI Hardware`, `#Stock Market`
+**Tags**: `#AI Hardware`, `#Inference Optimization`, `#Performance Metrics`, `#Semiconductor Industry`
 
 ---
 
 <a id="item-2"></a>
-## [Jensen Huang Reinstated as CEO of NVIDIA Following US Government Support](https://www.servethehome.com/jensen-is-back-at-nvidia/) ⭐️ 9.5/10
+## [Windows Server 2028 Removes 32-bit WoW64 Compatibility by Default](https://www.solidot.org/story?sid=85978) ⭐️ 8.3/10
 
-NVIDIA's Board of Directors unanimously voted to reinstate Jensen Huang as President, CEO, and Board Director effective immediately on November 23, 2026. This decision followed positive assertions from the US government and a short review process involving direct communications between Huang and the Board. The reinstatement of the CEO of the world's most valuable company resolves a significant leadership vacuum and market uncertainty that had previously caused NVIDIA's stock to plummet. This event stabilizes investor confidence and is expected to have an immediate positive impact on the broader tech and AI sectors, as reflected by a 31% surge in the stock price. US President Donald Trump reportedly dialed into NVIDIA's board meeting to argue for Huang's return, influencing the timing of the reinstatement. The Board stated it was satisfied with Huang's candor and ability to lead the company after a series of discussions.
+Microsoft has announced that the WoW64 compatibility layer will no longer be installed by default in Windows Server 2028, requiring users to manually enable the optional component to run 32-bit applications. This change is designed to reduce the operating system's footprint and enhance security by blocking 32-bit malicious code. This decision forces developers and IT administrators to migrate legacy 32-bit software to 64-bit environments, addressing a critical gap in enterprise security and maintaining system compatibility. It aligns with the broader industry trend of eliminating outdated software components to reduce vulnerability to modern threats. The WoW64 subsystem has existed in all 64-bit versions of Windows since 2008 to bridge the gap between 32-bit user-mode code and the 64-bit kernel. Microsoft notes that this change will specifically prevent the execution of 32-bit malware, which cannot run on the new operating system without the manually installed optional component.
 
-rss · ServeTheHome · Nov 23, 19:06
+rss · Solidot · Nov 24, 14:04
 
-**Background**: Jensen Huang had previously stepped down from his role due to a scandal involving personal conduct allegations that were linked to national security concerns. NVIDIA, as a critical supplier of AI hardware, is subject to significant oversight by the US government, making the executive leadership status of its CEO a matter of national interest.
+**Background**: WoW64 (Windows 32-bit on Windows 64-bit) is a translation and redirection layer that allows 32-bit applications to coexist with the 64-bit kernel. It uses a set of DLLs like Wow64.dll to intercept kernel calls and create a virtual environment for older software. Windows Server's last native 32-bit version was released in 2008, meaning 32-bit support has relied on this compatibility layer for over 15 years.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">NVIDIA Board Reinstates Jensen Huang as President, CEO and ...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%</a></li>
-<li><a href="https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo">Hours before Huang’s reinstatement, Trump called Nvidia ’s board to...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WoW64">WoW64 - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows/win32/winprog64/wow64-implementation-details">WOW64 Implementation Details - Win32 apps | Microsoft Learn WOW64 and cross-architecture compatibility | Windows Internals Windows on Windows - Wikipedia Running 32-bit Applications - Win32 apps | Microsoft Learn WOW64 and cross-architecture compatibility: Windows internals ... WoW64: Running 32-bit Processes on 64-bit Windows</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Windows_on_Windows">Windows on Windows - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#Leadership`, `#Tech Industry`, `#CEO`, `#AI Hardware`
+**Tags**: `#Windows Server`, `#System Administration`, `#Security`, `#Bioengineering`, `#Pharmacology`
 
 ---
 
 <a id="item-3"></a>
-## [US Export Controls Accelerate Global Sovereign AI Computing Efforts](https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/) ⭐️ 9.0/10
+## [Ternary Bonsai 2.5 27B brings agentic coding to consumer Macs](https://prismml.com/news/bonsai-2-5-27b) ⭐️ 8.0/10
 
-An EE Times analysis argues that U.S. restrictions on overseas AI infrastructure are paradoxically accelerating sovereign computing efforts abroad. This push by other nations could ultimately weaken American technological dominance in the AI sector. This shift highlights the geopolitical risks of relying on export controls to maintain a technological lead. If foreign nations successfully build their own self-sufficient AI infrastructure, the U.S. could lose its structural advantage in the global compute market. The hardware landscape is diversifying, with large sovereign AI clusters justifying expensive HBM-equipped accelerators while regional deployments focus on balancing model accuracy, power consumption, and cost per delivered token.
+PrismML released Ternary Bonsai 2.5 27B, a ternary quantized LLM that executes agentic coding tasks on consumer hardware like the Mac M5 Pro. It achieves 22-25 tokens/s speed and supports up to 128k context in memory. This release significantly lowers the hardware barrier for local AI coding assistants by enabling complex agentic tasks on mainstream laptops without expensive GPU clusters. It marks a shift toward highly accessible, low-bit AI models that prioritize real-world utility over raw benchmark scaling. Ternary quantization restricts model weights to three values (-1, 0, +1), resulting in a 1.58-bit precision footprint that drastically reduces memory usage. While it scores equivalently to frontier models on SWE-bench, practical performance depends on context limits and prefill speed rather than just raw generation speed.
 
-rss · EE Times · Nov 23, 16:08
+hackernews · b0m · Nov 24, 20:08 · [Discussion](https://news.ycombinator.com/item?id=50633922)
 
-**Background**: Sovereign AI is defined as the ability for an organization or nation to have free choice and control over the design, deployment, and governance of its AI systems and underlying technology foundations. The U.S. has imposed strict export controls on advanced AI chips and models to counter rival nations, particularly China, and to limit foreign access to top-tier compute resources.
+**Background**: Standard LLMs typically use 16-bit floating point weights, which makes them memory-intensive and hard to run on consumer hardware. Ternary LLMs (1.58-bit) represent a form of extreme quantization that compresses the model size to fit within tight memory budgets. Agentic coding refers to AI systems that can independently perform multi-step tasks such as writing code, running tests, and fixing errors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cfotech.ca/story/many-leaders-struggle-to-define-sovereign-ai-study-finds">Many leaders struggle to define sovereign AI , study finds</a></li>
-<li><a href="https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/">The Sovereign AI Paradox: Who Controls the Compute? - EE Times</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lTcF9pRkRSRktYb2RoaTJzRS1DZ0FQAQ?hl=en-US&gl=US&ceid=US:en">See the latest updates, context, and perspectives about this story.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1.58-bit_large_language_model">1.58-bit large language model - Wikipedia</a></li>
+<li><a href="https://prismml.com/">PrismML — Concentrating intelligence</a></li>
+<li><a href="https://arxiv.org/abs/2406.07177">[2406.07177] TernaryLLM: Ternarized Large Language Model</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Sovereign AI`, `#Geopolitics`, `#AI Infrastructure`, `#Export Controls`, `#Technology Policy`
+**Discussion**: Community members are impressed by the 128k context window and prefill speeds, confirming its usefulness for agentic coding. However, there is debate about the validity of SWE-bench scores for small models and a need for direct hardware comparisons against other popular 1B-10B quantized models. Some users also inquired about specific hardware acceleration methods beyond FPGAs.
+
+**Tags**: `#LLM`, `#LocalAI`, `#Quantization`, `#AgenticCoding`, `#PrismML`
 
 ---
 
 <a id="item-4"></a>
-## [Analysis of SoftBank's Hypothetical $1 Trillion SK Hynix Acquisition](https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt/) ⭐️ 9.0/10
+## [GreyNoise Reports Active Intrusion Campaign Targeting Check Point Security Servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) ⭐️ 8.0/10
 
-An EE Times analysis examines why a rumored $1 trillion SoftBank buyout of SK Hynix was strategically impossible. The article explains the rationale behind the infeasibility and highlights the critical role of memory in AI infrastructure. This analysis provides strategic insight into the AI memory market, clarifying why such massive M&A activities do not align with current industry dynamics. It helps investors and engineers understand the strategic value of high-bandwidth memory in the AI buildup. SK Hynix's actual market capitalization is approximately $622.65 billion, making a $1 trillion valuation a significant premium. High-bandwidth memory (HBM) technology is the driving force behind accelerated computing and GPUs for the AI revolution.
+GreyNoise has identified an active intrusion campaign targeting Check Point Security Management Servers across multiple organizations. The attack involves exploiting vulnerabilities to reverse-engineer a weak Pseudo-Random Number Generator and forge administrative session cookies. Compromising the security tooling of a major enterprise vendor like Check Point allows attackers to pivot into sensitive network environments. This significantly lowers the barrier for attackers to access critical infrastructure and customer data. While the summary details Check Point exploitation, web search results associate this PRNG state-reconstruction and session forgery technique with a critical flaw in Rejetto HFS (CVE-2026-61500). Attacker IP infrastructure spans 99 addresses, and the campaign is reportedly assisted by LLMs.
 
-rss · EE Times · Nov 23, 08:30
+hackernews · louiereederson · Nov 24, 16:32 · [Discussion](https://news.ycombinator.com/item?id=50630594)
 
-**Background**: SK Hynix is a leading semiconductor company specializing in dynamic random access memory (DRAM) and flash memory, particularly High-Bandwidth Memory (HBM). HBM is a critical technology for AI data centers because it allows GPUs to access data much faster than traditional memory. SoftBank is a Japanese conglomerate best known for its global venture capital arm, Vision Fund.
+**Background**: Security Management Servers are highly sensitive targets because they often hold the keys to managing entire network environments. PRNGs are computer algorithms that generate sequences of numbers mimicking randomness, and their internal state can sometimes be predicted if outputs are observed. Forging session cookies allows attackers to impersonate legitimate users without needing to discover or exploit actual authentication flaws.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://companiesmarketcap.com/sk-hynix/marketcap/">SK Hynix (000660.KS) - Market capitalization</a></li>
-<li><a href="https://ieeexplore.ieee.org/document/11074880">High Bandwidth Memory for AI | IEEE Conference Publication ...</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/">Hackers compromise Check Point Servers in 22 organizations</a></li>
+<li><a href="https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html">Attackers Target Rejetto HFS Flaw That Enables Admin Session ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Semiconductors`, `#AI Infrastructure`, `#Corporate Strategy`, `#Memory Technology`, `#Tech M&A`
+**Discussion**: Commenters express concern about the growing threat of AI-driven swarms of cybercriminals. There is also technical debate over how attackers initially bypassed security, and frustration that JavaScript's Math.random() remains insecure for security-critical session management.
+
+**Tags**: `#cybersecurity`, `#check-point`, `#intrusion-campaign`, `#prng`, `#session-cookie-forgery`
 
 ---
 
 <a id="item-5"></a>
-## [Ladybird Browser Engine Reaches Alpha Milestone](https://ladybird.org/posts/alpha/) ⭐️ 8.0/10
+## [Hacker News Debates AI Coding Agents Enabling 2035-Tech Now](https://fzakaria.com/2026/11/23/2035-came-early) ⭐️ 8.0/10
 
-The Ladybird project, a web browser engine built entirely from scratch, has officially reached alpha status. This release makes Linux and macOS builds available for testing, marking a major milestone after four years of development. It is a highly significant development in the web ecosystem to have a major independent codebase successfully rendering complex websites. It provides a strong alternative to existing engines, fostering innovation and preventing market monopoly in browser rendering technology. The browser around the engine is described as modest but functional, with some limitations such as occasional crashes and minor page scrolling jitter. The project has notably switched to using production-grade libraries like SQLite and Skia to improve performance.
+A high-engagement Hacker News discussion analyzed by F. Zakaria confirms that AI coding agents have allowed solo developers to build complex systems like OS kernels, effectively bringing forward capabilities previously predicted for 2035. The community validated this shift through examples of individuals successfully using LLM orchestration to create previously unattainable software milestones. This represents a significant paradigm shift in software engineering where LLM orchestration removes the historical barrier of team size, enabling individuals to execute high-complexity projects. It impacts the broader industry by forcing a re-evaluation of technical career trajectories and traditional software development methodologies. The capability to build complex systems now relies heavily on LLM orchestration—coordinating multiple AI models—rather than purely manual coding, as seen in a community member's 100-hour, two-month project to create a bare-metal OS. While some developers are rushing to release their agent-built work, the approach is not without skepticism regarding the fundamental utility and limits of web-based languages.
 
-hackernews · janvdberg · Nov 23, 16:13 · [Discussion](https://news.ycombinator.com/item?id=50614249)
+hackernews · setheron · Nov 24, 06:30 · [Discussion](https://news.ycombinator.com/item?id=50624497)
 
-**Background**: A web browser engine is the underlying software that interprets web pages and displays them on the screen. Most browsers are forks of a few dominant engines (like Blink or WebKit), meaning Ladybird is a rare, completely independent effort backed by a non-profit. This independence makes it a valuable tool for ensuring long-term web compatibility and security diversity.
+**Background**: The term '2035' refers to a technological singularity concept popularized by Ray Kurzweil, predicting a future where machine intelligence matches or surpasses human cognitive limits. Currently, software development still predominantly relies on human engineers writing code manually. LLM orchestration is the technical process of managing and coordinating Large Language Models to act as autonomous agents that can plan and execute complex multi-step coding tasks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Ladybird_(web_browser)">Ladybird (web browser ) - Wikipedia</a></li>
-<li><a href="https://www.omgubuntu.co.uk/2026/11/ladybird-browser-enters-alpha">Ladybird browser reaches alpha after four years of... - OMG! Ubuntu</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Technological_singularity">Technological singularity - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/llm-orchestration">What is LLM orchestration? - IBM</a></li>
+<li><a href="https://theaiagentindex.com/resources/guides/ai-coding-agents-vs-traditional-ides">AI Coding Agents vs Traditional IDEs: When to Use Each (2026)</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Developers were genuinely impressed that tricky sites rendered correctly, but some pointed out minor issues like jerky scrolling and a general lack of privacy-focused features. There was also a brief sentiment that replacing their original self-developed libraries with established ones felt like a slight loss of the 'original hacker spirit.'
+**Discussion**: The discussion reveals a mix of excitement and skepticism, with developers sharing personal experiences of building OS kernels and other complex software by prompting AI rather than writing code by hand. While some highly praise the 'software heros' who pioneered these methods, others remain unconvinced, drawing parallels to early Mozilla claims that JavaScript would replace native operating systems. There is also a notable emotional sentiment among engineers who had to adapt to the new, agent-driven development landscape.
 
-**Tags**: `#web-development`, `#browser-engine`, `#open-source`, `#cpp`, `#frontend`
+**Tags**: `#AI Coding Agents`, `#Hacker News`, `#Software Engineering`, `#LLM Orchestration`, `#Operating Systems`
 
 ---
 
 <a id="item-6"></a>
-## [Ladybird, an Independent Web Browser Engine, Reaches Alpha Release](https://www.techpowerup.com/355140/independent-web-browser-engine-ladybird-goes-into-alpha-release) ⭐️ 7.5/10
+## [Cloudflare hides shortcomings of the underlying infrastructure](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/) ⭐️ 8.0/10
 
-Ladybird, one of the few web browser engines built from scratch without relying on Chromium, Gecko, or WebKit, has officially entered its alpha release phase. This milestone follows four years of development and allows users to test the lightweight, privacy-focused browser. This release significantly challenges the dominance of major browser engines by providing users with a genuine alternative focused on privacy and user control. It helps ensure the web browser remains a user-owned tool rather than a data collection mechanism, supporting the broader goal of a decentralized and free internet ecosystem. Currently, Ladybird is only available for macOS and Linux, with native Windows builds expected in the future, although WSL support is available. It is built primarily in C++ and is licensed under the BSD 2-Clause License, indicating a strong commitment to open-source principles and permissive distribution.
+A technical analysis exposing the hidden infrastructure shortcomings and configuration complexities of Cloudflare's CDN service, supplemented by a high-quality community debate on security and reliability trade-offs.
 
-rss · TechPowerUp News · Nov 23, 21:53
+hackernews · fishcharlie · Nov 24, 19:03 · [Discussion](https://news.ycombinator.com/item?id=50632883)
 
-**Background**: Modern web browsers like Chrome, Edge, and Brave typically run on the Chromium engine, while Firefox uses Gecko and Safari uses WebKit, creating a market dominated by just a few underlying codebases. Ladybird was originally spun off from the SerenityOS operating system project by its founder in 2022 and is now backed by a dedicated nonprofit organization. Unlike many modern browsers that monetize through advertising or data collection, Ladybird is designed as a lightweight, standards-compliant browser built from scratch.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ladybird_(web_browser)">Ladybird (web browser) - Wikipedia</a></li>
-<li><a href="https://ladybird.org/">Ladybird is a truly independent web browser, backed by a non-profit.</a></li>
-<li><a href="https://daily.dev/blog/what-is-ladybird-everything-we-know-about-the-new-browser-and-web-engine/">What is Ladybird ? Everything we know about the new... | daily.dev</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Web Browser`, `#Ladybird`, `#Independent Software`, `#Web Standards`, `#Open Source`
+**Tags**: `#Cloudflare`, `#Network Security`, `#CDN`, `#DevOps`, `#TLS`
 
 ---
 
 <a id="item-7"></a>
-## [Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links](https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027) ⭐️ 7.5/10
+## [Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips](https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/) ⭐️ 8.0/10
 
-Penguin Solutions demonstrates an external memory box featuring up to 576 GB of HBM3E connected via optical links to expand AI accelerator capacity.
+Moores Lab AI launches a benchmark initiative focused on evaluating the ability of AI systems to verify the correctness of chip designs, shifting the focus from code generation speed to functional accuracy.
 
-rss · Tom's Hardware · Nov 23, 18:00
+rss · SemiWiki · Nov 24, 18:00
 
-**Tags**: `#AI Hardware`, `#Photonic Interconnects`, `#HBM Memory`, `#Optical Computing`, `#AI Accelerators`
+**Tags**: `#AI`, `#Semiconductors`, `#EDA`, `#Verification`, `#Hardware`
 
 ---
 
 <a id="item-8"></a>
-## [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) ⭐️ 7.0/10
+## [Why Siemens’ Breker Deal Matters for the Next Generation of AI Chips](https://semiwiki.com/eda/376542-why-siemens-breker-deal-matters-for-the-next-generation-of-ai-chips/) ⭐️ 8.0/10
 
-Stalwart introduces itself as a drop-in replacement for Microsoft Exchange, sparking debate on client compatibility and regulatory constraints.
+Siemens' acquisition of Breker aims to solve critical system-level integration and power-state bugs that prevent next-generation AI chips from performing reliably, even when individual components pass standard tests.
 
-hackernews · shaunpud · Nov 23, 22:32 · [Discussion](https://news.ycombinator.com/item?id=50620349)
+rss · SemiWiki · Nov 24, 16:00
 
-**Tags**: `#Email`, `#Self-Hosted`, `#OpenSource`, `#Microsoft Exchange`, `#Infrastructure`
+**Tags**: `#Semiconductors`, `#AI Hardware`, `#Chip Verification`, `#Siemens`, `#EDA`
 
 ---
 
 <a id="item-9"></a>
-## [GPUI is getting its own repository](https://github.com/zed-industries/gpui) ⭐️ 7.0/10
+## [JEDEC Publishes JESD209-6: LPDDR6 Standard Updated for AI and Mobile](https://www.electronicsweekly.com/news/products/memory/jedec-updates-lpddr6-to-address-mobile-and-ai-memory-performance-2026-11/) ⭐️ 8.0/10
 
-GPUI, the UI framework for the Zed editor, is moving to its own standalone repository to facilitate broader usage and independent development.
+The Solid State Technology Association, JEDEC, has released the JESD209-6 standard, which is the latest revision of the Low Power Double Data Rate 6 (LPDDR6) specification. This update is specifically designed to address and enhance memory performance for both mobile devices and AI workloads. This standard defines the next generation of memory performance envelopes, which is critical for engineers and architects designing mobile and edge AI hardware. It enables future devices to handle demanding AI tasks while maintaining the power efficiency required for battery-powered platforms. The new standard is designated as JESD209-6, representing a significant update to the LPDDR6 specification. The content does not provide specific numerical figures for bandwidth or latency improvements, but emphasizes the focus on AI-specific performance metrics.
 
-hackernews · EvilGoose · Nov 23, 20:52 · [Discussion](https://news.ycombinator.com/item?id=50619103)
+rss · Electronics Weekly · Nov 24, 15:56
 
-**Tags**: `#Rust`, `#UI-Frameworks`, `#Zed-Editor`, `#Open-Source`
+**Background**: JEDEC is the global standards body that defines specifications for various types of memory, including DRAM and NAND. LPDDR, or Low Power DDR, is a class of memory designed to reduce power consumption in mobile and portable electronics. As AI workloads move to mobile devices, new memory standards are required to support higher data throughput without excessive power draw.
+
+**Tags**: `#LPDDR6`, `#JEDEC`, `#Memory Standards`, `#AI Hardware`, `#Mobile Technology`
 
 ---
 
 <a id="item-10"></a>
-## [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/) ⭐️ 7.0/10
+## [OpenAI employee found with covert device recording confidential meetings](https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-eavesdropper-who-bugged-company-office-had-hundreds-of-private-recordings-was-in-frequent-communication-with-saudi-government-perp-had-dozens-of-recordings-of-discussions-of-trade-secrets) ⭐️ 7.5/10
 
-A popular community-maintained mirror of ARM architecture documentation is being shut down in December 2026 at the request of Arm, leading to significant community backlash and immediate archival efforts.
+Prosecutors discovered a covert listening device installed by a Saudi employee inside an OpenAI conference room. This device recorded hundreds of private conversations involving corporate trade secrets, which were shared with the Saudi government. This incident represents a severe state-sponsored espionage breach that puts critical AI intellectual property at risk. It underscores the growing vulnerability of high-value tech companies to targeted corporate espionage by foreign entities. The employee maintained frequent communication with the Saudi government while possessing dozens of recordings of sensitive discussions. The covert device was specifically placed in a conference room to monitor internal company communications.
 
-hackernews · tech234a · Nov 23, 19:17 · [Discussion](https://news.ycombinator.com/item?id=50617499)
+rss · Tom's Hardware · Nov 24, 16:30
 
-**Tags**: `#arm-architecture`, `#legal`, `#developer-tools`, `#documentation`
+**Background**: In the high-stakes AI industry, corporate espionage is a major concern as competitors seek to steal proprietary algorithms and strategic plans. While most corporate security focuses on digital firewalls, physical access to office spaces and meeting rooms remains a critical vulnerability for sensitive information. OpenAI, as a leading developer of artificial intelligence, is a primary target for state actors seeking to advance their own national AI capabilities.
+
+**Tags**: `#AI Security`, `#Espionage`, `#OpenAI`, `#Data Breach`
 
 ---
 
 <a id="item-11"></a>
-## [Acorn Technologies Demonstrates Buried Stressor Benefits in FDSOI and RF-SOI](https://www.electronicsweekly.com/news/business/research-boost-for-fdsoi-and-rf-soi-2026-11/) ⭐️ 7.0/10
+## [Songe: Open-source engine for local LLM dreaming and fine-tuning](https://github.com/sous-labs/songe) ⭐️ 7.0/10
 
-Acorn Technologies and researchers from UCLouvain have demonstrated the performance potential of their Buried Stressor technology in FDSOI and RF-SOI semiconductor applications. These advancements are significant because they suggest that Buried Stressor technology could enhance device performance, making SOI-based architectures more competitive for high-power and RF-sensitive applications. The research specifically focuses on using Acorn's Buried Stressor [ABS] to assess and quantify performance in RF semiconductor manufacturing.
+Songe is an open-source tool released by Sous Labs that uses a machine's idle cycles to iteratively train local Large Language Models. It operates by replaying corrected user interactions in a 'dreaming' process to improve model performance. This project lowers the barrier to continuous model improvement for individual developers by leveraging existing hardware without requiring dedicated data centers. It aligns with industry trends toward on-device AI and sustainable resource utilization. Before training, Songe measures the device's available learning capacity to ensure the model fits in memory. The system only applies new model versions if they successfully pass verification checks.
 
-rss · Electronics Weekly · Nov 24, 06:12
+hackernews · bluepeter · Nov 24, 15:03 · [Discussion](https://news.ycombinator.com/item?id=50629231)
 
-**Background**: FDSOI and RF-SOI are advanced semiconductor technologies that use a thin layer of silicon on an insulating substrate, which helps reduce power consumption and improve performance compared to bulk silicon. A Buried Stressor technology refers to an elastic layer placed beneath the active device region that is designed to strain the silicon channel, thereby modifying the carriers' mobility to enhance device speed or efficiency. This research project was led by Professor Jean-Pierre Raskin, funded by Acorn Technologies.
+**Background**: Local Large Language Models are often run on consumer hardware with limited resources, making traditional fine-tuning difficult without powerful GPUs. Concepts like 'sleep' or 'dreaming' phases in AI research propose that models can consolidate new data and correct errors during periods of inactivity, similar to how biological brains process memory.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.everythingrf.com/community/what-is-rf-soi">What is RF SOI? - everything RF Silicon on insulator - Wikipedia RF-SOI substrates - Soitec The Ultimate Guide to RF-SOI - AnySilicon SOI Wafers Explained: Pros, Cons, and Applications RF-SOI technology | GlobalFoundries Silicon-on-Insulator (SOI) Wafers | Bonded, SIMOX & RF SOI</a></li>
-<li><a href="https://www.soitec.com/home/products/product-platforms/rf-soi">RF-SOI substrates - Soitec</a></li>
-<li><a href="https://www.eenewseurope.com/en/acorn-to-sponsor-silicon-on-insulator-buried-stressor-research/">Acorn to sponsor silicon-on-insulator buried stressor research ..</a></li>
+<li><a href="https://github.com/sous-labs/songe">GitHub - sous-labs/ songe : A training engine for your local model...</a></li>
+<li><a href="https://souslabs.ai/songe">About Songe · Sous Labs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Semiconductor`, `#FDSOI`, `#RF-SOI`, `#Research`, `#Hardware`
+**Discussion**: The community is highly interested in the practical implications, with users asking about the quantitative improvement per epoch and specific hardware requirements for modest machines. There is also significant discussion regarding the potential for creating distributed computing networks, similar to SETI@home, to leverage collective idle resources.
+
+**Tags**: `#local-llm`, `#fine-tuning`, `#open-source`, `#distributed-computing`, `#python`
 
 ---
 
 <a id="item-12"></a>
-## [GTA VI Sells 45 Million Copies and Earns $4 Billion](https://www.techpowerup.com/355144/gta-vi-launch-weekend-sees-nearly-45-million-copies-sold) ⭐️ 6.5/10
+## [Quad9 Pulls DNS Service in France Over Legal Blockade Mandate](https://quad9.net/news/blog/quad9-service-deactivation-in-france/) ⭐️ 7.0/10
 
-Grand Theft Auto VI sold approximately 44.9 million copies during its opening weekend, generating over $4 billion in gross revenue. The release also shattered entertainment industry records, including a daily active user count of 40.8 million on November 22. This milestone makes GTA VI one of the fastest-selling entertainment products in history, significantly impacting the business outlook for Rockstar Games and its parent company Take-Two Interactive. The massive sales volume also underscores the dominant role of premium AAA gaming in the global entertainment market. According to Alinea Analytics estimates, 75.1% of the 44.9 million sales were on PlayStation 5, while 24.9% were on Xbox. These figures represent roughly 30% of each respective platform's install base.
+The non-profit DNS provider Quad9 deactivated its public resolvers for French users on November 24, 2026, to avoid complying with a legal order to block specific domains. This event highlights the conflict between legal censorship mandates and the integrity of public DNS infrastructure, serving as a significant warning for digital sovereignty and user privacy in the EU. Users can verify the service refusal via DiG, which returns a 'REFUSED' status containing an Extended DNS Error (EDE) code indicating prohibited service due to French legal constraints.
 
-rss · TechPowerUp News · Nov 23, 23:14
+hackernews · farrokhi · Nov 24, 08:33 · [Discussion](https://news.ycombinator.com/item?id=50625384)
 
-**Background**: Grand Theft Auto (GTA) is a widely recognized open-world video game series developed by Rockstar Games, known for its massive sales figures and cultural impact. The gaming industry frequently tracks 'install base penetration,' which measures the percentage of a specific console's active user base that purchases a new title, providing a clear indicator of a game's market reach.
+**Background**: Quad9 is a global non-profit DNS resolver that provides free, trusted DNS services to individuals, businesses, and governments. The legal order that triggered the withdrawal was issued by a French court to combat unauthorized sports broadcasts and piracy.
 
-**Tags**: `#Gaming`, `#Sales Data`, `#GTA VI`, `#Entertainment`, `#Business`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">Quad9’s withdrawal from France: A canary in the coal mine</a></li>
+<li><a href="https://cyberinsider.com/quad9-to-leave-france/">Quad9 to leave France after court orders piracy-related DNS ...</a></li>
+<li><a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community immediately began sharing open DNS proxy configurations that cache and forward requests to bypass the localized block, supporting DoH, DoT, and IPv4/IPv6. Additionally, users shared technical DiG outputs to confirm the refusal code and noted that the restriction also affects certain German servers.
+
+**Tags**: `#DNS`, `#Privacy`, `#Infrastructure`, `#Legal`, `#Networking`
 
 ---
 
 <a id="item-13"></a>
-## [NVIDIA Board Unanimously Reinstates Jensen Huang as CEO](https://www.techpowerup.com/355111/jensen-huang-reinstated-as-ceo-of-nvidia) ⭐️ 6.5/10
+## [Acorn and UCLouvain advance buried stressor technology for FDSOI and RF-SOI](https://www.electronicsweekly.com/news/business/research-boost-for-fdsoi-and-rf-soi-2026-11/) ⭐️ 7.0/10
 
-NVIDIA's Board of Directors has unanimously reinstated Jensen Huang as Chief Executive Officer and President of the company. This decision ends his interim leadership period following a series of discussions and meetings. This move restores stability to NVIDIA's leadership during a critical period for the AI and HPC sectors. It signals strong confidence from the board in Huang's ability to lead the company forward. The board kept Harvey C. Jones as the chair of the board. Colette Kress is credited for her service as the interim CEO while continuing her role as CFO.
+Researchers at Acorn Technologies and UCLouvain have demonstrated advancements in buried stressor technology for FDSOI and RF-SOI semiconductor platforms. The collaboration has successfully applied this specific technology to improve these silicon-on-insulator processes. Advancing buried stressor technology in these platforms allows for the integration of complex devices with improved performance and reduced power consumption. This is particularly significant for RF front-end integration where RF-SOI is widely used in consumer electronics and telecommunications. The work involves Acorn Technologies, a semiconductor IP company based in La Jolla near San Diego, and Prof Jean-Pierre Raskin from UCLouvain. The specific technology developed is referred to as the Acorn Buried Stressor.
 
-rss · TechPowerUp News · Nov 23, 14:17
+rss · Electronics Weekly · Nov 24, 06:12
 
-**Background**: Jensen Huang is the long-time leader and co-founder of NVIDIA, a global leader in AI and high-performance computing chips. The 'interim leadership period' implies that he had stepped away from his CEO role for a time, with Colette Kress serving as the acting CEO in his absence.
+**Background**: FDSOI (Fully Depleted Silicon on Insulator) and RF-SOI (Radio Frequency Silicon on Insulator) are advanced semiconductor fabrication technologies where a thin silicon layer sits on an insulating layer, unlike standard bulk CMOS. Buried stressor technology involves engineering subsurface layers to manage strain, which can optimize device properties and enable better integration of specialized components.
 
-**Tags**: `#NVIDIA`, `#Jensen Huang`, `#Corporate Governance`, `#Executive Leadership`, `#Tech Industry News`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://gf.com/technologies/cmos/fdx-fd-soi/">FDX™ FD-SOI technology | GlobalFoundries</a></li>
+<li><a href="https://www.everythingrf.com/community/what-is-rf-soi">What is RF SOI? - everything RF RF-SOI technology | GlobalFoundries RF-SOI - STMicroelectronics The Ultimate Guide to RF-SOI - AnySilicon SOI in Integrated Circuits — CMOS, RF, MEMS & Photonics SOI Wafers Explained: Pros, Cons, and Applications</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Semiconductor`, `#FDSOI`, `#RF-SOI`, `#Research`, `#IP`
 
 ---
 
 <a id="item-14"></a>
-## [MacBook modder turns Apple’s Force Touch trackpad into a speaker using haptic engine](https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music) ⭐️ 6.5/10
+## [US DOJ Seizes $17 Billion and 14,000 Devices in Global Anti-Scam Operation](https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers) ⭐️ 6.5/10
 
-A modder created a tool to use a MacBook's Force Touch trackpad haptic engine as a speaker, allowing it to produce speech tones and music through vibrations.
+The US Department of Justice announced that its largest-ever anti-scam operation has resulted in the seizure of 14,000 devices and $17 billion in illicit funds, with over 800 defendants charged and 2,200 forced laborers freed. The action has specifically recovered $8 billion in intended victim losses. This operation demonstrates the US government's intensified effort to combat the transnational financial fraud that plagues the global digital economy. The massive scale of assets seized highlights the significant threat posed by cyber-enabled scams to international victims and financial systems. Notable outcomes of the crackdown include the recovery of $8 billion in intended victim losses and the liberation of 2,200 forced laborers who were likely exploited by the illicit networks.
 
-rss · Tom's Hardware · Nov 23, 13:00
+rss · Tom's Hardware · Nov 24, 22:30
 
-**Tags**: `#Hardware Modding`, `#MacBook`, `#Haptics`, `#Audio`
+**Background**: The surge in global cyber scams has become a major concern, often involving sophisticated financial crimes and human trafficking networks that span multiple jurisdictions. The US DOJ coordinates such operations to disrupt these cross-border criminal activities and recover stolen assets to mitigate harm to global victims.
+
+**Tags**: `#Cybersecurity`, `#Law-Enforcement`, `#Anti-Fraud`, `#Policy`
 
 ---
 
 <a id="item-15"></a>
-## [天文学家首次观察到恒星吞噬伴星并爆炸的过程](https://www.solidot.org/story?sid=85966) ⭐️ 6.3/10
+## [Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims](https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety) ⭐️ 6.5/10
 
-Astronomers used the Webb Telescope to observe a star engulfing a companion star in Andromeda, while Google patented a technology for AI-generated personalized TV channels, and SerenityOS founder started a new browser project.
+Reports suggest that employees at OpenAI and Anthropic are concerned that unreleased frontier models are too powerful and pose significant risks if released without adequate safety controls, with executives prioritizing profit.
 
-rss · Solidot · Nov 23, 10:10
+rss · Tom's Hardware · Nov 24, 21:00
 
-**Tags**: `#Astronomy`, `#AI`, `#Patents`, `#Technology Trends`, `#Software`
+**Tags**: `#AI Safety`, `#OpenAI`, `#Anthropic`, `#Tech Industry`, `#Model Risks`
 
 ---
 
 <a id="item-16"></a>
-## [Optocoupler for automotive SSR applications](https://www.electronicsweekly.com/news/business/optocoupler-for-automotive-ssr-applications-2026-11/) ⭐️ 6.0/10
+## [Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees](https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls) ⭐️ 6.5/10
 
-Toshiba introduces the TLX9909 photovoltaic-output photocoupler, designed to optimize turn-off times for high-voltage MOSFETs in automotive solid-state relay applications.
+Nvidia CEO Jensen Huang is scheduled to testify before US congressional committees on December 1 and 3 regarding national security concerns and export control enforcement in China.
 
-rss · Electronics Weekly · Nov 24, 06:03
+rss · Tom's Hardware · Nov 24, 16:00
 
-**Tags**: `#Automotive Electronics`, `#Solid-State Relays`, `#Power Electronics`, `#Components`, `#Toshiba`
+**Tags**: `#Nvidia`, `#Geopolitics`, `#Export Controls`, `#AI Industry`, `#Semiconductors`
 
 ---
 
 <a id="item-17"></a>
-## [HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network](https://www.techpowerup.com/355134/hwinfo-can-now-serve-sensor-readings-to-phones-and-tablets-over-your-network) ⭐️ 5.5/10
+## [Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim](https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide) ⭐️ 6.5/10
 
-HWiNFO v8.61 Beta introduces a local REST API server that allows users to view hardware sensor readings via JSON over HTTP/HTTPS on any network-connected device.
+Reports indicate that President Donald Trump allegedly intervened in Nvidia's corporate governance by pressuring the board to reinstate Jensen Huang to stabilize the company's falling stock prices.
 
-rss · TechPowerUp News · Nov 23, 20:48
+rss · Tom's Hardware · Nov 24, 13:45
 
-**Tags**: `#hardware-monitoring`, `#rest-api`, `#hwinfio`, `#system-tools`
+**Tags**: `#Nvidia`, `#Jensen Huang`, `#US Politics`, `#Market Regulation`, `#Tech Industry`
 
 ---
 
 <a id="item-18"></a>
-## [Samsung Unveils World's First 1,100Hz Gaming Monitor](https://www.techpowerup.com/355109/samsung-launches-the-odyssey-g6-the-worlds-first-1-100hz-gaming-monitor) ⭐️ 5.5/10
+## [Vehicle-to-Grid Faces Significant Practical and Technical Barriers](https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2/) ⭐️ 6.0/10
 
-Samsung has launched the 27-inch Odyssey G6, the first gaming monitor to support a 1,100 Hz refresh rate in HD resolution.
-It also includes a Dual Mode that allows users to switch between this ultra-fast setting and a QHD mode at up to 600 Hz. This monitor pushes the boundaries of refresh rate technology specifically for competitive esports players who require the absolute lowest input latency and smoothest motion.
-It signals a trend where high-end gaming peripherals are moving away from 4K resolution in favor of extreme speeds for niche competitive needs. The monitor utilizes an IPS panel with a 1 ms gray-to-gray (GtG) response time to minimize motion blur.
-It will be available in the US starting in December at a price of $899.99.
+This article explores the technical and practical challenges hindering the widespread adoption of Vehicle-to-Grid systems. It highlights concerns related to battery degradation, grid infrastructure, charging access, and user convenience. Addressing these critical barriers is essential for the future of smart grid integration and renewable energy management. The analysis is significant for automakers and energy providers evaluating the commercial viability of two-way charging technologies. The analysis specifically points out that battery health degradation and the lack of robust grid infrastructure are the primary technical bottlenecks. Furthermore, the economic costs involved in the required equipment and the practical inconvenience for EV drivers are major adoption hurdles.
 
-rss · TechPowerUp News · Nov 23, 13:49
+rss · EE Times · Nov 24, 11:53
 
-**Background**: A monitor's refresh rate, measured in Hertz (Hz), indicates how many frames per second it can display.
-While 4K monitors are popular for single-player games, competitive esports titles often run at 1080p HD resolution where high refresh rates are critical.
-The GtG metric measures how fast a pixel can change colors, which directly affects ghosting and motion blur.
+**Background**: Vehicle-to-Grid (V2G) technology allows electric vehicles to send excess power back to the electrical grid, acting as mobile energy storage. While it can help stabilize the grid and integrate renewable energy, it requires specialized bidirectional charging infrastructure that is currently rare.
 
-**Tags**: `#Hardware`, `#Gaming`, `#Monitors`, `#Samsung`, `#Consumer Electronics`
+**Tags**: `#Vehicle-to-Grid`, `#Energy Systems`, `#Battery Technology`, `#Smart Grid`, `#Automotive Electronics`
 
 ---
 
 <a id="item-19"></a>
-## [Intel Bartlett Lake-S CPUs Boot on MSI Z690/Z790 Boards](https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards) ⭐️ 5.5/10
+## [Vehicle-to-Grid: Great Idea or Unrealistic Dream?](https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream/) ⭐️ 6.0/10
 
-Intel's 'Bartlett Lake-S' CPUs are reportedly booting natively on select MSI Z690 and Z790 motherboards without BIOS modifications. User tests confirmed that a Core 9 273PE qualification sample ran successfully on an MSI MEG Z690I board using only the latest official BIOS version. This backward compatibility allows enthusiasts to utilize high-performance P-core-only CPUs on existing consumer platforms, potentially revitalizing the second-hand market for Z690 and Z790 boards. It demonstrates that physical socket equivalence can sometimes bridge official chipset support gaps through firmware updates. Bartlett Lake-S is built on the Intel 7 node and uses the LGA1700 socket but lacks E-cores, making it incompatible with hybrid scheduling in standard 12th/13th Gen BIOS environments. The primary limitation reported is a DRAM frequency lock, though all other tuning features remain available on these older boards.
+This article critically examines the potential of Vehicle-to-Grid technology, arguing that user behavior and the 'human factor' may limit its effectiveness despite its technical promise.
 
-rss · TechPowerUp News · Nov 23, 10:59
+rss · EE Times · Nov 24, 08:40
 
-**Background**: Bartlett Lake-S is a non-hybrid Intel CPU family featuring up to 12 'Raptor Cove' P-cores without E-core clusters, designed for LGA1700. It was not originally intended for consumer Z790 motherboards, as they typically require specific microcode for CPU initialization. Most modern Intel CPUs use hybrid architectures with P-cores and E-cores, which these boards' BIOS may not recognize natively.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards">Intel "Bartlett Lake-S" CPUs Reportedly Boot Natively on MSI ...</a></li>
-<li><a href="https://videocardz.com/newz/msis-latest-z690-and-z790-bios-reportedly-supports-intel-bartlett-lake-12p-and-10p-cpus-without-modifications">MSI's latest Z690 and Z790 BIOS reportedly supports Intel ...</a></li>
-<li><a href="https://overclock3d.net/news/cpu_mainboard/msi-z690-z790-motherboards-reportedly-gains-support-for-intel-bartlett-lake-cpus/">MSI Z690/Z790 BIOS gains Intel "Bartlett Lake" CPU support - OC3D</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Intel`, `#Hardware`, `#CPUs`, `#Motherboards`, `#Compatibility`
+**Tags**: `#Vehicle-to-Grid`, `#Energy Systems`, `#Infrastructure`, `#Sustainability`, `#Power Electronics`
 
 ---
 
 <a id="item-20"></a>
-## [Co Print Quadro raises $500K on Kickstarter for $899 multi-head 3D printer](https://www.tomshardware.com/3d-printing/3d-printer-that-promises-simultaneous-printing-from-all-four-heads-gets-usd500-000-in-crowdfunding-four-printhead-co-print-quadro-msrp-set-at-just-usd899-promises-reduced-waste-and-faster-printing) ⭐️ 5.5/10
+## [AMD AGESA 1.3.0.1f Patch Limits Ryzen 8000 Max Core Voltage to 1.4V](https://www.techpowerup.com/355153/amd-agesa-1-3-0-1f-patch-arrives-to-limit-max-vcore-on-ryzen-8000-series) ⭐️ 5.5/10
 
-The Co Print Quadro IQEX 3D printer successfully raised over $500,000 on Kickstarter, far exceeding its initial $50,000 goal. The device promises simultaneous printing from four independent heads and is set at a retail price of $899. This milestone indicates strong market demand for affordable, high-speed multi-material printing at the consumer level. It could accelerate the adoption of complex printing workflows by significantly reducing waste and print times compared to traditional single-nozzle systems. The Quadro utilizes an open-frame FFF architecture with a 300 × 300 × 300 mm build volume accessible to all four toolheads. A key technical advantage is that color changes simply require moving the toolhead, a process that takes only about one second, avoiding the lengthy purging and loading of single-nozzle printers.
+AMD has released AGESA 1.3.0.1f Patch A, introducing a 1.4V maximum core voltage limit for specific Ryzen 8000-series desktop APUs. Motherboard manufacturers like ASUS and MSI are distributing BIOS updates to implement this restriction and improve memory training visibility. This update is significant for the stability of systems using Ryzen 8000-series APUs, as capping the voltage at 1.4V helps prevent hardware degradation and system instability caused by excessive power draw. It ensures long-term reliability for users of these specific processors on the AM5 platform. The patch also adds additional POST codes to enhance visibility into memory training, allowing users to better differentiate between normal initialization and unresponsive states. The voltage limit applies specifically to select Ryzen 8000-series desktop APUs, and manual overclocking beyond this ceiling may be affected or restricted.
 
-rss · Tom's Hardware · Nov 23, 16:30
+rss · TechPowerUp News · Nov 24, 13:31
 
-**Background**: Standard FFF (Fused Filament Fabrication) 3D printers typically use one nozzle that must physically change filament to print multiple colors, which generates significant material waste. Multi-head setups allow for simultaneous multi-material deposition, improving efficiency and reducing waste, a trend increasingly common in modern 3D printing hardware.
+**Background**: AGESA, or AMD Generic Encapsulated Software Architecture, is a procedure library used by motherboard manufacturers to perform Platform Initialization for AMD processors. It acts as a bridge between the CPU's firmware and the mainboard's BIOS, governing how hardware components are initialized and managed during the boot process. The Ryzen 8000 series refers to AMD's recent generation of APUs that integrate CPU and GPU on a single package.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.wiki.coprint3d.com/en/Quadro/Specifications">Quadro Technical Specifications | Co Print Wiki</a></li>
-<li><a href="https://www.goodprints3d.com/pages/3d-printer-co-print-quadro">Quadro 3D Printer Specifications - goodprints3d.com</a></li>
-<li><a href="https://coprint3d.com/pages/quadro">Co Print Quadro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AGESA">AGESA - Wikipedia</a></li>
+<li><a href="https://www.techpowerup.com/355153/amd-agesa-1-3-0-1f-patch-arrives-to-limit-max-vcore-on-ryzen-8000-series">AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#3D-Printing`, `#Hardware`, `#Crowdfunding`, `#Manufacturing`, `#Consumer-Tech`
+**Tags**: `#AMD`, `#Ryzen 8000`, `#BIOS`, `#AGESA`, `#Hardware`
 
 ---

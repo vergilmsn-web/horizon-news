@@ -5,350 +5,351 @@ date: 2026-11-24
 lang: zh
 ---
 
-> 从 100 条内容中筛选出 20 条重要资讯。
+> 从 108 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [英伟达董事会在短暂辞职后重新任命黄仁勋为 CEO](#item-1) ⭐️ 10.0/10
-2. [美国政府支持下，黄仁勋被重新任命为英伟达首席执行官](#item-2) ⭐️ 9.5/10
-3. [美国出口管制加速全球主权 AI 算力建设](#item-3) ⭐️ 9.0/10
-4. [软银 1 万亿美元收购 SK 海力士的假设性案例分析](#item-4) ⭐️ 9.0/10
-5. [Ladybird 浏览器引擎正式进入 Alpha 阶段](#item-5) ⭐️ 8.0/10
-6. [独立网页浏览器引擎 Ladybird 进入 Alpha 测试阶段](#item-6) ⭐️ 7.5/10
-7. [Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links](#item-7) ⭐️ 7.5/10
-8. [Stalwart is now a drop-in replacement for Microsoft Exchange](#item-8) ⭐️ 7.0/10
-9. [GPUI is getting its own repository](#item-9) ⭐️ 7.0/10
-10. [Per Arm's request, this site will be discontinued on 4 December 2026 :(](#item-10) ⭐️ 7.0/10
-11. [Acorn Technologies 展示 FDSOI 和 RF-SOI 中埋置应力层的优势](#item-11) ⭐️ 7.0/10
-12. [GTA VI 发售首周末售出 4500 万份，营收超 40 亿美元](#item-12) ⭐️ 6.5/10
-13. [英伟达董事会一致投票恢复黄仁勋 CEO 职位](#item-13) ⭐️ 6.5/10
-14. [MacBook modder turns Apple’s Force Touch trackpad into a speaker using haptic engine](#item-14) ⭐️ 6.5/10
-15. [天文学家首次观察到恒星吞噬伴星并爆炸的过程](#item-15) ⭐️ 6.3/10
-16. [Optocoupler for automotive SSR applications](#item-16) ⭐️ 6.0/10
-17. [HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network](#item-17) ⭐️ 5.5/10
-18. [三星发布全球首款 1,100Hz 电竞显示器](#item-18) ⭐️ 5.5/10
-19. [英特尔 Bartlett Lake-S 处理器可在 MSI Z690/Z790 主板上启动](#item-19) ⭐️ 5.5/10
-20. [Co Print Quadro 众筹 50 万美元推出 899 美元多喷头 3D 打印机](#item-20) ⭐️ 5.5/10
+1. [为什么峰值 FLOPS 是评估推理硬件的错误标准](#item-1) ⭐️ 9.0/10
+2. [Windows Server 2028 默认移除 WoW64 32 位兼容层](#item-2) ⭐️ 8.3/10
+3. [Ternary Bonsai 2.5 27B 将自主编程能力带入消费级 Mac](#item-3) ⭐️ 8.0/10
+4. [GreyNoise 报告针对 Check Point 安全服务器的主动入侵活动](#item-4) ⭐️ 8.0/10
+5. [Hacker News 热议 AI 编码代理实现 2035 技术](#item-5) ⭐️ 8.0/10
+6. [Cloudflare hides shortcomings of the underlying infrastructure](#item-6) ⭐️ 8.0/10
+7. [Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips](#item-7) ⭐️ 8.0/10
+8. [西门子收购 Breker 对下一代 AI 芯片的重要性](#item-8) ⭐️ 8.0/10
+9. [JEDEC 发布 JESD209-6：LPDDR6 标准更新以支持 AI 与移动设备](#item-9) ⭐️ 8.0/10
+10. [OpenAI 员工被发现在会议室内安装窃听器](#item-10) ⭐️ 7.5/10
+11. [Songe：开源本地 LLM 做梦与微调引擎](#item-11) ⭐️ 7.0/10
+12. [Quad9 因强制屏蔽令撤出法国 DNS 服务](#item-12) ⭐️ 7.0/10
+13. [Acorn 与 UCLouvain 推进 FDSOI 和 RF-SOI 埋入式应力源技术](#item-13) ⭐️ 7.0/10
+14. [美国司法部在全球反诈骗行动中没收 170 亿美元及 1.4 万台设备](#item-14) ⭐️ 6.5/10
+15. [Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims](#item-15) ⭐️ 6.5/10
+16. [Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees](#item-16) ⭐️ 6.5/10
+17. [Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim](#item-17) ⭐️ 6.5/10
+18. [车网互动技术面临重大实际与技术障碍](#item-18) ⭐️ 6.0/10
+19. [车辆向电网输电：绝佳创意还是不切实际的幻想？](#item-19) ⭐️ 6.0/10
+20. [AMD AGESA 1.3.0.1f 补丁将 Ryzen 8000 最大核心电压限制为 1.4V](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [英伟达董事会在短暂辞职后重新任命黄仁勋为 CEO](https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo/) ⭐️ 10.0/10
+## [为什么峰值 FLOPS 是评估推理硬件的错误标准](https://semiwiki.com/semiconductor-manufacturers/vsora/376702-why-peak-flops-is-the-wrong-yardstick-for-inference-hardware/) ⭐️ 9.0/10
 
-英伟达董事会在短暂的辞职期后正式重新任命黄仁勋为公司首席执行官。此举表明，在经历了一周的高管领导动荡后，公司正回归常态运营。 作为全球半导体和 AI 硬件行业的基石，英伟达领导层的稳定性对市场信心和战略执行至关重要。迅速重新任命其创始人和长期领导者有助于减轻潜在的不确定性，并使公司能够按照激进的 AI 芯片路线图推进。 重新任命发生在最初宣布辞职后大约一周，这一时间线表明了有意且迅速的公司治理反应。短暂辞职和重新任命的具体内部触发因素仍然是公司治理透明度观察者的焦点。
+文章认为峰值 FLOPS 不适合评估 AI 推理硬件，因为推理负载与训练存在根本差异，这需要改变硬件基准测试的方式。
 
-rss · EE Times · 11月23日 18:17
+rss · SemiWiki · 11月24日 14:00
 
-**背景**: 黄仁勋是英伟达的创始人和长期首席执行官，该公司已成为 GPU 技术和 AI 芯片市场的主导力量。公司治理标准通常要求对高管交接进行清晰沟通，尤其是对于具有重大公开市场估值的高知名度科技公司。
-
-**标签**: `#NVIDIA`, `#Corporate Leadership`, `#Semiconductor Industry`, `#AI Hardware`, `#Stock Market`
+**标签**: `#AI Hardware`, `#Inference Optimization`, `#Performance Metrics`, `#Semiconductor Industry`
 
 ---
 
 <a id="item-2"></a>
-## [美国政府支持下，黄仁勋被重新任命为英伟达首席执行官](https://www.servethehome.com/jensen-is-back-at-nvidia/) ⭐️ 9.5/10
+## [Windows Server 2028 默认移除 WoW64 32 位兼容层](https://www.solidot.org/story?sid=85978) ⭐️ 8.3/10
 
-英伟达董事会于 2026 年 11 月 23 日一致投票决定立即重新任命黄仁勋为总裁、首席执行官及董事。这一决定是在美国政府做出积极表态，以及黄仁勋与董事会经过简短审查流程和直接沟通后做出的。 作为全球市值最高公司的首席执行官回归，解决了此前因领导层空缺和市场不确定性导致英伟达股价暴跌的问题。这一事件稳定了投资者信心，预计将对科技和人工智能行业产生即时正面影响，股价应声飙升 31%即是明证。 据报道，美国总统唐纳德·特朗普曾致电英伟达董事会会议，为黄仁勋的回归发声，影响了重新任命的时机。董事会表示，在经过一系列讨论后，他们对黄仁勋的坦诚和领导能力感到满意。
+微软宣布 Windows Server 2028 将不再默认安装 WoW64 兼容层，运行 32 位应用需要用户手动启用该可选组件。此变更旨在缩小系统占用空间并提升安全性，通过阻断 32 位恶意代码来加固系统。 此决策迫使开发人员和 IT 管理员将遗留的 32 位软件迁移至 64 位环境，解决了企业安全与系统兼容性的重大痛点。此举顺应了通过淘汰过时的软件组件来降低现代威胁漏洞的业界趋势。 WoW64 子系统自 2008 年起一直存在于所有 64 位版本的 Windows 中，用于连接 32 位用户模式代码与 64 位内核。微软指出，此更改将专门防止 32 位恶意程序的运行，若不手动安装该可选组件，此类恶意程序将无法在新的操作系统上执行。
 
-rss · ServeTheHome · 11月23日 19:06
+rss · Solidot · 11月24日 14:04
 
-**背景**: 黄仁勋此前因涉及个人行为的指控而辞去职务，这些指控与国家安全担忧有关。英伟达作为人工智能硬件的关键供应商，受到美国政府的高度监管，因此其首席执行官的领导地位被视为国家利益的一部分。
+**背景**: WoW64（Windows 32 位运行于 Windows 64 位）是一个转换和重定向层，允许 32 位应用与 64 位内核共存。它使用包括 Wow64.dll 在内的一组 DLL 拦截内核调用，为旧软件创建虚拟环境。Windows Server 最后一个原生 32 位版本发布于 2008 年，这意味着 32 位支持在过去 15 多年来一直依赖此兼容层。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">NVIDIA Board Reinstates Jensen Huang as President, CEO and ...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%</a></li>
-<li><a href="https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo">Hours before Huang’s reinstatement, Trump called Nvidia ’s board to...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WoW64">WoW64 - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows/win32/winprog64/wow64-implementation-details">WOW64 Implementation Details - Win32 apps | Microsoft Learn WOW64 and cross-architecture compatibility | Windows Internals Windows on Windows - Wikipedia Running 32-bit Applications - Win32 apps | Microsoft Learn WOW64 and cross-architecture compatibility: Windows internals ... WoW64: Running 32-bit Processes on 64-bit Windows</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Windows_on_Windows">Windows on Windows - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NVIDIA`, `#Leadership`, `#Tech Industry`, `#CEO`, `#AI Hardware`
+**标签**: `#Windows Server`, `#System Administration`, `#Security`, `#Bioengineering`, `#Pharmacology`
 
 ---
 
 <a id="item-3"></a>
-## [美国出口管制加速全球主权 AI 算力建设](https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/) ⭐️ 9.0/10
+## [Ternary Bonsai 2.5 27B 将自主编程能力带入消费级 Mac](https://prismml.com/news/bonsai-2-5-27b) ⭐️ 8.0/10
 
-EE Times 的一篇分析文章指出，美国对海外 AI 基础设施的限制正以自相矛盾的方式加速了其他国家的本土化算力建设。这种由他国主导的推进可能会最终削弱美国在人工智能领域的科技主导地位。 这一转变凸显了依赖出口管制来维持技术领先地位的 geopolitical 风险。如果外国成功建立其自给自足的 AI 基础设施，美国可能会失去在全球算力市场中的结构性优势。 硬件市场正在呈现多元化趋势，大型主权 AI 集群为配备昂贵 HBM 的加速器提供了经济合理性，而区域部署则需要在模型准确性、功耗和每 token 成本之间取得平衡。
+PrismML 发布了 Ternary Bonsai 2.5 27B，这是一款三值量化的 LLM，能够在 Mac M5 Pro 等消费级硬件上执行自主编程任务。它以每秒 22-25 个词元的速度运行，并支持高达 128k 的内存上下文。 此次发布通过允许在主流笔记本电脑上无需昂贵的 GPU 集群即可运行复杂的自主任务，大幅降低了本地 AI 编程助手的硬件门槛。这标志着行业正转向更注重实际效用而非单纯追求基准测试性能的高可访问性低比特 AI 模型。 三值量化将模型权重限制为三个值（-1、0、+1），从而实现了 1.58 比特的精度，大幅降低了内存使用量。尽管该模型在 SWE-bench 上取得了与前沿模型相当的成绩，但其实际表现取决于上下文限制和预填充速度，而不仅仅是生成速度。
 
-rss · EE Times · 11月23日 16:08
+hackernews · b0m · 11月24日 20:08 · [社区讨论](https://news.ycombinator.com/item?id=50633922)
 
-**背景**: 主权 AI（Sovereign AI）被定义为一个组织或国家对其 AI 系统的底层技术基础、设计、部署及治理拥有自由选择与控制的能力。为了对抗竞争对手，尤其是中国，并限制外国获取顶级算力资源，美国政府实施了针对先进 AI 芯片和模型的严格出口管制。
+**背景**: 标准 LLM 通常使用 16 位浮点权重，这使得它们内存占用大且难以在消费级硬件上运行。三值 LLM（1.58 位）代表了一种极限量化形式，可将模型大小压缩以适应严格的内存预算。自主编程是指 AI 系统能够独立执行编写代码、运行测试和修复错误等多步骤任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cfotech.ca/story/many-leaders-struggle-to-define-sovereign-ai-study-finds">Many leaders struggle to define sovereign AI , study finds</a></li>
-<li><a href="https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/">The Sovereign AI Paradox: Who Controls the Compute? - EE Times</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lTcF9pRkRSRktYb2RoaTJzRS1DZ0FQAQ?hl=en-US&gl=US&ceid=US:en">See the latest updates, context, and perspectives about this story.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1.58-bit_large_language_model">1.58-bit large language model - Wikipedia</a></li>
+<li><a href="https://prismml.com/">PrismML — Concentrating intelligence</a></li>
+<li><a href="https://arxiv.org/abs/2406.07177">[2406.07177] TernaryLLM: Ternarized Large Language Model</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Sovereign AI`, `#Geopolitics`, `#AI Infrastructure`, `#Export Controls`, `#Technology Policy`
+**社区讨论**: 社区用户对 128k 的上下文窗口和预填充速度印象深刻，确认其在自主编程方面的实用性。然而，关于 SWE-bench 成绩在小模型中的有效性存在争议，且需要与其他流行的 1B-10B 量化模型进行直接的硬件对比。部分用户还询问了除 FPGA 之外的特定硬件加速方法。
+
+**标签**: `#LLM`, `#LocalAI`, `#Quantization`, `#AgenticCoding`, `#PrismML`
 
 ---
 
 <a id="item-4"></a>
-## [软银 1 万亿美元收购 SK 海力士的假设性案例分析](https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt/) ⭐️ 9.0/10
+## [GreyNoise 报告针对 Check Point 安全服务器的主动入侵活动](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) ⭐️ 8.0/10
 
-EE Times 的一篇分析文章探讨了为什么传闻中软银 1 万亿美元收购 SK Hynix 的交易在战略上是不可能的。文章解释了该交易不可行的原因，并强调了内存技术在 AI 基础设施中的关键作用。 该分析为 AI 内存市场提供了战略洞察，澄清了为何此类巨额并购活动不符合当前的行业动态。它帮助投资者和工程师理解高带宽内存 (HBM) 在 AI 建设过程中的战略价值。 SK Hynix 的实际市值约为 6226.5 亿美元，这使得 1 万亿美元的估值存在巨大的溢价。高带宽内存 (HBM) 技术是驱动 AI 革命中加速计算和 GPU 发展的核心力量。
+GreyNoise 发现了一起针对多家机构 Check Point 安全管理服务器的主动入侵活动。该攻击涉及利用漏洞逆向工程弱伪随机数生成器，从而伪造管理员会话 Cookie。 攻破 Check Point 等大型企业安全供应商的防护工具，可让攻击者跳板进入敏感网络环境。这显著降低了攻击者访问关键基础设施和客户数据的门槛。 尽管摘要详述了 Check Point 的入侵情况，但网络搜索结果将与该 PRNG 状态重构和会话伪造技术关联到 Rejetto HFS 的严重漏洞（CVE-2026-61500）。攻击者 IP 基础设施涵盖 99 个地址，且据报道该行动受到 LLM 辅助。
 
-rss · EE Times · 11月23日 08:30
+hackernews · louiereederson · 11月24日 16:32 · [社区讨论](https://news.ycombinator.com/item?id=50630594)
 
-**背景**: SK Hynix 是一家领先的半导体公司，专攻动态随机存取内存 (DRAM) 和闪存技术，特别是高带宽内存 (HBM)。HBM 是 AI 数据中心的关键技术，因为它使 GPU 能够比传统内存更快地访问数据。软银是一家日本综合性企业集团，以其全球风险投资基金（愿景基金）而闻名。
+**背景**: 安全管理服务器是高度敏感的靶标，因为它们通常持有管理整个网络环境的密钥。PRNG 是模拟随机数序列的计算机算法，其内部状态有时可通过观察输出进行预测。伪造会话 Cookie 允许攻击者在无需发现或利用实际身份验证漏洞的情况下冒充合法用户。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://companiesmarketcap.com/sk-hynix/marketcap/">SK Hynix (000660.KS) - Market capitalization</a></li>
-<li><a href="https://ieeexplore.ieee.org/document/11074880">High Bandwidth Memory for AI | IEEE Conference Publication ...</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/">Hackers compromise Check Point Servers in 22 organizations</a></li>
+<li><a href="https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html">Attackers Target Rejetto HFS Flaw That Enables Admin Session ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Semiconductors`, `#AI Infrastructure`, `#Corporate Strategy`, `#Memory Technology`, `#Tech M&A`
+**社区讨论**: 评论者表达了对 AI 驱动的网络犯罪团伙日益增大的威胁的担忧。此外，还存在关于攻击者如何最初绕过安全防护的技术争论，以及对 JavaScript 的 Math.random() 在安全关键的会话管理中仍不安全的挫败感。
+
+**标签**: `#cybersecurity`, `#check-point`, `#intrusion-campaign`, `#prng`, `#session-cookie-forgery`
 
 ---
 
 <a id="item-5"></a>
-## [Ladybird 浏览器引擎正式进入 Alpha 阶段](https://ladybird.org/posts/alpha/) ⭐️ 8.0/10
+## [Hacker News 热议 AI 编码代理实现 2035 技术](https://fzakaria.com/2026/11/23/2035-came-early) ⭐️ 8.0/10
 
-由零构建的全新网页浏览器引擎 Ladybird 项目已正式进入 Alpha 阶段。此次发布提供了 Linux 和 macOS 测试版，标志着该项目在历时四年开发后取得的重大进展。 一个完全独立的代码库能够成功渲染复杂网站，这对网页生态系统是一项极具分量的进展。它为现有引擎提供了强有力的替代方案，促进了技术创新，并防止了浏览器渲染技术的市场垄断。 该引擎外围的浏览器被描述为功能有限但可用，存在一些局限，如偶尔崩溃和轻微页面滚动卡顿。该项目值得称赞的一点是，为了提升性能，它已显著转向使用 SQLite 和 Skia 等生产级库。
+F. Zakaria 分析的高参与度 Hacker News 讨论证实，AI 编码代理已使独立开发者能够构建操作系统内核等复杂系统，从而将原本预计在 2035 年才能实现的能力提前落地。社区通过个人利用 LLM 编排成功创建以往无法达成的软件里程碑的案例，验证了这种转变。 这标志着软件工程领域的重要范式转变，LLM 编排消除了团队规模的历史壁垒，使个人能够执行高复杂度项目。这通过迫使重新评估技术职业轨迹和传统软件开发方法，对整个行业产生了深远影响。 构建复杂系统的能力现在严重依赖 LLM 编排——即协调多个 AI 模型——而非纯粹的手工编码，这在社区成员为期两个月、耗时 100 小时创建裸机操作系统的项目中可见一斑。虽然一些开发者急于发布他们通过代理构建的工作，但这种方法对于基于 Web 的语言的根本实用性和局限性并非没有怀疑。
 
-hackernews · janvdberg · 11月23日 16:13 · [社区讨论](https://news.ycombinator.com/item?id=50614249)
+hackernews · setheron · 11月24日 06:30 · [社区讨论](https://news.ycombinator.com/item?id=50624497)
 
-**背景**: 网页浏览器引擎是解析网页并在屏幕上显示这些网页的底层软件。大多数浏览器都是少数几个主导引擎（如 Blink 或 WebKit）的分支，而 Ladybird 是一个由非营利组织支持的、罕见的完全独立研发项目。这种独立性使其成为确保长期网页兼容性和安全多样性的宝贵工具。
+**背景**: “2035”一词指的是由 Ray Kurzweil 普及的技术奇点概念，预测了一个机器智能达到或超越人类认知极限的未来。目前，软件开发仍主要依靠人类工程师手动编写代码。LLM 编排是管理和协调大语言模型（LLM）以充当自主代理的技术过程，这些代理能够规划并执行复杂的多步骤编码任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Ladybird_(web_browser)">Ladybird (web browser ) - Wikipedia</a></li>
-<li><a href="https://www.omgubuntu.co.uk/2026/11/ladybird-browser-enters-alpha">Ladybird browser reaches alpha after four years of... - OMG! Ubuntu</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Technological_singularity">Technological singularity - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/llm-orchestration">What is LLM orchestration? - IBM</a></li>
+<li><a href="https://theaiagentindex.com/resources/guides/ai-coding-agents-vs-traditional-ides">AI Coding Agents vs Traditional IDEs: When to Use Each (2026)</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 开发者们对复杂网站能够正确渲染印象深刻，但也有部分人指出了滚动卡顿等轻微问题，以及缺乏以隐私为中心的功能。此外，还有一种观点认为，用成熟的库替换最初自研的库，似乎稍微失去了原本极客精神的特质。
+**社区讨论**: 讨论中展现了兴奋与怀疑的交织，开发者们分享了通过提示 AI 而非手写代码来构建操作系统内核等复杂软件的个人经历。虽然有些人高度赞扬开创这些方法的“软件英雄”，但其他人仍持保留态度，将其与早期 Mozilla 宣称 JavaScript 将取代原生操作系统的观点相提并论。对于必须适应这种新的、代理驱动的开发环境的工程师而言，还存在显著的情感色彩。
 
-**标签**: `#web-development`, `#browser-engine`, `#open-source`, `#cpp`, `#frontend`
+**标签**: `#AI Coding Agents`, `#Hacker News`, `#Software Engineering`, `#LLM Orchestration`, `#Operating Systems`
 
 ---
 
 <a id="item-6"></a>
-## [独立网页浏览器引擎 Ladybird 进入 Alpha 测试阶段](https://www.techpowerup.com/355140/independent-web-browser-engine-ladybird-goes-into-alpha-release) ⭐️ 7.5/10
+## [Cloudflare hides shortcomings of the underlying infrastructure](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/) ⭐️ 8.0/10
 
-Ladybird 是极少数不基于 Chromium、Gecko 或 WebKit 而从零构建的网页浏览器引擎之一，目前正式进入了 Alpha 测试阶段。这一里程碑经过了四年的开发，允许用户测试这款轻量级且注重隐私的浏览器。 此次发布通过提供一个专注于隐私和用户控制权的真正替代方案，极大地挑战了主要浏览器引擎的主导地位。它有助于确保网页浏览器仍然是用户拥有的工具，而非数据收集机制，支持了去中心化且自由的互联网生态系统这一更广泛的目标。 目前，Ladybird 仅在 macOS 和 Linux 上可用，未来预计支持 Windows 原生构建，尽管目前支持 WSL。该引擎主要使用 C++ 构建，并采用 BSD 2-Clause 许可证，表明其对开源原则和宽松分发的坚定承诺。
+A technical analysis exposing the hidden infrastructure shortcomings and configuration complexities of Cloudflare's CDN service, supplemented by a high-quality community debate on security and reliability trade-offs.
 
-rss · TechPowerUp News · 11月23日 21:53
+hackernews · fishcharlie · 11月24日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=50632883)
 
-**背景**: 像 Chrome、Edge 和 Brave 这样的现代网页浏览器通常运行在 Chromium 引擎上，而 Firefox 使用 Gecko，Safari 使用 WebKit，导致市场由少数几个底层代码库主导。Ladybird 最初于 2022 年由其创始人从 SerenityOS 操作系统项目中拆分出来，现由专门的非营利组织支持。与许多通过广告或数据收集变现的现代浏览器不同，Ladybird 是作为一款从零构建的、轻量且符合标准的浏览器设计的。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ladybird_(web_browser)">Ladybird (web browser) - Wikipedia</a></li>
-<li><a href="https://ladybird.org/">Ladybird is a truly independent web browser, backed by a non-profit.</a></li>
-<li><a href="https://daily.dev/blog/what-is-ladybird-everything-we-know-about-the-new-browser-and-web-engine/">What is Ladybird ? Everything we know about the new... | daily.dev</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Web Browser`, `#Ladybird`, `#Independent Software`, `#Web Standards`, `#Open Source`
+**标签**: `#Cloudflare`, `#Network Security`, `#CDN`, `#DevOps`, `#TLS`
 
 ---
 
 <a id="item-7"></a>
-## [Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links](https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027) ⭐️ 7.5/10
+## [Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips](https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/) ⭐️ 8.0/10
 
-Penguin Solutions demonstrates an external memory box featuring up to 576 GB of HBM3E connected via optical links to expand AI accelerator capacity.
+Moores Lab AI launches a benchmark initiative focused on evaluating the ability of AI systems to verify the correctness of chip designs, shifting the focus from code generation speed to functional accuracy.
 
-rss · Tom's Hardware · 11月23日 18:00
+rss · SemiWiki · 11月24日 18:00
 
-**标签**: `#AI Hardware`, `#Photonic Interconnects`, `#HBM Memory`, `#Optical Computing`, `#AI Accelerators`
+**标签**: `#AI`, `#Semiconductors`, `#EDA`, `#Verification`, `#Hardware`
 
 ---
 
 <a id="item-8"></a>
-## [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) ⭐️ 7.0/10
+## [西门子收购 Breker 对下一代 AI 芯片的重要性](https://semiwiki.com/eda/376542-why-siemens-breker-deal-matters-for-the-next-generation-of-ai-chips/) ⭐️ 8.0/10
 
-Stalwart introduces itself as a drop-in replacement for Microsoft Exchange, sparking debate on client compatibility and regulatory constraints.
+西门子收购 Breker 旨在解决系统级集成和电源状态 bug，这些问题会导致下一代 AI 芯片即使在单个组件通过标准测试的情况下也无法可靠运行。
 
-hackernews · shaunpud · 11月23日 22:32 · [社区讨论](https://news.ycombinator.com/item?id=50620349)
+rss · SemiWiki · 11月24日 16:00
 
-**标签**: `#Email`, `#Self-Hosted`, `#OpenSource`, `#Microsoft Exchange`, `#Infrastructure`
+**标签**: `#Semiconductors`, `#AI Hardware`, `#Chip Verification`, `#Siemens`, `#EDA`
 
 ---
 
 <a id="item-9"></a>
-## [GPUI is getting its own repository](https://github.com/zed-industries/gpui) ⭐️ 7.0/10
+## [JEDEC 发布 JESD209-6：LPDDR6 标准更新以支持 AI 与移动设备](https://www.electronicsweekly.com/news/products/memory/jedec-updates-lpddr6-to-address-mobile-and-ai-memory-performance-2026-11/) ⭐️ 8.0/10
 
-GPUI, the UI framework for the Zed editor, is moving to its own standalone repository to facilitate broader usage and independent development.
+固态技术协会 JEDEC 发布了 JESD209-6 标准，这是低功耗双倍数据速率 6（LPDDR6）规范的最新修订版。此次更新专门旨在解决并提升移动设备和 AI 工作负载的内存性能。 该标准定义了下一代内存性能指标，对于设计移动和边缘 AI 硬件的工程师和架构师至关重要。它使未来设备能够在保持电池供电平台所需的能效的同时，处理高强度的 AI 任务。 新标准编号为 JESD209-6，代表 LPDDR6 规范的重大更新。内容未提供具体的带宽或延迟改进数值，但强调了对 AI 特定性能指标的关注。
 
-hackernews · EvilGoose · 11月23日 20:52 · [社区讨论](https://news.ycombinator.com/item?id=50619103)
+rss · Electronics Weekly · 11月24日 15:56
 
-**标签**: `#Rust`, `#UI-Frameworks`, `#Zed-Editor`, `#Open-Source`
+**背景**: JEDEC 是制定各种内存（包括 DRAM 和 NAND）规格的全球标准化组织。LPDDR（低功耗 DDR）是一类旨在降低移动和便携式电子产品功耗的内存。随着 AI 工作负载向移动设备迁移，需要新的内存标准以支持更高的数据吞吐量，同时避免过高的功耗。
+
+**标签**: `#LPDDR6`, `#JEDEC`, `#Memory Standards`, `#AI Hardware`, `#Mobile Technology`
 
 ---
 
 <a id="item-10"></a>
-## [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/) ⭐️ 7.0/10
+## [OpenAI 员工被发现在会议室内安装窃听器](https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-eavesdropper-who-bugged-company-office-had-hundreds-of-private-recordings-was-in-frequent-communication-with-saudi-government-perp-had-dozens-of-recordings-of-discussions-of-trade-secrets) ⭐️ 7.5/10
 
-A popular community-maintained mirror of ARM architecture documentation is being shut down in December 2026 at the request of Arm, leading to significant community backlash and immediate archival efforts.
+检察官在 OpenAI 的一间会议室内发现了一个由沙特籍员工安装的秘密窃听器。该设备录下了数百次包含公司商业机密的私人对话，并将这些内容共享给沙特政府。 此事件代表了一次严重的外国政府赞助的间谍活动泄露，使关键的 AI 知识产权面临风险。这凸显了高价值科技公司在面对外国实体针对性企业间谍活动时日益增大的脆弱性。 该员工在拥有数十份敏感讨论录音的同时，还与沙特政府保持着频繁的沟通。该秘密设备被专门放置在会议室内，以监控公司内部通讯。
 
-hackernews · tech234a · 11月23日 19:17 · [社区讨论](https://news.ycombinator.com/item?id=50617499)
+rss · Tom's Hardware · 11月24日 16:30
 
-**标签**: `#arm-architecture`, `#legal`, `#developer-tools`, `#documentation`
+**背景**: 在竞争激烈的 AI 行业中，企业间谍活动是一个主要问题，因为竞争对手试图窃取专有的算法和战略规划。虽然大多数企业安全重点在于数字防火墙，但对办公空间和会议室的物理访问仍然是敏感信息的关键漏洞。OpenAI 作为领先的人工智能开发者，是寻求提升自身国家 AI 能力的政府行为者的主要目标。
+
+**标签**: `#AI Security`, `#Espionage`, `#OpenAI`, `#Data Breach`
 
 ---
 
 <a id="item-11"></a>
-## [Acorn Technologies 展示 FDSOI 和 RF-SOI 中埋置应力层的优势](https://www.electronicsweekly.com/news/business/research-boost-for-fdsoi-and-rf-soi-2026-11/) ⭐️ 7.0/10
+## [Songe：开源本地 LLM 做梦与微调引擎](https://github.com/sous-labs/songe) ⭐️ 7.0/10
 
-Acorn Technologies 与 UCLouvain 的研究人员展示了其埋置应力层技术在 FDSOI 和 RF-SOI 半导体应用中的性能潜力。 这些进展意义重大，因为表明埋置应力层技术能够提升器件性能，使基于 SOI 的架构在高功耗和对射频敏感的应用中更具竞争力。 研究特别评估和量化了 Acorn 的埋置应力层 [ABS] 在射频半导体制造中的性能表现。
+Sous Labs 发布了名为 Songe 的开源工具，该工具利用机器的空闲周期对本地大语言模型进行迭代训练。它通过“做梦”过程重放经过用户修正的交互来改进模型表现。 通过利用现有硬件，该项目为个人开发者持续改进模型降低了门槛，无需依赖专门的数据中心。这与端侧 AI 和资源可持续利用的行业趋势相契合。 在训练之前，Songe 会测量设备可用的学习容量，以确保模型能够装入内存。该系统仅在新模型版本成功通过验证检查时才会应用更新。
 
-rss · Electronics Weekly · 11月24日 06:12
+hackernews · bluepeter · 11月24日 15:03 · [社区讨论](https://news.ycombinator.com/item?id=50629231)
 
-**背景**: FDSOI 和 RF-SOI 是先进的半导体技术，使用绝缘衬底上薄薄一层硅，与体硅相比，能降低功耗并提升性能。埋置应力层技术是指放置在有源器件区域下方的弹性层，旨在对硅通道施加应力，从而改变载流子迁移率以提高器件速度或效率。该研究项目由 Jean-Pierre Raskin 教授领导，由 Acorn Technologies 资助。
+**背景**: 本地大语言模型通常运行在资源有限的消费级硬件上，使得在没有高性能 GPU 的情况下进行传统微调变得困难。人工智能研究中诸如“睡眠”或“做梦”阶段的概念提出，模型可以在非活动期间巩固新数据并纠正错误，这类似于生物大脑处理记忆的方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.everythingrf.com/community/what-is-rf-soi">What is RF SOI? - everything RF Silicon on insulator - Wikipedia RF-SOI substrates - Soitec The Ultimate Guide to RF-SOI - AnySilicon SOI Wafers Explained: Pros, Cons, and Applications RF-SOI technology | GlobalFoundries Silicon-on-Insulator (SOI) Wafers | Bonded, SIMOX & RF SOI</a></li>
-<li><a href="https://www.soitec.com/home/products/product-platforms/rf-soi">RF-SOI substrates - Soitec</a></li>
-<li><a href="https://www.eenewseurope.com/en/acorn-to-sponsor-silicon-on-insulator-buried-stressor-research/">Acorn to sponsor silicon-on-insulator buried stressor research ..</a></li>
+<li><a href="https://github.com/sous-labs/songe">GitHub - sous-labs/ songe : A training engine for your local model...</a></li>
+<li><a href="https://souslabs.ai/songe">About Songe · Sous Labs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Semiconductor`, `#FDSOI`, `#RF-SOI`, `#Research`, `#Hardware`
+**社区讨论**: 社区对其实用性表现出浓厚兴趣，用户询问每个 Epoch 的具体量化改进以及低端机器的硬件要求。关于创建类似 SETI@home 的分布式计算网络以利用集体闲置资源的讨论也引起了广泛关注。
+
+**标签**: `#local-llm`, `#fine-tuning`, `#open-source`, `#distributed-computing`, `#python`
 
 ---
 
 <a id="item-12"></a>
-## [GTA VI 发售首周末售出 4500 万份，营收超 40 亿美元](https://www.techpowerup.com/355144/gta-vi-launch-weekend-sees-nearly-45-million-copies-sold) ⭐️ 6.5/10
+## [Quad9 因强制屏蔽令撤出法国 DNS 服务](https://quad9.net/news/blog/quad9-service-deactivation-in-france/) ⭐️ 7.0/10
 
-《侠盗猎车手 6》（Grand Theft Auto VI）在发售首周末售出约 4490 万份，毛收入超过 40 亿美元。该作的发布还打破了娱乐行业的多项记录，11 月 22 日的日活跃用户数达到 4080 万。 这一里程碑使《GTA VI》成为历史上销售最快的娱乐产品之一，对 Rockstar Games 及其母公司 Take-Two Interactive 的业务前景产生了重大影响。巨量的销售额也凸显了高级 AAA 级游戏在全球娱乐市场中的主导地位。 根据 Alinea Analytics 的估算，在 4490 万份的销量中，75.1%为 PlayStation 5 平台，24.9%为 Xbox 平台。这些数字大约代表了各自平台安装基础的 30%。
+非营利 DNS 服务商 Quad9 于 2026 年 11 月 24 日关闭了其在法国的公共解析服务，以拒绝执行屏蔽特定域名的法律命令。 该事件突显了法律审查指令与公共 DNS 基础设施完整性之间的冲突，为欧盟的数字主权与用户隐私敲响了警钟。 用户可以通过 DiG 验证该服务拒绝，其返回“REFUSED”状态，并包含一个表明因法国法律限制导致服务禁止的扩展 DNS 错误（EDE）代码。
 
-rss · TechPowerUp News · 11月23日 23:14
+hackernews · farrokhi · 11月24日 08:33 · [社区讨论](https://news.ycombinator.com/item?id=50625384)
 
-**背景**: 《侠盗猎车手》（GTA）是由 Rockstar Games 开发的广为人知的开放世界电子游戏系列，以其巨大的销量和文化影响力著称。游戏行业经常跟踪“安装基础渗透率”（install base penetration），即特定主机活跃用户基数中购买新游戏的百分比，这是衡量游戏市场覆盖率的重要指标。
+**背景**: Quad9 是一家全球性的非营利 DNS 解析服务商，为个人、企业和政府提供免费的可靠 DNS 服务。此次撤出的法律命令由法国法院发布，旨在打击未授权体育转播和盗版行为。
 
-**标签**: `#Gaming`, `#Sales Data`, `#GTA VI`, `#Entertainment`, `#Business`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">Quad9’s withdrawal from France: A canary in the coal mine</a></li>
+<li><a href="https://cyberinsider.com/quad9-to-leave-france/">Quad9 to leave France after court orders piracy-related DNS ...</a></li>
+<li><a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区立即开始共享开源 DNS 代理配置，通过缓存和转发请求来绕过本地封锁，支持 DoH、DoT 及 IPv4/IPv6。此外，用户分享了 DiG 技术输出以确认拒绝代码，并指出该限制还影响了部分德国服务器。
+
+**标签**: `#DNS`, `#Privacy`, `#Infrastructure`, `#Legal`, `#Networking`
 
 ---
 
 <a id="item-13"></a>
-## [英伟达董事会一致投票恢复黄仁勋 CEO 职位](https://www.techpowerup.com/355111/jensen-huang-reinstated-as-ceo-of-nvidia) ⭐️ 6.5/10
+## [Acorn 与 UCLouvain 推进 FDSOI 和 RF-SOI 埋入式应力源技术](https://www.electronicsweekly.com/news/business/research-boost-for-fdsoi-and-rf-soi-2026-11/) ⭐️ 7.0/10
 
-英伟达董事会已一致投票恢复黄仁勋的首席执行官和总裁职务。这一决定结束了他在经历一系列讨论和会议后的临时领导时期。 这一举措在人工智能和高性能计算领域的关键时刻恢复了英伟达领导层的稳定性。它表明董事会对黄仁勋领导公司的能力充满信心。 董事会保留了哈维·琼斯担任董事会主席的职位。同时，科莱特·克雷丝在继续担任首席财务官的同时，因其作为临时 CEO 期间的出色服务获得赞誉。
+Acorn Technologies 和 UCLouvain 的研究人员展示了 FDSOI 和 RF-SOI 半导体平台埋入式应力源技术的进展。此次合作成功将该特定技术应用于硅基绝缘体（SOI）工艺以提升其性能。 在这些平台上推进埋入式应力源技术，能够实现复杂器件的集成，并提高性能、降低功耗。这在射频前端集成领域尤为重要，RF-SOI 在消费电子和电信领域有广泛应用。 该研究涉及总部位于圣地亚哥附近 La Jolla 的半导体 IP 公司 Acorn Technologies 以及 UCLouvain 大学的 Jean-Pierre Raskin 教授。所开发的特定技术被称为 Acorn Buried Stressor。
 
-rss · TechPowerUp News · 11月23日 14:17
+rss · Electronics Weekly · 11月24日 06:12
 
-**背景**: 黄仁勋是英伟达的长期领导者和联合创始人，该公司是全球人工智能和高性能计算芯片的领导者。“临时领导时期”意味着他此前曾一度从 CEO 职位上退任，由科莱特·克雷丝在空缺期间担任代理 CEO。
+**背景**: FDSOI（全耗尽绝缘体硅）和 RF-SOI（射频绝缘体硅）是先进的半导体制造技术，其薄硅层位于绝缘层之上，区别于标准体硅 CMOS。埋入式应力源技术涉及对地下层进行工程化以管理应力，从而优化器件特性并实现专业组件的更好集成。
 
-**标签**: `#NVIDIA`, `#Jensen Huang`, `#Corporate Governance`, `#Executive Leadership`, `#Tech Industry News`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://gf.com/technologies/cmos/fdx-fd-soi/">FDX™ FD-SOI technology | GlobalFoundries</a></li>
+<li><a href="https://www.everythingrf.com/community/what-is-rf-soi">What is RF SOI? - everything RF RF-SOI technology | GlobalFoundries RF-SOI - STMicroelectronics The Ultimate Guide to RF-SOI - AnySilicon SOI in Integrated Circuits — CMOS, RF, MEMS & Photonics SOI Wafers Explained: Pros, Cons, and Applications</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Semiconductor`, `#FDSOI`, `#RF-SOI`, `#Research`, `#IP`
 
 ---
 
 <a id="item-14"></a>
-## [MacBook modder turns Apple’s Force Touch trackpad into a speaker using haptic engine](https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music) ⭐️ 6.5/10
+## [美国司法部在全球反诈骗行动中没收 170 亿美元及 1.4 万台设备](https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers) ⭐️ 6.5/10
 
-A modder created a tool to use a MacBook's Force Touch trackpad haptic engine as a speaker, allowing it to produce speech tones and music through vibrations.
+美国司法部宣布，其史上最大规模的反诈骗行动已扣押 14,000 台设备和 170 亿美元的非法资金，共起诉 800 余名被告，并解救 2,200 名被强迫劳工。此次行动已挽回 80 亿美元的预计受害者损失。 此次行动展示了美国政府加强打击跨国有金融诈骗的坚定决心，以应对困扰全球数字经济的欺诈问题。被没收资产的巨大规模凸显了网络欺诈对国际受害者和金融体系构成的严重威胁。 此次打击行动的显著成果包括挽回了 80 亿美元的预计受害者损失，并解救 2,200 名可能受非法网络剥削的强迫劳工。
 
-rss · Tom's Hardware · 11月23日 13:00
+rss · Tom's Hardware · 11月24日 22:30
 
-**标签**: `#Hardware Modding`, `#MacBook`, `#Haptics`, `#Audio`
+**背景**: 全球网络诈骗活动的激增已成为重大关切，这类活动往往涉及跨越多国司法管辖区的复杂金融犯罪和人口贩运网络。美国司法部通过协调此类行动，以破坏这些跨境犯罪活动并追回被盗资产，从而减轻对全球受害者的伤害。
+
+**标签**: `#Cybersecurity`, `#Law-Enforcement`, `#Anti-Fraud`, `#Policy`
 
 ---
 
 <a id="item-15"></a>
-## [天文学家首次观察到恒星吞噬伴星并爆炸的过程](https://www.solidot.org/story?sid=85966) ⭐️ 6.3/10
+## [Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims](https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety) ⭐️ 6.5/10
 
-Astronomers used the Webb Telescope to observe a star engulfing a companion star in Andromeda, while Google patented a technology for AI-generated personalized TV channels, and SerenityOS founder started a new browser project.
+Reports suggest that employees at OpenAI and Anthropic are concerned that unreleased frontier models are too powerful and pose significant risks if released without adequate safety controls, with executives prioritizing profit.
 
-rss · Solidot · 11月23日 10:10
+rss · Tom's Hardware · 11月24日 21:00
 
-**标签**: `#Astronomy`, `#AI`, `#Patents`, `#Technology Trends`, `#Software`
+**标签**: `#AI Safety`, `#OpenAI`, `#Anthropic`, `#Tech Industry`, `#Model Risks`
 
 ---
 
 <a id="item-16"></a>
-## [Optocoupler for automotive SSR applications](https://www.electronicsweekly.com/news/business/optocoupler-for-automotive-ssr-applications-2026-11/) ⭐️ 6.0/10
+## [Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees](https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls) ⭐️ 6.5/10
 
-Toshiba introduces the TLX9909 photovoltaic-output photocoupler, designed to optimize turn-off times for high-voltage MOSFETs in automotive solid-state relay applications.
+Nvidia CEO Jensen Huang is scheduled to testify before US congressional committees on December 1 and 3 regarding national security concerns and export control enforcement in China.
 
-rss · Electronics Weekly · 11月24日 06:03
+rss · Tom's Hardware · 11月24日 16:00
 
-**标签**: `#Automotive Electronics`, `#Solid-State Relays`, `#Power Electronics`, `#Components`, `#Toshiba`
+**标签**: `#Nvidia`, `#Geopolitics`, `#Export Controls`, `#AI Industry`, `#Semiconductors`
 
 ---
 
 <a id="item-17"></a>
-## [HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network](https://www.techpowerup.com/355134/hwinfo-can-now-serve-sensor-readings-to-phones-and-tablets-over-your-network) ⭐️ 5.5/10
+## [Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim](https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide) ⭐️ 6.5/10
 
-HWiNFO v8.61 Beta introduces a local REST API server that allows users to view hardware sensor readings via JSON over HTTP/HTTPS on any network-connected device.
+Reports indicate that President Donald Trump allegedly intervened in Nvidia's corporate governance by pressuring the board to reinstate Jensen Huang to stabilize the company's falling stock prices.
 
-rss · TechPowerUp News · 11月23日 20:48
+rss · Tom's Hardware · 11月24日 13:45
 
-**标签**: `#hardware-monitoring`, `#rest-api`, `#hwinfio`, `#system-tools`
+**标签**: `#Nvidia`, `#Jensen Huang`, `#US Politics`, `#Market Regulation`, `#Tech Industry`
 
 ---
 
 <a id="item-18"></a>
-## [三星发布全球首款 1,100Hz 电竞显示器](https://www.techpowerup.com/355109/samsung-launches-the-odyssey-g6-the-worlds-first-1-100hz-gaming-monitor) ⭐️ 5.5/10
+## [车网互动技术面临重大实际与技术障碍](https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2/) ⭐️ 6.0/10
 
-三星推出了 27 英寸的 Odyssey G6，这是全球首款在 HD 分辨率下支持 1,100 Hz 刷新率的电竞显示器。
-它还具备双模式功能，允许用户在极速模式与最高 600 Hz 的 QHD 模式之间进行切换。 该显示器为需要极低输入延迟和极致流畅度的电竞选手重新定义了刷新率技术边界。
-这表明高端电竞外设正在向追求极端速度而非 4K 高分辨率的方向发展，以满足细分的竞技需求。 该显示器采用 IPS 面板，拥有 1 毫秒的灰阶到灰阶（GtG）响应时间，可最大程度减少运动模糊。
-它将于 12 月起在美国上市，售价为 899.99 美元。
+本文探讨了阻碍车网互动系统普及的技术和实际挑战。文中强调了关于电池老化、电网基础设施、充电接入和用户便利性的担忧。 解决这些关键障碍对于智能电网整合和可再生能源管理的未来至关重要。该分析对评估双向充电技术商业可行性的汽车制造商和能源提供商具有重要意义。 分析特别指出，电池健康度衰减和缺乏健壮的电网基础设施是主要的技术瓶颈。此外，所需设备涉及的经济成本以及电动汽车驾驶员面临的实际不便也是采用过程中的主要障碍。
 
-rss · TechPowerUp News · 11月23日 13:49
+rss · EE Times · 11月24日 11:53
 
-**背景**: 显示器的刷新率以赫兹（Hz）衡量，表示其每秒可以显示的画面帧数。
-尽管 4K 显示器在单机游戏中很受欢迎，但竞技类电竞赛事通常在 1080p HD 分辨率下运行，此时高刷新率至关重要。
-GtG（灰阶到灰阶）指标衡量像素改变颜色的速度，直接影响拖影和运动模糊现象。
+**背景**: 车网互动（V2G）技术允许电动汽车将多余电力回馈到电网，从而作为移动储能设备发挥作用。虽然它可以帮助稳定电网并整合可再生能源，但目前需要专用的双向充电基础设施，而这在当下非常罕见。
 
-**标签**: `#Hardware`, `#Gaming`, `#Monitors`, `#Samsung`, `#Consumer Electronics`
+**标签**: `#Vehicle-to-Grid`, `#Energy Systems`, `#Battery Technology`, `#Smart Grid`, `#Automotive Electronics`
 
 ---
 
 <a id="item-19"></a>
-## [英特尔 Bartlett Lake-S 处理器可在 MSI Z690/Z790 主板上启动](https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards) ⭐️ 5.5/10
+## [车辆向电网输电：绝佳创意还是不切实际的幻想？](https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream/) ⭐️ 6.0/10
 
-据报道，英特尔的“Bartlett Lake-S”处理器能够在部分 MSI Z690 和 Z790 主板上原生启动，且无需修改 BIOS。用户测试证实，Core 9 273PE 工程样品仅使用最新官方 BIOS 版本即可在 MSI MEG Z690I 主板上成功运行。 这种向后兼容性使发烧友能够在现有的消费级平台上使用高性能的纯 P 核处理器，可能会盘活 Z690 和 Z790 主板的二手市场。这表明，通过固件更新，物理插槽的等价性有时可以跨越官方芯片组支持的差距。 Bartlett Lake-S 基于 Intel 7 工艺节点制造，采用 LGA1700 插槽，但由于缺乏 E 核，在标准的第 12/13 代 BIOS 环境中无法使用混合调度。报告指出的主要限制是 DRAM 频率锁定，但在这些旧主板上，其他所有调校功能仍然可用。
+本文批判性地审视了车网互动技术的潜力，指出尽管其技术前景广阔，但用户行为和“人为因素”可能会限制其实际效果。
 
-rss · TechPowerUp News · 11月23日 10:59
+rss · EE Times · 11月24日 08:40
 
-**背景**: Bartlett Lake-S 是一个非混合架构的英特尔处理器系列，最多配备 12 个“Raptor Cove”P 核，没有 E 核集群，采用 LGA1700 插槽。它最初并非为消费级 Z790 主板设计，因为后者通常需要特定的微代码来初始化 CPU。大多数现代英特尔处理器采用 P 核与 E 核混合的架构，而这些主板的 BIOS 可能无法原生识别这种结构。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards">Intel "Bartlett Lake-S" CPUs Reportedly Boot Natively on MSI ...</a></li>
-<li><a href="https://videocardz.com/newz/msis-latest-z690-and-z790-bios-reportedly-supports-intel-bartlett-lake-12p-and-10p-cpus-without-modifications">MSI's latest Z690 and Z790 BIOS reportedly supports Intel ...</a></li>
-<li><a href="https://overclock3d.net/news/cpu_mainboard/msi-z690-z790-motherboards-reportedly-gains-support-for-intel-bartlett-lake-cpus/">MSI Z690/Z790 BIOS gains Intel "Bartlett Lake" CPU support - OC3D</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Intel`, `#Hardware`, `#CPUs`, `#Motherboards`, `#Compatibility`
+**标签**: `#Vehicle-to-Grid`, `#Energy Systems`, `#Infrastructure`, `#Sustainability`, `#Power Electronics`
 
 ---
 
 <a id="item-20"></a>
-## [Co Print Quadro 众筹 50 万美元推出 899 美元多喷头 3D 打印机](https://www.tomshardware.com/3d-printing/3d-printer-that-promises-simultaneous-printing-from-all-four-heads-gets-usd500-000-in-crowdfunding-four-printhead-co-print-quadro-msrp-set-at-just-usd899-promises-reduced-waste-and-faster-printing) ⭐️ 5.5/10
+## [AMD AGESA 1.3.0.1f 补丁将 Ryzen 8000 最大核心电压限制为 1.4V](https://www.techpowerup.com/355153/amd-agesa-1-3-0-1f-patch-arrives-to-limit-max-vcore-on-ryzen-8000-series) ⭐️ 5.5/10
 
-Co Print Quadro IQEX 3D 打印机在 Kickstarter 上成功筹集超过 50 万美元，远超其 5 万美元的初始目标。该设备承诺四个独立喷头可同时打印，零售定价为 899 美元。 这一里程碑表明，市场对于消费级平价高速多材料打印的需求非常强劲。与传统的单喷头系统相比，它可能通过大幅减少浪费和打印时间来加速复杂打印工作流的普及。 Quadro 采用开框 FFF 架构，所有四个工具头均可访问 300 × 300 × 300 毫米的打印体积。一项关键技术优势是，更换颜色仅需移动工具头，该过程只需约一秒，避免了单喷头打印机繁冗的排料和装料过程。
+AMD 已发布 AGESA 1.3.0.1f 补丁 A，为特定型号的 Ryzen 8000 系列桌面 APU 引入了 1.4V 的最大核心电压限制。华硕（ASUS）和微星（MSI）等主板厂商正在分发相应的 BIOS 更新，以实施该限制并改善内存训练的可视性。 此更新对使用 Ryzen 8000 系列 APU 的系统稳定性至关重要，因为将电压限制在 1.4V 有助于防止因功耗过大导致的硬件老化和系统不稳定。它确保了 AM5 平台上这些特定处理器用户系统的长期可靠性。 该补丁还增加了额外的 POST 代码，以增强对内存训练过程的可视性，使用户能更好地区分正常初始化和无响应状态。电压限制专门适用于特定型号的 Ryzen 8000 系列桌面 APU，高于此上限的手动超频可能会受到影响或受到限制。
 
-rss · Tom's Hardware · 11月23日 16:30
+rss · TechPowerUp News · 11月24日 13:31
 
-**背景**: 标准的 FFF（熔融沉积成型）3D 打印机通常使用一个喷嘴，在打印多种颜色时必须物理更换线材，这会产生大量的材料浪费。多喷头设置允许同时进行多种材料沉积，提高了效率并减少了浪费，这一趋势在现代 3D 打印硬件中越来越普遍。
+**背景**: AGESA（AMD 通用封装软件架构）是主板制造商用于执行 AMD 处理器平台初始化的过程库。它充当 CPU 固件与主板 BIOS 之间的桥梁，管理硬件组件在启动过程中的初始化与调控。Ryzen 8000 系列指的是 AMD 最近一代将 CPU 和 GPU 集成在单一封装内的 APU 产品。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wiki.coprint3d.com/en/Quadro/Specifications">Quadro Technical Specifications | Co Print Wiki</a></li>
-<li><a href="https://www.goodprints3d.com/pages/3d-printer-co-print-quadro">Quadro 3D Printer Specifications - goodprints3d.com</a></li>
-<li><a href="https://coprint3d.com/pages/quadro">Co Print Quadro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AGESA">AGESA - Wikipedia</a></li>
+<li><a href="https://www.techpowerup.com/355153/amd-agesa-1-3-0-1f-patch-arrives-to-limit-max-vcore-on-ryzen-8000-series">AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#3D-Printing`, `#Hardware`, `#Crowdfunding`, `#Manufacturing`, `#Consumer-Tech`
+**标签**: `#AMD`, `#Ryzen 8000`, `#BIOS`, `#AGESA`, `#Hardware`
 
 ---
