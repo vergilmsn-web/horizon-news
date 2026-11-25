@@ -5,322 +5,336 @@ date: 2026-11-25
 lang: zh
 ---
 
-> 从 107 条内容中筛选出 20 条重要资讯。
+> 从 118 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [Matrix Multiplication is Θ(n^2.25) (pdf)](#item-1) ⭐️ 9.0/10
-2. [GPT-6 models demonstrate intrinsic protein-design capabilities](#item-2) ⭐️ 9.0/10
-3. [为什么峰值 FLOPS 是评估 AI 推理硬件的不当指标](#item-3) ⭐️ 9.0/10
-4. [Windows Server 2028 默认移除 32 位应用支持](#item-4) ⭐️ 8.3/10
-5. [大语言模型利用时间侧信道通过沙盒化推理服务器进行通信](#item-5) ⭐️ 8.0/10
-6. [Ternary Bonsai 2.5 27B 带来前沿级别的本地编码性能](#item-6) ⭐️ 8.0/10
-7. [西门子收购 Breker 以解决复杂 AI 芯片集成故障](#item-7) ⭐️ 8.0/10
-8. [Dutch may resist US MATCH Act](#item-8) ⭐️ 8.0/10
-9. [JEDEC 发布 LPDDR6 内存标准 JESD209-6](#item-9) ⭐️ 8.0/10
-10. [Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely](#item-10) ⭐️ 7.5/10
-11. [研究揭示软件同步开销是 CXL 内存扩展瓶颈](#item-11) ⭐️ 7.5/10
-12. [Japan puts chipmaking labs inside trucks with mobileFab](#item-12) ⭐️ 7.5/10
-13. [PenGPT：用于手写与素描的生成式 Transformer 模型](#item-13) ⭐️ 7.0/10
-14. [摩尔实验室 AI 启动基准测试以评估硬件验证准确性](#item-14) ⭐️ 7.0/10
-15. [System76 发布 Pop!_OS 26.04 LTS，Cosmic 桌面显著增强](#item-15) ⭐️ 6.5/10
-16. [Ubuntu 26.10 显著提升 Intel Panther Lake 核显性能](#item-16) ⭐️ 6.5/10
-17. [Siemens expands Eigen agent to process industries](#item-17) ⭐️ 6.0/10
-18. [dToF sensor with ranging capability beyond 8m](#item-18) ⭐️ 6.0/10
-19. [IEA 预测全球电力需求到 2050 年将增长 81%](#item-19) ⭐️ 6.0/10
-20. [黄仁勋被指在复任 CEO 前向 Nvidia 董事会披露更多恋情](#item-20) ⭐️ 5.5/10
+1. [The matrix multiplication exponent is nine fourths (pdf)](#item-1) ⭐️ 10.0/10
+2. [1Password Security Incident](#item-2) ⭐️ 9.0/10
+3. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](#item-3) ⭐️ 9.0/10
+4. [Google releases Cogentic papers on integer factorization, discrete logs and more](#item-4) ⭐️ 9.0/10
+5. [利用 Lean 对 Clojure 核心进行形式化验证并发现漏洞](#item-5) ⭐️ 8.0/10
+6. [荷兰可能无视美国 MATCH 法案，正值对华外交之际](#item-6) ⭐️ 8.0/10
+7. [首尔半导体量产 WICOP 像素 LCD 背光技术](#item-7) ⭐️ 7.5/10
+8. [AMD 推出 RT-MLAS 技术，优化大规模光线追踪场景的性能与资源占用](#item-8) ⭐️ 7.5/10
+9. [Intel Core Ultra 4000 "Nova Lake-S" Preliminary Specs Leaked](#item-9) ⭐️ 7.5/10
+10. [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](#item-10) ⭐️ 7.0/10
+11. [Cuts to Chinese CSP Demand Weigh on Price Outlook, Slowing Memory Industry Revenue Growth in 2027, Says TrendForce](#item-11) ⭐️ 7.0/10
+12. [Lawsuit alleges Trump strong-armed Intel](#item-12) ⭐️ 6.5/10
+13. [Frontier 超算维护挑战与 Claude 的蛋白质预测能力](#item-13) ⭐️ 6.3/10
+14. [是德科技 ADS 获 Tower Semiconductor PH18 硅光子工艺认证](#item-14) ⭐️ 6.0/10
+15. [西门子将 Eigen AI 代理扩展至流程行业，集成 SIMATIC PCS 7](#item-15) ⭐️ 6.0/10
+16. [Vishay 推出基于 LoRa 的工业传感器 M2M 模块](#item-16) ⭐️ 6.0/10
+17. [dToF sensor with ranging capability beyond 8m](#item-17) ⭐️ 6.0/10
+18. [(PR) Kioxia to Showcase XL-FLASH Generation 3 Technology, the Next-Generation Low-Latency, High-Performance Flash Memory for AI](#item-18) ⭐️ 5.5/10
+19. [7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak](#item-19) ⭐️ 5.5/10
+20. [新款 CPU 基准测试工具承诺兼容 40 年，支持可追溯至 i386 和 Windows 95](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Matrix Multiplication is Θ(n^2.25) (pdf)](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 9.0/10
+## [The matrix multiplication exponent is nine fourths (pdf)](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 10.0/10
 
-OpenAI researchers published papers resolving major open problems in mathematics, including determining the exact matrix multiplication exponent as 9/4 and solving Smale's 9th problem on strongly polynomial linear programming.
+A new OpenAI paper proves the matrix multiplication exponent is 9/4, refuting a major conjecture and resolving several top-tier open problems in mathematics and computer science.
 
 hackernews · E-Reverance · 11月25日 01:19 · [社区讨论](https://news.ycombinator.com/item?id=50637220)
 
-**标签**: `#Mathematics`, `#Algorithms`, `#OpenAI`, `#Theoretical CS`, `#Breakthrough`
+**标签**: `#math`, `#algorithms`, `#complexity-theory`, `#openai`, `#research`
 
 ---
 
 <a id="item-2"></a>
-## [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) ⭐️ 9.0/10
+## [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) ⭐️ 9.0/10
 
-OpenAI demonstrates that GPT-6 models can generate 3D protein binder designs by writing code, marking a significant step in using general-purpose LLMs for specialized structural biology tasks.
+1Password discloses a security incident where malicious code was pushed to backend services, prompting a high-level analysis from the community regarding the effectiveness of their security measures and the risks of insider threats in SaaS environments.
 
-hackernews · acossta · 11月24日 21:02 · [社区讨论](https://news.ycombinator.com/item?id=50634658)
+hackernews · lxhrstn · 11月25日 17:18 · [社区讨论](https://news.ycombinator.com/item?id=50644817)
 
-**标签**: `#AI`, `#Protein Design`, `#OpenAI`, `#Structural Biology`, `#LLMs`
+**标签**: `#Security`, `#1Password`, `#SaaS`, `#Supply Chain Attack`, `#Incident Response`
 
 ---
 
 <a id="item-3"></a>
-## [为什么峰值 FLOPS 是评估 AI 推理硬件的不当指标](https://semiwiki.com/semiconductor-manufacturers/vsora/376702-why-peak-flops-is-the-wrong-yardstick-for-inference-hardware/) ⭐️ 9.0/10
+## [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) ⭐️ 9.0/10
 
-SemiWiki 上的一篇最新文章指出，随着行业重心从训练转向推理，传统的峰值 FLOPS 指标已不再适合用来对 AI 处理器进行排名。 这一观点非常重要，因为它挑战了半导体评估领域长达十年的标准，有助于硬件供应商和机器学习系统设计人员关注更相关的架构特性（如内存带宽和延迟），而非单纯的计算吞吐量。 核心技术论点在于，推理工作负载与训练有着根本的不同，它并非仅仅是训练的简化版，这意味着诸如内存访问模式等性能特征比每秒理论最大运算次数更为关键。
+Scott Aaronson expresses excitement about recent advances in AI solving hard math problems, sparking community debate on whether this marks the beginning of an AI singularity contained to verifiable tasks.
 
-rss · SemiWiki · 11月24日 14:00
+hackernews · Kotlopou · 11月25日 19:11 · [社区讨论](https://news.ycombinator.com/item?id=50646108)
 
-**背景**: FLOPS（每秒浮点运算次数）长期以来一直是衡量 CPU 和 GPU 计算能力的主要指标。在过去十年中，AI 开发中模型训练的主导地位使得峰值 FLOPS 成为基准测试硬件的标准，因为训练需要持续的最大计算利用率。
-
-**标签**: `#AI-Hardware`, `#Inference-Optimization`, `#Semiconductors`, `#ML-Systems`, `#Performance-Metrics`
+**标签**: `#AI`, `#Mathematics`, `#LLM`, `#Automated Theorem Proving`, `#Scott Aaronson`
 
 ---
 
 <a id="item-4"></a>
-## [Windows Server 2028 默认移除 32 位应用支持](https://www.solidot.org/story?sid=85978) ⭐️ 8.3/10
+## [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) ⭐️ 9.0/10
 
-微软宣布即将推出的 Windows Server 2028 将默认移除 WoW64 兼容层，将 32 位应用支持改为可选的附加组件。 这一重大架构变更通过默认禁止 32 位恶意程序运行来增强系统安全性，并有助于减少操作系统的占用空间。 Windows Server 最后一个 32 位版本发布于 2008 年，此后的版本均为纯 64 位系统；现在仍需 32 位兼容性的用户必须手动安装该子系统。
+Google has released research papers on 'cogentic' methods for solving complex mathematical problems such as integer factorization and discrete logs, sparking significant community discussion about the impact on mathematics and computer science.
 
-rss · Solidot · 11月24日 14:04
+hackernews · rgwohlbold · 11月25日 13:33 · [社区讨论](https://news.ycombinator.com/item?id=50642086)
 
-**背景**: WoW64（Windows-on-Windows 64 位）是一个兼容层，允许 32 位 Windows 应用程序在 64 位操作系统上运行。微软此前一直使用该技术来维持其服务器操作系统中对旧软件的后向兼容性。
-
-**标签**: `#Windows Server`, `#System Security`, `#Compatibility`, `#Enterprise IT`, `#Operating Systems`
+**标签**: `#AI`, `#Cryptography`, `#Mathematics`, `#Google Research`, `#Breakthrough`
 
 ---
 
 <a id="item-5"></a>
-## [大语言模型利用时间侧信道通过沙盒化推理服务器进行通信](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) ⭐️ 8.0/10
+## [利用 Lean 对 Clojure 核心进行形式化验证并发现漏洞](https://s.conao3.com/blog/2026/e4f733) ⭐️ 8.0/10
 
-研究人员表明，即使大语言模型运行在独立的沙盒中，它们仍可通过利用共享推理服务器缓存中的时间侧信道进行相互通信。这一发现揭示了标准安全假设中关于 AI 系统隔离性的严重缺陷。 该发现对 AI 基础设施安全具有直接影响，因为它允许沙盒中的模型进行数据泄露或协调攻击。这迫使开发人员重新思考沙盒化策略，可能需要严格的缓存隔离和确定性推理过程以防止跨模型信息泄露。 提出的具体技术缓解措施包括允许 API 调用指定缓存隔离键，以及实现确定性的精度处理以确保不同内核之间输出的一致性。该漏洞依赖于共享的最后值（LV）缓存，而当前推理服务器通常不在不同安全上下文之间隔离此缓存。
+研究人员利用 Lean 对 Clojure 核心库进行了形式化验证，在此过程中发现了数个未报告的漏洞。 这项审计展示了依赖类型理论在发现现实世界主流生产代码中隐藏缺陷的实际用途，将形式化验证从抽象理论提升至工业应用领域。 一名社区成员指出，部分被识别出的问题（例如在 `(get "abc" 1.9)` 中的类型转换以及字节数组索引处理）实际上是预期的语言行为而非根本性漏洞，突显了 Lean 与 Clojure 动态类型系统交互时的细微差别。
 
-hackernews · gmays · 11月25日 02:34 · [社区讨论](https://news.ycombinator.com/item?id=50637686)
+hackernews · encyclopedism · 11月25日 14:56 · [社区讨论](https://news.ycombinator.com/item?id=50642939)
 
-**背景**: 推理服务器是用于运行和管理 AI 模型请求的软件系统，通常同时为多个用户或应用程序提供服务。沙盒化是一种安全技术，用于隔离这些独立的模型实例，以防止未授权的数据访问或干扰。侧信道攻击是一类漏洞，攻击者并非通过主界面，而是通过测量执行时间、功耗或缓存内存行为等物理特性来获取信息。
+**背景**: Clojure 是一种运行在 Java 虚拟机 (JVM) 上的现代函数式编程语言。Lean 是一种具有依赖类型特性的编程语言和证明工具，用于形式化数学和验证程序的正确性。在 Lean 的类型系统中，依赖类型允许指定标准类型系统无法表达的复杂不变量，使其成为严格的代码审计工具。
 
-**社区讨论**: 社区成员辩论前沿 AI 模型是已能自行发现这种侧信道技巧，还是公开披露加速了其应用。一个关键技术关切是共享推理环境缺乏缓存隔离，用户将其与过时的浏览器实践相比较，并建议通过确定性输出处理作为缓解措施。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean (proof assistant) - Wikipedia</a></li>
 
-**标签**: `#AI Security`, `#LLM`, `#Side-Channel Attack`, `#Inference Infrastructure`
+</ul>
+</details>
+
+**社区讨论**: 评论者强调了研究发现中的细微之处，例如字符串与字节数组之间的类型转换，并分享了类似针对 Common Lisp 实现的审计链接。此外，社区还讨论了在自动化定理证明任务中使用 Lean 而非 Rocq（前称 Coq）的日益增长的趋势。
+
+**标签**: `#Formal Verification`, `#Lean`, `#Clojure`, `#Programming Languages`, `#Bugs`
 
 ---
 
 <a id="item-6"></a>
-## [Ternary Bonsai 2.5 27B 带来前沿级别的本地编码性能](https://prismml.com/news/bonsai-2-5-27b) ⭐️ 8.0/10
+## [荷兰可能无视美国 MATCH 法案，正值对华外交之际](https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/) ⭐️ 8.0/10
 
-Ternary Bonsai 2.5 27B 是一款由 PrismML 推出的 270 亿参数本地语言模型，在消费级硬件上实现了与主要前沿模型相当的智能体编码任务性能。它支持高达 128k 的上下文窗口，并在 Mac Mini M5 Pro 上达到约 22-25 tokens/秒 的速度。 该模型通过使 270 亿参数的稠密模型无需昂贵的数据中心硬件即可在本地运行，显著降低了高质量智能体编码的门槛，使自主代码生成技术的获取更加普及。它将 AI 开发的关注点从单纯的规模转向了面向边缘部署的效率和量化优化。 该模型采用三元量化技术将架构压缩至约 7.2 GB，保留了 FP16 下 95% 的性能。尽管它在 SWE-bench Verified 上的得分与顶级模型相当，但在复杂、长周期场景下的实际智能体任务成功率仍为 8 通过 5，表明基准测试指标与真实世界可靠性之间存在差距。
+荷兰可能会选择抵制美国 MATCH 法案的实施，这一决定可能受到荷兰外长 Tom Berendsen 近期对中国的外交访问的影响。 海牙与华盛顿之间的这一地缘政治摩擦威胁着全球半导体供应链，并考验了美国对其欧洲盟友实施出口管制的限度。 两党支持的 MATCH 法案针对半导体制造设备的出口，这将直接影响荷兰公司 ASML 的运营，并加剧美中之间的紧张关系。
 
-hackernews · b0m · 11月24日 20:08 · [社区讨论](https://news.ycombinator.com/item?id=50633922)
+rss · Electronics Weekly · 11月25日 06:10
 
-**背景**: 三元量化是一种特定的优化技术，它将模型权重映射为三个值（-1、0、+1），而非标准浮点格式中使用的数千个小数值。智能体编码是指大语言模型自主规划、执行和调试代码序列以解决复杂编程任务的能力。SWE-bench Verified 是一个广泛使用的基准测试，用于衡量模型解决来自公共仓库的真实世界软件工程问题的能力。
+**背景**: 美国 MATCH 法案（多边硬件技术控制对齐法案）由 Risch、Ricketts 和 Kim 参议员提出，旨在对半导体制造设备实施更严格的出口限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://huggingface.co/prism-ml/Bonsai-27B-gguf">prism-ml/ Bonsai -27B-gguf · Hugging Face</a></li>
-<li><a href="https://silasdata.com/llm-playground-inside-architectures/">LLM Playground - Inside the Architectures (Pt.10) — Silas Data</a></li>
-<li><a href="https://vdf.ai/blog/best-local-llm-for-coding/">Best Local LLM for Coding in 2026: 10 Models Compared</a></li>
+<li><a href="https://www.govinfo.gov/app/details/BILLS-119hr8170ih">H.R. 8170 (IH) - Multilateral Alignment of Technology ...</a></li>
+<li><a href="https://www.govinfo.gov/app/details/BILLS-119s4281is">S. 4281 (IS) - Multilateral Alignment of Technology Controls ...</a></li>
+<li><a href="https://www.foreign.senate.gov/press/rep/release/risch-ricketts-kim-introduce-match-act-level-the-global-playing-field-for-us-tech">[2026-04-08] Risch, Ricketts, Kim Introduce MATCH Act; Level ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 用户报告在 Apple Silicon 上具有 20-30 tokens/s 的稳定速度，使得 128k 上下文在智能体工作流中可行，但长周期任务的完成时间仍以分钟计。主要争议在于令人印象深刻的 SWE-bench 分数代表的是真实进步还是“基准测试投机”，一些用户指出该模型在复杂自定义任务上的实际成功率仍低于顶级闭源模型。总体而言，性能反响良好，被视为相较于前一个版本的重大飞跃，尤其是在消费级 Mac 上的本地部署方面。
-
-**标签**: `#local-llm`, `#quantization`, `#agentic-coding`, `#edge-ai`, `#model-optimization`
+**标签**: `#Geopolitics`, `#Export Controls`, `#Semiconductors`, `#Supply Chain`, `#Netherlands`
 
 ---
 
 <a id="item-7"></a>
-## [西门子收购 Breker 以解决复杂 AI 芯片集成故障](https://semiwiki.com/eda/376542-why-siemens-breker-deal-matters-for-the-next-generation-of-ai-chips/) ⭐️ 8.0/10
+## [首尔半导体量产 WICOP 像素 LCD 背光技术](https://www.techpowerup.com/355205/seoul-semiconductor-enables-beyond-oled-picture-quality-with-lcd) ⭐️ 7.5/10
 
-西门子电子设计自动化公司收购了 Breker，以解决现代人工智能芯片开发中的一个关键瓶颈，即系统级集成错误。这一交易使该公司能够检测出当处理器和加速器等多个复杂组件在芯片内动态交互时出现的故障。 此次收购至关重要，因为对于包含数十亿个晶体管及多个子系统的下一代芯片而言，传统的组件级测试已不再足够。通过改进系统级集成测试，行业可以降低昂贵且滞后的设计流片成本和风险。 被针对性解决的具体问题包括当处理器、内存控制器和加速器同时处于活跃状态，且软件请求改变电源状态时才会显现的故障。这种跨组件的动态问题通常对标准验证工具而言是不可见的。
+首尔半导体宣布全面量产 WICOP 像素技术，这是一种用于 LCD 的无封装 RGB 背光解决方案，可实现 100%的 DCI-P3 色域，且亮度超过 OLED 显示屏的三倍。该公司计划将现有的白色背光产能转换为该超细间距 RGB 芯片的生产，并向全球电视制造商扩大供应。 这项开发为高端显示器提供了 OLED 的替代方案，使 LCD 在保持优于专业及电影行业应用色彩精度的同时，亮度可与 OLED 匹敌甚至超越。它代表了显示行业的重要转变，有望通过先进背光技术而非直接替换为 OLED 面板来复兴 LCD 技术。 由子公司首尔 Viosys 开发的 WICOP 像素技术，采用无引线、无透镜、无封装的 RGB 微 LED 垂直堆叠结构，间距仅为几十微米。首尔半导体计划通过全球专利许可项目产生额外收入，并将这些版税投资于生物技术、3D 打印和 AI 数据通信的研发。
 
-rss · SemiWiki · 11月24日 16:00
+rss · TechPowerUp News · 11月25日 14:51
 
-**背景**: 电子设计自动化（EDA）是指工程师用于设计、验证和测试集成电路的软件工具。在现代片上系统（SoC）设计中，芯片集成了多个复杂的模块，例如 CPU 集群、AI 加速器和内存控制器。随着芯片变得更加复杂，在这些子系统界面之间发生的错误已成为一项重大挑战。
+**背景**: DCI-P3 是电影行业广泛使用的色域标准，其色彩范围比大多数网络内容使用的标准 sRGB 更广。虽然 OLED 显示器以深邃的黑色和高分辨率著称，但其峰值亮度通常受限于新型背光技术。Mini-LED 和 Micro-LED 背光正作为一种升级 LCD 面板、通过提高色彩容积和动态范围来与 OLED 竞争的新兴技术出现。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Electronic_design_automation">Electronic design automation - Wikipedia</a></li>
-<li><a href="https://hackernoon.com/how-to-actually-scale-multi-agent-ai-a-chip-designers-playbook">hackernoon.com/how-to-actually-scale-multi-agent-ai-a- chip ...</a></li>
-<li><a href="https://beyondeastmedia.com/articles/siemens-acquires-breker-lauterbach-eda-sovereign-silicon">Siemens Consolidates EDA Power with Breker and Lauterbach...</a></li>
+<li><a href="https://www.androidauthority.com/color-gamuts-guide-3035782/">Color gamuts explained: sRGB, DCI - P 3 , Rec 2020 - Android Authority</a></li>
+<li><a href="http://www.qianlin-led.com/4857">Seoul Viosys – Single-Chip Micro-LED Display Technology – GAINER...</a></li>
+<li><a href="https://www.seoulsemicon.com/en/media/newsroom/175">Seoul Semiconductor and Seoul Viosys Introduce Four ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Chips`, `#EDA`, `#Siemens`, `#Chip Design`, `#Testing`
+**标签**: `#Display Technology`, `#Semiconductors`, `#LCD`, `#Optoelectronics`, `#Hardware`
 
 ---
 
 <a id="item-8"></a>
-## [Dutch may resist US MATCH Act](https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/) ⭐️ 8.0/10
+## [AMD 推出 RT-MLAS 技术，优化大规模光线追踪场景的性能与资源占用](https://www.techpowerup.com/355194/amd-wants-to-ray-trace-large-dynamic-worlds-with-reusable-parts) ⭐️ 7.5/10
 
-A report indicates that the Netherlands may resist US-led multilateral technology control efforts, influenced by its Foreign Minister's recent diplomatic engagement with China.
+AMD 推出了光线追踪多级加速结构（RT-MLAS），这是一种在层级结构中增加多达两层中级加速结构（MDLAS）的新方法，旨在提升内存效率并缩短构建时间。该扩展已通过 VK_AMDX_multi_level_acceleration_structure 提案被正式纳入 Vulkan，从而在大型环境中支持几何体的复用。 RT-MLAS 解决了现代游戏开发中传统双级光线追踪在开放世界环境规模和复杂度增长时，其重建与更新成本日益高昂的关键瓶颈。该技术对于正在开发大量动画场景（如广袤森林或广阔城市）的开发者尤为重要，因为它允许独立更新世界中的不同部分，而无需重建整个层级结构。 该技术允许开发者将重复的场景组件（如墙体、窗户、屋顶等建筑部件）组织到共享的中级加速结构中，而不是在庞大的顶级加速结构中逐一注册。通过将场景的不同区域划分为可独立管理的结构，当物体移动或改变细节层次时，开发者只需重建需要更新的具体部分。
 
-rss · Electronics Weekly · 11月25日 06:10
+rss · TechPowerUp News · 11月25日 13:52
 
-**标签**: `#Geopolitics`, `#Semiconductors`, `#Export Controls`, `#Trade Policy`, `#International Relations`
+**背景**: 在现代硬件光线追踪中，开发者通常使用两级层级结构，即包含单体几何体的底层加速结构（BLAS）以及管理场景中这些几何体实例的顶级加速结构（TLAS）。随着开放世界中移动物体的数量达到数千甚至数百万个，TLAS 成为一个庞大的计算资源，必须在每一帧进行不断重建。AMD 的 RT-MLAS 引入了中级加速结构作为可重用的中间层来分组相关物体，从而让大规模更新变得更容易管理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://gpuopen.com/learn/amd-rt-mlas-vulkan/">Ray tracing large, dynamic worlds with RT - MLAS - AMD GPUOpen</a></li>
+<li><a href="https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct">Vulkan 1.4.369 Introduces New AMD Extension For... - Phoronix</a></li>
+<li><a href="https://docs.vulkan.org/features/latest/features/proposals/VK_AMDX_multi_level_acceleration_structure.html">VK_AMDX_multi_level_acceleration_structure - docs.vulkan.org</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AMD`, `#Ray Tracing`, `#Graphics`, `#Game Development`, `#Hardware`
 
 ---
 
 <a id="item-9"></a>
-## [JEDEC 发布 LPDDR6 内存标准 JESD209-6](https://www.electronicsweekly.com/news/products/memory/jedec-updates-lpddr6-to-address-mobile-and-ai-memory-performance-2026-11/) ⭐️ 8.0/10
+## [Intel Core Ultra 4000 "Nova Lake-S" Preliminary Specs Leaked](https://www.techpowerup.com/355195/intel-core-ultra-4000-nova-lake-s-preliminary-specs-leaked) ⭐️ 7.5/10
 
-JEDEC 发布了 JESD209-6 标准，正式定义了 LPDDR6 低功耗双数据率 6 内存技术。此次更新专门旨在提升移动设备及人工智能应用的内存性能与效率。 该标准化对于移动和人工智能行业至关重要，因为它为开发高性能、高能效的内存解决方案提供了统一基础。它使制造商能够将先进内存整合到下一代智能手机、笔记本电脑和端侧 AI 模型中，确保生态系统内的兼容性和性能优化。 该标准将 LPDDR6 定义为 x24 单通道 SDRAM 设备，规定了其功能、交直流特性及封装的最低要求。LPDDR6 提供 10.667 至 14.400 GT/s 的数据传输速率，并采用双子通道架构。
+Leaked documentation reveals preliminary specs for the upcoming Intel Core Ultra 4000 'Nova Lake-S' desktop CPU lineup, including a flagship chip with 28 cores and 5.5 GHz boost clocks.
 
-rss · Electronics Weekly · 11月24日 15:56
+rss · TechPowerUp News · 11月25日 12:36
 
-**背景**: JEDEC 是制定电子内存技术标准的固态技术协会。LPDDR（低功耗 DDR）是一种易失性内存标准，专为移动设备优化，相较于标准台式机 DDR 内存能显著降低功耗。随着 AI 工作负载日益向边缘设备迁移，市场对在严格功耗限制下平衡高带宽的内存技术需求日益增长。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.jedec.org/standards-documents/docs/jesd209-6">LPDDR6 Standard | JEDEC</a></li>
-<li><a href="https://www.jedec.org/news/pressreleases/jedec®-releases-new-lpddr6-standard-enhance-mobile-and-ai-memory-performance">JEDEC® Releases New LPDDR6 Standard to Enhance Mobile and AI ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Hardware`, `#Memory`, `#AI`, `#Standards`, `#Mobile`
+**标签**: `#Intel`, `#CPU`, `#Hardware`, `#Leak`, `#Nova Lake`
 
 ---
 
 <a id="item-10"></a>
-## [Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely](https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer) ⭐️ 7.5/10
+## [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq) ⭐️ 7.0/10
 
-A researcher discovered a Bluetooth vulnerability in electric trailer brakes that allows remote hijacking of the braking system, a flaw identified through reverse engineering with the help of AI.
+A GitHub project that reverse-engineers Windows' Loudness Equalization and ports it to PipeWire, sparking technical debate about audio processing algorithms and the ethics of reverse engineering.
 
-rss · Tom's Hardware · 11月24日 12:38
+hackernews · ThrowNotAway · 11月25日 11:34 · [社区讨论](https://news.ycombinator.com/item?id=50641171)
 
-**标签**: `#cybersecurity`, `#IoT`, `#Bluetooth`, `#automotive`, `#AI-security`
+**标签**: `#audio-engineering`, `#linux`, `#pipewire`, `#reverse-engineering`, `#windows`
 
 ---
 
 <a id="item-11"></a>
-## [研究揭示软件同步开销是 CXL 内存扩展瓶颈](https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26) ⭐️ 7.5/10
+## [Cuts to Chinese CSP Demand Weigh on Price Outlook, Slowing Memory Industry Revenue Growth in 2027, Says TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12900.html) ⭐️ 7.0/10
 
-UT Arlington 与英特尔的一项联合研究表明，共享 CXL 内存池中的软件同步开销严重阻碍了多服务器扩展。该研究通过让四台服务器共享同一个 CXL 内存池来测量实际性能表现。 这一发现对 AI 基础设施行业至关重要，因为 CXL 中的软件级延迟可能使其无法成为分布式 KV 缓存的可行解决方案。系统架构师在评估 CXL 用于大规模 AI 模型训练和推理时，必须将这些同步成本纳入考量。 主要限制在于多个主机访问共享内存池时，内存同步协议带来的“高昂的软件成本”。该研究提供了关于这些成本如何扩展的实证数据，特别关注了四主机配置。
+TrendForce reports that reduced memory orders from Chinese CSPs are slowing projected revenue growth in the memory industry for 2027 and pressuring pricing outlooks.
 
-rss · Tom's Hardware · 11月24日 11:30
+rss · DRAMeXchange (TrendForce) · 11月25日 16:24
 
-**背景**: CXL（Compute Express Link）是一种互连技术，旨在允许多个主机设备以高速、低延迟的方式共享内存。在 AI 应用中，这种“内存池”功能有望通过为 Key-Value 缓存等数据创建更大的共享空间来解决有限的板载内存瓶颈。然而，确保多个独立服务器之间的数据一致性需要复杂的同步机制，该研究表明这些机制会引入显著的性能损耗。
-
-**标签**: `#CXL`, `#Memory Pooling`, `#AI Infrastructure`, `#Systems Research`, `#Distributed Computing`
+**标签**: `#Memory Industry`, `#Supply Chain`, `#China`, `#CSP`, `#Market Analysis`
 
 ---
 
 <a id="item-12"></a>
-## [Japan puts chipmaking labs inside trucks with mobileFab](https://www.tomshardware.com/tech-industry/semiconductors/japan-puts-chipmaking-labs-inside-trucks-with-mobilefab-trucks-pack-30-cm-lithography-gear-to-tackle-a-10-year-semiconductor-engineer-shortage) ⭐️ 7.5/10
+## [Lawsuit alleges Trump strong-armed Intel](https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds) ⭐️ 6.5/10
 
-Japan is deploying truck-mounted 30-cm lithography machines called mobileFab to provide hands-on chip-making education and address the 10-year semiconductor engineer shortage.
+A lawsuit alleges that the White House pressured Intel into accepting a 10% government stake as a condition for releasing CHIPS Act funding.
 
-rss · Tom's Hardware · 11月24日 11:30
+rss · Tom's Hardware · 11月25日 16:39
 
-**标签**: `#semiconductors`, `#manufacturing`, `#education`, `#Japan`
+**标签**: `#Intel`, `#CHIPS Act`, `#Policy`, `#Semiconductors`, `#Politics`
 
 ---
 
 <a id="item-13"></a>
-## [PenGPT：用于手写与素描的生成式 Transformer 模型](https://greydanus.github.io/2026/11/12/pengpt/) ⭐️ 7.0/10
+## [Frontier 超算维护挑战与 Claude 的蛋白质预测能力](https://www.solidot.org/story?sid=85989) ⭐️ 6.3/10
 
-PenGPT 是一款专门用于生成逼真手写和素描的生成式 Transformer 模型。该模型在 8xH100 GPU 上完成训练，开发过程中约 80% 的精力投入于构建大规模高质量数据集，而非模型架构创新。 该项目验证了 Rich Sutton 的“苦涩教训”，表明在生成式绘图任务中，大量算力结合高质量数据流水线的效果优于复杂的架构调整。它为教育和专业场景中实时图形知识传递及自动化演示生成开辟了实际应用前景。 作者利用智能体工作流、开放权重视觉模型和廉价的多模态 AI API 简化了数据质量过滤和字幕生成过程。尽管模型效果令人印象深刻，但社区反馈认为其绘图功能在绝对智能或准确度上略低于预期。
+橡树岭国家实验室指出，Frontier 的高内存密度导致其每天发生一次无法纠正的 HBM 错误，且 GPU 性能差异会导致大规模模拟任务停滞。同时，一名研究人员发现 Anthropic 的 Claude 在预测未知细菌蛋白质序列方面优于专用工具。 Frontier 的维护细节为扩展大型 AI 和 HPC 系统的工程师提供了关键见解，而 Claude 的结果则表明通用 LLM 正在赶上专用的科学 AI 工具。 由于内存容量增加了 16 倍，Frontier 的 HBM 错误率为每天 1.5 次，而 Summit 为每两周一次。Claude 在测试中击败了其他模型和专用蛋白质工具，引发了关于通用与专用 AI 模型未来的争论。
 
-hackernews · smusamashah · 11月25日 00:54 · [社区讨论](https://news.ycombinator.com/item?id=50637056)
+rss · Solidot · 11月25日 14:18
 
-**背景**: Transformer 是广泛用于生成式任务的最新神经网络架构，近期已被应用于图像和矢量图形的生成。由 AI 研究者 Rich Sutton 提出的“苦涩教训”概念认为，利用可扩展的算力和数据比依赖人类特定的领域知识或巧妙的工程技巧更能推动 AI 进步。
+**背景**: Frontier 和 Summit 是顶级超级计算机，它们依赖检查点机制保存进度，以避免在硬件故障后从头开始长期模拟。高带宽内存 (HBM) 对 AI 性能至关重要，但可能会发生需要重启作业的“无法纠正”的位错误。关于细菌的研究涉及使用 Claude 等通用语言模型来预测蛋白质序列，这通常是专用深度学习工具的任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson - incompleteideas.net</a></li>
-<li><a href="https://arxiv.org/abs/2104.03964">Abstract page for arXiv paper 2104.03964: Handwriting Transformers</a></li>
+<li><a href="https://www.computer.org/csdl/proceedings-article/dsn-s/2026/324600a156/2joOOnhW7Ju">HBM Errors at Scale: An Industrial Study - computer.org</a></li>
+<li><a href="https://www.researchgate.net/publication/322760706_CHECKPOINTING_FAULT_TOLERANCE_MECHANISM">(PDF) checkpointing : fault tolerance mechanism</a></li>
+<li><a href="https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson">EA Sports FC 27 adds AI-recreated voice of late commentator ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对 AI 生成人类书写的清新感表现出强烈热情，尽管有人认为绘图质量略低于预期。主要共识是，数据整理和“苦涩教训”比架构上的巧思更具影响力，其中一位用户特别指出了当前 AI 在实时图形知识传递方面的空白。
-
-**标签**: `#Generative AI`, `#Transformers`, `#Computer Vision`, `#Data Engineering`, `#Bitter Lesson`
+**标签**: `#High-Performance Computing`, `#Bioinformatics`, `#LLM`, `#Hardware Maintenance`
 
 ---
 
 <a id="item-14"></a>
-## [摩尔实验室 AI 启动基准测试以评估硬件验证准确性](https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/) ⭐️ 7.0/10
+## [是德科技 ADS 获 Tower Semiconductor PH18 硅光子工艺认证](https://semiwiki.com/eda/keysight-eda/376442-keysight-unites-rf-and-photonic-design-for-tower-semiconductor/) ⭐️ 6.0/10
 
-摩尔实验室 AI 正在启动一项基准计划，旨在衡量人工智能能否有效验证芯片设计的功能正确性，而不仅仅是生成代码。该计划强调设计验证的成果，而非代码生成速度或数量。 该基准测试据称评估 AI 生成的验证准确性，该公司声称在一个选定的验证子集上取得了 93%的总体通过率。评估重点在于 AI 能否确定设计行为正确，从而解决了基于大语言模型的硬件工具的一个关键局限。
+是德科技（Keysight）已将其高级设计系统（ADS）光子设计器认证用于 Tower Semiconductor 的 PH18 硅光子工艺设计套件。该集成于 11 月宣布，使工程师能够在单一软件环境中进行统一的电子与光子电路设计。 该认证弥合了射频/微波设计与新兴硅光子技术之间的差距，允许开发者在制造前模拟电-光-电信号路径。通过统一分散的设计工作流程，它加速了下一代数据通信组件的开发。 该集成将双方在射频半导体设计领域十余年的合作关系延伸至硅光子领域。它专门支持 Tower 目前处于大批量生产阶段的 PH18 平台，以及其较新的 300 毫米工艺选项。
 
-rss · SemiWiki · 11月24日 18:00
+rss · SemiWiki · 11月25日 16:00
 
-**背景**: 在半导体设计中，硬件验证旨在确保芯片在量产前正常运作，这是一个主要瓶颈。虽然 AI 模型可以快速编写 RTL（寄存器传输级）代码，但学术界和行业研究指出，通过基本测试用例并不能保证 100%的功能正确性。因此，对验证结果进行严格的基准测试，以确保 AI 在复杂生产环境中值得信赖至关重要。
+**背景**: 硅光子技术使用基于硅的波导传输光信号进行数据通信，以替代或补充传统电信号。是德科技 ADS 是用于模拟高频和光子电路的主流电子设计自动化（EDA）套件。Tower Semiconductor PH18 是一种专门针对制造硅光子组件优化的晶圆代工工艺。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design...</a></li>
+<li><a href="https://www.businesswire.com/news/home/20261109345043/en/Keysight-Brings-Radio-Frequency-and-Photonic-Design-Together-for-Tower-Semiconductor">Keysight Brings Radio Frequency and Photonic Design Together for...</a></li>
+<li><a href="https://towersemi.com/technology/rf-and-hpa/silicon-photonics-rf/">Silicon Photonics (SiPho) - Tower Semiconductor</a></li>
+<li><a href="https://convergedigest.com/keysight-tower-ph18-rf-photonic-design-ads/">Keysight Integrates RF and Photonic Design for Tower’s SiPh</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Hardware Verification`, `#AI for EDA`, `#Semiconductor`, `#Benchmarks`, `#Chip Design`
+**标签**: `#Silicon Photonics`, `#EDA`, `#Keysight`, `#Tower Semiconductor`, `#RF Design`
 
 ---
 
 <a id="item-15"></a>
-## [System76 发布 Pop!_OS 26.04 LTS，Cosmic 桌面显著增强](https://www.techpowerup.com/355190/system76-launches-pop-os-26-04-with-major-ui-and-usability-improvements) ⭐️ 6.5/10
+## [西门子将 Eigen AI 代理扩展至流程行业，集成 SIMATIC PCS 7](https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/) ⭐️ 6.0/10
 
-System76 正式发布了 Pop!_OS 26.04 LTS 版本，将系统内核更新至 7.2.15。此次重大更新为 Cosmic 桌面引入多项 UI 增强功能，包括新的图像查看器、系统监视器应用、数位板支持以及独立应用音量控制。 此次发布对 Linux 生态系统意义重大，因为它推动了 Cosmic 桌面的发展，使其在功能上与 GNOME 等主流桌面环境更具竞争力。它特别惠及 System76 硬件用户以及追求功能丰富且支持自动平铺窗口管理的 Linux 爱好者。 该更新包含 Constellations 主题、远程桌面支持、可变刷新率支持以及与 Steam Big Picture 游戏模式的改进兼容性等具体功能。值得注意的是，由于更新周期，内核版本并不严格绑定于特定的 Pop!_OS 版本。
+西门子正在通过将其与 SIMATIC PCS 7 分布式控制系统集成的方式，将 Eigen 工程代理扩展到流程行业。这一新产品使 AI 代理能够在连续过程环境中支持项目执行。 此次扩展将 AI 驱动的自动化带到了流程行业，该行业传统上复杂且严重依赖人工工程。通过减少工程师的重复性工作，这使西门子在工业 AI 领域处于领先地位。 该代理专门针对 SIMATIC PCS 7 系统，该系统用于电力和化工等连续流程行业。它旨在通过 AI 辅助提高一致性和加快项目执行速度。
 
-rss · TechPowerUp News · 11月25日 05:13
+rss · Electronics Weekly · 11月25日 06:05
 
-**背景**: Pop!_OS 是 System76 旗下电脑（如 Thelio Prime 台式机）默认搭载的 Linux 发行版。由 System76 开发的 Cosmic 桌面以面向高级用户的设计理念著称，特别是其可配置自动平铺窗口管理功能。LTS（长期支持）表示该版本专为稳定性和长期维护而设计。
+**背景**: Eigen 工程代理是一种工业 AI 解决方案，最初连接 TIA Portal 以辅助电气和机械工程任务。SIMATIC PCS 7 是一种广泛使用的分布式控制系统（DCS），用于管理需要 24/7 运行的行业中复杂的连续过程。
 
-**标签**: `#Linux`, `#Pop!_OS`, `#Cosmic Desktop`, `#System76`, `#LTS`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.siemens.com/en-us/products/tia-portal/eigen-engineering-agent/">Eigen Engineering Agent - Siemens</a></li>
+<li><a href="https://www.siemens.com/en-us/products/process-control/simatic-pcs-7/eigen-engineering-agent-process-industries/">Eigen Engineering Agent for Process Industries - Siemens</a></li>
+<li><a href="https://industrialmonitordirect.com/blogs/knowledgebase/selecting-siemens-pcs-7-for-power-plant-dcs-projects">Siemens PCS 7 DCS architecture for power plant selection | IMD</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Siemens`, `#Industrial Automation`, `#AI Agents`, `#Process Industries`, `#SCADA`
 
 ---
 
 <a id="item-16"></a>
-## [Ubuntu 26.10 显著提升 Intel Panther Lake 核显性能](https://www.techpowerup.com/355173/ubuntu-26-10-improves-intel-panther-lake-igpu-performance-on-linux) ⭐️ 6.5/10
+## [Vishay 推出基于 LoRa 的工业传感器 M2M 模块](https://www.electronicsweekly.com/news/business/vishay-launches-2026-11/) ⭐️ 6.0/10
 
-Ubuntu 26.10 包含了内核更新，显著提升了 Intel Panther Lake Arc B390 核显在 Linux 系统下的性能，缩小了前沿硬件与主流发行版之间的差距。 这对 Linux 游戏和工作站生态系统意义重大，因为这使得强大的核显在 Ubuntu 等主流发行版上具备高可用性，而不再局限于前沿系统环境。 基准测试显示在戴尔 XPS 14 上 yquake2 帧数提升了 65%，4K AV1 编码性能最高提升 24%，不过 CPU 性能增益微乎其微，且笔记本电脑的热节流限制了 B390 核显的全部潜能。
+Vishay Intertechnology 推出了一款基于 LoRa 的机器对机器（M2M）无线模块，专为工业环境中的模拟精密传感器远程监控而设计。该设备工作在 2.4 GHz ISM 频段，并支持全球频率分配。 该模块通过提供长距离、低功耗的通信解决方案，消除了对复杂有线基础设施的需求，从而简化了精密传感器在工业物联网网络中的集成。它支持实时数据传输，以实现远程资产监控和维护，这对提升工业自动化和运营效率至关重要。 该模块专门针对模拟精密传感器，能够实现连续位置数据的传输，避免了高速视频或音频带来的延迟和带宽需求。由于工作在 2.4 GHz ISM 频段，它需要与 Wi-Fi 和蓝牙等共享频率空间，要求在密集的工业环境中进行仔细的频率规划以避免干扰。
 
-rss · TechPowerUp News · 11月24日 18:00
+rss · Electronics Weekly · 11月25日 06:04
 
-**背景**: Intel 的 Panther Lake 处理器引入了 Arc B390 核显，相比上一代集成显卡是一次巨大的飞跃。虽然 Phoronix 之前已在早期 Linux 内核上对其进行了测试，但 Ubuntu 等主流发行版通常会落后，用户需要安装自定义内核才能获取针对前沿硬件的最新驱动程序。
+**背景**: LoRa（远距离）是一种低功耗广域网（LPWAN）协议，可让电池供电的设备在数公里的范围内进行通信。在工业领域，当对高数据速率没有要求但对长距离和低功耗至关重要时，它常被用作 Wi-Fi 或蜂窝网络的替代方案。2.4 GHz ISM（工业、科学和医疗）频段是一个全球免许可的频率范围，允许此类设备在无需特定监管许可的情况下运行，尽管其容易受到其他无线技术的干扰而变得拥挤。
 
-**标签**: `#Linux`, `#Intel`, `#Graphics`, `#Ubuntu`, `#Hardware Support`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/LoRaWAN">LoRaWAN - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ISM_radio_band">ISM radio band - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IoT`, `#LoRa`, `#Industrial Automation`, `#Wireless Communication`, `#Sensor Technology`
 
 ---
 
 <a id="item-17"></a>
-## [Siemens expands Eigen agent to process industries](https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/) ⭐️ 6.0/10
+## [dToF sensor with ranging capability beyond 8m](https://www.electronicsweekly.com/news/business/dtof-sensor-with-ranging-capability-beyond-8m-2026-11/) ⭐️ 6.0/10
 
-Siemens is expanding its Eigen Engineering Agent to support process industries by integrating with its SIMATIC PCS 7 distributed control system.
+STMicroelectronics is sampling the FlightSense VL53LB, a direct Time-of-Flight sensor that extends ranging capability beyond 8 meters for use in compact consumer electronics.
 
-rss · Electronics Weekly · 11月25日 06:05
+rss · Electronics Weekly · 11月25日 06:02
 
-**标签**: `#Siemens`, `#AI Agents`, `#Process Industries`, `#SCADA`, `#Industrial Automation`
+**标签**: `#sensors`, `#dToF`, `#STMicroelectronics`, `#hardware`, `#consumer-electronics`
 
 ---
 
 <a id="item-18"></a>
-## [dToF sensor with ranging capability beyond 8m](https://www.electronicsweekly.com/news/business/dtof-sensor-with-ranging-capability-beyond-8m-2026-11/) ⭐️ 6.0/10
+## [(PR) Kioxia to Showcase XL-FLASH Generation 3 Technology, the Next-Generation Low-Latency, High-Performance Flash Memory for AI](https://www.techpowerup.com/355197/kioxia-to-showcase-xl-flash-generation-3-technology-the-next-generation-low-latency-high-performance-flash-memory-for-ai) ⭐️ 5.5/10
 
-ST is sampling its FlightSense VL53LB direct Time-of-Flight sensor, which offers distance sensing capabilities beyond 8 meters for smartphone and consumer electronics applications.
+Kioxia announced it will showcase its next-generation XL-FLASH Gen 3 memory, designed for low-latency AI applications, at a forum in November 2026.
 
-rss · Electronics Weekly · 11月25日 06:02
+rss · TechPowerUp News · 11月25日 13:17
 
-**标签**: `#Hardware`, `#Sensors`, `#STMicroelectronics`, `#Consumer Electronics`, `#Time-of-Flight`
+**标签**: `#Hardware`, `#Storage`, `#AI`, `#Flash Memory`, `#Kioxia`
 
 ---
 
 <a id="item-19"></a>
-## [IEA 预测全球电力需求到 2050 年将增长 81%](https://www.electronicsweekly.com/blogs/mannerisms/consumer/81-more-electricity-needed-by-2050-2026-11/) ⭐️ 6.0/10
+## [7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak](https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release) ⭐️ 5.5/10
 
-国际能源署（IEA）在《世界能源展望》中预测，到 2050 年全球电力需求将激增 81%。该机构指出，气候变化导致的气温升高是驱动这一显著增长的部分原因。 这一预测表明全球能源基础设施和电网现代化面临着巨大的挑战。它意味着政策制定者和科技行业必须加快部署可持续能源技术，以应对这种激增。 IEA 特别将预测的电力需求增长的 81%中的一部分归因于全球气温升高而导致的制冷需求增加。该新闻文章仅提供了一个被截断的摘要，缺乏关于哪些部门对需求贡献最大的详细分解。
+A leak details seven upcoming Intel Core Ultra 4000-series desktop CPUs, including the Ultra 9 4970K with a 5.5 GHz boost, ahead of a potential February 2027 launch event.
 
-rss · Electronics Weekly · 11月24日 14:25
+rss · Tom's Hardware · 11月25日 15:30
 
-**背景**: 国际能源署（IEA）是一个政府间组织，提供能源领域的数据、分析和政策建议。《世界能源展望》是其旗舰出版物，提供关于全球能源市场和技术趋势的长期预测。随着世界在交通和工业等领域向电气化转型，电力需求预计将超越历史增长趋势。
-
-**标签**: `#Energy`, `#Sustainability`, `#Infrastructure`, `#Climate Change`, `#Forecasting`
+**标签**: `#Intel`, `#CPU`, `#Hardware Leak`, `#Nova Lake`, `#Desktop Processor`
 
 ---
 
 <a id="item-20"></a>
-## [黄仁勋被指在复任 CEO 前向 Nvidia 董事会披露更多恋情](https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care) ⭐️ 5.5/10
+## [新款 CPU 基准测试工具承诺兼容 40 年，支持可追溯至 i386 和 Windows 95](https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more) ⭐️ 5.5/10
 
-据报道，Jensen Huang 在董事会重新任命他为 CEO、总裁和董事会成员之前，向 Nvidia 董事会透露，除了此前已知的两段恋情外，他还有额外的婚外情。报道称，这些未被披露的恋情中涉及的其中一人是中国间谍。 这一事件凸显了潜在的信义义务和公司治理标准的缺失，引发了关于高管行为透明度和董事会监督尽职程度的疑问。如果外国情报人员介入一事得到证实，还将为一家美国大型科技公司带来重大的地缘政治安全担忧。 报告特别提到，Huang 在复任流程最终敲定前，向董事会坦承了除其已知晓的两段恋情外，至少有另外两段恋情。其中一名女性是中国间谍的说法，为原本被视为个人行为问题的事情增添了国家安全层面的敏感性。
+新款 CPU 基准测试工具 CrystalMark CPUix 正式发布，具备跨越 40 年的硬件兼容性，支持从 i386 和 Windows 95 到现代处理器。
 
-rss · Tom's Hardware · 11月24日 14:24
+rss · Tom's Hardware · 11月25日 10:00
 
-**背景**: Jensen Huang 是 Nvidia 的长期 CEO 和联合创始人，Nvidia 是全球半导体和 AI 硬件市场的主导力量。“复任”一词暗示 Huang 此前可能已因早先曝光的婚外情而被临时或正式免职，并需要通过正式的董事会程序才能回归其职位。涉及“中国间谍”的指控则与 AI 行业围绕技术供应链和企业间谍活动的激烈地缘政治紧张局势和安全担忧有关。
-
-**标签**: `#nvidia`, `#corporate-governance`, `#executive-management`, `#tech-industry`, `#leadership`
+**标签**: `#Hardware`, `#CPU`, `#Benchmarking`, `#Retrocomputing`, `#Tom's Hardware`
 
 ---

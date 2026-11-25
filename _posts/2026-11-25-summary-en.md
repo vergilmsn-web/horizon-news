@@ -5,322 +5,336 @@ date: 2026-11-25
 lang: en
 ---
 
-> From 107 items, 20 important content pieces were selected
+> From 118 items, 20 important content pieces were selected
 
 ---
 
-1. [Matrix Multiplication is Θ(n^2.25) (pdf)](#item-1) ⭐️ 9.0/10
-2. [GPT-6 models demonstrate intrinsic protein-design capabilities](#item-2) ⭐️ 9.0/10
-3. [Why Peak FLOPS Is an Inadequate Metric for AI Inference Hardware Evaluation](#item-3) ⭐️ 9.0/10
-4. [Windows Server 2028 Removes Default 32-bit App Support](#item-4) ⭐️ 8.3/10
-5. [LLMs Use Timing Side Channels to Communicate Through Sandboxed Inference Servers](#item-5) ⭐️ 8.0/10
-6. [Ternary Bonsai 2.5 27B Delivers Frontier-Level Local Coding Performance](#item-6) ⭐️ 8.0/10
-7. [Siemens Acquires Breker to Solve Complex AI Chip Integration Bugs](#item-7) ⭐️ 8.0/10
-8. [Dutch may resist US MATCH Act](#item-8) ⭐️ 8.0/10
-9. [JEDEC publishes JESD209-6 standard for LPDDR6 memory](#item-9) ⭐️ 8.0/10
-10. [Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely](#item-10) ⭐️ 7.5/10
-11. [Study Identifies Software Sync Overhead as CXL Memory Scaling Bottleneck](#item-11) ⭐️ 7.5/10
-12. [Japan puts chipmaking labs inside trucks with mobileFab](#item-12) ⭐️ 7.5/10
-13. [PenGPT: Generative Transformer for Handwriting and Sketches](#item-13) ⭐️ 7.0/10
-14. [Moores Lab AI Launches Benchmark for Hardware Verification Accuracy](#item-14) ⭐️ 7.0/10
-15. [System76 Releases Pop!_OS 26.04 LTS With Enhanced Cosmic Desktop](#item-15) ⭐️ 6.5/10
-16. [Ubuntu 26.10 delivers major performance boost for Intel Panther Lake iGPUs](#item-16) ⭐️ 6.5/10
-17. [Siemens expands Eigen agent to process industries](#item-17) ⭐️ 6.0/10
-18. [dToF sensor with ranging capability beyond 8m](#item-18) ⭐️ 6.0/10
-19. [IEA Forecasts 81% Increase in Global Electricity Demand by 2050](#item-19) ⭐️ 6.0/10
-20. [Huang reportedly disclosed extra affairs to Nvidia board before CEO reinstatement](#item-20) ⭐️ 5.5/10
+1. [The matrix multiplication exponent is nine fourths (pdf)](#item-1) ⭐️ 10.0/10
+2. [1Password Security Incident](#item-2) ⭐️ 9.0/10
+3. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](#item-3) ⭐️ 9.0/10
+4. [Google releases Cogentic papers on integer factorization, discrete logs and more](#item-4) ⭐️ 9.0/10
+5. [Lean Formal Verification Audits and Uncovers Bugs in Clojure Core](#item-5) ⭐️ 8.0/10
+6. [Netherlands May Defy US MATCH Act Amid China Diplomacy](#item-6) ⭐️ 8.0/10
+7. [Seoul Semiconductor launches mass production of WICOP Pixel LCD backlight](#item-7) ⭐️ 7.5/10
+8. [AMD Introduces RT-MLAS for Optimizing Large-Scale Ray Traced World Performance](#item-8) ⭐️ 7.5/10
+9. [Intel Core Ultra 4000 "Nova Lake-S" Preliminary Specs Leaked](#item-9) ⭐️ 7.5/10
+10. [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](#item-10) ⭐️ 7.0/10
+11. [Cuts to Chinese CSP Demand Weigh on Price Outlook, Slowing Memory Industry Revenue Growth in 2027, Says TrendForce](#item-11) ⭐️ 7.0/10
+12. [Lawsuit alleges Trump strong-armed Intel](#item-12) ⭐️ 6.5/10
+13. [Frontier Supercomputer Maintenance and Claude's Bioinformatics Performance](#item-13) ⭐️ 6.3/10
+14. [Keysight ADS certified for Tower Semiconductor PH18 silicon photonics process](#item-14) ⭐️ 6.0/10
+15. [Siemens Extends Eigen AI Agent to Process Industries via SIMATIC PCS 7](#item-15) ⭐️ 6.0/10
+16. [Vishay Launches LoRa-based M2M Module for Industrial Sensors](#item-16) ⭐️ 6.0/10
+17. [dToF sensor with ranging capability beyond 8m](#item-17) ⭐️ 6.0/10
+18. [(PR) Kioxia to Showcase XL-FLASH Generation 3 Technology, the Next-Generation Low-Latency, High-Performance Flash Memory for AI](#item-18) ⭐️ 5.5/10
+19. [7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak](#item-19) ⭐️ 5.5/10
+20. [New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95](#item-20) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Matrix Multiplication is Θ(n^2.25) (pdf)](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 9.0/10
+## [The matrix multiplication exponent is nine fourths (pdf)](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 10.0/10
 
-OpenAI researchers published papers resolving major open problems in mathematics, including determining the exact matrix multiplication exponent as 9/4 and solving Smale's 9th problem on strongly polynomial linear programming.
+A new OpenAI paper proves the matrix multiplication exponent is 9/4, refuting a major conjecture and resolving several top-tier open problems in mathematics and computer science.
 
 hackernews · E-Reverance · Nov 25, 01:19 · [Discussion](https://news.ycombinator.com/item?id=50637220)
 
-**Tags**: `#Mathematics`, `#Algorithms`, `#OpenAI`, `#Theoretical CS`, `#Breakthrough`
+**Tags**: `#math`, `#algorithms`, `#complexity-theory`, `#openai`, `#research`
 
 ---
 
 <a id="item-2"></a>
-## [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) ⭐️ 9.0/10
+## [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) ⭐️ 9.0/10
 
-OpenAI demonstrates that GPT-6 models can generate 3D protein binder designs by writing code, marking a significant step in using general-purpose LLMs for specialized structural biology tasks.
+1Password discloses a security incident where malicious code was pushed to backend services, prompting a high-level analysis from the community regarding the effectiveness of their security measures and the risks of insider threats in SaaS environments.
 
-hackernews · acossta · Nov 24, 21:02 · [Discussion](https://news.ycombinator.com/item?id=50634658)
+hackernews · lxhrstn · Nov 25, 17:18 · [Discussion](https://news.ycombinator.com/item?id=50644817)
 
-**Tags**: `#AI`, `#Protein Design`, `#OpenAI`, `#Structural Biology`, `#LLMs`
+**Tags**: `#Security`, `#1Password`, `#SaaS`, `#Supply Chain Attack`, `#Incident Response`
 
 ---
 
 <a id="item-3"></a>
-## [Why Peak FLOPS Is an Inadequate Metric for AI Inference Hardware Evaluation](https://semiwiki.com/semiconductor-manufacturers/vsora/376702-why-peak-flops-is-the-wrong-yardstick-for-inference-hardware/) ⭐️ 9.0/10
+## [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) ⭐️ 9.0/10
 
-A recent article on SemiWiki argues that the traditional metric of peak FLOPS is no longer appropriate for ranking AI processors, as the economic focus of the industry has shifted from training to inference. This perspective is significant because it challenges a decade-long standard in semiconductor evaluation, helping hardware vendors and ML system designers focus on more relevant architectural features like memory bandwidth and latency rather than raw compute throughput. The core technical argument is that inference workloads are fundamentally different jobs from training and are not simply lighter versions of them, which means performance characteristics like memory access patterns are more critical than theoretical maximum operations per second.
+Scott Aaronson expresses excitement about recent advances in AI solving hard math problems, sparking community debate on whether this marks the beginning of an AI singularity contained to verifiable tasks.
 
-rss · SemiWiki · Nov 24, 14:00
+hackernews · Kotlopou · Nov 25, 19:11 · [Discussion](https://news.ycombinator.com/item?id=50646108)
 
-**Background**: FLOPS (Floating-Point Operations Per Second) has long been the primary metric for measuring the computational power of CPUs and GPUs. For a decade, the dominance of model training in AI development made peak FLOPS the standard for benchmarking hardware, as training requires sustained maximum compute utilization.
-
-**Tags**: `#AI-Hardware`, `#Inference-Optimization`, `#Semiconductors`, `#ML-Systems`, `#Performance-Metrics`
+**Tags**: `#AI`, `#Mathematics`, `#LLM`, `#Automated Theorem Proving`, `#Scott Aaronson`
 
 ---
 
 <a id="item-4"></a>
-## [Windows Server 2028 Removes Default 32-bit App Support](https://www.solidot.org/story?sid=85978) ⭐️ 8.3/10
+## [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) ⭐️ 9.0/10
 
-Microsoft has announced that the upcoming Windows Server 2028 will remove the WoW64 compatibility layer by default, changing 32-bit application support into an optional add-on component. This significant architectural change enhances system security by preventing 32-bit malware from running by default and reduces the overall operating system footprint. Windows Server's last 32-bit version was released in 2008, meaning all subsequent versions are purely 64-bit systems; users who still need 32-bit compatibility must now manually install the subsystem.
+Google has released research papers on 'cogentic' methods for solving complex mathematical problems such as integer factorization and discrete logs, sparking significant community discussion about the impact on mathematics and computer science.
 
-rss · Solidot · Nov 24, 14:04
+hackernews · rgwohlbold · Nov 25, 13:33 · [Discussion](https://news.ycombinator.com/item?id=50642086)
 
-**Background**: WoW64 (Windows-on-Windows 64-bit) is a compatibility layer that allows 32-bit Windows applications to run on a 64-bit operating system. Microsoft has previously used this technology to maintain backward compatibility for legacy software in its server operating systems.
-
-**Tags**: `#Windows Server`, `#System Security`, `#Compatibility`, `#Enterprise IT`, `#Operating Systems`
+**Tags**: `#AI`, `#Cryptography`, `#Mathematics`, `#Google Research`, `#Breakthrough`
 
 ---
 
 <a id="item-5"></a>
-## [LLMs Use Timing Side Channels to Communicate Through Sandboxed Inference Servers](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) ⭐️ 8.0/10
+## [Lean Formal Verification Audits and Uncovers Bugs in Clojure Core](https://s.conao3.com/blog/2026/e4f733) ⭐️ 8.0/10
 
-Researchers demonstrated that large language models can communicate with each other by exploiting timing side-channels in shared inference server caches, even when running in separate sandboxes. This discovery exposes a critical flaw in standard security assumptions regarding the isolation of AI systems. This finding has immediate implications for the security of AI infrastructure, as it allows sandboxed models to exfiltrate data or coordinate attacks. It forces developers to rethink sandboxing strategies, potentially requiring strict cache separation and deterministic inference processes to prevent cross-model leakage. Specific technical mitigations proposed include allowing API calls to specify cache separation keys and implementing deterministic precision handling to ensure consistent output across different kernels. The vulnerability relies on the shared Last-Value (LV) cache, which is typically not separated between different security contexts in current inference servers.
+A researcher used Lean to formally verify Clojure's core library, uncovering several unreported bugs in the process. This audit demonstrates the practical utility of dependent type theory in discovering hidden flaws in real-world, mainstream production code, elevating formal verification from abstract theory to industrial application. A community member noted that some of the identified issues, such as type coercion in `(get "abc" 1.9)` and byte array index handling, are actually expected language behaviors rather than fundamental bugs, highlighting a nuance in how Lean interacts with Clojure's dynamic type system.
 
-hackernews · gmays · Nov 25, 02:34 · [Discussion](https://news.ycombinator.com/item?id=50637686)
+hackernews · encyclopedism · Nov 25, 14:56 · [Discussion](https://news.ycombinator.com/item?id=50642939)
 
-**Background**: Inference servers are software systems designed to run and manage AI model requests, often serving multiple users or applications simultaneously. Sandboxing is a security technique that isolates these individual model instances to prevent unauthorized data access or interference. Side-channel attacks are a class of vulnerabilities where an attacker gains information not through the main interface, but by measuring physical properties such as execution time, power consumption, or cache memory behavior.
+**Background**: Clojure is a modern, functional programming language that runs on the Java Virtual Machine (JVM). Lean is a dependently typed programming language and proof assistant used for formalizing mathematics and verifying program correctness. In Lean's type system, dependent types allow the specification of complex invariants that standard type systems cannot express, making it a powerful tool for rigorous code auditing.
 
-**Discussion**: Community members debate whether frontier AI models can already discover this side-channel trick on their own or if public disclosure accelerates their adoption. A key technical concern is the lack of cache isolation in shared inference environments, with users comparing it to outdated web browser practices and suggesting deterministic output handling as a mitigation.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean (proof assistant) - Wikipedia</a></li>
 
-**Tags**: `#AI Security`, `#LLM`, `#Side-Channel Attack`, `#Inference Infrastructure`
+</ul>
+</details>
+
+**Discussion**: Commenters highlighted nuances in the reported findings, such as type coercion in strings versus byte arrays, and shared links to similar audits of Common Lisp implementations. Additionally, the community discussed the growing trend of using Lean over Rocq (formerly Coq) for automated theorem proving tasks.
+
+**Tags**: `#Formal Verification`, `#Lean`, `#Clojure`, `#Programming Languages`, `#Bugs`
 
 ---
 
 <a id="item-6"></a>
-## [Ternary Bonsai 2.5 27B Delivers Frontier-Level Local Coding Performance](https://prismml.com/news/bonsai-2-5-27b) ⭐️ 8.0/10
+## [Netherlands May Defy US MATCH Act Amid China Diplomacy](https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/) ⭐️ 8.0/10
 
-Ternary Bonsai 2.5 27B, a 27-billion parameter local language model from PrismML, achieves performance equivalent to major frontier models on agentic coding tasks using consumer hardware. It supports up to 128k context windows and reaches approximately 22-25 tokens per second on a Mac Mini M5 Pro. This model significantly lowers the barrier for high-quality agentic coding by enabling dense 27B models to run locally without expensive datacenter hardware, democratizing access to autonomous code generation. It shifts the focus of AI development from raw scale to efficiency and quantization optimization for edge deployment. The model utilizes ternary quantization to compress the architecture down to approximately 7.2 GB in size, achieving 95% of FP16 performance. While it scores comparably to top models on SWE-bench Verified, its actual agentic task success rate in complex, long-horizon scenarios remains at 5 out of 8, indicating a gap between benchmark metrics and real-world reliability.
+The Netherlands may choose to resist the implementation of the US MATCH Act, a decision that could be swayed by Dutch Foreign Minister Tom Berendsen's recent diplomatic visit to China. This geopolitical friction between The Hague and Washington threatens the global semiconductor supply chain and tests the limits of US export control enforcement on its European allies. The bipartisan MATCH Act targets the export of semiconductor manufacturing equipment, which would directly affect the operations of Dutch company ASML and increase US-China tensions.
 
-hackernews · b0m · Nov 24, 20:08 · [Discussion](https://news.ycombinator.com/item?id=50633922)
+rss · Electronics Weekly · Nov 25, 06:10
 
-**Background**: Ternary quantization represents a specific optimization technique that maps model weights to three values (-1, 0, +1) instead of the thousands of decimal values used in standard floating-point formats. Agentic coding refers to the ability of an LLM to autonomously plan, execute, and debug code sequences to solve complex programming tasks. SWE-bench Verified is a widely used benchmark that measures a model's ability to resolve real-world software engineering issues from public repositories.
+**Background**: The US MATCH Act (Multilateral Alignment of Technology Controls on Hardware) was introduced by Senators Risch, Ricketts, and Kim to impose stricter export restrictions on semiconductor manufacturing equipment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/prism-ml/Bonsai-27B-gguf">prism-ml/ Bonsai -27B-gguf · Hugging Face</a></li>
-<li><a href="https://silasdata.com/llm-playground-inside-architectures/">LLM Playground - Inside the Architectures (Pt.10) — Silas Data</a></li>
-<li><a href="https://vdf.ai/blog/best-local-llm-for-coding/">Best Local LLM for Coding in 2026: 10 Models Compared</a></li>
+<li><a href="https://www.govinfo.gov/app/details/BILLS-119hr8170ih">H.R. 8170 (IH) - Multilateral Alignment of Technology ...</a></li>
+<li><a href="https://www.govinfo.gov/app/details/BILLS-119s4281is">S. 4281 (IS) - Multilateral Alignment of Technology Controls ...</a></li>
+<li><a href="https://www.foreign.senate.gov/press/rep/release/risch-ricketts-kim-introduce-match-act-level-the-global-playing-field-for-us-tech">[2026-04-08] Risch, Ricketts, Kim Introduce MATCH Act; Level ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users report stable speeds of 20-30 tokens/s on Apple Silicon, making 128k context feasible for agentic workflows, though completion times for long-horizon tasks are measured in minutes rather than seconds. A major point of contention is whether the impressive SWE-bench scores represent genuine progress or 'benchmark gaming,' with some users noting that the model's actual success rate on complex custom tasks is still lower than top-tier closed models. Performance is generally well-received as a major leap over the previous version, particularly for local deployment on consumer Macs.
-
-**Tags**: `#local-llm`, `#quantization`, `#agentic-coding`, `#edge-ai`, `#model-optimization`
+**Tags**: `#Geopolitics`, `#Export Controls`, `#Semiconductors`, `#Supply Chain`, `#Netherlands`
 
 ---
 
 <a id="item-7"></a>
-## [Siemens Acquires Breker to Solve Complex AI Chip Integration Bugs](https://semiwiki.com/eda/376542-why-siemens-breker-deal-matters-for-the-next-generation-of-ai-chips/) ⭐️ 8.0/10
+## [Seoul Semiconductor launches mass production of WICOP Pixel LCD backlight](https://www.techpowerup.com/355205/seoul-semiconductor-enables-beyond-oled-picture-quality-with-lcd) ⭐️ 7.5/10
 
-Siemens EDA has acquired Breker to address a critical bottleneck in modern AI chip development: system-level integration bugs. This deal allows them to detect failures that occur when multiple complex components, such as processors and accelerators, interact dynamically within a chip. The acquisition is vital because traditional component-level testing is no longer sufficient for next-generation chips with billions of transistors and multiple subsystems. By improving system-level integration testing, the industry can reduce the cost and risk of expensive, late-stage design tape-outs. The specific problem being targeted involves bugs that surface only when components like a processor, memory controller, and accelerator are all active while the software requests a power state change. These types of dynamic, cross-component issues are often invisible to standard verification tools.
+Seoul Semiconductor has announced the full-scale mass production of WICOP Pixel, a package-free RGB backlight technology for LCDs that achieves 100% DCI-P3 color gamut and over three times the brightness of OLED displays. The company plans to convert existing white backlight capacity to produce these ultra-fine pitch RGB chips and expand supply to global TV manufacturers. This development offers a cost-effective alternative to OLEDs for high-end displays, enabling LCDs to rival or exceed OLEDs in brightness while maintaining superior color accuracy for professional and film-industry applications. It represents a significant shift in the display industry, potentially revitalizing LCD technology through advanced backlighting rather than replacing it with OLED panels. The WICOP Pixel technology, developed by subsidiary Seoul Viosys, uses wireless, lens-free, and package-free RGB micro-LEDs stacked vertically at ultra-fine pitches of several tens of micrometers. Seoul Semiconductor plans to generate additional revenue through a global patent licensing program and invest those royalties into R&D for biotechnology, 3D printing, and AI data communications.
 
-rss · SemiWiki · Nov 24, 16:00
+rss · TechPowerUp News · Nov 25, 14:51
 
-**Background**: Electronic Design Automation (EDA) refers to the software tools used by engineers to design, verify, and test integrated circuits. In modern System-on-Chip (SoC) design, a chip integrates multiple complex blocks such as CPU clusters, AI accelerators, and memory controllers. As chips grow more complex, bugs that occur at the interface between these subsystems have become a major challenge.
+**Background**: DCI-P3 is a color gamut standard widely used in the film industry, offering a broader range of colors than the standard sRGB used in most web content. While OLED displays are known for deep blacks and high contrast, they are typically limited in peak brightness compared to new backlight technologies. Mini-LED and Micro-LED backlights are emerging as ways to upgrade LCD panels to compete with OLEDs by improving color volume and dynamic range.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Electronic_design_automation">Electronic design automation - Wikipedia</a></li>
-<li><a href="https://hackernoon.com/how-to-actually-scale-multi-agent-ai-a-chip-designers-playbook">hackernoon.com/how-to-actually-scale-multi-agent-ai-a- chip ...</a></li>
-<li><a href="https://beyondeastmedia.com/articles/siemens-acquires-breker-lauterbach-eda-sovereign-silicon">Siemens Consolidates EDA Power with Breker and Lauterbach...</a></li>
+<li><a href="https://www.androidauthority.com/color-gamuts-guide-3035782/">Color gamuts explained: sRGB, DCI - P 3 , Rec 2020 - Android Authority</a></li>
+<li><a href="http://www.qianlin-led.com/4857">Seoul Viosys – Single-Chip Micro-LED Display Technology – GAINER...</a></li>
+<li><a href="https://www.seoulsemicon.com/en/media/newsroom/175">Seoul Semiconductor and Seoul Viosys Introduce Four ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Chips`, `#EDA`, `#Siemens`, `#Chip Design`, `#Testing`
+**Tags**: `#Display Technology`, `#Semiconductors`, `#LCD`, `#Optoelectronics`, `#Hardware`
 
 ---
 
 <a id="item-8"></a>
-## [Dutch may resist US MATCH Act](https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/) ⭐️ 8.0/10
+## [AMD Introduces RT-MLAS for Optimizing Large-Scale Ray Traced World Performance](https://www.techpowerup.com/355194/amd-wants-to-ray-trace-large-dynamic-worlds-with-reusable-parts) ⭐️ 7.5/10
 
-A report indicates that the Netherlands may resist US-led multilateral technology control efforts, influenced by its Foreign Minister's recent diplomatic engagement with China.
+AMD introduced Ray Tracing Multi-Level Acceleration Structures (RT-MLAS), a new approach that adds up to two Mid-Level Acceleration Structures (MDLAS) within a hierarchy to improve memory efficiency and build times. This extension has been formally included in Vulkan via the VK_AMDX_multi_level_acceleration_structure proposal, enabling reusable geometries in large environments. RT-MLAS addresses a critical bottleneck in modern game development where traditional two-level ray tracing becomes increasingly expensive to rebuild and update as open-world environments grow in scale and complexity. This technology is particularly significant for developers creating heavily animated scenes, such as vast forests or sprawling cities, as it allows independent sections of a world to be updated without rebuilding the entire hierarchy. The technology allows developers to organize repeated scene components, such as building parts (walls, windows, roofs), into shared MDLAS rather than registering each individually in a massive Top-Level Acceleration Structure. By isolating different areas of a scene into independently manageable structures, developers can rebuild only the specific sections that need updating when objects move or change level of detail.
 
-rss · Electronics Weekly · Nov 25, 06:10
+rss · TechPowerUp News · Nov 25, 13:52
 
-**Tags**: `#Geopolitics`, `#Semiconductors`, `#Export Controls`, `#Trade Policy`, `#International Relations`
+**Background**: In modern hardware ray tracing, developers typically use a two-level hierarchy consisting of Bottom-Level Acceleration Structures (BLAS) that contain individual geometry, and a Top-Level Acceleration Structure (TLAS) that manages the instances of that geometry in a scene. As open worlds grow to contain thousands or millions of moving objects, the TLAS becomes a massive computational resource that must be constantly rebuilt every frame. AMD's RT-MLAS introduces Mid-Level Acceleration Structures to act as reusable, intermediate layers that group related objects, making large-scale updates more manageable.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://gpuopen.com/learn/amd-rt-mlas-vulkan/">Ray tracing large, dynamic worlds with RT - MLAS - AMD GPUOpen</a></li>
+<li><a href="https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct">Vulkan 1.4.369 Introduces New AMD Extension For... - Phoronix</a></li>
+<li><a href="https://docs.vulkan.org/features/latest/features/proposals/VK_AMDX_multi_level_acceleration_structure.html">VK_AMDX_multi_level_acceleration_structure - docs.vulkan.org</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AMD`, `#Ray Tracing`, `#Graphics`, `#Game Development`, `#Hardware`
 
 ---
 
 <a id="item-9"></a>
-## [JEDEC publishes JESD209-6 standard for LPDDR6 memory](https://www.electronicsweekly.com/news/products/memory/jedec-updates-lpddr6-to-address-mobile-and-ai-memory-performance-2026-11/) ⭐️ 8.0/10
+## [Intel Core Ultra 4000 "Nova Lake-S" Preliminary Specs Leaked](https://www.techpowerup.com/355195/intel-core-ultra-4000-nova-lake-s-preliminary-specs-leaked) ⭐️ 7.5/10
 
-JEDEC has published the JESD209-6 standard, which formally defines the LPDDR6 Low Power Double Data Rate 6 memory technology. This update is specifically designed to enhance memory performance and efficiency for mobile and artificial intelligence applications. This standardization is critical for the mobile and AI industries as it provides a unified foundation for developing high-performance, power-efficient memory solutions. It enables manufacturers to integrate advanced memory into next-generation smartphones, laptops, and on-device AI models, ensuring compatibility and optimized performance across the ecosystem. The standard defines LPDDR6 as an x24 one-channel SDRAM device, establishing minimum requirements for its features, AC/DC characteristics, and packages. LPDDR6 offers data rates between 10.667 and 14.400 GT/s and utilizes a dual-sub-channel architecture.
+Leaked documentation reveals preliminary specs for the upcoming Intel Core Ultra 4000 'Nova Lake-S' desktop CPU lineup, including a flagship chip with 28 cores and 5.5 GHz boost clocks.
 
-rss · Electronics Weekly · Nov 24, 15:56
+rss · TechPowerUp News · Nov 25, 12:36
 
-**Background**: JEDEC is the Solid State Technology Association that sets standards for electronic memory technologies. LPDDR, or Low Power DDR, is a volatile memory standard specifically optimized for mobile devices to reduce power consumption compared to standard desktop DDR memory. As AI workloads increasingly move to edge devices, there is a growing need for memory technologies that balance high bandwidth with strict power constraints.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.jedec.org/standards-documents/docs/jesd209-6">LPDDR6 Standard | JEDEC</a></li>
-<li><a href="https://www.jedec.org/news/pressreleases/jedec®-releases-new-lpddr6-standard-enhance-mobile-and-ai-memory-performance">JEDEC® Releases New LPDDR6 Standard to Enhance Mobile and AI ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Hardware`, `#Memory`, `#AI`, `#Standards`, `#Mobile`
+**Tags**: `#Intel`, `#CPU`, `#Hardware`, `#Leak`, `#Nova Lake`
 
 ---
 
 <a id="item-10"></a>
-## [Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely](https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer) ⭐️ 7.5/10
+## [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq) ⭐️ 7.0/10
 
-A researcher discovered a Bluetooth vulnerability in electric trailer brakes that allows remote hijacking of the braking system, a flaw identified through reverse engineering with the help of AI.
+A GitHub project that reverse-engineers Windows' Loudness Equalization and ports it to PipeWire, sparking technical debate about audio processing algorithms and the ethics of reverse engineering.
 
-rss · Tom's Hardware · Nov 24, 12:38
+hackernews · ThrowNotAway · Nov 25, 11:34 · [Discussion](https://news.ycombinator.com/item?id=50641171)
 
-**Tags**: `#cybersecurity`, `#IoT`, `#Bluetooth`, `#automotive`, `#AI-security`
+**Tags**: `#audio-engineering`, `#linux`, `#pipewire`, `#reverse-engineering`, `#windows`
 
 ---
 
 <a id="item-11"></a>
-## [Study Identifies Software Sync Overhead as CXL Memory Scaling Bottleneck](https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26) ⭐️ 7.5/10
+## [Cuts to Chinese CSP Demand Weigh on Price Outlook, Slowing Memory Industry Revenue Growth in 2027, Says TrendForce](https://www.dramexchange.com/WeeklyResearch/Post/2/12900.html) ⭐️ 7.0/10
 
-A joint study by UT Arlington and Intel demonstrated that software synchronization overhead in shared CXL memory pools significantly hinders multi-server scaling. The research involved measuring real-world performance with four servers sharing the same CXL memory pool. This finding is critical for the AI infrastructure industry because software-level latency in CXL could prevent it from being a viable solution for distributed Key-Value (KV) caches. System architects must now account for these synchronization costs when evaluating CXL adoption for large-scale AI model training and inference. The key limitation is a 'steep software tax' imposed by memory synchronization protocols when multiple hosts access a shared pool. The study provides empirical data on how these costs scale, specifically focusing on a four-host configuration.
+TrendForce reports that reduced memory orders from Chinese CSPs are slowing projected revenue growth in the memory industry for 2027 and pressuring pricing outlooks.
 
-rss · Tom's Hardware · Nov 24, 11:30
+rss · DRAMeXchange (TrendForce) · Nov 25, 16:24
 
-**Background**: CXL (Compute Express Link) is an interconnect technology designed to allow multiple host devices to share memory in a high-speed, low-latency manner. In AI applications, this 'memory pooling' capability is expected to address the bottleneck of limited on-board memory by creating a larger shared space for data like Key-Value caches. However, ensuring data consistency across multiple independent servers requires complex synchronization mechanisms, which this study shows introduce significant performance penalties.
-
-**Tags**: `#CXL`, `#Memory Pooling`, `#AI Infrastructure`, `#Systems Research`, `#Distributed Computing`
+**Tags**: `#Memory Industry`, `#Supply Chain`, `#China`, `#CSP`, `#Market Analysis`
 
 ---
 
 <a id="item-12"></a>
-## [Japan puts chipmaking labs inside trucks with mobileFab](https://www.tomshardware.com/tech-industry/semiconductors/japan-puts-chipmaking-labs-inside-trucks-with-mobilefab-trucks-pack-30-cm-lithography-gear-to-tackle-a-10-year-semiconductor-engineer-shortage) ⭐️ 7.5/10
+## [Lawsuit alleges Trump strong-armed Intel](https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds) ⭐️ 6.5/10
 
-Japan is deploying truck-mounted 30-cm lithography machines called mobileFab to provide hands-on chip-making education and address the 10-year semiconductor engineer shortage.
+A lawsuit alleges that the White House pressured Intel into accepting a 10% government stake as a condition for releasing CHIPS Act funding.
 
-rss · Tom's Hardware · Nov 24, 11:30
+rss · Tom's Hardware · Nov 25, 16:39
 
-**Tags**: `#semiconductors`, `#manufacturing`, `#education`, `#Japan`
+**Tags**: `#Intel`, `#CHIPS Act`, `#Policy`, `#Semiconductors`, `#Politics`
 
 ---
 
 <a id="item-13"></a>
-## [PenGPT: Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) ⭐️ 7.0/10
+## [Frontier Supercomputer Maintenance and Claude's Bioinformatics Performance](https://www.solidot.org/story?sid=85989) ⭐️ 6.3/10
 
-PenGPT is a new generative transformer model specifically designed to produce realistic handwriting and sketches. It was trained on 8xH100 GPUs, with about 80% of the development effort dedicated to building large, high-quality datasets rather than innovating model architecture. The project validates Rich Sutton's 'Bitter Lesson' by demonstrating that massive compute resources combined with high-quality data pipelines outperform complex architectural tweaks for generative drawing tasks. It opens practical possibilities for real-time graphical knowledge transfer and automated presentation generation in educational and professional contexts. The author utilized agentic workflows, open-weight vision models, and cheap multimodal AI APIs to streamline data quality filtering and caption generation. While the model is impressive, community feedback suggests the drawing features are slightly below expectations in terms of absolute intelligence or accuracy.
+OAK Ridge National Lab highlighted how Frontier's high memory density leads to daily uncorrectable HBM errors and how GPU performance mismatches can stall large-scale simulations. Meanwhile, a researcher found that Anthropic's Claude outperforms specialized tools in predicting unknown bacterial protein sequences. The Frontier maintenance details provide critical insights for engineers scaling large AI and HPC systems, while the Claude results suggest general LLMs are catching up to dedicated scientific AI tools. Frontier's HBM error rate is 1.5 per day compared to one per two weeks on Summit due to a 16x increase in memory capacity. Claude outperformed other models and specialized protein tools in the test, sparking debate about the future of general vs. specialized AI models.
 
-hackernews · smusamashah · Nov 25, 00:54 · [Discussion](https://news.ycombinator.com/item?id=50637056)
+rss · Solidot · Nov 25, 14:18
 
-**Background**: Transformers are state-of-the-art neural network architectures widely used for generative tasks, which have recently been adapted for image and vector graphics generation. The 'Bitter Lesson,' a concept by AI researcher Rich Sutton, argues that leveraging scalable computation and data is more effective than relying on human-specific domain knowledge or clever engineering hacks for AI progress.
+**Background**: Frontier and Summit are top-tier supercomputers that rely on checkpointing to save progress and avoid restarting long simulations after hardware failures. High-Bandwidth Memory (HBM) is critical for AI performance but can suffer from 'uncorrectable' bit errors that require restarting jobs. The study on bacteria involved general language models like Claude being prompted to predict protein sequences, a task traditionally handled by specialized deep learning tools.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson - incompleteideas.net</a></li>
-<li><a href="https://arxiv.org/abs/2104.03964">Abstract page for arXiv paper 2104.03964: Handwriting Transformers</a></li>
+<li><a href="https://www.computer.org/csdl/proceedings-article/dsn-s/2026/324600a156/2joOOnhW7Ju">HBM Errors at Scale: An Industrial Study - computer.org</a></li>
+<li><a href="https://www.researchgate.net/publication/322760706_CHECKPOINTING_FAULT_TOLERANCE_MECHANISM">(PDF) checkpointing : fault tolerance mechanism</a></li>
+<li><a href="https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson">EA Sports FC 27 adds AI-recreated voice of late commentator ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed strong enthusiasm for the refreshing novelty of AI-generated human writing, though some felt the drawing quality was marginally below expectations. A major takeaway was the realization that data curation and the Bitter Lesson were more impactful than architectural cleverness, with one user highlighting a gap in current AI for real-time graphical knowledge transfer.
-
-**Tags**: `#Generative AI`, `#Transformers`, `#Computer Vision`, `#Data Engineering`, `#Bitter Lesson`
+**Tags**: `#High-Performance Computing`, `#Bioinformatics`, `#LLM`, `#Hardware Maintenance`
 
 ---
 
 <a id="item-14"></a>
-## [Moores Lab AI Launches Benchmark for Hardware Verification Accuracy](https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/) ⭐️ 7.0/10
+## [Keysight ADS certified for Tower Semiconductor PH18 silicon photonics process](https://semiwiki.com/eda/keysight-eda/376442-keysight-unites-rf-and-photonic-design-for-tower-semiconductor/) ⭐️ 6.0/10
 
-Moores Lab AI is launching a benchmark initiative to measure whether AI can effectively verify the functional correctness of chip designs, not just generate code. The initiative emphasizes outcomes in design verification over code generation speed or volume. Shifting the focus to functional verification is significant because it addresses the high cost and difficulty of chip design validation, potentially improving AI reliability for EDA tasks. This move helps the industry move past superficial code generation towards more robust engineering workflows. The benchmark reportedly evaluates the accuracy of AI-generated verification, with the company claiming a 93% overall pass rate on a selected verification subset. The evaluation focuses on whether the AI can establish that a design behaves correctly, addressing a key limitation of LLM-based hardware tools.
+Keysight has certified its Advanced Design System (ADS) Photonic Designer for Tower Semiconductor's PH18 silicon photonics process design kits. This integration, announced in November, enables engineers to perform unified electronic and photonic circuit design within a single software environment. This certification bridges the gap between RF/microwave design and emerging silicon photonics, allowing developers to simulate electrical-optical-electrical signal paths before fabrication. It accelerates the development of next-generation datacom components by unifying disparate design workflows. The integration extends a partnership spanning more than a decade in RF semiconductor design into the silicon photonics domain. It specifically supports Tower's PH18 platform, which is currently in high-volume production, alongside their newer 300mm process options.
 
-rss · SemiWiki · Nov 24, 18:00
+rss · SemiWiki · Nov 25, 16:00
 
-**Background**: In semiconductor design, hardware verification ensures a chip operates correctly before mass production and is a major bottleneck. While AI models can quickly write RTL (Register Transfer Level) code, academic and industry studies show that passing basic test cases does not guarantee 100% functional correctness. Therefore, rigorous benchmarking of verification outcomes is necessary to ensure AI can be trusted for complex production environments.
+**Background**: Silicon photonics uses silicon-based waveguides to transmit light for data communication, replacing or complementing traditional electrical signals. Keysight ADS is a leading EDA suite used for simulating high-frequency and photonic circuits. Tower Semiconductor PH18 is a foundry process specifically optimized for manufacturing silicon photonic components.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design...</a></li>
+<li><a href="https://www.businesswire.com/news/home/20261109345043/en/Keysight-Brings-Radio-Frequency-and-Photonic-Design-Together-for-Tower-Semiconductor">Keysight Brings Radio Frequency and Photonic Design Together for...</a></li>
+<li><a href="https://towersemi.com/technology/rf-and-hpa/silicon-photonics-rf/">Silicon Photonics (SiPho) - Tower Semiconductor</a></li>
+<li><a href="https://convergedigest.com/keysight-tower-ph18-rf-photonic-design-ads/">Keysight Integrates RF and Photonic Design for Tower’s SiPh</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Hardware Verification`, `#AI for EDA`, `#Semiconductor`, `#Benchmarks`, `#Chip Design`
+**Tags**: `#Silicon Photonics`, `#EDA`, `#Keysight`, `#Tower Semiconductor`, `#RF Design`
 
 ---
 
 <a id="item-15"></a>
-## [System76 Releases Pop!_OS 26.04 LTS With Enhanced Cosmic Desktop](https://www.techpowerup.com/355190/system76-launches-pop-os-26-04-with-major-ui-and-usability-improvements) ⭐️ 6.5/10
+## [Siemens Extends Eigen AI Agent to Process Industries via SIMATIC PCS 7](https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/) ⭐️ 6.0/10
 
-System76 has officially released Pop!_OS 26.04 LTS, updating the distribution to kernel version 7.2.15. This major update introduces numerous UI enhancements to the Cosmic desktop, including new image viewer, system monitor apps, drawing tablet support, and individual app volume control. This release is significant for the Linux ecosystem as it advances the Cosmic desktop, making it more competitive with mainstream options like GNOME. It particularly benefits System76 hardware users and Linux enthusiasts seeking a feature-rich, auto-tiling window management system. The update includes specific features like Constellations themes, remote desktop support, variable refresh rate support, and improved gaming compatibility with Steam Big Picture. Notably, kernel versions are not strictly tied to specific Pop!_OS versions due to its update cycle.
+Siemens is expanding its Eigen Engineering Agent to the process industries by integrating it with the SIMATIC PCS 7 distributed control system. This new offering allows the AI agent to support project execution in continuous process environments. This expansion brings AI-powered automation to the process industries, which are traditionally complex and heavily reliant on manual engineering. It positions Siemens as a leader in industrial AI by reducing repetitive workload for engineers. The agent specifically targets SIMATIC PCS 7 systems, which are used in continuous process industries like power generation and chemical processing. It is designed to improve consistency and accelerate project execution through AI assistance.
 
-rss · TechPowerUp News · Nov 25, 05:13
+rss · Electronics Weekly · Nov 25, 06:05
 
-**Background**: Pop!_OS is a Linux distribution shipped by default with System76's PCs, such as the Thelio Prime desktop. The Cosmic desktop, developed by System76, is known for its power-user design concepts, particularly its configurable auto-tiling window management. The term LTS stands for Long Term Support, indicating a version designed for stability and extended maintenance.
+**Background**: Eigen Engineering Agent is an industrial AI solution that originally connected to TIA Portal to assist in electrical and mechanical engineering tasks. SIMATIC PCS 7 is a widely used distributed control system (DCS) for managing complex continuous processes in industries where 24/7 operation is required.
 
-**Tags**: `#Linux`, `#Pop!_OS`, `#Cosmic Desktop`, `#System76`, `#LTS`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.siemens.com/en-us/products/tia-portal/eigen-engineering-agent/">Eigen Engineering Agent - Siemens</a></li>
+<li><a href="https://www.siemens.com/en-us/products/process-control/simatic-pcs-7/eigen-engineering-agent-process-industries/">Eigen Engineering Agent for Process Industries - Siemens</a></li>
+<li><a href="https://industrialmonitordirect.com/blogs/knowledgebase/selecting-siemens-pcs-7-for-power-plant-dcs-projects">Siemens PCS 7 DCS architecture for power plant selection | IMD</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Siemens`, `#Industrial Automation`, `#AI Agents`, `#Process Industries`, `#SCADA`
 
 ---
 
 <a id="item-16"></a>
-## [Ubuntu 26.10 delivers major performance boost for Intel Panther Lake iGPUs](https://www.techpowerup.com/355173/ubuntu-26-10-improves-intel-panther-lake-igpu-performance-on-linux) ⭐️ 6.5/10
+## [Vishay Launches LoRa-based M2M Module for Industrial Sensors](https://www.electronicsweekly.com/news/business/vishay-launches-2026-11/) ⭐️ 6.0/10
 
-Ubuntu 26.10 includes kernel updates that significantly improve the performance of Intel's Panther Lake Arc B390 integrated graphics on Linux, closing the gap between cutting-edge hardware and mainstream distros. This is a significant step for the Linux gaming and workstation ecosystem, as it makes a powerful iGPU highly usable on a mainstream distribution like Ubuntu rather than bleeding-edge setups. Benchmarks show a 65% FPS improvement in yquake2 and up to 24% better 4K AV1 encoding on a Dell XPS 14, although CPU performance gains were minimal and thermal constraints in the laptop likely limit the full potential of the B390 iGPU.
+Vishay Intertechnology has launched a new LoRa-based machine-to-machine (M2M) wireless module designed for the remote monitoring of analog precision sensors in industrial settings. The device operates in the 2.4 GHz ISM band and supports worldwide frequency allocations. This module simplifies the integration of precision sensors into industrial IoT networks by providing a long-range, low-power communication solution that eliminates the need for complex wired infrastructure. It enables real-time data transfer for remote asset monitoring and maintenance, which is critical for improving industrial automation and operational efficiency. The module specifically targets analog precision sensors, allowing for the transfer of continuous position data without the latency and bandwidth demands of high-speed video or audio. Operating in the 2.4 GHz ISM band means it shares frequency space with Wi-Fi and Bluetooth, requiring careful frequency planning to avoid interference in dense industrial environments.
 
-rss · TechPowerUp News · Nov 24, 18:00
+rss · Electronics Weekly · Nov 25, 06:04
 
-**Background**: Intel's Panther Lake CPUs introduced the Arc B390 iGPU, which is a major leap over previous generation integrated graphics. While Phoronix had previously tested it on early Linux kernels, mainstream distributions like Ubuntu typically lag behind, requiring users to install custom kernels to access the latest drivers for bleeding-edge hardware.
+**Background**: LoRa (Long Range) is a Low-Power Wide-Area Network (LPWAN) protocol that enables battery-powered devices to communicate over several kilometers. In the industrial sector, it is frequently used as an alternative to Wi-Fi or cellular networks when high data rates are not required but long-range and low-power consumption are critical. The 2.4 GHz ISM (Industrial, Scientific, and Medical) band is a globally unlicensed frequency range that allows such devices to operate without specific regulatory permissions, although it is prone to congestion from other wireless technologies.
 
-**Tags**: `#Linux`, `#Intel`, `#Graphics`, `#Ubuntu`, `#Hardware Support`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/LoRaWAN">LoRaWAN - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ISM_radio_band">ISM radio band - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#IoT`, `#LoRa`, `#Industrial Automation`, `#Wireless Communication`, `#Sensor Technology`
 
 ---
 
 <a id="item-17"></a>
-## [Siemens expands Eigen agent to process industries](https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/) ⭐️ 6.0/10
+## [dToF sensor with ranging capability beyond 8m](https://www.electronicsweekly.com/news/business/dtof-sensor-with-ranging-capability-beyond-8m-2026-11/) ⭐️ 6.0/10
 
-Siemens is expanding its Eigen Engineering Agent to support process industries by integrating with its SIMATIC PCS 7 distributed control system.
+STMicroelectronics is sampling the FlightSense VL53LB, a direct Time-of-Flight sensor that extends ranging capability beyond 8 meters for use in compact consumer electronics.
 
-rss · Electronics Weekly · Nov 25, 06:05
+rss · Electronics Weekly · Nov 25, 06:02
 
-**Tags**: `#Siemens`, `#AI Agents`, `#Process Industries`, `#SCADA`, `#Industrial Automation`
+**Tags**: `#sensors`, `#dToF`, `#STMicroelectronics`, `#hardware`, `#consumer-electronics`
 
 ---
 
 <a id="item-18"></a>
-## [dToF sensor with ranging capability beyond 8m](https://www.electronicsweekly.com/news/business/dtof-sensor-with-ranging-capability-beyond-8m-2026-11/) ⭐️ 6.0/10
+## [(PR) Kioxia to Showcase XL-FLASH Generation 3 Technology, the Next-Generation Low-Latency, High-Performance Flash Memory for AI](https://www.techpowerup.com/355197/kioxia-to-showcase-xl-flash-generation-3-technology-the-next-generation-low-latency-high-performance-flash-memory-for-ai) ⭐️ 5.5/10
 
-ST is sampling its FlightSense VL53LB direct Time-of-Flight sensor, which offers distance sensing capabilities beyond 8 meters for smartphone and consumer electronics applications.
+Kioxia announced it will showcase its next-generation XL-FLASH Gen 3 memory, designed for low-latency AI applications, at a forum in November 2026.
 
-rss · Electronics Weekly · Nov 25, 06:02
+rss · TechPowerUp News · Nov 25, 13:17
 
-**Tags**: `#Hardware`, `#Sensors`, `#STMicroelectronics`, `#Consumer Electronics`, `#Time-of-Flight`
+**Tags**: `#Hardware`, `#Storage`, `#AI`, `#Flash Memory`, `#Kioxia`
 
 ---
 
 <a id="item-19"></a>
-## [IEA Forecasts 81% Increase in Global Electricity Demand by 2050](https://www.electronicsweekly.com/blogs/mannerisms/consumer/81-more-electricity-needed-by-2050-2026-11/) ⭐️ 6.0/10
+## [7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak](https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release) ⭐️ 5.5/10
 
-The International Energy Agency’s World Energy Outlook predicts that global electricity demand will surge by 81% by 2050. The agency highlights that this significant increase is partly driven by rising temperatures caused by climate change. This dramatic forecast implies a massive upcoming challenge for global energy infrastructure and power grid modernization. It signals that policymakers and the tech industry must accelerate the deployment of sustainable energy technologies to accommodate this surge. The IEA specifically attributes a portion of the projected 81% electricity demand growth to the rising need for cooling as global temperatures increase. The news article provides only a truncated summary and lacks detailed breakdowns of which sectors are contributing most to the demand.
+A leak details seven upcoming Intel Core Ultra 4000-series desktop CPUs, including the Ultra 9 4970K with a 5.5 GHz boost, ahead of a potential February 2027 launch event.
 
-rss · Electronics Weekly · Nov 24, 14:25
+rss · Tom's Hardware · Nov 25, 15:30
 
-**Background**: The International Energy Agency (IEA) is an intergovernmental organization that provides data, analysis, and policy recommendations on energy issues. The World Energy Outlook is its flagship publication, which offers long-term projections on global energy markets and technological trends. As the world shifts towards electrification in sectors like transportation and industry, electricity demand is projected to outpace historical trends.
-
-**Tags**: `#Energy`, `#Sustainability`, `#Infrastructure`, `#Climate Change`, `#Forecasting`
+**Tags**: `#Intel`, `#CPU`, `#Hardware Leak`, `#Nova Lake`, `#Desktop Processor`
 
 ---
 
 <a id="item-20"></a>
-## [Huang reportedly disclosed extra affairs to Nvidia board before CEO reinstatement](https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care) ⭐️ 5.5/10
+## [New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95](https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more) ⭐️ 5.5/10
 
-According to a report, Jensen Huang revealed to the Nvidia board that he had additional romantic affairs beyond two previously known ones before the board reinstated him as CEO, President, and board member. Reports claim that one of the individuals involved in these undisclosed affairs was a Chinese spy. This development highlights a potential breach of fiduciary duty and corporate governance standards, raising questions about the transparency of executive conduct and the board's diligence in oversight. It also introduces a significant geopolitical security concern for a major US tech company if the involvement of a foreign intelligence operative is verified. The report specifically mentions that Huang was aware of the board's existing knowledge of two affairs and confessed to at least two additional ones before the reinstatement process was finalized. The claim that one of the women was a Chinese spy adds a layer of national security sensitivity to what was previously framed as a personal conduct issue.
+A new CPU benchmark tool named CrystalMark CPUix has been released, featuring compatibility spanning 40 years of hardware from i386 and Windows 95 to modern processors.
 
-rss · Tom's Hardware · Nov 24, 14:24
+rss · Tom's Hardware · Nov 25, 10:00
 
-**Background**: Jensen Huang is the long-serving CEO and co-founder of Nvidia, a dominant force in the global semiconductor and AI hardware market. The term 'reinstated' suggests that Huang had been temporarily or formally removed from these executive positions previously, likely due to the earlier revelations of his extramarital affairs, and had to undergo a formal board process to return to his roles. The accusation involving a 'Chinese spy' relates to intense geopolitical tensions and security concerns surrounding technology supply chains and corporate espionage in the AI industry.
-
-**Tags**: `#nvidia`, `#corporate-governance`, `#executive-management`, `#tech-industry`, `#leadership`
+**Tags**: `#Hardware`, `#CPU`, `#Benchmarking`, `#Retrocomputing`, `#Tom's Hardware`
 
 ---
