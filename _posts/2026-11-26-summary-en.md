@@ -5,368 +5,290 @@ date: 2026-11-26
 lang: en
 ---
 
-> From 117 items, 20 important content pieces were selected
+> From 97 items, 18 important content pieces were selected
 
 ---
 
-1. [Google DeepMind uses AI to prove Signal's encryption protocol security](#item-1) ⭐️ 9.5/10
-2. [Mathematical proof establishes matrix multiplication exponent as nine-fourths](#item-2) ⭐️ 9.0/10
-3. [Ubuntu Details AI Desktop Integration: "Optional, Local-First, Privacy and Security by Design"](#item-3) ⭐️ 8.5/10
-4. [SK hynix to Start 3D DRAM Production in 2031](#item-4) ⭐️ 8.5/10
-5. [Frontier HPC Resilience, LLM Bio-Utility, and Digital Voice Cloning](#item-5) ⭐️ 8.3/10
-6. [1Password Breach Exposes SaaS Supply Chain Risks](#item-6) ⭐️ 8.0/10
-7. [Anthropic Releases 99% Shorter Lean Proof of Generalized Riemann Hypothesis](#item-7) ⭐️ 8.0/10
-8. [Qwen LLM inference implemented in assembly on bare metal without an OS](#item-8) ⭐️ 8.0/10
-9. [Disclosed 12-year-old pre-auth remote root vulnerability in Linux NFS server](#item-9) ⭐️ 8.0/10
-10. [Samsung and SK hynix Explore Licensing YMTC's Xtacking 4.0 Technology](#item-10) ⭐️ 8.0/10
-11. [AI Makes Formal Verification Practical](#item-11) ⭐️ 8.0/10
-12. [Lawsuit alleges Trump strong-armed Intel](#item-12) ⭐️ 7.5/10
-13. [US blacklists Megaspeed, leaving loophole for low-performance chips](#item-13) ⭐️ 7.5/10
-14. [Ubuntu Security Patch Delays Prompt User Migration to Debian](#item-14) ⭐️ 7.0/10
-15. [OpenAI Reduces GPT-6.2 Quotas, Users Turn to Hybrid Model Tiers](#item-15) ⭐️ 7.0/10
-16. [Chinese CSPs cut 2027 memory orders, slowing industry revenue growth](#item-16) ⭐️ 7.0/10
-17. [Infineon Presents 5.6 kW MCRPS Reference Design for Servers](#item-17) ⭐️ 7.0/10
-18. [Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing](#item-18) ⭐️ 7.0/10
-19. [GTA VI Console Graphics Settings Revealed: Higher Framerate Theoretically Possible on PS5 Pro](#item-19) ⭐️ 6.5/10
-20. [NVIDIA reportedly cuts RTX 50-series supply by 20-30%](#item-20) ⭐️ 6.5/10
+1. [Neuralink User Plays GTA 6 Entirely with Brain Implant](#item-1) ⭐️ 9.5/10
+2. [Samsung and SK Hynix adopt YMTC's Xtacking 3D NAND technology](#item-2) ⭐️ 9.0/10
+3. [Windows Server 2028 Won't Run 32-Bit Apps Out of the Box](#item-3) ⭐️ 8.5/10
+4. [Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history](#item-4) ⭐️ 8.5/10
+5. [Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck](#item-5) ⭐️ 8.5/10
+6. [Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims](#item-6) ⭐️ 8.5/10
+7. [Ubuntu Launches 'warty' for Local-First, Privacy-Centric AI Desktop Integration](#item-7) ⭐️ 7.5/10
+8. [Ukraine Shoots Down Russian Shahed Drone with 4kW Laser](#item-8) ⭐️ 7.5/10
+9. [Export-banned Nvidia B300 servers sold in China at 5x markup](#item-9) ⭐️ 7.5/10
+10. [AMD-Specific llama.cpp Fork Enables Budget LLM Inference](#item-10) ⭐️ 7.0/10
+11. [Analysis Suggests OpenAI Prioritizes Cost Control in Model Operations](#item-11) ⭐️ 7.0/10
+12. [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](#item-12) ⭐️ 7.0/10
+13. [TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031](#item-13) ⭐️ 6.5/10
+14. [CTO of 'RansomwareHelp' Indicted for Wire Fraud](#item-14) ⭐️ 6.0/10
+15. [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](#item-15) ⭐️ 6.0/10
+16. [Nextcloud Launches Desktop App for Controversial Euro-Office Suite](#item-16) ⭐️ 6.0/10
+17. [Thermal Grizzly Launches Oven-Based Delid-Heat-Mate for Safer CPU Delidding](#item-17) ⭐️ 5.5/10
+18. [Firefox 161 Introduces Per-Site VPN and Classic Themes](#item-18) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [Google DeepMind uses AI to prove Signal's encryption protocol security](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work) ⭐️ 9.5/10
+## [Neuralink User Plays GTA 6 Entirely with Brain Implant](https://www.techpowerup.com/355225/neuralink-trial-participant-plays-gta-6-through-his-brain-implant) ⭐️ 9.5/10
 
-Google DeepMind's AlphaProof Code framework successfully generated a mathematical proof of Signal's encryption protocol. This was achieved through a coordinated human-bot interaction model that accelerated the verification process. This breakthrough demonstrates the potential of LLMs in formal verification, which could significantly improve the security and reliability of critical cryptographic systems. It sets a new paradigm for using AI to handle complex mathematical proofs in systems security. The proof specifically targeted the security of Signal's encryption protocol, a widely used standard for end-to-end encryption. The framework relied on human-bot cooperation to manage the complexity and speed of the task, rather than acting as a fully autonomous system.
+Neuralink published footage of a trial participant named Billy, who has tetraplegia, playing the complex AAA game GTA 6 using only his brain implant.
+Billy performed intricate actions like flying planes and fighting by translating imagined finger movements into PlayStation controller inputs. This demonstration marks a significant leap in brain-computer interface technology, moving beyond basic cursor control to mastering multiple complex buttons and joysticks in real-time.
+It highlights a transformative accessibility solution for paralyzed individuals who previously relied on cumbersome input devices like mouth sticks. The system reportedly handles two joysticks and 12 buttons, using specific imagined actions, such as sliding the right hand forward to pull the plane's nose up.
+Neuralink devices are not yet approved by the FDA, so the footage is currently a technical showcase for internal testing rather than an authorized consumer product.
 
-rss · Tom's Hardware · Nov 25, 12:00
+rss · TechPowerUp News · Nov 26, 01:22
 
-**Background**: Signal is a messaging app renowned for its strong end-to-end encryption, which ensures that only the communicating parties can read the messages. Formal verification is a mathematical method used to prove that a system design is correct and secure. AlphaProof is Google DeepMind's framework that leverages large language models to assist in solving complex mathematical problems.
+**Background**: Neuralink is a company developing non-invasive and minimally-invasive brain-computer interfaces to help people with paralysis communicate and interact with the digital world.
+A BCI system typically uses an implanted sensor to detect electrical signals from the brain and decodes them into digital commands using machine learning.
+Tetraplegia is a medical condition resulting from spinal cord injuries that causes complete paralysis of all four limbs, requiring specialized assistive devices for daily interaction.
 
-**Tags**: `#AI`, `#Formal Verification`, `#Cryptography`, `#Google DeepMind`, `#Security`
+**Tags**: `#Neuralink`, `#BCI`, `#Accessibility`, `#Gaming`, `#Neurotechnology`
 
 ---
 
 <a id="item-2"></a>
-## [Mathematical proof establishes matrix multiplication exponent as nine-fourths](https://scottaaronson.blog/?p=10379) ⭐️ 9.0/10
+## [Samsung and SK Hynix adopt YMTC's Xtacking 3D NAND technology](https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/) ⭐️ 9.0/10
 
-A new paper claims to have proven that the matrix multiplication exponent is 9/4, a major theoretical advance in algebraic complexity. This result optimizes fundamental matrix operations, which could accelerate high-performance computing, machine learning algorithms, and scientific simulations. The Hacker News community is debating whether this theoretical breakthrough in mathematics indicates that AI systems have reached a level of analytical capability that threatens cryptographic security.
+According to a report by the Nikkei, Samsung and SK Hynix are adopting the Xtacking 3D NAND technology originally developed by China's Yangtze Memory Technologies. This marks a strategic shift where major global memory manufacturers are utilizing the architecture of a Chinese competitor. This adoption acknowledges the technological leadership of YMTC in 3D NAND manufacturing and could significantly reshape global semiconductor supply chain dynamics. It signals a shift in the competitive landscape where architectural convergence among major players may influence future product roadmaps and market positioning. The Xtacking architecture is distinct because it manufactures memory cells and control circuitry on separate wafers before bonding them together. This decoupled manufacturing approach allows for greater flexibility in scaling density and performance independently for each component.
 
-hackernews · Kotlopou · Nov 25, 19:11 · [Discussion](https://news.ycombinator.com/item?id=50646108)
+rss · Electronics Weekly · Nov 26, 06:13
 
-**Background**: The matrix multiplication exponent determines the theoretical minimum time required to compute the product of two matrices; it was long suspected to be 2.0. 
-This complexity metric is a cornerstone of algebraic and computational complexity, and improving it directly impacts the efficiency of algorithms across computer science.
+**Background**: 3D NAND is a type of flash memory that increases storage capacity by stacking memory cells vertically rather than shrinking them laterally. Historically, different manufacturers have developed proprietary architectures to achieve high density; YMTC's Xtacking approach gained prominence for its wafer-to-wafer bonding technique, while competitors like Samsung and SK Hynix traditionally developed their own in-house methods.
 
-**Discussion**: The discussion splits into two main camps: one arguing that AI labs are too large to keep such a breakthrough secret, while another warns that humans are psychologically unprepared for the rapid cognitive shift.
-Additionally, some skeptics caution against the assumption that solving axiomatic math automatically implies AI will solve all scientific fields.
-
-**Tags**: `#algebraic-complexity`, `#matrix-multiplication`, `#ai-implications`, `#cryptography`, `#research`
+**Tags**: `#Semiconductors`, `#3D NAND`, `#YMTC`, `#Industry News`, `#Hardware`
 
 ---
 
 <a id="item-3"></a>
-## [Ubuntu Details AI Desktop Integration: "Optional, Local-First, Privacy and Security by Design"](https://www.techpowerup.com/355220/ubuntu-details-ai-desktop-integration-optional-local-first-privacy-and-security-by-design) ⭐️ 8.5/10
+## [Windows Server 2028 Won't Run 32-Bit Apps Out of the Box](https://www.techpowerup.com/355223/windows-server-2028-wont-run-32-bit-apps-out-of-the-box) ⭐️ 8.5/10
 
-Ubuntu announces 'warty', a unified AI desktop integration that prioritizes local-first processing, privacy, and a single entry point rather than scattered AI widgets.
+Microsoft announced that Windows Server 2028 will no longer run 32-bit applications by default, making the WoW64 subsystem a feature on demand to enhance security against malware.
 
-rss · TechPowerUp News · Nov 25, 23:24
+rss · TechPowerUp News · Nov 25, 23:58
 
-**Tags**: `#Ubuntu`, `#AI`, `#Local AI`, `#Linux`, `#Desktop Environment`
+**Tags**: `#Windows Server`, `#Security`, `#System Architecture`, `#Microsoft`, `#Compatibility`
 
 ---
 
 <a id="item-4"></a>
-## [SK hynix to Start 3D DRAM Production in 2031](https://www.techpowerup.com/355210/sk-hynix-to-start-3d-dram-production-in-2031) ⭐️ 8.5/10
+## [Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history](https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units) ⭐️ 8.5/10
 
-SK hynix plans to start mass production of next-generation 3D DRAM by 2031, aiming for a 100-layer design to significantly exceed the density of current 1c planar DRAM.
+Electronics manufacturers are establishing 'war rooms' and utilizing non-traditional methods, such as scanning online listings and taking out loans, to secure DRAM supplies during a historic shortage.
 
-rss · TechPowerUp News · Nov 25, 17:34
+rss · Tom's Hardware · Nov 26, 16:11
 
-**Tags**: `#SK hynix`, `#3D DRAM`, `#Semiconductor Manufacturing`, `#Memory Technology`, `#Hardware`
+**Tags**: `#Supply Chain`, `#Semiconductors`, `#DRAM`, `#Hardware`, `#Industry News`
 
 ---
 
 <a id="item-5"></a>
-## [Frontier HPC Resilience, LLM Bio-Utility, and Digital Voice Cloning](https://www.solidot.org/story?sid=85989) ⭐️ 8.3/10
+## [Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck](https://www.tomshardware.com/tech-industry/photonics/inside-the-indium-phosphide-squeeze-and-the-optical-boom-inp-remains-tightly-constrained-as-the-demand-from-ai-puts-the-entire-supply-chain-under-pressure) ⭐️ 8.5/10
 
-A digest highlights the operational challenges of the Frontier supercomputer, where daily uncorrectable memory errors require sophisticated checkpointing to manage thousands of processors. Simultaneously, a researcher found that Anthropic's Claude outperforms specialized tools in predicting rare bacterial protein sequences, while EA used AI to recreate the late commentator John Motson's voice for its new football game. The HPC maintenance insights are critical for the reliability of next-generation exascale scientific computing, while the LLM protein prediction results suggest that general-purpose foundation models may soon rival or replace expensive, domain-specific bioinformatic tools. The AI voice cloning in EA Sports FC 27 represents a significant milestone in the commercialization of generative voice technology for interactive media. On the Frontier system, the probability of an uncorrectable two-bit HBM memory error occurs 1.5 times per day, a significant increase from its predecessor Summit due to a 16-fold increase in total memory capacity. The protein study demonstrated that Claude not only outperformed other LLMs like OpenAI and Google's models, but also surpassed tools specifically trained for protein sequence tasks.
+The AI boom is straining the concentrated supply chain for Indium Phosphide, a key material for optical interconnects like lasers and co-packaged optics, creating a significant bottleneck for hardware expansion.
 
-rss · Solidot · Nov 25, 14:18
+rss · Tom's Hardware · Nov 26, 16:00
 
-**Background**: Supercomputers like Frontier rely on checkpointing, a method that periodically saves the state of a computation to local storage so that the job can resume from the last save point after a hardware failure rather than restarting from the beginning. In bioinformatics, tools like AlphaFold are typically specialized for specific biological tasks; the recent findings suggest that the massive reasoning capabilities of modern Large Language Models (LLMs) are becoming sufficient to perform these complex scientific analyses even without targeted fine-tuning.
-
-**Tags**: `#HPC`, `#LLM Benchmarks`, `#Bioinformatics`, `#Supercomputing`, `#AI in Science`
+**Tags**: `#AI Infrastructure`, `#Optical Interconnects`, `#Supply Chain`, `#Semiconductors`, `#Hardware`
 
 ---
 
 <a id="item-6"></a>
-## [1Password Breach Exposes SaaS Supply Chain Risks](https://1password.com/blog/update-on-nov-2026-security-incident) ⭐️ 8.0/10
+## [Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims](https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license) ⭐️ 8.5/10
 
-1Password disclosed a security incident in November 2026 where a compromised employee laptop allowed an attacker to push malicious code to backend GitHub repositories. While customer vaults and passwords remain secure, the attacker successfully exfiltrated basic account details such as names and emails. This incident highlights the severe systemic risks of SaaS supply chain attacks, where compromised developer credentials can bypass traditional perimeter defenses. It underscores the critical need for stricter branch protection and deployment security within tech companies to prevent code injection into production environments. Attackers used a compromised corporate GitHub account to inject code, raising significant questions about why branch protection rules were not triggered or could be bypassed. 1Password clarified that encrypted vault data was not downloaded, though a small subset of users with specific vulnerabilities were individually notified.
+Nvidia has halted AI GPU shipments to Southeast Asian data centers, forcing facilities in Singapore, Malaysia, Thailand, and Indonesia to secure export licenses due to new US trade regulations concerning cloud access.
 
-hackernews · lxhrstn · Nov 25, 17:18 · [Discussion](https://news.ycombinator.com/item?id=50644817)
+rss · Tom's Hardware · Nov 26, 16:00
 
-**Background**: In the SaaS ecosystem, attackers often target employees' devices to gain internal access to source code repositories like GitHub. Branch protection rules are security settings in Git that require pull request reviews or status checks before merging, acting as a final line of defense against unauthorized code deployment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://1password.com/blog/update-on-nov-2026-security-incident">Update on a security incident involving 1Password’s backend ...</a></li>
-<li><a href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule">Managing a branch protection rule - GitHub Docs</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Security expert T. Patrick Gallagher emphasizes that SaaS supply chain attacks are the most critical vulnerability today as workforce size increases breach likelihood. Users expressed concern that the official writeup did not sufficiently address why branch protection rules were bypassed and demanded clearer confirmation that encrypted vaults were not exfiltrated.
-
-**Tags**: `#Security`, `#Supply Chain`, `#SaaS`, `#1Password`, `#Incident Response`
+**Tags**: `#Nvidia`, `#AI Hardware`, `#Geopolitics`, `#Export Controls`, `#Data Centers`
 
 ---
 
 <a id="item-7"></a>
-## [Anthropic Releases 99% Shorter Lean Proof of Generalized Riemann Hypothesis](https://github.com/lsernau/grh-lean) ⭐️ 8.0/10
+## [Ubuntu Launches 'warty' for Local-First, Privacy-Centric AI Desktop Integration](https://www.techpowerup.com/355220/ubuntu-details-ai-desktop-integration-optional-local-first-privacy-and-security-by-design) ⭐️ 7.5/10
 
-Anthropic released a significantly shorter and more readable Lean 4 verification of the Generalized Riemann Hypothesis (GRH), reducing the code size from approximately 17 million lines to about 76,000 lines in the compact edition. This release, hosted on GitHub, includes a readable edition with around 300,000 lines and a compact edition with roughly 76,000 lines, achieving over 99% compression. This achievement greatly enhances the accessibility and maintainability of formal mathematical proofs by providing a clear structure that distinguishes known mathematics from new insights. It demonstrates the potential of advanced tools to refine complex formalizations, making rigorous mathematical arguments more digestible for human reviewers and researchers. The compact proof relies on Mathlib and utilizes only three standard axioms: propext, Classical.choice, and Quot.sound. Independent verification was performed using the Lean kernel and other tools like nanoda and con-leche to ensure the full exported proof is valid and error-free.
+Ubuntu has announced the development of 'warty,' a unified local-first AI desktop assistant designed to bridge applications and user context through a single keyboard and speech-friendly entry point. This approach is significant because it contrasts with Microsoft's fragmented app-by-app AI integration, offering the Linux desktop ecosystem a coherent, privacy-conscious alternative that respects open-source values. The 'warty' interface will resemble traditional launchers like Krunner or GNOME Overview, and it is designed to prioritize 'privacy and security by design' by using local models.
 
-hackernews · nb-t · Nov 25, 21:48 · [Discussion](https://news.ycombinator.com/item?id=50648050)
+rss · TechPowerUp News · Nov 25, 23:24
 
-**Background**: The Generalized Riemann Hypothesis (GRH) is a major unsolved problem in number theory that extends the Riemann Hypothesis to Dirichlet L-functions. Lean is a dependent type theory and proof assistant where mathematical theorems can be formally stated and verified by a kernel, ensuring absolute correctness. The original proof was massive, prompting the community to seek more efficient and readable implementations using LLM-assisted techniques.
+**Background**: In the Linux ecosystem, local AI models allow artificial intelligence to run entirely on a user's hardware, ensuring data remains offline and private. Unlike some proprietary systems that embed AI into specific apps, a unified launcher provides a single, optional point of access to these models across the entire desktop environment.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://math.mit.edu/~drew/shortgrh/">Shorter GRH Lean proof: verification files - MIT Mathematics</a></li>
-<li><a href="https://github.com/lsernau/grh-lean">GitHub - lsernau/grh-lean: A short Lean 4 proof of the ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean (proof assistant) - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community praised the clear separation between "known math" and "new math" in the readable edition, which aids in understanding the proof's logic. While some users were skeptical about the readability of the compact code, others highlighted the impressive 99.56% reduction in lines of code, sparking debate on whether LLMs have surpassed previous concerns about massive, low-insight proofs.
-
-**Tags**: `#formal-verification`, `#lean-theorem-prover`, `#mathematics`, `#riemann-hypothesis`, `#code-golf`
+**Tags**: `#Ubuntu`, `#Linux`, `#Local-AI`, `#Desktop-OS`, `#Privacy`
 
 ---
 
 <a id="item-8"></a>
-## [Qwen LLM inference implemented in assembly on bare metal without an OS](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os) ⭐️ 8.0/10
+## [Ukraine Shoots Down Russian Shahed Drone with 4kW Laser](https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system) ⭐️ 7.5/10
 
-A Hacker News discussion highlights a GitHub project that runs Qwen LLM inference on bare metal hardware using pure assembly language, completely bypassing traditional operating systems. The project includes benchmarks comparing this bare-metal approach against standard Linux ELF executables and the llama.cpp library. This extreme systems engineering approach validates LLM deployment for resource-constrained edge devices where minimal overhead is critical. It also serves as a technical stress test, highlighting that while bare-metal execution saves OS resources, it lacks the isolation and agent support required for data center scalability. The implementation is part of a larger 'llm.asm' repository that demonstrates low-level optimization limits, though critics note that for frontier models, the OS resource allocation is negligible compared to model size. The solution remains unsuitable for serving agents, as an LLM alone acts merely as a chat-box without a host system to execute tasks.
+Ukraine has successfully utilized a 4-kilowatt high-powered laser system to down a Russian jet-powered Shahed drone. This event marks a significant milestone in modern warfare by demonstrating the practical combat viability of directed energy weapons against high-speed aerial threats. The laser system used for this intercept was a 4-kilowatt test setup specifically deployed to counter the jet-powered drone threat.
 
-hackernews · miohtama · Nov 25, 22:15 · [Discussion](https://news.ycombinator.com/item?id=50648365)
+rss · Tom's Hardware · Nov 26, 14:30
 
-**Background**: Bare metal execution refers to running software directly on computer hardware without the mediation of an operating system, which eliminates OS overhead but also removes security isolation and memory management. Qwen is a series of large language models developed by Alibaba Cloud, available in various sizes from 0.6B to 235B parameters, making some versions suitable for edge deployment. Traditional LLM inference relies on operating systems and libraries like llama.cpp to manage hardware resources and memory allocation effectively.
+**Background**: The Shahed drone is a widely used, Iranian-designed loitering munition that Russia has employed in sustained attacks on Ukraine's infrastructure. Directed energy weapons, such as lasers, operate by heating targets to the point of failure and offer a significantly lower per-intercept cost compared to traditional missile systems.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/QwenLM/Qwen3">GitHub - QwenLM/ Qwen 3: Qwen 3 is the large language model series...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters debated the utility of this approach, agreeing it could optimize speed for smaller models on scarce compute resources but arguing it is impractical for data centers. Key concerns included the lack of network stacks, the absence of isolation mechanisms required for multi-tenancy, and the question of where LLM agents would run without an OS to host their logic.
-
-**Tags**: `#bare-metal`, `#llm-inference`, `#assembly`, `#systems-programming`, `#qwen`
+**Tags**: `#Defense`, `#Directed Energy`, `#Ukraine`, `#Military Tech`, `#Laser Weapons`
 
 ---
 
 <a id="item-9"></a>
-## [Disclosed 12-year-old pre-auth remote root vulnerability in Linux NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362) ⭐️ 8.0/10
+## [Export-banned Nvidia B300 servers sold in China at 5x markup](https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices) ⭐️ 7.5/10
 
-A 12-year-old pre-authentication remote root vulnerability, identified as CVE-2026-99362, has been disclosed in the Linux kernel's NFS server.
-The vulnerability allows unauthenticated attackers to gain root access to systems running the affected NFS service. This is a critical security discovery because it provides a vector for unauthenticated remote root access, a high-impact scenario in networked environments.
-It significantly affects organizations that expose NFS services, necessitating immediate mitigation strategies to prevent potential system compromise. Community discussions highlight the absence of public proof-of-concept code, which allows operators to assess risk based on exposure rather than active exploitation.
-Mitigation strategies discussed include XDP-based L7 firewall filtering, pinning NFS protocol versions, and tunneling via spiped.
+Nvidia's export-banned Blackwell B300 servers are openly available on the Chinese gray market, with prices reaching up to $3.4 million. This represents a 5x to 6x markup over standard US prices, highlighting significant gaps in export control enforcement. The widespread availability of advanced AI hardware undermines US export restrictions and allows Chinese entities to potentially accelerate their AI capabilities. This gray market dynamic complicates geopolitical efforts to contain the spread of high-end semiconductor technology. The $3.4 million price tag for a single server indicates high scarcity and strong demand in the restricted market. The report emphasizes that uneven enforcement of controls ensures continued access to these chips for buyers within China.
 
-hackernews · dm · Nov 25, 20:35 · [Discussion](https://news.ycombinator.com/item?id=50647161)
+rss · Tom's Hardware · Nov 26, 12:00
 
-**Background**: NFS (Network File System) is a widely used protocol that allows computers to access files over a network as if they were local files.
-In Linux, the NFS server component runs within the kernel, meaning a vulnerability in this code can affect the integrity of the entire operating system.
-Pre-authentication vulnerabilities are particularly severe because they can be exploited without valid credentials, making them highly dangerous for network-exposed services.
+**Background**: Nvidia Blackwell B300s are advanced GPUs designed for AI training and inference. The US government has imposed strict export controls on these chips to limit China's ability to build large-scale AI models, leading to a thriving black market where sellers circumvent regulations.
 
-**Discussion**: The community shared specific mitigation techniques, including a rule for the XDP-based 'yeet' firewall and disabling NFS 4.1/4.2 via /proc/fs/nfsd/versions.
-Some users noted they are already mitigated by running the server behind 'spiped', while others pointed out the lack of public PoC as a factor for risk assessment.
-A commenter also drew a broader comparison to the seL4 microkernel, suggesting that Linux's trusted computing base remains too large to guarantee such security properties.
-
-**Tags**: `#linux`, `#security`, `#nfs`, `#kernel-vulnerability`, `#cve`
+**Tags**: `#Export Controls`, `#Nvidia`, `#AI Hardware`, `#China`, `#Gray Market`
 
 ---
 
 <a id="item-10"></a>
-## [Samsung and SK hynix Explore Licensing YMTC's Xtacking 4.0 Technology](https://www.techpowerup.com/355199/samsung-and-sk-hynix-to-license-ymtcs-xtacking-technology) ⭐️ 8.0/10
+## [AMD-Specific llama.cpp Fork Enables Budget LLM Inference](https://devnull.land/amd-specific-llama-cpp) ⭐️ 7.0/10
 
-South Korea's Samsung and SK hynix are actively exploring licenses for China's YMTC Xtacking 4.0 technology to integrate into their 3D NAND production lines. This move allows them to leverage YMTC's advanced hybrid bonding techniques for wafer-to-wafer stacking. This strategic shift signifies a convergence of supply chains between Asian tech giants, bypassing geopolitical tensions by licensing proven technology instead of developing proprietary alternatives. It grants Korean chipmakers a faster pathway to overcome single-wafer layering limitations and advance their memory production. YMTC's Xtacking technology separates memory cell wafers from peripheral logic circuits and connects them via permanent hybrid bonding using embedded metal bumps. The South Korean companies view this as a superior method to avoid legal disputes while rapidly scaling their 3D NAND layer counts beyond current architectural constraints.
+An AMD-specific fork of llama.cpp has emerged to enable efficient local LLM inference on budget GPUs with high memory bandwidth but limited compute capabilities, such as the 2018 gfx906 datacenter series. This development makes high-capacity local AI viable for developers with older AMD hardware by exploiting memory bandwidth as the primary bottleneck in inference, bypassing the lack of modern compute features. The optimization targets cards lacking tensor cores and native bf16 support, while complementary engines like Radiance Engine reportedly achieve 2400 tokens/sec prefill and 150 tokens/sec decode on consumer cards.
 
-rss · TechPowerUp News · Nov 25, 16:25
+hackernews · julianlam · Nov 26, 17:11 · [Discussion](https://news.ycombinator.com/item?id=50657265)
 
-**Background**: YMTC is a Chinese semiconductor company specializing in NAND flash memory, which has been manufacturing using the Xtacking architecture since 2019. Hybrid bonding is an advanced 3D integration technology that creates finer-pitch interconnects than conventional solder-based methods by fusing dielectric and metal layers between chips. Samsung and SK hynix are currently hitting physical limits when scaling 3D NAND layers on a single wafer.
+**Background**: llama.cpp is a lightweight C++ library used for running Large Language Models locally, supporting various backends including CPU, CUDA for NVIDIA, and ROCm for AMD. For inference, memory bandwidth is often the limiting factor rather than raw compute power, which allows older, high-bandwidth but low-compute cards to perform well.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ymtc.com/en/technicalintroduction.html">About Xtacking ®- YMTC</a></li>
-<li><a href="https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/hybrid-bonding/">Hybrid Bonding for Semiconductor Packaging | Semiconductor ...</a></li>
+<li><a href="https://deepwiki.com/mixa3607/ML-gfx906/6.1-llama.cpp-rocm-backend">llama . cpp ROCm Backend | mixa3607/ML-gfx906 | DeepWiki</a></li>
+<li><a href="https://zolotukhin.ai/blog/2026-03-25-why-we-are-building-zinc/">Why we're building ZINC for local LLM inference on AMD GPUs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#3D NAND`, `#Semiconductor`, `#Memory Technology`, `#Hybrid Bonding`, `#Supply Chain`
+**Discussion**: Commenters express enthusiasm for the ecosystem, with one user highlighting the $200 cost-effectiveness of gfx906 cards and another reporting stable performance of the Radiance Engine on an R9700 card, while a third mentions a specific M1 port of a Splash kernel that significantly boosts Qwen 3.8 speed.
+
+**Tags**: `#llama.cpp`, `#AMD-GPU`, `#Local-LLM`, `#Inference-Optimization`, `#Open-Source`
 
 ---
 
 <a id="item-11"></a>
-## [AI Makes Formal Verification Practical](https://www.eetimes.com/ai-makes-formal-verification-practical/) ⭐️ 8.0/10
+## [Analysis Suggests OpenAI Prioritizes Cost Control in Model Operations](https://micjm.com/blog/openai-is-in-cost-control-mode/) ⭐️ 7.0/10
 
-AI startup Harmonic is leveraging artificial intelligence to expand its services into the domain of formal verification for both software and hardware systems.
+A recent analysis indicates that OpenAI is shifting its strategic focus toward cost control and efficiency in its model operations. This prioritization of economic efficiency has sparked debate over the impact of agent-centric development and the tuning of benchmarks. This potential shift affects the API pricing landscape and the balance between intelligence and affordability for developers relying on LLMs. It highlights a broader industry trend where economic constraints drive architectural and strategic decisions in AI infrastructure. Critics note that the analysis overlooks user-adjustable reasoning effort parameters, suggesting that cost control might be achieved through increased user control over computation. Others argue that lower customer costs do not necessarily imply internal cost control for OpenAI, potentially indicating the opposite.
 
-rss · EE Times · Nov 25, 17:34
+hackernews · seizethecheese · Nov 26, 07:33 · [Discussion](https://news.ycombinator.com/item?id=50652527)
 
-**Tags**: `#AI`, `#Formal Verification`, `#Hardware Security`, `#Software Assurance`, `#EE Times`
+**Background**: Agent-centric development utilizes large language models to perform multi-step tasks, which can lead to exponential increases in computational resource consumption. Benchmark tuning refers to optimizing model performance specifically for standardized tests, which may not fully reflect real-world capabilities or efficiency. The cost-to-intelligence ratio is a critical metric for API providers balancing profitability with competitive pricing.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2503.13507">[2503.13507] NeurIPS 2023 LLM Efficiency Fine- tuning Competition</a></li>
+<li><a href="https://www.technolynx.com/post/agentic-benchmarks-explained-what-they-measure-for-tool-using-llm-agents/">Agentic Benchmarks Explained: What They Measure for... | TechnoLynx</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community sentiment is mixed, with some users reporting that competitors like Codex are less effective for coding tasks despite lower costs. Others argue that OpenAI is likely optimizing for the Pareto frontier of cost-intelligence, while some compare the current state of agent-centric development to overgrown gardens requiring constant pruning.
+
+**Tags**: `#OpenAI`, `#AI Economics`, `#Cost Optimization`, `#LLM Engineering`
 
 ---
 
 <a id="item-12"></a>
-## [Lawsuit alleges Trump strong-armed Intel](https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds) ⭐️ 7.5/10
+## [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) ⭐️ 7.0/10
 
-A lawsuit alleges that President Trump threatened Intel's board with consequences to force the troubled chipmaker to give the White House a 10% equity stake in exchange for the release of Chips Act funds.
+Google is enabling AI agents to utilize its Model Context Protocol (MCP) servers for Workspace, but initially excludes the Gmail email-sending feature, sparking debate about technical workarounds and corporate strategy.
 
-rss · Tom's Hardware · Nov 25, 16:39
+hackernews · ritzaco · Nov 26, 09:44 · [Discussion](https://news.ycombinator.com/item?id=50653477)
 
-**Tags**: `#Intel`, `#US Tech Policy`, `#Semiconductors`, `#Corporate Governance`, `#Legislation`
+**Tags**: `#AI Agents`, `#MCP`, `#Google Workspace`, `#Infrastructure`, `#API Strategy`
 
 ---
 
 <a id="item-13"></a>
-## [US blacklists Megaspeed, leaving loophole for low-performance chips](https://www.tomshardware.com/tech-industry/us-blacklists-megaspeed-but-leaves-potential-loophole-for-lower-performance-chips-company-at-center-of-jensen-huang-affair-scandal-added-to-entity-list) ⭐️ 7.5/10
+## [TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031) ⭐️ 6.5/10
 
-The U.S. Department of Commerce has added Megaspeed and six affiliated entities to the Entity List to block advanced AI accelerators from being diverted to China. However, the new regulations allow a potential loophole for chips that fall below specific performance thresholds. This move significantly tightens export controls on AI hardware and targets a specific intermediary at the center of the controversy over the supply of Nvidia chips. It signals a shift towards highly specific performance-based restrictions rather than blanket bans. The restriction specifically targets hardware with a total processing performance (TPP) of 21,000 or more. The Entity List requires companies to obtain a license for any export, which is typically denied for listed firms.
+TSMC has filed a $22.6 billion plan for a Texas fab that will not produce 2nm-or-better chips until 2031.
 
-rss · Tom's Hardware · Nov 25, 12:30
+rss · Tom's Hardware · Nov 26, 10:30
 
-**Background**: The Entity List is a primary tool used by the U.S. Commerce Department to restrict trade with specific companies suspected of undermining national security. Performance-based thresholds, such as total processing performance (TPP), are used to define which advanced computing chips are subject to licensing requirements.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips">Bessent confronted Lutnick over Nvidia customer Megaspeed , sources...</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/analyzing-washingtons-new-ai-accelerator-export-rules-smaller-manufacturers-suffer-while-nvidia-and-amd-will-reap-the-rewards">Analyzing Washington's new AI accelerator export rules ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R48642/R48642.5.pdf">U.S. Export Controls and China: Advanced Semiconductors</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Export Controls`, `#AI Accelerators`, `#US-China Tech Relations`, `#Entity List`, `#Hardware`
+**Tags**: `#TSMC`, `#Semiconductors`, `#Manufacturing`, `#Supply Chain`, `#2nm`
 
 ---
 
 <a id="item-14"></a>
-## [Ubuntu Security Patch Delays Prompt User Migration to Debian](https://www.openwall.com/lists/oss-security/2026/11/25/9) ⭐️ 7.0/10
+## [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) ⭐️ 6.0/10
 
-Community discussions highlight growing criticism of Ubuntu's slow security patch response times in 2026, leading some users to migrate their server infrastructure to Debian. This shift reflects a significant change in the Linux ecosystem, as users prioritizing security responsiveness are moving away from Ubuntu, a major distribution, toward Debian, impacting the strategic positioning of both operating systems. Critics argue that the delay is unacceptable for a widely used distro, while defenders note that security updates require rigorous regression testing to avoid introducing new bugs or system instability.
+The CTO of RansomwareHelp has been indicted for wire fraud due to allegations that the company misrepresented its services by paying ransoms to threat actors while claiming it did not.
 
-hackernews · gslin · Nov 25, 20:38 · [Discussion](https://news.ycombinator.com/item?id=50647181)
+hackernews · Bender · Nov 26, 17:47 · [Discussion](https://news.ycombinator.com/item?id=50657645)
 
-**Background**: Ubuntu and Debian are two of the most popular Linux distributions, with Ubuntu often favored for its user-friendly interface and commercial support. Debian is known for its focus on stability and its volunteer-driven security team. In the context of server management, 'security patch response times' refer to how quickly a distribution releases fixes for critical vulnerabilities (CVEs).
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://serversium.com/en/blog/debian-vs-ubuntu-server-stability-comparison">Debian vs Ubuntu for Servers: Stability Comparison</a></li>
-<li><a href="https://cloudzy.com/blog/debian-vs-ubuntu-which-one/">Debian vs Ubuntu : What’s the Right Linux Distro for You?</a></li>
-<li><a href="https://cyberpanel.net/blog/debian-vs-ubuntu">Debian vs Ubuntu : Key Differences, Features, and Use Cases</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion reveals a split sentiment: some users express frustration with Ubuntu's delays and confirm migrating to Debian for better security responsiveness, while others defend the need for thorough regression testing, noting that Debian also experiences regressions despite its focus on stability.
-
-**Tags**: `#Linux`, `#Security`, `#Ubuntu`, `#Debian`, `#System Administration`
+**Tags**: `#cybersecurity`, `#ransomware`, `#legal`, `#fraud`, `#incident-response`
 
 ---
 
 <a id="item-15"></a>
-## [OpenAI Reduces GPT-6.2 Quotas, Users Turn to Hybrid Model Tiers](https://twitter.com/thsottiaux/status/2125784147889393806) ⭐️ 7.0/10
+## [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) ⭐️ 6.0/10
 
-OpenAI has tightened usage limits for GPT-6.2, resulting in specific model tiers like Astra hitting usage caps 40% faster and Sol hitting them 25% faster. This update forces developers to optimize their workflows by combining different model tiers to conserve API quotas. This operational change significantly impacts the cost-efficiency and reliability of AI-powered development environments by limiting the sustained throughput of high-end models. It drives the industry toward more strategic model orchestration, where medium-tier models handle routing and high-end models handle complex execution. Practitioners are discovering that using medium-tier models for code editing and orchestration while delegating complex tasks to high-end sub-agents can preserve expensive quota. Some users note that token efficiency for GPT-6.2 variants remains inferior to newer competitor models in direct performance comparisons.
+A retrospective analysis of Lions' Commentary on Unix, detailing its history, its secret distribution, and its role in the USL vs BSDI copyright lawsuit.
 
-hackernews · Herrera · Nov 26, 03:36 · [Discussion](https://news.ycombinator.com/item?id=50651117)
+hackernews · joonehur · Nov 26, 05:12 · [Discussion](https://news.ycombinator.com/item?id=50651719)
 
-**Background**: GPT-6.2 refers to the latest generation of large language models developed by OpenAI, while Astra, Sol, and Luna represent specific tiers or deployment configurations within the model ecosystem. In enterprise AI, 'sub-agents' are smaller models invoked to perform specific tasks, and 'token efficiency' measures how much useful work is accomplished per unit of processing cost.
-
-**Discussion**: The community discussion highlights a strategic shift in model usage, with users employing medium-tier models for orchestration to save quota for high-end execution. There is mixed sentiment regarding OpenAI's competitiveness; some users note that while daily resets helped, the token efficiency of GPT-6.2 is now perceived as inferior to newer models from other providers. Overall, the discussion emphasizes that quota management requires careful orchestration to avoid hitting usage limits.
-
-**Tags**: `#AI`, `#LLM`, `#API-Limits`, `#Productivity`, `#OpenAI`
+**Tags**: `#Unix`, `#History`, `#OpenSource`, `#Legal`, `#Systems`
 
 ---
 
 <a id="item-16"></a>
-## [Chinese CSPs cut 2027 memory orders, slowing industry revenue growth](https://www.dramexchange.com/WeeklyResearch/Post/2/12900.html) ⭐️ 7.0/10
+## [Nextcloud Launches Desktop App for Controversial Euro-Office Suite](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) ⭐️ 6.0/10
 
-TrendForce has reported that Chinese CSPs have reduced their 2027 memory orders, which is currently putting downward pressure on the price outlook and slowing projected revenue growth for the memory industry. This demand adjustment impacts the broader semiconductor supply chain and affects financial forecasts for major memory manufacturers. The report specifically highlights that the reduction in demand from Chinese cloud service providers is the primary driver behind the slower revenue growth expected in 2027.
+Nextcloud has launched a desktop application for Euro-Office, a European consortium-backed fork of ONLYOFFICE, providing a local alternative to cloud-based office suites. This release addresses the need for European data sovereignty by offering a self-hosted office solution, but its controversial origin and security lag behind the upstream project pose significant risks for enterprise adoption. The desktop app reportedly utilizes a Chromium Embedded Framework for its interface, and community analysis suggests it is currently missing several security patches that were included in the recent ONLYOFFICE 10.0 release.
 
-rss · DRAMeXchange (TrendForce) · Nov 25, 16:24
+hackernews · e12e · Nov 26, 11:50 · [Discussion](https://news.ycombinator.com/item?id=50654289)
 
-**Background**: CSPs are large cloud service providers that build massive data centers requiring significant quantities of memory chips. The memory industry heavily relies on demand from these hyperscale providers to sustain high production volumes and pricing. A drop in their forward orders signals a potential slowdown in data center expansion.
+**Background**: Euro-Office is a fork of ONLYOFFICE initiated by a consortium of European companies including Nextcloud, Proton, and IONOS to create a sovereign alternative to Microsoft 365. The fork triggered a public licensing dispute with the original ONLYOFFICE developers. While the core suite is primarily web-based, this new desktop app brings a dedicated local interface to users.
 
-**Tags**: `#Memory Industry`, `#Supply Chain`, `#Market Analysis`, `#TrendForce`, `#Data Centers`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://itsfoss.com/news/onlyoffice-forked/">ONLYOFFICE Gets Forked as "Made in Europe", Sparks Licensing...</a></li>
+<li><a href="https://www.ghacks.net/2026/04/06/nextcloud-ionos-and-proton-launch-euro-office-an-onlyoffice-fork-for-european-users/">Nextcloud , Ionos, and Proton Launch Euro- Office , an OnlyOffice ...</a></li>
+<li><a href="https://www.onlyoffice.com/blog/2026/10/security-fixes-onlyoffice-10">ONLYOFFICE 10.0: A closer look at the latest 40 security fixes</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community reactions are mixed, with some praising the improved user interface over older alternatives like OpenOffice, while others express skepticism about the project's bureaucratic consortium structure. A major concern highlighted is that the fork appears to be missing recent security fixes from ONLYOFFICE, raising red flags about its vulnerability to known CVEs.
+
+**Tags**: `#open-source`, `#productivity`, `#nextcloud`, `#office-suite`, `#onlyoffice`
 
 ---
 
 <a id="item-17"></a>
-## [Infineon Presents 5.6 kW MCRPS Reference Design for Servers](https://www.eetimes.com/mcrps-power-supply-for-enterprise-data-centers/) ⭐️ 7.0/10
+## [Thermal Grizzly Launches Oven-Based Delid-Heat-Mate for Safer CPU Delidding](https://www.techpowerup.com/355224/thermal-grizzly-launches-delid-heat-mate-for-lower-risk-diy-cpu-delidding) ⭐️ 5.5/10
 
-Infineon has presented a 5.6 kW multi-common redundant power supply (MCRPS) reference design. This design is intended to act as a viable solution for next-generation common redundant power units in enterprise servers. This reference design helps data center hardware engineers address the growing power density demands of modern enterprise servers. It provides a standardized approach to building high-efficiency redundant power systems that are critical for stable data center operations. The MCRPS specification addresses the need for shared, hot-swappable power modules across multiple server nodes in a rack. The 5.6 kW power rating is a step up from earlier standards like the 3.6 kW models recently discussed by competitors like Texas Instruments.
+Thermal Grizzly has released the Delid-Heat-Mate, a tool that uses heat in an oven to melt solder and allow the IHS to fall off CPUs for AMD AM5 and Intel LGA 1700, 1851, and 1954 platforms. The tool works in conjunction with the existing Delid-Die-Mate to mechanically loosen the heat spreader first. This release significantly reduces the risk of damaging expensive CPUs during the delidding process by replacing high-pressure mechanical methods with a controlled thermal approach. It enables PC enthusiasts to optimize cooling performance by replacing thick IHS with better thermal interfaces more safely. The tool is a CNC-machined fixture designed to hold the CPU flat with the heat spreader facing down during the oven heating process. A November 26th update clarified that users must first use the Delid-Die-Mate for initial mechanical loosening before placing the CPU in the Delid-Heat-Mate for heating.
 
-rss · EE Times · Nov 25, 20:36
+rss · TechPowerUp News · Nov 26, 03:55
 
-**Background**: Common Redundant Power Supply (CRPS or MCRPS) is a standard architecture where multiple servers in a rack share a pool of hot-swappable power supplies. This setup ensures that if one power unit fails, others take over, preventing downtime without requiring every individual server to have its own dedicated backup power brick.
+**Background**: Delidding is the process of removing the Integrated Heat Spreader (IHS) from a CPU to allow for better thermal contact between the processor die and the cooler. Traditional delidding is risky because it involves breaking solder joints or adhesive bonds using mechanical force, which can easily crack the silicon die if not done carefully.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://knightli.com/en/2026/04/17/crps-common-redundant-power-supply-pinout-models/">CRPS Common Redundant Server Power Supply Standard, Pin ...</a></li>
-<li><a href="https://www.ti.com/lit/pdf/ssztcw2">Five major trends in power-supply designs for servers</a></li>
-<li><a href="https://www.linkedin.com/posts/shane-neal-recruiter_tis-ultra-compact-36kw-mcrps-server-psu-activity-7308979629204086784-LgKD">TI' s 3. 6 kW mCRPS PSU: Efficient and compact for data... | LinkedIn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Data Centers`, `#Power Supply`, `#Hardware Design`, `#Infineon`, `#Enterprise IT`
+**Tags**: `#PC Hardware`, `#Cooling`, `#Thermal Grizzly`, `#CPU Delidding`, `#Enthusiast Tools`
 
 ---
 
 <a id="item-18"></a>
-## [Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing](https://www.eetimes.com/turning-optical-telemetry-into-cluster-reliability-integrating-link-health-data-into-monitoring-and-ticketing/) ⭐️ 7.0/10
+## [Firefox 161 Introduces Per-Site VPN and Classic Themes](https://www.techpowerup.com/355219/mozilla-launches-firefox-161-0-with-per-site-vpn-classic-themes-and-new-keyboard-shortcuts) ⭐️ 5.5/10
 
-The article discusses how to integrate optical link health telemetry data into existing monitoring and ticketing systems to enhance cluster reliability and proactive maintenance in data centers.
+Mozilla released Firefox 161.0, introducing the ability to enable its built-in VPN for specific websites rather than all sessions. The update also restores classic themes in the Add-ons Manager and adds a customizable keyboard shortcut for copying URLs. The per-site VPN feature significantly enhances user privacy and flexibility by allowing secure browsing on sensitive sites like banking apps without masking traffic for all other sites. This gives users finer control over their digital footprint and location-specific content access. The per-site VPN is specifically designed for privacy on banking apps or accessing region-restricted content. The new copy URL shortcut is intentionally undefined at release, requiring users to assign their own key combination in settings.
 
-rss · EE Times · Nov 25, 18:00
+rss · TechPowerUp News · Nov 25, 22:22
 
-**Tags**: `#networking`, `#data-center-ops`, `#telemetry`, `#hpc`, `#reliability`
-
----
-
-<a id="item-19"></a>
-## [GTA VI Console Graphics Settings Revealed: Higher Framerate Theoretically Possible on PS5 Pro](https://www.techpowerup.com/355211/gta-vi-console-graphics-settings-revealed-higher-framerate-theoretically-possible-on-ps5-pro) ⭐️ 6.5/10
-
-Datamining of GTA VI files reveals hidden console graphics settings, indicating that the PS5 Pro could theoretically support higher framerates if unlocked.
-
-rss · TechPowerUp News · Nov 25, 19:18
-
-**Tags**: `#Gaming`, `#Hardware`, `#Datamining`, `#Console`, `#Performance`
-
----
-
-<a id="item-20"></a>
-## [NVIDIA reportedly cuts RTX 50-series supply by 20-30%](https://www.techpowerup.com/355196/nvidia-cuts-rtx-50-series-supply-as-rtx-60-series-faces-possible-delay-per-reports) ⭐️ 6.5/10
-
-Reports from Chinese distribution forums suggest NVIDIA is cutting RTX 50-series gaming GPU supply by 20-30% for the fourth quarter ending in January 2027, coinciding with rumors of a delayed RTX 60-series launch. The supply reduction will intensify the existing GPU shortage, potentially driving up prices for gamers and creators as freed-up production capacity is redirected toward meeting high demand for AI data center chips. Taiwanese ODMs report that high-end data center GPUs like B300 have delivery windows of up to 40 weeks, forcing NVIDIA to prioritize enterprise hardware over consumer products at the expense of memory supply chains.
-
-rss · TechPowerUp News · Nov 25, 18:58
-
-**Background**: NVIDIA's RTX 50-series GPUs, powered by the Blackwell architecture, have faced tight global supply since their release due to prioritizing AI data center production. Consumer GPU upgrade cycles are typically around two years, and the RTX 60-series is expected to be its next-generation successor.
+**Background**: Firefox recently adopted the 'Nova' design system, which prompted some users to seek the return of classic aesthetics, now available as themes in version 161. The browser's built-in VPN, launched in late 2024, previously applied globally; per-site control is a targeted improvement for power users.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/355196/nvidia-cuts-rtx-50-series-supply-as-rtx-60-series-faces-possible-delay-per-reports">NVIDIA Cuts RTX 50-Series Supply as RTX 60-Series Faces ...</a></li>
-<li><a href="https://videocardz.com/newz/nvidia-reportedly-cuts-gaming-gpu-supply-by-another-20-30-for-q4">NVIDIA reportedly cuts gaming GPU supply by another 20-30% ...</a></li>
-<li><a href="https://www.trendforce.com/news/2026/10/29/insights-nvidia-rtx-60-may-slip-to-2028-amd-rdna-5-also-in-question-why-are-gaming-gpu-cycles-slowing/">[Insights] NVIDIA RTX 60 May Slip to 2028, AMD RDNA 5 Also in...</a></li>
+<li><a href="https://www.techpowerup.com/355219/mozilla-launches-firefox-161-0-with-per-site-vpn-classic-themes-and-new-keyboard-shortcuts">Mozilla Launches Firefox 161 . 0 With Per - Site VPN ... | TechPowerUp</a></li>
+<li><a href="https://hub.softmany.com/firefox-161-finally-lets-you-choose-which-websites-use-its-vpn/">Firefox 161 Finally Lets You Choose Which Websites Use Its VPN</a></li>
+<li><a href="https://www.itechguides.com/what-is-firefox-nova-ui-and-which-parts-can-you-customize/">Firefox Nova UI Explained: Changes and Customization Options</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#GPU Supply`, `#RTX 50-Series`, `#Hardware News`, `#Supply Chain`
+**Tags**: `#Browser`, `#Privacy`, `#Mozilla`, `#Firefox`, `#Web Development`
 
 ---
