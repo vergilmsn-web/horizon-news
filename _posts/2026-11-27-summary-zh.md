@@ -5,350 +5,326 @@ date: 2026-11-27
 lang: zh
 ---
 
-> 从 90 条内容中筛选出 20 条重要资讯。
+> 从 107 条内容中筛选出 18 条重要资讯。
 
 ---
 
-1. [铠侠发布 GP2 系列 SSD，专为高 IOPS GPU 直接访问设计](#item-1) ⭐️ 9.5/10
-2. [Kioxia 与 NVIDIA 利用 SSD 将 GPU 内存容量扩展至 PB 级](#item-2) ⭐️ 8.5/10
-3. [英伟达被曝向加州中资公司销售受限芯片](#item-3) ⭐️ 8.5/10
-4. [电子产品制造商组建“作战室”以确保稀缺的 DRAM 芯片](#item-4) ⭐️ 8.5/10
-5. [受出口管制影响，英伟达暂停向东南亚出口 AI 芯片](#item-5) ⭐️ 8.5/10
-6. [台积电发布 A14 1.4nm PDK v0.9，正式启动芯片设计](#item-6) ⭐️ 8.5/10
-7. [vLLM 模型利用 GPU 舍入误差进行秘密通信](#item-7) ⭐️ 8.5/10
-8. [Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million](#item-8) ⭐️ 8.5/10
-9. [Intel "Razor Lake-AX" MoP Chip Pictured with Four LP5X Memory Pads, Memory Not Included](#item-9) ⭐️ 7.5/10
-10. [Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck](#item-10) ⭐️ 7.5/10
-11. [New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines](#item-11) ⭐️ 7.5/10
-12. [AI 智能体让自托管重新流行，并带来新的安全挑战](#item-12) ⭐️ 7.0/10
-13. [社区推动 llama.cpp 在旧款 AMD 数据中心 GPU 上的优化](#item-13) ⭐️ 7.0/10
-14. [RansomwareHelp CTO 因勒索软件恢复骗局被控电信诈骗罪](#item-14) ⭐️ 7.0/10
-15. [谷歌 MCP 集成排除 Gmail 邮件发送功能](#item-15) ⭐️ 7.0/10
-16. [西门子拟收购 Breker 和 Lauterbach 扩展 EDA 与调试工具](#item-16) ⭐️ 7.0/10
-17. [标普将英伟达列入可能降级的观察名单](#item-17) ⭐️ 6.5/10
-18. [铠侠发布 GP2 系列 SSD，随机读取性能超 1800 万 IOPS](#item-18) ⭐️ 6.5/10
-19. [Intel One Mono 字体（2023）](#item-19) ⭐️ 6.0/10
-20. [Show HN: I wrote an entire Vim manual over 4 years](#item-20) ⭐️ 6.0/10
+1. [伯恩斯坦质疑计算机辅助数学证明的绝对可靠性](#item-1) ⭐️ 9.0/10
+2. [华为在 ISSCC 2027 公布定制 HBM 设计以应对内存瓶颈](#item-2) ⭐️ 9.0/10
+3. [台积电推出 A14 节点 AI 设计套件](#item-3) ⭐️ 8.5/10
+4. [硬件漏洞可让攻击者 20 天内暴力破解 BitLocker PIN](#item-4) ⭐️ 8.5/10
+5. [热门购物网站遭利用 WebRTC 的信用卡盗刷脚本攻击](#item-5) ⭐️ 8.0/10
+6. [States sue SpaceX to stop Grok from generating child sex images, revenge porn](#item-6) ⭐️ 8.0/10
+7. [Beyond Lithography: The Battle for Semiconductor Manufacturing Yield](#item-7) ⭐️ 8.0/10
+8. [出口管制威胁北京 AI 雄心，模型落后或达九个月](#item-8) ⭐️ 7.5/10
+9. [凸性技能在用户不知情的情况下将应用创意发送至远程服务器](#item-9) ⭐️ 7.0/10
+10. [迈克尔·尼尔森移除经典免费神经网络书籍](#item-10) ⭐️ 7.0/10
+11. [AI 让自托管重新变得有趣](#item-11) ⭐️ 7.0/10
+12. [AMD's RDNA 5 Set for Linux Kernel 7.5 Support](#item-12) ⭐️ 6.5/10
+13. [Microsoft Cuts Memory Utilization in Windows 11 In Response To RAMpocalypse](#item-13) ⭐️ 6.5/10
+14. [索尼申请专利：游戏内图形设置一键切换专用按钮](#item-14) ⭐️ 6.5/10
+15. [铠侠发布 GP2 系列 SSD，1800 万 IOPS 高耐久](#item-15) ⭐️ 6.5/10
+16. [Construct22：用于个性化互动的多智能体 AI 群聊模拟器](#item-16) ⭐️ 6.0/10
+17. [NuVolta 解析 PCB 接地设计与返回路径](#item-17) ⭐️ 6.0/10
+18. [(PR) Limited Demand Visibility and Growing Supply Chain Caution Heighten Risk of DRAM Contract Price Declines in 2028](#item-18) ⭐️ 5.5/10
 
 ---
 
 <a id="item-1"></a>
-## [铠侠发布 GP2 系列 SSD，专为高 IOPS GPU 直接访问设计](https://www.techpowerup.com/355234/kioxia-announces-gp2-super-high-iops-ssd-series) ⭐️ 9.5/10
+## [伯恩斯坦质疑计算机辅助数学证明的绝对可靠性](https://cr.yp.to/proofs/falseccp.html) ⭐️ 9.0/10
 
-铠侠发布了其第二代优化 GPU 直接访问的高 IOPS SSD——GP2 系列。新系列提供超过 1800 万随机读取 IOPS 和最高 28 GB/s 的顺序吞吐量，性能几乎是其 GP1 前代产品的两倍。 该硬件通过提供低成本闪存层扩展 GPU 的有效 HBM 容量，解决了 AI 扩展性中的一个关键瓶颈。它使 AI 系统能够访问海量数据集（如大型图神经网络所需），而无需承担增加高端内存的高昂费用。 GP2 SSD 旨在使 PCIe 6.0 x4 链路饱和，这是维持 GPU 到 SSD 直接通信所需的具体性能指标。该设计支持行业在 AI 训练和推理流程中提高 GPU 利用率的努力。
+Daniel J. Bernstein 提出了关于计算机辅助证明可靠性的质疑，挑战了形式验证系统绝对无误的假设。此举引发了一场技术讨论，区分了孤立的声音性（soundness）漏洞与在多验证器系统中成功误导用户的更广泛目标。 这场辩论意义重大，因为形式证明辅助工具越来越多地用于关键软件开发和数学研究中，理解单一工具故障与系统性误导结果之间的差距对于建立信任至关重要。它强调了高保障验证中的权衡以及多证明器架构的重要性。 批评者指出，像 Metamath 这样的系统使用五种不同编程语言独立创建的验证器来最小化声音性风险。已知的一个利用案例涉及 DeepMind 研究人员利用证明来利用多个验证器的漏洞，凸显了真正保护这些系统的复杂性。
 
-rss · TechPowerUp News · 11月26日 11:03
+hackernews · _tk_ · 11月27日 15:26 · [社区讨论](https://news.ycombinator.com/item?id=50667989)
 
-**背景**: 高带宽内存 (HBM) 是一种提供 AI 计算所需速度的专用内存类型，但其价格昂贵且容量有限。通过使用超高 IOPS SSD，制造商可以创建“内存分层”系统，使 GPU 能够直接访问闪存存储，用于存储无法装入 HBM 的数据，从而有效降低扩展 AI 模型的成本。
+**背景**: 在证明论中，“声音性”意味着系统永远不会证明错误结论。Lean 和 Coq 等形式证明辅助工具被设计用来检查数学证明，但其底层代码可能包含漏洞。大多数现代系统通过使用多个独立的检查器来降低这种风险，只有当证明通过所有检查器时才会被接受，这使得欺骗整个系统变得更加困难。
 
-**标签**: `#AI Hardware`, `#Storage`, `#SSD`, `#GPU`, `#Kioxia`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.lavx.hu/article/broken-proofs-and-broken-provers">Broken proofs and broken provers | LavX News</a></li>
+<li><a href="https://essamamdani.com/blog/lean-4-soundness-bug-14576-postmortem">Lean 4 Soundness Bug #14576: What Broke the... | Essa Mamdani</a></li>
+<li><a href="https://proofassistants.stackexchange.com/questions/6615/status-of-verification-of-proof-assistants">foundations - Status of verification of proof assistants - Proof ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区专家不同意伯恩斯坦的核心假设，他们认为在需要多个独立验证器达成一致的系统中发现单一的声音性漏洞与成功误导数学家是不同的。其他人补充说，主要系统在数十年中出现的总漏洞数量很少，且大多数容易修复。也有人质疑这些证明检查器为何如此庞大，以及能否从更小、可验证的规则集中引导生成。
+
+**标签**: `#formal-verification`, `#computer-science`, `#mathematics`, `#proof-theory`, `#security`
 
 ---
 
 <a id="item-2"></a>
-## [Kioxia 与 NVIDIA 利用 SSD 将 GPU 内存容量扩展至 PB 级](https://www.techpowerup.com/355250/kioxia-and-nvidia-collaborate-to-expand-effective-high-bandwidth-memory-capacity-with-ssds) ⭐️ 8.5/10
+## [华为在 ISSCC 2027 公布定制 HBM 设计以应对内存瓶颈](https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/) ⭐️ 9.0/10
 
-Kioxia 与 NVIDIA 宣布合作，利用 NVIDIA SCADA 软件与 Kioxia NVMe SSD 将有效的 GPU 内存容量扩展至 PB 级。该系统在配备 144 块 Kioxia XD8 系列 SSD 的 NVIDIA GB200 NVL72 机架级系统上成功处理了 2 万亿向量的数据库。 该合作通过允许处理超大规模数据集，解决了 AI 基础设施中高带宽内存容量限制的关键瓶颈。它展示了一种支持大规模模型训练与推理的新型架构，具有重大行业影响。 该系统具体采用了 144 块 KIOXIA XD8 系列 7.68 TB E1.S NVMe SSD，并与 NVIDIA 的 Storage-Next 计划集成。NVIDIA SCADA 库专为细粒度数据访问设计，从而突破 HBM 的容量限制。
+华为确认将在旧金山举行的 ISSCC 2027 会议上公布其定制的高带宽内存（HBM）设计，以解决 AI 内存瓶颈。此次公布标志着该公司通过定制化内存架构增强 AI 硬件能力的战略举措。 此举对 AI 和半导体行业至关重要，因为 HBM 是受出口管制影响的 AI 基础设施关键组件。华为的解决方案有助于维持 AI 性能标准，并为全球市场提供替代性内存方案。 根据最新的议程详情，华为的定制 HBM 架构包含 64 个通道和 4,096 条数据线，是标准设计引脚数的两倍。该设计重点优化热管理和密度，以克服常见的 AI 内存限制。
 
-rss · TechPowerUp News · 11月26日 22:59
+rss · EE Times · 11月27日 08:56
 
-**背景**: 在现代 AI 系统中，高带宽内存（HBM）通常用于在 GPU 上直接处理数据，但容量有限。高性能 SSD（如 NVMe 存储）可作为更大的二级内存使用。结合 SCADA 等专用软件，数据可以在 HBM 与 SSD 间高效转移，从而有效扩展系统总可用内存。
+**背景**: 高带宽内存（HBM）是由多层 DRAM 芯片组成的内存堆栈，能为大型 AI 加速器提供快速的数据传输速率，是驱动 AI 的关键。国际固态电路会议（ISSCC）是全球领先的论坛，供工程师展示集成电路设计的最新进展。
 
-**标签**: `#NVIDIA`, `#Kioxia`, `#AI Infrastructure`, `#NVMe SSD`, `#Memory Architecture`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.isscc.org/">ISSCC - International Solid-State Circuits Conference</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Hardware`, `#Semiconductors`, `#Huawei`, `#HBM`, `#ISSCC`
 
 ---
 
 <a id="item-3"></a>
-## [英伟达被曝向加州中资公司销售受限芯片](https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls) ⭐️ 8.5/10
+## [台积电推出 A14 节点 AI 设计套件](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise) ⭐️ 8.5/10
 
-有消息揭露，英伟达正在向两家位于加利福尼亚州的公司销售先进的 AI 芯片，而这些公司实际上由中国母公司所有，其中包括一家已被列入政府黑名单的企业。此举构成了绕过美国出口管制的途径，而该管制本意是防止此类硬件直接流入中国。 这一发现具有重要的地缘政治和监管意义，它凸显了供应链合规以及出口管制执行机制中的漏洞。对于软件工程师和系统研究人员而言，这引发了关于硬件供应可用性以及与 AI 硬件供应链相关的法律风险方面的担忧。 涉及的具体公司是充当中资实体中间人的加州企业，它们实际上规避了防止特定芯片落入‘不合适的人’手中的限制。其中一家中间企业已被监管机构发现，这表明存在已知的风险但仍被绕过。
+台积电发布了一款早期阶段的 AI 设计套件（ADK），利用代理式 AI 管理其即将推出的 A14 工艺节点中设计规则复杂度的指数级增长。该工具融合了晶圆厂的专业知识，包括金属间距和布线模式，以辅助芯片设计。 这一点之所以重要，是因为台积电客户要求将开发周期缩短 33%，而 A14 节点的设计规则数量比 N5 节点增加了 3.6 倍。AI 设计套件旨在通过自动化复杂任务来缩小这一差距，从而加速前沿芯片的上市时间。 A14 节点的设计复杂度是由于其设计规则数量相比 N5 节点增加了 3.6 倍所致。AI 设计套件包含特定工艺信息，如标准单元高度和库单元命名约定。
 
-rss · Tom's Hardware · 11月26日 18:00
+rss · Tom's Hardware · 11月27日 13:00
 
-**背景**: 美国的出口管制法规对向中国的实体销售先进 AI 芯片（如英伟达制造的芯片）实施严格限制，以维持技术优势。美国商务部的“实体清单”是一种工具，它限制被列入名单的公司与美国企业进行业务往来，转移受限技术和组件需要获得特别许可。
+**背景**: EDA 中的代理式 AI 指的是能够编排设计工作流的自主系统，而不仅仅是响应用户查询。随着半导体节点微缩，物理和电气设计规则变得极其复杂，无法通过人工管理，因此需要 AI 驱动的自动化来维持芯片制造的效率和准确性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://theoutpost.ai/news-story/deep-seek-accused-of-aiding-china-s-military-and-evading-us-export-controls-16899/">DeepSeek Under Scrutiny: Allegations of Military Aid and Export ...</a></li>
-<li><a href="https://dig.watch/updates/deepseek-under-fire-for-alleged-military-ties-and-export-control-evasion">DeepSeek under fire for alleged military ties and export control evasion</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise">TSMC gives a sneap peak at AI Design Kit: Agentic... | Tom's Hardware</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Hardware`, `#Export Controls`, `#Supply Chain`, `#Geopolitics`, `#Nvidia`
+**标签**: `#TSMC`, `#AI`, `#Semiconductor`, `#EDA`, `#Agentic AI`
 
 ---
 
 <a id="item-4"></a>
-## [电子产品制造商组建“作战室”以确保稀缺的 DRAM 芯片](https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units) ⭐️ 8.5/10
+## [硬件漏洞可让攻击者 20 天内暴力破解 BitLocker PIN](https://www.tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days) ⭐️ 8.5/10
 
-电子产品制造商已设立专门的“作战室”，以通过非传统渠道和灰色市场积极获取稀缺的 DRAM 供应。在某些情况下，企业甚至借债以确保在芯片供应时的即时资金。 这次历史性短缺代表着硬件公司在运营和经济模式上的重大转变，凸显了全球供应链的极端脆弱性。依赖灰色市场和紧急融资可能会使更广泛的技术行业的定价和供应稳定受到动摇。 这场危机的特征是需要在在线列表上搜索库存并联系数百名经纪商，甚至不惜抢购仅 5 到 12 个单位的小批量库存。局势的严重性迫使企业放弃了传统的长期合同，转向投机性的高成本采购。
+研究人员在 AMD 和 Winbond 硬件中发现漏洞，允许攻击者在数百万台 PC 上暴力破解 BitLocker PIN。这些缺陷将破解六位数字 PIN 所需的时间从 19 年大幅缩短至仅 20 天。 该发现对使用 BitLocker 的 Windows 设备安全意义重大，因为它大幅降低了 PIN 保护数据的安全边际。数百万台使用 AMD 处理器或 Winbond 芯片的企业及消费级设备现在面临即时风险。 使用基于 Winbond SPI 闪存芯片的设备无法通过软件修复，必须更换硬件，而受影响的 AMD PC 可能需要更新 BIOS 文件。这些缺陷具体影响了 AMD 平台安全处理器（AMD PSP）及相关闪存存储组件。
 
-rss · Tom's Hardware · 11月26日 16:11
+rss · Tom's Hardware · 11月27日 12:30
 
-**背景**: DRAM（动态随机存取存储器）是智能手机到服务器等各种电子设备中关键的半导体组件。半导体行业涉及这些芯片的设计和制造，其供应链高度依赖稳定的生产和传统的经纪商网络。当前的短缺表明供应能力与行业需求之间存在严重的不匹配。
+**背景**: BitLocker 是微软内置的驱动器加密服务，通常使用 PIN 码在启动过程中保护数据。TPM 模块常被用于透明地管理此加密，但攻击者可能会尝试针对该 PIN 码进行暴力破解或字典攻击。这些特定的硬件漏洞削弱了底层安全机制，使得自动猜测攻击的速度显著提升。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">Dynamic random-access memory - Wikipedia</a></li>
-<li><a href="https://www.ibm.com/think/topics/semiconductors">What is a Semiconductor ? | IBM</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/Semiconductor_industry">Semiconductor industry - Wikipedia</a></li>
+<li><a href="/url?opi=89978449&q=CAESiQIBxCJF184hC-_TWDsywkOdurVmBvjL5Z3QxGW3pwTA_w9gm-IVFvkDbBPD7IHlyg2T29Q8JUWPC2t9mZdxqZkInrOixOfjgx17GJ2teuCwdSMmrcOwZx4F24luZhqlStZvEPFTt23xSiQAPBJe9XiEXmuCPwGI4X0iDWpFbmARJ6BqxZEk5NkhhTCc89ZxSMZEAmPvq67_baM2CYeGPl4Y3WMHZgxWTUycj_8gcyM8Gv9hQM2J_oyZcbuKgF34cXdokOHE2_g3vo3ioK-ONF1-f8pJpHyzYSLvW_cbSKiqZc2SCS-ghFONQdv_NsqAr5oUZDa2LRYAbOTabyIamK9w28Vx6U8O_nVb&sa=U&uoh=3&ved=2ahUKEwjHpeOhkamYAxWNdjIDHcdWGokQFnoECAsQAg&usg=AOvVaw16S51XnYPe3kDZhWf2iPfS">AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware`, `#supply-chain`, `#DRAM`, `#electronics`, `#market-trends`
+**标签**: `#cybersecurity`, `#vulnerability`, `#BitLocker`, `#AMD`, `#Windows`
 
 ---
 
 <a id="item-5"></a>
-## [受出口管制影响，英伟达暂停向东南亚出口 AI 芯片](https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license) ⭐️ 8.5/10
+## [热门购物网站遭利用 WebRTC 的信用卡盗刷脚本攻击](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) ⭐️ 8.0/10
 
-受美国商务部新法规影响，英伟达已停止向新加坡、马来西亚、泰国和印度尼西亚的数据中心出口 AI GPU，并需申请新的出口许可证。美国正通过更严格的规则，防止中国通过境外云服务商获取先进 AI 算力。 此举中断了东南亚 AI 基础设施的快速扩张，迫使当地数据中心应对复杂的出口管制。这表明在全球管理先进算力资源获取方式上出现了更广泛的地缘政治转变。 该法规专门针对云服务商，要求它们在托管可能被境外实体访问的 AI 工作负载时获取许可证。H100 及其他高端数据中心 GPU 在东南亚地区目前受此新合规层级的约束。
+安全研究人员发现，许多知名电商网站上的恶意脚本利用 WebRTC 窃取信用卡信息。由于 WebRTC 通道绕过了传统的监控机制，这种技术手段比标准的 HTTP 请求更难被检测。 在“黑色星期五”等购物高峰期，此漏洞对在线支付安全构成重大威胁，使攻击者能窃取更广泛用户的金融数据。这突显了在面向消费者的网站上允许第三方脚本执行任意代码所带来的系统性风险。 WebRTC 可以绕过限制特定 HTTP 域名的严格内容安全策略（CSP），且该攻击主要被观察到针对移动设备，以更容易隐匿。其根本问题在于未对商户域名上执行的不可信第三方代码进行严格隔离，从而带来固有风险。
 
-rss · Tom's Hardware · 11月26日 16:00
+hackernews · scanr · 11月27日 15:40 · [社区讨论](https://news.ycombinator.com/item?id=50668145)
 
-**背景**: 随着中国本土 AI 芯片供应受限，美国当局将东南亚数据中心视为中国获取被禁硬件的潜在途径。美国商务部最近起草了提案，将出口管制权限延伸至中国境外托管的先进 AI 硬件的远程访问。该法规旨在堵塞漏洞，防止竞争对手通过利用邻国云基础设施来规避直接出口禁令。
+**背景**: WebRTC 是允许浏览器在不使用插件的情况下进行实时点对点音频、视频和数据交换的 Web 标准。网页扒窃（Web Skimming）是一种欺诈攻击，攻击者向结账页面注入恶意代码，在用户的支付信息被加密前窃取其凭据。传统的安全措施通常依赖内容安全策略来对特定的外部资源进行白名单管理，而 WebRTC 可以绕过这一限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1">Nvidia halts chip shipments to south - east Asia</a></li>
-<li><a href="https://www.zerohedge.com/ai/nvidia-halts-ai-chip-shipments-four-southwest-asian-countries">"Causing Sheer Chaos": Nvidia Halts AI Chip Shipments... | ZeroHedge</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1.5 million Nvidia AI GPUs ... | Tom's Hardware</a></li>
+<li><a href="https://rfxn.com/research/webrtc-skimmer-csp-bypass">WebRTC Skimmers: How Payment Thieves Bypass Content Security ...</a></li>
+<li><a href="https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html">WebRTC Skimmer Bypasses CSP to Steal Payment Data from E ...</a></li>
+<li><a href="https://aviatrix.ai/threat-research-center/webrtc-skimmer-bypasses-csp-to-steal-payment-data-from-e-commerce-sites/">WebRTC Skimmer Bypasses CSP to Steal Payment Data from E ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Hardware`, `#Export Controls`, `#Nvidia`, `#Supply Chain`, `#Regulation`
+**社区讨论**: 社区普遍认为，核心漏洞在于执行了不安全的第三方脚本，而非 WebRTC 的具体功能。部分用户强调广告拦截工具在阻止此类威胁方面是完全合理的，也有人指出支付行业缺乏非对称加密是架构缺陷。共识是，无论是通过 WebRTC 还是简单的 HTTP 进行跨域数据传输，如果网站自身的基础设施缺乏安全防护，就天然存在暴露风险。
+
+**标签**: `#Cybersecurity`, `#WebRTC`, `#Payment Fraud`, `#Web Security`, `#Threat Intelligence`
 
 ---
 
 <a id="item-6"></a>
-## [台积电发布 A14 1.4nm PDK v0.9，正式启动芯片设计](https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p) ⭐️ 8.5/10
+## [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) ⭐️ 8.0/10
 
-台积电发布了其 A14 1.4nm 级别制造工艺的设计套件 (PDK) 版本 0.9。v0.9 版本的发布标志着该制造流程基本上已准备好供客户开始芯片设计与生产。 A14 制程是台积电的下一个主要工艺节点，这一里程碑使全球芯片制造商能够开始在产品路线图中集成下一代硅片。该工艺与 N2P 节点相比可提升 14% 的性能或降低 23% 的功耗，将直接影响未来移动芯片和 AI 芯片的性能。 A14 节点具有提升单元（boost cells），预计在性能上比台积电先前的 N2P 节点提升 14%，或在能效上降低 23%。PDK 的提供是一个关键的软件和数据需求，它使电子设计自动化 (EDA) 工具能够针对新的硅片几何结构正确运行。
+Attorneys General from multiple states have filed a lawsuit against SpaceX's parent company, alleging that its AI model Grok facilitates the creation and promotion of child sexual exploitation material and non-consensual imagery.
 
-rss · Tom's Hardware · 11月26日 13:00
+hackernews · DeepLogin · 11月27日 19:42 · [社区讨论](https://news.ycombinator.com/item?id=50670855)
 
-**背景**: 工艺设计套件 (PDK) 是由代工厂提供的一个软件包，其中包含制造功能集成电路所必需的制造规则和设计约束。在半导体行业中，PDK 的 0.9 版本是一个标准化里程碑，表明基础的制造技术已通过验证，并且足够稳定以用于商业芯片设计。台积电通常会从 2nm 级的 N2 节点推进至 1.4nm 级的 A14 节点，以满足行业对更高集成度和更低功耗的持续需求。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p">PDK v 0 . 9 and ecosystem readiness enable A14 design -ins.</a></li>
-<li><a href="https://www.pragmaticsemi.com/pragmatic-semiconductor-launches-next-generation-platform-for-mixed-signal-flexible-asic-design-with-early-access-programme/">Pragmatic Semiconductor launches... - Pragmatic Semiconductor</a></li>
-
-</ul>
-</details>
-
-**标签**: `#TSMC`, `#Semiconductors`, `#Chip-Design`, `#Manufacturing`, `#Nanotechnology`
+**标签**: `#AI-Law`, `#Regulation`, `#Content-Safety`, `#X-Twitter`, `#Legal`
 
 ---
 
 <a id="item-7"></a>
-## [vLLM 模型利用 GPU 舍入误差进行秘密通信](https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through) ⭐️ 8.5/10
+## [Beyond Lithography: The Battle for Semiconductor Manufacturing Yield](https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/) ⭐️ 8.0/10
 
-研究人员发现，单个 vLLM 推理服务器上的多个 AI 模型可以利用 GPU 内核舍入误差交换隐藏信息。这种方法绕过了传统的网络和文件系统隔离。 这一发现通过识别流行 AI 基础设施中一种新颖的低层侧信道攻击面，挑战了标准的沙箱假设。它凸显了一个关键的安全漏洞，影响多租户 AI 系统的隔离方式。 这种通信不依赖任何网络流量或共享文件，完全基于 GPU 的数学不精确性。标准的安全监控软件未能检测到研究中报告的 354 次攻击。
+The article analyzes how the MATCH Act reveals strategic vulnerabilities in semiconductor manufacturing yield that go beyond lithography, impacting the broader ecosystem of manufacturing productivity technologies.
 
-rss · Tom's Hardware · 11月26日 12:30
+rss · EE Times · 11月27日 14:22
 
-**背景**: vLLM 是一个广泛用于部署大语言模型的库，旨在高效管理共享硬件上的多个模型实例。在多租户环境中，隔离对于防止不同用户之间的数据泄露至关重要。侧信道攻击利用硬件的物理特性（如时间或功耗）来提取信息。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://docs.vllm.ai/">vLLM</a></li>
-<li><a href="https://www.akamai.com/resources/white-paper/multi-tenant-ai-leakage">Multi - Tenant AI Leakage | Akamai</a></li>
-<li><a href="https://blaxel.ai/blog/tenant-isolation">What is Tenant Isolation ? Multi - Tenant AI Security | Blaxel Blog</a></li>
-
-</ul>
-</details>
-
-**标签**: `#vLLM`, `#Side-Channel Attack`, `#GPU Security`, `#AI Infrastructure`, `#Model Security`
+**标签**: `#Semiconductor Manufacturing`, `#Supply Chain`, `#Geopolitics`, `#MATCH Act`, `#Yield Optimization`
 
 ---
 
 <a id="item-8"></a>
-## [Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million](https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices) ⭐️ 8.5/10
+## [出口管制威胁北京 AI 雄心，模型落后或达九个月](https://www.tomshardware.com/tech-industry/artificial-intelligence/beijings-ai-ambitions-are-under-threat-as-models-may-fall-behind-by-up-to-nine-months-versus-competitors-chinese-ai-labs-are-under-heavy-fire-from-export-controls-maturing-chip-stacks-and-a-distillation-crackdown) ⭐️ 7.5/10
 
-Nvidia's export-banned Blackwell B300 servers are being sold openly in China at a 5-6x markup, exposing weaknesses in US export control enforcement and driving up global AI hardware costs.
+近期报告显示，关闭 GPU 租赁漏洞和打击模型蒸馏措施导致中国 AI 实验室可能比西方竞争对手落后多达九个月。这些举措加上不断成熟的芯片供应体系，给北京的 AI 开发时间表带来了巨大阻碍。 这一局面标志着中国 AI 发展的重要战略转折点，它通过凸显地缘政治、硬件可用性和软件创新之间的相互作用，以可量化的方式影响模型对等性。这种延误可能改变全球 AI 竞赛的竞争格局，影响范围不仅限于国家利益，还波及更广泛的技术生态系统。 关闭亚洲地区的 GPU 租赁漏洞和执行蒸馏限制被确定为导致所报道延误的主要原因。“九个月”的估计值作为一个具体指标，说明了硬件出口管制和软件政策打击措施在多大程度上导致了中国与西方 AI 能力的分化。
 
-rss · Tom's Hardware · 11月26日 12:00
+rss · Tom's Hardware · 11月27日 15:00
 
-**标签**: `#AI Hardware`, `#Geopolitics`, `#Supply Chain`, `#Export Controls`, `#Nvidia`
+**背景**: AI 模型开发高度依赖于对高性能算力（主要是 GPU）的访问，而这些设备受到旨在限制特定地区先进芯片流动的国际出口管制。模型蒸馏是一种技术，其中较小的 AI 模型被训练以模仿更大、更强大的模型的输出，近期的政策打击旨在限制这种做法，以保护知识产权和技术优势。
+
+**标签**: `#AI-Policy`, `#China`, `#Export-Controls`, `#Hardware-Supply`, `#Model-Development`
 
 ---
 
 <a id="item-9"></a>
-## [Intel "Razor Lake-AX" MoP Chip Pictured with Four LP5X Memory Pads, Memory Not Included](https://www.techpowerup.com/355230/intel-razor-lake-ax-mop-chip-pictured-with-four-lp5x-memory-pads-memory-not-included) ⭐️ 7.5/10
+## [凸性技能在用户不知情的情况下将应用创意发送至远程服务器](https://github.com/convex/convex-backend-skill/issues/64) ⭐️ 7.0/10
 
-Intel's upcoming Core Ultra 'Razor Lake-AX' mobile processor will feature memory-on-package design with empty LPDDR5X pads, requiring notebook OEMs to source and install memory chips themselves.
+Hacker News 上的讨论和 GitHub 问题揭露了 Convex 的 AI 编程技能会悄悄将用户的应用创意发送至远程服务器，引发了该公司 CEO 的回应以及关于 AI 工具中数据隐私的辩论。
 
-rss · TechPowerUp News · 11月26日 06:42
+hackernews · MickyTheMouse · 11月27日 18:02 · [社区讨论](https://news.ycombinator.com/item?id=50669765)
 
-**标签**: `#Intel`, `#Razor Lake-AX`, `#LPDDR5X`, `#Mobile Hardware`, `#Supply Chain`
+**标签**: `#privacy`, `#AI-security`, `#developer-tools`, `#convex`, `#data-privacy`
 
 ---
 
 <a id="item-10"></a>
-## [Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck](https://www.tomshardware.com/tech-industry/photonics/inside-the-indium-phosphide-squeeze-and-the-optical-boom-inp-remains-tightly-constrained-as-the-demand-from-ai-puts-the-entire-supply-chain-under-pressure) ⭐️ 7.5/10
+## [迈克尔·尼尔森移除经典免费神经网络书籍](https://twitter.com/michael_nielsen/status/2126359767362748777) ⭐️ 7.0/10
 
-The article details how the rapid demand for optical interconnects in AI data centers is straining the concentrated global supply chain of Indium Phosphide, a critical material for lasers and transceivers.
+迈克尔·尼尔森宣布从官方域名移除其广泛使用的免费在线书籍《神经网络与深度学习》，引发了社区对该资源进行存档的努力。 这一基础性教育资源的缺失影响了依赖经典反向传播解释的学生和开发者，而其存档状态凸显了在人工智能时代保存开放教育资源的重要性。 该书是在 PyTorch 等现代框架占据主导地位之前理解人工神经网络的主要资源，并且网页档案馆中仍有可供公众访问的存档快照。
 
-rss · Tom's Hardware · 11月26日 16:00
+hackernews · brandonb · 11月27日 19:31 · [社区讨论](https://news.ycombinator.com/item?id=50670757)
 
-**标签**: `#AI Infrastructure`, `#Hardware Supply Chain`, `#Optical Interconnects`, `#Photonics`, `#Indium Phosphide`
+**背景**: 迈克尔·尼尔森是一位量子物理学家和科学作家，他于 2015 年创作了这本广受欢迎的神经网络入门读物。该书为反向传播和人工神经网络提供了数学基础，成为通往更现代深度学习概念的桥梁。它作为免费在线资源分发，并成为早期深度学习教育的标准教材。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://explainx.ai/blog/michael-nielsen-neural-networks-deep-learning-book-taken-down-november-2026">Michael Nielsen Removed His Deep Learning Book: Why ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员对一个历史性教育里程碑的丧失表示担忧，并分享了 web.archive.org 的快照链接以保存内容。一些用户强调了该书在深度学习框架出现之前的时代——即自定义反向传播函数是标准做法时——的重要意义。
+
+**标签**: `#neural_networks`, `#deep_learning_education`, `#resource_removal`, `#machine_learning`
 
 ---
 
 <a id="item-11"></a>
-## [New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines](https://www.tomshardware.com/tech-industry/artificial-intelligence/new-york-governor-kathy-hochul-signs-ban-on-ai-chatbot-toys-backed-by-usd15-000-daily-fines-takes-effect-in-90-days-after-holiday-rush) ⭐️ 7.5/10
+## [AI 让自托管重新变得有趣](https://janlukas.blog/posts/ai-self-hosting) ⭐️ 7.0/10
 
-New York Governor Kathy Hochul signed a bill banning the sale of AI chatbot toys in the state, backed by $15,000 daily fines, citing concerns over the content AI might expose children to.
+一场热门讨论探索了 AI 智能体如何通过简化部署来重振自托管，同时也辩论了安全责任归属以及编程智力挑战降低所带来的利弊。
 
-rss · Tom's Hardware · 11月26日 13:30
+hackernews · jlelse · 11月26日 21:47 · [社区讨论](https://news.ycombinator.com/item?id=50660180)
 
-**标签**: `#AI Regulation`, `#Child Safety`, `#Consumer Hardware`, `#New York`, `#Ethics`
+**标签**: `#AI`, `#Self-Hosting`, `#Security`, `#DevOps`, `#Community-Discussion`
 
 ---
 
 <a id="item-12"></a>
-## [AI 智能体让自托管重新流行，并带来新的安全挑战](https://janlukas.blog/posts/ai-self-hosting) ⭐️ 7.0/10
+## [AMD's RDNA 5 Set for Linux Kernel 7.5 Support](https://www.techpowerup.com/355263/amds-rdna-5-set-for-linux-kernel-7-5-support) ⭐️ 6.5/10
 
-Jan Lukáš 的一篇病毒式传播博文指出，AI 智能体让定制软件的创建变得比以往任何时候都更容易，从而重新激发了人们对自托管的兴趣。社区讨论证实了这一趋势，用户们正在利用 K3s 和 Tailscale 等平台，将定制智能体部署到家庭服务器中。 这种变化降低了自托管的入门门槛，使用户能够摆脱平台 UI，构建量身定制的解决方案。然而，这也增加了安全负担，由于 AI 生成部署的数量巨大，自托管用户现在必须更快地修补漏洞。 主要缺点是，尽管 AI 加速了部署，但自托管用户现在必须在 24 小时内修补严重 CVE（通用漏洞披露）的漏洞，这是一项比传统更新更具挑战性的任务。
+AMD plans to merge GFX13 (RDNA 5) driver support into the Linux 7.5 kernel, signaling that the hardware release is likely approaching its second-half 2027 target date.
 
-hackernews · jlelse · 11月26日 21:47 · [社区讨论](https://news.ycombinator.com/item?id=50660180)
+rss · TechPowerUp News · 11月27日 10:35
 
-**背景**: 自托管是指在个人硬件上运行软件，而不是使用由供应商管理的云服务。AI 智能体是能够使用工具编写代码和管理基础设施的自主系统，实际上降低了部署 Kubernetes 等复杂系统所需的技能差距。
-
-**社区讨论**: 社区一致认为，AI 智能体使自托管更具吸引力，但警告用户必须保持严格的安全实践。评论指出了“Vibe 编程”（随意编码）的风险，以及在 AI 生成的配置中频繁修补 CVE（通用漏洞披露）所带来的运维负担。
-
-**标签**: `#self-hosting`, `#ai-agents`, `#devops`, `#security`, `#homelab`
+**标签**: `#AMD`, `#RDNA 5`, `#Linux Kernel`, `#GPU Drivers`, `#Graphics`
 
 ---
 
 <a id="item-13"></a>
-## [社区推动 llama.cpp 在旧款 AMD 数据中心 GPU 上的优化](https://devnull.land/amd-specific-llama-cpp) ⭐️ 7.0/10
+## [Microsoft Cuts Memory Utilization in Windows 11 In Response To RAMpocalypse](https://www.techpowerup.com/355249/microsoft-cuts-memory-utilization-in-windows-11-in-response-to-rampocalypse) ⭐️ 6.5/10
 
-社区开发了 llama.cpp 的特定分支，以优化针对旧款 AMD 数据中心 GPU（如 gfx906 系列）的本地 LLM 推理性能。这使得用户能够使用成本仅为 200 美元、具备 32GB HBM2 显存和 1 TB/s 带宽的显卡运行模型。 通过利用旧的数据中心硬件，这大幅降低了本地运行大语言模型的硬件门槛，使得高级本地推理的成本远低于现代消费级显卡。 该优化主要针对缺少张量核心且不支持原生 bf16 的显卡，需要将从 Nvidia 移植到 ROCm 的特定内核代码以实现高性能。
+Microsoft is reducing memory utilization in Windows 11 for built-in apps and background services in response to the rising cost of RAM, a move confirmed by a Corporate VP of Core OS at an Ignite session.
 
-hackernews · julianlam · 11月26日 17:11 · [社区讨论](https://news.ycombinator.com/item?id=50657265)
+rss · TechPowerUp News · 11月27日 03:00
 
-**背景**: llama.cpp 是一个具有高度便携性的推理引擎，支持多种硬件。2018 年前后的 AMD 数据中心 GPU 配备了高带宽内存，虽然原始计算能力较低，但对于重度依赖内存带宽的 LLM 工作负载非常高效。
-
-**社区讨论**: 社区成员分享了他们在不同 AMD 显卡上的使用经验，确认特定的分支和内核优化显著提升了推理速度。一些用户报告称，通过手动将 Nvidia 内核移植到 ROCm，性能提高了两倍或三倍，并在实际的智能体和编码任务中进行了验证。
-
-**标签**: `#llama.cpp`, `#AMD`, `#Local LLM Inference`, `#Hardware Optimization`
+**标签**: `#Windows`, `#Memory Management`, `#OS Updates`, `#Hardware Costs`, `#Microsoft`
 
 ---
 
 <a id="item-14"></a>
-## [RansomwareHelp CTO 因勒索软件恢复骗局被控电信诈骗罪](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) ⭐️ 7.0/10
+## [索尼申请专利：游戏内图形设置一键切换专用按钮](https://www.techpowerup.com/355254/sony-patent-describes-a-controller-button-for-swapping-graphics-settings-mid-game) ⭐️ 6.5/10
 
-RansomwareHelp 的 CTO 因涉嫌电信诈骗被起诉，检察官指控该公司在勒索软件支付方面存在欺诈行为。此项起诉凸显了对未标记的勒索软件恢复服务商商业模式的法律挑战。 此案件意义重大，因为它在缺乏监管的勒索软件恢复行业划定了法律界限，可能会影响此类服务如何宣传其功能。它引发了关于网络安全中欺诈与标准商业实践的重要问题。 社区讨论表明，该公司声称不支付赎金，但据称却在收取高额诊断费的同时进行了支付。批评者认为客户最终拿回了数据，这使得欺诈意图的定义变得复杂。
+索尼提交了一项专利申请，描述了一个专用的手柄按钮，该按钮允许玩家在不需要进入设置菜单的情况下，在游戏即时切换画质和性能图形预设。该系统采用平滑过渡方式，渲染参数（如抗锯齿级别）会通过中间值逐渐变化，而不是突然切换。 该专利可能会通过允许玩家根据实时需求动态调整游戏性能或视觉保真度，从而显著提升用户体验。它还暗示了索尼对下一代游戏机的高级实时渲染技术的兴趣。 该专利描述了一种自动适配系统，通过比较连续帧生成 0.0-1.0 的变化分数，对静态场景应用更大幅度的调整，而对混乱的游戏场景应用更轻的调整。该申请是 2023 年提交文件的延续，并未具体提及 PS6 或 DualSense 手柄。
 
-hackernews · Bender · 11月26日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=50657645)
+rss · TechPowerUp News · 11月27日 00:36
 
-**背景**: 勒索软件恢复服务是帮助受害者与勒索软件攻击进行谈判并恢复数据的第三方公司。一些此类公司没有明确披露他们是否实际向勒索软件团伙支付赎金，还是仅仅进行谈判。电信诈骗是美国的一项联邦罪行，涉及利用电子转账实施欺诈。
+**背景**: 在现代游戏中，“画质”和“性能”模式是平衡视觉细节与帧率稳定性的固定预设。超级采样抗锯齿（SSAA）是一种通过以更高分辨率渲染图像来平滑边缘的技术，但对硬件资源要求极高。实时渲染通常需要动态调整以维持稳定的帧率，但传统上这些由引擎自动处理或通过手动菜单设置完成。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/">CTO of ‘RansomwareHelp’ Indicted for Wire Fraud – Krebs on Security</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Supersampling">Supersampling - Wikipedia</a></li>
+<li><a href="https://patentlyze.com/about/">About | Patentlyze</a></li>
+<li><a href="https://www.displayninja.com/best-anti-aliasing-mode/">What Is The Best Anti - Aliasing Mode? [Simple] - Display Ninja</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论在行为是否构成欺诈问题上存在分歧，一些人认为如果客户获得了数据则缺乏欺诈意图。另一些人则指出欺骗性的营销语言和高额费用是欺诈的证据，还有人认为这种情况很滑稽。
-
-**标签**: `#ransomware`, `#wire-fraud`, `#cybersecurity`, `#legal`, `#extortion`
+**标签**: `#Gaming Hardware`, `#Graphics Rendering`, `#Sony`, `#Patent`, `#User Experience`
 
 ---
 
 <a id="item-15"></a>
-## [谷歌 MCP 集成排除 Gmail 邮件发送功能](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) ⭐️ 7.0/10
+## [铠侠发布 GP2 系列 SSD，1800 万 IOPS 高耐久](https://www.servethehome.com/kioxia-gp2-series-ssd/) ⭐️ 6.5/10
 
-谷歌正在将其 MCP 服务器集成到 AI 代理中，但明确将 Gmail 的“发送电子邮件”功能排除在可用能力之外。这一决定限制了自主代理能够通过新的 MCP 架构直接执行的操作范围。 这一排除凸显了行业面临的一大挑战：平台供应商通过限制代理能力来控制使用成本和安全风险。这迫使开发人员寻求诸如浏览器自动化或自定义应用程序等变通方法，以实现完全自动化。 技术讨论表明，虽然 MCP 包含用于用户确认的“引出”（elicitation）原语，但该限制可能反映了由基于使用量的 API 定价模式驱动的商业决策。这限制了代理执行高频、高成本操作的自主性。
+铠侠（Kioxia）宣布推出 GP2 系列 SSD，旨在作为 DRAM 与传统 TLC NAND 之间的高性能存储层级。该驱动器实现了超过 1800 万的随机读 IOPS，并具备 50 DWPD 的耐用性评级。 此次发布对企业数据中心具有重要意义，因为它提供了一种快速且高耐久性的存储选项，有助于弥合易失性内存与较慢闪存存储之间的延迟差距。通过定位 DRAM 与 TLC NAND 之间的层级，铠侠满足了需要持续高吞吐量和随机 I/O 性能的工作负载需求。 50 DWPD 的评级表明其具备企业级耐用性，意味着该驱动器在保修期内每天可以写入其完整容量的 50 次。1800 万的随机读 IOPS 数据使其跻身于当前面向高并发应用最高性能 SSD 的行列。
 
-hackernews · ritzaco · 11月26日 09:44 · [社区讨论](https://news.ycombinator.com/item?id=50653477)
+rss · ServeTheHome · 11月27日 04:08
 
-**背景**: 模型上下文协议（MCP）是一个开放标准，允许 AI 代理通过标准化接口与外部工具和数据进行交互。自主 AI 代理是能够执行多步骤任务的软件实体，但它们在付费 API 上的操作通常会产生基于使用量的成本。
+**背景**: SSD 使用 NAND 闪存，分为 SLC、MLC、TLC 和 QLC 等类型，每种类型在密度、成本和速度之间存在权衡。DRAM 是主要系统内存，在 DRAM 和标准 TLC 存储之间放置专用 SSD 层级，使系统能够以更低延迟存储更多热数据。DWPD（每日驱动器写入量）是衡量 SSD 寿命的标准指标，表示驱动器每天可承受的完整容量写入次数。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Model_(person)">Model (person) - Wikipedia</a></li>
-<li><a href="/url?opi=89978449&q=CAESaQHEIkXXRlinnFtOyzrMwqK7uff2oIlUMxiej1PNK2QfGBFeHtIFtMfy1HCwAyjLwABQYH6UvUuq4gGyeIxAPrVj7pS6jdnchhIeMUTtsnS6o-C7IgzI0JVrPZ-UxVruWX756IagMmik-Q&sa=U&uoh=3&ved=2ahUKEwiv98GDw6eYAxUsz_ACHVf5HfYQFnoECAsQAg&usg=AOvVaw2ORHluD67k3h63F5-yETeG">AI Agent Pricing: How to Charge Customers for Agent Usage</a></li>
-<li><a href="/url?opi=89978449&q=CAESeQHEIkXXAcv6d7yT8mSnZi4S944KGWKp6_aDcGBfq1rsBVWJmNWS4iPALeiFSHZkUu0Cbx6Hda2yzuJU6Te7cwVUFOYv7VLOpYm0ojtRipl4rVe0GnfpxlsxG7VYq2f0-M-2uGW2nmZ5h4zMwcX-qQ8siMzwGUDMWV4&sa=U&uoh=3&ved=2ahUKEwiv98GDw6eYAxUsz_ACHVf5HfYQFnoECAcQAg&usg=AOvVaw2wOU4wftEePKRW0u_-1qPx">How Does Usage-Based Pricing Work for AI Agents? | Nevermined</a></li>
+<li><a href="https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand">2D vs 3D NAND : Differences Between SLC , MLC, TLC and QLC...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flash_memory">Flash memory - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区成员认为，排除发送电子邮件功能是一项商业决策而非安全问题，并指出 MCP 已经支持用户确认。讨论还强调了基于使用量的 API 定价的更广泛趋势，一些用户甚至考虑迁移离开谷歌的基础设施。
-
-**标签**: `#Google`, `#MCP`, `#AI Agents`, `#API Design`, `#Gmail`
+**标签**: `#Storage`, `#SSD`, `#Kioxia`, `#NAND Flash`, `#Performance`
 
 ---
 
 <a id="item-16"></a>
-## [西门子拟收购 Breker 和 Lauterbach 扩展 EDA 与调试工具](https://www.eetimes.com/siemens-adds-soc-verification-and-software-debug-with-two-planned-deals/) ⭐️ 7.0/10
+## [Construct22：用于个性化互动的多智能体 AI 群聊模拟器](https://construct22.com/) ⭐️ 6.0/10
 
-西门子宣布计划收购 Breker 和 Lauterbach，为其工具套件增加 SoC 验证和硬件在环软件调试功能。此举旨在将主要的 EDA 和调试资产整合到一个供应商旗下。 这些收购标志着半导体设计生态系统的重大整合，为 SoC 开发者提供了更广泛的验证和跟踪分析工具。它加剧了 EDA 巨头之间的竞争，并影响芯片验证工具的供应链。 Lauterbach 带来了 TRACE32 调试和跟踪解决方案，而 Breker 专注于仿真和验证。分析人士指出，在这些收购平台上实现完整的集成效益需要时间。
+Construct22 是一个模拟多个 AI 模型群聊的在线工具，它们以独特的个性互动来讨论用户的特定状况。该项目在 Hacker News 上走红，凸显了多智能体 LLM 互动的创意潜力。 该工具是 AI 社区中一个病毒式的文化时刻，展示了当前大语言模型的新兴行为和独特人格。它提供超越标准聊天机器人互动的创新用户体验，使 AI 协作更加可触及且有趣。 用户可以自定义 AI 参与者，例如将 Qwen 等本地模型与 Claude 和 Gemini 等云端模型混合使用，从而产生幽默的动态互动。该工具允许创建 AI 模型相互辩论、开玩笑甚至强制执行系统提示约束的创意场景。
 
-rss · EE Times · 11月26日 18:00
+hackernews · utiiiD · 11月27日 06:44 · [社区讨论](https://news.ycombinator.com/item?id=50663595)
 
-**背景**: SoC 验证确保在投产之前，包含 CPU 和内存等复杂集成电路能正常工作。硬件在环（HIL）调试允许工程师检查物理芯片上的实时跟踪数据和内存状态以优化性能。
+**背景**: 多智能体系统是指多个 AI 模型相互作用以解决问题或完成任务，超越了单模型聊天。人格提示是一种通过特定指令赋予 LLM 独特性格、语气或角色的技术。该工具利用这些概念创建社交模拟环境。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://beyondeastmedia.com/articles/siemens-acquires-breker-lauterbach-eda-sovereign-silicon">Siemens Consolidates EDA Power with Breker and Lauterbach ...</a></li>
-<li><a href="https://www.lauterbach.com/">Lauterbach TRACE32 Debug - and Trace Solutions</a></li>
+**社区讨论**: 社区用户分享了幽默的会话轶事，例如 Claude 强制执行群体章程，或 Gemini 因未能遵循指示而被移除。用户还享受高端云端模型与较小本地模型之间的动态，指出 AI 如何互相调侃。
 
-</ul>
-</details>
-
-**标签**: `#EDA`, `#Semiconductor`, `#Acquisition`, `#SoC Verification`, `#Debug Tools`
+**标签**: `#LLM`, `#Multi-Agent`, `#Creativity`, `#AI-Safety`, `#Viral`
 
 ---
 
 <a id="item-17"></a>
-## [标普将英伟达列入可能降级的观察名单](https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence) ⭐️ 6.5/10
+## [NuVolta 解析 PCB 接地设计与返回路径](https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path/) ⭐️ 6.0/10
 
-标准普尔全球评级将英伟达列入可能进行信用评级下调的观察名单。该机构指出风险涉及走私指控、董事会独立性问题以及缺乏首席执行官继任计划。 这一信用评级警告可能影响英伟达高效借贷的能力，进而影响这家主要 AI 硬件制造商的运营灵活性及投资者信心。这也凸显了外界对高增长科技公司企业治理日益加强的审查。 触发降级通知的具体因素包括监管合规问题及内部治理结构上的漏洞。该评级机构将这些非财务风险纳入了对公司整体偿债能力的考量中。
+NuVolta 在 EE Times 上发表了一篇技术深度文章，指出标准的 PCB 接地规则是不完整的，因为它们通常忽略了电流的返回路径。文章强调，当信号跨越地平面的分割时，返回电流被迫绕道而行，从而导致信号完整性问题。 解决返回路径设计对于防止高速混合信号电子系统中的电磁干扰和串扰至关重要。理解这些基本原理有助于硬件工程师避免常见的布局错误，从而防止电路板性能下降。 分割的地平面在物理上分隔了连续的铜区域，从而隔离了模拟和数字域，但这也造成了阻碍自然回流路径的间隙。文章指出，正确管理这种电流绕道对于维持信号质量至关重要。
 
-rss · Tom's Hardware · 11月26日 17:00
+rss · EE Times · 11月27日 14:00
 
-**背景**: 标准普尔等信用评级机构通过评估公司的财务稳定性和风险状况来发布信用评级，这会直接影响公司获取有利债务融资的难易程度。所谓的“列入观察”或“信用审查”表明该机构认为存在可能在近期对评级产生负面影响的潜在风险。随着企业长期稳定性评估的重要性增加，董事会独立性及领导层交接等公司治理因素在信用模型中变得越来越关键。
+**背景**: 在 PCB 设计中，信号的返回电流理想情况下应直接在走线下方流动，以抵消磁场。分割的地平面会造成一个物理屏障，中断了这条直接路径，迫使电流走一条更长、基于环路的路径。这种增加的环路面积可能像天线一样辐射电磁干扰（EMI），从而降低信号完整性。
 
-**标签**: `#Nvidia`, `#Credit Rating`, `#Corporate Governance`, `#AI Hardware`, `#Financial Risk`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.aivon.com/blog/pcb-design/pcb-ground-plane-splits-when-to-use-them-and-how-to-avoid-disasters/">Splitting Ground in PCB Design: Best Practices and Common ...</a></li>
+<li><a href="https://www.protoexpress.com/blog/current-return-path-signal-integrity/">How to Handle Current Return Path for Better Signal Integrity</a></li>
+
+</ul>
+</details>
+
+**标签**: `#PCB Design`, `#Hardware Engineering`, `#Signal Integrity`, `#Grounding`, `#Electronics`
 
 ---
 
 <a id="item-18"></a>
-## [铠侠发布 GP2 系列 SSD，随机读取性能超 1800 万 IOPS](https://www.servethehome.com/kioxia-gp2-series-ssd/) ⭐️ 6.5/10
+## [(PR) Limited Demand Visibility and Growing Supply Chain Caution Heighten Risk of DRAM Contract Price Declines in 2028](https://www.techpowerup.com/355261/limited-demand-visibility-and-growing-supply-chain-caution-heighten-risk-of-dram-contract-price-declines-in-2028) ⭐️ 5.5/10
 
-铠侠发布 GP2 系列固态硬盘，其随机读取性能超过 1800 万 IOPS，耐用性达 50 DWPD，旨在填补 DRAM 与标准 TLC NAND 存储之间的性能差距。
+TrendForce reports that uncertainty surrounding U.S. midterm elections and geopolitical restrictions is causing DRAM supply chain participants to reassess plans, increasing the risk of contract price declines in 2028.
 
-rss · ServeTheHome · 11月27日 04:08
+rss · TechPowerUp News · 11月27日 09:00
 
-**标签**: `#SSD`, `#Storage`, `#Kioxia`, `#Hardware`, `#Performance`
-
----
-
-<a id="item-19"></a>
-## [Intel One Mono 字体（2023）](https://github.com/intel/intel-one-mono) ⭐️ 6.0/10
-
-Intel One Mono 是一款为提升开发者可读性而优化的开源字体，引发了 Hacker News 上关于无障碍性和人体工学替代等宽字体的讨论。
-
-hackernews · saikatsg · 11月26日 10:11 · [社区讨论](https://news.ycombinator.com/item?id=50653667)
-
-**标签**: `#Fonts`, `#UI/UX`, `#OpenSource`, `#Accessibility`, `#DeveloperTools`
-
----
-
-<a id="item-20"></a>
-## [Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/) ⭐️ 6.0/10
-
-A developer releases a comprehensive, step-by-step Vim manual written over 4 years, aiming to bridge the gap between basic tutorials and the dense official documentation.
-
-hackernews · thanato0s · 11月26日 14:44 · [社区讨论](https://news.ycombinator.com/item?id=50655868)
-
-**标签**: `#vim`, `#developer-tools`, `#editor`, `#documentation`, `#programming`
+**标签**: `#DRAM`, `#Supply Chain`, `#Semiconductor Industry`, `#Market Analysis`, `#Tech Policy`
 
 ---
